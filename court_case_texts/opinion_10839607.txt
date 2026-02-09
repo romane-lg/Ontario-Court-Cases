@@ -1,0 +1,839 @@
+Cite as: 604 U. S. ____ (2025)            1
+
+                          Per Curiam
+
+SUPREME COURT OF THE UNITED STATES
+                         _________________
+
+                          No. 24A910
+                         _________________
+
+
+       DEPARTMENT OF EDUCATION, ET AL. v.
+              CALIFORNIA, ET AL.
+  ON APPLICATION TO VACATE THE ORDER ISSUED BY THE
+  UNITED STATES DISTRICT COURT FOR THE DISTRICT OF
+                   MASSACHUSETTS
+                        [April 4, 2025]
+
+   PER CURIAM.
+   On March 10, 2025, the United States District Court for
+the District of Massachusetts issued what it styled as a
+temporary restraining order (TRO) enjoining the Govern-
+ment from terminating various education-related grants.
+The order also requires the Government to pay out past-due
+grant obligations and to continue paying obligations as they
+accrue. The District Court’s conclusion rested on a finding
+that respondents are likely to succeed on the merits of their
+claims under the Administrative Procedure Act (APA), 60
+Stat. 237. On March 26, the Government filed this applica-
+tion to vacate the District Court’s March 10 order (as ex-
+tended on March 24) and requested an immediate adminis-
+trative stay. The application was presented to JUSTICE
+JACKSON and by her referred to the Court.
+   Although the Courts of Appeals generally lack appellate
+jurisdiction over appeals from TROs, several factors counsel
+in favor of construing the District Court’s order as an ap-
+pealable preliminary injunction. Among other considera-
+tions, the District Court’s order carries many of the hall-
+marks of a preliminary injunction. See Sampson v. Murray,
+415 U. S. 61, 87 (1974); Abbott v. Perez, 585 U. S. 579, 594
+(2018). Moreover, the District Court’s “basis for issuing the
+order [is] strongly challenged,” as the Government is likely
+2       DEPARTMENT OF EDUCATION v. CALIFORNIA
+
+                          Per Curiam
+
+to succeed in showing the District Court lacked jurisdiction
+to order the payment of money under the APA. Sampson,
+415 U. S., at 87. The APA’s waiver of sovereign immunity
+does not apply “if any other statute that grants consent to
+suit expressly or impliedly forbids the relief which is
+sought.” 5 U. S. C. §702. Nor does the waiver apply to
+claims seeking “money damages.” Ibid. True, a district
+court’s jurisdiction “is not barred by the possibility” that an
+order setting aside an agency’s action may result in the dis-
+bursement of funds. Bowen v. Massachusetts, 487 U. S.
+879, 910 (1988). But, as we have recognized, the APA’s lim-
+ited waiver of immunity does not extend to orders “to en-
+force a contractual obligation to pay money” along the lines
+of what the District Court ordered here. Great-West Life &
+Annuity Ins. Co. v. Knudson, 534 U. S. 204, 212 (2002). In-
+stead, the Tucker Act grants the Court of Federal Claims
+jurisdiction over suits based on “any express or implied con-
+tract with the United States.” 28 U. S. C. §1491(a)(1).
+   As for the remaining stay factors, respondents have not
+refuted the Government’s representation that it is unlikely
+to recover the grant funds once they are disbursed. No
+grantee “promised to return withdrawn funds should its
+grant termination be reinstated,” and the District Court de-
+clined to impose bond. App. to Application To Vacate Order
+15a, 17a. By contrast, the Government compellingly argues
+that respondents would not suffer irreparable harm while
+the TRO is stayed. Respondents have represented in this
+litigation that they have the financial wherewithal to keep
+their programs running. So, if respondents ultimately pre-
+vail, they can recover any wrongfully withheld funds
+through suit in an appropriate forum. And if respondents
+instead decline to keep the programs operating, then any
+ensuing irreparable harm would be of their own making.
+“Such self-imposed costs are not properly the subject of in-
+quiry on a motion for stay.” Cuomo v. NRC, 772 F. 2d 972,
+977 (CADC 1985) (per curiam).
+                   Cite as: 604 U. S. ____ (2025)                  3
+
+                            Per Curiam
+
+   We construe the application as seeking a stay pending
+appeal and grant the application. The March 10, 2025 or-
+der and March 24, 2025 extension of the United States Dis-
+trict Court for the District of Massachusetts, case No. 1:25–
+cv–10548, is stayed pending the disposition of the appeal in
+the United States Court of Appeals for the First Circuit and
+disposition of a petition for a writ of certiorari, if such a writ
+is timely sought. Should certiorari be denied, this stay shall
+terminate automatically. In the event certiorari is granted,
+the stay shall terminate upon the sending down of the judg-
+ment of this Court.
+
+                                                    It is so ordered.
+
+  THE CHIEF JUSTICE would deny the application.
+                 Cite as: 604 U. S. ____ (2024)           1
+
+                     KAGAN, J., dissenting
+
+SUPREME COURT OF THE UNITED STATES
+                         _________________
+
+                          No. 24A910
+                         _________________
+
+
+       DEPARTMENT OF EDUCATION, ET AL. v.
+              CALIFORNIA, ET AL.
+  ON APPLICATION TO VACATE THE ORDER ISSUED BY THE
+  UNITED STATES DISTRICT COURT FOR THE DISTRICT OF
+                   MASSACHUSETTS
+                        [April 4, 2025]
+
+   JUSTICE KAGAN, dissenting.
+   It is a mistake for the Court to grant this emergency ap-
+plication. Nowhere in its papers does the Government de-
+fend the legality of canceling the education grants at issue
+here. And contra the per curiam, the respondent States
+have consistently represented that the loss of these grants
+will force them—indeed, has already forced them—to cur-
+tail teacher training programs. See, e.g., Brief in Opposi-
+tion to Application 39–40; App. to Application To Vacate Or-
+der 7a–8a, 34a–35a. The remaining issue is whether this
+suit, brought under the Administrative Procedure Act
+(APA), belongs in an ordinary district court or the Court of
+Federal Claims. As the Court acknowledges, the general
+rule is that APA actions go to district courts, even when a
+remedial order “may result in the disbursement of funds.”
+Ante, at 2 (citing Bowen v. Massachusetts, 487 U. S. 879,
+910 (1988)). To support a different result here, the Court
+relies exclusively on Great-West Life & Annuity Ins. Co. v.
+Knudson, 534 U. S. 204 (2002). But Great-West was not
+brought under the APA, as the Court took care to note. See
+id., at 212 (distinguishing Bowen for that reason). So the
+Court’s reasoning is at the least under-developed, and very
+possibly wrong.
+   The risk of error increases when this Court decides
+2       DEPARTMENT OF EDUCATION v. CALIFORNIA
+
+                    KAGAN, J., dissenting
+
+cases—as here—with barebones briefing, no argument, and
+scarce time for reflection. Sometimes, the Court must act
+in that way despite the risk. And there will of course be
+good-faith disagreements about when that is called for. But
+in my view, nothing about this case demanded our immedi-
+ate intervention. Rather than make new law on our emer-
+gency docket, we should have allowed the dispute to pro-
+ceed in the ordinary way. I respectfully dissent.
+                  Cite as: 604 U. S. ____ (2025)            1
+
+                     JACKSON, J., dissenting
+
+SUPREME COURT OF THE UNITED STATES
+                          _________________
+
+                           No. 24A910
+                          _________________
+
+
+       DEPARTMENT OF EDUCATION, ET AL. v.
+              CALIFORNIA, ET AL.
+  ON APPLICATION TO VACATE THE ORDER ISSUED BY THE
+  UNITED STATES DISTRICT COURT FOR THE DISTRICT OF
+                   MASSACHUSETTS
+                         [April 4, 2025]
+
+   JUSTICE JACKSON, with whom JUSTICE SOTOMAYOR joins,
+dissenting.
+   This application concerns the Department of Education’s
+decision to cancel, with no meaningful explanation, more
+than 100 grants the Federal Government had previously
+awarded to public schools and universities across the coun-
+try. The District Court issued a temporary restraining or-
+der (TRO) finding that the Department’s decision was likely
+unlawful and pausing the grant cancellations while the
+court considers a pending motion for a preliminary injunc-
+tion. The TRO expires in three days, and it will become
+moot even earlier if the District Court rules on the prelimi-
+nary-injunction motion this week.
+   With the TRO on its last legs, a majority of this Court has
+chosen to dive into this dispute today, allowing the Depart-
+ment to implement immediately its new summary grant-
+termination policy. It does so even though the TRO preserves
+the pretermination status quo and causes zero concrete
+harm to the Government. By contrast, reinstating the chal-
+lenged grant-termination policy will inflict significant harm
+on grantees—a fact that the Government barely contests.
+Worse still, the Government does not even deign to defend
+the lawfulness of its actions. Instead, it asks us to superin-
+tend the lower courts’ real-time decisions about ancillary
+2       DEPARTMENT OF EDUCATION v. CALIFORNIA
+
+                     JACKSON, J., dissenting
+
+threshold and remedial questions, which we could easily
+wait to address in the ordinary course.
+   It is beyond puzzling that a majority of Justices conceive
+of the Government’s application as an emergency. It is like-
+wise baffling that anyone is persuaded that the equities fa-
+vor the Government when the Government does not even
+argue that the lower courts erred in concluding that it likely
+behaved unlawfully. This application should have been de-
+nied for numerous obvious and independent reasons, and
+the Court does itself—and the legal process—no favors in
+deciding to grant it.
+                               I
+                               A
+   To address a nationwide shortage of qualified teachers,
+Congress has enacted several competitive grant programs
+that facilitate the recruitment, training, and support of ed-
+ucators. This application concerns the Department’s recent
+efforts to terminate grants that were awarded under two
+such programs: the Teacher Quality Partnership (TQP) pro-
+gram and the Supporting Effective Educator Development
+(SEED) program.
+   Congress established the TQP program in 2008, author-
+izing the Department to award grants to high-need educa-
+tional agencies and schools for the purpose of training
+teachers. 20 U. S. C. §§1021(6), 1022a(a), 1022a(c)(1),
+1022h. In the statute that creates this program, Congress
+made plain its intent to (1) “improve student achievement,”
+(2) “improve the quality of . . . teachers,” (3) “hold teacher
+preparation programs at institutions of higher education
+accountable,” and (4) “recruit highly qualified individuals,
+including minorities and individuals from other occupa-
+tions, into the teaching force.” §1022.
+   By statute, the Department awards each TQP grant
+based on a peer-review process “for a period of five years.”
+§§1022b(a), (b)(3). Similarly, under the SEED program,
+                  Cite as: 604 U. S. ____ (2025)              3
+
+                     JACKSON, J., dissenting
+
+Congress has mandated that the Department “shall award
+grants” to institutions of higher education and nonprofit en-
+tities that provide certain education-related services, in-
+cluding “evidence-based professional development activi-
+ties” for teachers. §§6672(a)(2), (f ). Congress dictated that
+SEED grants “shall be” awarded for up to a 3-year period,
+subject to a possible 2-year extension. §§6672(b)(1)–(2).
+   On February 5, 2025, the Acting Secretary of Education is-
+sued an internal directive requiring Department personnel
+to review “ ‘issued grants’ ” to “ ‘ensur[e] that Department
+grants do not fund discriminatory practices’ ” that are “ ‘con-
+trary to law or to the Department’s policy objectives’ ” and
+that “ ‘all grants are free from fraud, abuse, and duplica-
+tion.’ ” App. to Application To Vacate Order 12a (App.). The
+directive expressly extends to “ ‘practices . . . in the form of
+[diversity, equity, and inclusion (“DEI”)].’ ” Ibid. (alteration
+in original).
+   Two days later, TQP and SEED grant recipients began to
+receive letters from the Department announcing the termi-
+nation of their grant awards. The letters were identical,
+save for differences in the addressees, grant-award num-
+bers, and termination dates. Each letter included a single
+paragraph regarding the Department’s justification for the
+grant termination, which stated, in full, as follows:
+    “ ‘The grant specified above provides funding for pro-
+    grams that promote or take part in DEI initiatives or
+    other initiatives that unlawfully discriminate on the
+    basis of race, color, religion, sex, national origin, or an-
+    other protected characteristic; that violate either the
+    letter or purpose of Federal civil rights law; that con-
+    flict with the Department’s policy of prioritizing merit,
+    fairness, and excellence in education; that are not free
+    from fraud, abuse, or duplication; or that otherwise fail
+    to serve the best interests of the United States. The
+4       DEPARTMENT OF EDUCATION v. CALIFORNIA
+
+                     JACKSON, J., dissenting
+
+    grant is therefore inconsistent with, and no longer ef-
+    fectuates, Department priorities. See 2 C.F.R.
+    §200.340(a)(4); see also 34 C.F.R. §75.253. Therefore,
+    pursuant to, among other authorities, 2 C.F.R.
+    §200.339–43, 34 C.F.R. §75.253, and the termination
+    provisions in your grant award, the Department hereby
+    terminates grant No. [grant award number] in its en-
+    tirety effective [date of letter].’ ” Complaint in No. 25–
+    cv–10548 (D Mass.), ECF Doc. 1, p. 35 (alterations in
+    original).
+Most grantees also received revised grant-award notifica-
+tion letters stating solely that their grants had been
+“deemed to be inconsistent with, and no longer effectuat[e],
+Department priorities. See 2 C.F.R. 200.340(a)(4); see also
+34 C.F.R. 75.253.” Id., at 36–37.
+                             B
+   On March 6, 2025, eight States sued the Department in
+the District of Massachusetts, claiming that this mass,
+summary termination of TQP and SEED grants was arbi-
+trary and capricious, and not in accordance with law, in vi-
+olation of the Administrative Procedure Act (APA).
+5 U. S. C. §706(2)(A). The Plaintiff States alleged that, as
+a result of the grant terminations, their public universities,
+schools, and other institutions “now face abrupt shortfalls
+to their current year budgets collectively exceeding ten mil-
+lion dollars.” ECF Doc. 1, at 41. As relevant, the Plaintiff
+States sought declaratory and injunctive relief to set aside
+the termination of the previously awarded grants. They
+also sought a TRO to immediately block termination of the
+grants.
+   After holding a 2-hour hearing, the District Court issued
+a TRO on March 10. The order “restore[d] Plaintiff States
+to the pre-existing status quo prior to the termination un-
+der all previously awarded TQP or SEED grants for recipi-
+                  Cite as: 604 U. S. ____ (2025)            5
+
+                     JACKSON, J., dissenting
+
+ents in Plaintiff States,” and “temporarily enjoined” the De-
+partment from terminating any previously awarded or in-
+dividual TQP or SEED grants for recipients in Plaintiff
+States. ___ F. Supp. 3d ___, ___–___ (Mass. 2025), App. 9a–
+10a. The order also contained an exception permitting the
+Department to make individual grant terminations con-
+sistent with applicable law and regulations.
+   By its terms, the TRO was “effective immediately” and
+would “remain in effect for 14 days,” until March 24. Id., at
+10a. The District Court then separately construed the
+Plaintiff States’ TRO motion as a motion for a preliminary
+injunction and set that motion for a hearing on March 28.
+The District Court subsequently extended the TRO for an
+additional 14 days, until April 7, while also expressing its
+“intent that the TRO be temporary and short.” ECF Doc.
+79.
+   Seeking to enforce its termination decisions during the
+period in which the TRO remained in effect, the Govern-
+ment requested a stay pending appeal. The District Court
+denied the request, as did a unanimous panel of the First
+Circuit. The First Circuit panel assumed without deciding
+that it had jurisdiction to review the TRO and made several
+determinations, including: that the States were likely to
+succeed on the merits of their claim that the Department’s
+termination of the grants was arbitrary and capricious; that
+the Government’s assertions of irreparable harm consisted
+of “speculation and hyperbole”; and that the equitable stay
+factors cut against the Government. ___ F. 4th ___, ___–___
+(2025), App. 24a–35a. The Government then turned to us
+for an emergency stay.
+                              II
+   First and foremost, the Government’s application should
+have been swiftly denied because this Court lacks jurisdic-
+tion over this interlocutory order. It is clear beyond cavil
+that, ordinarily, “orders granting . . . temporary restraining
+6         DEPARTMENT OF EDUCATION v. CALIFORNIA
+
+                        JACKSON, J., dissenting
+
+orders are not appealable.” 16 C. Wright, A. Miller, & E.
+Cooper, Federal Practice and Procedure §3922.1 (3d ed.
+2012). This Court has recognized an exception for TROs
+and other interlocutory orders that are “potentially unlim-
+ited” in duration, Sampson v. Murray, 415 U. S. 61, 87
+(1974), and risk imposing a “ ‘serious, perhaps irreparable,
+consequence,’ ” Carson v. American Brands, Inc., 450 U. S.
+79, 84 (1981). But this time-limited TRO presents no such
+threat.
+   To start, the District Court has merely ordered restora-
+tion of the “pre-existing status quo prior to the termination”
+of the grants in the Plaintiff States. App. 9a. Its order
+comes in the form of an injunction only insofar as it has pro-
+hibited the Government from implementing the abruptly
+announced terminations—the District Court has not or-
+dered that the Government do anything other than what
+was required by law before the termination letters issued.
+   Notably, the TRO also includes an exception that permits
+the Government to make individual grant terminations
+while the order is in effect “to the extent the final agency
+action is consistent with Congressional authorization and
+appropriations, relevant federal statute[s], including the
+requirements of the APA, the requirements of the relevant
+implementing regulations, [and] the grant terms and con-
+ditions.” Id., at 10a. Thus, the Government is only pre-
+cluded from implementing what the Plaintiff States chal-
+lenge as a “mass termination” of previously issued grants;
+the Government can still proceed with reasoned, individu-
+alized grant terminations under its usual review process.1
+——————
+  1 The Department now rejects the “mass termination” characterization
+
+on the grounds that it allowed 5 TQP and SEED grants (out of 109) to
+remain in place. App. 14a. But Department employees previously in-
+formed grantees that “[a]ll the grants have been terminated.” ECF Doc.
+8–13, pp. 6, 60 (emphasis added). These inconsistent statements under-
+score the need for additional factual development below before this Court
+gets involved.
+                 Cite as: 604 U. S. ____ (2025)            7
+
+                    JACKSON, J., dissenting
+
+   This TRO is also expressly time limited and is set to ex-
+pire just three days from now. All agree that the order falls
+squarely within the time limitations prescribed by the Fed-
+eral Rule of Civil Procedure governing TROs. See Fed. Rule
+Civ. Proc. 65(b)(2) (providing that a TRO is “not to exceed
+14 days” unless “the court, for good cause, extends it for a
+like period”). That is true even though the District Court
+has granted a one-time extension of the TRO while it con-
+siders and rules upon the Plaintiff States’ motion for a pre-
+liminary injunction. See ibid. The Government provides
+no reason to believe that the District Court intends to ex-
+tend the order again. Quite to the contrary, the fact that
+the District Court construed the Plaintiff States’ TRO mo-
+tion as a motion for a preliminary injunction, and has al-
+ready held a hearing, indicates that the court is moving
+with dispatch and is in no way attempting to shield its in-
+terim order from appellate review.
+   This TRO thus falls squarely within the “general congres-
+sional policy against piecemeal review.” Carson, 450 U. S.,
+at 84.
+                             III
+   Even assuming that the TRO is reviewable on appeal, the
+Government’s application does not demonstrate the sort of
+exigency that warrants emergency relief—what I have else-
+where called a “line-jumping justification,” Labrador v. Poe,
+601 U. S. ___, ___ (2024) (opinion dissenting from grant of
+stay) (slip op., at 1). As explained above, TQP and SEED
+are statutorily authorized grant programs that have been
+implemented by the Department for more than a decade—
+since 2008 and 2015, respectively. What is new here is the
+Department’s insistence that it need not go through the no-
+tice and review procedures the agency has traditionally
+used to terminate grants it has awarded. Instead, the De-
+partment now seeks to terminate the pending grants en
+masse, through the use of boilerplate language that is not
+8        DEPARTMENT OF EDUCATION v. CALIFORNIA
+
+                      JACKSON, J., dissenting
+
+particularized to any grant recipient.
+   The Government has not provided any persuasive reason
+for why it urgently needs to be relieved of the lower court’s re-
+quirement that it wait 14 days (and now 28) to execute its pre-
+ferred grant-termination policy. Even if the Government is
+right about the merits of the arguments it raises in this ap-
+plication (which is doubtful), there is no reason why the
+Government cannot proceed through the usual litigation
+and appeals process to receive its vindication, as other liti-
+gants must. To reiterate, the TRO expires in three days,
+and the District Court held a hearing on the Plaintiff
+States’ preliminary-injunction motion a week ago. The
+only hint of urgency that the Government offers to justify
+its unusual request for our intervention is that, during the
+waning days of the TRO period, some grant recipients
+might seek to draw down grant funds that the Government
+wants to terminate.
+   If true, that would be unfortunate, but worse things have
+happened. And that possibility does not come anywhere
+close to explaining why this Court must take the “ ‘extraor-
+dinary’ ” step of intervening now. Williams v. Zbaraz, 442
+U. S. 1309, 1311 (1979) (Stevens, J., in chambers); cf. Nken
+v. Holder, 556 U. S. 418, 433 (2009) (“ ‘A stay is not a matter
+of right, even if irreparable injury might otherwise result’ ”).
+In my view, the patent lack of exigency alone warrants
+denying the Government’s bid for emergency relief. See
+Labrador, 601 U. S., at ___ (JACKSON, J., dissenting from
+grant of stay) (slip op., at 1). But, wait, there’s more.
+   The Government’s assertions of harm are speculative, at
+best, and appear to be far from irreparable. Importantly,
+there is no evidence that grantees have rushed to draw
+down the remaining $65 million in grant funds since the
+District Court entered the TRO 25 days ago. If the past is
+the best predictor of the future, then there is no factual ba-
+sis for concluding that any terminated-recipient grant runs
+are likely to occur in the three days remaining in the TRO.
+                  Cite as: 604 U. S. ____ (2025)            9
+
+                     JACKSON, J., dissenting
+
+   The Government’s speculation is also contrary to the way
+that the TQP and SEED programs operate. As the Plaintiff
+States explain, TQP and SEED grantees typically “receive
+funds spread over the multi-year period of their grants” and
+“generally submit periodic draw-down requests for ex-
+penses they have already incurred.” Brief in Opposition to
+Application 7. Grant recipients are also closely supervised
+with respect to such withdrawals: “The Department is au-
+thorized to monitor draw-down activity for all grants,” and
+certain recipients are even “subject to an annual audit.” Id.,
+at 8–9.
+   Finally, even if the feared flood of recipient withdrawals
+occurs, the Government has various legal mechanisms to
+recoup these kinds of funds. See, e.g., 20 U. S. C. §§1234a,
+1234b; 2 CFR §200.346 (2024); see also J. Shaffer & D.
+Ramish, Federal Grant Practice §36:29 (2024 ed.) (“In the
+end, the Government usually gets its money”). It is likely
+that, given the Department’s new policy position with re-
+spect to terminations, it will be extra vigilant about record-
+ing any withdrawals made while the TRO is in effect, so
+that the money can be clawed back if appropriate. Thus,
+the alleged funding drain at which the Government ges-
+tures does not even appear to be irreparable. The Govern-
+ment has certainly not met its burden to show otherwise.
+See Hollingsworth v. Perry, 558 U. S. 183, 190 (2010) (per
+curiam) (stay applicants bear the burden to show, among
+other things, “a likelihood [of] irreparable harm”).
+   The Court nonetheless swoops in to stay a TRO that will
+be mooted imminently by either the District Court’s ruling
+on the preliminary-injunction motion or the natural expira-
+tion of the TRO period. Instead of playing remedy police in
+this nascent case, I would permit the litigation to proceed
+in the lower courts as usual, as we would expect in any
+other case in which the Government was not the applicant.
+10        DEPARTMENT OF EDUCATION v. CALIFORNIA
+
+                          JACKSON, J., dissenting
+
+                               IV
+   To review, the Court has now granted the Government’s
+request for “emergency” relief, staying a TRO that will ex-
+pire in just three days in a case where appellate jurisdiction
+is wanting and the Government’s assertions of harm are il-
+lusory. One might reasonably assume that, for the Su-
+preme Court of the United States to step in and grant relief
+in this posture, the applicant would have at least presented
+a rock-solid argument in support of its underlying merits
+position. Thus, here, one would expect the Government to
+vigorously maintain that the Department was legally enti-
+tled to all but eliminate two grant programs that Congress
+established a decade ago. But in this Court, the Govern-
+ment offers no defense against the Plaintiff States’ claim
+that the Department’s erasure of the grants at issue was
+arbitrary and capricious. Instead, the Government raises
+several threshold and remedial questions about the scope of
+the District Court’s power to review the Government’s al-
+legedly unlawful conduct.2
+   The Government’s request for emergency relief from this
+Court—without presenting any defense as to the merits of
+the Plaintiff States’ arbitrary-and-capricious challenge—is
+striking. And the Court now blesses this strategic decision
+to sidestep the underlying merits by reinstating grant ter-
+minations that both lower courts have said are likely un-
+lawful. This seems like a development in our practices re-
+lated to emergency applications that, at a minimum,
+requires further exploration. If the emergency docket has
+now become a vehicle for certain defendants to obtain this
+
+——————
+  2 To be specific, the Government argues that the lawfulness of the ter-
+
+minations is irrelevant for present purposes because (1) the Court of Fed-
+eral Claims, not the District Court, has original jurisdiction over this dis-
+pute; (2) the Department’s grant-termination decisions are “committed
+to agency discretion by law” and thus not reviewable under the APA, 5
+U. S. C. §701(a)(2); and (3) the TRO at issue is too broad.
+                 Cite as: 604 U. S. ____ (2025)           11
+
+                    JACKSON, J., dissenting
+
+Court’s real-time opinion about lower court rulings on var-
+ious auxiliary matters, we should announce that new policy
+and be prepared to shift how we think about, and address,
+these kinds of applications.
+   I, for one, think it would be a grave mistake to permit
+parties seeking equitable emergency relief not only to make
+an inadequate showing of interim harm but also to seek re-
+lief on the basis of their concerns about issues that can be
+addressed later, in the ordinary course. In an appeals sys-
+tem that is supposed to provide prompt resolution of all le-
+gal challenges, this new avenue for piecemeal interlocutory
+review enables strategic delay and facilitates obfuscation of
+the weaknesses of the defendant’s merits positions.
+                                A
+   Take this case, for example. In my preliminary evalua-
+tion, the lower courts’ early assessment that the Depart-
+ment’s mass grant terminations were probably unlawful is
+not unreasonable, for the reasons I explain in this section.
+If the lower courts were left alone, they would be able to
+provide prompt rulings on the core legal question that we
+could then review, together with the Department’s other ar-
+guments, in the ordinary course.
+   The APA requires, among other things, that an agency
+must not act arbitrarily or capriciously, and that it must
+explain its actions. See, e.g., FCC v. Prometheus Radio Pro-
+ject, 592 U. S. 414, 423 (2021) (“The APA’s arbitrary-and-
+capricious standard requires that agency action be reason-
+able and reasonably explained”). But a mere two days after
+the Acting Secretary instructed agency officials to review
+the TQP and SEED grants, the Department started issuing
+summary grant-termination letters that provide a general
+and disjunctive list of potential grounds for cancellation,
+without specifying which ground led to the termination of
+any particular grant. Nor did the letters detail the Depart-
+12        DEPARTMENT OF EDUCATION v. CALIFORNIA
+
+                         JACKSON, J., dissenting
+
+ment’s decisionmaking with respect to any individual ter-
+mination decision. It also appears that the grant recipients
+did not receive any pretermination notice or any oppor-
+tunity to be heard, much less a chance to cure, which the
+regulations seem to require. See, e.g., 2 CFR §§200.339,
+200.208(c) (permitting grant termination only after an
+agency “determines that noncompliance cannot be reme-
+died by imposing additional conditions,” such as by
+“[r]equiring additional project monitoring,” by requiring
+that the recipient obtain technical or management assis-
+tance, or by “[e]stablishing additional prior approvals”).
+   The Department’s robotic rollout of its new mass grant-
+termination policy means that grant recipients and review-
+ing courts are “compelled to guess at the theory underlying
+the agency’s action.” SEC v. Chenery Corp., 332 U. S. 194,
+196–197 (1947). Moreover, the agency’s abruptness leaves
+one wondering whether any reasoned decisionmaking has
+occurred with respect to these terminations at all.3 These
+are precisely the kinds of concerns that the APA’s bar on
+arbitrary-and-capricious agency decisionmaking was
+meant to address. See Prometheus Radio Project, 592 U. S.,
+at 423 (explaining that the APA requires a reviewing court
+to ensure that “the agency . . . has reasonably considered
+the relevant issues and reasonably explained the decision”).
+   It also seems clear that at least one of the items included
+on the Department’s undifferentiated laundry list of possi-
+ble reasons for terminating these grants—that the entity
+may have participated in unspecified DEI practices—would
+——————
+   3 The Government suggested before the First Circuit that its retention
+
+of 5 of the 109 previously awarded grants proves that it engaged in rea-
+soned decisionmaking. But the Government has not yet supplied an ad-
+ministrative record to facilitate judicial review. App. 30a; accord, ECF
+Doc. 69, p. 13. Without documentation of the Department’s reasoning,
+its failure to terminate every single grant could just as easily reflect ne-
+glect or even additional arbitrariness. Cf. ECF Doc. 76, p. 7, n. 1 (noting
+that one remaining grant “proposed to ‘focus on culturally responsive
+practices’ ”).
+                     Cite as: 604 U. S. ____ (2025)                    13
+
+                         JACKSON, J., dissenting
+
+not suffice as a basis for termination under the law as it
+currently exists. That is because termination is only per-
+missible for recipient conduct that is inconsistent with the
+terms of the grants and the statutes that authorize them.
+But the TQP and SEED statutes expressly contemplate that
+grant recipients will train educators on teaching “diverse
+populations” in “traditionally underserved” schools, and on
+improving students’ “social, emotional, and physical devel-
+opment.”         20 U. S. C. §§1022e(b)(4), 6672(a)(1),
+1022a(d)(1)(ii).4 It would be manifestly arbitrary and capri-
+cious for the Department to terminate grants for funding
+diversity-related programs that the law expressly requires.
+Cf. Motor Vehicle Mfrs. Assn. of United States, Inc. v. State
+Farm Mut. Automobile Ins. Co., 463 U. S. 29, 43 (1983) (ex-
+plaining that an agency acts arbitrarily and capriciously if
+it relies “on factors which Congress has not intended it to
+consider”).
+                             B
+  It is thus small wonder that the Government has chosen
+not to press its merits arguments in this emergency appli-
+cation. See n. 2, supra. What better way to avoid prompt
+consideration of the Plaintiff States’ serious claims about
+the unlawful arbitrariness of the Government’s conduct
+than to demand that jurists turn away from those core
+questions and entertain a host of side issues about the
+power of the District Court on an “emergency” basis?
+——————
+  4 See also, e.g., §1022a(d)(5) (encouraging TQP grantees to “recrui[t]
+
+into the teaching profession . . . individuals from under[-]represented
+populations,” “former military personnel,” and “individuals to teach in
+rural communities”); §1022a(e)(2)(A)(vi) (permitting TQP teacher-residency
+programs to consider choosing “applicants who reflect the communities
+in which they will teach as well as consideration of individuals from un-
+derrepresented populations”); §6672(b)(3) (requiring the Department to
+ensure that SEED grants are, to the extent practicable, “distributed
+among eligible entities that will serve geographically diverse areas, in-
+cluding urban, suburban, and rural areas”).
+14        DEPARTMENT OF EDUCATION v. CALIFORNIA
+
+                         JACKSON, J., dissenting
+
+Courts that are properly mulling interim injunctive relief
+(to prevent imminent harms and thereby facilitate fair ad-
+judication of potentially meritorious claims) should be wary
+of allowing defendants with weak underlying arguments to
+divert all attention to ancillary threshold and remedial
+questions. Children, pets, and magicians might find pleas-
+ure in the clever use of such shiny-object tactics. But a
+court of law should not be so easily distracted.
+   Yet, here we are. Instead of leaving the lower court
+judges alone to do the important work of efficiently adjudi-
+cating all of the parties’ legal claims, the Supreme Court
+has decided to enter the fray. We have intervened to stay
+an almost-expired TRO that is plainly preventing the
+Plaintiff States from suffering imminent harm—not be-
+cause the harms will not occur (no one seriously disputes
+this), and not because the Government has shown that any
+harm will actually befall it if the TRO remains in place for
+another three days, but because the Government has tech-
+nical questions about which court is the proper forum to
+hear this case and what relief that court can order. Albeit
+interesting, and perhaps even ultimately dispositive, surely
+those nonurgent issues can get sorted out in the ordinary
+course as part of the lower court’s expedited consideration
+of the legal claims both sides have made. There is no reason
+they have to be addressed by this Court at this moment.
+And it is truly bizarre that a Court that purports to be “a
+court of review, not of first view,” Cutter v. Wilkinson, 544
+U. S. 709, 718, n. 7 (2005), has seen fit to rouse itself to re-
+spond to the Government’s queries by addressing these tan-
+gential legal issues and disturbing a well-justified, harm-
+based TRO in the process.5
+
+——————
+   5 Indeed, other than paving the way for the Plaintiff States’ immediate
+
+suffering, it appears that the primary effect of today’s emergency stay is
+to hand the Government an early “win”—a notch in its belt at the start
+of a legal battle in which the long-term prospects for its eventual success
+                      Cite as: 604 U. S. ____ (2025)                     15
+
+                         JACKSON, J., dissenting
+
+                               V
+  Finally, even if this were a “close cas[e],” Hollingsworth,
+558 U. S., at 190, the balance of the equities clearly counsel
+against staying the TRO and reinstating the grant termi-
+nations. On one side of the balance, the Government’s as-
+sertions of harm if the TRO remains in place amount to
+“speculation and hyperbole,” as the First Circuit put it.
+App. 33a. On the other, there is ample evidence that the
+loss of grants during the remaining days of the TRO period
+will inflict significant harm on the Plaintiff States and their
+instrumentalities.6
+  Those harms are concrete. In Massachusetts, Boston
+Public Schools has already had to fire multiple full-time em-
+ployees due to this loss of grant funding. ECF Doc. 8–2,
+pp. 11–12. In New Jersey, the College of New Jersey has
+canceled the remainder of its teacher-residency program for
+the same reason. ECF Doc. 8–9, pp. 8–9. In Illinois, Chi-
+
+——————
+seem doubtful. And I don’t blame the Government for trying. If you’re
+likely to lose on the merits, why not use the Court’s procedures to fight
+on new and creative fronts? The Government has now gotten this Court
+to nullify clearly warranted interim injunctive relief, deflecting attention
+away from the Government’s own highly questionable behavior, all with-
+out any showing of urgency or need. I worry that permitting the emer-
+gency docket to be hijacked in this way, by parties with tangential legal
+questions unrelated to imminent harm, damages our institutional credi-
+bility.
+   6 The majority asserts that the Plaintiff States’ harms may not be ir-
+
+reparable because they “have represented in this litigation that they
+have the financial wherewithal to keep their programs running.” Ante,
+at 2. At most, the Plaintiff States represented below that the Depart-
+ment’s decision to terminate grants would require their institutions to
+either “expend public funds . . . or suffer the obvious public harms result-
+ing from a scarcity of qualified teachers.” Appellees’ Opposition to Ap-
+pellants’ Motion for Stay in No. 25-1244 (CA1), p. 22. In any event, the
+majority ignores the District Court’s finding that the abrupt grant ter-
+minations have caused the Plaintiff States numerous harms that money
+cannot remedy. App. 8a.
+16       DEPARTMENT OF EDUCATION v. CALIFORNIA
+
+                     JACKSON, J., dissenting
+
+cago Public Schools—which already faces a multimillion-dol-
+lar budget deficit—may have to shut down its successful
+teacher-pipeline program. ECF Doc. 8–13, p. 7. In Califor-
+nia, California State University has ended support for 26
+students currently enrolled in its teacher-residency pro-
+gram and has eliminated financial assistance for about 50
+incoming students. ECF Doc. 8–3, p. 7.
+   On the current record, I perceive no clear error in the Dis-
+trict Court’s conclusion that, absent immediate relief, “doz-
+ens of programs upon which public schools, public universi-
+ties, students, teachers, and faculty rely will be gutted.”
+App. 9a. The harms that will result from permitting the
+Department to reinstate these terminations are directly
+contrary to Congress’s goals in enacting the TQP and SEED
+programs and in entrusting the Department with their im-
+plementation. It boggles the mind to equate the devasta-
+tion wrought from such abrupt funding withdrawals with
+the mere risk that some grantees might seek to draw down
+previously promised funds that the Department wants to
+yank away from them.
+                          *     *     *
+   This Court’s eagerness to insert itself into this early stage
+of ongoing litigation over the lawfulness of the Depart-
+ment’s actions—even when doing so facilitates the infliction
+of significant harms on the Plaintiff States, and even
+though the Government has not bothered to press any ar-
+gument that the Department’s harm‐causing conduct is
+lawful—is equal parts unprincipled and unfortunate. It is
+also entirely unwarranted. We do not ordinarily exercise
+jurisdiction over TROs, and this one is no different. The
+Government has not articulated any concrete harm it will
+suffer if the grant terminations are not implemented in the
+next three days. And this Court will have every opportunity
+to address all of the legal issues the Government has hastily
+                      Cite as: 604 U. S. ____ (2025)                       17
+
+                          JACKSON, J., dissenting
+
+shoved up the chain of review, and more, in due course. Be-
+cause we could have and should have easily denied this ap-
+plication, I respectfully dissent.7
+
+
+
+
+——————
+   7 Apparently not content to insert itself into this action for no reason,
+
+the majority goes further, seizing on this opportunity. Without oral ar-
+gument and with less than one week’s worth of deliberation, the Court
+now has determined that, at least in this context, restoring the grants at
+issue might qualify as an order to “ ‘enforce a contractual obligation to
+pay money’ ” such that it is the Court of Federal Claims, rather than the
+District Court, that has jurisdiction over the Plaintiff States’ challenge.
+Ante, at 2 (quoting Great-West Life & Annuity Ins. Co. v. Knudson, 534
+U. S. 204, 212 (2002)). Even assuming that Great-West has any bearing
+on this issue, the majority’s characterization of the relief granted by the
+District Court is dubious given what the Plaintiff States actually say in
+their complaint about the legal problem and the relief they are request-
+ing. See ECF Doc. 1, pp. 46–47, 51–52; see also Bowen v. Massachusetts,
+487 U. S. 879, 893 (1988) (“The fact that a judicial remedy may require
+one party to pay money to another is not a sufficient reason to character-
+ize the relief as ‘money damages’ ”). And the majority does not dispute
+the “basic reality” that some APA challenges to grant-related adminis-
+trative action may proceed in district court, even if they have as their
+“natural consequence . . . the release of funds to the plaintiff down the
+road.” Department of State v. AIDS Vaccine Advocacy Coalition, 604
+U. S. ___, ___ (2025) (ALITO, J., dissenting from denial of application) (slip
+op., at 6).
+   In any event, the District Court in this case is now hard at work evalu-
+ating this and other arguments in the context of the pending preliminary-
+injunction motion. The majority’s attempt to inject itself into the ongoing
+litigation by suggesting new, substantive principles for the District Court
+to consider in this case is unorthodox and, in my view, inappropriate.

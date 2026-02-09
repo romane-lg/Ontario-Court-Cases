@@ -1,0 +1,191 @@
+Cite as: 605 U. S. ____ (2025)              1
+
+                      JACKSON, J., dissenting
+
+SUPREME COURT OF THE UNITED STATES
+                           _________________
+
+                           No. 24A1051
+                           _________________
+
+
+   LAUREL D. LIBBY, ET AL. v. RYAN M. FECTEAU,
+      SPEAKER OF THE MAINE HOUSE OF
+           REPRESENTATIVES, ET AL.
+              ON APPLICATION FOR INJUNCTION
+                          [May 20, 2025]
+
+   The application for injunction pending appeal presented
+to JUSTICE JACKSON and by her referred to the Court is
+granted pending disposition of the appeal in the United
+States Court of Appeals for the First Circuit and disposition
+of the petition for a writ of certiorari, if such writ is timely
+sought. Should the petition for a writ of certiorari be de-
+nied, this order shall terminate automatically. In the event
+the petition for a writ of certiorari is granted, the order shall
+terminate upon the sending down of the judgment of this
+Court.
+   JUSTICE SOTOMAYOR would deny the application.
+   JUSTICE JACKSON, dissenting from the grant of the appli-
+cation for injunction.
+   I would deny the application.
+   These applicants seek an injunction pending appeal.
+“The All Writs Act, 28 U. S. C. §1651(a), is the only source
+of this Court’s authority to issue [such] an injunction.”
+Turner Broadcasting System, Inc. v. FCC, 507 U. S. 1301,
+1303 (1993) (Rehnquist, C. J., in chambers). And under our
+well-established rules, relief of this sort “is not a matter of
+right, but of discretion sparingly exercised.” Supreme
+Court Rule 20.1. We have long recognized that this injunc-
+tive relief is appropriate only when “critical and exigent cir-
+cumstances” exist necessitating intervention “in aid of [our]
+2                     LIBBY v. FECTEAU
+
+                     JACKSON, J., dissenting
+
+jurisdictio[n],” and the applicants’ entitlement to relief is
+“indisputably clear.” Wisconsin Right to Life, Inc. v. Federal
+Election Comm’n, 542 U. S. 1305, 1306 (2004) (Rehnquist,
+C. J., in chambers) (internal quotation marks omitted). In
+my view, these applicants have not met this high bar.
+   First, the applicants have failed to show that there exist
+“critical and exigent circumstances” necessitating interven-
+tion “in aid of [our] jurisdictio[n],” ibid.—what I have else-
+where called a “line-jumping justification,” Labrador v. Poe,
+601 U. S. ___, ___ (2024) (opinion dissenting from grant of
+stay) (slip op., at 1). The First Circuit is moving quickly to
+evaluate the legal issues this case presents, with oral argu-
+ment scheduled to occur in a few weeks. Meanwhile, before
+us, the applicants have not asserted that there are any sig-
+nificant legislative votes scheduled in the upcoming weeks;
+that there are any upcoming votes in which Libby’s partici-
+pation would impact the outcome; or that they will other-
+wise suffer any concrete, imminent, and significant harm
+while the lower court considers this matter.
+   Second, the applicants have not satisfied our normal cer-
+tiorari factors, such as demonstrating the need to resolve a
+circuit split. Supreme Court Rule 10. Instead, they request
+highly fact-specific error correction concerning a question of
+first impression that is unlikely to recur. We have long rec-
+ognized that, to avoid end runs around the ordinary certio-
+rari process, emergency relief should not be granted if the
+Court would have been unlikely to grant review of the mat-
+ter in any event. See Hollingsworth v. Perry, 558 U. S. 183,
+190 (2010) (per curiam); Does v. Mills, 595 U. S. ___, ___
+(2021) (BARRETT, J., concurring in denial of application for
+injunctive relief ) (slip op., at 1). Denying emergency relief
+in a case that does not satisfy the usual certiorari factors
+also avoids creating perverse incentives to seek our inter-
+vention prematurely—why would any applicant who thinks
+the lower courts are mistaken wait for those courts’ final
+                   Cite as: 605 U. S. ____ (2025)              3
+
+                      JACKSON, J., dissenting
+
+word on an issue if real-time error correction via our emer-
+gency docket is readily available?
+   Third, these applicants have failed to demonstrate that
+their right to this relief is “ ‘indisputably clear.’ ” Wisconsin
+Right to Life, 542 U. S., at 1306. The Rules of the Maine
+House of Representatives—adopted by the 132d Maine Leg-
+islature long before the events at issue here took place—
+contemplate stripping a legislative member of the ability to
+vote as a sanction for certain ethical violations. See 2025
+WL 1148726, *2 (D Me., Apr. 18, 2025). The House deter-
+mined that Representative Libby violated those rules,
+thereby triggering this sanction, when she engaged in be-
+havior that a majority of the House determined “may en-
+danger [a] minor.” H. Res. in No. 1:25–cv–83 (D Me., Apr.
+1, 2025), ECF Doc. 29–4, p. 1.
+   Whether the House’s censure and resulting sanction vio-
+late Libby’s constitutional rights, or those of her constitu-
+ents, raises many difficult questions. What are the limits
+on a state legislature’s ability to bind its members to ethics
+rules? Do federal courts have the authority to determine
+that those rules are improper? Does it violate a representa-
+tive’s First Amendment rights to be subject to sanction un-
+der such rules, and does it make a difference what the sanc-
+tion is? What rights does the Federal Constitution give
+constituents to override the enforcement of ethics rules of
+their state legislature? Does a federal court have the power
+to enjoin state representatives from enforcing a state legis-
+lature’s ethics rules? And may the court enjoin legislative
+employees from carrying out the will of the state legislature
+with respect to that enforcement?
+   This Court has neither addressed nor answered most of
+these questions. See, e.g., Houston Community College Sys-
+tem v. Wilson, 595 U. S. 468, 482–483 (2022) (declining to
+consider whether a censure accompanied by punishment
+could constitute First Amendment retaliation). Others im-
+4                     LIBBY v. FECTEAU
+
+                     JACKSON, J., dissenting
+
+plicate tensions in our precedent that lack an obvious reso-
+lution. Compare Powell v. McCormack, 395 U. S. 486, 504–
+506 (1969) (legislative immunity does not bar suit against
+nonrepresentative employees), with Gravel v. United
+States, 408 U. S. 606, 618 (1972) (legislative immunity ex-
+tends to acts of nonlegislators “insofar as the conduct of the
+[employee] would be a protected legislative act if performed
+by the Member himself ”).
+   It is certainly possible that the applicants have the better
+of the arguments on the merits of their claims. But in the
+absence of binding precedent on any of these issues, their
+right to relief is not clear, let alone indisputably so.
+                          *      *    *
+  Not very long ago, this Court treaded carefully with re-
+spect to exercising its equitable power to issue injunctive
+relief at the request of a party claiming an emergency. The
+opinions are legion in which individual Justices, reviewing
+such requests in chambers, declined to intervene—reiterat-
+ing that “such power should be used sparingly and only in
+the most critical and exigent circumstances.” Williams v.
+Rhodes, 89 S. Ct. 1, 2, 21 L. Ed. 2d 69 (1968) (Stewart, J.,
+in chambers); see also Ohio Citizens for Responsible Energy,
+Inc. v. NRC, 479 U. S. 1312, 1313 (1986) (Scalia, J., in
+chambers); South Bay United Pentecostal Church v. New-
+som, 590 U. S. ___, ___–___ (2020) (ROBERTS, C. J., concur-
+ring in denial of application for injunctive relief ) (slip op.,
+at 1–2).
+  Those days are no more. Today’s Court barely pauses to
+acknowledge these important threshold limitations on the
+exercise of its own authority. It opts instead to dole out er-
+ror correction as it sees fit, regardless of the lack of any ex-
+igency and even when the applicants’ claims raise signifi-
+cant legal issues that warrant thorough evaluation by the
+lower courts that are dutifully considering them.
+                  Cite as: 605 U. S. ____ (2025)             5
+
+                     JACKSON, J., dissenting
+
+   I think this clear departure from past practice is both in-
+equitable and unwise. For one thing, the Court’s failure to
+articulate clear standards for when emergency relief is ap-
+propriate makes it difficult to confidently conclude that any
+such standards are actually being referenced and applied
+evenhandedly. Cf. Merrill v. Milligan, 595 U. S. ___, ___–
+___ (2022) (KAGAN, J., dissenting from grant of applications
+for stays) (slip op., at 11–12) (observing that our ordinary
+appellate processes “serve both to constrain and to legiti-
+mate the Court’s authority”). Also, as a practical matter, it
+is plainly prudent to reserve our emergency docket for ap-
+plicants who demonstrate that they truly need our help
+now. In the absence of that showing, we can, and should,
+allow even applicants with credible merits claims to litigate
+their arguments in the lower courts before we get involved.
+Cf. Cutter v. Wilkinson, 544 U. S. 709, 718, n. 7 (2005)
+(demonstrating that, at least sometimes, we opt to proceed
+as if “we are a court of review, not of first view”).
+   The watering down of our Court’s standards for granting
+emergency relief is, to me, an unfortunate development. Af-
+ter all, the manner in which we handle emergency applica-
+tions—“on a short fuse without benefit of full briefing and
+oral argument,” Does, 595 U. S., at ___ (opinion of BARRETT,
+J.) (slip op., at 1)—is hardly a model for sound decisionmak-
+ing. At the very least, by lowering the bar for granting
+emergency relief, the Court itself will bear responsibility for
+the resulting systemic disruption, as a surge in requests for
+our “extraordinary” intervention—at earlier and earlier
+stages of ongoing lower court proceedings, and with greater
+and greater frequency—will undoubtedly follow.

@@ -1,0 +1,225 @@
+Cite as: 604 U. S. ____ (2025)             1
+
+                    SOTOMAYOR, J., dissenting
+
+SUPREME COURT OF THE UNITED STATES
+     LANCE SHOCKLEY v. DAVID VANDERGRIFF,
+                  WARDEN
+   ON PETITION FOR WRIT OF CERTIORARI TO THE UNITED
+   STATES COURT OF APPEALS FOR THE EIGHTH CIRCUIT
+              No. 24–517.   Decided March 31, 2025
+
+   The petition for a writ of certiorari is denied.
+   JUSTICE SOTOMAYOR, with whom JUSTICE JACKSON joins,
+dissenting from the denial of certiorari.
+   A prisoner who seeks to appeal the denial of his petition
+for habeas corpus may do so only if “a circuit justice or
+judge issues a certificate of appealability.” 28 U. S. C.
+§2253(c)(1). Several Circuits have interpreted that require-
+ment to mean that a certificate must issue so long as “one
+of the judges to whom the application was referred” votes to
+grant it. Thomas v. United States, 328 F. 3d 305, 309 (CA7
+2003); Rule 22.3 (CA3 2011) (similar language); Rule
+22(a)(3) (CA4 2023) (same, explaining that “the authority
+for a single judge to issue a certificate derives from §2253”);
+Gen. Order 6.3(b) (CA9 2024) (“Pursuant to 28 U. S. C.
+§2253(c), a request to grant or expand a certificate of ap-
+pealability may be granted by any one Judge on the as-
+signed panel”). In some courts, however, a panel majority
+can deny a certificate even if “a circuit . . . judge” on the
+panel votes to issue one. See, e.g., Williams v. Kelley, 858
+F. 3d 464 (CA8 2017); Crutsinger v. Davis, 929 F. 3d
+259(CA5 2019); United States v. Ellis, 779 Fed. Appx. 570
+(CA10 2019). That latter practice deprived petitioner Lance
+Shockley of an appeal in this case.
+   I would have granted certiorari to resolve the split and
+decide whether the Courts of Appeal can dismiss an appeal
+after a judge votes to grant a certificate.
+2                SHOCKLEY v. VANDERGRIFF
+
+                    SOTOMAYOR, J., dissenting
+
+                                I
+   After the District Court denied Lance Shockley’s habeas
+petition, Shockley sought the Eighth Circuit’s permission to
+appeal. Judge Kelly voted to grant a certificate as to one of
+Shockley’s claims, but two other judges voted to deny. App.
+to Pet. for Cert. 2a. In the Third, Fourth, Seventh, and
+Ninth Circuits, that vote would have meant Shockley’s ap-
+peal could proceed. Yet the Eighth Circuit dismissed the
+appeal, even over the dissent of two judges who would have
+granted rehearing en banc. See id., at 350a.
+   Allowing a panel of judges to deny a certificate of appeal-
+ability over a dissenting vote has significant consequences.
+At the certificate of appealability stage, briefing is confined
+to less than half the word limit of an ordinary appeal, and
+oral argument is presumptively denied. See Fed. Rules
+App. Proc. 27(d)(2) (5,200 word limit for motions), 27(e)
+(motions decided without oral argument unless ordered oth-
+erwise), and 28.1(e)(2) (13,000 word limit for principal brief
+on appeal). In that limited space, applicants must focus on
+establishing that their claim meets the plausibility stand-
+ard for granting a certificate, rather than showing the claim
+is ultimately meritorious. Moreover, the grant of a certifi-
+cate of appealability often marks the appointment of coun-
+sel, so its denial generally deprives indigent litigants of the
+opportunity for a counseled appeal. See, e.g., Internal Op-
+erating Proc. 10.3.2 (CA3 2018) (“When a certificate of ap-
+pealability is granted on behalf of an indigent appellant . . .
+the clerk appoints counsel for the appellant unless the court
+instructs otherwise”); Rule 22(a) (CA4) (discussing appoint-
+ment of counsel after grant of certificate).
+   There are good reasons to think that Congress condi-
+tioned the right to an appeal on a single judge’s vote. Con-
+gress normally provides that cases must be resolved by “[a]
+majority of the number of judges authorized to constitute a
+court or panel thereof,” 28 U. S. C. §46(d), or by the appro-
+priate “court of appeals,” see e.g., §§2349(b), 2342. It could
+                  Cite as: 604 U. S. ____ (2025)              3
+
+                    SOTOMAYOR, J., dissenting
+
+have used the same language in the habeas statute, permit-
+ting an appeal where the court of appeals grants a certifi-
+cate. Instead, Congress specified that “a circuit justice or
+judge” can grant permission to appeal. §2253(c)(1); see also
+Miller-El v. Cockrell, 537 U. S. 322, 335–336 (2003) (“Before
+an appeal may be entertained, a prisoner who was denied
+habeas relief in the district court must first seek and obtain
+a COA from a circuit justice or judge”); id., at 349 (SCALIA,
+J., concurring) (noting that a “circuit justice or judge” deter-
+mines whether to grant a certificate of appealability); Buck
+v. Davis, 580 U. S. 100, 115 (2017) (same). Because “our
+cases begin (and often end) with the presumption that Con-
+gress is careful in all its word choices,” Pulsifer v. United
+States, 601 U. S. 124, 172 (2024) (GORSUCH, J., dissenting),
+“[w]e usually ‘presume differences in language like this con-
+vey differences in meaning.’ ” Wisconsin Central Ltd. v.
+United States, 585 U. S. 274, 279 (2018) (quoting Henson v.
+Santander Consumer USA Inc., 582 U. S. 79, 86 (2017)).
+   Allowing an appeal whenever one judge votes to grant a
+certificate also reflects the substantive standard that gov-
+erns habeas appeals. After all, a certificate must issue so
+long as “reasonable jurists could debate whether . . . the pe-
+tition should have been resolved in a different manner or
+that the issues presented were ‘ “adequate to deserve en-
+couragement to proceed further.” ’ ” Slack v. McDaniel, 529
+U. S. 473, 484 (2000) (quoting Barefoot v. Estelle, 463 U. S.
+880, 893, and n. 4 (1983)). When one or more jurists be-
+lieves a claim has sufficient merit to proceed, that itself
+“might be thought to indicate that reasonable minds could
+differ . . . on the resolution” of the relevant claim. Johnson
+v. Vandergriff, 600 U. S. ___, ___ (2023) (SOTOMAYOR, J.,
+dissenting from denial of application for stay and denial of
+certiorari) (slip op., at 5) (internal quotation marks omit-
+ted). Congress may well have conditioned the right to an
+appeal on the vote of a “circuit justice or judge” for that rea-
+son. 28 U. S. C. §2253(c)(1).
+4                SHOCKLEY v. VANDERGRIFF
+
+                    SOTOMAYOR, J., dissenting
+
+   Proceeding to the merits with a full panel after a judge
+votes to grant a certificate also promotes efficiency. Be-
+cause appeals should proceed so long as they present a de-
+batable issue, the question whether to grant a certificate
+should not be a contentious one. See Buck, 580 U. S., at
+122; Miller-El, 537 U. S., at 336; Slack, 529 U. S., at 484.
+Indeed, a petitioner need not even prove “that some jurists
+would grant the petition for habeas corpus.” Miller-El, 537
+U. S., at 338. When a petition for certificate of appealability
+is sufficiently weighty to engender split opinions and even
+en banc litigation, as it did here, judicial resources are bet-
+ter spent simply considering the merits in the regular
+course. In order to maintain the “public perception of fair-
+ness and integrity in the justice system,” moreover, courts
+must “exhibit regard for fundamental rights and respect for
+prisoners ‘as people.’ ” Rosales-Mireles v. United States, 585
+U. S. 129, 139–140 (2018) (quoting T. Tyler, Why People
+Obey the Law 164 (2006)). That requires considering de-
+batable constitutional claims on their merits, rather than
+dismissing them out of hand.
+
+                              II
+  This case exemplifies the problems with the Eighth Cir-
+cuit’s contrary approach.    Consider briefly the basis for
+Shockley’s claim. A Missouri jury convicted Shockley for
+the capital murder of a police officer. The prosecution ar-
+gued Shockley committed the murder because the officer
+had been investigating Shockley’s role in a drunken-driving
+incident that resulted in the death of Shockley’s sister-in-
+law’s fiancé. During voir dire, a venire member volunteered
+that he had authored and self-published a book. Neither
+the court nor Shockley’s counsel followed up on that com-
+ment, and the venire member became the jury’s foreperson.
+  Shockley’s lawyer did not discover until after the jury re-
+turned a guilty verdict why the foreperson had thought his
+authorship relevant. As it turned out, the book in question
+                  Cite as: 604 U. S. ____ (2025)             5
+
+                    SOTOMAYOR, J., dissenting
+
+was a “fictionalized autobiography” describing the “brutal
+and graphic revenge murder of a defendant who killed the
+protagonist’s wife in a drunken-driving accident.” Shockley
+v. State, 579 S. W. 3d 881, 893 (Mo. 2019). The book’s pro-
+tagonist (a “fictionalized” version of the juror himself )
+“viewed the defendant as escaping justice in the court sys-
+tem because the defendant received only probation follow-
+ing his conviction.” Ibid. During the guilt-phase of Shock-
+ley’s trial, the foreperson brought this book to deliberations
+and handed it out to several jurors.
+   When, after the guilty verdict, Shockley moved for a mis-
+trial, the trial court offered counsel the opportunity to take
+testimony from the foreperson and from other jurors. See
+State v. Shockley, 410 S. W. 3d 179, 201 (Mo. 2013) (con-
+cluding, on direct appeal, that the court “offered to allow
+jurors to be questioned or subpoenaed” for the mistrial
+hearing). Inexplicably, Shockley’s lawyer “[n]ot only did . . .
+not accept this opportunity [but] affirmatively declined to
+call any witnesses.” Ibid. As a result, the trial court did
+not hear evidence regarding the foreperson’s alleged bias
+and misconduct or its effect on other jurors, ibid., some of
+whom later indicated that they had looked through the
+book. Accordingly, while the trial court removed the fore-
+person for the sentencing phase, there was no mistrial and
+the jury’s guilt-phase verdict stood. The jury thereafter
+deadlocked on Shockley’s sentence, and the court imposed
+a sentence of death. The Missouri Supreme Court affirmed,
+explaining that Shockley could not “claim . . . the trial court
+committed plain error in failing to hold . . . a hearing and
+itself subpoena jurors as witnesses over defense counsel’s
+statement that he did not want such witnesses.” Ibid.
+   When Shockley later created a postconviction record es-
+tablishing the nature of the foreperson’s book and his con-
+duct during deliberations, the Missouri Supreme Court
+held that counsel had not been ineffective. 579 S. W. 3d, at
+897–898. Judge Stith dissented, emphasizing that counsel
+6                SHOCKLEY v. VANDERGRIFF
+
+                    SOTOMAYOR, J., dissenting
+
+had proffered no “valid strategic reason” for refusing to call
+witnesses at the mistrial hearing. Id., at 921.
+   It is difficult to see how an attorney’s decision not to call
+witnesses in support of a credible mistrial motion, when in-
+vited to do so by the presiding judge in a capital murder
+trial, could fail to constitute ineffective assistance of coun-
+sel under Strickland v. Washington, 466 U. S. 668 (1984).
+More importantly, reasonable jurists could obviously de-
+bate the merits of Shockley’s claim, as they have done at
+the Missouri Supreme Court, the Eighth Circuit, and now
+this Court as well. The Court of Appeals plainly erred
+when, over multiple dissents, it treated as not even debata-
+ble the District Court’s denial of relief on Shockley’s ineffec-
+tive-assistance claim. Had the Court instead followed the
+approach taken in the Third, Fourth, Seventh, and Ninth
+Circuits, that error would have been avoided.
+                        *    *    *
+  This case raises an entrenched Circuit split over an im-
+portant question of statutory interpretation: Can a certifi-
+cate of appealability be denied notwithstanding a circuit
+judge’s vote to grant it? Unfortunately, the Court leaves
+the issue for another day. The Courts of Appeal, however,
+remain free to reconsider their operating rules and align
+them with the text and purpose of §2253.

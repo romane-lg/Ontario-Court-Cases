@@ -1,0 +1,116 @@
+Cite as: 606 U. S. ____ (2025)           1
+
+                    THOMAS, J., dissenting
+
+SUPREME COURT OF THE UNITED STATES
+ GHP MANAGEMENT CORPORATION, ET AL. v. CITY
+     OF LOS ANGELES, CALIFORNIA, ET AL.
+   ON PETITION FOR WRIT OF CERTIORARI TO THE UNITED
+    STATES COURT OF APPEALS FOR THE NINTH CIRCUIT
+              No. 24–435.   Decided June 30, 2025
+
+   The petition for a writ of certiorari is denied.
+   JUSTICE THOMAS, with whom JUSTICE GORSUCH joins,
+dissenting from the denial of certiorari.
+   During the COVID–19 pandemic, the City of Los Angeles
+enacted an eviction moratorium that “ ‘effectively pre-
+clude[d] residential evictions.’ ” 2022 WL 17069822, *1 (CD
+Cal., Nov. 17, 2022). Among other restrictions, this policy
+barred landlords from evicting tenants “due to COVID-
+related nonpayment of rent.” Ibid. Petitioners—13 owners
+of Los Angeles apartment buildings and their shared man-
+agement company—sued the city, arguing that the morato-
+rium effected a per se physical taking, in violation of the
+Takings Clause’s prohibition on takings of “private prop-
+erty . . . for public use, without just compensation.” U. S.
+Const., Amdt. 5. I would grant review of the question
+whether a policy barring landlords from evicting tenants for
+the nonpayment of rent effects a physical taking under the
+Takings Clause.
+   This question is the subject of an acknowledged Circuit
+split. The Eighth and Federal Circuits have held that a bar
+on evictions for the nonpayment of rent qualifies as a phys-
+ical taking, while the Ninth Circuit has held that it does
+not. Compare Darby Development Co. v. United States, 112
+F. 4th 1017, 1034–1035 (CA Fed. 2024), and Heights Apart-
+ments, LLC v. Walz, 30 F. 4th 720, 733 (CA8 2022), with
+2024 WL 2795190, *1 (CA9, May 31, 2024). In issuing the
+decision below, the Ninth Circuit expressly acknowledged
+2         GHP MANAGEMENT CORP. v. LOS ANGELES
+
+                     THOMAS, J., dissenting
+
+this split. See ibid., n. 2.
+   This Circuit split stems from confusion about how to rec-
+oncile two of our precedents. The Ninth Circuit treated as
+controlling this Court’s decision in Yee v. Escondido, 503
+U. S. 519 (1992), which held that a statute did not effect a
+physical taking when it allowed mobile home owners to
+evict tenants only after an onerous delay. Id., at 527–528.
+The Yee Court explained that “[t]he government effects a
+physical taking only where it requires the landowner to sub-
+mit to the physical occupation of his land,” whereas the
+landlord petitioners in Yee had voluntarily contracted with
+their tenants and were accordingly subject to laws “regu-
+lat[ing their] use of their land by regulating the relationship
+between landlord and tenant.” Ibid. Thus, in the Ninth
+Circuit’s view, the Los Angeles eviction moratorium did not
+“effect a taking” because petitioners had already “opened
+their property to occupation by tenants.”            2024 WL
+2795190, *1.
+   By contrast, the Eighth and Federal Circuits looked to
+our more recent decision in Cedar Point Nursery v. Hassid,
+594 U. S. 139 (2021). There, we held that a law requiring
+agricultural employers to allow labor organizers onto their
+property constituted a physical taking because it “appropri-
+ate[d] for the enjoyment of third parties the owners’ right
+to exclude.” Id., at 149. And, the Eighth and Federal Cir-
+cuits reasoned, if “forcing property owners to occasionally
+let union organizers on their property infringes their right
+to exclude,” it follows that “forcing them to house non-rent-
+paying tenants (by removing their ability to evict)” does too.
+Darby, 112 F. 4th, at 1035; accord, Heights Apartments, 30
+F. 4th, at 733.
+   Because “[w]e created this confusion,” we have an obliga-
+tion to fix it. Gee v. Planned Parenthood of Gulf Coast, Inc.,
+586 U. S. 1057, 1059 (2018) (THOMAS, J., dissenting from
+denial of certiorari). That obligation is particularly strong
+here, as there is good reason to think that the Ninth Circuit
+                  Cite as: 606 U. S. ____ (2025)            3
+
+                     THOMAS, J., dissenting
+
+erred. Under the logic of Cedar Point, and our Takings
+Clause doctrine more generally, an eviction moratorium
+would plainly seem to interfere with a landlord’s right to
+exclude. See Alabama Assn. of Realtors v. Department of
+Health and Human Servs., 594 U. S. 758, 765 (2021) (per
+curiam) (“[P]reventing [landlords] from evicting tenants
+who breach their leases intrudes on one of the most funda-
+mental elements of property ownership—the right to ex-
+clude”). Nor does Yee dictate otherwise: Although the stat-
+ute there constrained landlords’ right to evict, it was not
+“an outright prohibition on evictions for nonpayment of
+rent.” Darby, 112 F. 4th, at 1035; see 503 U. S., at 527–528.
+   Finally, this issue is important and recurring. Given the
+sheer number of landlords and tenants, any eviction-
+moratorium statute stands to affect countless parties. And,
+the end of the COVID–19 pandemic has not diminished the
+importance of this issue. Municipalities continue to enact
+eviction moratoria in the wake of other emergencies. See,
+e.g., San Diego Cty., Cal., Ordinance No. 10936, §2 (N. S.)
+(2025) (codified at San Diego Cty., Cal., Code of Regulatory
+Ordinances tit. 3, div. 1, ch. 5, §31.503); Statement of
+Proceedings for the Public Hearing Meeting of the Board
+of Supervisors of the Cty. of Los Angeles 7–8 (Feb.
+25, 2025), https://file.lacounty.gov/SDSInter/bos/sop/
+1178834_022525.pdf. Even if it were otherwise, we would
+do well to clarify our case law now, rather than in the heat
+of the next national emergency.
+                          *    *    *
+   This case meets all of our usual criteria for granting cer-
+tiorari, and it does not contain any impediments that would
+hamper our review. The Court nevertheless denies certio-
+rari, leaving in place confusion on a significant issue, and
+leaving petitioners without a chance to obtain the relief to
+which they are likely entitled. I respectfully dissent.

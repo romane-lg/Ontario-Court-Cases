@@ -1,0 +1,230 @@
+Cite as: 606 U. S. ____ (2025)            1
+
+                  Statement of SOTOMAYOR, J.
+
+SUPREME COURT OF THE UNITED STATES
+        LANDON HANK BLACK v. TENNESSEE
+  ON PETITION FOR WRIT OF CERTIORARI TO THE COURT OF
+   CRIMINAL APPEALS OF TENNESSEE, EASTERN DIVISION
+              No. 24–6586. Decided June 30, 2025
+
+   The petition for a writ of certiorari is denied.
+   Statement of JUSTICE SOTOMAYOR respecting the denial
+of certiorari.
+   This case presents important constitutional questions
+about the way Tennessee instructs juries in voluntary man-
+slaughter cases. Because the court below did not grapple
+with those questions, I concur in the denial of certiorari. I
+write separately to highlight the constitutional flaws in
+Tennessee’s approach to manslaughter instructions, and to
+encourage the Tennessee Supreme Court to resolve them in
+the first instance.
+   A night out with a group of friends ended in tragedy when
+petitioner Landon Black fatally shot Brandon Lee during
+an altercation in the parking lot of a sports bar. At Black’s
+trial for murder, the prosecution and defense dissected the
+relationships between the people present at the bar that
+night. Each sought to answer a basic question: What moti-
+vated Black to shoot Lee, a total stranger? The prosecution,
+pursuing a first-degree murder conviction, argued that
+Black had originally planned to shoot someone else, a man
+who had “ ‘humiliated and insulted’ ” him inside the bar.
+2024 WL 2320284, *9 (Tenn. Crim. App., May 22, 2024).
+When Black saw Lee, the prosecution said, he decided
+“[w]ithin seconds” to shoot him instead. Ibid. The defense,
+meanwhile, argued that Lee, “who had just snorted cocaine,
+approached the car aggressively with his gun in his right
+hand,” causing Black to shoot him “because he was in fear
+for his life.” Ibid.
+2                      BLACK v. TENNESSEE
+
+                      Statement of SOTOMAYOR, J.
+
+   To allow the jury to decide between these rival theories of
+the case, the trial court instructed it on three different of-
+fenses: first-degree murder (requiring premeditation), sec-
+ond-degree murder (a voluntary killing without premedita-
+tion), and voluntary manslaughter (a killing driven by a
+state of passion caused by adequate provocation). Those in-
+structions would have been unremarkable, except that two
+peculiar features of Tennessee law caused a significant
+problem. If the jury followed its instructions, it could never
+convict Black of voluntary manslaughter.
+   First, consider the elements of Tennessee second-degree
+murder and manslaughter. To obtain a conviction for sec-
+ond-degree murder, the State must establish an unlawful
+and voluntary (knowing) killing. See Tenn. Code Ann. §39–
+13–210(a) (2018); 2024 WL 2320284, *26. To obtain a man-
+slaughter conviction, the prosecution must prove those
+same two elements, plus a third: that the defendant acted
+“in a state of passion induced by adequate provocation” (i.e.,
+“provocation sufficient to lead a reasonable person” to act
+irrationally). See §39–13–211(a) (Cum. Supp. 2024); 2024
+WL 2320284, *26. Consequently, the prosecution must
+prove an additional element to obtain a manslaughter con-
+viction, even though manslaughter is a less serious offense
+than second-degree murder.* Compare §39–13–211(b)
+——————
+   *This transformation of the state-of-passion question from a tradi-
+tional defense (raised by the defendant and disproved by the prosecution)
+into an element of the offense appears to have come about accidentally,
+by way of a line of dictum in State v. Williams, 38 S. W. 3d 532 (Tenn.
+2001). There, the Tennessee Supreme Court remarked that “[c]omparing
+the revised second degree murder and voluntary manslaughter statutes,
+the essential element that now distinguishes these two offenses . . . is
+whether the killing was committed ‘in a state of passion produced by ad-
+equate provocation.’ ” Id., at 538. That comment in turn “has led any
+number of panels” of the Tennessee Court of Criminal Appeals “to con-
+clude that ‘a state of passion produced by adequate provocation’ is an
+‘essential element’ of the offense of voluntary manslaughter.” State v.
+Donaldson, 2022 WL 1183466, *22 (Tenn. Crim. App., Apr. 21, 2022).
+                  Cite as: 606 U. S. ____ (2025)             3
+
+                  Statement of SOTOMAYOR, J.
+
+(“Voluntary manslaughter is a Class B felony”) with §39–
+13–210(c)(1) (“Second degree murder is a Class A felony).
+  Second, Tennessee courts instruct the jury to consider
+each offense in order of seriousness, beginning with the
+charged offense. Here is that instruction as it was given to
+Black’s jury:
+    “ ‘In reaching your verdict, you shall, first, consider the
+    offense charged in the Presentment. If you unani-
+    mously find a defendant guilty of that offense beyond a
+    reasonable doubt, you shall return a verdict of guilty
+    for that offense. If you unanimously find the defendant
+    not guilty of that offense or have a reasonable doubt of
+    the defendant’s guilt of that offense, you shall then pro-
+    ceed to consider whether or not the defendant is guilty
+    of the next lesser-included offense in order from great-
+    est to least within that Count of the Presentment. You
+    shall not proceed to consider any lesser-included offense
+    until you have first made a unanimous determination
+    that the defendant is not guilty of the immediately-pre-
+    ceding greater offense or you unanimously have a rea-
+    sonable doubt of the defendant’s guilt of that offense.’ ”
+    Pet. for Cert. 7 (emphasis added).
+These two instructions, taken together, mean that no jury
+instructed on both second-degree murder and manslaugh-
+ter could ever reach a manslaughter verdict. If a jury finds
+a killing to be knowing and unlawful, it has found all the
+necessary elements for a second-degree murder conviction.
+At that point, the jury “shall not proceed to consider” the
+lesser included offense of manslaughter, ibid., meaning it
+will never consider whether the killing was provoked.
+  That is just what happened in Black’s case. The jury re-
+jected the first-degree murder charge, reached the second-
+degree murder question on its verdict form, and found that
+Black’s killing had been knowing and unlawful. The in-
+structions then prohibited the jury from continuing to the
+4                   BLACK v. TENNESSEE
+
+                   Statement of SOTOMAYOR, J.
+
+next lesser included offense. The jury thus convicted Black
+of second-degree murder.
+   That result raises serious federal constitutional ques-
+tions. Half a century ago, this Court held “that the Due
+Process Clause requires the prosecution to prove beyond a
+reasonable doubt the absence of the heat of passion on sud-
+den provocation when the issue is properly presented in a
+homicide case.” Mullaney v. Wilbur, 421 U. S. 684, 704
+(1975) (emphasis added). Drawing on Mullaney, Black ar-
+gued below that it was error to treat “ ‘state of passion’ as
+an essential element of the offense that the State must
+prove beyond a reasonable doubt,” because “ ‘state of pas-
+sion’ is actually a defense to second degree murder that, if
+fairly raised by the proof, must be disproved by the State
+beyond a reasonable doubt.” 2024 WL 2320284, *28 (de-
+scribing Black’s argument); see also App. to Brief in Oppo-
+sition 120, 148–149 (Black’s briefing before the Tennessee
+Court of Criminal Appeals). Notwithstanding Mullaney,
+the court held that the State was not required to establish
+the absence of a state of passion beyond a reasonable doubt,
+apparently because it felt bound by state law. 2024 WL
+2320284, *28–*29. Whatever Tennessee law says about
+manslaughter, however, the court below was not free to dis-
+regard Mullaney.
+   So too, “the Constitution guarantees criminal defendants
+‘a meaningful opportunity to present a complete defense.’ ”
+Crane v. Kentucky, 476 U. S. 683, 690 (1986) (quoting Cali-
+fornia v. Trombetta, 467 U. S. 479, 485 (1984)). Here, Ten-
+nessee’s jury instructions made it legally impossible for
+Black to succeed on a critical element of his defense: the
+argument that Lee’s threatening approach with a gun in his
+hand constituted adequate provocation. It is hard to imag-
+ine that a set of jury instructions rendering it legally impos-
+sible for the jury to accept a legitimate defense could pass
+muster under the Due Process Clause. See State v. Humph-
+rey, 2005 WL 2043778, *14–*15 (Tenn. Crim. App., Aug. 24,
+                  Cite as: 606 U. S. ____ (2025)            5
+
+                  Statement of SOTOMAYOR, J.
+
+2005) (Tipton, J., concurring) (warning that sequential jury
+instruction on manslaughter could violate the Due Process
+Clause); Edge v. State, 261 Ga. 865, 867, 414 S. E. 2d 463,
+466 (1992) (invalidating conviction because a similar “ ‘se-
+quential’ charge eliminate[d] the jury’s full consideration of
+voluntary manslaughter” by preventing it from “go[ing] on
+to consider evidence of provocation or passion”).
+  The Tennessee Court of Criminal Appeals has acknowl-
+edged that the State’s present approach to manslaughter is
+a source of endless confusion. See State v. Donaldson, 2022
+WL 1183466, *22, *24 (Tenn. Crim. App. Apr. 21, 2022) (de-
+crying “[c]onfusion about the passion/provocation con-
+struct” and “ask[ing], as other panels have done since as
+early as 2004, that our supreme court address this issue”).
+Indeed, it has been clear for years that the instructions used
+in this case are wholly unworkable.
+  One problem, illustrated here, is that Tennessee treats
+voluntary manslaughter as a “lesser-included offense” of
+second-degree murder. State v. Wilson, 92 S. W. 3d 391,
+396 (Tenn. 2002). Ordinarily, one offense can be a lesser
+included offense of another only if its elements are a subset
+of the more serious crime. Schmuck v. United States, 489
+U. S. 705, 716 (1989) (adopting this “elements” approach).
+Yet here the opposite is true: The elements of second-degree
+murder (the more serious offense) are a subset of the ele-
+ments of manslaughter (the lesser included offense). The
+Tennessee Supreme Court has thus far declined to explain
+how courts should square that doctrinal circle. It is hard to
+see how they could.
+  Tennessee’s manslaughter instructions have led “to ab-
+surd results” disadvantaging the State, as well. Donaldson,
+2022 WL 1183466, *23. Treating provocation as an element
+means that, even if the State has established a voluntary
+killing, “a reviewing court has no choice but to reverse” the
+conviction if the State has not also established provocation.
+Ibid. For example, in State v. Lumpkin, 2020 WL 7682239,
+6                   BLACK v. TENNESSEE
+
+                  Statement of SOTOMAYOR, J.
+
+*2 (Tenn. Crim. App., Dec. 23, 2020), the defendant shot his
+victim in the head in the course of a robbery. “No evidence,”
+however, suggested “that the perpetrator who shot the vic-
+tim in the head acted in a state of ‘passion,’ produced by
+‘adequate provocation.’ ” Id., at *6. Thus, even though the
+evidence “would have supported” a second-degree murder
+conviction, the court felt itself bound to invalidate the con-
+viction for manslaughter. Ibid.; see also State v. Benesch,
+2017 WL 3670196, *18–*19 (Tenn. Crim. App., Aug. 25,
+2017) (modifying manslaughter conviction for similar rea-
+sons). Those cases, like this one, make plain that Tennes-
+see’s approach to manslaughter is untenable. Accord, Don-
+aldson, 2022 WL 1183466, *22–*24.
+   The State defends the judgment below on the ground that
+Black forfeited his federal arguments. The record suggests
+the contrary. See App. to Brief in Opposition 120, 148–149.
+Nevertheless, by focusing on the ongoing state-law dispute
+over the elements of manslaughter, the court below appears
+to have overlooked Blacks’ constitutional claims entirely. I
+thus concur in the Court’s denial of certiorari. Given the
+serious constitutional problems with Tennessee’s man-
+slaughter instructions, however, I join the Tennessee Court
+of Criminal Appeals in encouraging the Tennessee Supreme
+Court to reconsider its approach. Donaldson, 2022 WL
+1183466, *24. If that court does not, this Court should con-
+sider the constitutionality of Tennessee’s manslaughter in-
+structions in an appropriate case.

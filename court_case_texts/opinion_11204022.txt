@@ -1,0 +1,76 @@
+Cite as: 607 U. S. ____ (2025)             1
+
+                      ALITO, J., dissenting
+
+SUPREME COURT OF THE UNITED STATES
+      SUSAN HUTSON v. UNITED STATES, ET AL.
+   ON PETITION FOR WRIT OF CERTIORARI TO THE UNITED
+    STATES COURT OF APPEALS FOR THE FIFTH CIRCUIT
+            No. 24–1022.   Decided November 17, 2025
+
+   The petition for a writ of certiorari is denied. JUSTICE
+GORSUCH would grant the petition for a writ of certiorari.
+   JUSTICE ALITO, with whom JUSTICE THOMAS joins, dis-
+senting from the denial of certiorari.
+   I would have granted certiorari to terminate the
+longstanding and unlawful prison-building order at the cen-
+ter of this case. In 2019, the District Court ordered New
+Orleans to construct a new facility for inmates with mental-
+health needs. Yet the Prison Litigation Reform Act of 1995
+(PLRA) specifically states that “[n]othing in this section
+shall be construed to authorize the courts, in exercising
+their remedial powers, to order the construction of prisons.”
+18 U. S. C. §3626(a)(1)(C). If a court issued an injunction
+in violation of the PLRA, then a party “shall be entitled to
+the immediate termination of any prospective relief.”
+§3626(b)(2); see Miller v. French, 530 U. S. 327, 331 (2000).
+Thus, because the prison-building injunction was illegal
+from the beginning, the courts below should have termi-
+nated it.
+   The lower courts further erred by failing to terminate the
+injunction for a second, independent reason. Even if an in-
+junction complied with the PLRA when it was issued, the
+injunction “shall be terminable . . . 2 years after the date
+the court granted or approved the prospective relief.”
+§3626(b)(1)(A)(i). Here, the New Orleans sheriff filed a
+“ ‘motion to terminate all orders regarding the construction
+of the Phase III jail’ ” four years after the court granted the
+injunction. App. to Pet. for Cert. 81a. At that point, the
+2                    HUTSON v. UNITED STATES
+
+                          ALITO, J., dissenting
+
+District Court could maintain the injunction only if it found
+the injunction “remains necessary to correct a current and
+ongoing violation,” “extends no further than necessary,”
+and “is narrowly drawn and the least intrusive means to
+correct the violation.” §3626(b)(3). There is a Circuit split
+about which party bears the burden at this stage of the lit-
+igation.* But Fifth Circuit precedent places the burden on
+the party supporting the injunction—not the party seeking
+termination. Guajardo v. Texas Dept. of Crim. Justice, 363
+F. 3d 392, 395–396 (2004) (per curiam). Here, the lower
+courts did not hold the Government or private plaintiffs to
+their burden. Rather, the courts below denied the sheriff ’s
+termination motion because it provided no “basis for the
+district court to grant it.” Anderson v. Hutson, 114 F. 4th
+408, 420 (CA5 2024). That gets the inquiry backwards. It
+was not the sheriff ’s burden to provide a basis for termina-
+tion; it was the opposing parties’ burden to show a basis for
+maintaining the injunction.
+   In short, the Fifth Circuit erroneously resolved an im-
+portant issue of federal law on which there is a Circuit split.
+This case cried out for our review. By failing to intervene,
+we leave New Orleans to pay for the Fifth Circuit’s serious
+errors. I respectfully dissent.
+
+
+
+
+——————
+  *Compare Balla v. Idaho, 29 F. 4th 1019, 1025 (CA9 2022) (“ ‘[T]he
+burden is on the movant to demonstrate that there are no ongoing con-
+stitutional violations, that the relief ordered exceeds what is necessary
+to correct an ongoing constitutional violation, or both’ ”), with Laaman v.
+Warden, N. H. State Prison, 238 F. 3d 14, 20 (CA1 2001) (“[T]he burden
+remains on the plaintiffs to show that such violations persist”).

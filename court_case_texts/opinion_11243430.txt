@@ -1,0 +1,348 @@
+PRELIMINARY PRINT
+
+              Volume 605 U. S. Part 1
+                             Pages 327–334
+
+
+
+
+       OFFICIAL REPORTS
+                                     OF
+
+
+   THE SUPREME COURT
+                                June 5, 2025
+
+
+Page Proof Pending Publication
+
+
+                    REBECCA A. WOMELDORF
+                           reporter of decisions
+
+
+
+
+    NOTICE: This preliminary print is subject to formal revision before
+  the bound volume is published. Users are requested to notify the Reporter
+  of Decisions, Supreme Court of the United States, Washington, D. C. 20543,
+  pio@supremecourt.gov, of any typographical or other formal errors.
+                        OCTOBER TERM, 2024                            327
+
+                                Syllabus
+
+
+     LABORATORY CORPORATION OF AMERICA
+      HOLDINGS, dba LABCORP v. DAVIS et al.
+certiorari to the united states court of appeals for
+                  the ninth circuit
+       No. 24–304. Argued April 29, 2025—Decided June 5, 2025
+Certiorari dismissed. Reported below: 2024 WL 489288 (Feb. 8, 2024)
+
+  Noel J. Francisco argued the cause for petitioner. With
+him on the briefs was Madeline W. Clark.
+  Sopan Joshi argued the cause for the United States as
+amicus curiae in support of neither party. With him on the
+brief were Acting Solicitor General Harris, Deputy Assist-
+ant Attorney General McArthur, Deputy Solicitor General
+Kneedler, Charles W. Scarborough, and Jeffrey E. Sandberg.
+  Deepak Gupta argued the cause for respondents. With
+him on the brief were Matthew W. H. Wessler, Jonathan E.
+Page Proof Pending Publication
+Taylor, Gregory A. Beck, and Jennifer D. Bennett.*
+  *Briefs of amici curiae urging reversal were fled for the Atlantic Legal
+Foundation by Lawrence S. Ebner, Felix Shafr, and John F. Querio; for
+the Chamber of Commerce of the United States of America et al. by Brian
+D. Schmalzbach, James C. Stansel, Melissa B. Kimmel, Jennifer B.
+Dickey, and Jonathan D. Urick; for the Mortgage Bankers Association
+et al. by William M. Jay, Keith Levenberg, and Matthew S. Sheldon; for
+the National Federation of Independent Business Small Business Legal
+Center, Inc., by Aram A. Gavoor; for the Product Liability Advisory
+Council by Andrew J. Pincus, Archis A. Parasharami, Daniel E. Jones,
+and Carmen N. Longoria-Green; for TechNet by Theodore J. Boutrous,
+Jr., Theane D. Evangelis, Bradley J. Hamburger, Patrick J. Fuster, Matt
+Aidan Getz, Prerak Shah, and Drew Hudson; and for the Washington
+Legal Foundation by Cory L. Andrews. Briefs of amici curiae urging
+affrmance were fled for AARP et al. by John Paul Schnapper-Casteras,
+William A. Rivera, Louis Lopez, Rebecca Rodgers, and Jeffrey R. White;
+for Civil Procedure Law Professors et al. by Hyland Hunt, Dana Kaers-
+vang, Ruthanne M. Deutsch, and Steve W. Berman; and for Joseph Stiglitz
+et al. by David C. Frederick and Derek C. Reinbold.
+  Briefs of amici curiae were fled for the City of Beverly Hills et al. by
+Jeremy B. Rosen, Sheridan L. Caldwell, Justin R. Sarno, Shaun Dabby
+328   LABORATORY CORP. OF AMERICA HOLDINGS v. DAVIS
+
+                      Kavanaugh, J., dissenting
+
+  Per Curiam.
+  The writ of certiorari is dismissed as improvidently
+granted.
+                                         It is so ordered.
+  Justice Kavanaugh, dissenting.
+   The Court dismisses the case as improvidently granted
+and therefore does not decide the question presented:
+Whether a federal court may certify a damages class pursu-
+ant to Federal Rule of Civil Procedure 23 when the class
+includes both injured and uninjured class members.
+   The Court presumably dismisses the case because the
+Court does not want to tackle the threshold mootness ques-
+tion that plaintiffs have raised. In my view, however, plain-
+tiffs' mootness argument is insubstantial. I would rule that
+the case is not moot and would decide the question
+presented.
+Page Proof Pending Publication
+   On the question presented, I would hold that a federal
+court may not certify a damages class that includes both in-
+jured and uninjured members. Rule 23 requires that com-
+mon questions predominate in damages class actions. And
+when a damages class includes both injured and uninjured
+members, common questions do not predominate.
+
+                                   I
+  The facts are fairly straightforward. Labcorp provides
+diagnostic laboratory services. In 2017, Labcorp introduced
+self-service kiosks for patients to check in for their appoint-
+
+Jacobs, and Kathleen A. Kenealy; for the American Antitrust Institute by
+Randy Stutz; for Claims Administrators by Peter K. Stris, John Stokes,
+and Tillman J. Breckenridge; for Federal Jurisdiction Scholars by Joseph
+M. Sellers and Benjamin D. Brown; for Legal Historians and Scholars of
+Representative Litigation by Daniel Woofter and Kevin K. Russell; for
+the National Community Pharmacists Association by Joshua P. Davis; for
+Lionel Harper et al. by Jamin S. Soderstrom; and for William B. Ruben-
+stein et al. by William B. Rubenstein, pro se.
+                    Cite as: 605 U. S. 303 (2025)             329
+
+                    Kavanaugh, J., dissenting
+
+ments. Although the touchscreen kiosks are accessible to
+most patients, blind and visually impaired patients require
+assistance. To accommodate those patients who cannot use
+a kiosk without assistance, or who prefer not to use one,
+Labcorp maintained and bolstered its front-desk services at
+patient service centers.
+   Despite those accommodations, legally blind plaintiffs sued
+Labcorp in the U. S. District Court for the Central District
+of California. As relevant here, they claimed that Labcorp's
+new kiosks violated the Americans with Disabilities Act
+(ADA) and California's Unruh Civil Rights Act, which pro-
+vides for a minimum of $4,000 in state-law statutory damages
+per violation. See Cal. Civ. Code Ann. §§ 51(f), 52(a) (West
+2020). Plaintiffs sought to certify a class with potential
+damages of up to about $500 million per year.
+   In May 2022, the District Court certifed a damages class
+under Federal Rule of Civil Procedure 23. The class con-
+Page Proof Pending Publication
+sisted of “[a]ll legally blind individuals in California who vis-
+ited a LabCorp patient service center in California during
+the applicable limitations period and were denied full and
+equal enjoyment of the goods, services, facilities, privileges,
+advantages, or accommodations due to LabCorp's failure to
+make its e-check-in kiosks accessible to legally blind individ-
+uals.” No. 2:20–cv–893 (CD Cal., May 23, 2022), ECF Doc.
+97, p. 24.
+   Labcorp petitioned for an immediate interlocutory appeal
+under the special interlocutory appellate procedure author-
+ized by Rule 23(f). Labcorp contended that plaintiffs' class
+defnition was overbroad and would sweep in many unin-
+jured members, including blind patients who would not
+use kiosks anyway because they dislike kiosks or prefer to
+speak with a front-desk employee when checking in for
+appointments.
+   In August 2022, while Labcorp's petition for interlocutory
+appeal was still pending in the Ninth Circuit, the District
+Court clarified plaintiffs' class definition. The District
+330   LABORATORY CORP. OF AMERICA HOLDINGS v. DAVIS
+
+                    Kavanaugh, J., dissenting
+
+Court explained that the class included “[a]ll legally blind
+individuals who . . . , due to their disability, were unable to
+use” Labcorp kiosks in California. App. 387. Importantly,
+the court stated that, “in refning the class defnition, this
+Order does not materially alter the composition of the class
+or materially change in any manner” the original May class
+certifcation order. Id., at 386, n. 10.
+   In September 2022, the Ninth Circuit granted Labcorp's
+Rule 23(f) petition and authorized an interlocutory appeal of
+the May order. After receiving briefng and hearing oral
+argument, the Court of Appeals ultimately approved the
+May 2022 class certifcation. Applying Ninth Circuit prece-
+dent, the court reasoned that Rule 23 permits certifcation
+of a class even when the class “ `potentially includes more
+than a de minimis number of uninjured class members.' ”
+Id., at 397, n. 1 (quoting Olean Wholesale Grocery Coopera-
+tive, Inc. v. Bumble Bee Foods LLC, 31 F. 4th 651, 669 (2022)
+(en banc)).
+Page Proof Pending Publication
+   After the Ninth Circuit denied rehearing en banc, Labcorp
+sought review in this Court. We granted certiorari to de-
+cide whether federal courts may certify a Rule 23 damages
+class that includes both injured and uninjured members.
+604 U. S. 1101 (2025).
+                               II
+   Instead of resolving that important merits question, the
+Court dismisses this case as improvidently granted. That is
+presumably because the Court does not want to deal with
+plaintiffs' threshold mootness argument. To be clear, the
+Court does not hold that the case is moot. Rather, the
+Court simply declines to decide either the threshold moot-
+ness question or the important class-action question on
+which we granted certiorari. Unlike the Court, I would re-
+solve those questions.
+   In arguing that the case is moot, plaintiffs contend that
+Labcorp appealed the wrong class-certifcation order. That
+is incorrect. Recall the sequence of events. In May 2022,
+                   Cite as: 605 U. S. 303 (2025)            331
+
+                    Kavanaugh, J., dissenting
+
+the District Court certifed plaintiffs' damages class, and
+Labcorp then fled a Rule 23(f) petition in order to challenge
+that certifcation order in the Ninth Circuit. In August
+2022, the District Court clarifed the class defnition. But in
+the August order, the District Court stated that the order
+did “not materially alter the composition of the class or mate-
+rially change in any manner” the original May class certif-
+cation order. App. 386, n. 10. The August order did not
+purport to certify a new class.
+  The Ninth Circuit subsequently reviewed and ruled on the
+May certifcation order. The Ninth Circuit did not treat
+Labcorp's appeal of the May order as moot. In September
+2022, after the District Court had issued the August order,
+the Ninth Circuit authorized Labcorp's Rule 23(f) interlocu-
+tory appeal of the May order. The Ninth Circuit later
+addressed the merits of Labcorp's appeal with respect to
+the May order and ruled in plaintiffs' favor. In doing so,
+Page Proof Pending Publication
+the Ninth Circuit issued a judgment adverse to Labcorp,
+and Labcorp properly sought certiorari to reverse that
+judgment.
+  Still, plaintiffs seem to think that the May order was no
+longer in effect and was superseded by the August order.
+According to plaintiffs, Labcorp should have somehow ap-
+pealed the August order. Under Ninth Circuit precedent,
+however, Labcorp could not have appealed the August order
+because only orders “that materially change the original
+certifcation order” qualify as “appealable under Rule 23(f).”
+Walker v. Life Ins. Co. of Southwest, 953 F. 3d 624, 636 (2020)
+(emphasis added). And the District Court had explicitly
+stated that the August order did not make any material
+changes. Moreover, under the text of Rule 23(f), a party
+may appeal only “an order granting or denying class-action
+certifcation.” The August order did not grant or deny class
+certifcation, as the District Court indicated.
+  So to challenge the class defnition under Ninth Circuit
+law, Labcorp could appeal only the May 2022 certifcation
+332   LABORATORY CORP. OF AMERICA HOLDINGS v. DAVIS
+
+                      Kavanaugh, J., dissenting
+
+order. Labcorp did so. Labcorp has proceeded reasonably
+in the District Court, the Court of Appeals, and this Court.
+There is no barrier to this Court's deciding the class-action
+question presented in the context of reviewing the Ninth
+Circuit's judgment.
+                             III
+   On the merits, I agree with Labcorp and the United States
+as amicus curiae: Federal courts may not certify a damages
+class under Rule 23 when, as here, the proposed class
+includes both injured and uninjured class members.
+   Rule 23 and this Court's precedents make this a straight-
+forward case. Rule 23 authorizes damages class certifca-
+tion only when common questions of law and fact predomi-
+nate. A damages class consisting of both injured and
+uninjured members does not meet that requirement. As the
+Government succinctly and correctly stated at oral argu-
+ment, “if there are members of a class that aren't even in-
+Page Proof Pending Publication
+jured, they can't share the same injury with the other class
+members.” Tr. of Oral Arg. 83; see generally Comcast Corp.
+v. Behrend, 569 U. S. 27 (2013); Wal-Mart Stores, Inc. v.
+Dukes, 564 U. S. 338 (2011); Amchem Products, Inc. v. Wind-
+sor, 521 U. S. 591 (1997); General Telephone Co. of Southwest
+v. Falcon, 457 U. S. 147 (1982).
+   The Ninth Circuit nonetheless approved plaintiffs' class.
+Relying on Circuit precedent, the court concluded that Rule
+23 permits certifcation even when the class “ `potentially in-
+cludes more than a de minimis number of uninjured class
+members.' ” App. 397, n. 1 (quoting Olean Wholesale Gro-
+cery Cooperative, Inc. v. Bumble Bee Foods LLC, 31 F. 4th
+651, 669 (2022) (en banc)).1
+  1
+    Some courts have suggested that a “de minimis exception” might exist
+when there is a de minimis number of uninjured class members, at least
+so long as some identifed mechanism exists to manageably remove those
+uninjured members from the class. In re Rail Freight Fuel Surcharge
+Antitrust Litigation–MDL No. 1869, 934 F. 3d 619, 624 (CADC 2019); see
+id., at 625–626; In re Asacol Antitrust Litigation, 907 F. 3d 42, 53–54
+                      Cite as: 605 U. S. 303 (2025)                 333
+
+                      Kavanaugh, J., dissenting
+
+   The Ninth Circuit's decision is incorrect under Rule 23 and
+this Court's precedents, and it will generate serious real-
+world consequences. Classes that are overinfated with un-
+injured members raise the stakes for businesses that are the
+targets of class actions. Overbroad and incorrectly certifed
+classes threaten massive liability—here, with potential dam-
+ages up to about $500 million per year. That reality in turn
+can coerce businesses into costly settlements that they some-
+times must reluctantly swallow rather than betting the com-
+pany on the uncertainties of trial. Indeed, the Advisory
+Committee Notes to Rule 23(f) warn: “An order granting cer-
+tifcation . . . may force a defendant to settle rather than
+incur the costs of defending a class action and run the risk
+of potentially ruinous liability.” Advisory Committee's
+Notes on 1998 Amendments to Fed. Rule Civ. Proc. 23, 28
+U. S. C. App., p. 815 (1994 ed.); cf. Nutraceutical Corp. v.
+Lambert, 586 U. S. 188, 196 (2019). That is one reason why
+Rule 23(f)'s interlocutory appeal procedure was established
+Page Proof Pending Publication
+in 1998.
+   Importantly, the coerced settlements substantially raise
+the costs of doing business. And companies in turn pass
+on those costs to consumers in the form of higher prices; to
+retirement account holders in the form of lower returns; and
+to workers in the form of lower salaries and lesser benefts.
+So overbroad and incorrectly certifed classes can ultimately
+harm consumers, retirees, and workers, among others. Sim-
+ply put, the consequences of overbroad and incorrectly certi-
+fed damages class actions can be widespread and signifcant.
+
+                            *      *      *
+  I would resolve the question presented and reverse the
+judgment of the Ninth Circuit. I would hold that federal
+
+(CA1 2018). This case does not raise that question because the Ninth
+Circuit ruled that a class may be certifed even when the class “ `poten-
+tially includes more than a de minimis number of uninjured class mem-
+bers.' ” App. 397, n. 1 (emphasis added).
+334   LABORATORY CORP. OF AMERICA HOLDINGS v. DAVIS
+
+                  Kavanaugh, J., dissenting
+
+courts may not certify a damages class pursuant to Rule 23
+when the class includes both injured and uninjured class
+members. I respectfully dissent from the Court's order dis-
+missing the writ of certiorari as improvidently granted.
+
+
+
+
+Page Proof Pending Publication
+                           Reporter’s Note
+
+  The attached opinion has been revised to refect the usual publication
+and citation style of the United States Reports. The revised pagination
+makes available the offcial United States Reports citation in advance of
+publication. The syllabus has been prepared by the Reporter of Decisions
+Page Proof Pending Publication
+for the convenience of the reader and constitutes no part of the opinion of
+the Court. A list of counsel who argued or fled briefs in this case, and
+who were members of the bar of this Court at the time this case was
+argued, has been inserted following the syllabus. Other revisions may
+include adjustments to formatting, captions, citation form, and any errant
+punctuation. The following additional edits were made:
+
+None

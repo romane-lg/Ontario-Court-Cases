@@ -1,0 +1,250 @@
+Cite as: 606 U. S. ____ (2025)            1
+
+                    Statement of THOMAS, J.
+
+SUPREME COURT OF THE UNITED STATES
+     KARI MACRAE v. MATTHEW MATTOS, ET AL.
+   ON PETITION FOR WRIT OF CERTIORARI TO THE UNITED
+    STATES COURT OF APPEALS FOR THE FIRST CIRCUIT
+               No. 24–355.   Decided June 30, 2025
+
+   The petition for a writ of certiorari is denied.
+   Statement of JUSTICE THOMAS, respecting the denial of
+certiorari.
+   Hanover Public Schools and two of its officials (collec-
+tively, respondents) fired petitioner Kari MacRae for her
+pre-employment political expression on the social-media
+platform TikTok. Through her personal account, MacRae
+had “liked, shared, posted, or reposted” six memes—images
+or other items that are “ ‘spread widely online’ ”—expressing
+her views that immigration laws should be enforced, that
+an individual’s sex is immutable, and that society should be
+racially color-blind. 106 F. 4th 122, 126–128, and n. 1 (CA1
+2024). After her firing, MacRae sued respondents for “re-
+taliating against her for exercising her First Amendment
+rights.” Id., at 130. But, the District Court granted sum-
+mary judgment to respondents, and the First Circuit af-
+firmed, finding that MacRae had not established a pro-
+tected First Amendment interest under this Court’s
+framework for public-employee speech. Because her peti-
+tion for a writ of certiorari does not squarely challenge the
+First Circuit’s application of that framework, I agree with
+our decision to deny it. I write separately, however, to raise
+serious concerns about the First Circuit’s approach.
+   Our precedents establish that “the First Amendment pro-
+tects a public employee’s right, in certain circumstances, to
+speak as a citizen addressing matters of public concern.”
+Garcetti v. Ceballos, 547 U. S. 410, 417 (2006). Although
+“[g]overnment employers, like private employers, need a
+significant degree of control over their employees’ words
+2                     MACRAE v. MATTOS
+
+                     Statement of THOMAS, J.
+
+and actions,” they can regulate their employees’ private
+speech about “matters of public concern” only to the extent
+“necessary . . . to operate efficiently and effectively.” Id., at
+418–419. Under the so-called Pickering-Garcetti frame-
+work, whether such speech is protected turns on a balanc-
+ing test, wherein the employee’s speech interest is weighed
+against the government’s interest as an employer in avoid-
+ing workplace disruption. See Garcetti, 547 U. S., at 419;
+Pickering v. Board of Ed. of Township High School Dist.
+205, Will Cty., 391 U. S. 563, 568 (1968).
+  This case turns on the balancing component of the Pickering-
+Garcetti framework. All agree that MacRae’s TikTok posts
+qualify as speech on matters of public concern, but the First
+Circuit concluded that the balance of interests favored re-
+spondents. That court first discounted the value of
+MacRae’s speech interest because her posts, which are re-
+produced below, at times spoke in what the court described
+as a “mocking, derogatory, and disparaging manner.” (See
+Figures 1 and 2.) 106 F. 4th, at 137; see Pet. for Cert. 7
+(reproducing posts).
+
+
+
+
+                Figure 1. Kari MacRae TikTok posts
+                  Cite as: 606 U. S. ____ (2025)            3
+
+                    Statement of THOMAS, J.
+
+
+
+
+               Figure 2. Kari MacRae TikTok posts
+
+    In contrast, the First Circuit explained that respond-
+ents—who fired MacRae out of “concer[n] about the poten-
+tial negative impact [her] social media posts would have on
+staff and students”—had a “ ‘strong’ ” interest in avoiding
+disruption, and that they made a “reasonable prediction of
+disruption.” 106 F. 4th, at 130, 137–138. The court pointed
+to factors such as the public attention and news coverage
+MacRae had received in light of her position on a neighbor-
+ing town’s school board, as well as the fact that at least
+some Hanover students and staff were aware of her posts.
+Id., at 139–141. It also cited the fact that “some of her Tik-
+Tok posts (at least arguably) conflicted with the District’s
+belief of ‘[e]nsur[ing] a safe learning environment based on
+respectful relationships’ and Core Value of ‘[r]espect[ing]
+. . . human differences,’ ” “given the potential to perceive
+some of her posts as transphobic, homophobic, or racist.”
+Id., at 139–140. The First Circuit concluded that, on bal-
+ance, the risk of disruption outweighed MacRae’s interest.
+    The First Circuit’s analysis strikes me as deeply flawed.
+To start, I do not see how the tone of MacRae’s posts can
+4                         MACRAE v. MATTOS
+
+                         Statement of THOMAS, J.
+
+bear on the weight of her First Amendment interest.
+“Speech on matters of public concern is at the heart of the
+First Amendment’s protection.” Snyder v. Phelps, 562 U. S.
+443, 451–452 (2011) (internal quotation marks and altera-
+tions omitted). And, “[t]he inappropriate or controversial
+character of a statement is irrelevant to the question
+whether it deals with a matter of public concern.” Rankin
+v. McPherson, 483 U. S. 378, 387 (1987). “[H]umor, satire,
+and even personal invective can make a point about a mat-
+ter of public concern.” De Ritis v. McGarrigle, 861 F. 3d
+444, 455 (CA3 2017) (internal quotation marks omitted).
+Accordingly, we have declined to “affor[d] less than full
+First Amendment protection” even for speech that we have
+deemed “particularly hurtful,” such as the picketing signs
+used by the Westboro Baptist Church. Snyder, 562 U. S.,
+at 454–456; see id., at 454 (listing, among other Westboro
+signs, placards reading, “ ‘God Hates the USA/Thank God
+for 9/11,’ ” “ ‘God Hates Fags,’ ” and “ ‘Thank God for Dead
+Soldiers’ ”).1 Against this backdrop, I do not see how the
+First Circuit could discount the First Amendment value of
+MacRae’s comparatively mild posts, all of which reflected
+positions that represent “by no means an isolated segment
+of public opinion.” Noble v. Cincinnati and Hamilton Cty.
+Public Library, 112 F. 4th 373, 382 (CA6 2024).
+   The First Circuit’s analysis of respondents’ countervail-
+ing interest in avoiding disruption is similarly questiona-
+ble. Although this Court has “consistently . . . given sub-
+stantial weight to government employers’ reasonable
+
+——————
+  1 Although Snyder was not a Pickering-Garcetti case, we grounded
+
+our analysis in caselaw from the public-employer context. See 562
+U. S., at 451–455. And, our Pickering-Garcetti cases have not treated
+the tone or style of an employee’s speech as bearing on its First Amend-
+ment value. Cf. Rankin, 483 U. S., at 379–380, 386–387 (recognizing,
+without qualification, that a “remar[k], after hearing of an attempt on
+the life of the President, ‘If they go for him again, I hope they get him,’ ”
+“dealt with a matter of public concern”).
+                  Cite as: 606 U. S. ____ (2025)             5
+
+                    Statement of THOMAS, J.
+
+predictions of disruption,” the key word here is “reasona-
+ble.” United States v. Treasury Employees, 513 U. S. 454,
+492 (1995) (Rehnquist, C. J., dissenting). The First Circuit
+accordingly should have discarded factors whose disruptive
+potential was purely speculative, such as the fact that
+“ ‘some students and staff . . . were aware of ’ [MacRae’s]
+posts” or that “students [were overheard] discussing her so-
+cial media activity.” 106 F. 4th, at 139–140.
+    Even worse, the First Circuit compounded its reliance on
+speculative factors with consideration of illicit ones. We
+have made clear that the core First Amendment principle
+of viewpoint neutrality applies in the Pickering-Garcetti
+context as elsewhere. See Rankin, 483 U. S., at 384 (“Vigi-
+lance is necessary to ensure that public employers do not
+use authority over employees to silence discourse . . . simply
+because superiors disagree with the content of employees’
+speech”). Yet, the First Circuit cited an arguable conflict
+between MacRae’s posts and institutional expressions of
+viewpoint such as Hanover’s “Core Value of ‘[r]espect[ing]
+. . . human differences’ ” as evidence of potential disruption.
+106 F. 4th, at 139. It undermines core First Amendment
+values to allow a government employer to adopt an institu-
+tional viewpoint on the issues of the day and then, when
+faced with a dissenting employee, portray this disagree-
+ment as evidence of disruption. And, the problem is exac-
+erbated in the case of an employee such as MacRae, who
+expressed her views only outside the workplace and before
+her employment.
+    Whatever the proper weight of respondents’ interest in
+minimizing disruption, the First Circuit failed to conduct a
+proper balancing inquiry because it improperly discounted
+MacRae’s First Amendment interest. To its credit, that
+court recognized that “[t]he government employer’s interest
+must be proportional to the value of the employee’s speech.”
+Id., at 136; see Connick v. Myers, 461 U. S. 138, 152 (1983)
+(“[A] stronger showing may be necessary if the employee’s
+6                        MACRAE v. MATTOS
+
+                       Statement of THOMAS, J.
+
+speech more substantially involved matters of public con-
+cern”). But, because the court viewed MacRae’s interest as
+“weigh[ing] less than it normally would,” it did not hold re-
+spondents to their full burden. 106 F. 4th, at 137.
+    This case is the latest in a trend of lower court decisions
+that have misapplied our First Amendment precedents in
+cases involving controversial political speech. See, e.g.,
+L. M. v. Middleborough, 605 U. S. ___, ___–___ (2025)
+(ALITO, J., joined by THOMAS, J., dissenting from denial of
+certiorari) (slip op., at 6–13). And, a concerning number of
+these cases have arisen in the context of the Pickering-Gar-
+cetti framework. See, e.g., Kennedy v. Bremerton School
+Dist., 586 U. S. 1130, 1132–1133 (2019) (statement of
+ALITO, J., respecting denial of certiorari) (explaining how
+“the Ninth Circuit’s understanding of the free speech rights
+of public school teachers is troubling”); Porter v. Board of
+Trustees of N. C. State Univ., 72 F. 4th 573, 586, 595 (CA4
+2023) (Richardson, J., dissenting). If left unchecked, this
+number will likely increase: In many cases, government
+employers may find it convenient to attempt to “restric[t]
+. . . disfavored or unpopular speech in the name of prevent-
+ing disruption.” Dodge v. Evergreen School Dist. #114, 56
+F. 4th 767, 786 (CA9 2022). But, the Pickering-Garcetti
+framework plainly forbids using “the guise of protecting ad-
+ministrative interests” to “disfavor any particular view.” 56
+F. 4th, at 785–787; cf. Mahmoud v. Taylor, 606 U. S. ___,
+___ (2025) (THOMAS, J., concurring) (slip op., at 11) (recog-
+nizing, in the free-exercise context, that school claims of dis-
+ruption must be scrutinized to avoid “giv[ing] schools a
+playbook for evading the First Amendment”).
+    Lower courts are bound to apply the Pickering-Garcetti
+framework as we have articulated it.2 I have serious con-
+
+
+——————
+   2 This obligation does not mean that the Pickering-Garcetti framework
+
+is necessarily correct as a matter of original meaning. Given that the
+                     Cite as: 606 U. S. ____ (2025)                     7
+
+                        Statement of THOMAS, J.
+
+cerns about how the First Circuit applied it here. But, ra-
+ther than raise these broader issues, MacRae’s petition fo-
+cuses on the discrete question whether the framework’s bal-
+ancing test applies at all in the context of a public
+employee’s “unrelated, preemployment speech.” Pet. for
+Cert. i. Because I agree with the Court that this question
+does not independently warrant review, I concur in the de-
+nial of certiorari. In an appropriate case, I would make
+clear that public employers cannot use Pickering-Garcetti
+balancing generally or unsupported claims of disruption in
+particular to target employees who express disfavored po-
+litical views.
+
+
+
+
+——————
+historical rule was that “a public employee had no right to object to [em-
+ployer-imposed] restrict[ions on] the exercise of constitutional rights,”
+there is good reason to think it may not be. Connick v. Myers, 461 U. S.
+138, 143 (1983). But, “unless and until this Court revisits it, [the Pick-
+ering-Garcetti framework] is binding precedent that lower courts must
+faithfully apply.” L. M. v. Middleborough, 605 U. S. ___, ___ (2025)
+(THOMAS, J., dissenting from denial of certiorari) (slip op., at 1).

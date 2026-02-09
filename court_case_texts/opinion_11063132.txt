@@ -1,0 +1,371 @@
+Cite as: 605 U. S. ____ (2025)           1
+
+                     JACKSON, J., dissenting
+
+SUPREME COURT OF THE UNITED STATES
+ CHANEL E. M. NICHOLSON v. W.L. YORK, INC., DBA
+              COVER GIRLS, ET AL.
+   ON PETITION FOR WRIT OF CERTIORARI TO THE UNITED
+    STATES COURT OF APPEALS FOR THE FIFTH CIRCUIT
+               No. 23–7490. Decided June 2, 2025
+
+   The petition for a writ of certiorari is denied.
+   JUSTICE JACKSON, with whom JUSTICE SOTOMAYOR joins,
+dissenting from the denial of certiorari.
+   Chanel Nicholson claims that, on numerous occasions be-
+tween 2013 and 2021, she was barred from entering her
+workplace because of her race. Nicholson filed this lawsuit
+in 2021, alleging intentional race discrimination in viola-
+tion of 42 U. S. C. §1981. According to Nicholson’s com-
+plaint, the most recent instances of race discrimination oc-
+curred within the four-year statute of limitations. But the
+Court of Appeals nonetheless concluded that these claims
+were time barred. In the panel’s view, the more recent acts
+were merely the “continued effects” of prior instances of
+race-based exclusion and thus were not independently ac-
+tionable.
+   That holding flouts this Court’s clear precedents. We
+have long held that “[e]ach discrete discriminatory act
+starts a new clock for filing charges alleging that act,” re-
+gardless of whether similar instances of discrimination
+have occurred in the past. National Railroad Passenger
+Corporation v. Morgan, 536 U. S. 101, 113 (2002). Because
+the Fifth Circuit’s contrary ruling was patently erroneous,
+this Court should have granted Nicholson’s petition and
+summarily reversed the judgment. I respectfully dissent
+from the Court’s decision to do otherwise.
+2              NICHOLSON v. W.L. YORK, INC.
+
+                    JACKSON, J., dissenting
+
+                              I
+                              A
+   Chanel Nicholson is an adult entertainer who performed
+at a pair of clubs in Houston, Texas, called Splendor and
+Cover Girls, during the mid-2010s. Both clubs were owned
+and operated by the same individuals. Each club required
+dancers like Nicholson to sign a “License and Access Agree-
+ment” that guaranteed the performer the right to “se[t] her
+own schedule of when and what hours she works” and “ar-
+rive and leave the premises at any time without penalty.”
+App. B to Third Amended Complaint (TAC) in No. 4:21–cv–
+2624 (SD Tex., June 24, 2022), ECF Doc. 47–2, p. 6, ¶3; App.
+C to TAC, ECF Doc. 47–3, p. 7, ¶3. Nicholson signed the
+agreement with Splendor in 2014 and performed at the es-
+tablishment through 2016. She signed the Cover Girls
+agreement in 2016 and performed there through 2017.
+   According to Nicholson, who is African American, race
+discrimination pervaded the environments of both clubs.
+Splendor and Cover Girls were “well-known” to “severely
+limi[t] the total number of Black Dancers on their respec-
+tive premises,” TAC, ECF Doc. 47, p. 10, ¶40, because “up-
+per management did not want too many Black Dancers”
+present on any given night, id., at 7, ¶29. One former Cover
+Girls manager confirmed that it was “widely known and
+well-accepted that black (African American) girls generally
+are not given positions as dancers in these” establishments.
+App. D to TAC, ECF Doc. 47–4, p. 1, ¶5 (Decl. of A. Skwera).
+This policy was apparently so well established that, when
+the clubs’ director of operations discovered that the man-
+ager had hired African American dancers at Cover Girls, he
+revoked the manager’s hiring privileges. Id., at 2, ¶8.
+   As relevant here, Nicholson alleges that management-
+level employees at Splendor and Cover Girls would bar
+Black dancers from entering those establishments if too
+many other Black performers were already present. “[O]n
+                  Cite as: 605 U. S. ____ (2025)             3
+
+                     JACKSON, J., dissenting
+
+a number of occasions,” she alleges, “the door girl or an act-
+ing manager would send [Nicholson] home after [she] ar-
+rived for her shift because there were already ‘too many
+black girls’ working.” ECF Doc. 47, at 7, ¶28. Nicholson
+estimates that, of the six to seven days per week that she
+would try to work at each club, she was turned away on ap-
+proximately three of the days due to her race. Nicholson
+Deposition Tr. in No. 4:21–cv–2624 (SD Tex., Dec. 5, 2022),
+ECF Doc. 61–1, pp. 14, 20–21. In particular, Nicholson al-
+leges that, while working at Cover Girls in November 2017,
+she was once again “told by a manager that she could not
+perform because there were already ‘too many black girls’ ”
+in the club. ECF Doc. 47, at 8, ¶34. Nicholson eventually
+got “tired of being treated like that” and stopped performing
+at Cover Girls entirely. ECF Doc. 61–1, at 13.
+  Nicholson took a hiatus from dancing between 2018 and
+2021, during which time her License and Access Agree-
+ments remained valid. She attempted to return to perform-
+ing at Splendor in August 2021. But a manager again re-
+fused her entry, telling her they were “not taking any more
+black girls.” Id., at 21; see also ECF Doc. 47, at 9, ¶37. Dur-
+ing this conversation, Nicholson saw a White dancer enter
+the club, seemingly preparing to start her shift. Ibid., ¶38.
+                             B
+  In August 2021, Nicholson filed a lawsuit against Splen-
+dor and Cover Girls. Invoking 42 U. S. C. §1981, she
+claimed that the clubs had engaged in intentional race dis-
+crimination by barring her entrance and that of other
+women of color. Nicholson’s complaint alleged that these
+acts had “deprive[d]” her “of the same right to make and
+enforce contracts as Caucasian female entertainers.” ECF
+Doc. 47, at 16, ¶54.
+  As relevant to this dispute, two of Nicholson’s §1981
+claims survived a motion to dismiss: one against Splendor
+for being denied access to the club in August 2021, and one
+4               NICHOLSON v. W.L. YORK, INC.
+
+                     JACKSON, J., dissenting
+
+against Cover Girls for being denied access in November
+2017. Both events allegedly occurred within the four-year
+period before Nicholson’s August 2021 filing. The District
+Court nevertheless granted summary judgment in favor of
+the clubs and against Nicholson, on the ground that her
+claims regarding these allegedly discriminatory acts were
+untimely. App. C to Pet. for Cert. 10, 14.
+   The Fifth Circuit affirmed. In its view, Nicholson “was
+first denied access to Splendor’s premises as early as a week
+after signing her [License and Access Agreement] in Sep-
+tember 2014,” and that same discriminatory treatment had
+merely “continued.” App. A to Pet. for Cert. 8–9. The court
+thus concluded that Nicholson’s “claims of unlawful dis-
+crimination began to accrue in 2014,” id., at 9, because she
+“was first turned away by Splendor for a discriminatory
+reason in 2014 and, when she checked back in with Splen-
+dor in 2021, nothing had changed,” id., at 8; see also ibid.
+(“Splendor’s position [had] remained the same: Nicholson
+was refused access to the premises because she was Black”).
+According to the Fifth Circuit, “her denial of access to the
+club . . . on account of her race” in 2021 was “merely a con-
+tinued effect of the first alleged discriminatory act that took
+place in 2014.” Id., at 9; see also id., at 7.
+   The panel reached the same conclusion with respect to
+Nicholson’s §1981 claim against Cover Girls. “[A]s early as
+her first week after signing the [License and Access Agree-
+ment] with Cover Girls in November 2016, she was denied
+access to the club on account of her race.” Id., at 10. And
+“nothing [had] changed when she returned to Cover Girls
+in November 2017—she was again denied access on account
+of her race.” Ibid. Thus, Nicholson’s claim against Cover
+Girls “began to accrue when she signed the [agreement]
+with the club in November 2016,” and this “first act of dis-
+crimination . . . merely remained ongoing when she re-
+turned in 2017.” Ibid.
+                  Cite as: 605 U. S. ____ (2025)            5
+
+                     JACKSON, J., dissenting
+
+                             II
+   The Fifth Circuit’s analysis of the statute of limitations
+is patently erroneous under our longstanding precedents.
+                               A
+    First enacted after the Civil War, §1981 creates a federal
+cause of action for claims of intentional race discrimination
+in contracting. The statute specifically guarantees that
+“[a]ll persons within the jurisdiction of the United States
+shall have the same right . . . to make and enforce contracts
+. . . as is enjoyed by white citizens.” §1981(a). This Court
+has further recognized that §1981 establishes liability for
+purposeful discrimination wherever race is a but-for cause
+of the relevant injury. See General Building Contractors
+Assn., Inc. v. Pennsylvania, 458 U. S. 375, 391 (1982); Com-
+cast Corp. v. National Assn. of African American-Owned
+Media, 589 U. S. 327, 341 (2020).
+    Discrimination claims concerning contract performance
+are subject to a four-year statute of limitations. 28 U. S. C.
+§1658(a); see also Jones v. R. R. Donnelley & Sons Co., 541
+U. S. 369, 383 (2004). For claims involving discrete acts of
+discrimination, that statute of limitations commences on
+the date of the alleged discriminatory act. See Chardon v.
+Fernandez, 454 U. S. 6, 8 (1981) (per curiam) (“[T]he proper
+focus” of this inquiry is “the time of the discriminatory act,
+not the point at which the consequences of the act become
+painful”). The statute of limitations for a §1981 claim based
+on a “discrete discriminatory ac[t]” thus generally runs
+from the day that the act “ ‘happened.’ ” Morgan, 536 U. S.,
+at 110.
+    Here, Nicholson’s complaint alleges two discrete in-
+stances of discriminatory treatment by the clubs’ managers
+and employees. Nicholson claims that Splendor and Cover
+Girls prevented Black dancers from working at the clubs if
+a sufficient number of other Black dancers were already
+present. She alleges, in particular, that she was barred
+6               NICHOLSON v. W.L. YORK, INC.
+
+                     JACKSON, J., dissenting
+
+from entering the clubs because of her race in November
+2017 and August 2021, despite her contractual right to
+“se[t] her own schedule” and “arrive and leave the premises
+at any time without penalty.” ECF Doc. 47–2, at 6, ¶3; ECF
+Doc. 47–3, at 7, ¶3. Thus, as alleged in her complaint, Ni-
+cholson suffered two adverse and discriminatory actions—
+race-based exclusion from the clubs on two occasions—that
+took place within the four-year limitations period. This con-
+stitutes a textbook example of actionable conduct under
+§1981. See, e.g., Morgan, 536 U. S., at 113.
+   Contrast this with discrimination claims involving ac-
+tions that are not themselves discriminatory, and thus do
+not provide independent bases for §1981 liability or restart
+the statute-of-limitations clock. Sometimes plaintiffs point
+to adverse actions that are race neutral but nonetheless re-
+flect the “continued effects” of earlier discriminatory deci-
+sions. Consider a professor who is initially denied tenure
+because of his race. That denial would be race-based and
+actionable under §1981, and the professor’s claim would ac-
+crue “at the time the tenure decision was made and commu-
+nicated to” him. Delaware State College v. Ricks, 449 U. S.
+250, 258 (1980). But, notably, if the university later decides
+(neutrally) to discharge any faculty members who had been
+denied tenure, the statute of limitations for the professor’s
+race-discrimination claim would still run from the initial
+tenure decision. Id., at 253, 258. That is because the race-
+based tenure denial was the discriminatory cause of the
+professor’s race-neutral termination. In other words, if the
+professor’s subsequent termination is merely “a delayed,
+but inevitable, consequence” of the earlier discriminatory
+tenure decision, the discrimination claim accrues “at the
+time the tenure decision was made and communicated to”
+the plaintiff, not at the time of his later termination. Id., at
+257–258; see also Chardon, 454 U. S., at 8 (“The fact of ter-
+mination is not itself an illegal act”).
+                  Cite as: 605 U. S. ____ (2025)             7
+
+                     JACKSON, J., dissenting
+
+  The adverse actions that Nicholson identifies are differ-
+ent because they exhibit no such neutrality. The clubs’ pol-
+icy of excluding Black dancers, if proven true, is discrimi-
+natory—but so, too, is each decision to bar a dancer from
+the premises because of her race. Nicholson’s allegations—
+that, due to her race, she was barred from entering Cover
+Girls in November 2017 and Splendor in August 2021—are
+claims of unlawful discrimination that are actionable on
+their own terms.
+  The fact that Nicholson allegedly suffered similar acts of
+race discrimination in the past has no bearing on whether
+those two claims can proceed. As this Court has made
+abundantly clear, “[t]he existence of past acts and the em-
+ployee’s prior knowledge of their occurrence . . . does not bar
+employees from filing [claims] about related discrete acts so
+long as the acts are independently discriminatory.” Mor-
+gan, 536 U. S., at 113. Rather, “[e]ach discrete discrimina-
+tory act starts a new clock for filing charges alleging that
+act.” Ibid.
+                                B
+   That last point bears repeating plainly, in light of the
+Fifth Circuit’s obvious confusion: If the discrete act that is
+the subject of the plaintiff ’s discrimination complaint is it-
+self discriminatory, and if it allegedly occurred within the
+statute of limitations period, then that discrimination claim
+is timely—full stop.
+   To be sure, “discrete acts that fall within the statutory
+time period do not make timely acts that fall outside the
+time period.” Id., at 112 (emphasis added). But it does not
+follow that acts falling outside of the time period can make
+untimely those that fall squarely within it.
+   Nor does the continuing-violations doctrine—which ap-
+plies to hostile work environment claims and similar legal
+claims that are “based on the cumulative effect of individual
+8                  NICHOLSON v. W.L. YORK, INC.
+
+                         JACKSON, J., dissenting
+
+acts,” id., at 115—play any role in the proper analysis. Hos-
+tile work environment claims “are different in kind from
+discrete acts” because “[t]heir very nature involves repeated
+conduct” that “may not be actionable on its own.” Ibid.
+Such claims are therefore based on a “series of separate acts
+that collectively constitute one ‘unlawful employment prac-
+tice.’ ” Id., at 117. Additionally, because of the unique na-
+ture of hostile work environment claims, the statute of lim-
+itations accrues from the most recent act that contributed
+to the claim, enabling suit for harassment that might have
+started outside the limitations window. See ibid.1 For dis-
+crete-act claims such as Nicholson’s, however, liability
+“does not depend upon proof of repeated conduct extending
+over a period of time.” Id., at 120, n. 12.
+   The Fifth Circuit’s central misstep, then, was to conclude
+that past acts of race discrimination that are materially
+identical to subsequent discriminatory acts prevent the
+later acts from being actionable. In the panel’s view, be-
+cause the clubs’ racially discriminatory positions had “re-
+mained the same” from the first alleged acts of discrimina-
+tion to the last—i.e., because “Nicholson was [persistently]
+refused access to the premises because she was Black,” App.
+A to Pet. for Cert. 8—Nicholson had four years from the in-
+itial manifestation of this club practice to file her lawsuit.
+Nicholson’s race-based exclusion in 2017 and 2021 was cer-
+tainly not surprising, given the clubs’ history of discrimina-
+tion. But that does not make those exclusions nondiscrim-
+inatory. All it shows is that Nicholson experienced multiple
+acts of discrimination, each occurrence of which, if alleged
+within the statute of limitations, states a claim under
+§1981.
+——————
+  1 The continuing-violations construct does the work of pulling all of the
+
+relevant conduct within the statute of limitations, even if it occurred out-
+side of that timeframe. Thus, even where relevant, that doctrine does
+not operate to preclude liability for acts that fall within the statutory
+timeframe.
+                      Cite as: 605 U. S. ____ (2025)                       9
+
+                          JACKSON, J., dissenting
+
+                              C
+   Given the above principles, calculating the statute of lim-
+itations for Nicholson’s claims should have been straight-
+forward. A discrete discriminatory act “ ‘occur[s]’ on the day
+that it ‘happened.’ ” Morgan, 536 U. S., at 110. Here, Ni-
+cholson alleges that she was barred from entering the clubs
+due to her race in November 2017 and August 2021.2 The
+four-year statute of limitations for Nicholson’s November
+2017 claim against Splendor would lapse in November
+2021, and the statute of limitations for her August 2021
+claim against Cover Girls would expire in August 2025. Ni-
+cholson’s filing—which occurred in August 2021—satisfied
+both of these statutory timelines.
+   To conclude that Nicholson’s claims are time barred be-
+cause there were earlier instances of discriminatory treat-
+ment, as the Fifth Circuit did, impermissibly inoculates the
+clubs’ more recent discriminatory conduct. If sustained dis-
+criminatory motivation is all that is required to transform
+recent, racially discriminatory acts into the “continued ef-
+fects” of earlier discriminatory conduct, then past discrimi-
+nation could inexplicably prevent recovery for later, simi-
+larly unlawful conduct. Quite to the contrary, §1981’s
+statute of limitations plainly authorizes a legal challenge
+
+——————
+  2 The primary briefs that Nicholson and respondents filed in both the
+
+Fifth Circuit and this Court repeatedly characterized Nicholson’s claims
+as alleging “discrete” acts of discrimination. See, e.g., Pet. for Cert. 24
+(“Petitioner is only claiming for one discrete event: denial of her access
+to Splendor to work, in 2021”); id., at 26 (“Plaintiff ’s denial of access to
+Cover Girls in late November 2017 was simply one more discrete, dis-
+criminatory act”); Brief in Opposition 9 (adopting Nicholson’s character-
+ization); see also Brief for Appellant in No. 23–20440 (CA5), ECF Doc.
+21, pp. 18–19 (“[T]his denial of access was a discrete act of discrimination
+commencing a new . . . statute of limitations clock”). This opinion thus
+eschews construing Nicholson’s allegations as pattern-or-practice claims,
+as the reply brief filed in this Court on Nicholson’s behalf now urges.
+Reply to Brief in Opposition 1–3.
+10             NICHOLSON v. W.L. YORK, INC.
+
+                    JACKSON, J., dissenting
+
+that is brought within four years of when the discrimina-
+tory acts occurred, regardless of whether the plaintiff was
+previously subjected to similar unlawful conduct, too.
+                         *     *    *
+   Chanel Nicholson alleges that she was prohibited from
+entering her workplace on account of her race. Nicholson
+needed to file her §1981 suit within four years of those dis-
+criminatory acts—which she did. As such, §1981’s statute
+of limitations should have posed no barrier to Nicholson ob-
+taining judicial review of her claims. In my view, the Court
+should have granted Nicholson’s petition and summarily re-
+versed the Fifth Circuit’s patently erroneous conclusions
+about the untimeliness of her claims.

@@ -1,0 +1,402 @@
+Cite as: 605 U. S. ____ (2025)            1
+
+
+
+
+SUPREME COURT OF THE UNITED STATES
+                         _________________
+
+                         No. 24A1063
+                         _________________
+
+
+   SOCIAL SECURITY ADMINISTRATION, ET AL. v.
+   AMERICAN FEDERATION OF STATE, COUNTY,
+       AND MUNICIPAL EMPLOYEES, ET AL.
+                 ON APPLICATION FOR STAY
+                        [June 6, 2025]
+
+   On January 20, 2025, the President signed an executive
+order “establish[ing] the Department of Government Effi-
+ciency” (DOGE) with the goal of “modernizing Federal tech-
+nology and software to maximize governmental efficiency
+and productivity.” Exec. Order No. 14158, 90 Fed. Reg.
+8441. The executive order requires agency heads to estab-
+lish “DOGE Team[s]” within their agencies and to “ensure
+[DOGE] has full and prompt access to all unclassified
+agency records, software systems, and IT systems” in a
+manner “consistent with applicable law.” Id., §§3(c), 4(b),
+5(b). On April 17, the District Court preliminarily enjoined
+the Social Security Administration (SSA) from granting
+DOGE affiliates access to various SSA records, subject to
+certain exceptions. The en banc Fourth Circuit denied the
+Government’s request to stay the preliminary injunction by
+a vote of nine to six. The Government now seeks a stay from
+this Court.
+   When considering whether to grant a stay, this Court
+looks to four factors: “(1) whether the stay applicant has
+made a strong showing that he is likely to succeed on the
+merits; (2) whether the applicant will be irreparably injured
+absent a stay; (3) whether issuance of the stay will substan-
+tially injure the other parties interested in the proceeding;
+and (4) where the public interest lies.” Nken v. Holder, 556
+U. S. 418, 434 (2009) (quoting Hilton v. Braunskill, 481
+2                       SSA v. AFSCME
+
+                     JACKSON, J., dissenting
+
+U. S. 770, 776 (1987)). After review, we determine that the
+application of these factors in this case warrants granting
+the requested stay. We conclude that, under the present
+circumstances, SSA may proceed to afford members of the
+SSA DOGE Team access to the agency records in question
+in order for those members to do their work.
+   The application for stay presented to THE CHIEF JUSTICE
+and by him referred to the Court is granted. The April 17,
+2025, preliminary injunction entered by the United States
+District Court for the District of Maryland, case No. 1:25–
+cv–596, is stayed pending the disposition of the appeal in
+the United States Court of Appeals for the Fourth Circuit
+and disposition of a petition for a writ of certiorari, if such
+a writ is timely sought. Should certiorari be denied, this
+stay shall terminate automatically. In the event certiorari
+is granted, the stay shall terminate upon the sending down
+of the judgment of this Court.
+   JUSTICE KAGAN would deny the application.
+   JUSTICE JACKSON, with whom JUSTICE SOTOMAYOR joins,
+dissenting from the grant of application for stay.
+   Today the Court grants “emergency” relief that allows the
+Social Security Administration (SSA) to hand DOGE staff-
+ers the highly sensitive data of millions of Americans. The
+Government wants to give DOGE unfettered access to this
+personal, non-anonymized information right now—before
+the courts have time to assess whether DOGE’s access is
+lawful. So it asks this Court to stay a lower court’s decision
+to place temporary and qualified limits on DOGE’s data ac-
+cess while litigation challenging DOGE’s authority to ac-
+cess the data is pending. But the Government fails to sub-
+stantiate its stay request by showing that it or the public
+will suffer irreparable harm absent this Court’s interven-
+tion. In essence, the “urgency” underlying the Govern-
+ment’s stay application is the mere fact that it cannot be
+bothered to wait for the litigation process to play out before
+                  Cite as: 605 U. S. ____ (2025)             3
+
+                     JACKSON, J., dissenting
+
+proceeding as it wishes.
+   That sentiment has traditionally been insufficient to jus-
+tify the kind of extraordinary intervention the Government
+seeks. But, once again, this Court dons its emergency-re-
+sponder gear, rushes to the scene, and uses its equitable
+power to fan the flames rather than extinguish them. See,
+e.g., Noem v. Doe, 605 U. S. ___, ___ (2025) (JACKSON, J.,
+dissenting from grant of application for stay) (slip op., at 5)
+(explaining that, by granting a stay, the Court was allowing
+the Government to terminate the lawful parole status of
+half a million noncitizens before the courts could determine
+whether such agency action was lawful). Once again, re-
+spectfully, I dissent.
+                               I
+                               A
+   The SSA and the sensitive data it collects are well known
+to Americans who entrust their information to that govern-
+ment agency. Social Security numbers, birth dates, ad-
+dresses, bank-account numbers, medical records—all of
+that, and more, is in the mix. Every person who has re-
+ceived a Social Security number appears in the SSA’s data.
+And beyond the identification numbers and retirement ben-
+efits that bear the agency’s name, the SSA also administers
+a host of other programs, such as Social Security Disability
+Insurance, which collects detailed medical histories (de-
+scribing, for example, prescriptions, mental-health treat-
+ments, and testing results for sensitive health conditions
+like HIV) from applicants and beneficiaries. See App. to
+Application for Stay 98a–99a (App.). Since 1935, the SSA
+has been collecting, storing, and, perhaps most importantly,
+protecting the information that Americans provide.
+   Some of the most critical safeguards are established in a
+federal law called the Privacy Act of 1974, 5 U. S. C. §552a,
+which Congress enacted “to protect the privacy of individu-
+4                       SSA v. AFSCME
+
+                     JACKSON, J., dissenting
+
+als identified in information systems maintained by Fed-
+eral agencies.” §2(a)(5), 88 Stat. 1896. In its findings sup-
+porting the Privacy Act, Congress focused on “the collection,
+maintenance, use, and dissemination of personal infor-
+mation by Federal agencies,” specifically noting that those
+agency practices “directly affec[t]” individual privacy.
+§2(a)(1), id., at 1896. Congress also recognized “the harm
+to individual privacy that can occur” from the Government’s
+mishandling of Americans’ sensitive information—harm
+that can relate to “employment, insurance, and credit,”
+among other areas of life. §§2(a)(2)–(3), ibid.
+   To protect against the significant privacy risks that the
+Government’s handling of Americans’ sensitive information
+creates, the Privacy Act regulates federal agencies’ “collec-
+tion, maintenance, use, and dissemination of ” such data.
+§2(a)(5), ibid. As relevant here, the Act prohibits agencies
+from disclosing covered data except in narrow circum-
+stances, such as where agency employees “have a need for
+the record in the performance of their duties.” 5 U. S. C.
+§552a(b)(1).
+   It should come as no surprise, then, that the SSA has long
+followed a policy of restricting access to the personal records
+the agency maintains, consistent with the Privacy Act and
+similar laws. App. 24a, 116a–117a. For example, before
+granting its employees access to SSA data, the agency
+strictly enforces background checks, training requirements,
+and agreements outlining sanctions for misuse of data. Id.,
+at 114a–122a. It also limits employees’ access to sensitive
+data to only what they need in order to perform their as-
+signed job responsibilities. Id., at 114a.
+                            B
+  The SSA’s established practices for handling Americans’
+data changed dramatically after January 20, 2025—the day
+the President issued an Executive Order creating the De-
+partment of Government Efficiency, or DOGE. Exec. Order
+                  Cite as: 605 U. S. ____ (2025)             5
+
+                     JACKSON, J., dissenting
+
+No. 14158, 90 Fed. Reg. 8441. DOGE’s stated purpose was
+to “modernize[e] Federal technology and software to max-
+imize governmental efficiency and productivity.” Ibid. Ac-
+cording to the Government, the core of DOGE’s work in-
+volves “ ‘ “identifying fraud, waste, and abuse.” ’ ” App. 41a.
+DOGE demanded immediate and unfettered access to the
+SSA’s data and systems shortly after its creation. Id., at
+46a–48a. And though it encountered initial obstacles,
+DOGE soon obtained access to troves of sensitive infor-
+mation stored in the SSA’s computer files. Ibid.
+    Record evidence reflects that DOGE received far broader
+data access than the SSA customarily affords for fraud,
+waste, and abuse reviews. A former Acting Chief of Staff at
+the SSA recounted that similar investigations typically
+“ ‘start with access to high-level, anonymized data based on
+the least amount of data the analyst or auditor would need
+to know.’ ” Id., at 48a. Only if suspicious entries appear
+would the reviewer then gain “ ‘access [to] more granular,
+non-anonymized data [limited] to just that subset of files.’ ”
+Ibid.
+    In February 2025, respondents (two labor unions and a
+grassroots advocacy organization) filed a lawsuit in the Dis-
+trict of Maryland, seeking to block DOGE from breaching
+the SSA’s standard protocols. Respondents alleged that, by
+opening the SSA’s data systems to unfettered access by
+DOGE personnel, the SSA and DOGE officials had run
+afoul of the Privacy Act and the Administrative Procedure
+Act (APA), 5 U. S. C. §706(2).
+    After assessing the relevant legal factors and evidence,
+the District Court entered a preliminary injunction that
+temporarily placed qualified limitations on DOGE staffers’
+access to SSA data. Its order was accompanied by a 145-
+page opinion laying out the court’s legal reasoning and fac-
+tual findings. The District Court found, specifically, that
+respondents were likely to succeed on the merits of their
+6                       SSA v. AFSCME
+
+                     JACKSON, J., dissenting
+
+claims that the SSA’s and DOGE’s actions violated the Pri-
+vacy Act and the APA. App. 166a. It also found that, absent
+temporary injunctive relief, respondents’ members would
+suffer irreparable injury from the disclosure of their per-
+sonal information to DOGE staffers—harm that could not
+later be remedied with money damages. Id., at 161a–162a.
+  The Government appealed and requested a stay of the
+District Court’s order. The Court of Appeals for the Fourth
+Circuit, sitting en banc, declined to stay the preliminary in-
+junction pending its resolution of the merits. Id., at 2a. So,
+the Government now seeks a stay from us.
+                               II
+   Just last week, I wrote about the requirements for grant-
+ing stay applications and, in particular, how this Court’s
+emergency-docket practices were decoupling from the tra-
+ditional harm-reduction justification for equitable stays.
+See Noem, 605 U. S., at ___ (slip op., at 5). With today’s
+decision, it seems as if the Court has truly lost its moorings.
+It interferes with the lower courts’ informed and equitable
+assessment of how the SSA’s data is best accessed during
+the course of this litigation, and it does so without any
+showing by the Government that it will actually suffer con-
+crete or irreparable harm from having to comply with the
+District Court’s order.
+   What the lower courts have done here is carefully craft
+interim relief tailored to the needs of the moment. To start,
+the District Court received sworn evidence about what
+DOGE wants to do and considered all of the interests at
+stake. Moreover, and importantly, the District Court re-
+peatedly asked the critical question: Why does DOGE need
+immediate, unfettered, and unprecedented access to highly
+sensitive non-anonymized data to accomplish its objectives?
+The Government’s answers were “imprecise, contradictory,
+and insufficient.” App. 154a. And when the court requested
+further clarification, the Government passed. Id., at 32a
+                  Cite as: 605 U. S. ____ (2025)             7
+
+                     JACKSON, J., dissenting
+
+(choosing instead to “ ‘stand on the record in its current
+form’ ”). Ultimately, the court found, the Government
+“never made clear why . . . the DOGE Team requires unbri-
+dled access to the [personally identifiable information] of
+countless Americans in order to effectuate [its] responsibil-
+ities.” Id., at 154a.
+   Despite the Government’s poor showing, the District
+Court still structured its injunction in a minimally burden-
+some manner from the Government’s standpoint. The in-
+junction allows the SSA to provide DOGE staffers with ac-
+cess to redacted or anonymized data and SSA records, so
+long as DOGE staffers meet the training, background-
+check, and other requirements that generally govern such
+access. Id., at 170a–171a. The injunction also permits the
+SSA to grant DOGE staffers access to “discrete, particular-
+ized, and non-anonymized data” if DOGE gives the agency
+a written explanation of its specific need for the records.
+Id., at 171a. And the injunction expressly leaves intact the
+SSA’s “ordinary operations.” Id., at 172a. Thus, in the end,
+the District Court’s order amounts to a short-term pause on
+giving DOGE unfettered and uniquely unprotected access
+to millions of Americans’ sensitive, non-anonymized data,
+paired with reasonable conditions on data access in the in-
+terim.
+   Dissatisfied with even those minor limitations, the Gov-
+ernment rushed to the Fourth Circuit and sought a stay of
+the District Court’s injunction. That court then considered
+the matter en banc, and its judges, too, commented on the
+Government’s poor performance. One highlighted “the gov-
+ernment’s inability to provide a convincing explanation of
+how it will be tangibly and irreparably harmed absent a
+stay.” Id., at 15a (Heytens, J., concurring in denial of stay).
+Another noted that, based on the record, “DOGE’s work
+could be accomplished largely with anonymized and re-
+dacted data, along with discrete pieces of non-anonymized
+data in limited, appropriate circumstances—as has long
+8                       SSA v. AFSCME
+
+                     JACKSON, J., dissenting
+
+been typical at SSA for the type of technology upgrades and
+waste, abuse, and fraud detection that DOGE claims to be
+doing.” Id., at 7a (King, J., concurring in denial of stay).
+   The Fourth Circuit’s evaluation led it to deny the Govern-
+ment’s request for a stay. Still, that court committed to con-
+tinue addressing this matter en banc, and it set a briefing
+schedule with respect to the Government’s substantive ap-
+peal of the District Court’s preliminary injunction. Briefing
+is scheduled to conclude next month, and the arguments
+presented will be considered and ruled upon by all the ac-
+tive judges on that court.
+                               III
+  Stepping back to take a birds-eye view of the stay request
+before us, the Government’s failure to demonstrate harm
+should mean that the general equity balance tips decisively
+against granting a stay. See Noem, 605 U. S., at ___ (slip
+op., at 4). On the one hand, there is a repository of millions
+of Americans’ legally protected, highly sensitive infor-
+mation that—if improperly handled or disseminated—risks
+causing significant harm, as Congress has already recog-
+nized. On the other, there is the Government’s desire to
+ditch the usual protocols for accessing that data, before the
+courts have even determined whether DOGE’s access is
+lawful. In the first bucket, there is also the state of federal
+law, which enshrines privacy protections, and the Presi-
+dent’s constitutional obligation to faithfully execute the
+laws Congress has passed. This makes it not at all clear
+that it is in the public’s interest for the SSA to give DOGE
+staffers unfettered access to all Americans’ non-anony-
+mized data before its entitlement to such access has been
+established, especially when the SSA’s own employees have
+long been subject to restrictions meant to protect the Amer-
+ican people.
+  One more equitable consideration: Throughout the lower
+courts’ thorough evaluations, the Government never
+                     Cite as: 605 U. S. ____ (2025)                   9
+
+                        JACKSON, J., dissenting
+
+deigned to substantiate its purported need for unfettered
+access, much less demonstrate why it must have that de-
+gree of access now. And it produces nothing more on that
+score with respect to the “emergency” application this Court
+considers today. The lower courts repeatedly placed the
+Government on notice of its harm-related failures, yet the
+Government still offers us next to nothing to satisfy its bur-
+den.*
+   In my view, granting the Government a stay on this
+plainly deficient showing of harm is also systemically cor-
+rosive. We have told everyone that it is “critical” that an
+applicant justify its request for a stay from this Court by
+showing that it “ ‘will be irreparably injured absent a stay.’ ”
+Nken v. Holder, 556 U. S. 418, 434 (2009). So the idea that
+the Government actually need not satisfy the irreparable-
+harm burdens that other stay applicants have, nor wait for
+the courts to decide the merits of challenges to its allegedly
+unlawful conduct—as other litigants must—is not costless.
+   To accept this line of argument sends a troubling mes-
+sage: that this Court will allow departures from our stated
+legal standards and the basic norms of our judicial system
+(such as respect for lower court rulings and equal justice
+under law) for certain litigants. It says, in essence, that
+although other stay applicants must point to more than the
+annoyance of compliance with lower court orders they don’t
+like, the Government can approach the courtroom bar with
+nothing more than that and obtain relief from this Court
+nevertheless. It is particularly startling to think that
+
+
+——————
+  * In its reply brief, the Government glibly contends that it is harmed
+by the injunction’s effect on the Government’s work. Reply in Support of
+Application for Stay 13–14 (accusing the courts of “micromanaging” the
+Executive Branch and imposing “inefficient” restrictions). Those kinds
+of generalized complaints are mere descriptors of what it means to be
+constrained by law. As such, they are manifestly insufficient to demon-
+strate concrete harm.
+10                     SSA v. AFSCME
+
+                    JACKSON, J., dissenting
+
+grants of relief in these circumstances might be (uninten-
+tionally) conveying not only preferential treatment for the
+Government but also a willingness to undercut both our
+lower court colleagues’ well-reasoned interim judgments
+and the well-established constraints of law that they are in
+the process of enforcing.
+                         *     *     *
+   The lower courts are hard at work, expeditiously as-
+sessing whether federal law permits the SSA to give DOGE
+staffers unfettered access to Americans’ sensitive infor-
+mation. The only question before us today is what should
+happen to all of that data in the meantime. Two lower
+courts have said that DOGE staffers should have to comply
+with temporary safeguards on data access while the litiga-
+tion is proceeding. Meanwhile, here, the Government has
+plainly failed to meet the moment, as it has not shown that
+it will suffer any concrete or irreparable harm unless this
+Court immediately intervenes.
+   But, today, the Court grants a stay permitting the Gov-
+ernment to give unfettered data access to DOGE regard-
+less—despite its failure to show any need or any interest in
+complying with existing privacy safeguards, and all before
+we know for sure whether federal law countenances such
+access. The Court is thereby, unfortunately, suggesting
+that what would be an extraordinary request for everyone
+else is nothing more than an ordinary day on the docket for
+this Administration. I would proceed without fear or favor
+to require DOGE and the Government to do what all other
+litigants must do to secure a stay from this Court: comply
+with lower court orders constraining their behavior unless
+and until they establish that irreparable harm will result
+such that equity requires a different course. The Court opts
+instead to relieve the Government of the standard obliga-
+tions, jettisoning careful judicial decisionmaking and creat-
+                 Cite as: 605 U. S. ____ (2025)           11
+
+                    JACKSON, J., dissenting
+
+ing grave privacy risks for millions of Americans in the pro-
+cess.

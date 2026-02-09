@@ -1,0 +1,573 @@
+Cite as: 605 U. S. ____ (2025)            1
+
+                     THOMAS, J., dissenting
+
+SUPREME COURT OF THE UNITED STATES
+    L. M., A MINOR, BY AND THROUGH HIS FATHER AND
+ STEPMOTHER AND NATURAL GUARDIANS, CHRISTOPHER
+       AND SUSAN MORRISON v. TOWN OF
+    MIDDLEBOROUGH, MASSACHUSETTS, ET AL.
+   ON PETITION FOR WRIT OF CERTIORARI TO THE UNITED
+    STATES COURT OF APPEALS FOR THE FIRST CIRCUIT
+               No. 24–410.   Decided May 27, 2025
+
+   The petition for a writ of certiorari is denied.
+   JUSTICE THOMAS, dissenting from the denial of certiorari.
+   In Tinker v. Des Moines Independent Community School
+Dist., 393 U. S. 503 (1969), this Court held that public-
+school officials may not restrict a student’s freedom of
+speech unless his behavior “materially disrupts classwork
+or involves substantial disorder or invasion of the rights of
+others.” Id., at 513. I have previously explained why
+Tinker’s holding is “without basis in the Constitution” and
+should be “dispense[d] with . . . altogether.” Morse v. Fred-
+erick, 551 U. S. 393, 410, 422 (2007) (concurring opinion);
+see id., at 410–422; Mahanoy Area School Dist. v. B. L., 594
+U. S. 180, 216–217 (2021) (dissenting opinion). But, unless
+and until this Court revisits it, Tinker is binding precedent
+that lower courts must faithfully apply.
+   For the reasons explained by JUSTICE ALITO, the First
+Circuit decision below flouts Tinker and its progeny. Post,
+at 6–13 (opinion dissenting from denial of certiorari). Peti-
+tioner L. M. plainly did not create a “materia[l] dis-
+rupt[ion],” Tinker, 393 U. S., at 513, by wearing t-shirts
+reading “There Are Only Two Genders”—and, later, after
+his school barred that shirt—“There Are CENSORED Gen-
+ders,” 103 F. 4th 854, 860 (2024). In holding otherwise, the
+First Circuit distorted this Court’s First Amendment case
+law in significant ways that warrant this Court’s review. I
+therefore join JUSTICE ALITO’s opinion and respectfully dis-
+sent from the denial of certiorari.
+                 Cite as: 605 U. S. ____ (2025)            1
+
+                      ALITO, J., dissenting
+
+SUPREME COURT OF THE UNITED STATES
+    L. M., A MINOR, BY AND THROUGH HIS FATHER AND
+ STEPMOTHER AND NATURAL GUARDIANS, CHRISTOPHER
+       AND SUSAN MORRISON v. TOWN OF
+    MIDDLEBOROUGH, MASSACHUSETTS, ET AL.
+   ON PETITION FOR WRIT OF CERTIORARI TO THE UNITED
+    STATES COURT OF APPEALS FOR THE FIRST CIRCUIT
+               No. 24–410.   Decided May 27, 2025
+
+   JUSTICE ALITO, with whom JUSTICE THOMAS joins, dis-
+senting from the denial of certiorari.
+   This case presents an issue of great importance for our
+Nation’s youth: whether public schools may suppress stu-
+dent speech either because it expresses a viewpoint that the
+school disfavors or because of vague concerns about the
+likely effect of the speech on the school atmosphere or on
+students who find the speech offensive. In this case, a mid-
+dle school permitted and indeed encouraged student ex-
+pression endorsing the view that there are many genders.
+But when L. M., a seventh grader, wore a t-shirt that said
+“There Are Only Two Genders,” he was barred from attend-
+ing class. And when he protested this censorship by block-
+ing out the words “Only Two” and substituting
+“CENSORED,” the school prohibited that shirt as well.
+   The First Circuit held that the school did not violate
+L. M.’s free-speech rights. It held that the general prohibi-
+tion against viewpoint-based censorship does not apply to
+public schools. And it employed a vague, permissive, and
+jargon-laden rule that departed from the standard this
+Court adopted in Tinker v. Des Moines Independent Com-
+munity School Dist., 393 U. S. 503 (1969).
+   The First Circuit’s decision calls out for our review.
+2                 L. M. v. MIDDLEBOROUGH
+
+                      ALITO, J., dissenting
+
+                                I
+                                A
+    In March of 2023, L. M. was a seventh grader at Nichols
+Middle School (NMS or the School) in Middleborough, Mas-
+sachusetts. Inside and outside the classroom, NMS pro-
+motes the view that gender is a fluid construct and that a
+person’s self-defined identity—not biological sex—deter-
+mines whether that person is male, female, or something
+else. See App. to Pet. for Cert. 98a–99a, 125a–126a. NMS
+also encourages students to embrace and express this view-
+point, including during the school’s “PRIDE Spirit Week.”
+Id., at 119a; see also id., at 101a–102a.
+    L. M., however, sees things differently. His “understand-
+ing of basic biology” has led him to believe that “there are
+only two sexes, male and female, and that a person’s gender
+. . . is inextricably tied to sex.” Id., at 90a. Nor is L. M.
+alone in this regard. Several of his peers take issue with
+NMS’s position on questions of human identity, sex, and
+gender, but they remain silent due to the social conse-
+quences of disagreeing with the School’s authority figures.
+Id., at 99a–100a, 126a.
+    To register his dissent and start a dialogue on the topic,
+L. M. wore a shirt to school that read, “There Are Only Two
+Genders.” 103 F. 4th 854, 860 (CA1 2024). But NMS cen-
+sored L. M.’s speech no sooner than it started.
+    The school principal removed L. M. from his first-period
+gym class after a teacher called to report the shirt. The
+teacher expressed concern for the “physical safety” of the
+student body and claimed that “multiple members of the
+LGBTQ+ population at NMS . . . would be impacted by the
+t-shirt message” and could “potentially disrupt classes.”
+Joint App. in No. 23–1535 etc. (CA1), p. 86. After haling
+L. M. into her office, the principal explained that other stu-
+dents had “complained” that the shirt “made them upset.”
+App. to Pet. for Cert. 103a, 127a. She then told L. M. that
+he could not return to class unless he changed clothes.
+                  Cite as: 605 U. S. ____ (2025)            3
+
+                      ALITO, J., dissenting
+
+L. M. declined, so he was sent home.
+  A week and a half later, L. M.’s father emailed the super-
+intendent of the Middleborough Public School System and
+inquired why his son could not wear the “Two Genders”
+shirt. L. M.’s father noted that the shirt was not “directed
+to any particular person” and “simply stated [L. M.’s] view
+on a . . . topic that is being discussed in social media,
+schools, and churches all across our country.” Id., at 121a.
+He also pointed out that many NMS students make political
+statements “every day” through “their choice of clothes,
+pins, posters, and speech.” Ibid.; see, e.g., Reply Brief 12
+(NMS social-media post featuring a student wearing a shirt
+that reads, “HE SHE THEY IT’S ALL OKAY”). L. M.’s fa-
+ther explained that L. M. just wanted to do the same. In
+response, the superintendent explained that the shirt vio-
+lated the school dress code by “target[ing] students of a pro-
+tected class; namely in the area of gender identity.” App. to
+Pet. for Cert. 122a.
+  Frustrated that he was not allowed to express his views
+on an issue of personal and national concern—especially
+when other students and NMS officials routinely espouse
+the opposite position during school hours—L. M. wore a re-
+dacted version of the shirt in protest. It read: “There Are
+CENSORED Genders.” 103 F. 4th, at 860. But this shirt
+fared no better. Moments after L. M. arrived to his first
+class, he was summoned to the principal’s office and told
+that the “CENSORED” shirt was also banned. Rather than
+miss another day of school, L. M. acquiesced and changed
+clothes.
+                              B
+   L. M., by and through his parents and natural guardians,
+filed suit under Rev. Stat. §1979, 42 U. S. C. §1983, in the
+District of Massachusetts against the town, school commit-
+tee, superintendent, and principal. He alleged violations of
+4                  L. M. v. MIDDLEBOROUGH
+
+                        ALITO, J., dissenting
+
+his First and Fourteenth Amendment rights and, as rele-
+vant here, claimed that NMS engaged in viewpoint discrim-
+ination and breached his free-speech rights under this
+Court’s decision in Tinker. Soon after filing the complaint,
+L. M. moved for a preliminary injunction.
+   The District Court denied relief. See 677 F. Supp. 3d 29,
+41 (2023). It acknowledged that students retain their First
+Amendment rights while at public school. But under
+Tinker, the District Court explained, the Constitution al-
+lows schools to restrict student expression that (1) “ ‘mate-
+rially disrupts classwork or involves substantial disorder’ ”
+or (2) “ ‘inva[des] . . . the rights of others.’ ” 677 F. Supp. 3d,
+at 37 (quoting Tinker, 393 U. S., at 513). The District Court
+then concluded that L. M.’s shirts ran afoul of Tinker’s
+“rights of others” limitation. With respect to the first shirt,
+the court reasoned that the “[s]chool administrators were
+well within their discretion to conclude that” gender-
+nonconforming students “have a right to attend school with-
+out being confronted by messages attacking their identi-
+ties,” and L. M.’s “Two Genders” shirt “may communicate
+that only two gender identities—male and female—are
+valid, and any others are invalid or nonexistent.” 677
+F. Supp. 3d, at 38. With respect to the second shirt, the
+court found that the NMS administrators “could reasonably
+conclude” that the “CENSORED” shirt “did not merely pro-
+test censorship but conveyed the ‘censored’ message and
+thus invaded the rights of the other students” too. Id., at
+39.
+   At the parties’ request, the District Court converted its
+preliminary-injunction decision into a final judgment, and
+L. M. appealed. L. M. argued that his expression did not
+target or harass any particular student, that NMS admin-
+istrators lacked sufficient evidence to reasonably predict
+that the shirts would cause a material disruption, and that
+NMS could neither suppress his speech for viewpoint-based
+reasons nor condone a heckler’s veto of his speech.
+                  Cite as: 605 U. S. ____ (2025)             5
+
+                      ALITO, J., dissenting
+
+   On appeal, the First Circuit affirmed on an alternative
+ground. See 103 F. 4th 854. Instead of holding that the
+shirts infringed the “rights of others,” as had the District
+Court, the First Circuit relied on the other justification
+mentioned in Tinker: speech that “materially disrupts
+classwork or involves substantial disorder.” 393 U. S., at
+513. The court acknowledged that L. M.’s shirts—like the
+black armbands in Tinker—expressed his views “passively,
+silently, and without mentioning any specific students.”
+103 F. 4th, at 860. But the court saw a material difference
+between L. M.’s speech and that of the students in Tinker.
+According to the First Circuit, L. M.’s expression—unlike
+the speech in Tinker—“demean[ed] characteristics of per-
+sonal identity, such as race, sex, religion, or sexual orienta-
+tion” that “other students at the school share.” 103 F. 4th,
+at 860, 867. After surveying decisions from other Circuits
+that have encountered similar situations, the First Circuit
+fashioned a bespoke two-pronged test to apply in this con-
+text:
+    “[S]chool officials may bar passive and silently ex-
+    pressed messages by students at school that target no
+    specific student if: (1) the expression is reasonably in-
+    terpreted to demean one of those characteristics of per-
+    sonal identity, given the common understanding that
+    such characteristics are unalterable or otherwise
+    deeply rooted and that demeaning them strike[s] a per-
+    son at the core of his being; and (2) the demeaning mes-
+    sage is reasonably forecasted to poison the educational
+    atmosphere due to its serious negative psychological
+    impact on students with the demeaned characteristic
+    and thereby lead to symptoms of a sick school—symp-
+    toms therefore of substantial disruption.” Id., at 873–
+    874 (citations and internal quotation marks omitted).
+When both prongs are satisfied, the First Circuit explained,
+a court can be confident “that speech is being barred only
+6                  L. M. v. MIDDLEBOROUGH
+
+                       ALITO, J., dissenting
+
+for reasons Tinker permits and not merely because it is ‘of-
+fensive’ in the way that a controversial opinion always may
+be.” Id., at 874 (citing Tinker, 393 U. S., at 509).
+   Applying this standard to the facts at hand, the First Cir-
+cuit resolved both prongs in favor of the School. Specifi-
+cally, it determined (1) that NMS reasonably interpreted
+L. M.’s shirts as asserting that anyone who identifies as
+anything other than male or female is “ ‘invalid or nonexist-
+ent,’ ” which would “demean the identity of transgender and
+gender-nonconforming NMS students”; and (2) such an af-
+front on the very “existence” of these students would “ ‘ma-
+terially disrupt [their] ability to focus on learning.’ ” 103 F.
+4th, at 879–883. In making the latter determination, the
+court deferred to the School’s prior experiences with the
+“ ‘LGBTQ+ population at NMS,’ ” particularly “the serious
+nature of the struggles, including suicidal ideation, that
+some of those students had experienced.” Id., at 882. Given
+the “ ‘vulnerability’ ” of these students, the court saw no rea-
+son to second guess NMS’s prediction that the shirts “would
+so negatively affect the[ir] psychology” that their academic
+performance and class attendance would decline. Ibid.
+   Finally, the First Circuit sidestepped L. M.’s viewpoint-
+discrimination arguments. Rather than fully engage with
+those arguments on the merits, the court, in a footnote,
+declined to import this Court’s broader viewpoint-
+discrimination jurisprudence into the school context. See
+id., at 883, and n. 9; see also id., at 886, n. 11.
+                                II
+   I would grant the petition for two reasons.
+   First, we should reaffirm the bedrock principle that a
+school may not engage in viewpoint discrimination when it
+regulates student speech. Tinker itself made that clear.
+See 393 U. S., at 511 (“Clearly, the prohibition of expression
+of one particular opinion . . . is not constitutionally permis-
+sible”). Curiously, however, the First Circuit declined to
+                      Cite as: 605 U. S. ____ (2025)                     7
+
+                          ALITO, J., dissenting
+
+follow Tinker in this regard, instead cherry-picking which
+First Amendment principles it thought worthy of allowing
+through the schoolhouse gates. By limiting the application
+of our viewpoint-discrimination cases, the decision below
+robs a great many students of that core First Amendment
+protection.
+   Second, we should also grant review to determine
+whether the First Circuit properly understood the rule
+adopted in Tinker regarding the suppression of student
+speech on the ground that it presents a risk of material dis-
+ruption. We have described this standard as “demanding.”
+Mahanoy Area School Dist. v. B. L., 594 U. S. 180, 193
+(2021). But the First Circuit fashioned a rule that is any-
+thing but. The lower courts are divided on how to apply
+Tinker’s “material disruption” standard in a context like
+this one,1 and the decision below underscores the pressing
+need for clarification.
+                               A
+  “[A]bove all else, the First Amendment means that gov-
+ernment has no power to restrict expression because of its
+message, its ideas, its subject matter, or its content.” Police
+——————
+  1 See, e.g., Zamecnik v. Indian Prairie School Dist. No. 204, 636 F. 3d
+
+874, 875 (CA7 2011) (upholding a student’s right to wear a shirt that
+read, “Be Happy, Not Gay”); Nuxoll v. Indian Prairie School Dist.
+No. 204, 523 F. 3d 668, 670 (CA7 2008) (same); Sypniewski v. Warren
+Hills Regional Bd. of Educ., 307 F. 3d 243, 246 (CA3 2002) (upholding a
+student’s right to wear a shirt “inscribed with ‘redneck’ jokes”); see also
+Harper ex rel. Harper v. Poway Unified School Dist., 445 F. 3d 1166, 1171
+(CA9 2006) (upholding a school’s ban of a shirt that read,
+“HOMOSEXUALITY IS SHAMEFUL”), vacated as moot, 549 U. S. 1262
+(2007); Parents Defending Education v. Olentangy Local School Dist. Bd.
+of Educ., 109 F. 4th 453, 464 (CA6) (holding that a school could satisfy
+Tinker’s material-disruption standard by relying on “common-sense con-
+clusions based on human experience” to punish students for the “dehu-
+manizing and humiliating effects of non-preferred pronouns” (internal
+quotation marks omitted)), reh’g en banc granted, 120 F. 4th 536 (CA6
+2024).
+8                 L. M. v. MIDDLEBOROUGH
+
+                      ALITO, J., dissenting
+
+Dept. of Chicago v. Mosley, 408 U. S. 92, 95 (1972). Other-
+wise, the government could purge entire topics from the
+public discourse. And as our cases recognize, these
+freedom-of-speech harms become “all the more blatant”
+when the government “targets not subject matter, but par-
+ticular views taken by speakers on a subject.” Rosenberger
+v. Rector and Visitors of Univ. of Va., 515 U. S. 819, 829
+(1995).
+   Nor is there a carveout from this principle for controver-
+sial, offensive, or disfavored views. For example, we re-
+cently held unconstitutional a statute prohibiting the regis-
+tration of “immoral or scandalous” trademarks, explaining
+that “a law disfavoring ‘ideas that offend’ ” is “the ‘essence
+of viewpoint discrimination.’ ” Iancu v. Brunetti, 588 U. S.
+388, 393, 396 (2019) (quoting Matal v. Tam, 582 U. S. 218,
+223, 249 (2017)). Indeed, the presumption against view-
+point discrimination is of such importance to our constitu-
+tional order that we have even applied it to categories of
+speech—like fighting words—that do not enjoy full First
+Amendment protection. See R. A. V. v. St. Paul, 505 U. S.
+377, 391 (1992). So, for example, Congress could ban all
+fighting words, but it could not ban only those fighting
+words directed toward Protestants.
+   Unsurprisingly, the viewpoint-neutrality rule also ap-
+plies to student speech. Students do not relinquish their
+First Amendment rights at school, see Tinker, 393 U. S., at
+506, and by extension, a school cannot censor a student’s
+speech merely because it is controversial, see Mahanoy, 594
+U. S., at 190. As Tinker itself made clear, the viewpoint-
+neutrality rule plays an important role in safeguarding stu-
+dents’ First Amendment right to express an “unpopular
+viewpoint” at school. 393 U. S., at 509. There, in holding
+unconstitutional the decision to prohibit students from
+wearing black armbands to protest the Vietnam War, we
+emphasized that the school authorities “did not purport to
+                    Cite as: 605 U. S. ____ (2025)                   9
+
+                         ALITO, J., dissenting
+
+prohibit the wearing of all symbols of political or controver-
+sial significance.” Id., at 510. “[S]tudents in some of the
+schools wore buttons relating to national political cam-
+paigns, and some even wore the Iron Cross, traditionally a
+symbol of Nazism.” Ibid. The schools allowed this speech
+but not the armbands. We concluded that such viewpoint
+discrimination “is not constitutionally permissible.” Id., at
+511.
+   L. M. raised a viewpoint-discrimination argument below.
+See Brief for Appellant in No. 23–1535 etc. (CA1), pp. 54–
+55, 64. Namely, he argued that NMS had endorsed and fa-
+vored the expression of the view that “gender is identity-
+based” while “barring [his] contrary view that gender is sex-
+based.” Id., at 55. L. M. also noted our recent reaffirmation
+of the viewpoint-neutrality principle in cases like Matal v.
+Tam and Iancu v. Brunetti. Yet the First Circuit rejected
+that important argument in a footnote, stating: “We see no
+reason to take up L.M.’s invitation to be, as far as we can
+tell, the first court to import recent decisions that clearly
+did not contemplate the special characteristics of the
+public-school setting into that setting.” 103 F. 4th, at 883,
+n. 9 (citing Matal, 582 U. S. 218; Iancu, 588 U. S. 388); see
+also 103 F. 4th, at 886, n. 11.
+   The court below erred, and badly so: the rule that view-
+point-based restrictions on speech are almost never allowed
+is not a new principle proclaimed only in “recent decisions”
+like Matal or Iancu. 103 F. 4th, at 883, n. 9. To the con-
+trary, viewpoint neutrality has long been seen as going to
+“the very heart of the First Amendment.” Morse v. Freder-
+ick, 551 U. S. 393, 423 (2007) (ALITO, J., concurring); cf.
+Rosenberger, 515 U. S., at 829–830. The First Circuit was
+wrong to expel this bedrock constitutional safeguard from
+our schools.2
+——————
+  2 See West Virginia Bd. of Ed. v. Barnette, 319 U. S. 624, 642 (1943)
+
+(explaining that teachers and administrators cannot “prescribe what
+10                     L. M. v. MIDDLEBOROUGH
+
+                            ALITO, J., dissenting
+
+                              B
+   The First Circuit also watered down the test adopted in
+Tinker for determining whether a school’s restriction of stu-
+dent speech is allowed. Because free speech is the default
+and censorship the exception, Tinker set forth a “demand-
+ing standard.” Mahanoy, 594 U. S., at 193. We held that a
+school can restrict speech when it has “evidence” that such
+restrictions are “necessary” to “avoid material and substan-
+tial interference with schoolwork or discipline.” 3 Tinker,
+393 U. S., at 511. Thus, absent a “specific showing” of such
+a disruption—like “threats or acts of violence on school
+premises”—this justification for suppressing student
+speech does not apply. Id., at 508, 511.
+   Under this standard, NMS had no right to censor L. M.
+Like the black armbands in Tinker, L. M.’s shirts were a
+“silent, passive expression of opinion, unaccompanied by
+——————
+shall be orthodox in politics, nationalism, religion, or other matters of
+opinion”); Bethel School Dist. No. 403 v. Fraser, 478 U. S. 675, 681 (1986)
+(affirming the “undoubted freedom to advocate unpopular and controver-
+sial views in schools and classrooms”); Tinker v. Des Moines Independent
+Community School Dist., 393 U. S. 503, 511 (1969) (“In our system, stu-
+dents may not be regarded as closed-circuit recipients of only that which
+the State chooses to communicate. They may not be confined to the ex-
+pression of those sentiments that are officially approved”); Morse, 551
+U. S., at 409 (rejecting the argument that student “speech is proscribable
+[when] it is plainly ‘offensive’ ” because “much political and religious
+speech might be perceived as offensive to some”); Mahanoy Area School
+Dist. v. B. L., 594 U. S. 180, 190 (2021) (“[S]chools have a strong interest
+in ensuring that future generations understand the workings in practice
+of the well-known aphorism, ‘I disapprove of what you say, but I will de-
+fend to the death your right to say it’ ”); id., at 210 (ALITO, J., concurring)
+(“Speech cannot be suppressed just because it expresses thoughts or sen-
+timents that others find upsetting”); Lee v. Weisman, 505 U. S. 577, 590
+(1992) (“To endure the speech of false ideas or offensive content and then
+to counter it is part of learning how to live in a pluralistic society, a soci-
+ety which insists upon open discourse”).
+   3 Tinker also carves out student speech that “inva[des] . . . the rights of
+
+others,” 393 U. S., at 513, but the First Circuit did not rely on that aspect
+of Tinker.
+                  Cite as: 605 U. S. ____ (2025)             11
+
+                       ALITO, J., dissenting
+
+any disorder or disturbance on the part of petitione[r].” Id.,
+at 508. And just as in Tinker, some of L. M.’s classmates
+found his speech upsetting. Feeling upset, however, is an
+unavoidable part of living in our “often disputatious” soci-
+ety, and Tinker made abundantly clear that the “mere de-
+sire to avoid the discomfort and unpleasantness that always
+accompany an unpopular viewpoint” is no reason to thwart
+a student’s speech. Id., at 509. True, NMS also forecasted
+that L. M.’s shirts could lead to a “standoff ” between stu-
+dents who support L. M.’s view and those who oppose it.
+103 F. 4th, at 880. But the schools in Tinker were similarly
+worried that students “would wear arm bands of other col-
+ors” and that this could “evolve into something which would
+be difficult to control.” 393 U. S., at 509, n. 3 (internal quo-
+tation marks omitted). If anything, the risk in Tinker was
+far less speculative than in this case. In Tinker, several
+students had already “made hostile remarks to the children
+wearing armbands,” id., at 508, and a math teacher “had
+his lesson period practically ‘wrecked’ chiefly by disputes
+with Mary Beth Tinker” over her armband, id., at 517
+(Black, J., dissenting). Even so, Tinker deemed the schools’
+concern an “undifferentiated fear” that could not “overcome
+the right to freedom of expression.” Id., at 508 (majority
+opinion).
+  Instead of applying Tinker’s speech-protective standards,
+the court below crafted a novel and permissive test that dis-
+torts the “material disruption” rule beyond recognition.
+The First Circuit identified a special category of speech, i.e.,
+speech that can be interpreted as demeaning a deeply
+rooted characteristic of personal identity. And if student
+speech, as interpreted by the school, falls into this category,
+the school may ban that speech if the school “reasonably
+forecast[s]” that it may have a “serious negative psycholog-
+ical impact on students with the demeaned characteristic.”
+103 F. 4th, at 873–874.
+12                L. M. v. MIDDLEBOROUGH
+
+                      ALITO, J., dissenting
+
+   This rule cannot be squared with Tinker. The black arm-
+bands in that case also involved an emotionally charged
+topic, and the students in the Des Moines public schools
+were not somehow immune from those intense feelings.
+Justice Black made precisely this point in his dissent, writ-
+ing: “Of course students . . . cannot concentrate on lesser is-
+sues when black armbands are being ostentatiously dis-
+played in their presence to call attention to the wounded
+and dead of the war, some of the wounded and the dead be-
+ing their friends and neighbors.” 393 U. S., at 524; see also
+id., at 518 (“[T]he armbands . . . took the students’ minds
+off their classwork and diverted them to thoughts about the
+highly emotional subject of the Vietnam war”). Indeed, a
+“former student of one of [the] high schools was killed in
+Viet Nam,” and “[s]ome of his friends [were] still in school.”
+Id., at 509, n. 3 (majority opinion) (internal quotation
+marks omitted). The Tinker Court nevertheless held that
+this stress and these distractions did not trump the stu-
+dents’ constitutional rights.
+   The First Circuit’s test dilutes Tinker in other ways too.
+To name just a few, it defines “material disruption” to in-
+clude anything that correlates with “a decline in students’
+test scores, an upsurge in truancy, or other symptoms of a
+sick school,” whatever that means. 103 F. 4th, at 870 (in-
+ternal quotation marks omitted). That is a highly permis-
+sive standard, and it certainly requires far less than that
+which Tinker suggested would constitute a “material dis-
+ruption.” See 393 U. S., at 508 (“aggressive, disruptive ac-
+tion”); ibid. (“threats or acts of violence on school prem-
+ises”); ibid. (“group demonstrations”); cf. Mahanoy, 594
+U. S., at 192–193.
+   Further, the First Circuit’s test demands that a federal
+court abdicate its responsibility to safeguard students’ First
+Amendment rights and instead defer to school officials’ as-
+sessment of the meaning and effect of speech. The court
+below, for example, deferred to the School administrators’
+                 Cite as: 605 U. S. ____ (2025)           13
+
+                     ALITO, J., dissenting
+
+determination that L. M.’s shirts conveyed a message that
+demeaned others’ personal identity. 103 F. 4th, at 879–880.
+That court also deferred to the administrators’ speculation
+about the likely effects of the t-shirts on students—even
+though L. M.’s speech resulted in no actual disruptions, and
+even though NMS “was not aware of any prior incidents or
+problems caused by th[e] [shirts’] message[s].” Id., at 882.
+That approach defies Tinker, in which we performed our
+own “independent examination of the record” without trust-
+ing school administrators’ self-serving observations. 393
+U. S., at 509.
+  Tinker’s “material disruption” standard is demanding by
+design. That is because free speech is the rule, not the ex-
+ception. The First Circuit’s test flips that principle on its
+head.
+                              C
+   One final point deserves comment. The First Circuit re-
+peatedly emphasized that L. M.’s speech occurred in a mid-
+dle school where children ranged in age from 10 to 14 years
+old—a point respondents echo in their brief in opposition.
+That should not make a difference. Mary Beth Tinker was
+a 13-year-old student in junior high school, yet the Tinker
+Court applied the same “material disruption” test to her as
+it did to the 15- and 16-year-old high school petitioners,
+John Tinker and Christopher Eckhardt. See id., at 504. If
+a school sees fit to instruct students of a certain age on a
+social issue like LGBTQ+ rights or gender identity, then the
+school must tolerate dissenting student speech on those is-
+sues. If anything, viewpoint discrimination in the lower
+grades is more objectionable because young children are
+more impressionable and thus more susceptible to indoctri-
+nation.
+14               L. M. v. MIDDLEBOROUGH
+
+                     ALITO, J., dissenting
+
+                         *     *    *
+  “The vigilant protection of constitutional freedoms is no-
+where more vital than in the community of American
+schools.” Shelton v. Tucker, 364 U. S. 479, 487 (1960). So
+long as the First Circuit’s opinion is on the books, thou-
+sands of students will attend school without the full pano-
+ply of First Amendment rights. That alone is worth this
+Court’s attention. The problem, however, runs deeper: as
+this case makes clear, some lower courts are confused on
+how to manage the tension between students’ rights and
+schools’ obligations. Our Nation’s students, teachers, and
+administrators deserve clarity on this critically important
+question. Because the Court has instead decided to let the
+confusion linger, I respectfully dissent.

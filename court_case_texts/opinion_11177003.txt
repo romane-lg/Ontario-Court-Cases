@@ -1,0 +1,343 @@
+Cite as: 607 U. S. ____ (2025)              1
+
+                    SOTOMAYOR, J., dissenting
+
+SUPREME COURT OF THE UNITED STATES
+                          _________________
+
+                      No. 25A457 (25–5928)
+                          _________________
+
+
+    ANTHONY BOYD v. JOHN Q. HAMM, COMMIS-
+       SIONER, ALABAMA DEPARTMENT OF
+             CORRECTIONS, ET AL.
+ON APPLICATION FOR STAY AND ON PETITION FOR A WRIT OF
+ CERTIORARI TO THE UNITED STATES COURT OF APPEALS
+             FOR THE ELEVENTH CIRCUIT
+                       [October 23, 2025]
+
+   The application for stay of execution of sentence of death
+presented to JUSTICE THOMAS and by him referred to the
+Court is denied. The petition for a writ of certiorari is de-
+nied.
+   JUSTICE SOTOMAYOR, with whom JUSTICE KAGAN and
+JUSTICE JACKSON join, dissenting from the denial of appli-
+cation for stay and denial of certiorari.
+   Take out your phone, go to the clock app, and find the
+stopwatch. Click start. Now watch the seconds as they
+climb. Three seconds come and go in a blink. At the thirty-
+second mark, your mind starts to wander. One minute
+passes, and you begin to think that this is taking a long
+time. Two . . . three . . . . The clock ticks on. Then, finally,
+you make it to four minutes. Hit stop.
+   Now imagine for that entire time, you are suffocating.
+You want to breathe; you have to breathe. But you are
+strapped to a gurney with a mask on your face pumping
+your lungs with nitrogen gas. Your mind knows that the
+gas will kill you. But your body keeps telling you to breathe.
+   That is what awaits Anthony Boyd tonight. For two to
+four minutes, Boyd will remain conscious while the State of
+Alabama kills him in this way. When the gas starts flow-
+ing, he will immediately convulse. He will gasp for air. And
+2                      BOYD v. HAMM
+
+                   SOTOMAYOR, J., dissenting
+
+he will thrash violently against the restraints holding him
+in place as he experiences this intense psychological tor-
+ment until he finally loses consciousness. Just short of
+twenty minutes later, Boyd will be declared dead.
+  Boyd asks for the barest form of mercy: to die by firing
+squad, which would kill him in seconds, rather than by a
+torturous suffocation lasting up to four minutes. The Con-
+stitution would grant him that grace. My colleagues do not.
+This Court thus turns its back on Boyd and on the Eighth
+Amendment’s guarantee against cruel and unusual punish-
+ment. Because the Court should have instead granted a
+stay of execution and Boyd’s petition for certiorari, I re-
+spectfully dissent.
+                              I
+   Nitrogen hypoxia is a new method of execution. To carry
+out an execution using this method, prison officials force a
+condemned person to inhale pure nitrogen gas, which dis-
+places the oxygen in that person’s lungs. Robbed of air in
+this way, the body’s instinctual urge to breathe kicks in. At
+the same time, the mind understands that breathing will
+result in death. The process takes around 20 minutes from
+start to completion. See App. 36a–42a (recounting prior ni-
+trogen hypoxia executions taking between 16 and 23
+minutes).
+   Five States have authorized nitrogen hypoxia as a form
+of execution, though only Alabama and Louisiana have
+used it to carry out executions so far. Before its implemen-
+tation, the method was touted by Alabama and other States
+as a more “humane” alternative to lethal injection because
+it was supposedly “painless” and would result in uncon-
+sciousness within “seconds.” Response in Opposition to Ap-
+plication for Stay in Smith v. Hamm, O. T. 2023, No. 23–
+6562, etc., pp. 3, 21; Dunn v. Price, 587 U. S. 929, 930–931
+(2019) (Breyer, J., dissenting from grant of application to
+vacate stay). Yet even before Alabama undertook the first
+                    Cite as: 607 U. S. ____ (2025)                  3
+
+                      SOTOMAYOR, J., dissenting
+
+execution using nitrogen hypoxia in early 2024, serious con-
+cerns were raised about the veracity of these claims. See
+Smith v. Hamm, 601 U. S. ___, ___–___, ___ (2024)
+(SOTOMAYOR, J., dissenting from denial of application for
+stay and denial of certiorari) (slip op., at 1–2, 4). Moreover,
+the method’s “details [we]re hazy” because Alabama re-
+leased only a “heavily redacted protocol” describing the pro-
+cess. Id., at ___ (slip op., at 1).
+  Today, we have an actual record of nitrogen hypoxia’s
+use. Together, Alabama and Louisiana have executed
+seven people using the method, see App. to Pet. for Cert.
+25a (App.); Hoffman v. Westcott, 604 U. S. ___ (2025), and
+the firsthand accounts from those executions reveal that ni-
+trogen hypoxia is not at all what it was promised to be.
+  Start with Kenneth Eugene Smith, the first person to be
+executed using nitrogen hypoxia in our country’s history.
+When the nitrogen gas started flowing, Smith made “ ‘vio-
+lent movements’ ” immediately as he “ ‘gasp[ed] for . . . air.’ ”
+App. 36a. His “feet and head left the gurney [and] his arms
+appeared to strain against his restraints.” Ibid. Smith con-
+vulsed for about two to four minutes, shaking the gurney
+several times. His wife testified that it was like “ ‘watching
+someone drown without water.’ ” Petitioner’s Post-Hearing
+Brief in No. 25–cv–00529 (ND Ala., Sept. 11, 2025), ECF
+Doc. 87, p. 3. Smith’s spiritual advisor, who has witnessed
+at least five lethal-injection executions, remarked after-
+ward that “ ‘[w]e didn’t see somebody go unconscious in 30
+seconds. What we saw was minutes of somebody struggling
+for his life. We saw minutes of someone heaving back and
+forth. We saw spit. We saw all sorts of stuff develop from
+his mask.’ ”1 He emphasized that “[i]t was the most horrible
+
+——————
+  1 R. Chapoco, Kenneth Eugene Smith Executed by Nitrogen Gas for
+
+1988 Murder-for-Hire Scheme, Alabama Reflector, Jan. 25, 2024,
+https://alabamareflector.com/2024/01/25/kenneth-eugene-smith-executed-
+by-nitrogen-gas-for-1988-murder-for-hire-scheme/.
+4                         BOYD v. HAMM
+
+                     SOTOMAYOR, J., dissenting
+
+thing” he had “ever seen.”2 Smith was pronounced dead 18
+minutes after the execution started.
+   The State largely blamed Smith for staying conscious. It
+insisted that his convulsing was primarily because he held
+his breath and fought the execution process. See App. 37a,
+and n. 24; Miller v. Marshall, No. 2:24–cv–197 (MD Ala.,
+July 15, 2024), ECF Doc. 70, pp. 1–2, 14–21. Subsequent
+executions, however, show that Smith was certainly not the
+problem.
+   Alan Miller was executed next. When the execution be-
+gan, Miller’s “ ‘whole body started to shake very intensely,’ ”
+App. 38a, with “ ‘violent convulsions,’ ” ECF Doc. 87, at 6.
+He “ ‘gasped, shook[,] and struggled against his restraints,’ ”
+App. 38a, with his eyes open the entire time. ECF Doc. 87,
+p. 6. Miller was pronounced dead after sixteen minutes.
+Then came Carey Dale Grayson: For four minutes, he shook
+“ ‘his head vigorously,’ ” “ ‘struggled[ ] while clearly still
+breathing,’ ” and raised both of his legs far off the gurney as
+he pushed against the restraints. App. 39a–40a. Grayson
+was pronounced dead after 16 minutes. This pattern has
+held steady during the State’s subsequent executions of De-
+metrius Frazier, Gregory Hunt, and Geoffrey West, as wit-
+nesses have reported similar observations each time: ap-
+parent consciousness for minutes, not seconds; and violent
+convulsing, eyes bulging, consistent thrashing against the
+restraints, and clear gasping for the air that will not come.
+Id., at 34a, 41a–42a.3 Yet, the State has continued to de-
+fend the executions as constitutionally permissible despite
+a readily available alternative.
+
+——————
+  2 J. Beck, CNN 5 Things, Jan. 26, 2024, https://www.cnn.com/
+
+audio/podcasts/5-things/episodes/146b819c-8f0111eea87667c76723c206.
+  3 See K. Chandler, Alabama Executes Man With Nitrogen Gas for 1997
+
+Shooting Death of Store Clerk, Associated Press, Sept. 25, 2025,
+https://apnews.com/article/alabama-execution-nitrogen-
+abbee4a788ad61f5b8d7cfe0d7afe992.
+                  Cite as: 607 U. S. ____ (2025)             5
+
+                    SOTOMAYOR, J., dissenting
+
+                               II
+  Boyd challenged Alabama’s use of nitrogen hypoxia un-
+der the Eighth Amendment and asked that the State exe-
+cute him by firing squad instead. The District Court denied
+Boyd’s request for a preliminary injunction barring his ex-
+ecution by nitrogen hypoxia. The Eleventh Circuit denied
+a stay on the sole ground that the District Court did not
+abuse its discretion in finding that Boyd’s Eighth Amend-
+ment claim lacked merit. That was error.
+  Under Bucklew v. Precythe, 587 U. S. 119 (2019), whether
+a method of execution violates the Eighth Amendment
+turns, in main part, on whether it imposes a “super-
+add[ition] of terror, pain, or disgrace.” Id., at 119, 133
+(quoting Baze v. Rees, 553 U. S. 35, 48 (2008) (plurality
+opinion); internal quotation marks omitted). To establish
+that the “State’s chosen method of execution cruelly super-
+adds pain to the death sentence,” Bucklew instructs that “a
+prisoner must show a feasible and readily implemented al-
+ternative method of execution that would significantly re-
+duce a substantial risk of severe pain and that the State has
+refused to adopt without a legitimate penological reason.”
+587 U. S., at 134. Bucklew did not distinguish between
+mental and physical anguish in setting forth this standard.
+For good reason: As recognized for centuries, a form of pun-
+ishment can be “cruel” if “ ‘[d]isposed to give pain to others,
+in body or mind.’ ” Id., at 130 (quoting 1 N. Webster, An
+American Dictionary of the English Language (1828); em-
+phasis added); see Watts v. Indiana, 338 U. S. 49, 52 (1949)
+(opinion of Frankfurter, J.) (“There is torture of mind as
+well as body; the will is as much affected by fear as by force.
+And there comes a point where this Court should not be ig-
+norant as judges of what we know as men”). Here, Boyd
+identified the firing squad as an alternative method by
+which to evaluate the comparative pain imposed by nitro-
+gen hypoxia.
+6                      BOYD v. HAMM
+
+                   SOTOMAYOR, J., dissenting
+
+   Before the District Court, the parties presented evidence
+at a two-day hearing. The District Court then made the
+following determinations critical to its analysis. First, the
+District Court found, and the parties agreed, that “agonal
+breathing,” which occurs when an individual is close to
+death and is often characterized by “gasping, muscle jerks,
+and grunting,” is not itself sufficient evidence of pain be-
+cause it can be involuntary and occur when a person is un-
+conscious. App. 43a–44a. But the experts on both sides also
+agreed that severe psychological pain endures after the ni-
+trogen gas is turned on and lasts until a loss of conscious-
+ness occurs. Id., at 51a–52a. As the District Court saw it,
+the “key question” was therefore “how long it will take” for
+a person to lose consciousness during the execution, and the
+court accepted for the sake of its analysis that this period
+typically lasts for two minutes, but has extended to four
+minutes in a prior execution. Id., at 52a. The District Court
+further clarified that even if this period lasted for seven
+minutes, its conclusion on Boyd’s Eighth Amendment claim
+would not change. Id., at 53a, n. 34.
+   Second, the District Court found that to minimize the du-
+ration of conscious suffering, the individual must cooperate
+in his execution. Id., at 55a–56a. Holding one’s breath or
+taking short breaths, often the products of an involuntary
+reaction to oxygen depletion, prolongs consciousness. Ibid.
+   Third, the District Court found that a firing squad would
+render someone unconscious in three to six seconds. Id., at
+64a. Still, the court noted, this period would involve physi-
+cal pain, whereas nitrogen hypoxia would likely inflict psy-
+chological pain alone. Ibid. The Eleventh Circuit, for its
+part, did not rely on this distinction between physical and
+psychological pain, instead accepting for the sake of argu-
+ment that nitrogen hypoxia does inflict physical pain too.
+Id., at 11a.
+   On these findings and assumptions, Boyd more than
+made his case, under Bucklew, that nitrogen hypoxia likely
+                  Cite as: 607 U. S. ____ (2025)             7
+
+                    SOTOMAYOR, J., dissenting
+
+poses a substantial risk of conscious terror and psychologi-
+cal pain and that the firing squad is a sufficient alternative.
+The District Court, however, justified its contrary conclu-
+sion by drawing a false equivalence. In its view, prisoners
+facing death by nitrogen hypoxia, like all prisoners facing
+execution, experience distress knowing that death is near.
+See App. 62a–64a. As a result, distress is an “unavoidable
+consequenc[e] of capital punishment under any method of
+execution.” Id., at 62a. That the distress continues when
+the gas is turned on is therefore unremarkable.
+   That analysis is blind to the reality of what will happen
+to Boyd in this execution chamber and the additional and
+unnecessary psychological terror he will experience. Boyd
+will, of course, experience the same distress that all con-
+demned men suffer in anticipation of their execution by the
+State. The claim here, however, is that, on top of that ordi-
+nary, anticipatory distress, nitrogen hypoxia will pro-
+foundly add to Boyd’s suffering after the execution begins
+and while it is being carried out to completion. As the Dis-
+trict Court assumed, it takes at least two, and could take
+up to seven, full minutes for someone to lose conscious-
+ness—that is, up to seven full minutes of conscious, excru-
+ciating suffocation. Id., at 52a–55a. As the State’s expert
+admitted, “a person consciously experiencing the ‘primal
+urge to breathe’ ” during those two to seven minutes “while
+knowing that breathing will cause death amounts to severe
+emotional suffering.” Id., at 51a. This superadded psycho-
+logical torment is both unique to nitrogen hypoxia and goes
+well beyond what is inherent in any constitutional method
+of execution. Cf. Baze, 553 U. S., at 53 (plurality opinion)
+(noting that a substantial risk of suffocation violates the
+Eighth Amendment).
+   A similar error led the District Court to reject the firing
+squad as an adequate alternative to nitrogen hypoxia—
+even while determining that it was “feasible” and could be
+“readily implemented.” App. 66a. According to the District
+8                      BOYD v. HAMM
+
+                   SOTOMAYOR, J., dissenting
+
+Court, death by firing squad would not “significantly reduce
+a substantial risk of severe pain” posed by nitrogen hypoxia
+because the same anticipatory psychological pain would oc-
+cur before the execution by firing squad, while the firing
+squad would add a risk of physical pain after the shots are
+fired. Ibid.; see id., at 63a–64a. Again, however, the Dis-
+trict Court ignored that, under its own assumptions, nitro-
+gen hypoxia would superadd up to seven minutes of psycho-
+logical pain beyond the ordinary anticipatory distress of an
+execution. Once the execution starts, a firing squad would
+render someone unconscious in three to six seconds; nitro-
+gen hypoxia, on the other hand, lasts for minutes. See id.,
+at 55a, 64a. There is a significant constitutional difference
+between three to six seconds of physical pain and terror and
+two to seven minutes of conscious suffocation with its asso-
+ciated psychological pain and terror. In gross numerical
+terms, nitrogen hypoxia risks extending the period of terror
+up to 140-fold.
+   Although it is deeply troubling to weigh the associated
+pain posed by the two different methods against each other,
+this “comparative exercise” is demanded by the Court’s re-
+cent precedents. See Bucklew, 587 U. S., at 136. Perhaps
+this unease reflects problems with its doctrinal foundation.
+See Glossip v. Gross, 576 U. S. 863, 970–975 (2015)
+(SOTOMAYOR, J., dissenting). So long as the requirement
+persists, however, courts must engage in this macabre
+weighing. Here, the District Court and the Eleventh Cir-
+cuit failed to recognize the significant differences between
+the two methods of execution despite the factual record be-
+fore them. Because Boyd demonstrated that he was likely
+to succeed on his Eighth Amendment claim, this Court
+should have granted a stay of execution and his petition for
+certiorari.
+                  Cite as: 607 U. S. ____ (2025)             9
+
+                    SOTOMAYOR, J., dissenting
+
+                           *    *      *
+  The Eighth Amendment “does not guarantee a prisoner a
+painless death.” Bucklew, 587 U. S., at 132. But when a
+State introduces an experimental method of execution that
+superadds psychological terror as a necessary feature of its
+successful completion, courts should enforce the Eighth
+Amendment’s mandate against cruel and unusual punish-
+ment. Allowing the nitrogen hypoxia experiment to con-
+tinue despite mounting and unbroken evidence that it vio-
+lates the Constitution by inflicting unnecessary suffering
+fails to “ ‘protec[t] [the] dignity’ ” of “ ‘the Nation we have
+been, the Nation we are, and the Nation we aspire to be.’ ”
+Smith, 601 U. S., at ___ (opinion of SOTOMAYOR, J.) (slip op.,
+at 5) (quoting Hall v. Florida, 572 U. S. 701, 708 (2014)).
+Seven people have already been subjected to this cruel form
+of execution. The Court should not allow Boyd to become
+the eighth.

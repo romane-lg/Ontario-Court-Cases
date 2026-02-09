@@ -1,0 +1,56 @@
+Cite as: 606 U. S. ____ (2025)           1
+
+                  KAVANAUGH, J., concurring
+
+SUPREME COURT OF THE UNITED STATES
+                         _________________
+
+                          No. 25A97
+                         _________________
+
+
+    NETCHOICE, LLC v. LYNN FITCH, ATTORNEY
+           GENERAL OF MISSISSIPPI
+             ON APPLICATION TO VACATE STAY
+                       [August 14, 2025]
+
+   The application to vacate stay presented to JUSTICE
+ALITO and by him referred to the Court is denied.
+   JUSTICE KAVANAUGH, concurring in the denial of the
+application to vacate stay.
+   I concur in the Court’s denial of NetChoice’s application
+for interim relief because NetChoice has not sufficiently
+demonstrated that the balance of harms and equities favors
+it at this time. See Response in Opposition 37–39.
+   To be clear, NetChoice has, in my view, demonstrated
+that it is likely to succeed on the merits—namely, that
+enforcement of the Mississippi law would likely violate its
+members’ First Amendment rights under this Court’s
+precedents. See Moody v. NetChoice, LLC, 603 U. S. 707
+(2024); Brown v. Entertainment Merchants Assn., 564 U. S.
+786 (2011); cf. Free Speech Coalition, Inc. v. Paxton, 606
+U. S. ___ (2025). Given those precedents, it is no surprise
+that the District Court in this case enjoined enforcement of
+the Mississippi law and that seven other Federal District
+Courts have likewise enjoined enforcement of similar state
+laws. See No. 1:24–cv–170 (SD Miss., June 18, 2025);
+NetChoice, LLC v. Yost, 716 F. Supp. 3d 539 (SD Ohio
+2024); Computer & Communications Industry Assn. v.
+Paxton, 747 F. Supp. 3d 1011 (WD Tex. 2024); NetChoice,
+LLC v. Reyes, 748 F. Supp. 3d 1105 (Utah 2024); NetChoice,
+LLC v. Bonta, 770 F. Supp. 3d 1164 (ND Cal. 2025);
+2                NETCHOICE, LLC v. FITCH
+
+                  KAVANAUGH, J., concurring
+
+NetChoice, LLC v. Griffin, No. 5:23–cv–5105 (WD Ark.,
+Mar. 31, 2025); Computer & Communications Industry
+Assn. v. Uthmeier, ___ F. Supp. 3d ___, No. 4:24–cv–438
+(ND Fla., June 3, 2025); NetChoice v. Carr, ___ F. Supp. 3d
+___, No. 1:25–cv–2422 (ND Ga., June 26, 2025).
+  In short, under this Court’s case law as it currently
+stands, the Mississippi law is likely unconstitutional.
+Nonetheless, because NetChoice has not sufficiently
+demonstrated that the balance of harms and equities favors
+it at this time, I concur in the Court’s denial of the
+application for interim relief.

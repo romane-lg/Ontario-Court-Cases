@@ -1,0 +1,102 @@
+case_name,cluster_case_name,docket_id,date_filed,judges,text_file_path,word_count,download_url
+,Klein v. Martin,72187113,,Per Curiam,court_case_texts/opinion_11246089.txt,4032,https://www.supremecourt.gov/opinions/25pdf/25-51_4g15.pdf
+,Department of Education v. California,72162017,,Per Curiam,court_case_texts/opinion_11243445.txt,6950,https://www.supremecourt.gov/opinions/24pdf/604us2r24_l53m.pdf
+,Trump v. J. G. G.,72162016,,Per Curiam,court_case_texts/opinion_11243444.txt,8071,https://www.supremecourt.gov/opinions/24pdf/604us2r25_7648.pdf
+,A.A.R.P. v. Trump,72162015,,Per Curiam,court_case_texts/opinion_11243438.txt,8209,https://www.supremecourt.gov/opinions/24pdf/605us1r31_7k47.pdf
+,"Trump v. CASA, Inc.",72162006,,Amy Coney Barrett,court_case_texts/opinion_11243403.txt,40624,https://www.supremecourt.gov/opinions/24pdf/606us2r66_j426.pdf
+,Howell v. Circuit Court of Indiana,72161066,,Ketanji Brown Jackson,court_case_texts/opinion_11243337.txt,2141,https://www.supremecourt.gov/opinions/25pdf/25-5557_n6io.pdf
+,Trump v. Illinois,72075276,,Samuel Alito,court_case_texts/opinion_11230785.txt,7933,https://www.supremecourt.gov/opinions/25pdf/25a443_ba7d.pdf
+,Trump v. Illinois,72075276,,Brett Kavanaugh,court_case_texts/opinion_11233227.txt,7933,https://www.supremecourt.gov/opinions/25pdf/25a443_new_b07d.pdf
+,"Doe v. Dynamic Physical Therapy, LLC",72003633,,Per Curiam,court_case_texts/opinion_11215661.txt,268,https://www.supremecourt.gov/opinions/25pdf/25-180_8m59.pdf
+,Davenport v. United States,72003629,,Sonia Sotomayor,court_case_texts/opinion_11215660.txt,859,https://www.supremecourt.gov/opinions/25pdf/24-7435_5if6.pdf
+,Abbott v. League of United Latin American Citizens,71996991,,Samuel Alito,court_case_texts/opinion_11214368.txt,6367,https://www.supremecourt.gov/opinions/25pdf/25a608_7khn.pdf
+,Beck v. United States,71952015,,Sonia Sotomayor,court_case_texts/opinion_11207967.txt,3480,https://www.supremecourt.gov/opinions/25pdf/24-1078_7758.pdf
+,Clark v. Sweeney,71951499,,Per Curiam,court_case_texts/opinion_11207924.txt,940,https://www.supremecourt.gov/opinions/25pdf/25-52_4gd5.pdf
+,Pitts v. Mississippi,71951498,,Per Curiam,court_case_texts/opinion_11207923.txt,1593,https://www.supremecourt.gov/opinions/25pdf/24-1159_k536.pdf
+,Hutson v. United States,71919977,,Samuel Alito,court_case_texts/opinion_11204022.txt,602,https://www.supremecourt.gov/opinions/25pdf/24-1022_5iek.pdf
+,Veneno v. United States,71893131,,Neil Gorsuch,court_case_texts/opinion_11200672.txt,2167,https://www.supremecourt.gov/opinions/25pdf/24-5191_6479.pdf
+,Trump v. Orr,71884389,,Ketanji Brown Jackson,court_case_texts/opinion_11198703.txt,4015,https://www.supremecourt.gov/opinions/25pdf/25a319_i4dj.pdf
+,"Coney Island Auto Parts Unlimited, Inc. v. Burton",71872251,,Samuel Alito,court_case_texts/opinion_11243339.txt,3050,https://www.supremecourt.gov/opinions/25pdf/24-808_lkgn.pdf
+,Boyd v. Hamm,71735833,,Sonia Sotomayor,court_case_texts/opinion_11177002.txt,2791,https://www.supremecourt.gov/opinions/25pdf/25a457_diff_pm02.pdf
+,Boyd v. Hamm,71735833,,Sonia Sotomayor,court_case_texts/opinion_11177003.txt,2739,https://www.supremecourt.gov/opinions/25pdf/25a457new_j426.pdf
+,Boyd v. Hamm,71735833,,Sonia Sotomayor,court_case_texts/opinion_11176501.txt,2739,https://www.supremecourt.gov/opinions/25pdf/25a457_8nka.pdf
+,Crawford v. Mississippi,71659774,,Sonia Sotomayor,court_case_texts/opinion_11171208.txt,4010,https://www.supremecourt.gov/opinions/25pdf/25a378_0pm1.pdf
+,Case v. Montana,71658732,,Elana Kagan,court_case_texts/opinion_11240920.txt,7107,https://www.supremecourt.gov/opinions/25pdf/24-624_b07d.pdf
+,Bowe v. United States,71644707,,Sonia Sotomayor,court_case_texts/opinion_11239035.txt,20101,https://www.supremecourt.gov/opinions/25pdf/24-5438_o7kq.pdf
+,Ellingburg v. United States,71644700,,Brett Kavanaugh,court_case_texts/opinion_11243338.txt,8117,https://www.supremecourt.gov/opinions/25pdf/24-482_d1oe.pdf
+,Humphreys v. Emmons,71639366,,Sonia Sotomayor,court_case_texts/opinion_11168189.txt,2449,https://www.supremecourt.gov/opinions/25pdf/24-826_10n2.pdf
+,Lee v. Poudre School Dist. R–1,71639365,,Samuel Alito,court_case_texts/opinion_11168188.txt,264,https://www.supremecourt.gov/opinions/25pdf/25-89_8n5a.pdf
+,Thomas v. Humboldt Cty.,71639364,,Neil Gorsuch,court_case_texts/opinion_11168187.txt,1074,https://www.supremecourt.gov/opinions/25pdf/24-1180_dc8f.pdf
+,Bost v. Illinois Bd. of Elections,71584151,,John G. Roberts,court_case_texts/opinion_11240921.txt,12419,https://www.supremecourt.gov/opinions/25pdf/24-568_gfbh.pdf
+,Bost v. Illinois Bd. of Elections Revisions: 1/14/26,71584151,,John G. Roberts,court_case_texts/opinion_11241154.txt,12420,https://www.supremecourt.gov/opinions/25pdf/24-568new_4gcj.pdf
+,Barrett v. United States,71574136,,Ketanji Brown Jackson,court_case_texts/opinion_11240827.txt,9280,https://www.supremecourt.gov/opinions/25pdf/24-5774_9nbe.pdf
+,Barrett v. United States Revisions: 1/14/26,71574136,,Ketanji Brown Jackson,court_case_texts/opinion_11241193.txt,9280,https://www.supremecourt.gov/opinions/25pdf/24-5774new_f20h.pdf
+,Berk v. Choy,71563327,,Amy Coney Barrett,court_case_texts/opinion_11243340.txt,9128,https://www.supremecourt.gov/opinions/25pdf/24-440_1b82.pdf
+,Noem v. National TPS Alliance,71543224,,Ketanji Brown Jackson,court_case_texts/opinion_11157017.txt,1391,https://www.supremecourt.gov/opinions/24pdf/25a326_3ebh.pdf
+,Department of State v. AIDS Vaccine Advocacy Coalition,71468719,,Elana Kagan,court_case_texts/opinion_11145155.txt,2802,https://www.supremecourt.gov/opinions/24pdf/25a269_bp7c.pdf
+,Trump v. Slaughter,71420487,,Elana Kagan,court_case_texts/opinion_11142107.txt,734,https://www.supremecourt.gov/opinions/24pdf/25a264_o759.pdf
+,Noem v. Vasquez Perdomo,71292267,,Sonia Sotomayor,court_case_texts/opinion_11134336.txt,9984,https://www.supremecourt.gov/opinions/24pdf/25a169_5h25.pdf
+,National Institutes of Health v. American Public Health Assn.,71168440,,Neil Gorsuch,court_case_texts/opinion_11124829.txt,10682,https://www.supremecourt.gov/opinions/24pdf/25a103_kh7p.pdf
+,NetChoice v. Fitch,71110480,,Brett Kavanaugh,court_case_texts/opinion_11120611.txt,365,https://www.supremecourt.gov/opinions/24pdf/25a97_5h25.pdf
+,Trump v. Boyle,70896296,,Elana Kagan,court_case_texts/opinion_11106379.txt,1435,https://www.supremecourt.gov/opinions/24pdf/25a11_2cp3.pdf
+,McMahon v. New York,70793273,,Sonia Sotomayor,court_case_texts/opinion_11099201.txt,5840,https://www.supremecourt.gov/opinions/24pdf/24a1203_pol1.pdf
+,McMahon v. New York,70793273,,Sonia Sotomayor,court_case_texts/opinion_11101832.txt,5892,https://www.supremecourt.gov/opinions/24pdf/24a1203diff_5368.pdf
+,McMahon v. New York,70793273,,Sonia Sotomayor,court_case_texts/opinion_11101833.txt,5840,https://www.supremecourt.gov/opinions/24pdf/24a1203_new_6j37.pdf
+,Trump v. American Federation of Government Employees,70733850,,Sonia Sotomayor,court_case_texts/opinion_11091799.txt,4998,https://www.supremecourt.gov/opinions/24pdf/24a1174_h3ci.pdf
+,Montana v. Planned Parenthood of Montana,70699376,,Samuel Alito,court_case_texts/opinion_11089262.txt,412,https://www.supremecourt.gov/opinions/24pdf/24-745_7758.pdf
+,Goldey v. Fields,70670998,,Per Curiam,court_case_texts/opinion_11086520.txt,907,https://www.supremecourt.gov/opinions/24pdf/24-809_9o6b.pdf
+,Goldey v. Fields,70670998,,Per Curiam,court_case_texts/opinion_11243402.txt,1268,https://www.supremecourt.gov/opinions/24pdf/606us2r67_8nka.pdf
+,Goldey v. Fields,70670998,,Per Curiam,court_case_texts/opinion_11112121.txt,1243,https://www.supremecourt.gov/opinions/24pdf/606us2r67_d18e.pdf
+,Black v. Tennessee,70670983,,Sonia Sotomayor,court_case_texts/opinion_11086519.txt,1893,https://www.supremecourt.gov/opinions/24pdf/24-6586_p86b.pdf
+,GHP Management Corp. v. City of Los Angeles,70670982,,Clarence Thomas,court_case_texts/opinion_11086518.txt,948,https://www.supremecourt.gov/opinions/24pdf/24-435_m6hn.pdf
+,MacRae v. Mattos,70670981,,Clarence Thomas,court_case_texts/opinion_11086517.txt,1926,https://www.supremecourt.gov/opinions/24pdf/24-355_i425.pdf
+,Wiggins v. United States,70670980,,Sonia Sotomayor,court_case_texts/opinion_11086516.txt,600,https://www.supremecourt.gov/opinions/24pdf/24-6410_igdj.pdf
+,Department of Homeland Security v. D.V.D.,70614847,,Sonia Sotomayor,court_case_texts/opinion_11089509.txt,2826,https://www.supremecourt.gov/opinions/24pdf/24a1153_2co3.pdf
+,DHS v. D.V.D.,70614847,,Sonia Sotomayor,court_case_texts/opinion_11082085.txt,6022,https://www.supremecourt.gov/opinions/24pdf/24a1153_l5gm.pdf
+,Chambers-Smith v. Ayers,70478156,,Samuel Alito,court_case_texts/opinion_11066865.txt,690,https://www.supremecourt.gov/opinions/24pdf/24-584_i4dk.pdf
+,SSA v. AFSCME,70476918,,Ketanji Brown Jackson,court_case_texts/opinion_11066699.txt,3119,https://www.supremecourt.gov/opinions/24pdf/24a1063_6j37.pdf
+,Doe v. Seattle Police Dept.,70456629,,Samuel Alito,court_case_texts/opinion_11065047.txt,657,https://www.supremecourt.gov/opinions/24pdf/24a982_p8k0.pdf
+,"Nicholson v. W. L. York, Inc.",70436547,,Ketanji Brown Jackson,court_case_texts/opinion_11063132.txt,3026,https://www.supremecourt.gov/opinions/24pdf/23-7490_g314.pdf
+,Snope v. Brown,70436546,,Clarence Thomas,court_case_texts/opinion_11063131.txt,3246,https://www.supremecourt.gov/opinions/24pdf/24-203_5ie6.pdf
+,Noem v. Doe,70410954,,Ketanji Brown Jackson,court_case_texts/opinion_11062169.txt,2298,https://www.supremecourt.gov/opinions/24pdf/24a1079_p86b.pdf
+,Apache Stronghold v. United States,70377102,,Neil Gorsuch,court_case_texts/opinion_11059462.txt,5055,https://www.supremecourt.gov/opinions/24pdf/24-291_5i26.pdf
+,L. M. v. Middleborough,70377100,,Samuel Alito,court_case_texts/opinion_11059461.txt,4759,https://www.supremecourt.gov/opinions/24pdf/24-410_o75p.pdf
+,Trump v. Wilcox,70344654,,Elana Kagan,court_case_texts/opinion_11056683.txt,3127,https://www.supremecourt.gov/opinions/24pdf/24a966_1b8e.pdf
+,Libby v. Fecteau,70320912,,Ketanji Brown Jackson,court_case_texts/opinion_11054027.txt,1548,https://www.supremecourt.gov/opinions/24pdf/24a1051_h3ci.pdf
+,"Trump v. CASA, Inc. Revisions: 6/27/25",70274309,,Amy Coney Barrett,court_case_texts/opinion_11085273.txt,39945,https://www.supremecourt.gov/opinions/24pdf/24a884_new_g314.pdf
+,"Trump v. CASA, Inc. Revisions: 6/27/25",70274309,,Amy Coney Barrett,court_case_texts/opinion_11086521.txt,39944,https://www.supremecourt.gov/opinions/24pdf/24a884_new_5426.pdf
+,"Trump v. CASA, Inc. Revisions: 7/02/25",70274309,,Amy Coney Barrett,court_case_texts/opinion_11112122.txt,39944,https://www.supremecourt.gov/opinions/24pdf/24a884_new2_0pl1.pdf
+,OK Charter School Board v. Drummond,70003535,,Per Curiam,court_case_texts/opinion_11243436.txt,1406,https://www.supremecourt.gov/opinions/24pdf/605us1r33_5h26.pdf
+,OK Charter School Board v. Drummond,70003535,,Per Curiam,court_case_texts/opinion_11056423.txt,142,https://www.supremecourt.gov/opinions/24pdf/24-394_9p6b.pdf
+,Laboratory Corp. of America Holdings v. Davis,69981163,,Per Curiam,court_case_texts/opinion_11065594.txt,2011,https://www.supremecourt.gov/opinions/24pdf/24-304_3e04.pdf
+,Laboratory Corp. of America Holdings v. Davis,69981163,,Per Curiam,court_case_texts/opinion_11243430.txt,2577,https://www.supremecourt.gov/opinions/24pdf/605us1r40_f1gk.pdf
+,Martin v. United States,69979990,,Neil Gorsuch,court_case_texts/opinion_11243426.txt,9414,https://www.supremecourt.gov/opinions/24pdf/605us2r44_4f57.pdf
+,Martin v. United States,69979990,,Neil Gorsuch,court_case_texts/opinion_11070040.txt,9066,https://www.supremecourt.gov/opinions/24pdf/24-362_mjn0.pdf
+,Soto v. United States,69955962,,Clarence Thomas,court_case_texts/opinion_11243423.txt,5695,https://www.supremecourt.gov/opinions/24pdf/605us2r42_k5fl.pdf
+,Soto v. United States,69955962,,Clarence Thomas,court_case_texts/opinion_11070037.txt,5455,https://www.supremecourt.gov/opinions/24pdf/24-320_m648.pdf
+,"A. J. T. v. Osseo Area Schools, Independent School Dist. No. 279",69954840,,John G. Roberts,court_case_texts/opinion_11070042.txt,8954,https://www.supremecourt.gov/opinions/24pdf/24-249_a86c.pdf
+,"A. J. T. v. Osseo Area Schools, Independent School Dist. No. 279",69954840,,John G. Roberts,court_case_texts/opinion_11243428.txt,9220,https://www.supremecourt.gov/opinions/24pdf/605us2r41_bp7c.pdf
+,"Diamond Alternative Energy, LLC v. EPA",69930833,,Brett Kavanaugh,court_case_texts/opinion_11080913.txt,15050,https://www.supremecourt.gov/opinions/24pdf/24-7_8m58.pdf
+,"Diamond Alternative Energy, LLC v. EPA",69930833,,Brett Kavanaugh,court_case_texts/opinion_11243417.txt,15794,https://www.supremecourt.gov/opinions/24pdf/606us1r54_j4ek.pdf
+,Commissioner v. Zuch,69926779,,Amy Coney Barrett,court_case_texts/opinion_11243427.txt,7796,https://www.supremecourt.gov/opinions/24pdf/605us2r45_3f14.pdf
+,Commissioner v. Zuch,69926779,,Amy Coney Barrett,court_case_texts/opinion_11070041.txt,7559,https://www.supremecourt.gov/opinions/24pdf/24-416_l5gm.pdf
+,Mahmoud v. Taylor,69926223,,Samuel Alito,court_case_texts/opinion_11085139.txt,33437,https://www.supremecourt.gov/opinions/24pdf/24-297_4f14.pdf
+,Mahmoud v. Taylor,69926223,,Samuel Alito,court_case_texts/opinion_11243404.txt,35125,https://www.supremecourt.gov/opinions/24pdf/606us2r63_n648.pdf
+,"Kennedy v. Braidwood Management, Inc.",69920277,,Brett Kavanaugh,court_case_texts/opinion_11085140.txt,27880,https://www.supremecourt.gov/opinions/24pdf/24-316_869d.pdf
+,"Kennedy v. Braidwood Management, Inc.",69920277,,Brett Kavanaugh,court_case_texts/opinion_11243405.txt,29219,https://www.supremecourt.gov/opinions/24pdf/606us2r65_3314.pdf
+,Parrish v. United States,69920276,,Sonia Sotomayor,court_case_texts/opinion_11243425.txt,6945,https://www.supremecourt.gov/opinions/24pdf/605us2r43_e29g.pdf
+,Parrish v. United States,69920276,,Sonia Sotomayor,court_case_texts/opinion_11070039.txt,6722,https://www.supremecourt.gov/opinions/24pdf/24-275_k6gc.pdf
+,A.A.R.P. v. Trump,69916619,,Per Curiam,court_case_texts/opinion_11052437.txt,7545,https://www.supremecourt.gov/opinions/24pdf/24a1007_g2bh.pdf
+,A.A.R.P. v. Trump,69916619,,Samuel Alito,court_case_texts/opinion_10847988.txt,1347,https://www.supremecourt.gov/opinions/24pdf/24a1007_22p3.pdf
+,Noem v. Abrego Garcia,69874414,,Sonia Sotomayor,court_case_texts/opinion_10842813.txt,1183,https://www.supremecourt.gov/opinions/24pdf/24a949_lkhn.pdf
+,Trump v. J. G. G.,69856122,,Per Curiam,court_case_texts/opinion_10840383.txt,7568,https://www.supremecourt.gov/opinions/24pdf/24a931_2c83.pdf
+,Department of Education v. California,69846237,,Per Curiam,court_case_texts/opinion_10839607.txt,6598,https://www.supremecourt.gov/opinions/24pdf/24a910_f2bh.pdf
+,Medina v. Planned Parenthood South Atlantic,69835441,,Neil Gorsuch,court_case_texts/opinion_11084231.txt,20922,https://www.supremecourt.gov/opinions/24pdf/23-1275_e2pg.pdf
+,Medina v. Planned Parenthood South Atlantic,69835441,,Neil Gorsuch,court_case_texts/opinion_11243409.txt,22172,https://www.supremecourt.gov/opinions/24pdf/606us1r60_h3ci.pdf
+,Fuld v. Palestine Liberation Organization,69830688,,John G. Roberts,court_case_texts/opinion_11243414.txt,15483,https://www.supremecourt.gov/opinions/24pdf/606us1r52_3eah.pdf
+,Rivers v. Guerrero,69823569,,Ketanji Brown Jackson,court_case_texts/opinion_11243424.txt,6230,https://www.supremecourt.gov/opinions/24pdf/605us2r46_kjfm.pdf
+,Rivers v. Guerrero,69823569,,Ketanji Brown Jackson,court_case_texts/opinion_11070038.txt,5640,https://www.supremecourt.gov/opinions/24pdf/23-1345_g3bh.pdf
+,"Catholic Charities Bureau, Inc. v. Wisconsin Labor and Industry Review Comm'n.",69822931,,Sonia Sotomayor,court_case_texts/opinion_11065595.txt,13412,https://www.supremecourt.gov/opinions/24pdf/24-154_2b82.pdf
+,"Catholic Charities Bureau, Inc. v. Wisconsin Labor and Industry Review Comm'n.",69822931,,Sonia Sotomayor,court_case_texts/opinion_11243431.txt,14175,https://www.supremecourt.gov/opinions/24pdf/605us1r37_986b.pdf
+,"Catholic Charities Bureau, Inc. v. Wisconsin Labor and Industry Review Comm'n. Revisions: 6/06/25",69822931,,Sonia Sotomayor,court_case_texts/opinion_11066502.txt,13412,https://www.supremecourt.gov/opinions/24pdf/24-154new_5i36.pdf
+,Shockley v. Vandergriff,69820764,,Sonia Sotomayor,court_case_texts/opinion_10835567.txt,1919,https://www.supremecourt.gov/opinions/24pdf/24-517_4fc4.pdf

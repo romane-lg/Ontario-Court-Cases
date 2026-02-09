@@ -1,0 +1,398 @@
+Cite as: 605 U. S. ____ (2025)            1
+
+                  Statement of KAVANAUGH, J.
+
+SUPREME COURT OF THE UNITED STATES
+ DAVID SNOPE, ET AL. v. ANTHONY G. BROWN, IN HIS
+   OFFICIAL CAPACITY AS ATTORNEY GENERAL OF
+                MARYLAND, ET AL.
+   ON PETITION FOR WRIT OF CERTIORARI TO THE UNITED
+   STATES COURT OF APPEALS FOR THE FOURTH CIRCUIT
+               No. 24–203.   Decided June 2, 2025
+
+   The petition for a writ of certiorari is denied. JUSTICE
+ALITO and JUSTICE GORSUCH would grant the petition for a
+writ of certiorari.
+   Statement of JUSTICE KAVANAUGH respecting the denial
+of certiorari.
+   In District of Columbia v. Heller, this Court ruled that
+the Second Amendment must be interpreted in light of
+constitutional text, history, and tradition. 554 U. S. 570,
+576–628 (2008). The Court further determined that the
+Second Amendment protects those weapons that are in
+“common use” by law-abiding citizens. Id., at 624, 627.
+Because handguns are in common use by law-abiding
+citizens, the Court held that the District of Columbia’s ban
+on handguns violated the Second Amendment. Id., at 628–
+629. The Court’s later Second Amendment decisions in
+Bruen and Rahimi did not disturb the historically based
+“common use” test with respect to the possession of
+particular weapons. See New York State Rifle & Pistol
+Assn., Inc. v. Bruen, 597 U. S. 1, 47 (2022); see also United
+States v. Rahimi, 602 U. S. 680, 735–736 (2024)
+(KAVANAUGH, J., concurring); post, at 1–6 (THOMAS, J.,
+dissenting from denial of certiorari).
+   This case primarily concerns Maryland’s ban on the
+AR–15, a semi-automatic rifle. Americans today possess an
+estimated 20 to 30 million AR–15s. And AR–15s are legal
+in 41 of the 50 States, meaning that the States such as
+2                     SNOPE v. BROWN
+
+                  Statement of KAVANAUGH, J.
+
+Maryland that prohibit AR–15s are something of an outlier.
+See Staples v. United States, 511 U. S. 600, 612 (1994)
+(stating that AR–15s “traditionally have been widely
+accepted as lawful possessions”).
+   Given that millions of Americans own AR–15s and that a
+significant majority of the States allow possession of those
+rifles, petitioners have a strong argument that AR–15s are
+in “common use” by law-abiding citizens and therefore are
+protected by the Second Amendment under Heller. See
+Heller v. District of Columbia, 670 F. 3d 1244, 1286–1288
+(CADC 2011) (Kavanaugh, J., dissenting). If so, then the
+Fourth Circuit would have erred by holding that
+Maryland’s ban on AR–15s complies with the Second
+Amendment.
+   Under this Court’s Second Amendment precedents,
+moreover, it can be analytically difficult to distinguish the
+AR–15s at issue here from the handguns at issue in Heller.
+AR–15s are semi-automatic, but so too are most handguns.
+(Semi-automatic handguns and rifles are distinct from
+automatic firearms such as the M–16 automatic rifle used
+by the military.) Law-abiding citizens use both AR–15s and
+handguns for a variety of lawful purposes, including self-
+defense in the home. For their part, criminals use both
+AR–15s and handguns, as well as a variety of other lawful
+weapons and products, in unlawful ways that threaten
+public safety. But handguns can be more easily carried and
+concealed than rifles, and handguns—not rifles—are used
+in the vast majority of murders and other violent crimes
+that individuals commit with guns in America.
+   In short, under this Court’s precedents, the Fourth
+Circuit’s decision is questionable. Although the Court
+today denies certiorari, a denial of certiorari does not mean
+that the Court agrees with a lower-court decision or that
+the issue is not worthy of review. The AR–15 issue was
+recently decided by the First Circuit and is currently being
+considered by several other Courts of Appeals. See Capen
+                  Cite as: 605 U. S. ____ (2025)             3
+
+                   Statement of KAVANAUGH, J.
+
+v. Campbell, 134 F. 4th 660 (CA1 2025); see also, e.g.,
+National Assn. for Gun Rights v. Lamont, 685 F. Supp. 3d
+63 (Conn. 2023), appeal pending, No. 23–1162 (CA2);
+Association of N. J. Rifle & Pistol Clubs, Inc. v. Platkin, 742
+F. Supp. 3d 421 (NJ 2024), appeal pending, No. 24–2415
+(CA3); Viramontes v. County of Cook, No. 1:21–cv–4595 (ND
+Ill., Mar. 1, 2024), appeal pending, No. 24–1437 (CA7);
+Miller v. Bonta, 699 F. Supp. 3d 956 (SD Cal. 2023), appeal
+pending, No. 23–2979 (CA9). Opinions from other Courts
+of Appeals should assist this Court’s ultimate
+decisionmaking on the AR–15 issue. Additional petitions
+for certiorari will likely be before this Court shortly and, in
+my view, this Court should and presumably will address the
+AR–15 issue soon, in the next Term or two.
+                  Cite as: 605 U. S. ____ (2025)            1
+
+                     THOMAS, J., dissenting
+
+SUPREME COURT OF THE UNITED STATES
+ DAVID SNOPE, ET AL. v. ANTHONY G. BROWN, IN HIS
+   OFFICIAL CAPACITY AS ATTORNEY GENERAL OF
+                MARYLAND, ET AL.
+   ON PETITION FOR WRIT OF CERTIORARI TO THE UNITED
+   STATES COURT OF APPEALS FOR THE FOURTH CIRCUIT
+               No. 24–203.   Decided June 2, 2025
+
+  JUSTICE THOMAS, dissenting from the denial of certiorari.
+  The State of Maryland prohibits ownership of AR–15s,
+the most popular civilian rifle in America. Md. Crim. Law
+Code Ann. §4–303(a)(2) (2025). This petition presents the
+question whether this ban is consistent with the Second
+Amendment. The Fourth Circuit held that it is, reasoning
+that AR–15s are not “arms” protected by the Second
+Amendment. Bianchi v. Brown, 111 F. 4th 438, 448 (2024)
+(en banc). I would grant certiorari to review this surprising
+conclusion.
+                               I
+   The Second Amendment guarantees “the right of the peo-
+ple to keep and bear Arms.” When raising a Second Amend-
+ment challenge, an individual has the initial burden of
+showing that “the Second Amendment’s plain text covers
+[his] conduct.” New York State Rifle & Pistol Assn., Inc. v.
+Bruen, 597 U. S. 1, 17 (2022). Once a challenger makes that
+showing, “the Constitution presumptively protects [his]
+conduct,” and the burden shifts to the government to
+“demonstrate that [its] regulation is consistent with this
+Nation’s historical tradition of firearm regulation.” Ibid. If
+the government fails to make that showing, the restriction
+must be deemed unconstitutional. Ibid.
+   It is difficult to see how Maryland’s categorical prohibi-
+tion on AR–15s passes muster under this framework. To
+2                      SNOPE v. BROWN
+
+                      THOMAS, J., dissenting
+
+start, AR–15s are clearly “Arms” under the Second Amend-
+ment’s plain text. In District of Columbia v. Heller, 554
+U. S. 570 (2008), we held that the term “Arms” in this con-
+text covers all “ ‘[w]eapons of offence, or armour of defence.’ ”
+Id., at 581; see also ibid. (explaining that “Arms” include
+“ ‘any thing that a man wears for his defence, or takes into
+his hands, or useth in wrath to cast at or strike another’ ”).
+Thus, “the Second Amendment extends, prima facie, to all
+instruments that constitute bearable arms, even those that
+were not in existence at the time of the founding.” Id., at
+582; accord, United States v. Rahimi, 602 U. S. 680, 691
+(2024); Bruen, 597 U. S., at 28; Caetano v. Massachusetts,
+577 U. S. 411 (2016) (per curiam). AR–15s fall squarely
+within this category.
+    Because AR–15s are “Arms,” the burden shifts to Mary-
+land to show that banning AR–15s is “consistent with this
+Nation’s historical tradition of firearm regulation.” Bruen,
+597 U. S., at 17. But, I am not aware of any “historical reg-
+ulation” that could serve as “a proper analogue” to Mary-
+land’s ban. Id., at 28–29.
+    Maryland invokes the “historical tradition of prohibiting
+the carrying of ‘dangerous and unusual weapons.’ ” Heller,
+554 U. S., at 627 (citing 4 W. Blackstone, Commentaries on
+the Laws of England 148–149 (1769)); see Brief in Opposi-
+tion 22–23. Under this tradition, however, “[a] weapon may
+not be banned unless it is both dangerous and unusual.”
+Caetano, 577 U. S., at 417 (ALITO, J., concurring in judg-
+ment). “[W]eapons ‘in common use’ today for self-defense”
+and other lawful purposes remain fully protected. Bruen,
+597 U. S., at 32 (quoting Heller, 554 U. S., at 627). And,
+AR–15s appear to fit neatly within that category of pro-
+tected arms. Tens of millions of Americans own AR–15s,
+and the “overwhelming majority” of them “do so for lawful
+purposes, including self-defense and target shooting.”
+Friedman v. Highland Park, 577 U. S. 1039, 1042 (2015)
+(THOMAS, J., joined by Scalia, J., dissenting from denial of
+                   Cite as: 605 U. S. ____ (2025)              3
+
+                      THOMAS, J., dissenting
+
+certiorari); accord, ante, at 1–2 (KAVANAUGH, J., statement
+respecting denial of certiorari); Harrel v. Raoul, 603 U. S.
+___, ___ (2024) (THOMAS, J., statement respecting denial of
+certiorari) (slip op., at 2). “[A] prohibition of an entire class
+of ‘arms’ that is overwhelmingly chosen by American soci-
+ety for th[ese] lawful purpose[s]” falls outside the govern-
+ment’s power. Heller, 554 U. S., at 628.
+                               II
+   Despite the foregoing, the Fourth Circuit upheld Mary-
+land’s ban on the ground that AR–15s are not “ ‘constitu-
+tionally protected arms’ ” under the plain text of the Second
+Amendment. 111 F. 4th, at 448. The court acknowledged
+that, “[a]t first blush, it may appear that [AR–15s] fit com-
+fortably within the term ‘arms.’ ” Id., at 447. But, the court
+insisted, more is required. Because the Second Amendment
+“must be interpreted against its historical and legal back-
+drop,” the Fourth Circuit held that the challengers also had
+to show that “the right to possess” AR–15s falls within “the
+historical scope of the right to keep and bear arms.” Id., at
+448. The challengers could not make this showing, in the
+court’s view, because the Second Amendment does not pro-
+tect the right to own “ ‘dangerous and unusual weapons,’ ”
+including AR–15s. Id., at 450, 454–459.
+   This reasoning is dubious at least twice over. The Fourth
+Circuit placed too high a burden on the challengers to show
+that the Second Amendment presumptively protected their
+conduct. And, its determination that AR–15s are danger-
+ous and unusual does not withstand scrutiny.
+                              A
+  The Fourth Circuit erred by requiring the challengers to
+prove that the Second Amendment protects their right to
+own AR–15s—or, in the terms of our Second Amendment
+jurisprudence, that their conduct falls outside the historical
+exceptions to the right to keep and bear arms. A challenger
+4                     SNOPE v. BROWN
+
+                     THOMAS, J., dissenting
+
+need only show that “the plain text” of the Second Amend-
+ment covers his conduct. Bruen, 597 U. S., at 32. This bur-
+den is met if the law at issue “regulates” Americans’ “arms-
+bearing conduct.” Rahimi, 602 U. S., at 691. Once the chal-
+lenger makes this initial showing, it is the government’s
+burden to show that a historic limit on the right to bear
+arms nevertheless justifies its regulation. The Fourth Cir-
+cuit placed the burden of producing historical evidence on
+the wrong party.
+   Our precedents make plain the Fourth Circuit’s error. In
+Bruen, we had “little difficulty” determining that “the plain
+text of the Second Amendment” encompasses “carrying
+handguns publicly for self-defense.” 597 U. S., at 32. We
+considered the historical limits on the right to bear arms
+only to determine whether the State had met its burden of
+proving that its regulation was historically justified. See
+id., at 34–70. Likewise, in Rahimi, the Court found it self-
+evident that a law prohibiting individuals subject to domes-
+tic-violence restraining orders from possessing firearms
+“regulates arms-bearing conduct.” 602 U. S., at 691, 693.
+The Court again considered historical limits only after
+shifting the burden of proof to the Government. See id., at
+693–702.
+   The Fourth Circuit based its contrary approach on an
+analogy to the Free Speech Clause of the First Amendment,
+but that analogy only underscores its error. The court rea-
+soned that historical evidence is necessary to prevent an
+overbroad understanding of the Second Amendment, just as
+the Free Speech Clause excludes historically unprotected
+categories of speech such as “libel, incitement, true threats,
+fighting words, or falsely shouting fire in a crowded thea-
+ter.” 111 F. 4th, at 447. As we explained in Bruen, how-
+ever, “ ‘the Government bears the burden of proving the con-
+stitutionality’ ” of speech restrictions. 597 U. S., at 24
+(emphasis added).       “[T]hat burden includes showing
+whether the expressive conduct falls outside of the category
+                  Cite as: 605 U. S. ____ (2025)            5
+
+                     THOMAS, J., dissenting
+
+of protected speech” by “point[ing] to historical evidence
+about the reach of the First Amendment’s protections.” Id.,
+at 24–25 (emphasis deleted). Treating the Second Amend-
+ment “like . . . other constitutional provisions,” 111 F. 4th,
+at 448, we have similarly placed the burden on the govern-
+ment to show that a regulation of arms-bearing conduct
+falls outside the Second Amendment’s protection.
+  Under the plain text of the Second Amendment, the chal-
+lengers’ only burden is to show that AR–15s are bearable
+“Arms”—i.e., “ ‘[w]eapons of offence.’ ” Heller, 554 U. S., at
+581. By any measure, they are.
+                              B
+    The Fourth Circuit separately erred in determining that
+AR–15s fall within the historic exception for dangerous and
+unusual weapons. “A weapon may not be banned” under
+this principle “unless it is both dangerous and unusual.”
+Caetano, 577 U. S., at 417 (opinion of ALITO, J.). Weapons
+“ ‘in common use’ today for self-defense” are fully protected.
+Bruen, 597 U. S., at 32 (quoting Heller, 554 U. S., at 627).
+The Fourth Circuit nevertheless eschewed any inquiry into
+the commonality of AR–15s and the purposes for which they
+are used, which it dismissed as an “ill-conceived popularity
+test.” 111 F. 4th, at 460. Instead, the court performed its
+own independent investigation of AR–15s’ “utility for self-
+defense,” examining their “military origin,” “firepower,”
+and “muzzle velocity,” among other features. Id., at 454–
+459.
+    Our Constitution allows the American people—not the
+government—to decide which weapons are useful for self-
+defense. “A constitutional guarantee subject to future
+judges’ assessments of its usefulness is no constitutional
+guarantee at all.” Heller, 554 U. S., at 634. In line with
+that principle, and with the tradition of prohibiting only
+dangerous and unusual weapons, we have never relied on
+our own assessment of how useful an arm is for self-defense
+6                          SNOPE v. BROWN
+
+                         THOMAS, J., dissenting
+
+before deeming it protected. In Heller, we found handguns
+protected because that “class of ‘arms’ . . . is overwhelm-
+ingly chosen by American society for th[e] lawful purpose”
+of “self-defense.” Id., at 628. In Caetano, we recognized
+that stun guns were protected arms solely because they
+were not “ ‘unusual,’ ” without addressing the state court’s
+holding that stun guns were “ ‘dangerous per se at common
+law.’ ” 577 U. S., at 412; accord, id., at 417 (opinion of
+ALITO, J.); Bruen, 597 U. S., at 28. And, in Bruen, we again
+found “handguns” protected solely because they are “ ‘in
+common use’ today for self-defense,” without inquiring
+whether they are in fact useful for that purpose. Id., at 32.
+   In response, the Fourth Circuit’s “[m]ost importan[t]” ob-
+jection to a “common use inquiry” was that it would “lea[d]
+to absurd consequences,” such as a constitutional right to
+own a “bazooka,” “ricin pellet-firing umbrella gun,” or even
+a “W54 nuclear warhead” if such weapons become suffi-
+ciently “popular.” 111 F. 4th, at 460 (internal quotation
+marks omitted). This reasoning illustrates why the scope
+of the right to bear arms cannot turn on judicial speculation
+about the American people’s self-defense needs. Even if
+some nuclear warheads are small enough for an individual
+to carry, no reasonable person would think to use one to de-
+fend himself. Still less could nuclear warheads ever become
+a common means of self-defense. To fend off the fantastical
+threat of Americans lobbing nuclear warheads at one an-
+other, the Fourth Circuit has allowed the very real threat
+of the government depriving Americans of the rifle that
+they most favor for protecting themselves and their fami-
+lies. Looking to the standards set “by American society” ra-
+ther than our judicial colleagues, Heller, 554 U. S., at 628,
+I cannot see how AR–15s fall outside the Second Amend-
+ment’s protection.*
+——————
+  * The Fourth Circuit also purported to hold in the alternative that, as-
+suming that AR–15s are protected arms, banning them is consistent with
+                     Cite as: 605 U. S. ____ (2025)                   7
+
+                        THOMAS, J., dissenting
+
+                               III
+   I would not wait to decide whether the government can
+ban the most popular rifle in America. That question is of
+critical importance to tens of millions of law-abiding AR–15
+owners throughout the country. We have avoided deciding
+it for a full decade. See Harrel, 603 U. S. ___; Friedman,
+577 U. S. 1039. And, further percolation is of little value
+when lower courts in the jurisdictions that ban AR–15s ap-
+pear bent on distorting this Court’s Second Amendment
+precedents. See Harrel, 603 U. S., at ___ (opinion of
+THOMAS, J.) (slip op., at 2) (discussing the Seventh Circuit’s
+parallel conclusion that AR–15s do “not even fall within the
+scope of the Arms referred to by the Second Amendment”).
+I doubt we would sit idly by if lower courts were to so sub-
+vert our precedents involving any other constitutional
+right. Until we are vigilant in enforcing it, the right to bear
+arms will remain “a second-class right.” McDonald v. Chi-
+cago, 561 U. S. 742, 780 (2010) (plurality opinion).
+   The constitutional status of AR–15s is all the more ur-
+gent after this Court’s decision in Bondi v. VanDerStok, 604
+U. S. ___ (2025). Recently amended regulations of the Bu-
+reau of Alcohol, Tobacco, Firearms and Explosives (ATF)
+provide that a “firearm” under the Gun Control Act includes
+
+——————
+a national tradition of responding to the “threats posed by excessively
+harmful arms with responsive and proportional legislation.” 111 F. 4th,
+at 464. This holding, however, is not genuinely independent of its mis-
+guided common-use analysis. To support the existence of this tradition,
+the Fourth Circuit identified several 19th-century laws prohibiting cer-
+tain easily concealable weapons like pistols, dirks, sword canes, and
+Bowie knives. See id., at 466–467. But, the court nowhere attempted to
+explain why these laws were not simply instances of States prohibiting
+dangerous and unusual weapons not in common use for self-defense. As
+the dissent noted, when these laws were challenged, 19th-century courts
+evaluated them based on “whether the regulated weapon was in common
+use for lawful purposes.” See id., at 510–513, 533–534 (opinion of Rich-
+ardson, J.).
+8                     SNOPE v. BROWN
+
+                     THOMAS, J., dissenting
+
+objects that “may readily be completed, assembled, re-
+stored, or otherwise converted to” a working firearm. 27
+CFR §478.11 (2023). In VanDerStok, this Court refused to
+hold that definition unlawful, reasoning that an “artifact
+noun”—that is, a “word for a thing created by humans”—
+may “refer to unfinished objects,” and thus that weapon-
+parts kits are as regulable as the firearms they might even-
+tually become. 604 U. S., at ___ (slip op., at 10). But,
+“ ‘every single AR–15 can be converted to a machinegun us-
+ing cheap, flimsy pieces of metal—including coat hangers.’ ”
+Id., at ___ (THOMAS, J., dissenting) (slip op., at 13) (quoting
+VanDerStok v. Garland, 86 F. 4th 179, 208 (CA5 2023)
+(Oldham, J., concurring)). Thus, on the Court’s logic, it
+seems that ATF could at any time declare AR–15s to be ma-
+chineguns prohibited by federal law. 604 U. S., at ___
+(opinion of THOMAS, J.) (slip op., at 13) (citing 26 U. S. C.
+§§5861, 5871). Until we resolve whether the Second
+Amendment forecloses that possibility, law-abiding AR–15
+owners must rely on the goodwill of a federal agency to re-
+tain their means of self-defense. That is “no constitutional
+guarantee at all.” Heller, 554 U. S., at 634. I respectfully
+dissent.

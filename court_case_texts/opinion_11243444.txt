@@ -1,0 +1,976 @@
+PRELIMINARY PRINT
+
+              Volume 604 U. S. Part 2
+                             Pages 670–692
+
+
+
+
+       OFFICIAL REPORTS
+                                     OF
+
+
+   THE SUPREME COURT
+                                April 7, 2025
+
+
+Page Proof Pending Publication
+
+
+                    REBECCA A. WOMELDORF
+                           reporter of decisions
+
+
+
+
+    NOTICE: This preliminary print is subject to formal revision before
+  the bound volume is published. Users are requested to notify the Reporter
+  of Decisions, Supreme Court of the United States, Washington, D. C. 20543,
+  pio@supremecourt.gov, of any typographical or other formal errors.
+670                     OCTOBER TERM, 2024
+
+                                 Syllabus
+
+
+   TRUMP, PRESIDENT OF THE UNITED STATES,
+             et al. v. J. G. G. et al.
+  on application to vacate the orders issued by the
+   united states district court for the district of
+                       columbia
+                   No. 24A931. Decided April 7, 2025
+Presidential Proclamation No. 10903 invoked the Alien Enemies Act
+  (AEA) to designate certain Venezuelan nationals who are members of
+  Tren de Aragua—an entity designated as a foreign terrorist organiza-
+  tion—as alien enemies subject to detention and removal from the United
+  States. After fve detainees and a putative class sought injunctive and
+  declaratory relief, the District Court for the District of Columbia en-
+  tered temporary restraining orders (TROs) preventing removal of the
+  named plaintiffs and removal under the AEA of any member of a provi-
+  sionally certifed class consisting of noncitizens in U. S. custody who are
+  subject to the Proclamation. The D. C. Circuit denied the Govern-
+  ment's emergency motion to stay the orders. The Government seeks
+Page        Proof Pending Publication
+  vacatur of the orders from this Court.
+Held: The Government's application is construed as an application to va-
+  cate appealable injunctions, see Carson v. American Brands, Inc., 450
+  U. S. 79, 84, and is granted. The parties' underlying arguments cannot
+  be reached in this action. Challenges to removal under the AEA, a
+  statute which largely “preclude[s] judicial review,” Ludecke v. Watkins,
+  335 U. S. 160, 163−164, must be brought in habeas. Venue for challeng-
+  ing removal under the AEA through habeas lies in the district of con-
+  fnement. The detainees are confned in Texas, so venue is improper in
+  the District of Columbia.
+     The detainees also sought equitable relief against summary removal,
+  but their rights against summary removal are not presently in dispute.
+  The Court has held that an individual subject to detention and removal
+  under the AEA is entitled to judicial review as to “questions of interpre-
+  tation and constitutionality” of the Act as well as whether he or she “is
+  in fact an alien enemy fourteen years of age or older.” Id., at 163−164,
+  172, n. 17. “It is well established that the Fifth Amendment entitles
+  aliens to due process of law” in the context of removal proceedings.
+  Reno v. Flores, 507 U. S. 292, 306. So, the detainees are entitled to
+  notice and opportunity to be heard “appropriate to the nature of the
+  case.” Mullane v. Central Hanover Bank & Trust Co., 339 U. S. 306,
+  313. In this context, AEA detainees must receive notice after the date
+                     Cite as: 604 U. S. 670 (2025)                   671
+
+                             Per Curiam
+
+ of this order that they are subject to removal under the Act. The notice
+ must be afforded within a reasonable time and in such a manner as will
+ allow them to actually seek habeas relief in the proper venue before
+ such removal occurs.
+
+  Per Curiam.
+   This matter concerns the detention and removal of Vene-
+zuelan nationals believed to be members of Tren de Aragua
+(TdA), an entity that the State Department has designated
+as a foreign terrorist organization. See 90 Fed. Reg. 10030
+(2025). The President issued Proclamation No. 10903, invok-
+ing the Alien Enemies Act (AEA), Rev. Stat. § 4067, 50
+U. S. C. § 21, to detain and remove Venezuelan nationals
+“who are members of TdA.” Invocation of the Alien Ene-
+mies Act Regarding the Invasion of the United States by
+Tren de Aragua, 90 Fed. Reg. 13034. Five detainees and a
+putative class sought injunctive and declaratory relief
+against the implementation of, and their removal under, the
+Page Proof Pending Publication
+Proclamation. Initially, the detainees sought relief in ha-
+beas among other causes of action, but they dismissed their
+habeas claims. On March 15, 2025, the District Court for
+the District of Columbia issued two temporary restraining
+orders (TROs) preventing any removal of the named plain-
+tiffs and preventing removal under the AEA of a provision-
+ally certifed class consisting of “[a]ll noncitizens in U. S. cus-
+tody who are subject to” the Proclamation. Minute Order
+on Motion To Certify Class in No. 25−cv−00766. On March
+28, the District Court extended the TROs for up to an addi-
+tional 14 days. See Fed. Rule Civ. Proc. 65(b)(2). The D. C.
+Circuit denied the Government's emergency motion to stay
+the orders. The Government then applied to this Court,
+seeking vacatur of the orders. We construe these TROs as
+appealable injunctions. See Carson v. American Brands,
+Inc., 450 U. S. 79, 84 (1981).
+   We grant the application and vacate the TROs. The de-
+tainees seek equitable relief against the implementation of
+the Proclamation and against their removal under the AEA.
+672                    TRUMP v. J. G. G.
+
+                          Per Curiam
+
+They challenge the Government's interpretation of the Act
+and assert that they do not fall within the category of remov-
+able alien enemies. But we do not reach those arguments.
+Challenges to removal under the AEA, a statute which
+largely “ `preclude[s] judicial review,' ” Ludecke v. Watkins,
+335 U. S. 160, 163−164 (1948), must be brought in habeas. Cf.
+Heikkila v. Barber, 345 U. S. 229, 234−235 (1953) (holding
+that habeas was the only cause of action available to chal-
+lenge deportation under immigration statutes that “pre-
+clud[ed] judicial intervention” beyond what was necessary to
+vindicate due process rights). Regardless of whether the
+detainees formally request release from confnement, be-
+cause their claims for relief “ `necessarily imply the invalid-
+ity' ” of their confnement and removal under the AEA, their
+claims fall within the “core” of the writ of habeas corpus and
+thus must be brought in habeas. Cf. Nance v. Ward, 597
+U. S. 159, 167 (2022) (quoting Heck v. Humphrey, 512 U. S.
+Page Proof Pending Publication
+477, 487 (1994)). And “immediate physical release [is not]
+the only remedy under the federal writ of habeas corpus.”
+Peyton v. Rowe, 391 U. S. 54, 67 (1968); see, e. g., Nance, 597
+U. S., at 167 (explaining that a capital prisoner may seek “to
+overturn his death sentence” in habeas by “analog[y]” to
+seeking release); In re Bonner, 151 U. S. 242, 254, 259 (1894).
+For “core habeas petitions,” “jurisdiction lies in only one dis-
+trict: the district of confnement.” Rumsfeld v. Padilla, 542
+U. S. 426, 443 (2004). The detainees are confned in Texas,
+so venue is improper in the District of Columbia. As a re-
+sult, the Government is likely to succeed on the merits of
+this action.
+   The detainees also sought equitable relief against sum-
+mary removal. Although judicial review under the AEA is
+limited, we have held that an individual subject to detention
+and removal under that statute is entitled to “ `judicial re-
+view' ” as to “questions of interpretation and constitutional-
+ity” of the Act as well as whether he or she “is in fact an
+alien enemy fourteen years of age or older.” Ludecke, 335
+                   Cite as: 604 U. S. 670 (2025)           673
+
+                           Per Curiam
+
+U. S., at 163−164, 172, n. 17. (Under the Proclamation, the
+term “alien enemy” is defned to include “all Venezuelan citi-
+zens 14 years of age or older who are members of TdA, are
+within the United States, and are not actually naturalized or
+lawful permanent residents of the United States.” 90 Fed.
+Reg. 13034.) The detainees' rights against summary re-
+moval, however, are not currently in dispute. The Govern-
+ment expressly agrees that “TdA members subject to re-
+moval under the Alien Enemies Act get judicial review.”
+Reply in Support of Application To Vacate 1. “It is well
+established that the Fifth Amendment entitles aliens to due
+process of law” in the context of removal proceedings. Reno
+v. Flores, 507 U. S. 292, 306 (1993). So, the detainees are
+entitled to notice and opportunity to be heard “appropriate
+to the nature of the case.” Mullane v. Central Hanover
+Bank & Trust Co., 339 U. S. 306, 313 (1950). More specif-
+cally, in this context, AEA detainees must receive notice
+Page Proof Pending Publication
+after the date of this order that they are subject to removal
+under the Act. The notice must be afforded within a reason-
+able time and in such a manner as will allow them to actually
+seek habeas relief in the proper venue before such removal
+occurs.
+   For all the rhetoric of the dissents, today's order and per
+curiam confrm that the detainees subject to removal orders
+under the AEA are entitled to notice and an opportunity to
+challenge their removal. The only question is which court
+will resolve that challenge. For the reasons set forth, we
+hold that venue lies in the district of confnement. The dis-
+sents would have the Court delay resolving that issue,
+requiring—given our decision today—that the process begin
+anew down the road. We see no beneft in such wasteful
+delay.
+   The application to vacate the orders of the United States
+District Court for the District of Columbia presented to The
+Chief Justice and by him referred to the Court is granted.
+The March 15, 2025, minute orders granting a temporary re-
+674                    TRUMP v. J. G. G.
+
+                   Kavanaugh, J., concurring
+
+straining order and March 28, 2025, extension of the United
+States District Court for the District of Columbia, case No.
+1:25–cv–766, are vacated.
+                                             It is so ordered.
+
+  Justice Kavanaugh, concurring.
+   I agree with the Court's per curiam opinion. Impor-
+tantly, as the Court stresses, the Court's disagreement with
+the dissenters is not over whether the detainees receive judi-
+cial review of their transfers—all nine Members of the Court
+agree that judicial review is available. The only question is
+where that judicial review should occur. That venue ques-
+tion turns on whether these transfer claims belong in habeas
+corpus proceedings or instead may be brought under the Ad-
+ministrative Procedure Act. I agree with the Court's analy-
+sis that the claims must be brought in habeas.
+   I add only that the use of habeas for transfer claims is
+Page Proof Pending Publication
+not novel. In the extradition context and with respect to
+transfers of Guantanamo and other wartime detainees, ha-
+beas corpus proceedings have long been the appropriate ve-
+hicle. See LoBue v. Christopher, 82 F. 3d 1081, 1082 (CADC
+1996); Kiyemba v. Obama, 561 F. 3d 509, 512–513 (CADC
+2009). That general rule holds true for claims under the
+Alien Enemies Act, the statute under which the Government
+is seeking to remove these detainees. See Ludecke v. Wat-
+kins, 335 U. S. 160, 163, 171, and n. 17 (1948). And going
+back to the English Habeas Corpus Act of 1679, if not earlier,
+habeas corpus has been the proper vehicle for detainees to
+bring claims seeking to bar their transfers. See Habeas
+Corpus Act of 1679, 31 Car. 2, c. 2, §§ 11–12.
+   Especially given the history and precedent of using habeas
+corpus to review transfer claims, and given 5 U. S. C. § 704,
+which states that claims under the APA are not available
+when there is another “adequate remedy in a court,” I agree
+with the Court that habeas corpus, not the APA, is the
+proper vehicle here.
+                   Cite as: 604 U. S. 670 (2025)           675
+
+                    Sotomayor, J., dissenting
+
+   Justice Sotomayor, with whom Justice Kagan and
+Justice Jackson join, and with whom Justice Barrett
+joins as to Parts II and III–B, dissenting.
+   Three weeks ago, the Federal Government started sending
+scores of Venezuelan immigrants detained in the United
+States to a foreign prison in El Salvador. It did so without
+any due process of law, under the auspices of the Alien
+Enemies Act, a 1798 law designed for times of war. Be-
+tween the start of these removals and now, a District Court
+has been expeditiously considering the legal claims of a
+group of detainees (hereafter plaintiffs), who allege that
+their summary removal violates the Constitution and multi-
+ple statutes. The District Court ordered a pause on plain-
+tiffs' removals until it could consider their motion for a
+preliminary injunction at a hearing tomorrow, on April 8.
+Still, a majority of the Court sees ft to speak to this issue
+today.
+Page Proof Pending Publication
+   Critically, even the majority today agrees, and the Federal
+Government now admits, that individuals subject to removal
+under the Alien Enemies Act are entitled to adequate notice
+and judicial review before they can be removed. That
+should have been the end of the matter. Yet, with “bare-
+bones briefng, no argument, and scarce time for refection,”
+Department of Education v. California, 604 U. S. 650, 653
+(2025) (Kagan, J., dissenting), the Court announces that
+legal challenges to an individual's removal under the Alien
+Enemies Act must be brought in habeas petitions in the dis-
+trict where they are detained.
+   The Court's legal conclusion is suspect. The Court inter-
+venes anyway, granting the Government extraordinary relief
+and vacating the District Court's order on that basis alone.
+It does so without mention of the grave harm plaintiffs will
+face if they are erroneously removed to El Salvador or
+regard for the Government's attempts to subvert the judi-
+cial process throughout this litigation. Because the Court
+should not reward the Government's efforts to erode the rule
+676                         TRUMP v. J. G. G.
+
+                        Sotomayor, J., dissenting
+
+of law with discretionary equitable relief, I respectfully
+dissent.
+                           I
+                                A
+  This case arises out of the President's unprecedented
+peacetime invocation of a wartime law known as the Alien
+Enemies Act. See Act of July 6, 1798, ch. 66, 1 Stat. 577.
+Enacted in 1798 by a Congress consumed with fear of war
+with France, the Alien Enemies Act provided a wartime
+counterpart to the widely denounced Alien Friends Act,
+which granted the President sweeping power to detain and
+expel any noncitizen he deemed “dangerous to the peace and
+safety of the United States.” Act of June 25, 1798, 1 Stat.
+571. Unlike the Alien Friends Act, which lapsed in disre-
+pute as James Madison deemed it “a monster that must for
+ever disgrace its parents,” the Founders saw the Alien Ene-
+mies Act as a constitutional exercise of Congress's powers to
+Page Proof Pending Publication
+“declare War,” to “raise and support Armies,” and to “pro-
+vide for calling forth the Militia to . . . suppress Insurrections
+and repel Invasions.” U. S. Const., Art. I, § 8, cls. 11–15.1
+  To that end, the Act grants the President power to detain
+and remove foreign citizens of a “hostile nation or govern-
+ment” when “there is a declared war” with such nation or
+when a “foreign nation” threatens “invasion or predatory in-
+cursion” against the territory of the United States. Rev.
+Stat. § 4067, 50 U. S. C. § 21. Before today, U. S. Presidents
+have invoked the Alien Enemies Act only three times, each
+in the context of an ongoing war: the War of 1812, World
+War I, and World War II.2
+  1
+     Letter from J. Madison to T. Jefferson (May 20, 1798), in 30 Papers of
+Thomas Jefferson 359 (B. Oberg ed. 2003); see also Madison's Report on
+the Virginia Resolution, in The Book of the Constitution 52 (E. Williams
+ed. 1833).
+   2
+     Lockington v. Smith, 15 F. Cas. 758, 758–759 (No. 8,448) (CC Pa. 1817)
+(discussing the War of 1812 proclamation); Declaring the Existence of a
+State of War With the German Empire and Setting Forth Regulations
+                    Cite as: 604 U. S. 670 (2025)              677
+
+                     Sotomayor, J., dissenting
+
+   That changed on March 14, 2025, when President Trump
+invoked the Alien Enemies Act to address an alleged “Inva-
+sion of the United States by Tren De Aragua,” a criminal
+organization based in Venezuela. See Invocation of the
+Alien Enemies Act Regarding the Invasion of the United
+States by Tren de Aragua, Proclamation No. 10903, 90 Fed.
+Reg. 13033. There is, of course, no ongoing war between
+the United States and Venezuela. Nor is Tren de Aragua
+itself a “foreign nation.” § 21. The President's Proclama-
+tion nonetheless asserts that Tren de Aragua is “undertak-
+ing hostile actions and conducting irregular warfare against
+the territory of the United States both directly and at the
+direction . . . of the Maduro regime in Venezuela.” Id., at
+13034. Based on these fndings, the Proclamation declares
+that “all Venezuelan citizens 14 years of age or older who
+are members of [Tren de Aragua]” and are not “naturalized
+[citizens] or lawful permanent residents” are liable to “imme-
+diate apprehension, detention, and removal” as alien ene-
+Page Proof Pending Publication
+mies. Ibid.
+   Congress requires the President to “mak[e] public pro-
+clamation” of his intention to invoke the Alien Enemies
+Act. § 21. President Trump did just the opposite.
+In what can be understood only as covert preparation to
+skirt both the requirements of the Act and the Constitu-
+tion's guarantee of due process, the Department of Home-
+land Security (DHS) began moving Venezuelan migrants
+from Immigration and Customs Enforcement detention cen-
+ters across the country to the El Valle Detention Facility
+in South Texas before the President had even signed the
+Proclamation. 772 F. Supp. 3d 18, 26 (DC 2025). The trans-
+ferred detainees, most of whom denied past or present af-
+fliation with any gang, did not know the reason for their
+transfer until the evening of Friday, March 14, when they
+
+Prescribing Conduct Toward Alien Enemies, Proclamation No. 1364, 40
+Stat. 1650 (World War I); Alien Enemies—Japanese, Proclamation No.
+2525, 55 Stat. 1700 (World War II).
+678                    TRUMP v. J. G. G.
+
+                    Sotomayor, J., dissenting
+
+were apparently “pulled from their cells and told that they
+would be deported the next day to an unknown destina-
+tion.” Ibid.
+                            B
+   Suspecting that the President had covertly signed a Proc-
+lamation invoking the Alien Enemies Act, several lawyers
+anticipated their clients' imminent deportation and fled a
+putative class action in the District of Columbia. App. to
+Brief in Opposition to Application To Vacate 9a (App. to
+BIO). They contested that Tren de Aragua had committed
+or attempted the kind of “ `invasion' ” or “ `predatory incur-
+sion' ” required to invoke the Alien Enemies Act. Ibid.
+They also asserted that it would violate the Due Process
+Clause to deport their clients before they had any chance
+to challenge the Government's allegations of gang member-
+ship. Id., at 26a. The plaintiffs did not seek release from
+custody, but asked the court only to restrain the Govern-
+Page Proof Pending Publication
+ment's planned deportations under the Proclamation. Id., at
+9a, 29a.
+   In the early morning of March 15, the District Court in-
+formed the Government of the lawsuit and scheduled an
+emergency hearing. Despite knowing of plaintiffs' claim
+that it would be unlawful to remove them under the Procla-
+mation, the Government ushered the named plaintiffs onto
+planes along with dozens of other detainees, all without any
+opportunity to contact their lawyers, much less notice or op-
+portunity to be heard. See 772 F. Supp. 3d, at 28–29; see
+also, e. g., Decl. of G. Carney in No. 25–cv–00766 (D DC, Mar.
+19, 2025), ECF Doc. 44–11, p. 2.
+   The Government's plan, it appeared, was to rush plaintiffs
+out of the country before a court could decide whether the
+President's invocation of the Alien Enemies Act was lawful
+or whether these individuals were, in fact, members of Tren
+de Aragua. Plaintiff J. G. G., for example, had no chance
+to tell a court that the tattoos causing DHS to suspect him
+of gang membership were unrelated to a gang. Decl. of
+                   Cite as: 604 U. S. 670 (2025)             679
+
+                    Sotomayor, J., dissenting
+
+J. G. G., ECF Doc. 3–3, at 1. He avers that he is a tattoo
+artist who “got [an] eye tattoo because [he] saw it on Google”
+and “thought it looked cool.” Ibid. Plaintiff G. F. F., too,
+was denied the chance to inform a court that the Government
+accused him of being an “associate/affliate of Tren d[e] Ara-
+gua” based solely on his presence at a party of strangers,
+which he attended at the “insistence of a friend.” Decl. of
+G. Carney, ECF Doc. 3–4, at 1.
+
+                                C
+   Recognizing the emergency the Government had created
+by deporting plaintiffs without due process, the District
+Court issued a temporary restraining order that same morn-
+ing. The order prohibited the Government from removing
+the fve named plaintiffs, including J. G. G. and G. F. F., pend-
+ing ongoing litigation. G. F. F., who had been “on a plane for
+about forty minutes to an hour” as “crying and frightened”
+Page Proof Pending Publication
+individuals were forced on board, was subsequently re-
+trieved from the plane by a guard who told him he “ `just
+won the lottery.' ” Decl. of G. Carney, ECF Doc. 44–11, at 3.
+   The court then set an emergency hearing for 5 p.m. that
+same day, at which it planned to consider plaintiffs' claim
+that temporary relief should be extended to a class of all
+noncitizens subject to the anticipated Proclamation. See
+772 F. Supp. 3d, at 27. Despite notice to the Government of
+the court's scheduled hearing, DHS continued to load up the
+two planes with detainees and scheduled their immediate de-
+parture. See Tr. 12 (Mar. 15, 2025) (Two fights “were
+scheduled for this afternoon that may have already taken off
+or [will] during this hearing”); Tr. 9 (Apr. 3, 2025) (Govern-
+ment counsel agreeing that DHS was “acting in preparation
+of the proclamation before it was posted”). Not until an
+hour before the District Court's scheduled hearing, and only
+moments before the Government planned to send its planes
+off to El Salvador, did the White House fnally publish the
+Proclamation on its website.
+680                          TRUMP v. J. G. G.
+
+                         Sotomayor, J., dissenting
+
+   At its 5 p.m. hearing, the District Court provisionally cer-
+tifed a class of Venezuelan noncitizens subject to the Procla-
+mation. See Tr. 23, 25 (Mar. 15, 2025). It then issued an
+oral temporary restraining order prohibiting the Govern-
+ment from removing all members of the class pursuant to
+the Proclamation for 14 days. Id., at 42. The order did not
+disturb the Government's ability to apprehend or detain indi-
+viduals pursuant to the Proclamation or its authority to de-
+port any individual under the Immigration and Naturaliza-
+tion Act. See ibid.; see 772 F. Supp. 3d, at 24. All it required
+of the Government was a pause in deportations pursuant to
+the Proclamation until the court had a chance to review their
+legality. See Tr. 4 (Apr. 3, 2025) (“All th[e TROs] did was
+order that the government could not summarily deport in-
+custody noncitizens who were subject to the proclamation
+without a hearing”). The court further directed that “any
+plane containing” individuals subject to the Proclamation
+“that is going to take off or is in the air needs to be returned
+Page Proof Pending Publication
+to the United States.” Tr. 43 (Mar. 15, 2025).
+
+                                     D
+   Concerns about the Government's compliance with the
+order quickly followed. Even now, the District Court con-
+tinues to investigate what happened via show-cause proceed-
+ings. In those proceedings, the Government took the posi-
+tion that it had no legal obligation to obey the District
+Court's orders directing the return of planes in fight because
+they were issued from the bench. See Tr. 17 (Mar. 17, 2025)
+(“[O]ral statements are not injunctions”). Of course, as the
+Government well knows, courts routinely issue rulings from
+the bench, and those rulings can be appealed, including to
+this Court, in appropriate circumstances.3
+   3
+     See, e. g., United States v. Fruehauf, 365 U. S. 146, 154 (1961) (hearing
+Government's direct appeal from oral ruling); Evans v. Michigan, 568
+U. S. 313, 320 (2013) (relying on lower court's oral ruling); see also Wright
+v. Continental Airlines Corp., 103 F. 3d 146 (CA10 1996) (Table) (oral
+                      Cite as: 604 U. S. 670 (2025)                   681
+
+                       Sotomayor, J., dissenting
+
+   The District Court, for its part, has surmised that “the
+Government knew as of 10 a.m. on March 15 that the Court
+would hold a hearing later that day,” yet it “hustled people
+onto those planes in hopes of evading an injunction or per-
+haps preventing [individuals] from requesting the habeas
+hearing to which the Government now acknowledges they
+are entitled.” 772 F. Supp. 3d, at 28. Rather than turn
+around the planes that were in the air when the Court issued
+its order, moreover, the Federal Government landed the
+planes full of alleged Venezuelan nationals in El Salvador
+and transferred them directly into El Salvador's Center for
+Terrorism Confnement (CECOT). Id., at 29.
+   Deportation directly into CECOT presented a risk of ex-
+traordinary harm to these plaintiffs. The record refects
+that inmates in Salvadoran prisons are “ `highly likely to face
+immediate and intentional life-threatening harm at the hands
+of state actors.' ” Id., at 41 (quoting App. to BIO 258a).
+CECOT detainees are frequently “denied communication
+Page Proof Pending Publication
+with their relatives and lawyers, and only appear before
+courts in online hearings, often in groups of several hundred
+detainees at the same time.” Id., at 260a. El Salvador has
+boasted that inmates in CECOT “ `will never leave,' ” ibid.,
+and plaintiffs present evidence that “inmates are rarely al-
+lowed to leave their cells, have no regular access to drinking
+water or adequate food, sleep standing up because of over-
+crowding, and are held in cells where they do not see sun-
+light for days,” 772 F. Supp. 3d, at 42. One scholar attests
+that an estimated 375 detainees have died in Salvadoran
+prisons since March 2022. Ibid.
+   What if the Government later determines that it sent one
+of these detainees to CECOT in error? Or a court eventu-
+
+ruling was binding on parties); In re Justice, 172 F. 3d 876 (CA9 1999)
+(Table) (oral order was binding and effective even when written order was
+never entered); Ueckert v. Guerra, 38 F. 4th 446, 451–452 (CA5 2022) (oral
+ruling fnal and appealable even where district court never issued writ-
+ten judgment).
+682                    TRUMP v. J. G. G.
+
+                    Sotomayor, J., dissenting
+
+ally decides that the President lacked authority under the
+Alien Enemies Act to declare that Tren de Aragua is perpe-
+trating or attempting an “invasion” against the territory of
+the United States? The Government takes the position
+that, even when it makes a mistake, it cannot retrieve indi-
+viduals from the Salvadoran prisons to which it has sent
+them. See Defendants' Memorandum of Law in Opposition
+in Abrego Garcia v. Noem, No. 25–cv–951 (D Md., Mar. 31,
+2025), ECF Doc. 11, p. 7–9. The implication of the Govern-
+ment's position is that not only noncitizens but also United
+States citizens could be taken off the streets, forced onto
+planes, and confned to foreign prisons with no opportunity
+for redress if judicial review is denied unlawfully before re-
+moval. History is no stranger to such lawless regimes, but
+this Nation's system of laws is designed to prevent, not en-
+able, their rise.
+                               E
+
+Page       Proof
+   Even as the        Pending
+               Government              Publication
+                           has continued to litigate whether
+its March 15 deportations complied with the District Court's
+orders, it simultaneously sought permission to resume sum-
+mary deportations under the Proclamation. The District
+Court, frst, denied the Government's motion to vacate its
+temporary restraining order, rejecting the assertion that
+“the President's authority and discretion under the [Alien
+Enemies Act] is not a proper subject for judicial scrutiny.”
+App. to BIO 71a. At the very least, the District Court con-
+cluded, the plaintiffs were “likely to succeed” on their claim
+that, “before they may be deported, they are entitled to indi-
+vidualized hearings to determine whether the Act applies to
+them at all.” 772 F. Supp. 3d, at 24. The D. C. Circuit, too,
+denied the Government a requested stay and kept in place
+the District Court's pause on deportations under the Alien
+Enemies Act pending further proceedings. 2025 WL
+914682, *1 (Mar. 26, 2025) (per curiam).
+   It is only this Court that sees reason to vacate, for the
+second time this week, a temporary restraining order stand-
+                   Cite as: 604 U. S. 670 (2025)            683
+
+                    Sotomayor, J., dissenting
+
+ing “on its last legs.” Department of Education, 604 U. S.,
+at 654 (Jackson, J., dissenting). Not content to wait until
+tomorrow, when the District Court will have a chance to con-
+sider full preliminary injunction briefng at a scheduled hear-
+ing, this Court intervenes to relieve the Government of its
+obligation under the order.
+                               II
+  Begin with that upon which all nine Members of this Court
+agree. The Court's order today dictates, in no uncertain
+terms, that “individual[s] subject to detention and removal
+under [the Alien Enemies Act are] entitled to `judicial re-
+view' as to `questions of interpretation and constitutionality'
+of the Act as well as whether he or she `is in fact an alien
+enemy fourteen years of age or older.' ” Ante, at 672 (quot-
+ing Ludecke v. Watkins, 335 U. S. 160, 163–164, 172, n. 17
+(1948)). Therefore, under today's order, courts below will
+probe, among other things, the meaning of an “invasion” or
+Page Proof Pending Publication
+“predatory incursion,” 50 U. S. C. § 21, and ask, for example,
+whether any given individual is in fact a member of Tren de
+Aragua. Even the Government has now largely conceded
+that point. Application 19.
+  So too do we all agree with the per curiam's command
+that the Fifth Amendment requires the Government to af-
+ford plaintiffs “notice after the date of this order that they
+are subject to removal under the Act[,] . . . within a reason-
+able time and in such a manner as will allow them to actually
+seek habeas relief in the proper venue before such removal
+occurs.” Ante, at 673. That means, of course, that the Gov-
+ernment cannot usher any detainees, including plaintiffs,
+onto planes in a shroud of secrecy, as it did on March 15,
+2025. Nor can the Government “immediately resume” re-
+moving individuals without notice upon vacatur of the TRO,
+as it promised the D. C. Circuit it would do. See 2025 WL
+914682, *13 (Millett, J., concurring) (referencing oral argu-
+ment before that court). To the extent the Government re-
+moves even one individual without affording him notice and
+684                    TRUMP v. J. G. G.
+
+                    Sotomayor, J., dissenting
+
+a meaningful opportunity to fle and pursue habeas relief, it
+does so in direct contravention of an edict by the United
+States Supreme Court.
+                           III
+  In light of this agreement, the Court's decision to inter-
+vene in this litigation is as inexplicable as it is dangerous.
+Recall that, when the District Court issued its temporary
+restraining order on March 15, 2025, the Government was
+engaged in a covert operation to deport dozens of immi-
+grants without notice or an opportunity for hearings. The
+Court's ruling today means that those deportations violated
+the Due Process Clause's most fundamental protections.
+See ante, at 673 (reiterating that notice and an opportunity
+for a hearing are required before a deportation under the
+Alien Enemies Act). The District Court rightly intervened
+to prohibit temporarily the Government from deporting
+more individuals in this manner, based on its correct assess-
+Page Proof Pending Publication
+ment that the plaintiffs were likely entitled to more process.
+772 F. Supp. 3d, at 24.
+  Against the backdrop of the U. S. Government's unprece-
+dented deportation of dozens of immigrants to a foreign
+prison without due process, a majority of this Court sees ft
+to vacate the District Court's order. The reason, appar-
+ently, is that the majority thinks plaintiffs' claims should
+have been styled as habeas actions and fled in the districts
+of their detention. In reaching that result, the majority
+fouts well-established limits on its jurisdiction, creates new
+law on the emergency docket, and elides the serious threat
+our intervention poses to the lives of individual detainees.
+
+                               A
+  As an initial matter, the Court lacks jurisdiction to review
+the District Court's time-limited, interlocutory order. It is
+well established that, generally, “temporary restraining or-
+ders are not appealable.” 16 C. Wright, A. Miller, & E.
+Cooper, Federal Practice and Procedure § 3922.1, p. 90 (3d
+                   Cite as: 604 U. S. 670 (2025)            685
+
+                    Sotomayor, J., dissenting
+
+ed. 2012). That rule is a general one because it gives way
+where a temporary restraining order risks imposing such an
+“ `irreparable . . . consequence' ” that an immediate appeal is
+necessary if the order is to be “ `effectually challenged' ” at
+all. Carson v. American Brands, Inc., 450 U. S. 79, 84
+(1981).
+   Here, the District Court ordered a 14-day halt on deporta-
+tions pursuant to the Proclamation (extended once for 14 ad-
+ditional days) because it thought the plaintiffs were likely
+entitled to “individualized hearings to determine whether
+the Act applies to them at all.” 772 F. Supp. 3d, at 24. The
+Government now admits that it must provide detainees with
+adequate notice, and it says they can then fle habeas peti-
+tions in the Southern District of Texas to contest and stay
+their removal under the Alien Enemies Act. Such proceed-
+ings, if adequately provided, necessarily mean that the Gov-
+ernment cannot imminently deport the plaintiffs under the
+Proclamation. So it is hard to see why the District Court's
+Page Proof Pending Publication
+temporary restraining order (of which only fve days now
+remain) presented the Government with an emergency of
+any kind, much less one that required an immediate appeal.
+
+                                B
+  Also troubling is this Court's decision to vacate summarily
+the District Court's order on the novel ground that an indi-
+vidual's challenge to his removal under the Alien Enemies
+Act “fall[s] within the `core' of the writ of habeas corpus”
+and must therefore be fled where the plaintiffs are detained.
+Ante, at 672. The Court reaches that conclusion without
+oral argument or the beneft of percolation in the lower
+courts, and with just a few days of deliberation based on
+barebones briefng.
+  This conclusion is dubious. As an initial matter, the ma-
+jority's assertion that plaintiffs' claims “sound” in habeas is
+in tension with this Court's understanding of habeas corpus
+as, at its core, an avenue for a person in custody to “attack
+686                    TRUMP v. J. G. G.
+
+                    Sotomayor, J., dissenting
+
+. . . the legality of that custody” and “to secure release from
+illegal custody.” Preiser v. Rodriguez, 411 U. S. 475, 484
+(1973). The plaintiffs in this case sued not to challenge their
+detention, but to protect themselves from summary deporta-
+tion pursuant to the Proclamation. Indeed, because all of
+the plaintiffs were already in immigration detention under
+other statutes when the Government subjected them to the
+Proclamation, they “have repeatedly emphasized throughout
+this litigation that they `do not seek release from custody' ”
+and are not “contesting the validity of their confnement or
+seeking to shorten its duration.” 772 F. Supp. 3d, at 32.
+    Nevertheless, the majority insists that plaintiffs' claims
+“ `necessarily imply the invalidity' ” of their confnement and
+removal under the Act, and so essentially amount to a chal-
+lenge to their present physical confnement. Ante, at 672.
+It therefore analogizes this case to the line of cases begin-
+ning with Heck v. Humphrey, 512 U. S. 477 (1994), where the
+Page Proof Pending Publication
+Court held that individuals serving state criminal sentences
+cannot bring 42 U. S. C. § 1983 suits to complain of “unconsti-
+tutional treatment at the hands of state offcials” if a judg-
+ment in their favor would “necessarily imply the invalidity
+of his conviction or sentence.” 512 U. S., at 480, 487. In
+such cases, habeas is the exclusive avenue for relief. Ibid.
+Plaintiffs' claims, however, do not “imply the invalidity of ”
+their detention, because their detention predated the Procla-
+mation and was unrelated to the Alien Enemies Act. Thus,
+if they succeeded in showing that they could not be removed
+under the Proclamation, that would not result in their
+release from detention. Even in the context of § 1983
+challenges by criminal defendants, this Court has never “rec-
+ognized habeas as the sole remedy, or even an available one,
+where the relief sought would `neither terminate custody, ac-
+celerate the future date of release from custody, nor reduce
+the level of custody.' ” Skinner v. Switzer, 562 U. S. 521, 534
+(2011) (brackets omitted).
+                   Cite as: 604 U. S. 670 (2025)             687
+
+                    Sotomayor, J., dissenting
+
+   There is also good reason to doubt that Heck's holding
+about the availability of relief under § 1983 extends to Ad-
+ministrative Procedure Act (APA) claims challenging execu-
+tive action under the Alien Enemies Act. The Heck bar
+arose from the Court reading an “ `implicit exception' ” into
+§ 1983 to avoid “swamping the habeas statute's coverage of
+claims that the prisoner is `in custody in violation of the Con-
+stitution.' ” Nance v. Ward, 597 U. S. 159, 167 (2022) (quot-
+ing 28 U. S. C. § 2254(a)). This Court has never limited the
+availability of APA relief so narrowly. To the contrary, the
+APA has long been available to plaintiffs absent specifc pre-
+clusion by Congress. Abbott Laboratories v. Gardner, 387
+U. S. 136, 141 (1967).
+   Although the APA allows courts to review only agency
+action “for which there is no other adequate remedy in a
+court,” 5 U. S. C. § 704, this Court has long read that limita-
+tion narrowly, emphasizing that it “should not be construed
+Page Proof Pending Publication
+to defeat the central purpose of providing a broad spectrum
+of judicial review of agency action.” Bowen v. Massachu-
+setts, 487 U. S. 879, 903 (1988); see also Darby v. Cisneros,
+509 U. S. 137, 146 (1993) (“Congress intended by that provi-
+sion simply to avoid duplicating previously established spe-
+cial statutory procedures for review of agency actions”). In-
+deed, in the mid-20th century, this Court repeatedly said that
+habeas and APA actions were both available to noncitizens
+challenging their deportation orders. See Brownell v. Tom
+We Shung, 352 U. S. 180, 181 (1956) (“[E]ither remedy is
+available in seeking review of [deportation] orders”); see also
+Shaughnessy v. Pedreiro, 349 U. S. 48, 50–51 (1955) (allowing
+for judicial review of a deportation order under the APA).
+   Against that backdrop, there is every reason to question
+the majority's hurried conclusion that habeas relief supplies
+the exclusive means to challenge removal under the Alien
+Enemies Act. At the very least, the question is a thorny
+one, and this emergency application was not the place to re-
+688                    TRUMP v. J. G. G.
+
+                    Sotomayor, J., dissenting
+
+solve it. Nor was it the Court's last chance to weigh in.
+The debate about habeas exclusivity remains ongoing in the
+District Court, in the context of pending preliminary injunc-
+tion proceedings. If the District Court were to resolve the
+question in plaintiffs' favor, the Government could have ap-
+pealed to this Court in the ordinary course, and we could
+have decided it after thorough briefng and oral argument.
+In its rush to decide the issue now, the Court halts the lower
+court's work and forces us to decide the matter after mere
+days of deliberation and without adequate time to weigh the
+parties' arguments or the full record of the District Court's
+proceedings.
+                                C
+   The majority's rush to resolve the question is all the more
+troubling because this is not one of those rare cases in which
+the Court must immediately intervene “despite the risk” of
+error attendant in deciding novel legal questions on the
+Page Proof Pending Publication
+emergency docket. Department of Education, 604 U. S., at
+653 (Kagan, J., dissenting). Recall that the dispute has now
+narrowed into a debate about “which procedural vehicle is
+best situated for the Plaintiffs' injunctive and declaratory
+claims”: individual habeas petitions fled in district courts
+across the country or a class action fled in the District of
+Columbia. 2025 WL 914682, *29 (Millett, J., concurring).
+The Government may well prefer to defend against “300 or
+more individual habeas petitions” than face this class APA
+case in Washington, D. C. Ibid. That is especially so be-
+cause the Government can transfer detainees to particular
+locations in an attempt to secure a more hospitable judicial
+forum. But such a preference for defending against one
+form of litigation over the other is far from the kind of con-
+crete and irreparable harm that requires this Court to take
+the “ `extraordinary' ” step of intervening at this moment,
+while litigation in the lower courts remains ongoing. Wil-
+liams v. Zbaraz, 442 U. S. 1309, 1311 (1979) (Stevens, J., in
+                   Cite as: 604 U. S. 670 (2025)             689
+
+                    Sotomayor, J., dissenting
+
+chambers); see Department of Education, 604 U. S., at 660
+(Jackson, J., dissenting).
+   Meanwhile, funneling plaintiffs' claims into individual ha-
+beas actions across the Nation risks exposing them to severe
+and irreparable harm. Rather than seeking to enjoin imple-
+mentation of the President's Proclamation against all Vene-
+zuelan nationals in immigration detention, detainees scat-
+tered across the country must each obtain counsel and fle
+habeas petitions on their own accord, all without knowing
+whether they will remain in detention where they were ar-
+rested or be secretly transferred to an alternative location.
+Cf. Ortiz v. Fibreboard Corp., 527 U. S. 815, 860 (1999) (“One
+great advantage of class action treatment . . . is the opportu-
+nity to save the enormous transaction costs of piecemeal
+litigation”).
+   That requirement may have life or death consequences.
+Individuals who are unable to secure counsel, or who cannot
+Page Proof Pending Publication
+timely appeal an adverse judgment rendered by a habeas
+court, face the prospect of removal directly into the perilous
+conditions of El Salvador's CECOT, where detainees suffer
+egregious human rights abuses. See supra, at 681–682.
+Anyone the Government mistakenly deports in its piecemeal
+and rushed implementation of the challenged Proclamation
+will face the same grave risks. Cf. Defendants' Memoran-
+dum of Law in Opposition in Abrego Garcia v. Noem, No. 25–
+cv–951, ECF Doc. 11, at 3.
+   The stakes are all the more obvious in light of the Govern-
+ment's insistence that, once it sends someone to CECOT, it
+cannot be made to retrieve them. Ibid. The Government
+is at this very moment seeking emergency relief from an
+order requiring it to facilitate the return of an individual the
+Government concededly removed to CECOT “because of an
+administrative error.” Id., at 5; see Emergency Motion for
+Stay Pending Appeal and Immediate Administrative Stay in
+Abrego Garcia v. Noem, No. 25–1345 (CA4, Apr. 5, 2025),
+ECF Doc. 3–1, p. 2 (“No federal court has the power to com-
+690                    TRUMP v. J. G. G.
+
+                    Sotomayor, J., dissenting
+
+mand the Executive to engage in a certain act of foreign
+relations . . . ”). The Government's resistance to facilitating
+the return of individuals erroneously removed to CECOT
+only amplifes the specter that, even if this Court someday
+declares the President's Proclamation unlawful, scores of in-
+dividual lives may be irretrievably lost.
+   More fundamentally, this Court exercises its equitable dis-
+cretion to intervene without accounting for the Government
+noncompliance that has permeated this litigation to date.
+The maxim that “ `he who comes into equity must come with
+clean hands' ” has long guided this Court's exercise of equita-
+ble discretion. Precision Instrument Mfg. Co. v. Automo-
+tive Maintenance Machinery Co., 324 U. S. 806, 814 (1945).
+While “ `equity does not demand that its suitors shall have
+led blameless lives' ” as to other matters, “it does require
+that they shall have acted fairly and without fraud or deceit
+as to the controversy in issue.” Id., at 814–815 (citing Key-
+Page Proof Pending Publication
+stone Driller Co. v. General Excavator Co., 290 U. S. 240,
+245 (1933)).
+   Far from acting “fairly” as to the controversy in District
+Court, the Government has largely ignored its obligations to
+the rule of law. From the start, the Government sought to
+avoid judicial review, “hustl[ing] people onto those planes”
+without notice or public Proclamation apparently “in the
+hopes of evading an injunction or perhaps preventing them
+from requesting the habeas hearing to which the Govern-
+ment now acknowledges they are entitled.” 772 F. Supp. 3d,
+at 28. That the District Court is engaged in a sincere in-
+quiry into whether the Government willfully violated its
+March 15, 2025, order to turn around the planes should be
+reason enough to doubt that the Government appears before
+this Court with clean hands. That is all the more true be-
+cause the Government has persistently stonewalled the Dis-
+trict Court's efforts to fnd out whether the Government in
+fact fouted its express order. See Tr. 4–5 (Mar. 15, 2025);
+Tr. 6–9 (Mar. 17, 2025).
+                   Cite as: 604 U. S. ––– (2025)             691
+
+                      Jackson, J., dissenting
+
+                         *      *      *
+   The Government's conduct in this litigation poses an ex-
+traordinary threat to the rule of law. That a majority of this
+Court now rewards the Government for its behavior with
+discretionary equitable relief is indefensible. We, as a Na-
+tion and a court of law, should be better than this. I re-
+spectfully dissent.
+  Justice Jackson, dissenting.
+   I join Justice Sotomayor's dissent in full and would deny
+the application for all the reasons she explains. I write sep-
+arately to question the majority's choice to intervene on the
+eve of the District Court's preliminary-injunction hearing
+without scheduling argument or receiving merits briefng.
+This fy-by-night approach to the work of the Supreme Court
+is not only misguided. It is also dangerous.
+   The President of the United States has invoked a
+Page Proof Pending Publication
+centuries-old wartime statute to whisk people away to a no-
+toriously brutal, foreign-run prison. For lovers of liberty,
+this should be quite concerning. Surely, the question
+whether such Government action is consistent with our Con-
+stitution and laws warrants considerable thought and atten-
+tion from the Judiciary. That was why the District Court
+issued a temporary restraining order to prevent immediate
+harm to the targeted individuals while the court considered
+the lawfulness of the Government's conduct. But this Court
+now sees fit to intervene, hastily dashing off a four-
+paragraph per cur iam opinion discarding the District
+Court's order based solely on a new legal pronouncement
+that, one might have thought, would require signifcant
+deliberation.
+   When this Court decides complex and monumental issues,
+it typically allows the lower courts to address those matters
+frst; it then receives full briefng, hears oral argument, delib-
+erates internally, and, fnally, issues a reasoned opinion.
+Those standard processes may not always yield correct re-
+692                    TRUMP v. J. G. G.
+
+                     Jackson, J., dissenting
+
+sults. But when we deviate from them, the risk of error
+always substantially increases. Today's rushed conclu-
+sion—that those challenging the Government's action can
+only pursue their claims through habeas—is Exhibit A.
+   I lament that the Court appears to have embarked on a
+new era of procedural variability, and that it has done so
+in such a casual, inequitable, and, in my view, inappropriate
+manner. See Department of Education v. California, 604
+U. S. 650, 653–654 (2025) (Jackson, J., dissenting). At least
+when the Court went off base in the past, it left a record so
+posterity could see how it went wrong. See, e. g., Kore-
+matsu v. United States, 323 U. S. 214 (1944). With more and
+more of our most signifcant rulings taking place in the shad-
+ows of our emergency docket, today's Court leaves less and
+less of a trace. But make no mistake: We are just as wrong
+now as we have been in the past, with similarly devastating
+consequences. It just seems we are now less willing to
+face it.
+Page Proof Pending Publication
+                            Reporter’s Note
+
+   The attached opinion has been revised to refect the usual publication
+and citation style of the United States Reports. The revised pagination
+makes available the offcial United States Reports citation in advance of
+Page Proof Pending Publication
+publication. The syllabus has been prepared by the Reporter of Decisions
+for the convenience of the reader and constitutes no part of the opinion of
+the Court. Other revisions may include adjustments to formatting, cap-
+tions, citation form, and any errant punctuation. The following additional
+edits were made:
+
+p. 683, line 12 from bottom: “a” is inserted before “reasonable”
