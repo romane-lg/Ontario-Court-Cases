@@ -1,0 +1,850 @@
+CITATION:
+R. v. Hamilton
+, 2025 ONCJ 628
+DATE: 
+2025 12 02
+COURT
+FILE No.:  Central East—Newmarket  24-91103082
+ONTARIO COURT OF JUSTICE
+BETWEEN:
+HIS
+MAJESTY THE KING
+—
+AND —
+CHARLES HAMILTON
+Before
+Justice A.M Elias
+Heard
+on August 11, August 12, and October 21, 2025
+Reasons
+for Judgment released on December 2, 2025
+Robert De Chellis............................................................................... counsel
+for the Crown
+Shaleem Gill.............................................. 
+ counsel for the defendant Charles Hamilton
+ELIAS J.:
+Overview
+[
+1
+]
+A gas-station attendant reported a possibly
+impaired driver.  He told police that someone was parked at a gas pump for over
+15 minutes, drifting in and out of consciousness. When police arrived, they
+detained Mr. Charles Hamilton and asked him to exit his car. He approached them
+slowly. Police detected an odour of marihuana from his breath. Police arrested the
+defendant for drug-impaired driving, demanded that he comply with a drug
+evaluation, and called for medical assessment given their concerns about his
+level of impairment. Once he was medically cleared, a drug recognition expert
+concluded that he was impaired by cannabis and demanded a sample of his urine.
+His urine ultimately tested positive for metabolites of cannabis and
+Olanzapine. Mr. Hamilton stands charged that he operated a motor vehicle while
+his ability to do so was impaired by drug, contrary to
+section 320.14 (1)
+(a) of
+the
+Criminal Code
+.
+Charter
+Analysis
+[
+2
+]
+Mr. Hamilton submits that he was the subject of
+an unreasonable search and an unlawful arrest contrary to sections 8 and 9 of
+the
+Charter of Rights and Freedoms
+. The Crown called two witnesses,
+namely PC Wickramasinghe, the arresting officer, and PC Batte, a Drug
+Recognition Expert. I must decide the following issues on the
+Charter
+analysis:
+(1)
+Did Constable Wickramasinghe have reasonable and
+probable grounds to arrest Mr. Hamilton for drug-impaired driving?
+(2)
+Did Mr. Hamilton have a reasonable expectation
+of privacy when he was being medically assessed in the back of the police cruiser?
+(3)
+Did the DRE have reasonable grounds to make a
+demand for Mr. Hamilton to comply with a drug evaluation?
+(4)
+Did the DRE conduct her evaluation in an
+unreasonable manner?
+(5)
+If there are one or more breaches of the
+Charter
+,
+should the evidence be excluded pursuant to
+s.24(2)
+?
+Did Constable Wickramasinghe have reasonable
+and probable grounds to arrest Mr. Hamilton for drug-impaired driving?
+[
+3
+]
+The defence submits that PC Wickramasinghe did
+not have reasonable and probable grounds to arrest the defendant for impaired
+driving, without further investigation. The Crown submits that reasonable and
+probable grounds had crystalized at the point of arrest and no further
+investigation was necessary.
+[
+4
+]
+Whether reasonable and probable grounds exist is
+a fact-based exercise dependent upon all the circumstances of the case. The
+totality of the circumstances must be considered.
+[1]
+To establish reasonable and
+probable grounds for arrest, a police officer must subjectively believe that a
+person has committed or is about to commit an offence, and the police officer
+must be able to justify that belief on an objective basis, meaning that a
+reasonable person placed in the position of the police must be able to conclude
+that there were reasonable and probable grounds. The police need not
+demonstrate anything more than reasonable and probable grounds. Specifically,
+the police need not establish a prima facie case for conviction.
+[2]
+[
+5
+]
+The assessment of reasonable grounds is
+conducted through the lens of a reasonable person “standing in the shoes of the
+police officer” with that Constable’s training and experience.
+[3]
+Exculpatory or neutral
+information cannot be disregarded, but the obligation to take all factors into
+account does not require that the police conduct further investigation to rule
+out alternate explanations. All the circumstances must be considered, not
+isolated factors shorn of context.
+[4]
+[
+6
+]
+I find that Constable Wickramasinghe had
+reasonable and probable grounds to arrest Mr. Hamilton for drug-impaired
+driving.  I reach this conclusion upon analyzing (a) the information he
+received prior to attending at the gas station and (b) the observations he made
+while on scene prior to arrest. The information received, when combined with
+his direct observations, grounds a reasonable and probable belief that Mr.
+Hamilton was operating a motor vehicle while impaired by drug.
+[
+7
+]
+On the morning of March 27, 2024, Constable
+Wickramasinghe learned the following information from central dispatch,
+regarding a possible impaired driver, before attending on scene of a gas
+station:
+(1)
+A gas station attendant at Petro Canada, located
+at 7761 Woodbine Avenue, had called police to report that a male in his
+thirties (30s) had been at Pump #1 for 15-20 minutes and was in and out of
+consciousness: sleeping and waking up. He was driving a Black Ford with a
+numbered plate.
+[
+8
+]
+Constable Wickramasinghe made his way to the gas
+station to respond to the impaired call. Enroute, he learned the following
+information:
+(1)
+The attendant described the driver as “extremely
+groggy and impaired.” He further advised that, “the driver passed out and he
+attempted to wake him up a number of times.”
+(2)
+The attendant reported that the driver attempted
+to pump gas but spilled the gas all over the vehicle. He was unable to place
+the gas nozzle into the car. No alcohol was visible. The vehicle had been at
+the gas station since 7 am that morning.
+[
+9
+]
+When he arrived at the gas station, Constable
+Wickramasinghe observed a Black Ford, bearing a licence plate matching the
+earlier description, parked at Pump 1, facing southbound.  He immediately
+“pinned” the car with a fellow cruiser, so that it wouldn’t drive away. I note,
+at this juncture, that Mr. Gill concedes that police had a reasonable suspicion
+to detain Mr. Hamilton and block in his car. Given this concession, I will not
+assess the validity of the detention.
+[
+10
+]
+At this point, the Constable Wickramasinghe
+directly observed Mr. Hamilton while he was in the driver’s seat of the car. He
+was slumped back, sleeping, with his feet hanging out of the driver’s side
+window.  Constable Wickramasinghe approached the Ford and motioned to the
+driver to exit his car and walk towards him. The defendant complied. The
+officer observed Mr. Hamilton walk and move slowly.  His eyes were droopy. 
+When the defendant asked why police were blocking his car, Constable Wickramasinghe
+detected a strong odour of marihuana emanating from Mr. Hamilton’s mouth.
+Constable Wickramasinghe arrested Mr. Hamilton for impaired driving by drug.
+[
+11
+]
+I find that the Crown has proved that the
+Constable subjectively, and objectively, had grounds to arrest Mr. Hamilton.
+These grounds existed at the time of a dynamic arrest:
+(a)
+The officer testified that he saw Mr. Hamilton
+slumped back, sleeping in his car, with his legs hanging out of the driver side
+window. When Mr. Hamilton exited his car, he was slow and unsteady on his feet.
+The Constable immediately detected the odour of marihuana.
+(b)
+Prior to make these observations, the Constable
+had received information that Mr. Hamilton was at the pump for 3 hours; was
+spilling gas; and was in and out of consciousness. He believed this
+information.
+[
+12
+]
+The Defence submits that the arresting officer
+embarked on no further investigation after detecting an odour of marihuana
+emanating from Mr. Hamilton. Namely, no field sobriety test, nor ASD demand was
+issued. It is Mr. Gill’s submission that Mr. Hamilton was arrested on a “mere
+hunch: no questions were asked of Mr. Hamilton.
+[
+13
+]
+There is no minimum time period nor mandatory
+questioning that must occur before an officer can objectively have reasonable
+and probable grounds. There is no requirement that a roadside sample be taken.
+The ASD provides evidence of the blood alcohol concentration in the suspect's
+blood, not evidence of impairment. Once the officer had subjectively and
+objectively reasonable and probable grounds, he was not required to delay the
+arrest to conduct more tests.
+[5]
+The issue is not whether the officer could have conducted a more thorough
+investigation. The issue is whether, when the officer arrested Mr. Hamilton, he
+subjectively and objectively had reasonable and probable grounds to do so. That
+the belief was formed in less than one minute is not determinative. That an
+opinion of impairment of his ability to operate a motor vehicle can be made in
+under a minute is neither surprising nor unusual.
+[6]
+Did Mr. Hamilton have a reasonable expectation
+of privacy during medical assessment in police custody?
+[
+14
+]
+After Constable Wickramasinghe arrested Mr.
+Hamilton, he placed him in the back of his cruiser. Mr. Hamilton continued to
+go in and out of sleep while the Constable advised of his reason for arrest,
+cautioned him, and demanded that he submit to a drug recognition evaluation.
+The officer testified that he was concerned for Mr. Hamilton’s medical
+wellbeing given his ‘high level of impairment.’ Acting on that concern,
+Constable Wickramasinghe called for ambulatory assistance. When a firetruck
+arrived on scene, an initial medical examination took place while the defendant
+remained in the back of the police cruiser. When ambulatory staff removed him
+from the police cruiser, PC Wickramasinghe stood next to Mr. Hamilton and held his
+arm.
+[
+15
+]
+The Defence submits that the officer’s
+attendance during this medical assessment violated Mr. Hamilton’s right to be
+secure against unreasonable search or seizure under
+section 8
+of the
+Charter
+.
+The Crown submits that Mr. Hamilton did not have a reasonable expectation of
+privacy. Furthermore, the Crown submits that no information from this medical
+examination is used for investigative, or prosecutorial purposes.
+[
+16
+]
+I find that Mr. Hamilton did not have a
+reasonable expectation of privacy in the information he shared with medical
+personnel while in police custody, in the back of a police car, and while
+accompanied by a police officer. A search or seizure will not occur within the
+meaning of
+s. 8
+of the
+Charter
+unless investigative state conduct intrudes
+upon a
+Charter
+claimant’s reasonable expectation of privacy.
+[7]
+The determination of whether
+a reasonable expectation of privacy exists requires a case-specific, contextual
+analysis.
+[8]
+[
+17
+]
+The accused’s reasonable expectation of privacy
+extends only to certain communications made for the purpose of giving and
+receiving medical care. There is no blanket expectation of privacy in respect
+of all activities that occur in a hospital emergency room, or all
+communications that pass between medical personnel and a patient.
+[9]
+[
+18
+]
+An “information privacy” claim is made where an
+individual asserts the right “to determine for themselves when, how, and to
+what extent information about them is communicated to others”.
+[10]
+When an informational right
+of privacy is being claimed, the appropriate question is whether the
+information is the sort that society accepts should remain out of the state’s
+hands because of what it reveals about the person involved, the reasons why it
+was collected, and the circumstances in which it was intended to be used.”
+[11]
+Taking these three factors
+into account, I find Mr. Hamilton did not enjoy a reasonable expectation of
+privacy while speaking to medical personnel within the police cruiser.
+Nature of Information
+[
+19
+]
+During the medical examination, Mr. Hamilton
+advised personnel that he had consumed marihuana. He also provided his finger
+so that his pulse could be taken. While the information about drug usage would
+otherwise be self-incriminatory, as it was in the case of SS, there are
+meaningful distinctions in this case. First, unlike the young person in SS, Mr.
+Hamilton knew that a police officer was present.  Second, unlike the young
+person in SS, Mr. Hamilton was in police custody, handcuffed in the back of a
+cruiser.  Third, unlike the young person in SS, Mr. Hamilton was cautioned and
+advised of his right to counsel prior to medical examination. Mr. Hamilton did
+not lack the knowledge required to choose whether to exercise the right to
+silence that would have operated.
+[
+20
+]
+The information that Mr. Hamilton disclosed,
+that he had used marihuana earlier that day, reveals little about him in the
+context of this specific arrest and investigation. Police had already formed
+reasonable and probable grounds to believe that he was drug-impaired while
+operating a vehicle based on his conduct in the gas station. Police detected an
+odour of marihuana emanating from his mouth prior to his arrest. Furthermore,
+the arresting officer had already made a demand that Mr. Hamilton submit to a
+drug impairment evaluation, where he would be directly asked about his drug
+usage. Constable Wickramasinghe did not relay any of this information to the
+Drug Recognition Officer, nor did she rely on it to form her grounds to demand
+an evaluation.
+Reasons Information was Collected &
+Circumstances of Collection
+[
+21
+]
+In this case, police overheard the exchange of
+medical information to ensure Mr. Hamilton’s well-being, not to further
+investigate him for an impaired driving offence. PC Wickramasinghe testified
+that the defendant was, “going in and out of consciousness.” He believed that
+“he had a high level of impairment and was “concerned for his medical
+wellbeing.” He was so concerned for Mr. Hamilton’s well-being that he hesitated
+to drive to an ambulance bay—as he was instructed—while Mr. Hamilton remained
+without medical attention in the backseat of the police cruiser. He worried
+that Mr. Hamilton might go into medical distress. He testified that he called
+ambulance to potentially “save Mr. Hamilton’s life.”
+[
+22
+]
+The in-car camera continued to record the
+interaction. When asked why the in-car camera remained on during this
+assessment, PC Wickramasinghe indicated it was contrary to police policy to
+turn it off. Indeed, if the camera was stopped and Mr. Hamilton’s well-being
+was compromised or threatened, the absence of evidence would raise other
+constitutional flags, perhaps spurring a lost evidence application.
+[
+23
+]
+When medical personnel asked Mr. Hamilton to
+step out of the cruiser, Constable Wickramasinghe passively accompanied him. I
+note here, that Mr. Hamilton was having trouble standing up and was falling
+asleep. The officer stood by as he remained in police custody. He testified
+that police “don’t have the ability to lose sight of a prisoner, even for
+medical treatment.”  This case is distinguishable from SS, where the young
+person had no reason to believe that the answers shared with the paramedic for
+health purposes were being captured by a police officer as part of a criminal
+investigation. On the contrary, the medical transaction was recorded for
+safety, and not investigatory purposes. While Mr. Hamilton may have incriminated
+himself during the medical assessment, this information did not inform the
+investigation or the prosecution; he was already placed under arrest, and
+subject to the drug impairment evaluation.
+[
+24
+]
+Having regard to the way the information was
+acquired by the police, the nature of the information, and the reason why it
+was collected, Mr. Hamilton had no reasonable expectation of privacy. Like
+LaChappelle, the seriousness of the offence under investigation, Mr. Hamilton’s
+lack of a territorial privacy interest in police cruiser, the absence of any
+interference with his medical care, and the nature of the information heard by
+the officer all support this conclusion.
+Was the DRE Constable entitled to rely on
+grounds beyond those of arrest to make her demand?
+[
+25
+]
+The defence submits that PC Wickramasinghe was
+not entitled to provide the Drug Recognition Expert with information that he
+learned after Mr. Hamilton’s arrest. The defence did not provide a legal
+authority for this proposition.
+[
+26
+]
+Constable Wickramasinghe issued a demand to Mr.
+Hamilton at 11: 24 hours. Prior to 12:59 hours that afternoon, PC Rachel Batte
+renewed the demand that he submit to a drug recognition evaluation. At page 2
+of Exhibit #3, entitled “York Regional Police Drug Influence Evaluation Narrative”,
+PC Batte sets out the sources of her information, under the heading “Sources.”
+First, she details what happened prior to Mr. Hamilton’s arrest: that a gas
+station called to report an impaired driver parked at a pump. While the
+attendant attempted to rouse the driver, he would not wake up. The driver then
+exited the car and attempted to fill gas on the wrong side of his vehicle
+causing it to spill on the ground. Next, she details the arresting Constable’s
+observations of Mr. Hamilton—slumped in the driver’s seat. When he exited, the
+arresting Constable could smell marihuana from his breath. She then summarizes
+what happens after Mr. Hamilton’s arrest:
+“Once placed into the patrol car, the
+subject had difficulty remaining upright and slumped forward. PC Wickramasinghe
+contacted paramedics as a precaution. He was cleared medically. The residue of
+dried cannabis was found in the vehicle inside a plastic Ziploc bag and the
+odour of burnt cannabis was detected by PC Wickramasinghe. No evidence of
+alcohol consumption and there were no grounds for breath test.”
+[
+27
+]
+All that
+section 320.28(2)
+of the
+Criminal
+Code
+requires is that a valid demand is made by a peace officer with
+reasonable grounds to do so and that the demand is made as soon as practicable.
+There is nothing in the
+Criminal Code
+or in the jurisprudence that
+supports the proposition that the Crown must prove the 'who, what, where and
+when' of the demand."
+[12]
+As applied to the present case, the Ontario Court of Appeal’s interpretation in
+R v. Guenter
+,
+2016 ONCA 572
+permits me to find that a demand by the drug
+evaluation expert, PC Batte, would satisfy the requirements of
+s. 320.28(2)
+provided she had formed reasonable grounds and made a demand "as soon as
+practicable" thereafter.
+[
+28
+]
+First, I find that even if she relied only on
+the circumstances that proceeded Mr. Hamilton’s arrest, she would have
+reasonable and probable grounds to demand that he comply with a drug
+evaluation. Second, I find that she was entitled to rely on information that
+arose after his arrest in forming her grounds to believe that his ability to
+operate a motor vehicle was impaired by drug—which I find reasonable and
+probable in these circumstances.
+Did Constable Batte carry out the Drug
+Recognition Evaluation in an unreasonable manner?
+[
+29
+]
+The Defence submits that Constable Batte
+conducted her drug evaluation in manner that was unreasonable. Mr. Gill further
+submits that the DRE excluded medical reasons for Mr. Hamilton’s behaviour
+because she was advised that he was medically cleared.  He further submits that
+Constable Batte did not consider that Mr. Hamilton was asleep, in the cells,
+prior to her evaluation. Together, he submits, this results in an unreasonable
+search.
+[
+30
+]
+There is no evidence that the evaluation was
+conducted in an unreasonable manner.
+[
+31
+]
+Based on the questions Constable Batte asked Mr.
+Hamilton at the outset of her examination, she was entitled to exclude fatigue
+and medical reasons as justifications for his irregular behaviour. Exhibit #3
+contains a one-page Drug Impairment Evaluation Report using a prescribed form,
+and qualitative, 9 page “Drug Evaluation Narrative.” Constable Batte notes the
+location of the examination, the witnesses, her sources of information prior to
+the exam, and her first observations of Mr. Hamilton. Under her first
+observations, she asks, “When did you sleep and for how long?” and Mr. Hamilton
+answers, “yesterday, at 9 pm, for 5 hours.” She then asks, “Are you sick or
+injured?” and he responds, “No.”  She then asks whether he was sick or injured,
+diabetic, epileptic, whether he had physical disabilities, or was under the
+care of a doctor. He responded to all these questions in the negative.
+[13]
+These questions all
+correspond to the prescribed fields on the standard, Drug Impairment
+Evaluation. In asking these questions, Constable Batte learned about Mr.
+Hamilton’s quantity of sleep and his medical condition. Her assessment was not
+skewed by the information she received from PC Wickramasinghe nor was it
+misguided by her lack of knowledge about his sleeping inside the cells. I find
+her search was conducted in a reasonable manner, as prescribed by the Drug
+Impairment Evaluation standard intake form.
+24(2) Analysis
+[
+32
+]
+I have found no section 9 or section 8 breaches
+under the
+Charter of Rights and Freedoms
+. DC Wickramasinghe did not rely
+on any information provided during his medical assessment when forming his
+grounds to arrest Mr. Hamilton, who was already in police custody. Nor did the
+Drug Recognition Expert rely on any information exchanged during the medical examination
+to form her grounds to demand compliance with the evaluation. I note,
+parenthetically, that the DRE would have learned that Mr. Hamilton was
+“medically cleared” even if PC Wickramasinghe did not passively attend the
+assessment. The Crown did not seek to tender any information captured during
+the medical assessment and asked to excise that portion of the in-car camera
+from evidence on the trial proper.
+[
+33
+]
+In the further alternative, if Mr. Hamilton
+did
+enjoy a reasonable expectation of privacy to this information, and police
+conduct breached his section 8 rights, and the demand for a drug evaluation and
+collection of his urine was contextually related to this breach, this still
+would not mandate an exclusion of the urine analysis or DRE report under 24(2).
+Police conduct was not serious and was technical in nature: it was the evidence
+of the officer that he summoned ambulatory care to ensure Mr. Hamilton’s
+well-being given his high level of impairment. He did not turn off the in-car
+camera because he was responsible for Mr. Hamilton’s safety while in police
+custody. It was contrary to York Regional Police policy to suspend the
+recording of the in-car camera. Likewise, the impact of the breach on Mr.
+Hamilton’s constitutionally protected rights is minimal, given that he was
+already the subject of DRE evaluation where he would reveal his drug
+consumption and participate in clinical testing. Society’s interest would
+favour adjudication on the merits. Balancing all these factors, excluding the
+DRE evaluation and urine analysis would bring the administration of justice
+into disrepute. Mr. Hamilton’s
+Charter
+application is dismissed.
+Trial Proper
+[
+34
+]
+The Crown bears the onus to prove beyond a
+reasonable doubt that Mr. Hamilton operated a conveyance while his ability to
+operate was impaired, to any degree, by drug on March 27, 2024. Defence
+conceded Mr. Hamilton’s identity, date of the offence, and jurisdiction. The
+following issues arise on the trial evidence:
+(1)
+Was Mr. Hamilton “operating” a motor vehicle?
+(2)
+Was Mr. Hamilton’s ability to operate a motor
+vehicle impaired to any degree?
+(3)
+If was impaired to any degree, was he impaired
+by drug?
+Was Mr. Hamilton
+operating
+a motor
+vehicle?
+[
+35
+]
+The Defence submits that the Crown has not
+established that Mr. Hamilton was in “care or control’ of his motor vehicle.
+Namely, no evidence as to how the key to the car was found on the dash after
+Mr. Hamilton was found asleep in the driver’ seat.
+[
+36
+]
+Section 320.11
+of the
+Criminal Code
+defines ‘operate’ for the purposes of offences relating to conveyances. In
+respect of a motor vehicle, “operate” means to drive it or have care or control
+of it. Pursuant to
+s. 320.35
+of the
+Criminal Code
+, the Crown may prove operation
+via “care or control” by proving that the accused occupied the driver’s seat of
+the vehicle:
+In proceedings in respect of an offence
+under section 320.14 or 320.15, if it is proved that the accused occupied the
+seat or position ordinarily occupied by a person who operates a conveyance, the
+accused is presumed to have been operating the conveyance unless they establish
+that they did not occupy that seat or position for the purpose of setting the
+conveyance in motion.
+[
+37
+]
+The presumption is engaged when the accused
+first occupies the driver’s seat, not when the police arrive later. The
+mens
+rea
+and
+actus reus
+of the offence are complete at that time. The
+purpose of the legislation is to discourage intoxicated persons from even
+occupying the driver’s seat.
+[14]
+The presumption may be rebutted by showing on the balance of probabilities that
+the accused had no intention of setting the vehicle in motion.
+[15]
+[
+38
+]
+In this case, Mr. Hamilton’s position in the
+driver’s seat engages the presumption.
+[16]
+There is no evidence that rebuts the presumption on a balance of probabilities. 
+ On the contrary, Mr. Hamilton was found passed out seated behind the driver’s
+wheel, slumped backward with his feet hanging out of the driver-side window on
+the premises of a public, commercial business, namely a gas station. He did not
+have permission to remain there indefinitely. I conclude that the Crown has established
+occupancy and thereby proven that Mr. Hamilton operated the vehicle.
+Was Mr. Hamilton’s ability to operate a motor
+vehicle impaired?
+[
+39
+]
+The Crown bears the onus of proving
+impairment—to any degree, including
+slight
+impairment—beyond a
+reasonable doubt, on all the evidence. The impairment of one’s ability to drive
+is generally understood as meaning the alteration of one’s judgment and the
+decrease in one’s physical abilities. If the evidence establishes any degree of
+impairment ranging from slight to great, the offence has been made out. Slight
+impairment to drive relates to a reduced ability in some measure to perform a
+complex motor function whether the impairment impacts on perception or field of
+vision reaction or response time, judgment, and regard for the rules of the
+road.
+[17]
+[
+40
+]
+In considering the observations of the arresting
+officer, the conduct of Mr. Hamilton on the in-car camera, in conjunction with
+the clinical observations of the Drug Recognition Expert, I find that Mr.
+Hamilton’s impairment is the only reasonable conclusion available on this
+constellation of facts:
+[
+41
+]
+Pre-Arrest Evidence
+: Constable Wickramasinghe testified that he observed Mr. Hamilton
+passed out, with his feet hanging out of the driver side window, while his car
+was parked in a busy gas station at 11 am in the morning on a weekday. When Mr.
+Hamilton exited the vehicle, he observed that Mr. Hamilton was moving and
+speaking slowly.
+[
+42
+]
+In-Car Camera Evidence
+: The in-car camera video, entered as Exhibit 2 on the trial,
+demonstrates Mr. Hamilton’s impairment based on the following observations:
+(a)
+Mr. Hamilton is placed in the back of a police
+cruiser. After Mr. Hamilton is told the reason for his arrest and cautioned
+between 11:20 and 11:24 am, he lies down and proceeds to sleep in the police
+car. The arresting Constable then reads the demand that he submit to drug
+evaluation. Mr. Hamilton remains in a lethargic condition—where he interacts
+briefly then proceeds to shut his eyes—in the back of the police car.
+Throughout his time in the police cruiser prior to EMS attending, the defendant
+appears to drift in and out of sleep.
+(b)
+A firetruck arrives at the side of the cruiser
+to assess Mr. Hamilton between 11:42 and 11:47 am. Mr. Hamilton is placed back
+into the police cruiser at 11:47 am. He proceeds to lie back down against the
+chair and, once again, falls asleep. As the cruiser moves towards the police
+station, I note that Mr. Hamilton remains asleep in the car, with his eyes
+closed until the cruiser reaches the police station, at 12:04 pm.
+[
+43
+]
+These observations cannot be divorced from their
+context. Mr. Hamilton is slumped against the seat of the police car, fading in
+and out of sleep, while he is under arrest for a criminal charge. He remains
+lethargic and in a generalized state of grogginess while he is advised of his
+right to counsel, his obligation to submit to a drug evaluation demand, and
+transported to a police station. This level of lethargy prompted PC Wickramasinghe
+to seek out medical attention. This level of lethargy impairs one’s ability to
+drive with due attention, concentration and co-ordination.
+[
+44
+]
+Observations made by Drug Recognition Expert
+: While Mr. Hamilton’s conduct on the in-car camera, discussed
+above, demonstrates his impairment, this conclusion is corroborated by the drug
+recognition evaluation. I consider the DRE’s opinion, that, “the subject’s
+ability to operate a conveyance is impaired by Cannabis” as one fact that forms
+the constellation of evidence before the court. Constable Batte observed that
+Mr. Hamilton’s eyes appeared watery and droopy. She described his attitude as
+groggy and his co-ordination, movement and speech as slow.
+[
+45
+]
+Mr. Hamilton’s pre-arrest and post-arrest
+behaviour demonstrate his impairment beyond a reasonable doubt. The in-car
+camera footage is capable of establishing this impairment and is further
+supplemented by Constable Batte’s observations during the Drug Evaluation. I
+find that a person who is falling asleep, slumped over, and unable to keep his
+eyes open while under arrest and caution, could not drive with due concentration
+and co-ordination. The evidence is overwhelming that Mr. Hamilton’s ability to
+drive was impaired.
+Was Mr. Hamilton impaired by drug?
+[
+46
+]
+Constable Batte identified cannabis as impairing
+Mr. Hamilton’s ability to drive. She demanded that he provide a sample of his
+urine. The toxicology report, filed as Exhibit 5 on the trial, identified
+“carboxytetrahydrocannabinol” in his urine. This is described at paragraph 2 of
+that report as a metabolite of THC and its detection in urine indicates prior
+use of, exposure to, cannabis products:
+“THC can impair the individual’s ability to
+operate a motor vehicle. The effects of THC can include altered time
+perception, incoordination, and decreased ability to concentrate. THC is
+unlikely to be detected in urine; therefore, no inference regarding the recency
+of cannabis use can be made based on the absence of THC in urine.”
+[
+47
+]
+The toxicology report further detected
+olanzapine in Mr. Hamilton’s urine. Paragraph 3 of that report indicates that
+“Olanzapine can impair an individual’s ability to operate a motor vehicle. The
+effects of olanzapine can include dizziness and drowsiness.”
+[
+48
+]
+Section 320.31(6)
+of the
+Criminal Code
+allows two presumptions when three pre-conditions are met:
+(a)
+A presumption that the drug was present in the body
+at the time of operation and;
+(b)
+A presumption that the drug caused the
+impairment
+[
+49
+]
+The preconditions for the presumption that
+cannabis was present in Mr. Hamilton’s body at the time he operated the
+vehicle, and that cannabis caused the impairment are met in this case, namely: the
+analysis of the urine sample demonstrates that Mr. Hamilton had a drug—a
+cannabis metabolite and olanzapine—in his body; Cannabis was identified by the
+evaluating Constable, PC Batte.
+[
+50
+]
+Mr. Hamilton’s ability to operate a motor vehicle
+was proved to be impaired by drug beyond a reasonable doubt.
+Conclusion
+[
+51
+]
+The Crown has established, beyond a reasonable
+doubt that Mr. Hamilton was operating a motor-vehicle and his ability to do so
+was impaired by drug on March 27, 2024. I find him guilty of this charge.
+Released:  December 2, 2025
+Signed:
+Justice Ann Marina Elias
+[1]
+R v Bush
+,
+2010 ONCA 554
+at para
+54
+[2]
+R v Wu
+,
+2015 ONCA 667
+at para
+49
+, R v Storrey,
+1990 CanLII 125 (SCC)
+,
+[1990] SCJ No 12.
+[3]
+R v Wu
+,
+2015 ONCA 667
+at para
+50
+[4]
+R v Leppanen
+,
+2015 ONSC 2973
+at para
+38
+[5]
+R v Bush
+,
+2010 ONCA 554
+at para
+54
+[6]
+R v Bush
+,
+2010 ONCA 554
+at para
+70
+[7]
+R. v. S.S
+.,
+2023 ONCA 130
+, at para
+29
+[8]
+R. v. S.S
+.,
+2023 ONCA 130
+at para
+36
+[9]
+R. v. Singh
+,
+2024 ONCA 66
+at para
+55
+[10]
+R. v. S.S
+.,
+2023 ONCA 130
+, at para
+40
+[11]
+R. v. Jones
+,
+2025 ONSC 6158
+at para
+67
+citing
+R. v. Gomboc
+,
+2010
+SCC 55
+at para.
+34
+[12]
+R v Guenter
+,
+2016 ONCA 572
+at para
+89
+[13]
+Exhibit 3, Drug Influence Evaluation Narrative, page 2.
+[14]
+R. v. Szymanski
+,
+2009 CanLII 45328 (ON SC)
+, [2009] O.J. No. 3623 (S.C.J.) at paras.
+35-42
+.
+[15]
+R. v. O’Neill
+,
+2016 ONCA 307
+[16]
+R. v. Green
+,
+2007 ABPC 286
+[17]
+R. v. Grant
+,
+2014 ONSC 1479

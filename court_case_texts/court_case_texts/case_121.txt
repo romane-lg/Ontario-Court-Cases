@@ -1,0 +1,393 @@
+CITATION:
+R. v. Duke
+, 2025 ONCJ 524
+COURT
+FILE No.: 998-23-61101719
+DATE:
+October 6, 2025
+ONTARIO
+COURT OF JUSTICE
+Central West Region
+At Orangeville
+BETWEEN:
+HIS
+  MAJESTY THE KING
+—
+   AND  —
+david duke
+Heard
+Before Mr. Justice Richard H.K.
+Schwarzl
+on December
+30, 2024; April 23, August 6, and September 5, 2025
+Reasons released on October 6, 2025
+Mr.
+Vikramjeet Aujla..............................................................................................  
+for the Crown
+Ms.
+Kathryn Doyle...........................................................................................  
+for the Defendant
+SCHWARZL,
+J.:
+REASONS FOR JUDGMENT
+1.0:  INTRODUCTION
+[
+1
+.]
+The defendant, David Duke,
+faces trial for the alleged offences of dangerous driving and assault causing
+bodily harm, contrary to
+sections 320.13(1)
+and
+267
+(b) of the
+Criminal Code of
+Canada
+.
+[
+2
+.]
+There is only one issue for
+each charge.  With respect to the dangerous driving, the defence submits that
+the Crown has not met its heavy burden of proof that the driving was
+“dangerous.”  As for the alleged assault, the sole issue is whether the
+defendant acted in self defence.
+[
+3
+.]
+Both parties agree that the
+resolution, if any, of these two issues relies upon my assessment of the
+credibility and reliability of the evidence as a whole.
+2.0:
+THE CHARGE OF DANGEROUS DRIVING
+2.1: The Facts
+[
+4
+.]
+The following relevant facts
+are not in dispute.
+[
+5
+.]
+December 2, 2023 at around
+6:00 p.m., the weather on westbound Hwy 401 and northbound Hwy 427 was dark and
+raining.  The traffic was moderate to heavy both west and north.  Mr. Jason
+Tremblay was driving with his girlfriend, Kelsi Francis, were driving in a
+Honda Civic.  They were driving from Etobicoke to Bolton to have dinner with
+friends. As they turned north onto Hwy 427 from the 401, Tremblay noticed a
+Dodge Ram driven by Mr. Duke. Like Tremblay, Duke was driving to Bolton and he,
+too, was entering Hwy 427 from the 401.
+[
+6
+.]
+Both cars were parallel to
+one another going north.  While each driver has a different memory of the
+particulars, both drivers believed the other was trying to jostle for position
+in the northbound lanes.  Tremblay felt that Duke was being aggressive while
+Duke believed that Tremblay was trying to prevent him from merging safely into
+Tremblay’s lane.  What ever the cause, both drivers were clearly peeved with
+the other as they continued northbound side by side.  Mr. Duke testified that
+he was aggravated, agitated, and annoyed by Tremblay’s behaviour.
+[
+7
+.]
+During the jockeying, each
+driver rolled down his window.  Words and gestures were exchanged as they sped
+north on the highway.  Tremblay claimed that Duke careened into his car and
+sideswiped his Honda, whereas Duke said that while they were close enough to
+yell at each other, Tremblay reached out and broke the passenger side mirror of
+his pickup truck.  Each denied the claim of the other.  What is undisputed is that
+for a short time on Hwy 427 these two drivers were mutually engaged in an unfriendly
+competition for lane space.  Mr. Duke testified that he was verbally
+aggressive, pissed off, and upset with Tremblay but denied he was angry.
+[
+8
+.]
+Mr. Tremblay moved ahead and
+began to drive away from the defendant.  He said that Mr. Duke was tailgating
+him and flashing the high beams of his truck while pursuing him, matching his
+lane changes as they drove past the other traffic until Tremblay turned off Hwy
+427 onto Major Mackenzie Drive, some 20 plus kilometres from where they first
+encountered each other.   Duke agreed that after their confrontation on
+entering Hwy 427, Tremblay sped away.  He agreed that he followed Tremblay, who
+Duke said “was definitely trying to avoid me” by going in and out of traffic. 
+Duke acknowledged staying two or so car lengths behind Tremblay while flashing
+his high beams at speeds faster than the other traffic.  Mr. Duke said that he
+wanted Tremblay to pull over so that he could complain about the perceived
+damage to his mirror, but Tremblay refused.  He agreed that he persistently
+followed Tremblay and flashing his high beams close behind him while “still
+pissed” until they both exited onto Major Mackenzie Drive.  In summary, Mr.
+Duke followed Tremblay on a 400 series highway for many kilometres at high
+speeds close to Tremblay’s Honda while flashing his high beams into Tremblay’s
+eyes while his upset with the purpose of confronting him for the earlier
+encounter.
+[
+9
+.]
+A short time later, the vehicles
+met at the intersection of Albion and Queensgate in Bolton where they stopped,
+got out and confronted each other face to face.  I will come back to what
+happened at this intersection later in my reasons.
+2.2:
+Positions of the Parties
+[
+10
+.]
+The defence argued that while
+Mr. Duke’s driving was not ideal, it did not rise to the level of a “marked
+departure” for someone in his circumstances.   They submit that his driving may
+have been careless, but it was not criminal.
+[
+11
+.]
+The prosecution submitted
+that when taking the facts as set out above, and even on taking Mr. Duke’s
+testimony in isolation from the rest of the evidence, the Crown has met its
+burden of proof on the dangerous driving charge.
+2.3:
+Applicable Legal Principles
+[
+12
+.]
+With respect to the criminal
+act (
+actus reus
+) of dangerous driving, it must be proven that the
+driving itself, and not its consequences, when viewed objectively and in
+context of the surrounding events, was dangerous to public safety.  Regard must
+be given to all the circumstances including the nature, condition, and use of
+the place at which the motor vehicle was operated, and the amount of traffic
+that was, or might reasonably be expected, to be at that place:
+R. v. Roy
+,
+2012 SCC 26 (CanLII)
+,
+[2012] 2 SCR 60
+,
+R. v. Beatty
+,
+2008 SCC 5 (CanLII)
+,
+[2008] 1 SCR 49
+.  Speed, in and of itself, may, depending on all of the
+circumstances, be proof of dangerous operation of a motor vehicle:
+R. v.
+Marton
+,
+[2017] O.J. No. 3392 (S.C.J.)
+;
+R. v. Laverdure
+,
+[2018] O.J.
+No. 3595 (C.A.)
+.
+[
+13
+.]
+With respect to the mental
+element (
+mens rea
+) to be proven, there must be evidence beyond a
+reasonable doubt that the driving represented a marked departure from the
+standard of care that a reasonable person would have observed in the
+Defendant’s circumstances.  Absent direct evidence of the driver’s state of
+mind, two questions should be asked.  The first question is whether, in light
+of all circumstances, a reasonable person would have foreseen or been aware of
+the risk to public safety and taken steps to avoid it.  If the answer to the
+first question is yes, then the second question is whether the driver’s failure
+to see and take steps to avoid the risk to public safety was a marked departure
+from the standard of care expected by a reasonable person in the driver’s
+circumstances:
+Roy
+, supra;
+Beatty
+, supra.  If the answer to both
+questions is affirmative, then then the mental element is proven.  If the
+answer to either question is no, then the mental element has not been proven.
+[
+14
+.]
+Evidence showing dangerous operation of
+the vehicle may be a factor in determining the "marked departure"
+fault element, but that evidence may not be enough standing alone.  The trier
+of fact must go on and examine all of the circumstances relating to the
+defendant’s state of mind at the relevant time:
+R. v. Richards
+,
+2013 ONCA 433 (CanLII)
+,
+[2013]
+O.J. No. 2933 (C.A.)
+.
+[
+15
+.]
+Momentary lapses of attention
+or civil carelessness by a reasonably prudent driver cannot prove the mental
+element:
+Beatty
+, supra;
+Roy
+, supra.  Nevertheless, driving in a
+manner which is a marked departure from the standard expected of a reasonable
+person can occur within seconds when considering all of the circumstances:
+R.
+v. Willock
+,
+2006 CanLII 20679 (ON CA)
+,
+[2006] O.J. No. 2451 (Ont. C.A.)
+.
+[
+16
+.]
+In summary, when considering the mental
+intent element, the trial judge must explain how and in what way the
+driving went beyond negligence or carelessness and reached the level of a
+marked departure from the standard of care that a reasonable person would have
+exhibited:
+Roy
+, supra;
+Laverdure
+, supra;
+R. v.
+Reynolds
+, supra.
+2.4:
+Principles Applied to the Facts of this case
+[
+17
+.]
+In light of facts, based
+mainly on Mr. Duke’s evidence, I find that his conduct—driving at high speeds
+on a dark and wet highway, following very closely, in and out of traffic, and
+repeatedly flashing his high beams into the car ahead for nearly 20 kilometres while
+angry and intent on confrontation—constitutes the act of dangerous driving and represents
+a marked departure from the standard of care that a reasonable person would observe
+in the circumstances. Such behaviour is the very definition of “road rage”
+which created a substantial risk to the safety of Mr. Tremblay, his passenger,
+and other road users. His long-distance chase of Tremblay at high speed,
+aggressive tailgating, and use of high beams to intimidate or harass another
+driver on a busy highway, compounded by adverse weather conditions, is not
+merely careless but dangerous.
+[
+18
+.]
+Therefore, I find that Mr.
+Duke's actions meet the threshold for dangerous driving as defined by law. His
+conduct went well beyond a momentary lapse or error in judgment; it
+demonstrated a willful disregard for the safety of others. The evidence
+supports a finding of guilt on the charge of dangerous driving.
+[
+19
+.]
+Consequently, there will be a
+finding of guilt on the charge of dangerous driving.
+3.0: 
+THE CHARGE OF ASSAULT CAUSING BODILY HARM
+3.1:
+The Facts
+[
+20
+.]
+Shortly after the chase on
+Hwy 427, both vehicles turned off the highway and proceeded towards Bolton.
+Tremblay and Francis were heading to friends for dinner; Duke was going home.
+[
+21
+.]
+While there is a dispute
+about the specifics, upon assessing the whole of the evidence I find as a fact
+that both cars found themselves at the intersection of Albion and Queensgate in
+Bolton.  Aware that Mr. Duke was behind them, Tremblay pulled over to the
+shoulder whereas Duke stopped on the road.  He agreed that he had no reason to
+turn onto Albion other than to confront Tremblay and that he “was still pissed”
+at Tremblay but was emphatic that he was not looking for a fight.
+[
+22
+.]
+The two men got of their
+vehicles, but it is unclear who got out first.  Tremblay recalled that Duke walked
+towards him, and he punched Duke in the face before any words were spoken
+because he said he was afraid Duke would attack him.  Duke testified that after
+checking the side mirror Tremblay came at him and sucker punched him in the
+face.  Both men went to the ground and wrestled.  Other than Tremblay’s punch
+it is unclear if either punched or kicked the other after they fell together.
+[
+23
+.]
+During the fracas, Mr.
+Tremblay’s right tibia and fibula both broke just above the ankle, resulting in
+the need for surgery to repair the injury and months to recover.  Mr. Tremblay
+was not sure how his leg was injured.  A bystander separated Duke and Tremblay at
+which point Duke took off in his pickup truck.
+3.2:
+Positions of the Parties
+[
+24
+.]
+The defence submitted that
+given that Tremblay threw the first and only punch there is a reasonable doubt
+that the defendant was doing anything other than defending himself from
+Tremblay.  They argued that while it is true that Mr. Duke wanted to confront
+Mr. Tremblay, Mr. Duke’s intentions did not escalate from the verbal to the
+physical.  Finally, they submit that the injury to Mr. Tremblay was accidental
+and not caused by any deliberate act by Mr. Duke.
+[
+25
+.]
+The Crown argued that it is
+beyond any doubt that Mr. Duke intended to pursue and confront Mr. Tremblay.
+They point out that Mr. Duke admitted to being angry once he stopped and, they
+say, he was spoiling for a fight as comeuppance to Tremblay for what happened
+on the highway.
+3.3:
+Analysis
+[
+26
+.]
+I find that Mr. Duke was
+extremely perturbed by Tremblay and was clearly the aggressor, which is
+evidenced by his hot pursuit of him.  I find that he confronted Tremblay at the
+roadside in Bolton to seek satisfaction for the perceived slight on the
+highway.  I also find that Mr. Tremblay was angry with Mr. Duke and, despite
+his better judgment and the advice of Ms. Francis, decided to get out of his
+car.  Both men had enough of each other.
+[
+27
+.]
+In the welter of conflicting
+evidence about a matter that likely only took seconds to ignite and mere moments
+to finally fizzle out, I am unsure whether the tumult that ensued was not a
+consensual fist fight.  On the criminal standard of proof, I am unable to find
+the facts as suggested by the prosecution.  In addition, I am unable to say
+with confidence that the injury suffered by Mr. Tremblay was caused by any
+felonious act or intent by the defendant.
+[
+28
+.]
+As a result, I must render a
+verdict of not guilty on the charge of assault causing bodily harm.
+4.0:
+CONCLUSIONS
+[
+29
+.]
+Based on my reasons above, my
+verdicts are as follows:
+(a)
+Count 1,
+Dangerous Driving:  Guilty; and
+(b)
+Count 2, Assault Causing Bodily Harm:
+Not Guilty.  That charge is dismissed.
+[
+30
+.]
+The parties are invited to
+make submissions as to sentencing on the driving offence.
+_______________________________
+Richard
+H.K. Schwarzl,
+Justice
+of the Ontario Court of Justice

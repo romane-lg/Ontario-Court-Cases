@@ -1,0 +1,399 @@
+ONTARIO  COURT  OF
+ JUSTICE
+CITATION:
+R. v. Mootoo
+, 2025 ONCJ
+650
+DATE:  2025·10·22
+NEWMARKET
+BETWEEN:
+HIS
+ MAJESTY  THE  KING
+—
+ AND  —
+ZOLTAN
+MOOTOO
+JUDGMENT
+Evidence Heard: September
+23,24,25,26, 2025.
+Delivered: October
+22, 2025
+Mr. Avik Ghosh ......................................................................................   counsel
+for the Crown
+Mr. David Campos ...........................................................................   counsel
+for the defendant
+KENKEL J.:
+Introduction
+[
+1
+]
+Police responded to a 911 call for help in
+which both a woman and child were heard screaming. The officers were told by
+the operator that it sounded like the father had hit the child. The officers
+directly entered Mr. Mootoo’s residence and did a quick visual search looking
+for the caller and her daughter. They didn’t find them. It turned out the
+caller was in the adjacent house, right beside the mutual wall at the time of
+the call. The GPS trace had led police to the wrong door.
+[
+2
+]
+However, the quick visual search of the
+residence did reveal a large-scale drug laboratory on the main floor which was
+in active operation pressing pills. Mr. Mootoo was arrested steps away from
+that room. He was the only one in the residence.
+[
+3
+]
+Mr. Mootoo was charged with:
+•
+1 – Possession of a pill press s 7.1 CDSA
+•
+2 – FTC with probation – keep the peace s
+733.1(1)
+•
+3 – FTC probation – reside condition s 733.1(1)
+•
+4 – Careless storage of ammunition s 86(1)
+•
+5 – Produce Metonitazine s 7(1) CDSA
+•
+6 – Possess Metonitazine FTP of Trafficking s
+5(2) CDSA
+•
+7 – Possess Bromazolam FTP s 5(2) CDSA
+•
+8 – Possess Methylenedioxymethamphetamine FTP s
+5(2) CDSA
+[
+4
+]
+At the conclusion of the evidence, the
+defence abandoned the s 8
+Charter
+application regarding the warrantless entry and search of Mr.
+Mootoo’s residence. It was plain that the police were responding to a dropped 911
+call which justified a direct entry to ensure public safety –
+R v Godoy,
+1999 CanLII 709 (SCC)
+, [1998] SCJ No 85. The visual
+search of the residence was limited, fast and consistent with the officer’s
+purpose. Several circumstances suggested to the officers that they had the
+right house, including the fact that it was the one with the lights on, there
+was some woman’s clothing on the upper floor and there was a room with pink
+children’s toys. Mr. Mootoo said that a woman and child had been in the
+residence earlier.
+[
+5
+]
+Constable Berezin took less than a minute
+from the time of entry to inspect the entire house. The drug lab was one of the
+last rooms checked. I agree with the defence that there was no evidence of a
+breach from that search or the later limited public safety search by the
+special team that monitored levels of chemicals and checked potential hazards
+to the neighbourhood prior to the execution of the search warrant. There was no
+challenge to the warrant.
+[
+6
+]
+The defence also confirmed that the
+Charter
+application alleging breaches of
+sections 9 and 10 referred only to detention and right to counsel prior to
+arrest. There is no allegation of breach after arrest. The Crown conceded that
+counts 3 (FTC – Reside) and 4 (Ammunition) should be dismissed.
+[
+7
+]
+The submissions of counsel identify the
+following issues for decision:
+•
+Has the Crown proved the drug production and possession
+counts alleged beyond a reasonable doubt?
+•
+Has the Crown proved the probation breach
+alleged (KTP) beyond a reasonable doubt?
+•
+Charter s 9 – Arbitrary detention of the accused
+during the search
+•
+Charter s 10(a) – Failure to advise of reason
+for detention
+•
+Charter s 10(b) – Failure to provide right to
+counsel advice on detention
+•
+Charter s 24(2) – Application to exclude
+evidence
+Detention During the Search of
+the Residence – Charter ss 9,10,24(2)
+[
+8
+]
+The defence submits that the detention of
+Mr. Mootoo during the initial entry and search was arbitrary, contrary to s 9
+of the
+Charter.
+Mr. Mootoo was detained for less than a minute while
+P.C. Berezin did a public safety search of the rooms in the house. It was
+reasonable for P.C. Barak to conduct a brief, “pat down” search for weapons
+given the details of the 911 call. The evidence showed it was necessary for the
+safety of potential occupants and the safety of the officers that Mr. Mootoo be
+detained during the inspection of the house.
+[
+9
+]
+The defence submits that Mr. Mootoo should
+have been advised of his right to call a lawyer during the detention prior to
+his arrest. Section 10 of the
+Charter
+is engaged upon detention. Mr.
+Mootoo was immediately informed of the reason for police entry as required by s
+10(a) of the
+Charter
+. P.C. Barak asked him if “everyone was ok” and
+asked him about the woman and child they were searching for. Mr. Mootoo said
+the woman and child left “ages ago” but of course the police checked.
+[
+10
+]
+The evidence of the officers showed that the
+advice required by s 10(b) was briefly suspended in a dynamic situation for
+safety reasons as the officers tried to determine whether there were injured
+parties in the home. Once the drug lab was discovered, Mr. Mootoo was arrested.
+He was provided with right to counsel advice and there is no allegation of
+breach of sections 8, 9 or 10 of the
+Charter
+after that point.
+[
+11
+]
+I find that the officers’ actions were
+reasonable and there was no breach of sections 9 or 10 of the
+Charter.
+In
+the alternative, even if the brief detention without right to counsel advice
+were found to be a technical breach of both sections 9 and 10, that could not
+reasonably lead to exclusion of the drug laboratory evidence on the test set
+out in
+R v Grant,
+2009 SCC 32
+. The breach would not be serious where it
+was measured in seconds and followed by agreed compliance with the right to
+counsel requirement. There would have been a brief impact on the accused’s s 9
+right, and no real impact on his s 10 rights. Exclusion of the drug lab
+evidence as a remedy would be so disproportionate that it would bring the
+administration of justice into disrepute.
+Proof of the Charges – The Submissions
+of Counsel
+[
+12
+]
+The Crown submits that strong circumstantial
+evidence proves Mr. Mootoo’s participation in the drug lab operation:
+•
+The lab was not hidden. It occupied the main
+room on the main floor.
+•
+Chemical buckets, caps, bottles and labels for
+codeine were in the garage where Mr. Mootoo had been before he answered police
+calls.
+•
+Pill press cylinders and stamps were in the
+garage and lab room.
+•
+On the floor of the laundry room right beside
+the drug lab there was clothing covered in white dust and a mask on the floor.
+•
+The lab was in full operation producing pills
+when discovered by police.
+•
+The pill production made a loud noise audible
+outside the production room.
+•
+Numerous personal items found in the house show
+Mr. Mootoo was residing there. (Visa debit card, puffer/inhaler, OCJ driving
+suspension, BMW parts invoice, Toronto parking penalty notice, Auto-speed
+infraction notice, Red light camera infraction notice, MOT notice, OCJ
+Undertaking – all bearing the name Zoltan Mootoo.)
+•
+Mr. Mootoo was the only person in the residence.
+•
+The high value of the illegal drug lab and its
+contents which would not be entrusted to someone not part of the scheme. (Expert
+evidence showed that the total value of the drugs seized was approximately
+$2,577,000.)
+[
+13
+]
+The defence submits that the Crown has not
+proved Mr. Mootoo was in possession of the drugs for several reasons:
+•
+Mr. Mootoo was present, but he was not covered
+in white dust. Dust filled the air in the lab room.
+•
+The drug lab was concealed. “We have to assume
+that nothing indicated to the accused that this was a drug lab.”
+•
+The packaged drugs and many of the drug production
+items found about the house were not in plain view.
+•
+While there are many items bearing the accused’s
+name in the house, there are other items with the names of other people,
+including one passport.
+•
+Missing evidence - the Crown did not provide fingerprints
+or DNA linking Mr. Mootoo to the lab. There was no cellphone extraction
+analysis of his phone. The Crown did not show any evidence as to who owns the
+house.
+•
+Mere presence at the scene of an offence does
+not prove participation.
+Mere Presence
+[
+14
+]
+In my view there are two errors that must be
+avoided when assessing evidence of the accused’s presence at the scene of an
+offence. The first starts with the observation that in many cases “mere
+presence” has been found by courts to be insufficient to prove participation in
+an offence. The error is to then conclude that presence is a category of
+evidence which has been found by appellate courts as a matter of law to always be
+insufficient to prove participation in an offence. The argument therefore
+assigns a zero value to the fact of presence in any analysis.
+[
+15
+]
+Presence at the scene of an offence is a
+circumstance. As a circumstance it rarely stands alone. As with all circumstantial
+evidence, the value of that evidence depends on the context. Mere presence at
+the scene of an illegal prize fight held outdoors by a major road without
+evidence of active participation did not prove the bystanders were parties to an
+offence by aiding or abetting –
+R v Coney,
+(1882) 8 QB 534, cited in
+R
+v Dunlop and Sylvester,
+1979 CanLII 20 (SCC)
+, [1979] SCJ No 75 at para
+13
+. On the other hand,
+unauthorized presence inside the cash room of a closed store in the dead of
+night with alarm bells ringing may well lead to a different conclusion. While I
+agree with the defence that there are many cases where courts have found that “mere
+presence” at a crime scene is insufficient proof of participation in an offence,
+the fact of presence remains a relevant circumstance to be considered in the assessment
+of all of the evidence at trial. See for example:
+R v Puentes-Reed,
+2025
+ONCA 441
+at para
+41
+.
+[
+16
+]
+In cases of alleged possession, there is a second
+concern related to presence and occupancy of a residence. A court cannot
+presume that an occupant in a place such as an apartment is necessarily deemed
+to be in possession of all items within that place. Applying a presumption that
+an occupant was in possession of Items found beside another person in another room
+“unless he could rebut that presumption” reversed the burden of proof on the
+central issue –
+R v Watson,
+2011 ONCA 437
+.
+Analysis
+[
+17
+]
+In the principal case relied upon by the
+defence, the trial court held that presence at the doorway of a room with
+minimal other evidence linking the accused to that room did not prove he knew
+there was a gun concealed within clothing in the closet –
+R v Turner,
+2012
+ONCA 570
+. In that closet the police found passports belonging to two other
+people, although both denied knowledge of the gun.
+[
+18
+]
+The
+Turner
+case and others cited by
+the defence are quite different from the facts in this case. This was not a true
+residence where illegal items were found as was the case in
+Turner
+and
+Watson
+.
+This was a large-scale drug production lab with evidence of living quarters on
+the upper floor. The lab was in operation, and the machinery was producing
+pills when the officers entered. The noise of the operation was audible on the
+main floor. The accused was the only person in the residence and the sudden, unexpected
+entry of the police did not leave time for anyone else to flee.
+[
+19
+]
+Mr. Mootoo was not covered in white dust
+which he might have been if was found in the production room. Instead, he
+emerged from the garage where supplies for the production were kept. A mask and
+clothing covered in dust was on the floor by the washer and drier.
+[
+20
+]
+I disagree with the defence that nothing
+would have indicated to the accused that this house was a drug lab. The tarp
+only partially covered the production room and there was drug equipment and
+chemicals in the main area. There was drug related clothing on the laundry room
+floor. Mr. Mootoo’s possessions were upstairs in the residence area, and he was
+present in the main floor which was devoted to drug production. Even though the
+packaged drugs outside the production room were not in the open, considering
+all of the evidence it is simply not possible that an adult person in that
+residence would not be aware of the drug production operation.
+[
+21
+]
+The defence is correct that there were items
+found in the house that had other names on them. The mailing packages with
+shipping labels from China and the United States showed sender and receiver
+names for other persons. The drug production context makes it highly unlikely
+that any of those names are real. I can place no weight on the finding of those
+names, nor does a credit bureau letter sent to another address with the name
+“Shirley Mootoo” found among Mr. Mootoo’s personal items reasonably indicate an
+alternate suspect. I agree with the defence that the passport might suggest the
+possible involvement of someone else in the enterprise, but even if others were
+involved that would not assist Mr. Mootoo on these facts.
+[
+22
+]
+Given the high value of the drug inventory
+and the drugs being produced and the secretive, illegal nature of the
+enterprise, it’s reasonable to infer that presence in that residence was
+restricted to those involved in the operation and those who knew them. Mr.
+Mootoo had sole control of the premises at the time the police entered.
+[
+23
+]
+A commercial pill press cannot fill itself
+with controlled substances, and it cannot turn itself on. I find the circumstances
+cited by the defence do not reasonably leave a doubt, nor is any doubt left on
+the evidence as a whole. The Crown has proved that the evidence reasonably leads
+to only one conclusion – Mr. Mootoo was operating the pill production lab at
+the time of his arrest, and he had possession of the drugs and drug making
+equipment that was seized by the police.
+The Fail to Comply Charge
+[
+24
+]
+It was agreed that Mr. Mootoo was subject to
+a probation order with a condition to “keep the peace” at the time of arrest.
+The finding on the drug charges proves the breach alleged in count 2.
+Conclusion
+[
+25
+]
+Counts 3 and 4 are dismissed. There will be
+findings of guilt on the remaining counts.
+Delivered:  October 22, 2025.
+Justice Joseph F. Kenkel

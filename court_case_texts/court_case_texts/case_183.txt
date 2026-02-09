@@ -1,0 +1,413 @@
+ONTARIO COURT OF JUSTICE
+CITATION:
+R. v. Dhaliwal
+, 2025 ONCJ 731
+DATE:  August
+26, 2025
+COURT
+FILE No.:  Brampton 3111 998 23 31110949
+BETWEEN:
+HIS
+MAJESTY THE KING
+— AND
+—
+HARSHAN DHALIWAL
+Before
+Justice G.P. Renwick
+Heard
+on 25-26 August 2025
+Reasons
+for Judgment released on 26 August 2025
+A. De Avila................................................................................. counsel
+for the Prosecution
+T. Hicks........................................................ counsel
+for the Defendant Harshan Dhaliwal
+RULING ON
+CHARTER
+APPLICATION UNDER
+SS. 8, 9, AND 24(2)
+RENWICK J.:
+INTRODUCTION
+[
+1
+]
+The Defendant is charged with the single count of
+having operated his conveyance with an impermissible blood alcohol
+concentration, contrary to
+s. 320.14(1)
+(b) of the
+Criminal Code
+. He was
+observed by police driving his car inside a construction zone around 3:00 a.m.
+When police spoke with the Defendant, an odour of alcohol was detected, a
+roadside breath demand was made, a “fail” result was registered, and the
+Defendant provided samples of his breath that led to the charge before the
+court.
+[
+2
+]
+This was a very brief and focused trial. Only the arresting officer, who
+was also the Qualified Technician, and the Defendant testified on the
+Charter
+Application (which ran concurrent to the trial evidence).
+[
+3
+]
+The parties conceded that the result on the Application was
+determinative of the result on the trial: If the court finds a s. 8 or s. 9
+Charter
+violation, the evidential breath sampling results would be inadmissible and an
+acquittal would result, whereas the admissibility of the breath readings would
+lead to a conviction.
+[
+4
+]
+These reasons will explain my decision to dismiss the
+Charter
+Application and admit the breath testing results.
+GOVERNING LEGAL PRINCIPLES
+[
+5
+]
+Though the Defendant generally has the onus to
+establish violations of the
+Charter
+on a balance of probabilities,
+[1]
+where there is a warrantless
+search, as in this case, the prosecutor must establish that the search was
+conducted reasonably and pursuant to some lawful authority.
+[2]
+[
+6
+]
+Thus, both parties have an onus of proof on a
+balance of probabilities: here, the Defendant must prosecute his
+Charter
+claim that the police did not have a reasonable grounds to suspect the presence
+of alcohol in his body to require a roadside breath screening, while the prosecutor
+has to establish that the seizure of the evidential breath samples followed a
+lawful breath demand compliant with the statutory regime for warrantless breath
+testing.
+[
+7
+]
+Generally, reasonable grounds relate to
+credibly-based probability.
+[3]
+However, at the stage of demanding a roadside breath screening, all that is
+required is credibly-based possibility: Is it reasonably possible that the
+driver has alcohol in her body.
+[
+8
+]
+Subsection 320.27(1)
+of the
+Criminal Code
+makes this plain:
+Testing for
+presence of alcohol or drug
+If a peace
+officer has reasonable grounds to suspect that a person has alcohol or a drug
+in their body and that the person has, within the preceding three hours,
+operated a conveyance, the peace officer may, by demand, require the person to
+comply with the requirements of either or both of paragraphs (a) and (b) in the
+case of alcohol or with the requirements of either or both of paragraphs (a)
+and (c) in the case of a drug:
+(a)
+to immediately perform the physical coordination tests
+prescribed by regulation and to accompany the peace officer for that purpose;
+(b)
+to immediately provide the samples of breath that, in the
+peace officer’s opinion, are necessary to enable a proper analysis to be made
+by means of an approved screening device and to accompany the peace officer for
+that purpose;
+…
+[
+9
+]
+Reasonable grounds to suspect is a lower standard than reasonable
+and probable grounds to believe because it engages a reasonable possibility,
+rather than a probability of a state of affairs.
+[
+10
+]
+Given the social value placed on detecting and preventing drunk
+driving, in the context of roadside breath screening, the reasonable suspicion
+need not even relate to the possibility of a criminal offence, but simply a
+reasonable possibility that a motorist has alcohol in her body during or within
+three hours of driving.
+[
+11
+]
+Because the standard deals with possibilities, there will be
+cases where the police will erroneously suspect drivers who have no alcohol in
+their body, but nonetheless require them to perform a roadside breath screening.
+[
+12
+]
+However, the suspicion held by the police cannot be so broad that
+it descends to the level of generalized or bald suspicion – suspicion that
+attaches to a particular location or activity, instead of a specific
+person:
+R. v. Chehil
+,
+2013 SCC 49
+, at paras.
+26-30
+.
+[
+13
+]
+Properly articulated, the reasonable suspicion standard prevents
+the indiscriminate and discriminatory exercise of police power.
+[4]
+[
+14
+]
+Again, context is critical; the statute permits
+this base level of opinion (reasonable suspicion) only at the start of investigations
+related to a highly regulated, dangerous public activity – driving.
+[
+15
+]
+In summary, reasonable grounds to suspect must
+be articulable, subjectively held by the officer, and objectively reasonable.
+An officer is entitled to rely on experience and common sense in formulating
+the target possibility. Also, the police can be mistaken in the suspicion
+formed, as long as the suspicion was objectively reasonable given competing
+inferences or alternative explanations for the information considered.
+THE
+EVIDENCE AND FINDINGS OF FACT
+[
+16
+]
+I have viewed the initial (video only)
+interaction with the Defendant captured on the officer’s dash camera several
+times. Within 10 seconds of her approach to speak to the Defendant, the officer
+stepped back, which apparently aligned with her request to have him follow her
+for the breath screening procedure.
+[
+17
+]
+Constable Everilda Ratnakumar testified that she
+first observed the Defendant in a clearly marked construction area as she was
+stopped waiting to turn and enter the on-ramp to the highway. Given the early
+hour (just after 3:00 a.m.), she decided to investigate. To her it was obvious
+that this was a passenger vehicle, not a construction vehicle, in a
+construction area, late at night, and there was the possibility of criminal
+activity (theft of construction equipment, for instance).
+[
+18
+]
+Once Cst. Ratnakumar approached and spoke with
+the driver (the Defendant), she claimed to have detected the odour of alcohol
+coming from his breath. She asked about his presence in that area and he
+indicated he was following his GPS. She testified that she asked him about alcohol
+consumption and also where he was coming from before seeking his driver’s
+license and making her demand for a roadside breath screening.
+[
+19
+]
+The Defendant’s testimony differed. He says that
+initially, they spoke very little, asking only about his presence in the area
+before the officer told him to come with her. He testified that once he was outside
+his car there were questions asked about alcohol consumption and his departure
+point that night. The Defendant also testified that the officer did not take
+his driver’s license when he first handed it to her.
+[
+20
+]
+Interestingly, the dash-cam video contradicted
+both witnesses about the timing of the officer’s reception of the Defendant’s
+driver’s license. I find that the Defendant offered it through the open
+driver’s window at the start of their interaction, and the officer took it. As
+she walked back to the police car, the driver’s license is visible in the
+officer’s right hand at several points and from different angles.
+[
+21
+]
+I reject the Defendant’s testimony that the
+breath screening demand was made after only one question was asked. Though it
+was a brief interaction (10 seconds), I accept as accurate the evidence that
+the officer asked the Defendant about alcohol consumption and his driving origins
+before making a roadside breath screening demand. I reject his testimony on
+this point for the following reasons:
+i.
+I accept as accurate the officer’s evidence
+respecting the initial conversation;
+ii.
+The Defendant lied to the police when asked
+about his alcohol consumption;
+iii.
+The Defendant provided no other details for anything
+else that occurred during the 10 second interaction after his brief answer (he
+was “following his GPS”);
+iv.
+It is implausible that the officer waited until
+the Defendant was already complying with her demand to ask about alcohol
+consumption; and
+v.
+During the Defendant’s four-minute
+cross-examination, and despite the several times he was asked, he refused to
+admit the obvious - that it was possible that the officer could smell alcohol
+on his breath because he had been drinking alcohol that night.
+[
+22
+]
+Though I have concerns that Cst. Ratnakumar was
+easily perturbed by the Defendant’s questions and she was mistaken about the
+Defendant’s interruptions as the cause to repeat the rights to counsel, I have
+no concerns that she was mistaken or otherwise inaccurate concerning their
+initial interaction.
+[
+23
+]
+More importantly, I accept the officer’s
+testimony that she perceived the smell of alcohol coming from the Defendant’s
+breath when she first dealt with him at his car window. The Defendant’s
+testimony, the cross-examination of the officer, and the submissions did not
+erase this possibility and I find that Cst. Ratnakumar was credible and
+sufficiently reliable to accept her evidence on this point.
+ANALYSIS
+[
+24
+]
+Reasonable suspicion must be assessed against
+the totality of circumstances in a given situation. Exculpatory,
+neutral, or equivocal information cannot be disregarded when assessing a
+constellation of factors.
+[
+25
+]
+Reasonable suspicion need not be the only
+inference that can be drawn from a particular constellation of factors:
+Much as the seven stars that
+form the Big Dipper have also been interpreted as a bear, a saucepan, and a
+plough, factors that give rise to a reasonable suspicion may also support
+completely innocent explanations.  This is acceptable, as the reasonable
+suspicion standard addresses the
+possibility
+of uncovering
+criminality, and not a
+probability
+of doing so.
+[5]
+[
+26
+]
+The formation of reasonable suspicion is not necessarily
+negated by other possible explanations, unless the police unreasonably discount
+information that calls into question that which gives rise to the target
+possibility.
+[
+27
+]
+Here, the Defendant denied having consumed
+alcohol. Arguably, that called into question the officer’s perception that he
+had alcohol emanating from his breath. I find that the officer was entitled to
+disregard this information because it was likely tainted because it came from
+the person under suspicion and it was contradicted by the evidence confronting
+her (an olfactory sensation, the location of the Defendant’s car, and a poor
+explanation for the Defendant’s driving conduct – the GPS did not tell the
+Defendant to drive many metres past the construction pylons, off-road, near
+mounds of dirt and construction equipment).
+[
+28
+]
+I also accept that there is at least one other explanation
+for the officer’s perception of the smell of alcohol besides emanation from the
+Defendant; it could have come from his passenger. But this does not negate the
+possibility that it could have come from the Defendant.
+[
+29
+]
+Moreover, even if Cst. Ratnakumar is mistaken in
+her perception that the smell of alcohol came from the Defendant, I am
+satisfied that her subjective suspicion (alcohol in the Defendant’s body) was
+objectively reasonable for the following reasons:
+i.
+The Defendant’s car was located many metres into
+an area restricted by large pylons, off the pavement, near construction
+equipment, and beyond the clearly visible on-ramp to the highway;
+ii.
+It was late at night, after licensed
+establishments serving alcohol would be closed;
+iii.
+Suspiciously, perhaps to pre-empt much
+discussion, the Defendant did not wait to see why the officer was stopping him
+before holding his driver’s license out the window; and
+iv.
+It is undisputed that there was a smell of
+alcohol coming from inside the Defendant’s car.
+[
+30
+]
+When I consider all of the available evidence, I
+am satisfied that it was reasonable for Cst. Ratnakumar to suspect the
+possibility that the Defendant had alcohol in his body while driving given the
+circumstances of his location, his behaviour, the time of day, and the smell of
+alcohol. This is the minimum threshold of opinion that she needed to possess to
+make a lawful demand under
+s. 320.27(1)
+.
+[
+31
+]
+Accordingly, the Applicant has failed to satisfy
+me on a balance of probabilities that the stopping of the Defendant’s vehicle
+was arbitrary or that the demand for a roadside breath screening was unconstitutional.
+CONCLUSION
+[
+32
+]
+Given my findings of fact, it is not established
+on a civil standard that the Defendant’s
+Charter
+rights were violated.
+[
+33
+]
+The Application is dismissed.
+Released:  26 August 2025
+Justice
+G. Paul Renwick
+[1]
+R
+. v.
+Collins
+,
+1987 CanLII 84 (SCC)
+, [1987] S.C.J. No. 15 at para.
+21
+.
+[2]
+Collins
+, supra
+, at para.
+23
+.
+[3]
+Canada (Combines Investigation Acts, Director of
+Investigation and Research)
+v.
+Southam
+Inc.
+,
+1984 CanLII 33 (SCC)
+,
+[1984] S.C.J. No. 36
+.
+[4]
+Chehil
+,
+supra
+, at para.
+3
+.
+[5]
+Chehil
+, supra
+, at para.
+32
+.

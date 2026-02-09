@@ -1,0 +1,888 @@
+ONTARIO COURT OF JUSTICE
+CITATION:
+R. v. Jerlo
+, 2025 ONCJ 586
+DATE: 
+2025 11 05
+COURT
+FILE No.:  Toronto Region 4810 998 23 48121819
+BETWEEN:
+HIS MAJESTY
+THE KING
+— AND
+—
+TREVOR JERLO
+Before
+Justice Joseph Callaghan
+Heard
+on May 28, 2025 and October 6, 2025
+Reasons
+for Decision on
+Charter
+Application
+released
+on November 5, 2025
+M. Boissonneault............................................................................... Counsel
+for the Crown
+A. Harnett................................................................................................................... 
+Amicus
+T. Jerlo................................................................................... 
+Self Represented Accused
+J. CALLAGHAN
+J.:
+OVERVIEW
+[
+1
+]
+On October 8, 2023, Trevor Jerlo was operating a
+motor vehicle on Jane. St. in the City of Toronto, where he was stopped as part
+of a RIDE spot check operation. As part of the RIDE set up, a mobile booth was
+on scene where arrested persons could exercise their right to counsel in
+private and where a Qualified Breath Technician (QBT) was located to administer
+the breath test procedure on an approved instrument.
+[
+2
+]
+During a brief discussion with Mr. Jerlo,
+Officer Mohamed Haji suspected that there was alcohol in Mr. Jerlo’s body.
+[
+3
+]
+In making a breath demand for Mr. Jerlo to
+provide a sample of his breath into the approved screening device (ASD),
+Officer Haji did not specify on which section of 320.27 of the
+Criminal Code
+he was relying. When he testified before me, he made it clear that he had
+relied on s. 320.27(1)(b)
+.
+It appears that he erroneously believed that
+a demand pursuant to s. 320.27(2) was not available to him.
+[
+4
+]
+The grounds for Officer Haji’s suspicion were that when queried
+about the consumption of alcohol, Mr. Jerlo was hesitant in responding and there
+was a very strong smell of perfume emanating from the vehicle. The officer
+explained that based on his many years of experience, people who had consumed
+alcohol and then operated a motor vehicle would sometimes use perfume (or smoke
+cigarettes or chew gum) to mask the smell of alcohol.
+[
+5
+]
+Despite Officer Haji’s honest belief that he had
+reasonable grounds to suspect that Mr. Jerlo had alcohol in his body at the
+time of driving, it is agreed by the Crown and amicus that the officer’s
+grounds for the demand pursuant to
+s. 320.27(1)
+(b) of the
+Criminal Code
+were
+insufficient to reach the level of reasonable suspicion. (Mr. Jerlo adopted
+amicus’ positions throughout the proceedings.)
+[
+6
+]
+After receiving a ‘fail’ on the ASD, Officer
+Haji made a breath demand. Mr. Jerlo was immediately given his rights to
+counsel, which he exercised in a private booth and spoke with Duty Counsel. After
+speaking with Duty Counsel, Mr. Jerlo was turned over to the on-site QBT where
+he provided two samples of his breath:
+(1)
+131 mg of alcohol in 100 ml of blood
+(2)
+123 mg of alcohol in 100 ml of blood
+[
+7
+]
+Mr. Jerlo was released at the scene on a Form 9.
+[
+8
+]
+The entire process, from vehicle stop to
+release, was approximately 1.25 hours in duration.
+Procedural Overview
+[
+9
+]
+Mr. Jerlo is representing himself. On May 28,
+2025, prior to commencing the trial in this matter, Mr. Jerlo was given the
+opportunity to review the video evidence and speak with Duty Counsel. Rather
+than seek more time to retain counsel, Mr. Jerlo indicated his desire to
+proceed as scheduled, without counsel.
+[
+10
+]
+In response to the evidence of Officer Haji,
+Crown counsel made it clear that in arguing the validity of the ASD demand, he
+would be relying on the mandatory alcohol screening (MAS) demand in s.
+320.27(2), rather than
+s. 320.27(1)
+(b), the section relied upon by the officer
+in his testimony before me.
+[
+11
+]
+Given the potential complexity of the legal
+arguments, which were novel to me, and the fact that Mr. Jerlo, who had no
+legal training, was representing himself, I made an order appointing amicus to
+assist me in understanding the issues, including the view contrary to the
+Crown’s position.
+[
+12
+]
+This case went over a number of months for Mr.
+Harnett to be selected by LAO and for amicus counsel to get up to speed,
+including obtaining a copy of the disclosure and the transcript of Officer
+Haji’s evidence. Over the course of this timeframe, Crown Counsel, Mr. Boissonneault,
+should be commended for assisting amicus in this endeavour.
+[
+13
+]
+Mr. Harnett, on Mr. Jerlo’s behalf, filed an
+application alleging a breach of sections 8 and 9 of the
+Charter
+and
+seeking to exclude the breath readings in this case. He also filed a factum on
+the relevant issues to help me. I am grateful for Mr. Harnett’s assistance in
+this matter.
+[
+14
+]
+It is not disputed that the statutory
+preconditions for a valid MAS demand pursuant to s. 320.27(2) existed in this
+case:
+(1)
+Officer Haji had in his possession an approved
+screening device;
+(2)
+Officer Haji was acting in the course of the
+lawful exercise of his powers in conducting a valid RIDE spot check; and
+(3)
+Mr. Jerlo was operating a motor vehicle at the
+time the demand was made.
+Constitutional validity of a RIDE
+stop and s. 320.27(2) not at issue
+[
+15
+]
+The Supreme Court has repeatedly affirmed that,
+although various forms of random vehicle stops for the purpose of roadside
+screening under the
+Criminal Code
+(including RIDE spot checks) violate s.
+9 of the Charter, they are justified under s. 1 because of the relatively short
+duration and slight inconvenience involved in such stops, and the compelling
+public objective of deterring and detecting impaired driving. [See
+R. v.
+Wright
+,
+2025 SKCA 52
+at paras.
+35-36
+;
+Dedman v. The Queen
+,
+1985 CanLII 41 (SCC)
+, [1985] 2
+SCR 2;
+R. v. Hufsky
+,
+1988 CanLII 72 (SCC)
+, [1988] 1 SCR 621;
+R. v. Ladouceur
+,
+1990 CanLII 108 (SCC)
+, [1990] 1
+SCR 1257; and
+R. v. McColman
+2023 SCC 8
+at para.
+29]
+[
+16
+]
+Further, the constitutional validity of s.
+320.27(2) has not been challenged in these proceedings. Indeed, there is a
+broad consensus at the trial level that the MAS demand is constitutional, and
+earlier this year, the Saskatchewan Court of Appeal upheld the constitutionality
+of s. 320.27(2).  [See
+R. v. Wright
+,
+2025 SKCA 52
+and the decisions of
+Justice Leszczynski in
+R. v. Blysniuk
+,
+2020 ONCJ 603
+and Justice Michie
+in
+R. v. Brown
+,
+2021 NSPC 32
+.]
+Issue
+[
+17
+]
+Given
+Officer Haji’s flawed reliance on s. 320.27(1)(b), can the Crown rely on the
+provisions of s. 320.27(2) to justify the ADS breath demand made in this case?
+In other words, did Officer Haji need to be subjectively motivated by s.
+320.27(2) to make a demand for a breath sample lawful under that authority?
+[
+18
+]
+Mr.
+Boissonneault, on behalf of the Crown, submits that the
+s. 320.27(2)
+of the
+Criminal
+Code
+does not require an investigating officers’ subjective reliance to be
+valid. Rather, it only requires that they satisfy the three prescribed
+statutory conditions. He relies on the decision of Justice M. Heerema in
+R.
+v. Handley
+,
+2024 NSPC 39
+, which factually is quite similar to the present
+case.
+[
+19
+]
+Mr.
+Boissonneault argued that Officer Haji’s breath demand remains lawful because
+it complied with
+s. 320.27(2)
+, despite the officer’s belief that he was acting
+pursuant to s. 320.27(1)(b) and that a MAS demand was unavailable.
+[
+20
+]
+Amicus, on behalf of Mr. Jerlo, submitted that it is concerning
+that Officer Haji, an experienced officer, applied the test under s. 320.27(1)(b)
+incorrectly. Had he properly assessed reasonable suspicion, Mr. Jerlo would
+have been allowed to go on his way. Mr. Harnett pointed to the decision of
+Justice Cozens in
+R. v. Schmidt
+,
+2023 YKTC 32
+, in which the court
+declined to allow the Crown to rely on
+s. 320.27(2)
+at trial after the
+investigative officer relied on reasonable suspicion in s. 320.27(1) to make
+the ASD demand.
+ANALYSIS
+Relevant section of the
+Criminal
+Code
+[
+21
+]
+Section 320.27
+of the
+Criminal Code
+reads
+as follows:
+Testing for
+presence of alcohol or drug
+320.27
+(1)
+If a peace officer has reasonable grounds to
+suspect that a person has alcohol or a drug in their body and that the person
+has, within the preceding three hours, operated a conveyance, the peace officer
+may, by demand, require the person to comply with the requirements of either or
+both of paragraphs (a) and (b) in the case of alcohol or with the requirements
+of either or both of paragraphs (a) and (c) in the case of a drug:
+(a)
+to immediately perform the physical coordination tests
+prescribed by regulation and to accompany the peace officer for that purpose;
+(b)
+to immediately provide the samples of breath that, in the
+peace officer’s opinion, are necessary to enable a proper analysis to be made
+by means of an approved screening device and to accompany the peace officer for
+that purpose;
+(c)
+to immediately provide the samples of a bodily substance that,
+in the peace officer’s opinion, are necessary to enable a proper analysis to be
+made by means of approved drug screening equipment and to accompany the peace
+officer for that purpose.
+Mandatory
+alcohol screening
+(2)
+If a peace officer has in his or her possession an approved
+screening device, the peace officer may, in the course of the lawful exercise
+of powers under an Act of Parliament or an Act of a provincial legislature or
+arising at common law, by demand, require the person who is operating a motor
+vehicle to immediately provide the samples of breath that, in the peace
+officer’s opinion, are necessary to enable a proper analysis to be made by
+means of that device and to accompany the peace officer for that purpose.
+[
+22
+]
+It is clear that the reasonable suspicion requirements
+in s. 320.27(1) (“reasonable grounds to suspect”) must be established on both a
+subjective and objective basis. The subjective standard is satisfied when an
+officer testifies to having an honestly held suspicion that the person had
+alcohol or a drug in their body. The objective standard is satisfied when the
+Crown can point to factors that establish that this suspicion was reasonable.
+[See
+R. v. Bernshaw
+,
+1995 CanLII 150 (SCC)
+, [1995] 1 SCR 254 at para.
+62]
+[
+23
+]
+In contrast, a plain reading of the preconditions
+for a MAS demand made under
+s. 320.27(2)
+suggests there is no similar
+subjective element.
+[
+24
+]
+To prove the preconditions for a MAS demand, the
+Crown must prove that:
+(1)
+The peace officer who made the demand was in
+possession of an Approved Screening Device;
+(2)
+The officer was acting in the lawful execution
+of their duties; and
+(3)
+The suspect was operating a conveyance.
+[
+25
+]
+If these three simple, easy to understand
+preconditions are met, a MAS demand is legally valid.
+Rationale for
+s. 320.27(2)
+[
+26
+]
+The introduction of the MAS demand in
+s.
+320.27(2)
+unquestionably expanded the ability of peace officers to make ASD demands.
+While the constitutionality of
+s. 320.27(2)
+is not being challenged in the case
+before me, it is helpful when analyzing this section to understand its purpose,
+as Parliament intended.  As Justice R. Michie noted in
+Brown
+, in
+upholding the constitutionality of
+s. 320.27(2)
+:
+There can be
+no reasonable argument that the purpose of s. 320.27(2) of the
+Code
+,
+to deter, detect and remove impaired drivers from the streets and highways of
+Canada is highly compelling. Despite the efforts of government and society over
+decades, impaired driving remains the most significant criminal cause of death
+in Canada. This legislative purpose or intent is clear from the preamble to
+Bill C-46 and
+s. 320.12
+of the
+Criminal Code
+.
+The preamble
+of Chapter 21 states in part:
+Whereas
+dangerous driving and impaired driving injure or kill thousands of people in
+Canada every year;
+Whereas
+dangerous driving and impaired driving are unacceptable at all times and in all
+circumstances;
+Whereas it
+is important to deter persons from driving while impaired by alcohol or drugs;
+Where it
+is important that law enforcement officers be better equipped to detect
+instances of alcohol-impaired or drug impaired driving and exercise
+investigative powers in a manner that is consistent with the
+Canadian
+Charter of Rights and Freedoms
+.
+Whereas it
+is important to simplify the law relating to the proof of blood alcohol
+concentration;
+Whereas it
+is important to protect the public from the dangers posed by consuming large
+quantities of alcohol immediately before driving;
+Whereas it
+is important to deter persons from consuming alcohol or drugs after driving in
+circumstances where they have a reasonable expectation that they would be
+required to provide a sample of breath or blood;
+Whereas it
+is important that Federal and Provincial laws work together to promote the safe
+operation of motor vehicles;
+And
+whereas the Parliament of Canada is committed to adopting a precautionary
+approach in relation to driving and the consumption of drugs, and to deterring
+the commission of offences relating to the operation of conveyances,
+particularly dangerous driving an impaired driving
+.
+Section
+320.12
+of the
+Criminal Code
+sets out the objectives of detection
+and deterrence, and states, in part:
+It is
+recognized and declared that
+Operating
+a conveyance is a privilege that is subject to certain limits in the interests
+of public safety that included licensing, the observance of rules and sobriety;
+The
+protection of society is well served by deterring persons from operating
+conveyances or while their ability to operate them is impaired by alcohol or a
+drug, because that conduct poses a threat to the life, health and safety of
+Canadians;
+[See
+Brown
+at paras.
+42-44]
+[
+27
+]
+Justice Leszczynski, in his comprehensive
+decision upholding the constitutionality of s. 320.27(2), provided helpful
+context regarding the rationale for MAS demands:
+…The personal and informational
+privacy interests of an individual who is operating a motor vehicle in their
+blood alcohol concentration as measured by an approved screening device
+administered pursuant to the statutory requirements of s.
+320.27(2) is, at its highest, a minimal and residual privacy interest.
+The
+pressing and substantial objectives of the law aimed at increasing the rate and
+reliability of detection and increasing deterrence are met by eliminating
+suspicion-based testing, which has proven to be unreliable in many
+circumstances, with a screening method that is scientifically-accepted and
+reliable
+…Section 320.27(2) contains appropriate restrictions on when
+and in which circumstances the police may conduct this screening (lawful stop,
+present operation of a motor vehicle, and the approved screening device in the
+officer's possession), as well as, the limited use that can be made of the
+results (only as a screening measure and not to establish guilt). If charges
+are laid against an individual, there is judicial oversight through a trial
+where the defence can challenge the lawfulness of the stop, lawfulness of the
+demand and the search itself. While there is the potential for the
+disproportionate application of this law against racialized and other
+marginalized populations, this can also be said of the former s. 254(2).
+In many ways s. 320.27(2) serves to increase overall fairness by
+removing the subjectivity involved in the prior suspicion-based testing…
+[See
+Blysniuk
+at para.
+66
+, emphasis added; see also
+R. v. Switenky
+,
+2020 SKPC 46
+at para.
+9
+.]
+Sections 320.27(1) and 320.27(2) are
+not mutually exclusive
+[
+28
+]
+There is nothing in the legislation that creates
+a hierarchy of demands, requiring an officer to rely upon subsection (1) prior
+to resorting to subsection (2). Indeed, neither section relies on the other
+when prescribing conditions precedent to an officer’s exercise of their ASD
+demand powers. They are mutually exclusive.
+[
+29
+]
+Other courts have come to similar conclusions.
+[
+30
+]
+In
+R. v. Dirksen
+,
+2020 ABQB 363
+, Justice
+Belzil, sitting as a summary conviction appeal judge, found that the two ASD
+demand provisions in
+s. 320.27
+are not mutually exclusive. In that case, the
+demanding officer made an initial demand pursuant to s. 320.27(2); however,
+when the accused refused to provide a proper sample, the officer made a demand
+under s. 320.27(1), erroneously believing that a refuse charge could only arise
+from a demand made under subsection (1). Justice Belzil concluded that there is
+nothing in the wording of
+s. 320.27
+preventing an investigating officer from
+making use of the demand provisions in both subsections and the officer’s
+erroneous understanding of the
+Criminal Code
+did not change the legal
+consequences of her interaction with the accused. [See
+Dirksen
+at paras.
+25-33
+; see also
+R. v. Chisholm
+,
+2022 ONCJ 462
+at para.
+2
+;
+R. v. Morris-Rainford
+2020 ONCJ 447
+;
+Hayley Bradley v. Her Majesty the Queen,
+2022 NBQB 31
+; and
+R.
+v. Thome
+,
+2020 SKPC 36
+]
+[
+31
+]
+In
+R. v. Monet
+,
+2025 ONCJ 242
+, Justice
+Monahan, in finding that the demanding officer had the requisite reasonable
+suspicion to make a s. 320.27(1)(b) demand, noted that given the criteria for a
+MAS demand had also been met, the officer had grounds under both subsections of
+320.27 to make an ASD demand.  [See
+Monet
+at para.
+11]
+An officer is not required to
+declare which subsection of 320.27 they are relying upon to make an ASD demand
+[
+32
+]
+In my view, there is nothing in the legislation
+that requires an investigating officer to declare, either to the suspect driver
+or in their testimony in court, on which subsection they relied in making an
+ASD demand. Rather, the law requires that for a demand to be lawful, it must
+meet the preconditions of one of the two subsections in
+s. 320.27
+.
+[
+33
+]
+In
+R. v. Rahmanian
+,
+2024 ONCJ 411
+,
+another case involving a RIDE stop, Justice Ghosh found that the officer had a
+reasonable suspicion sufficient to make a demand under s. 320.27(1)(b).
+However, he also found that the officer could rely on s. 320.27(2), even
+without expressly invoking it:
+[
+25]      The mandatory alcohol
+screening provision has been repeatedly found to be constitutional. The
+Charter
+permits
+the police to employ this investigatory step without any grounds whatsoever.
+The police must simply comply with the statutory requirements before demanding
+that a driver provide an alcohol screening sample of breath.
+[26]  
+   Officer Samuel clearly satisfied all statutory preconditions
+before relying on the mandatory screening authority. Mr. Rahmanian was
+“operating a motor vehicle”. In conducting a driver sobriety check, the officer
+was in the “lawful exercise” of his duties. The officer had an approved
+screening device in his “possession”. There was an “immediate” demand and
+ensuing screening process.
+[27]  
+   The Applicant does not submit that the officer was required
+to expressly invoke the mandatory screening power to the driver at roadside.
+Neither the
+Criminal Code
+nor the
+Charter
+requires
+such notification. Constable Samuel notified Mr. Rahmanian that he was
+conducting a sobriety check and immediately issued a lawful screening demand.
+[28]  
+   Rather, the Applicant submits that the
+Code
+and
+the
+Charter
+required that the officer “declare” during
+testimony that he had relied on the mandatory alcohol screening authority in
+s.320.27(2). It is submitted that given the power to extract a screening sample
+without grounds, thereby challenging privacy and arbitrariness protections, a
+proper balancing of
+Charter
+interests minimally requires a
+declarative invocation of the mandatory authority. We have not found any
+jurisprudence directly determining this issue, but this cannot be the law.
+[29]  
+   The earlier referenced law supporting that the police are not
+required to testify using any “magic words” to establish the “reasonable
+suspicion” for a screening demand applies more powerfully where the same step
+is also authorized without any grounds. To draw from the dated terminology for
+the “reasonable suspicion” standard – Where the police do not need “articulable
+cause” to use an investigatory tool, they cannot then be
+Charter-
+bound
+to “articulate” their reliance on it, especially given no “cause” is required.
+The
+Charter
+demands substance over form.
+[See
+Rahmanian
+at paras.
+25-29]
+[27]      In the case before
+me, the fact that Officer Haji testified that he made the ASD demand of Mr.
+Jerlo under s. 320.27(1)(b), and believed he could not meet the requirements of
+s. 320.27(2), should not preclude me from considering all the evidence to
+determine if the preconditions for a MAS demand in 320.27(2) had been met.
+A MAS demand does not require
+subjective motivation
+[
+34
+]
+Unlike in s. 320.27(1)(b), there is nothing in
+the wording of s. 320.27(2) that places an obligation on an investigating officer
+to form subjective grounds prior to making a MAS demand. On the contrary, as
+noted earlier, subsection (2) establishes a purely objective set of
+preconditions for a MAS demand to be valid.
+[
+35
+]
+In my view, given Parliament’s intention to
+simplify and improve the detection of impaired drivers by allowing police to
+make ASD demands without relying on sometimes flawed roadside assessments, it
+does not make sense to read in an additional subjective requirement for the use
+of s. 320.27(2) to be lawful.
+[
+36
+]
+I found the decision of Justice Heerema in
+Handley
+,
+to be particularly persuasive on this issue. The issue at trial in
+Handley
+,
+and the issue before me, was whether the Crown can rely on the provisions of s.
+320.27(2) to justify the ASD demand, despite the investigating officer’s
+subjective reliance on s. 320.27(1)(b).
+[
+37
+]
+In
+Handley
+, the investigating officer pulled
+over the accused driver in response to a call from a concerned citizen. After a
+short interaction with the accused, the officer made an ASD demand. In her evidence
+at trial, the officer testified that in making the demand, she had a reasonable
+suspicion that the accused had consumed alcohol.
+[
+38
+]
+In that case, and in the case before me, the
+accused was not told specifically that a breath sample was being demanded under
+the authority of s. 320.27(1)(b).
+[
+39
+]
+And in both cases, the accused (Mr. Handley and
+Mr. Jerlo) were found operating a motor vehicle by an
+officer engaged in a lawful traffic stop who had an approved screening device
+in their possession. After a short interaction with the drivers, the officers
+made a demand for the driver’s breath without reference to either subsection.
+[
+40
+]
+Further, in both cases, all parties agreed that
+the evidence that informed the officer’s reasonable suspicion was objectively insufficient;
+however, the preconditions for a demand pursuant to s. 320.27(2) had been met.
+[
+41
+]
+In the present case, while I accept that Officer
+Haji subjectively believed, based on his experience, that he had met the
+reasonable suspicion standard, I agree with counsel that the constellation of
+objectively discernible facts did not support his honest belief. I also agree
+with the parties that the preconditions to a MAS demand pursuant to s.
+320.27(2) had been met.
+[
+42
+]
+In my view, the fact that the officer had
+insufficient grounds to make a demand pursuant to s. 320.27(1)(b) and did not
+appreciate that he could have made a demand under s. 320.27(2), does not preclude
+my assessment of the objective facts. The preconditions to a valid MAS demand
+clearly existed at the time Officer Haji engaged Mr. Jerlo and made the ASD
+demand.
+[
+43
+]
+Like Justice Heerema in
+Handley
+[see
+paras.
+38 to 45]
+, I fail to see how Officer Haji’s “mistaken, but unvocalized”
+reliance on s. 320.27(1)(b) invalidates what is otherwise plainly lawful under
+s. 320.27(2). Accordingly, I find the ASD demand made by Officer Haji was
+lawful and did not breach Mr. Jerlo’s
+Charter
+rights. [See also
+R. v.
+Wynn
+,
+2024 NSPC 51
+at paras.
+19-22]
+[
+44
+]
+Further, unlike
+R. v. Haqyar
+,
+2019 ABPC
+195
+, the information before me did not particularize the section under which the
+demand was made.
+[
+45
+]
+Finally, I decline to follow
+R. v. Schmidt
+,
+2023 YKTC 32
+, which has subsequently been overturned, albeit with the reviewing
+justice declining to opine on the issue before me. [See
+R. v. Schmidt
+,
+2024
+YKSC 18
+]
+If there was a s. 8 breach, I would
+not exclude the evidence under s. 24(2)
+[
+46
+]
+If I am wrong and the ASD demand in this case
+was unlawful, then a s. 8 breach occurred. In this alternative
+situation, a s. 24(2) analysis is required to determine whether the
+"fail" should be excluded from the evidence.
+[
+47
+]
+The first factor under the
+Grant
+analysis
+requires an assessment of the seriousness of the state infringing conduct and
+the need for the Court to disassociate itself from it.
+[
+48
+]
+In the case before me, I do not find that
+Officer Haji’s conduct was driven by bad faith or wilful disregard for Mr.
+Jerlo’s rights. On the contrary, I find that Officer Haji was otherwise respectful
+of Mr. Jerlo and his
+Charter
+protected rights throughout his dealings
+with the accused. As noted earlier, I find that Officer Haji subjectively and
+honestly believed he had met the standard for reasonable suspicion.
+[
+49
+]
+Further, I adopt the reasons of Justice Fiorucci
+in
+R. v. Campbell
+,
+2022 ONCJ 571
+, in which he explained how the
+existence of s. 320.27(2) has some relevance at the first stage of the
+Grant
+analysis:
+Furthermore,
+if I am in error in finding that the requisite reasonable suspicion existed for
+the ASD demand to be made pursuant to s. 320.27(1)(b),
+the existence of
+a statutory basis under
+s. 320.27(2)
+to make the demand
+without any grounds in these circumstances attenuates the seriousness of
+the
+Charter
+breach.
+The seriousness of the breach would be at the inadvertent or minor end of
+the spectrum.
+[See
+Campbell
+at para.
+40
+, emphasis added]
+[
+50
+]
+I conclude that the first factor only weakly
+favours exclusion.
+[
+51
+]
+Turning to the second factor, I must consider the
+impact of the breach on the interests of the accused, and I must do so using
+the broader lens as explained by the Supreme Court of Canada in
+R. v.
+Zacharias
+,
+2023 SCC 30
+at para.
+57
+.  In this case, I must consider that the
+accused was detained for approximately 1.25 hours and was required to provide
+samples of his breath. Unlike many impaired cases, however, Mr. Jerlo was never
+transported to the police station in handcuffs and detained for hours.
+[
+52
+]
+I find that this factor under
+Grant
+only moderately
+favours exclusion.
+[
+53
+]
+Turning to the third
+Grant
+factor, I find
+that society’s interest in an adjudication on the merits is significant.  Indeed,
+impaired
+driving remains a scourge on our society, leaving far too many broken families
+and destroyed lives. This factor strongly favours admission.
+[
+54
+]
+Finally,
+when balancing the
+Grant
+factors, I find
+that the admission of the evidence would better serve the truth-seeking
+function of the criminal trial process and society’s interest in the
+adjudication of the case on its merits. Indeed, I find that in
+the circumstances of this case, the exclusion of the breath test evidence would
+damage the long-term repute of the criminal justice system.
+[
+55
+]
+Accordingly, I dismiss the
+Charter
+application filed by amicus on behalf of Mr. Jerlo.
+Released:  November 5, 2025
+Justice
+Joseph Callaghan

@@ -1,0 +1,1234 @@
+CITATION:
+R.
+v. Jackson
+, 2025 ONCJ 617
+DATE:  November 25, 2025
+ONTARIO
+  COURT OF JUSTICE
+Toronto
+BETWEEN:
+HIS
+  MAJESTY THE KING
+—  
+  AND  —
+MATTHEW JACKSON
+)
+)
+)
+)
+)
+)
+)
+)
+)
+)
+)
+)
+)
+)
+)
+)
+For
+  the Crown
+M. Cuda, C. Sheppard and A. Kwan
+For
+  the Defendant
+C.
+  Zeeh
+Heard:
+January 8-10; June 11-12;
+  August 6, 2025
+REASONS for
+JUDGMENT
+RUSSELL
+SILVERSTEIN, J.:
+A.
+INTRODUCTION
+[
+1
+]
+Mr. Jackson is charged with 25 firearm-related
+possession charges arising out of the execution of a search warrant at his home
+on May 7, 2024.
+[
+2
+]
+Mr. Zeeh, counsel for the defendant, brought
+a
+Charter
+challenge to the admissibility of the evidence seized pursuant
+to the execution of the warrant.  That challenge was dismissed with reasons to
+follow. The reasons for that decision are set out below.
+[
+3
+]
+A trial followed the unsuccessful
+Charter
+challenge during which Mr. Jackson admitted to being in possession of the many contraband
+items found in his home on May 7, 2024, but testified that he possessed these
+items under duress and was thus not guilty of the alleged offences.
+B.
+THE
+CHARTER APPLICATION
+(a)
+Introduction
+[
+4
+]
+On May 6, 2024, the police sought
+authorization to search the applicant’s “dwelling house (1007-80 Marine Parade
+Drive, Toronto), and Red Dodge Charger
+Hellcat
+Ontario license DBBY 174”
+for firearms and firearm-related items. A warrant to search was issued.
+[
+5
+]
+On May 7, 2024, after a tense standoff with
+the police, the applicant was arrested during the execution of the search
+warrant. In the residence, the police located several firearms, several
+different firearm accessories, and a large amount of ammunition.
+[
+6
+]
+The applicant/defendant brought a
+Charter
+application alleging that the police breached his ss. 7 and 8
+Charter
+rights. He alleged that the affiant failed in his duty to be full, frank and
+fair, and the affidavit drafted (ITO) was purposely misleading. He also argued
+that the ITO did not provide a sufficient basis upon which the issuing justice
+could have found that reasonable grounds existed to issue the warrant. The
+applicant sought the exclusion of the evidence seized from 1007-80 Marine
+Parade Drive in Toronto.
+[
+7
+]
+The applicant also sought to cross-examine
+the affiant on several alleged misstatements and misleading statements in the
+ITO.
+[
+8
+]
+I permitted limited cross-examination of the
+affiant but dismissed the
+Charter
+application to exclude the fruits of
+the search for the reasons that follow.
+(b)
+Cross-examination of the affiant
+[
+9
+]
+The applicant pointed out that the evidence
+clearly supported the notion that the applicant’s car was a Dodge Charger “Scat
+Pack” and not a “Hellcat”. Yet, as the applicant pointed out, the affiant
+refers to the applicant’s car as a Hellcat on many occasions in the ITO. The
+applicant argued that this mischaracterization was significant and nefarious
+and might support an argument that the affiant had knowingly misled the issuing
+justice. Evidence that the applicant owned a Hellcat would have gone some
+distance in associating the applicant with a photo that the police had obtained
+of someone holding a Hellcat pistol. I ruled that the test set out in
+R. v.
+Pires
+(2005),
+2005 SCC 66 (CanLII)
+, 201 C.C.C. (3d) 449 (S.C.C.) had been met and allowed
+cross-examination of the affiant, detective Constable Jorge Lee, only regarding
+this discrepancy.
+[
+10
+]
+DC Lee admitted that he had made several
+errors in the ITO where he swore that the applicant drove a Hellcat and swore
+that Ministry of Transportation records said as much.  He testified that he was
+not overly familiar with the distinction between a Hellcat and a Scat Pack and
+that he had erroneously assumed the applicant’s car was a Hellcat. DC Lee
+denied that he intentionally sought to mislead the issuing justice into
+believing that the applicant drove a Hellcat.
+(c)
+Step 6
+[
+11
+]
+The ITO as presented to the issuing justice
+of the peace contained information supplied by a confidential source (CS). The
+ITO supplied to the applicant was redacted. As is common, with a view to
+protecting the identity of the CS, much of the information supplied by the CS
+was blacked out in the copy of the ITO supplied to the defence.
+[
+12
+]
+The Crown, relying on Step 6 as explained in
+R. v. Garofoli
+(1990),
+1990 CanLII 52 (SCC)
+,
+60 C.C.C. (3d) 161 (S.C.C.
+)
+,
+and following the procedure mandated in
+R. v. Crevier
+,
+2015 ONCA 619
+, supplied
+the court with an unredacted copy of the ITO and a proposed judicial summary
+for the applicant.
+(d)
+Analysis
+[
+13
+]
+The applicant argued that DC Lee had
+resorted to deliberate deception and that I should find that he had acted in a
+fashion intended to subvert the process and then exercise my discretion to
+quash the warrant in its entirety pursuant to
+R. v. Paryniuk
+, (2017),
+2017 ONCA 87 (CanLII)
+, 347 C.C.C. (3d) 82 (Ont. C.A.) where, at paragraph 69 the Court of Appeal for Ontario
+confirmed the power of a trial court to quash a warrant where the affiant had
+acted in a fashion subversive of the process
+.
+[
+14
+]
+I accepted DC Lee’s testimony. I found that
+his references to the applicant owning and driving a Hellcat were innocent
+errors for which excision is the appropriate remedy. This case is
+distinguishable from those relied on by the applicant, such as
+R. v. Nyadu
+,
+2024 ONSC 4092
+,
+R. v. Majeed
+,
+2017 ONSC 2963
+and
+R. v. MacKenzie
+,
+2024 ONCJ 472
+.
+[
+15
+]
+The Respondent conceded that the ITO as
+redacted to protect the CS privilege did not disclose reasonable and probable
+grounds for the issuance of the warrant.
+[
+16
+]
+The CS privilege prevents me from going into
+detail but, upon consideration of the unredacted ITO pursuant to Step 6, I am
+satisfied that the information supplied by the CS predicting the commission of
+a criminal offence was sufficiently detailed and current to be compelling and
+credible. This information was, to a significant degree, corroborated by police
+investigation prior to making the decision to conduct the search.
+R. v.
+Debot
+(1989),
+1989 CanLII 13 (SCC)
+, 52 C.C.C. (3d) 193 (S.C.C.) at p. 215.
+[
+17
+]
+After excision,
+the unredacted
+ITO provided an ample basis upon which the issuing justice could have found
+that reasonable grounds existed to issue the warrant
+.
+R. v. Vu
+,
+2013
+SCC 60
+(e)
+Conclusion
+[
+18
+]
+The
+Charter
+application was dismissed.
+The evidence found upon execution of the warrant was admitted.
+C.
+THE
+TRIAL
+(a)
+Introduction
+[
+19
+]
+The Crown’s case consisted of a lengthy
+agreed statement of fact with several photo and video attachments.
+[
+20
+]
+The defendant testified but called no
+further evidence.
+(b)
+The agreed statement of fact and exhibits
+filed
+[
+21
+]
+The critical portions of the text of the
+agreed statement of fact read as follows, with minor editorial alterations:
+On
+May 7, 2024, at about 6:10am the TPS Emergency Task Force (“ETF”) attended the
+10th floor of 80 Marine Parade Drive, Toronto, to execute a search warrant on
+unit 1007. They announced “police search warrant” three times when they arrived
+at the door to unit 1007.
+Police
+Constable (“PC”) Harding #5467 defeated the lock on the front door of the unit.
+He tried to open the door and observed JACKSON pushing on the door from inside.
+PC Harding forced the door open and saw JACKSON run down the hallway to the
+room on the left side of the unit. When PC Harding observed JACKSON, he voiced
+out “contact”.
+The
+room JACKSON entered was his bedroom. The entrance to the balcony of the unit
+was off his bedroom.
+JACKSON refused to exit his bedroom
+and demanded a negotiator.
+PC
+Allawaneh #11019 was a member of the ETF team and a negotiator. He began
+communicating with JACKSON and instructed him to surrender. JACKSON refused. He
+indicated he was armed. At this time police were not able to visually observe
+JACKSON.
+Police
+advised JACKSON they had a
+Criminal Code
+search warrant authorizing a
+search of his residence. JACKSON said he had a gun to protect himself and that
+he wasn’t going back to jail. JACKSON indicated the gun he had was an AR-15
+rifle.
+Between
+6:10am and 6:25am Detective (“Det”) Storey received information that JACKSON
+was posting videos on Instagram. JACKSON’s cat and a firearm were depicted in
+the video, and he could be heard talking to ETF members in it.
+At
+about 6:33am a police drone began making some observations of JACKSON in his
+room.
+PC
+Allawaneh and JACKSON continued to negotiate. JACKSON indicated his sister was
+messaging him. JACKSON spoke about his cat being safe and requested his sister
+be permitted to retrieve the cat. JACKSON indicated he was going to call his
+lawyer.
+At
+about 6:40am the neighbours in the units on the left and right side of
+JACKSON’s unit were evacuated by police.
+DC
+Pak #8574 checked JACKSON’s Instagram account of @krucifix_14. It was an open
+account, so anyone with Instagram could access it. He observed two stories in
+the new/unviewed section of JACKSON’s Instagram. The first story depicted a
+rifle type firearm on the bed next to a set of legs and a hairless cat. The
+second story appeared to be the same with a caption “police stand off great”
+and a thumbs up emoji.
+At
+about 6:54am DC Lee #9146 viewed JACKSON’s Instagram account Krucifix_14
+(formerly bxnd_master). He made notes respecting the contents of the two videos
+and contacted the TPS C3 unit to capture the evidence associated to JACKSON’s
+account.
+At
+about 6:56am DC Pak took a screen shot of JACKSON’s Instagram video depicting
+the firearm to show the ETF. As indicated, during the standoff with police
+JACKSON posted videos on his Instagram account, @krucifix_14. He recorded a
+portion of the standoff. The video begins with a depiction of an AR-15. The
+safety was in the “fire” position.
+In
+the video JACKSON can be heard saying, “… No, I’m not trying to contact my
+lawyer officer, I’m just waiting for him to text me back.” JACKSON then pointed
+the camera towards the partially open door of his room in the direction of the
+front door of his residence. A similar video was posted to the @krucifix_14
+Instagram account.
+During
+the standoff with police JACKSON said he had multiple guns. He said they
+included a Glock with a “switch”, another Glock with a red dot, an AR-15 with a
+drum magazine, and a thousand rounds of ammunition or more.
+At
+about 7:00am Sergeant (“Sgt”) LeFort #8411, the officer in charge of the
+initial ETF team, attempted to call JACKSON’s sister. JACKSON indicated he
+wanted to say goodbye to her before surrendering himself.
+At
+about 7:20am Sgt LeFort spoke to his colleague, Sgt Arulanandam #5414. He requested
+Sgt Arulanandam’s ETF team to attend to help.
+At
+around 7:30am Det Storey was advised JACKSON continued to refuse to surrender.
+JACKSON told police he wanted to see or speak to his sister, and he would give
+her his cat.
+Around
+this time JACKSON demanded his cat be turned over to his sister. He said this needed
+to occur before he would surrender. JACKSON provided his sister’s first name
+and phone number. At about 7:50am Sgt LeFort called the number JACKSON provided
+for his sister. She did not answer.
+At
+about 8:02am a uniform officer, PC Ashkar #8819, attended the 10
+th
+floor of 80 Marine Parade Drive.
+He stood in the hallway outside of unit 1007 and recorded the negotiations on
+his body worn camera. He did this from about 8:02am to 8:13am
+and again from about 8:25am
+to 9:37am.
+At about 8:07am a psychologist attended
+the 10
+th
+floor to
+assist in negotiations.
+At
+about 8:15am a female believed to be JACKSON’s sister attended the lobby of 80
+Marine Parade Drive. At about 8:20am the female verbally identified as Samantha
+Bird.
+At
+about 8:20am Sgt LeFort received information from ETF that JACKSON said he was
+feeling suicidal. JACKSON said he did not want to go back to jail. Police decided
+to stop making efforts to facilitate the transfer of JACKSON’s cat. JACKSON
+refused to speak to the psychologist.
+Sgt
+LeFort obtained the first name and phone number of the lawyer JACKSON was
+requesting to speak to. At about 8:42am Det Storey attempted to contact the
+lawyer. He left a message. At about 8:44am he tried again and texted the lawyer’s
+number requesting the lawyer call him.
+Det
+Storey received a call from JACKSON’s lawyer at about 8:50am. Det Storey
+advised the lawyer JACKSON would be arrested for possession of a firearm. He
+requested the lawyer speak to JACKSON and encourage him to surrender to police.
+The lawyer said he had already spoken to JACKSON. The call ended at about
+8:55am.
+At about 8:51am police deployed a
+robot into JACKSON’s condominium.
+At
+about 9:00am JACKSON spoke on the phone with the woman in the lobby, Samantha.
+He spoke to her again around 9:13am. JACKSON indicated to police he was
+satisfied his sister would be able to leave with the cat after this
+conversation. At about 9:19am JACKSON said he was going to put the cat in a bag
+and slide it out to police.
+At
+about 9:24am JACKSON advised police he was speaking to his lawyer again.
+At about 9:29am JACKSON slid the
+bag with the cat in it towards police.
+At
+about 9:31am ETF officers attended the lobby. They gave a backpack containing
+JACKSON’s cat to the woman self-identifying as Samantha. At about 9:44am the
+woman left with JACKSON’s cat in an Uber.
+At
+about 10:33am officers were able to make observations of JACKSON. An AR style
+rifle was seen on the floor at the foot of JACKSON’s bed, within arms reach.
+PC
+Allawaneh continued to negotiate with JACKSON until about 11:03am. By the end
+of PC Allawaneh’s negotiations with JACKSON, JACKSON was sitting at the
+threshold of his bedroom door and facing the front door of his unit.
+80
+Marine Parade Drive is a high-rise condominium. There are other high-rise
+condominiums situated close by. Officers were concerned about public and police
+safety during the stand-off.
+At
+about 11:03am PC Harding took over negotiations with JACKSON. Eventually
+JACKSON exited his bedroom. At about 11:30am PC Harding entered JACKSON’s unit
+and took him into custody.
+Det
+Storey took custody of JACKSON from PC Harding. He placed JACKSON under arrest
+for possession of a firearm and provided him rights to counsel. Det Storey
+escorted JACKSON to the lobby of 80 Marine Parade Drive and turned him over to
+PC Davey #9818 and PC Lacuna #10835 at about 11:41am. The exchange was recorded
+on a body worn camera.
+The
+transporting officers turned on the in-car camera of their squad car before
+JACKSON entered. JACKSON advised the transporting officers of some medical
+issues he believed he was having. The transporting officers took JACKSON to
+paramedics where he was examined. Part of JACKSON’s interactions with
+paramedics was recorded on a body worn camera. At 11:55am the paramedics
+medically cleared JACKSON.
+JACKSON
+was transported to TPS 22 Division. At about 12:35pm he was booked before the
+booking sergeant. At about 12:50pm JACKSON was escorted to his cell. He was
+mostly kept in the cell until after midnight on May 8, 2022.
+At
+about 2:14pm two investigators attended 22 Division. They brought property
+located during the search warrant execution at unit 1007 and placed it in
+JACKSON’s general property. These items included JACKSON’s jewellery; a pocket
+watch, gold chain with a diamond encrusted “SNOB MOB” pendant, two gold diamond
+encrusted teeth grills, and four earrings. Another item was JACKSON’s keys and
+a couple of key fobs. The last item was $5,950 cash, consisting of 21
+one-hundred-dollar bills, 39 fifty-dollar bills, and 95 twenty-dollar bills.
+JACKSON
+and his property were transported to TPS 23 Division on May 8, 2022. At about
+2:20am he was booked. Afterward, he was placed in a cell. He mostly stayed in
+the cell until about 8pm on May 8, 2022. He was then transported with his
+property to the Toronto South Detention Centre.
+Search Warrant Execution
+At
+about 11:30am investigators executed the search warrant on JACKSON’s unit. Det
+Storey took entry videos of the apartment before police began searching. The
+unit was a one-bedroom condominium. Upon entering the unit there was an arcade
+machine to the immediate left and straight ahead a hallway to the remainder of
+the unit.
+The
+hallway opens into the living room and kitchen areas.
+At the end of the entrance hallway
+immediately to the right is the kitchen area.
+At
+the bottom of the unit on the righthand side is the living room area with a
+table, couch, and television.
+The bedroom is on the lefthand side
+of the unit across from the living room.
+On
+the bed in JACKSON’s bedroom investigators located an AR15 rifle loaded with a
+40-round magazine. This is a prohibited firearm.
+The
+bedroom closet is on the left side of the bedroom if facing into the room. The
+closet door opens into the bedroom.
+Inside
+a canvas bag hanging from the door handle of the closet was a loaded Glock 43X
+firearm with a laser sight. It is a prohibited firearm.
+Inside
+the bedroom closet investigators located firearm paraphernalia and ammunition.
+Inside a green Gucci box in a red Shoppers Drug Mart bag investigators located
+a Glock magazine loaded with 17 rounds of 9mm ammunition, and a Glock magazine
+loaded with 31 rounds of 9mm ammunition.
+In
+a pink plastic rolling cabinet officers located a Glock magazine loaded with 10
+rounds of 9mm ammunition.
+In
+a camouflage colour “BAPE” backpack officers located a firearm holster, handgun
+rail flashlight, and a selector switch to convert a firearm into an automatic
+firearm.
+In
+a beige canvas bag located next to the camouflage “BAPE” backpack officers
+located 2 over capacity magazines, 7 magazines, and a loader assist.
+Specifically, the seven magazines were as follows: four (4) magazines were 9mm
+calibre handgun magazines pinned at 10 rounds, and two (2) magazines were 9mm
+calibre handgun magazines pinned at 6 rounds. One magazine was not analyzed.
+The two overcapacity magazines were as follows: one (1) blue 9mm ETS magazine
+with capacity for twelve (12) 9mm calibre rounds, and one (1) clear ETS
+magazine with capacity for nineteen (19) 9mm calibre rounds. The pins were
+removed from both.
+Inside
+a green Dollarama bag in a red gym bag officers located a drum magazine loaded
+with 60 rounds of .223 calibre ammunition. The gym bag also contained a rifle
+strap and a plastic bag with 30 rounds of .223 ammunition.
+Underneath
+the bed officers located a black leather Gucci bag. It contained nine-hundred
+and fifteen (915) rounds of 9 mm ammunition and a plastic bag with another
+nineteen (19) rounds of 9mm ammunition.
+Officers
+searched the couch in the living room and located a loaded Glock 26 Gen 5
+firearm. It is a prohibited firearm. The Glock had an auto-select switch on the
+rear of the slide, which allowed it to function as a fully automatic firearm.
+An additional magazine was located in the couch. It was loaded with 10 rounds
+of ammunition.
+In
+the kitchen in the top left cupboard on the lower shelf officers located a
+laser sight firearm attachment. In the cupboard above the kitchen sink officers
+located two clear plastic bags with loose ammunition. One bag contained fifty
+(50) rounds of 9mm ammunition and the other ninety-nine (99) rounds of 9mm
+ammunition.
+On
+the lower shelf of the cupboard on the right side of the dishwasher officers
+located firearm holsters and firearm tools.
+1007-80 Marine Parade Drive
+Matthew
+JACKSON was the sole tenant on the standard form Lease associated to unit 1007,
+80 Marine Parade Drive, Toronto. His tenancy began on August 12, 2023, and was
+scheduled to end on August 31, 2024. The parking spot associated to the unit
+was P4-29. JACKSON’s email listed on the agreement was
+krucifix14@hotmail.com
+Firearms and associated paraphernalia
+JACKSON
+had knowledge of and control over the three firearms outlined in this agreed
+statement of fact.
+JACKSON
+had knowledge of and control over the firearms paraphernalia detailed in this
+agreed statement of fact. Without limiting the generality of the foregoing,
+this included firearm magazines, ammunition, attachments, holsters, auto-select
+switches, straps, ammunition loaders, and tools.
+All
+ammunition, magazines, and prohibited devices seized at the search warrant were
+tested by TPS. They all functioned as designed and meet the
+section 84
+Criminal Code
+definitions of ammunition, cartridge magazine, and prohibited
+device.
+The
+AR-15 rifle of unknown make and model loaded with 40 rounds of ammunition is a
+prohibited firearm.
+It
+did not have a serial number. It was test fired with ammunition located in unit
+1007 and fired properly. This item was located on the bed in the bedroom.
+The 40 round magazine attached to
+the AR-15 is a prohibited device.
+The
+Glock 43x, 9mm firearm loaded with 19 rounds of ammunition is a prohibited
+firearm.
+It was
+test fired with ammunition located in unit 1007 and fired properly.
+This item was located in a
+beige canvas bag hanging from the bedroom closet door handle.
+The
+19 round detachable box cartridge magazine attached to the Glock 43x is a
+prohibited device.
+The
+Glock 26 Gen 5, 9mm firearm loaded with 10 rounds of ammunition is a prohibited
+firearm. It was test fired with ammunition located in unit 1007 and fired
+properly. This item was located in the couch cushions in the living room. 
+Another magazine loaded with 10 rounds of ammunition was located in the couch
+cushions.
+The
+auto-selector switch attached to the Glock 26 Gen 5 is a prohibited device.
+The
+detachable box cartridge magazine capable of holding 31 cartridges of 9mm Luger
+ammunition is a prohibited device. It was located in the bedroom closet in a
+green Gucci Box inside a Shoppers bag.
+The
+detachable box cartridge magazine capable of holding 17 cartridges of 9mm Luger
+ammunition is a prohibited device. It was also located in the bedroom closet in
+a green Gucci Box inside a Shoppers bag.
+The
+detachable drum magazine capable of holding 60 cartridges of .223 REM
+ammunition is a prohibited device. It was located in the bedroom closet in a
+green Dollarama bag inside a red gym bag.
+The
+detachable box cartridge magazine capable of holding 12 cartridges of 9mm Luger
+ammunition is a prohibited device. It was located in the bedroom closet in a
+beige cloth bag.
+The
+detachable box cartridge magazine capable of holding 19 cartridges of 9mm Luger
+ammunition is a prohibited device. It was located in the bedroom closet in a
+beige clothe bag.
+Another
+detachable box cartridge magazine was located in the beige cloth bag in the
+closet. It was not included on the certificate of analyst.
+The
+machine gun conversion device capable of converting a semi-automatic firearm
+into an automatic firearm is a prohibited device. It was located in the bedroom
+closet in a camouflage green “BAPE” backpack.
+Pursuant
+to a s. 109 Order JACKSON was prohibited from possessing any prohibited
+devices, which includes the over-capacity magazines seized by police.
+Pursuant
+to a s. 109 Order JACKSON was prohibited from possessing any ammunition, which
+includes the ammunition seized by police.
+Officers
+located the following ammunition (not including the ammunition found in
+firearms and magazines):
+i.
+In the bedroom closet in a green Dollarama bag with a drum magazine – a clear
+Ziploc baggie with thirty (30) .223 calibre rounds of ammunition.
+ii
+In a black Shoppers canvas bag inside the Gucci bag under the bed – nine
+hundred and fifteen (915) rounds of 9mm ammunition. In addition, there was a
+clear Ziploc baggie with nineteen (19) rounds of 9mm ammunition. (total: 934
+rounds of 9mm calibre ammunition)
+iii. One loose round of .380
+calibre ammunition in the dishwasher.
+iv. One loose round of .40 calibre
+ammunition in a Scarface glass.
+v.
+In two clear Ziploc baggies in a cupboard above the kitchen sink – fifty (50)
+rounds of 9mm calibre ammunition and ninety-nine (99) rounds of 9mm calibre
+ammunition. (total: 149 rounds of 9mm calibre ammunition).
+JACKSON
+possessed the ammunition for the purpose of transferring it to another.
+Authorization / Licence and
+Certificates
+On
+May 7, 2024, JACKSON was not the holder of an authorization or licence to possess
+a firearm in any place, and he knew this.
+On
+May 7, 2024, JACKSON did not have registration certificates for any firearm he
+possessed, and he knew this.
+Summary
+The
+TPS ETF executed a search warrant at Unit 1007, 80 Marine Parade Drive, at
+about 6:10am. A stand-off between police and Jackson ensued until his arrest at
+about 11:30am.
+After the standoff was over JACKSON
+cooperated with police.
+An
+itemized list of other evidence outlined in this agreed statement (without
+limiting the generality above and not including the firearms paraphernalia) is
+as follows:
+i.
+AR15 Rifle loaded with 40 rounds of .223 calibre ammunition (bed)
+ii.
+Glock 43x handgun loaded with 19 rounds of 9mm ammunition (canvas bag hanging
+on door handle of bedroom closet)
+iii.
+Glock 26 Gen5 handgun loaded with 10 rounds of 9mm calibre ammunition with an
+installed attachment permitting fully automatic capabilities (couch)
+iv.
+One (1) 9mm magazine loaded with 10 rounds of 9mm calibre ammunition (couch)
+v.
+Two (2) loaded overcapacity 9mm magazines, one loaded with 17 rounds of 9mm
+ammunition and the other with 31 rounds of 9mm ammunition (bedroom closet, in
+Shoppers bag inside a green Gucci box)
+vi.
+One (1) 9mm magazine loaded with 10 rounds of ammunition (bedroom closet in a
+pink plastic rolling cabinet)
+vii. Seven (7) 9mm magazines not
+loaded (bedroom closet, beige cloth bag)
+viii.
+Two (2) overcapacity 9mm magazines not loaded (bedroom closet, beige cloth bag
+– one 12 capacity and the other 19 capacity)
+ix.
+One (1) drum magazine loaded with 60 rounds of .223 ammunition (bedroom closet,
+in green Dollarama bag inside gym bag)
+x.
+One (1) selector switch capable of converting a semi-automatic handgun into a
+fully automatic handgun (bedroom closet, camouflage BAPE backpack).
+[
+22
+]
+The agreed statement of fact is accompanied
+by many photos taken at the time of the execution of the search warrant, one of
+which shows a Glock poster hanging on a closet door in the defendant’s bedroom.
+(c)
+Mr. Jackson’s testimony in chief
+[
+23
+]
+Mr. Jackson testified over the course of two
+days. A transcript of his testimony is available. I shall set out the salient aspects
+of his testimony with emphasis on those that pertain to his defence of duress.
+[
+24
+]
+Mr. Jackson was 38 years old when he
+testified. He is the father of one child. His criminal record begins with a
+theft conviction in 2005 and contains convictions in 2009 for drug trafficking
+and unlawful possession of firearms as well as convictions in 2018 for firearms
+possession and trafficking in firearms. Both the 2009 and 2018 convictions
+resulted in significant custodial sentences.
+[
+25
+]
+After ultimately being released on parole in
+2021 the defendant found work as a jewelry designer for a company known as Sam
+and Tony’s. He took up residence in an apartment on Yonge Street, close to his
+work. He was earning between $10,000 and $15,000 per month.
+[
+26
+]
+Around February 2022, the defendant allowed
+a man named John Cruz-Barros, whom he had met at the Toronto South Detention
+Centre between 2014 and 2017, to come and stay at his apartment for a night.
+The next morning the defendant woke up to Mr. Cruz-Barros letting two other men
+armed with guns into his apartment. The guns had large, conspicuous 30-round
+magazines. The defendant knew who they were. One of them went by the name of
+Big 13. They assaulted him until he bled.
+[
+27
+]
+The men searched his residence and stole
+$3,000 in cash and $50,000 worth of jewelry as well as the defendant’s bank
+card and cell phone. After approximately 40 minutes, they escorted him out of
+his building past the concierge, into a waiting car that had been left running
+on Yonge Street with no occupant. There was no one else in the lobby. Once
+outside the building the defendant did not cry out for help, although he would
+have had he seen any police officers.
+[
+28
+]
+The men asked for the defendant’s banking
+credentials and he told them he had no money in the bank. They threatened him
+and told him he would have to find someone who could give him money, or they
+would kill him.
+[
+29
+]
+The defendant was given back his phone so he
+could contact such people. He found someone named Stacks from whom he had often
+bought marijuana who agreed to lend the defendant $3,000 and they went to Stacks’
+residence to pick up the money. The men wanted a further $15,000. The defendant
+then called a man he knew as Bizzy Benz for more money. Bizzy Benz used to sell
+marijuana to the defendant and the mother of the defendant’s son. The defendant
+had met him in or around 2010. Around the time of the kidnapping Benz would
+sometimes come by and purchase items at the jewelry store where the defendant
+was working. They would sometimes smoke marijuana together on the sidewalk.
+According to the defendant, Benz’s real name was Tyson or Tyshon.
+[
+30
+]
+He told Benz he urgently needed $15,000.
+They argued a bit but eventually the defendant convinced him to lend him some
+money and Benz offered $13,800. The kidnappers then drove to Mississauga with
+the defendant to meet Benz.
+[
+31
+]
+Benz gave the defendant some money which he
+then gave to the kidnappers who counted it and said it was $13,000.
+[
+32
+]
+The kidnappers then drove back to Toronto
+with the defendant. The men stopped the car, abandoned it and walked away with
+the money and property from the defendant’s apartment. The defendant ran off
+and got on the subway and returned home. He never saw the kidnappers again
+although they continued to threaten and taunt him online. They were also threatening
+his boss. The next day the defendant packed his things and moved to a motel near
+Highway 427 and Dundas. He did not return to work. He did not think about
+calling the police.
+[
+33
+]
+In August of 2022 he paid $2,000 to Benz.
+Benz came to where the defendant was living to pick up the money. Benz was
+unhappy and produced a firearm. He told the defendant that he should sell his
+car to satisfy the debt. Later that month the defendant sold his car to a
+company called Leccos but had to wait a year for payment and only received
+$4,800. The defendant did not call police. He gave this money to Benz as soon
+as he received it in July of 2023. Benz was still upset with the delay in
+repayment and told the defendant he was lucky to be alive and that Benz had
+once slashed someone’s throat over a pound of weed. He also told the defendant that
+if he didn’t pay his debt or went to the police he would “pop off on” (use a
+gun on) the mother of the defendant’s child.
+[
+34
+]
+Benz then convinced the defendant to rent a
+storage container and store items for Benz. This would be a way to work off his
+debt to Benz. The defendant then helped Benz transfer four large cardboard boxes
+into the defendant’s unit along with a pink gym bag. The defendant believed the
+pink bag contained firearms. The defendant told Benz that it was a bad idea for
+the defendant to store guns in his space given that the defendant had a
+criminal record. Benz told the defendant that it was better to store firearms
+than be killed by one. Samantha helped the defendant pay for his storage unit.
+[
+35
+]
+The defendant, with Benz’s permission,
+cancelled the storage unit within a month, sometime in August 2023. The
+defendant had recently been accepted to rent a new condo unit at 80 Marine
+Parade. He was getting financial assistance from his friend, Samantha. He also
+accepted a new job at Complete Jewelry. His boss was named Zereh.
+[
+36
+]
+At this juncture the defendant believed he
+still owed Benz just over $4,000. He had been making small periodic payments to
+him. The defendant’s life was returning to normal.
+[
+37
+]
+In February or March 2024, the defendant next
+met with Benz in a car to pay him a further $2,800. Benz had a gun with him.
+When the defendant asked if they would be “good” once the debt was paid off
+Benz got angry and told the defendant that he, Benz, was the boss. Benz punched
+the defendant several times and told him to hand over his house keys and
+building entry fob. The defendant complied. Benz said he would be storing some
+things at the defendant’s apartment until the debt was paid off.
+[
+38
+]
+The defendant then returned on foot to his
+building and got the security guard to let him in. He then changed the lock on
+his apartment door. He arranged to give Benz a copy of the new key.
+[
+39
+]
+Thereafter, Benz was accessing the
+defendant’s unit often. He would often message the defendant on Snapchat and
+tell him to leave the apartment. Sometimes the defendant helped Benz with the
+items he was bringing to the apartment. The pink bag was one of those items and
+the defendant again assumed it contained firearms.
+[
+40
+]
+On one occasion in mid-March the defendant
+saw Benz remove a handgun from the pink bag and then leave. He assumed Benz
+left to sell the gun.
+[
+41
+]
+On one accession in late April Benz
+instructed the defendant to meet him downstairs. Benz gave the defendant a bag
+full of bullets. The defendant put this bag under his bed. He felt compelled to
+cooperate since Benz was an armed gang member and had threatened him and his
+son’s mother. Benz knew where they lived.
+[
+42
+]
+The defendant thought about going to the
+police, but he feared they would charge him with possession of the guns in his
+apartment. He didn’t tell his son’s mother for fear she would be defiant and
+not take his advice on how to protect herself, such as leaving the city.
+[
+43
+]
+The $4,000 that was seized by police at the
+time of the execution of the search warrant was earmarked for Benz and, in the
+defendant’s opinion, would have extinguished the debt to Benz. The defendant
+had only recently received it, and he had told Benz that he had it but the raid
+on his apartment took place before payment had been arranged.
+[
+44
+]
+The defendant was hopeful that Benz would
+remove the contraband after being paid but he nonetheless feared that Benz
+would continue to threaten and extort him.
+(d)
+The text message
+[
+45
+]
+The defendant identified as a screenshot
+from his phone of part of one of several text message conversations between who
+he says are him and Benz. The screenshot shows the date of “April 13, 2024”
+displayed under only one of the messages. One of the accounts is labeled at the
+top of the page as “B”. The other participant is unnamed. The defendant said
+that he had saved Benz’s contact as “B”.
+[
+46
+]
+According to the defendant, the text
+conversation is between him and Benz and reads as follows:
+Jackson
+: Alright yo. I really can’t stay here much longer
+April 13, 2024 at
+8:03 pm
+Jackson
+: I’ll have $2,000 owed next 3 weeks tops, can you
+please take your stuff out of my spot?
+Benz
+: When will you have the 2k?
+Jackson
+: Soon as I finish the customers pendant 2-3 weeks, so
+can you plz be ready to take your stuff?
+Benz
+: 4k and we can chat about all that shit! I’ll be at
+your place in a few days make sure you’re home
+Jackson
+: Bro plz don’t add to my debt this situation is
+ruining my life. I’m sorry it took so long to pay you
+Benz
+: Run me my fucking 4k lucky I only want 4kc cause I
+should do a lot worse to you kid
+Jackson
+: Okay I’ll get it but please I need this stuff out of
+my place asap
+Read
+2:39 pm
+Benz
+:  lol don’t message me here hit me on snap
+(e)
+Cross-examination of Mr. Jackson
+[
+47
+]
+About a week before the execution of the
+search warrant Benz instructed the defendant to take a Glock 26 out of the pink
+bag he was storing in the apartment and to put it and some bullets into a
+cupboard in the kitchen. He did so and while doing so noticed that the bag contained
+other firearms.
+[
+48
+]
+The Glock poster that the defendant hung in
+his room came from among Benz’s items. He “foolishly” hung it up in his room because
+he “enjoyed it”.
+[
+49
+]
+The rent at 80 Marine Parade Drive was
+$2,395 per month plus utilities. The defendant paid $3,600 at around the time
+he moved in in August 2023. He relied on his friend Samantha to help him with
+his expenses at the time.
+[
+50
+]
+In 2019, upon his initial release from the
+penitentiary, the defendant had $120,000 from an inheritance, $48,000 of which
+he invested in the jewelry business. He also had other expenses including child
+support of about $15,000, lawyer fees of about $7,000 and $4,000 he paid on old
+parking infractions. He was earning about $2,400 per month at Premier Auto. He
+then transitioned to his jewelry design job at Sam and Tony’s in the summer of
+2019.
+[
+51
+]
+The defendant lost his parole in March of
+2020 and was re-incarcerated for approximately 12 months.
+[
+52
+]
+The defendant admitted that he could have
+got in Benz’s car when he came with money for the kidnappers but at the time he
+felt it was too dangerous and he had been warned by the kidnappers not to do
+so.
+[
+53
+]
+On February 9, 2024, the defendant purchased
+a 2021 Dodge Charger Scat Pack for $82,893 after taxes. He put $9,999 down in
+cash and, along with Samantha, financed the rest. He and Samantha undertook to
+pay $584.19 every two weeks. He made most of his half of the payments. The car
+was still in the defendant’s possession on the day of his arrest.
+[
+54
+]
+The day before his arrest the defendant had
+purchased a $250 fireplace. He didn’t put that money towards his debt to Benz
+because he had enough cash to cover that. He was hoping to pay Benz within the
+next day or two.
+[
+55
+]
+The defendant had received a “Snob Mob”
+pendant worth $3,000 - $6,000 many months prior to his arrest. He never sold it
+to finance his debt to Benz because the only person who was in a position to
+buy it was the person who had gifted it to him and the defendant did not want
+to appear unappreciative and disrespectful.
+[
+56
+]
+The defendant identified an image from his
+Instagram account that showed him posing on his car with a large amount of
+cash. He testified that this photo was from 2019.
+[
+57
+]
+He also identified an Instagram photo of
+himself in his Marine Parade Drive apartment holding approximately $1,000 in
+cash which he testified was probably his rent money.
+[
+58
+]
+He identified other photos of him posing
+with his car and $6,300 in cash that he testified was the same money seized
+from his apartment by the police.
+[
+59
+]
+According to the defendant he tried to
+project an image on social media that exaggerated his wealth.
+[
+60
+]
+During the police standoff the defendant
+posted videos of the encounter on social media. He was in shock and expected to
+be killed.
+[
+61
+]
+The defendant testified that much of the
+handgun paraphernalia found by police in the defendant’s bedroom on the day of
+the raid originated in Benz’s pink bag which the defendant emptied during the
+police standoff.
+[
+62
+]
+Other handgun paraphernalia were found in
+the kitchen. They were never mentioned by the defendant earlier in his
+testimony as items he had earlier transferred to the kitchen at the request of Benz.
+He denied placing those items in the kitchen and surmised that Benz must have
+come to his apartment when he wasn’t there and put them there himself.
+[
+63
+]
+A handgun was found by police in a canvas
+bag hanging on the door of the defendant’s bedroom closet. The defendant
+testified that it was not his and that he removed it from the pink bag and put
+it there to hide it from police during the standoff. The gun had been fitted
+with a laser sight, the empty box for which was found in the kitchen. The
+defendant denied having installed the laser sight.
+(f)
+The law concerning the defence of duress
+[
+64
+]
+The defence of duress, whether it arises at
+common law or as of statutory right, consists of the following elements, as set
+out in
+R
+.
+v
+.
+Ryan
+:
+a.
+There must be an explicit or
+implicit threat of present or future death or bodily harm. The threat may be
+directed at the accused or at a third party.
+b. The accused must
+reasonably believe that the threat will be carried out.
+c.
+There must be no safe avenue of escape. This is assessed on a modified
+objective standard, taking into account what a reasonable person in the
+accused’s circumstances would perceive and do.
+d.
+There must be a close temporal connection between the threat and the harm
+threatened.
+e.
+There must be proportionality between the harm threatened and the harm
+inflicted by the accused. The harm caused must be equal to or no greater than
+the harm threatened. This element is also assessed on a modified objective
+standard.
+f. The accused must not be a party to a conspiracy or
+association whereby they were subject to compulsion and actually knew that
+threats or coercion to commit offences were a possible consequence of their
+involvement.
+R. v. Ryan
+,
+2013 SCC 3
+at
+paras.
+81-84
+[
+65
+]
+If the defence is available at law and there
+is an air of reality to all the essential elements on the evidence, the accused
+is entitled to an acquittal unless the Crown disproves one or more of the
+essential elements of the defence beyond a reasonable doubt.
+The air of reality test requires there be evidence
+which, if believed, a properly instructed jury acting reasonably could acquit
+R. v. Richer
+,
+2025 ONCA 439
+.
+[
+66
+]
+For no safe avenue of escape, one of the
+main issues in the present case, it is to be determined on an objective
+standard and adjusted for subjective circumstances. The accused’s asserted
+belief that they lacked a reasonable alternative is not sufficient, standing
+alone, to give an air of reality to the defence. The question is whether a reasonable
+person, with a similar personal history, background, abilities, capacities, and
+human frailties, would reasonably believe, in the particular circumstances,
+that there was no safe avenue of escape.
+R. v. M. (D.B.)
+,
+2016 ONCA 264
+.
+(g)
+Is there an air of reality to the defence of
+duress?
+[
+67
+]
+When determining whether the air of reality
+test is met, and thus whether the defence of duress can be asserted, I must
+proceed on the basis that the testimony of the defendant is true.
+[
+68
+]
+There were two principal avenues of escape
+available to the defendant. He could have paid off his debt to Benz or go to
+the police.
+[
+69
+]
+The evidence makes clear that both avenues
+were available to the defendant, yet he availed himself of neither one. Over
+the year that the defendant stored guns on behalf of Benz the defendant had
+access to funds that he could have used to extinguish his debt. Instead, he
+rented an expensive condo and purchased an expensive car. Nor did the defendant
+contact the authorities or seek any advice on his predicament.
+[
+70
+]
+The defendant’s situation is not materially
+different from that of the accused in
+R. v M. (D.B.),
+2016 ONCA 264
+where the accused was indebted to a “Mr. X” for about $40,000 he had borrowed.
+He was unable to repay the debt. Mr. X threatened the accused and his family if
+he was unable to pay. Mr. X proposed the accused work off the debt by making
+deliveries and pick-ups of drugs. The accused agreed. He was apprehended by
+police on about his ninth pick-up/delivery with seven pounds of cannabis in his
+vehicle. The trial judge found there was no air of reality to duress. The judge
+was not satisfied the accused could not pay the debt, and, he could have gone
+to the police. The trial judge found the accused could have liquidated his
+RRSPs to repay the debt or could have gone to police. Thus, duress had no air
+of reality. The Court of Appeal upheld the trial judge’s decision. See too
+R.
+v. Keller
+,
+[1998] A.J. No. 1257 (Alta. C.A.)
+.
+[
+71
+]
+Mr. Jackson has not met the air of reality
+threshold.
+(h)
+If there were an air of reality to the
+defence, would it succeed?
+[
+72
+]
+Even if the defendant had met the air of
+reality threshold, I would nonetheless have found that the Crown had disproved
+duress beyond a reasonable doubt.
+[
+73
+]
+The defendant’s
+testimony to the effect that he was storing Benz’s weaponry against his will is
+belied by the degree to which the firearms and paraphernalia were distributed
+throughout the apartment when the police searched the premises. Guns, the
+details of which the defendant said he knew nothing about, were found outside
+the pink bag the defendant said he’d been given by Benz.  Two of them had been
+altered and the empty boxes for the alteration kits were in the defendant’s
+kitchen.
+[
+74
+]
+Most tellingly,
+there was a “Glock” poster hanging on the defendant’s bedroom closet door. The
+defendant testified that he removed this from Benz’s pink bag, thought it
+looked good, and hung it up.
+[
+75
+]
+I find that whether
+or not the defendant received the various firearms in his apartment from Benz,
+the defendant was proudly and enthusiastically in possession of them, not under
+duress as he testified.
+[
+76
+]
+That the defendant
+did not extinguish the debt when he could have belies his assertion that he was
+afraid of Benz.
+[
+77
+]
+The defendant
+referred to many third parties in his testimony. Yet, no witnesses were called
+who could have corroborated many aspects of his testimony, such as Samantha,
+who the defendant said helped him out financially, and his employers who he
+said had received communications from his kidnappers. The mother of his son
+could have testified as to the existence of Bizzy Benz. Documents generated by
+the various transactions the defendant referred to were not tendered. While
+there is no onus on the defendant to prove duress, after an air of reality is
+established, the absence of supporting evidence renders his account even less
+plausible.
+[
+78
+]
+As concerns the
+text message fragment that the defendant testified was one of several text
+conversations with Benz, without the other text messages between them, the unsupported
+testimony of the defendant as to the meaning, timing and provenance of the text
+fragment does not affect my finding regarding the defendant’s failure to make
+out the necessary air of reality to the duress defence, nor would it have, in
+the context of all the evidence raised a reasonable doubt as to duress.
+[
+79
+]
+Ultimately, I do
+not accept the defendant’s testimony to the effect that he was coerced by Benz
+to possess the firearms, ammunition and other contraband. Nor does his testimony
+along with the other evidence create a reasonable doubt concerning the defence
+of duress.
+D.
+CONCLUSION
+[
+80
+]
+Mr. Jackson is guilty on all counts.
+Released on November 25,
+2025
+Justice
+Russell Silverstein

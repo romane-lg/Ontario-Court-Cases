@@ -1,0 +1,1271 @@
+WARNING
+The court hearing this matter directs that the following notice be
+attached to the file:
+A
+non-publication and non-broadcast order in this proceeding has been issued
+under
+subsection 486.4(1)
+of the
+Criminal Code
+.
+This subsection and
+subsection 486.6(1)
+of the
+Criminal Code,
+which is concerned with the
+consequence of failure to comply with an order made under
+subsection 486.4(1)
+,
+read as follows:
+486.4  Order
+restricting publication
+— sexual offences.
+— (1)  Subject to subsection (2), the presiding judge or justice
+may make an order directing that any information that could identify the victim
+or a witness shall not be published in any document or broadcast or transmitted
+in any way, in proceedings in respect of
+(
+a
+)    any
+of the following offences:
+(i)   an
+offence under section 151, 152, 153, 153.1, 155, 160, 162, 162.1, 163.1, 170,
+171, 171.1,172, 172.1, 172.2, 173, 213, 271, 272, 273, 279.01, 279.011, 279.02,
+279.03, 280, 281, 286.1, 286.2, 286.3, 346 or 347, or
+(ii)  any
+offence under this Act, as it read from time to time before the day on which
+this subparagraph comes into force, if the conduct alleged would be an offence
+referred to in subparagraph (i) if it occurred on or after that day; or
+(
+b
+)    two
+or more offences being dealt with in the same proceeding, at least one of which
+is an offence referred to in paragraph
+(a)
+.
+(2)
+MANDATORY
+ORDER ON APPLICATION
+— In proceedings in respect of the offences referred
+to in paragraph (1)(
+a
+) or (
+b
+), the presiding judge or justice
+shall
+(
+a
+)    at
+the first reasonable opportunity, inform any witness under the age of eighteen
+years and the victim of the right to make an application for the order; and
+(
+b
+)    on
+application made by the victim, the prosecutor or any such witness, make the
+order.
+.   .   .
+486.6  OFFENCE
+— (1)  Every person who fails to comply with an order made under
+any of
+subsections 486.4(1)
+to (3) or subsection 486.5(1) or (2) is guilty of
+an offence punishable on summary conviction.
+By court order made
+under
+subsection
+278.95(1)(d)
+of the
+Criminal Code
+, these reasons
+may be published, broadcasted, or transmitted, despite the restriction on
+publication set out in section
+278.95
+of the
+Code
+.
+ONTARIO COURT OF JUSTICE
+CITATION:
+R. v. Younkman
+, 2025 ONCJ 565
+DATE: 
+2025 10 29
+COURT
+FILE No.: Toronto 4810 998 24 48127538 00
+BETWEEN:
+HIS
+MAJESTY THE KING
+— AND
+—
+CHRISTOPHER YOUNKMAN
+Before
+Justice Christine Mainville
+Section
+278.92 Application – Step 2, heard on October 6, 2025
+Reasons
+for Judgment released on October 29, 2025
+Alexander Merenda............................................................................ counsel
+for the Crown
+Jody Berkes.................................................................................... counsel
+for the Applicant
+Ashley Dresser………………………………………………counsel
+for the Complainant
+Mainville J.:
+[
+1
+]
+The Complainant and the Applicant met online. A
+few days later, they arranged for the Complainant to attend the Applicant’s
+home on September 24, 2020.
+[
+2
+]
+At that meeting, they engaged in some consensual
+sexual activity. However, the Complainant alleges that he did not consent to
+the anal sex that took place. This constitutes the subject of the sexual
+assault charge against Mr. Younkman.
+[
+3
+]
+Though the defence has not conceded identity, it
+has identified the central issue at trial as being consent.
+[
+4
+]
+The Applicant and Complainant exchanged some
+Signal messages ahead of the meeting and some shortly thereafter. This ruling
+relates to whether the Applicant can make use of some of these messages at
+trial.
+[
+5
+]
+After initially taking the position that no
+records application was required, the defence brought
+an application under
+s. 278.92
+of the
+Criminal Code
+to use four separate
+documents at trial (Exhibits 1-4 to the application). These documents formed
+part of the Crown disclosure. They were produced to the defence with the Complainant’s
+consent, but no written waiver was initially obtained.
+[
+6
+]
+Aside from the
+s. 278.92
+application, I ruled
+that s. 276 was engaged by two of the documents, pursuant to the reasoning in
+R.
+v. Reimer
+,
+2024 ONCA 519
+, at paras.
+45-49
+. That is, I ruled that they
+constituted “prior sexual activity” that does not form the subject-matter of
+the charge. These documents were identified for the purpose of these
+proceedings as Exhibits 1 and 2 to the defence application.
+[
+7
+]
+The Crown conceded Stage 1 in respect of these
+exhibits – i.e., that the records sought to be adduced
+were “capable of being admissible” under s. 276(2): see s. 278.93(4) of the
+Code
+. The defence has since indicated that it is no longer pursuing any
+application as it relates to Exhibit 2.
+[
+8
+]
+In the interim, the Complainant retained counsel
+and the applicability of the
+s. 278.92
+regime to all records was deferred to
+the Stage 2 hearing, given the possibility of obtaining clearer waivers from
+the Complainant following independent legal advice.
+[
+9
+]
+The Complainant takes no issue with the
+admissibility and use at trial of Exhibit 4. He does however object to the
+admissibility of Exhibits 1 and 3 – messages sent before and after his meeting
+with the Applicant.
+[
+10
+]
+I have already ruled that s. 276 is not engaged
+by Exhibit 3, but I must consider its admissibility at trial under
+s. 278.92
+.
+[
+11
+]
+As for Exhibit 1, I must address its
+admissibility and use at trial as it relates to both the s. 276 and
+278.92
+regimes. The defence also asks me to reconsider my earlier ruling that this
+exhibit is subject to the s. 276 regime, based on more detailed submissions
+that its content relates to the subject-matter of the charge.
+[
+12
+]
+The Complainant also provided a written waiver
+setting out the parameters of what he waives as it relates to the
+s. 278.92
+regime. This waiver is tantamount to a partial waiver and its effect as it
+relates to use of the records at trial was the subject of dispute.
+Legislative Framework
+Section 278.92: Records Relating to
+the Complainant
+[
+13
+]
+Section 278.92(2)(b) provides that a record as
+defined in s. 278.1 of the
+Code
+is inadmissible unless the judge
+determines, in accordance with the procedures set out in ss. 278.93 and 278.94,
+“that the evidence is relevant to an issue at trial and has significant
+probative value that is not substantially outweighed by the danger of prejudice
+to the proper administration of justice.”
+[
+14
+]
+Section 278.1 provides the following definition
+of “record”:
+For the purposes
+of sections 278.2 to
+278.92
+, record means any form of record that contains
+personal information for which there is a reasonable expectation of privacy and
+includes medical, psychiatric, therapeutic, counselling, education, employment,
+child welfare, adoption and social services records, personal journals and
+diaries, and records containing personal information the production or
+disclosure of which is protected by any other Act of Parliament or a provincial
+legislature, but does not include records made by persons responsible for the
+investigation or prosecution of the offence.
+[
+15
+]
+This definition sets out a non-exhaustive list
+of records that generally contain personal information for which there is a
+reasonable expectation of privacy. As for non-enumerated records, the Supreme
+Court in
+R. v. J.J.
+,
+2022 SCC 28
+, at para.
+42
+, explained what might
+constitute such a record for the purpose of this statutory regime:
+Ultimately, we
+conclude that a non-enumerated record will only be captured by s. 278.1, in the
+context of the record screening regime, if the record contains information of
+an intimate or highly personal nature that is integral to the complainant’s
+overall physical, psychological or emotional well-being. Such information will
+have implications for the complainant’s dignity.
+[
+16
+]
+The Court also made clear, at para. 46, that its
+interpretation of what constitutes a reasonable expectation of privacy in the
+context of s. 278.1 is specific to that section and is distinct from how the
+concept applies in the s. 8
+Charter
+jurisprudence. It did accept two
+principles from the s. 8 jurisprudence, namely:
+(1) the person
+claiming a privacy right must have a subjective expectation of privacy that is
+objectively reasonable in the circumstances …; and (2) a reasonable expectation
+of privacy only engages legally recognized privacy interests… Both of these
+principles establish that the privacy interests at issue must meet a high threshold.
+(
+J.J.
+, at para.
+47
+)
+[
+17
+]
+However, the Court did not accept the
+content-neutral nature of the analysis, which is a feature of the s. 8
+reasonable expectation of privacy jurisprudence:
+J.J.
+, at para.
+48
+.
+Accordingly, it found that “[r]ecords do not attract a reasonable expectation
+of privacy simply because of the medium used to convey them. The more important
+consideration is the sensitivity of the information contained in the record.”:
+J.J.
+,
+at para.
+49
+.
+[
+18
+]
+On this point, the Court at para. 45 described
+when “legally recognized privacy interests” will be engaged:
+Complainants
+have privacy interests in highly sensitive information about themselves, the
+disclosure of which can impact on their dignity. As this Court has observed in
+the past, the “dissemination of highly sensitive personal information” can
+result “not just in discomfort or embarrassment, but in an affront to the
+affected person’s dignity” (
+Sherman Estate v. Donovan
+,
+2021 SCC 25
+, at
+para.
+7
+). To reach the level of an impact on dignity, an intrusion on
+informational privacy must “transcen[d] personal inconvenience by reason of the
+highly sensitive nature of the information that might be revealed” …
+[
+19
+]
+Finally, the Court observed that “the privacy
+interests in a record being
+produced
+to the accused are different from
+the privacy interests at play when the accused seeks to have the record
+admitted
+as evidence in court”:
+J.J.
+, at para.
+50
+(emphasis in original).
+[
+20
+]
+Section 278.92(3) provides that the following
+factors must be considered in determining whether such records are admissible:
+(a)
+the
+interests of justice, including the right of the accused to make a full answer
+and defence;
+(b)
+society’s
+interest in encouraging the reporting of sexual assault offences;
+(c)
+society’s
+interest in encouraging the obtaining of treatment by complainants of sexual
+offences;
+(d)
+whether
+there is a reasonable prospect that the evidence will assist in arriving at a
+just determination in the case;
+(e)
+the
+need to remove from the fact-finding process any discriminatory belief or bias;
+(f)
+the
+risk that the evidence may unduly arouse sentiments of prejudice, sympathy or
+hostility in the jury;
+(g)
+the
+potential prejudice to the complainant’s personal dignity and right of privacy;
+(h)
+the
+right of the complainant and of every individual to personal security and to
+the full protection and benefit of the law; and
+(i)
+any
+other factor that the judge, provincial court judge or justice considers
+relevant.
+Section 276: Prior Sexual History
+[
+21
+]
+Section 276(2) provides that “evidence
+shall not be adduced by or on behalf of the accused that the complainant has
+engaged in sexual activity other than the sexual activity that forms the
+subject-matter of the charge, whether with the accused or with any other
+person”, unless the judge determines that the evidence:
+(a)
+is
+not being adduced for the purpose of supporting an inference described in
+subsection (1);
+(b)
+is
+relevant to an issue at trial; and
+(c)
+is
+of specific instances of sexual activity; and
+(d)
+has
+significant probative value that is not substantially outweighed by the danger
+of prejudice to the proper administration of justice.
+[
+22
+]
+The prohibited purposes described in subsection
+(1) are to support
+an inference that, by
+reason of the sexual nature of that activity, the complainant:
+(a)
+is
+more likely to have consented to the sexual activity that forms the
+subject-matter of the charge; or
+(b)
+is
+less worthy of belief.
+[
+23
+]
+Under s. 276(3), the judge must consider factors
+that are nearly identical to those enumerated in s. 278.92(3).
+[
+24
+]
+Relevant to our purposes, subsection (4)
+provides that sexual activity “includes any communication made for a
+sexual purpose or whose content is of a sexual nature”.
+[
+25
+]
+The procedure to be followed is the same as that provided for by the
+s. 278.92 admissibility regime: s. 278.93(4).
+[
+26
+]
+As indicated above, the only records that remain
+in issue are Exhibits 1 and 3 to the defence application. The Crown and
+Complainant oppose their admissibility. They argue that the probative value of
+the records does not outweigh the prejudice that would be occasioned by
+admitting them.
+The Subject Records
+[
+27
+]
+Exhibit 1 to the defence application is one page
+of Signal messages exchanged between the Applicant and the Complainant shortly
+before meeting that same day. The Applicant writes that he knows the
+Complainant is nervous but not to worry, they will go slow; he wants the
+Complainant to be comfortable and he can “say stop any time”. He adds that the
+Complainant should just come, and they’ll have lunch, adding “And if you want
+to I’ll Uber you home any time.”
+[
+28
+]
+The day after the encounter, further messages
+were exchanged. The defence seeks to make use of an excerpted portion of the
+messages, identified as Exhibit 3 to the application.
+[
+29
+]
+These include a message from the Applicant to
+the Complainant that states: “Ok, I’m sorry. We set up the green, yellow, red;
+do you want to try something different?”. The Complainant responds that he
+doesn’t know if he wants to meet. The Applicant goes on to state that he would
+like to spend time together, “dress you up and explore what you want to. But I
+want you to be happy, and in control. So I’ll do whatever you want to feel that
+way.” He asks the Complainant what he thinks and goes on to indicate that he
+doesn’t want to pressure him.
+[
+30
+]
+Given the fact that the bulk of the messages – and
+certainly the ones of import to the defence – are the Applicant’s own words, one
+might question whether the Complainant can have a reasonable expectation of
+privacy in those words. I do not however deem it necessary to address this
+point here and will treat these words as part of a broader conversation between
+the Complainant and the Applicant that may well engage the Complainant’s
+privacy interest, given my ultimate conclusion that these messages can be used
+at trial.
+[
+31
+]
+The Applicant submits that these messages are
+relevant to the issue of consent. He relies on the Complainant’s initial
+statement that does not have the Complainant telling the Applicant to stop when
+the Applicant would try to penetrate him anally, even though he did say stop in
+respect of other sexual activity (at which time the Applicant proceeded to
+stop). The Complainant in his initial statement does describe saying it hurt on
+various occasions and pushing the Applicant’s penis out. But he also describes initially
+saying nothing and asking whether the Applicant had any STD and whether he
+should wear a condom. He also indicates that he asked the Applicant whether
+they can move to a more comfortable spot, that he conveyed he was not sure
+about the position, and that they “went at it” for a bit.
+[
+32
+]
+The Applicant seeks to put the subject messages
+to the Complainant to establish that they discussed how the Complainant might
+communicate that he was not comfortable participating in certain sexual acts –
+i.e. how he might withdraw consent, stop the activity, and leave at any time. As
+stated in the application, the messages would show that the parties
+specifically discussed “safe words to stop” or the “language that would be used
+to indicate a lack of consent”. The Applicant would argue that the Complainant
+did not use this language and chose not to leave “because he was consenting to
+the activities that took place in the apartment, including anal sex”: Defence
+application dated September 15, 2025, at paras. 1, 2 and 5.
+[
+33
+]
+But the Applicant’s primary position in respect
+of Exhibit 1 is that it does not engage s. 276, given that the messages are
+part and parcel of “the sexual activity that forms the subject-matter of the
+charge”. Though I heard from the parties before issuing an earlier oral ruling
+on this point, I will address this preliminary issue here given that defence
+counsel asked that it be reconsidered in light of more thorough submissions and
+additional context for the messages.
+[
+34
+]
+I also address a further preliminary issue
+relating to the Complainant’s waiver, which applies to both records under
+adjudication.
+PRELIMINARY ISSUE #1: Section 276’s Application
+to Exhibit 1
+[
+35
+]
+Exhibit 2, which is no longer a subject of the
+defence’s application, were messages that related more directly to the Applicant
+and Complainant’s sexual preferences for their planned encounter. Though the
+messages in Exhibit 1 relate more specifically to comfort and stopping the
+sexual activity being discussed, as opposed to sexual preferences, they formed
+part and parcel of this discussion relating to the parameters of the upcoming
+meeting.
+[
+36
+]
+Based on Justice Paciocco’s reasoning in
+Reimer
+,
+at paras.
+45 to 49
+, I ruled that these did not form part of the subject matter
+of the charge. As such, an application under s. 276 was required for them to be
+adduced at trial.
+[
+37
+]
+The records at issue in
+Reimer
+were also messages
+exchanged by the accused and complainant prior to the sexual encounter that was
+the subject of the charge. There, the complainant described or agreed with
+descriptions by Mr. Reimer of the sexual activity they intended to engage in:
+para. 20. The Court of Appeal considered whether proximate sexual activity that
+is not the immediate subject of the prosecution will fall outside the purview
+of s. 276: para. 45.
+[
+38
+]
+It concluded that although the “subject matter
+of the charge” will encompass “the entire specific factual event in which the
+allegedly criminal act occurred” and not only “the isolated and immediate
+sexualized physical act of the accused that is being prosecuted”, it “must be
+part of the specific factual events of which the offence is a component”: para.
+45. In
+Reimer
+, the earlier text messages were not part of “the specific
+factual events” that included the offending conduct.
+[
+39
+]
+Here, for instance, the specific factual events
+would capture the entire sexual encounter that unfolded at the Applicant’s
+residence on September 24, 2020, not merely the anal sex that is the subject of
+the charge. But does it capture messages sent shortly before the Complainant
+attended the Applicant’s home that same day?
+[
+40
+]
+Paciocco J.A. explained that “it is not enough
+for the uncharged sexual activity to be proximate in time and place to the
+allegedly criminal act of the accused… Nor is it enough that the uncharged
+sexual conduct is relevant to the charged event”: para. 46. In order “to
+bypass screening under s. 276, the uncharged sexual activity must be so ‘integrally
+connected, intertwined or directly linked to’ that activity – the
+actus
+reus
+of the specific charge – that it is effectively part of the
+transaction or event that is being prosecuted”: para. 46. See also
+R. v. Choudhary
+,
+2023 ONCA 467
+, at paras.
+29-33
+.
+[
+41
+]
+The messages in
+Reimer
+were found to be subject to the s.
+276 regime, on the basis that “the sexualized messages were exchanged before
+the parties came together. Those texts speak about the motel visit as a future
+event. … [They] are simply too remote in time and too distinct in nature from
+the charged events to avoid s. 276 scrutiny”: para. 49.
+[
+42
+]
+Exhibit 2 in the present case fell more clearly
+within these parameters. There is an argument to be made that, on its own,
+Exhibit 1 could be distinguished from
+Reimer
+on the basis that the
+messages do not constitute “other sexual activity” but rather form part of the
+subject-matter of the charge. The connection between this series of messages
+and the ensuing events, a very short while later, is indeed greater than in
+Reimer
+.
+It also appears that what was discussed is not as distinct in nature
+from the charged events than was the case in
+Reimer
+, though it is
+difficult to fully appreciate this at this stage of the proceedings.
+[
+43
+]
+And though the Exhibit 1 messages are
+about
+the anticipated sexual encounter that soon followed, unlike in
+Reimer
+, they
+are not sexualized in nature. But s. 276 applies to “any communication
+made for a sexual purpose”. And limits placed on sexual
+activity still engages the s. 276 regime, based on the reasoning in
+R. v.
+Kinamore
+,
+2025 SCC 19
+. At para. 64 of that case, Wagner C.J. found that
+“evidence that the complainant has not previously engaged in, or prefers not to
+engage in, any sexual activity, certain types of sexual activity, or sexual activity
+under particular circumstances” forms part of a complainant’s sexual history
+and is thus presumptively inadmissible.
+[
+44
+]
+In any event, I am not prepared to revisit my
+earlier ruling based on the arguments advanced and the withdrawal of Exhibit 2.
+Justice Paciocco made clear that “[p]revious sexual activity that is not
+the immediate subject of the prosecution should be characterized as other
+sexual conduct and vetted for admission under s. 276 unless it is clearly
+integrally connected, intertwined, or directly linked to the event being
+prosecuted. … ‘[I]f a judge harbours some reservations [about this] they should
+act with caution and proceed with a s. 276 analysis’”: para. 48. See also
+Choudhary
+,
+at para.
+33
+.
+[
+45
+]
+Having heard submissions on the merits of the s.
+276 application and given the parallels between Exhibit 1 and the messages at
+issue in
+Reimer
+, I will err on the side of caution and consider the
+application on its merits.
+PRELIMINARY ISSUE #2: The
+Complainant’s Waiver in Relation to the Section 278.92 Regime
+[
+46
+]
+Several decisions of the Ontario Superior Court
+of Justice have found that the defence is entitled to assume, in the absence of
+evidence to the contrary, that the Crown obtained waivers before disclosing any
+documents to which a privacy interest could attach: see
+R. v. McFarlane
+,
+2020 ONSC 5194
+(per Stribopoulos J.);
+R. v. J.K.
+,
+2021 ONSC 7604
+(per
+Schreck J.);
+R. v. Martiuk
+,
+2022 ONSC 5577
+(per Goldstein J.).
+[
+47
+]
+A waiver was indeed obtained in this case,
+though it was not initially in writing and its parameters were unclear. The
+written waiver that was subsequently obtained for the purpose of these
+proceedings states that the Complainant is only waiving his privacy rights in
+respect of disclosure to the accused, not use at trial, but he understands
+that some judges have interpreted a more limited waiver as being all
+encompassing, such that the document can be used without the need for an application.
+[
+48
+]
+The above cases stand for the proposition that where
+there is a waiver, or it can be presumed based on disclosure and the absence of
+evidence to the contrary, no application under s. 278.92 of the
+Code
+is
+required. That is because the privacy interest in the documents is no longer
+such that they constitute a record under s. 278.1.
+[
+49
+]
+Justice MacFarlane however took a different
+position in
+R. v. Gallan
+,
+2024 ONSC 5338
+, based on the fact that
+McFarlane
+and
+J.K.
+had been rendered prior to the Supreme Court’s decision in
+J.J.
+,
+and that
+Martiuk
+had merely followed these earlier decisions.
+Gallan
+found that there must be an express waiver not merely as it relates to
+disclosure to the accused, but “of the specific protections of the
+Code
+pertaining
+to the admissibility of records”: para. 15. The Crown urges me to follow
+Gallan
+.
+[
+50
+]
+I do not need to resolve which of these two
+lines of cases I should follow. Given the principles set out in
+R. v.
+Pringle #7
+,
+2024 ONSC 4084
+, the result in my view would be the same.
+[
+51
+]
+In that case, Molloy J. deemed herself bound by
+the decisions in
+McFarlane
+,
+J.K.
+and
+Martiuk
+:
+Pringle
+#7
+, at paras.
+9 and 53
+. However, in that case, the written waiver signed by
+the complainant specifically referenced disclosure to the accused and stated
+that the complainant’s privacy rights remained protected by s. 278.92, and that
+the accused would need to apply to the court before making use of the records
+at trial: para. 13. Though the defence was therefore initially entitled to
+assume, based on the disclosure, that no application was required, Molloy J.
+deemed the wording of the waiver to be “evidence to the contrary”, such that an
+application was required: paras. 53 and 66.
+[
+52
+]
+In the present case, apparently accounting for
+Molloy J.’s comments in
+Pringle #7
+, the written waiver also states that
+the Complainant is only waiving his privacy rights in respect of disclosure to
+the accused, but effectively notes that this may be interpreted as a broader
+waiver despite the indication that the Complainant maintains his privacy
+interest as it relates to use of the document at trial.
+[
+53
+]
+This language allows for a more informed waiver
+than was the case in
+Pringle
+, but it is questionable whether it conforms
+to the Crown’s duty under s. 278.2(2). It is also not particularly helpful in
+resolving the issue flagged by Molloy J. at para. 66 of her decision. There, Molloy
+J. found that the waiver was not fully informed because the Crown advised the
+complainant that they were “waiving their privacy rights under s. 278.2(2) (not
+278.1) and that this [did] not mean the material
+disclosed [would] be admissible at trial without an admissibility hearing.”
+Molloy J. questioned why the Crown would continue to advise the complainants in
+this manner after
+J.K.
+and
+Martiuk
+.
+[
+54
+]
+In this case, the Complainant is at least aware
+that disclosure of the document to the accused may mean that use can be made of
+it at trial. While it would certainly have been preferable to canvass a full
+waiver with the Complainant, I am inclined to view the waiver obtained as significantly
+diminishing if not extinguishing any expectation of privacy the Complainant may
+still have in the communications.
+[
+55
+]
+In
+R. v. McKnight
+,
+2019 ABQB 755
+, at
+paras.
+39-44
+, the Alberta Queen’s Bench found that a complainant maintains a
+reasonable expectation of privacy in written communications turned over to the
+Crown where the Crown subsequently decides to disclose them to the accused
+(without any waiver). However, the Court also held, at para. 43, that there is
+no such expectation of privacy where the complainant discloses them to both the
+Crown and the accused – in that context, at the preliminary inquiry:
+Fairness must require that if a
+Complainant is willing to release information in order to further a criminal
+prosecution, then the Accused should be entitled to use the information in the
+preparation of his defence:
+Mills
+at para
+106
+. Therefore, I find that a
+Complainant no longer has any reasonable expectation of privacy in the
+electronic communications which she turned over at the preliminary inquiry.
+[
+56
+]
+Here, the messages were voluntarily provided to
+the police, with the expectation and agreement that they be turned over to the
+accused. This is unlike a circumstance where the complainant disclosed the
+documents to the police or the Crown, with no clear understanding that that
+would mean disclosure to the accused, and potentially admission at trial.
+[
+57
+]
+Still, what was provided is not a full waiver. Like
+in
+Pringle
+, it is explicit that the Complainant is not waiving his
+rights as it relates to the use of the messages at trial. There, this constituted
+“evidence to the contrary” requiring an admissibility hearing under s. 278.92.
+[
+58
+]
+On that basis and given the line of cases that find
+that the admissibility provisions must be explicitly waived for no hearing to
+be held, I take the partial waiver as constituting “evidence to the contrary”
+such that an application under s. 278.92 is required.
+[
+59
+]
+The defence argues that this waiver was not
+provided along with disclosure of the messages and other documents provided by
+the Complainant to the police. As such, it was entitled to assume that there
+was a waiver and no application was required.
+[
+60
+]
+Just as was the case in
+Pringle
+, I agree
+that the defence was entitled to assume, based on the disclosure, that no application
+was required. As stated by Molloy J., the defence should certainly be informed
+of any waiver and the scope of any waiver at the time disclosure is made: para.
+66. That would enable defence counsel to assess its scope, whether there is any
+“evidence to the contrary”, and accordingly, whether an application should be
+brought. Without this information, the defence is entitled to assume waiver. This
+would avoid later delays and wasted expense should that assumption turn out to
+be inaccurate.
+[
+61
+]
+However, this does not mean that the waiver
+presumption cannot be rebutted. In
+Pringle #7
+, the written waiver was
+also not disclosed earlier to the defence – it was only provided to the defence
+during the records proceedings: see paras. 7, 9 and 66. Despite that being the
+case, Molloy J. found that this established “evidence to the contrary”, such
+that an application was required.
+[
+62
+]
+The same scenario arises here. Although the
+waiver is phrased differently, and the Complainant here was put on notice that
+the evidence may be deemed admissible even though he did not consent to
+admissibility at trial, ultimately, he explicitly does not purport to waive the
+application of the regime on this point. I will therefore turn to address the
+application on its merits.
+EXHIBIT 1: Admissibility under ss.
+276 and 278.92
+[
+63
+]
+The defence relies on the reasoning in
+Reimer
+to submit that the Signal chats filed as Exhibit 1 are relevant to the issue of
+consent. It argues that their relevance does not derive from any prohibited
+reasoning or the sexual nature of the texts. In its submission, the messages
+“specifically provide for the Complainant to withdraw consent, stop any
+activity (sexual or otherwise), and leave the premises at any time he desires”,
+yet “[d]espite being advised that all he had to do was ask for the activity to
+stop, [the Complainant] never asked”, thereby making
+them relevant to cross-examination on the issue of consent: Defence application
+dated September 15, 2025, at paras. 6 and 8; Defence application dated
+September 22, 2025, at para. 10.
+[
+64
+]
+In other words, the Applicant would use the
+messages to show that he had specifically conveyed to the Complainant that he
+could take any of these avenues should he not feel comfortable or not wish to
+take part in any of the sexual activity. If the Complainant did not resort to
+any of these avenues that he had specifically provided for, the defence would argue
+that that is because the Complainant was in fact consenting to the activity at
+the relevant time. Or, at least, that the Crown will not have proved lack of
+consent beyond a reasonable doubt.
+[
+65
+]
+The Complainant acknowledges that he has a reduced
+expectation of privacy in the messages given that he voluntarily gave them to
+the police and preserved them over the years, with the express purpose of
+supporting his claim of sexual assault. He also acknowledges that the prejudice
+to his personal dignity is minimal given that the specific text exchange is not
+salacious and does not discuss specific sexual acts: Complainant’s Response, at
+paras. 27-28.
+[
+66
+]
+However, the Complainant argues that “the
+probative value in resolving the issue at trial (consent) and the potential
+misuse of the proposed evidence in encouraging bias and reasoning prejudice …
+results in an out-sized danger to the proper administration of justice”:
+Complainant’s Response, at para. 29.
+[
+67
+]
+In particular, the Complainant argues that “[t]he
+admission of the text exchange could result in the trier of fact improperly
+thinking that the Applicant would have acted in the way he said he was going to
+act in the text exchange, without the benefit of hearing his version of events
+subject to the rigors of cross-examination” should the Applicant not testify, which
+might be expected given that he has not conceded identity: Complainant’s
+Response, at para. 25.
+[
+68
+]
+If the Applicant does testify, the Complainant further argues
+that the admission of the text messages would run afoul of the evidentiary rule
+against oath helping or prior consistent statements: Complainant’s
+Response, at para. 24.
+[
+69
+]
+But my understanding of the use to which the Applicant seeks to
+put the messages is not, as counsel to the Complainant contends, “as evidence
+that in the moment he was prepared to stop if the Complainant indicated a lack
+of consent”: Complainant’s Response, at para. 22. It is
+to put to the Complainant that, considering this exchange, if he did not
+consent to the sexual activity in the moment, he would have availed himself of one
+of the “outs” that the Applicant had expressly laid out for him.
+[
+70
+]
+Of course, it is always open to a person to stop or refuse sexual
+activity at any time – this does not have to be expressed by the accused to
+make it an available option. And despite these options being available, victims
+of sexual assault do not always resort to them, be it because of shock,
+intimidation, incapacity, or any number of reasons. The Complainant may well fully
+explain why he did not resort to these avenues, if he in fact did not.
+[
+71
+]
+But the issue here is the
+relevance
+of the fact that the Applicant had, just prior to the encounter, indicated that the
+sexual activity could cease at any time should the Complainant make it known
+that this is what he wished, by means of certain avenues being made readily
+available to him. The tenor of the Complainant’s initial statement, which was
+filed as part of this application, is that although he initially communicated
+to the Applicant that he was not comfortable with a particular sexual act or
+wanted it to stop, he did not feel comfortable doing so and did not do so once
+the Applicant began engaging in anal sex.
+[
+72
+]
+In this context, the Signal messages can serve
+to challenge the Complainant on whether he consented to this sexual activity. The
+Applicant may use them to suggest to the Complainant that he knew the Applicant
+was receptive to stopping the sexual activity at any time, that he could simply
+state as much, or ask to leave at any time, and he would be free to go, and
+that the fact that he did not do so is because he consented to that sexual
+activity. I deem the evidence relevant for this purpose, which goes to the
+central issue at trial: whether the Complainant consented to anal sex.
+[
+73
+]
+This purpose does not engage twin myth
+reasoning. It is not being adduced to support
+an
+inference that,
+by reason of the sexual nature of that activity
+(the earlier
+communications), the Complainant
+is more likely to have consented
+to the sexual activity that forms the subject-matter of the charge (the anal
+sex), or is less worthy of belief: see, in that regard,
+Reimer
+, at para.
+75
+.
+[
+74
+]
+Nor does it rest on any discriminatory
+belief or bias. I also do not see a risk that the
+evidence may unduly arouse sentiments of prejudice, sympathy or hostility even
+if this were a jury trial, which it is not. And as acknowledged by the
+Complainant, the potential prejudice to his personal dignity and right of
+privacy is minimal. I note again that most of the exchange in question
+comprises the Applicant’s own words, not the Complainant’s. I therefore do not
+believe that permitting the use of this evidence undermines society’s interest
+in encouraging the reporting of sexual assault offences.
+[
+75
+]
+On the other hand, there is a reasonable prospect that the
+evidence will assist in arriving at a just determination in the case. The
+interests of justice, including the right of the accused to make a full answer
+and defence, weighs in favour of permitting the evidence to be used.
+[
+76
+]
+The tests set out in ss. 276(2) and 278.92(2)
+are met. The evidence in my view has significant probative value that is
+not substantially outweighed by the danger of prejudice to the proper
+administration of justice.
+[
+77
+]
+Counsel for the Complainant says that there was
+a further discussion, following this message exchange, where he made clear that
+he did not want anal sex. This would certainly be relevant to any defence of
+mistaken belief in consent. And it is relevant to whether he did in fact
+consent to this activity or not. But it is not decisive of the issue of whether
+he subjectively consented in the moment and does not take away from the
+relevance of the messages. Naturally, the determination of relevance cannot
+presuppose which version of events the trier of fact will accept.
+[
+78
+]
+Of course, the messages – or the fact that the
+Complainant would not have said stop or tried to leave – are similarly not determinative
+of the issue of consent. But that is not the test. They need only be relevant
+to an issue at trial:
+Reimer
+, at paras.
+69 and 71
+.
+[
+79
+]
+The messages in Exhibit 1 can therefore be put
+to the Complainant to suggest actual consent at the relevant time.
+[
+80
+]
+Counsel to the Complainant points to the fact
+that the Applicant has taken one portion of the messages out of the context of
+the larger text exchange. Given the purpose of the regime which incentivizes
+the narrow admission of evidence of prior sexual activity, I do not think
+counsel can be faulted for excerpting only those portions that are of clear
+relevance to the defence. Certainly, if they are out of context, the
+Complainant can state as much in response to any questions asked in relation to
+the messages. And additional messages can be reviewed and deemed relevant to
+enable the Complainant to respond. But this does not undermine the adjudication
+of the admissibility of the select messages that I have before me.
+EXHIBIT 3: Admissibility under s.
+278.92
+[
+81
+]
+Exhibit 3 relates to Signal messages exchanged
+between the Applicant and the Complainant the day after the alleged sexual
+assault. They include an apology and reference by the Applicant to a system of
+“green, yellow, red” that they would have set up. There are further expressions
+by the Applicant of the fact that he wants the Complainant to be “happy, and in
+control”, and that he will “do whatever [the Complainant wants] to feel that
+way”. The only message from the Complainant is one where he expresses that he
+doesn’t know if he wants to meet.
+[
+82
+]
+The defence takes the
+position that these messages do not constitute a “record” under s. 278.1 such
+that the s. 278.92 regime is not engaged. As indicated above, this issue was initially
+left for later determination, once the position of the Complainant was
+obtained.
+[
+83
+]
+The Complainant and Crown take the position that Exhibit 3 is a
+record, and that it does not meet the test for admission given that its prejudice
+exceeds its probative value.
+[
+84
+]
+The Court in
+J.J.
+provided a framework for assessing whether
+material qualifies as a non-enumerated record that must be vetted under the
+record screening regime. I should consider both the content and context of the
+record:
+J.J.
+, at para.
+55
+.
+[
+85
+]
+J.J.
+directs judges, when assessing context, to “apply a
+normative and common-sense approach. Whether a communication or document is a
+‘record that contains personal information for which there is a reasonable
+expectation of privacy’ must reflect societal understandings about the
+fundamental right to be free from unwanted intrusion into our personal lives”:
+para. 57.
+[
+86
+]
+Pursuant to
+J.J.
+, at paras.
+58-60
+, three non-exhaustive
+factors should be considered in assessing context:
+(1)
+the reason why the complainant shared the private information in
+question;
+(2)
+the relationship between the complainant and the person with whom the
+information was shared; and
+(3)
+where the record was shared and how it was created or obtained.
+[
+87
+]
+As explained in
+J.J.
+, at para.
+76
+, “[w]hether a person
+reasonably expects privacy is necessarily a normative question that is to be
+answered in light of the norms of conduct in our society”. Ultimately,
+“[e]xpectations of privacy are contextual and must be assessed in light of the
+“totality of the circumstances”:
+J.J.
+, at para.
+76
+.  Information that is
+not highly sensitive or highly personal will attract a lesser degree of
+privacy:
+J.J.
+, at paras.
+45, 53
+.
+[
+88
+]
+The messages here are one-on-one communications between the
+Complainant and the Applicant. They were created in the private domain. The fact of an adversarial relationship between them, as reflected by
+these criminal proceedings, does not serve to undermine any reasonable
+expectation of privacy in the records:
+J.J.
+, at para.
+62
+;
+R. v. T.A.
+,
+2020 ONSC 2613
+, at paras.
+26-31
+.
+[
+89
+]
+Still, as set out above, the Complainant
+acknowledges that he has a reduced expectation of privacy in the messages given
+that he preserved them and voluntarily provided them to the police, for the
+purpose of supporting his claim of sexual assault. He also waived disclosure of
+the messages to the Applicant for this purpose. Like Exhibit 1, the exchange is
+not salacious and the prejudice to the Complainant’s personal dignity is
+minimal.
+[
+90
+]
+Moreover, all but one of the messages in the
+single page of the Signal Chat relied on are from the Applicant. They largely
+bear on the Applicant’s own preferences and wishes, and do not contain personal
+information about the Complainant. The only message from the Complainant is about
+not being sure he wants to meet. This is not information of a personal nature.
+As stated in
+J.J.
+, at para.
+53
+, “the scheme is not intended to catch
+more mundane information, even if such information is communicated privately.”
+[
+91
+]
+In my assessment, based on both context and
+content, Exhibit 3 does not “contain information of an
+intimate or highly personal nature that is integral to the complainant’s
+overall physical, psychological or emotional well-being” or that “will have
+implications for the complainant’s dignity”. As such, it does not constitute a record under s. 278.1 of the
+Code
+. No application under s. 278.92 was therefore required and the
+defence is permitted to make use of Exhibit 3 at trial.
+[
+92
+]
+In any event, and should I be mistaken about
+Exhibit 3 not being a record, the message that I understand the Applicant
+wishes to rely on is the one relating to the “green, yellow, red” system. The
+relevance of this message is the same as those in Exhibit 1. While this message
+post-dates the events at issue, it is written in the past tense. Clearly, the
+implication is that this system was discussed in advance of the alleged sexual
+assault. I understand that the defence intends to put this to the Complainant
+for the same purpose as described above. I would
+therefore have found, based on the reasoning above related to Exhibit 1, that
+its probative value is also sufficiently significant to outweigh any prejudice
+that may result from its use.
+[
+93
+]
+In some contexts, evidence relating to the
+subject-matter of the allegation will constitute a record under s. 278.1.
+Indeed, as set out in
+J.J.
+, at paras.
+65-67, 71
+, explicit communications
+that relate to the subject matter of the charge will often attract a reasonable
+expectation of privacy. But this communication is not, as acknowledged by the
+Complainant, explicitly sexual or salacious in nature.
+[
+94
+]
+Again, if the Complainant requires additional
+messages to place these in context, that will not offend the provision. The
+defence seeks to rely on the messages for a particular purpose. If the Complainant
+would benefit from surrounding messages, that would not change the defence’s
+purpose, and it can certainly be accommodated.
+Conclusion
+[
+95
+]
+The Applicant may make use of Exhibit 3 to its application.
+It may also make use of Exhibit 1 for the purpose described above.
+Released:  October 29, 2025
+Signed:
+Justice Mainville
