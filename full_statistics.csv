@@ -1,0 +1,26 @@
+Metric,Value
+Total Cases Analyzed,390
+Cases with Duration Data,281
+Match Rate (%),72.1
+,
+Mean Duration (days),50.3
+Median Duration (days),26.0
+Std Dev Duration,97.2
+Duration Range,0 - 986
+,
+Mean Complexity Score,0.0294
+Mean Citations,47.8
+Mean Conversions,25.6
+Mean Word Count,2858
+,
+r: Duration vs Conversions,0.119
+p-value,0.0469
+Significance,YES (p<0.05)
+,
+r: Duration vs Complexity,-0.092
+p-value,0.1220
+Significance,NO
+,
+r: Duration vs Citations,-0.015
+p-value,0.8046
+Significance,NO
