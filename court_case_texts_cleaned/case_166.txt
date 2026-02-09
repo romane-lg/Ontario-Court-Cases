@@ -1,0 +1,573 @@
+ontario court of justice
+citation:
+r. v. wickham
+, 2025 oncj 461
+date:
+2025 09 05
+court
+file no.:  newmarket 4911-998-24-91110589-00
+between:
+his
+majesty the king
+— and
+—
+leon stanley wickham
+before
+justice michael perlin
+heard
+on july 16, august 7, and september 4, 2025
+reasons
+for judgment released on september 5, 2025
+lindsay young.................................................................................... counsel
+for the crown
+the defendant leon wickham...............................................................
+on his own behalf
+perlin j.:
+a.
+overview
+leon wickham is charged with assault. he represented himself at trial.
+there were three crown witnesses: marika edwards; michael green; and david
+velaapin. mr. wickham chose not to testify or call other defence evidence. on
+the day judgment was to be delivered, mr. wickham applied to re-open his cross-examination
+of ms. edwards. the crown consented and i allowed further cross-examination.
+ms. edwards is the complainant. she and her ex-husband own a large
+residential property in richmond hill, which mr. wickham leases and lives in.
+ms. edwards was notified by the city of richmond hill that it had
+detected a continuous water flow on the property, which may have been
+indicative of a water leak. on november 14, 2024, she attended the property
+with mr. green and mr. velaapin, two plumbers whom she had hired to investigate
+the issue.
+the evidence of all three witnesses was consistent that ms. edwards
+knocked and rang the doorbell. after receiving no answer, ms. edwards used a
+key to unlock the door and enter. while the witnesses’ evidence varied on
+precisely what happened next, they agreed that while ms. edwards was in the
+process of entering, mr. wickham (whom they all identified in court) loudly
+confronted her and used his hands to push her out. there has been no suggestion
+that this was consensual. whether this conduct is a criminal assault depends on
+the application of the defence of property in
+s. 35
+of the
+criminal code
+,
+r.s.c. 1985, c. c-46.
+b.
+issues
+to determine whether mr. wickham has a valid defence under
+s. 35
+, i will
+(1) make findings of fact, (2) discuss general principles regarding the defence
+of property, and (3) discuss the application of each of its four elements.
+c.
+analysis
+1.
+factual findings
+ms. edwards testified that she attended the property after providing
+proper notice. (i will discuss the notice issue later in these reasons.) she
+met the plumbers. they investigated the water issue in a second unit at the
+property, not occupied by mr. wickham’s family. next, she attended mr.
+wickham’s unit. she rang the doorbell and knocked. she unlocked the door,
+yelled “hello” several times and entered. she recalls putting her key in her
+pocket and turning to the plumbers who were behind her, still outside the front
+door. she was three or four feet inside when she found mr. wickham in her face
+yelling “get out”. she testified that mr. wickham’s son tried to shut the door
+and that mr. wickham shoved her several times toward the door. he turned her around
+and shoved her “super hard” on her back, expelling her from the property. he
+closed the door.
+some things became clear during ms. edwards’ testimony—particularly
+during cross examination by mr. wickham and in further cross-examination when
+she was recalled. the landlord-tenant relationship between them has become
+highly acrimonious. ms. edwards disagrees with mr. wickham on many issues
+relating to the tenancy. she expressed frustration with what she believes to
+have been thwarted, legal efforts to manage the property while mr. wickham has
+resided in it. in her evidence, including when she was recalled, she referred
+to ongoing proceedings in other forums relating to the property. many of these
+issues fall far beyond the scope of these proceedings. i do not need to resolve
+them and do not have an evidentiary record to do so.
+the acrimonious relationship is relevant in that it gives me reason to
+be cautious about ms. edwards’ evidence. in light of the issues between mr.
+wickham and ms. edwards, the crown and mr. wickham both urge me to rely on the
+evidence of mr. green and mr. velaapin. neither witness had any relationship of
+any significance with either ms. edwards or mr. wickham. they are independent
+and have no apparent reason to mislead the court.
+mr. green testified that the whole altercation took “a minute or less”.
+ms. edwards,
+knocked three times, rung [
+sic
+] the doorbell a few
+times, and then, once […] there was no luck with that, she, uh, attempted to
+enter. used the key. uh, she put one foot in, as soon as she got to the
+doorway, then she met, um, she met leon, i believe, uh, mr. wickham, and he
+just, as soon as she went in, he just pushed her out. that was just basically
+it. she kind of fell backwards into me.
+mr.
+green had been standing behind ms. edwards. he testified that mr. wickham
+"seemed a bit excited" saying "you're not supposed to be doing
+that". he recalled hearing, "[y]ou did not give notice. you can't
+come in here. are you crazy?" he recalled after “the shoving”, hearing mr.
+wickham say, “this is not right”. he recalled ms. edwards “was in shock maybe”.
+mr.
+velaapin testified that ms. edwards rang the doorbell three times and knocked
+on the door three times. she then used her key and announced her presence. he
+testified that “[w]hen she opened the door [mr. wickham] kinda shouted at her
+to get out of the house. that's when there were a few segments of struggling.
+and then she was just pushed out."
+mr.
+wickham argues that i should reject ms. edwards’ evidence because it is
+inconsistent with the evidence of mr. green and mr. velaapin in some respects.
+for example, she testified that she entered three or four feet into the home.
+mr. green testified she only entered about one foot. mr. velaapin disagreed
+with aspects of ms. edwards’ account.
+i
+am not persuaded that any inconsistencies between their evidence are significant
+or undermine ms. edwards’ credibility. all three witnesses provided varying
+accounts on precisely what happened. this is not surprising, as they were each
+asked—in different ways—to parse the details of an exceedingly short
+interaction that occurred about eight months earlier. i do not find that the
+variations undermine the credibility or reliability of their overall accounts.
+i
+accept the evidence of all three witnesses on the points on which they agree.
+first, ms. edwards rang the doorbell and knocked on the door. second, she was
+in the process of entering when mr. wickham confronted her. third, mr. wickham
+used his hands to push ms. edwards out of the home. fourth, in the very brief time
+surrounding the pushing, mr. wickham made various utterances: like “get out”
+(as ms. edwards and mr. green recalled) or “get the fuck out” (as mr. velaapin
+recalled), "[y]ou did not give notice. you can't come in here. are you
+crazy?" (as mr. green recalled), and “this is not right” or “you’re not
+supposed to be doing that” (as mr. green recalled).
+further,
+i accept the evidence of mr. green that the pushing expelled ms. edwards from
+the home causing her to fall back into mr. green, who was standing behind her
+when all this occurred. this evidence is consistent with ms. edwards’
+description of a final, forceful shove that expelled her from the property. mr.
+velaapin did not describe this event. he also did not suggest it did not occur.
+mr.
+wickham asks the court to conclude that ms. edwards was an equal aggressor in
+this interaction. he submits that in cross-examination mr. velaapin described
+ms. edwards trying to push the door open while the accused pushed back against
+the door. in mr. wickham’s submission, mr. velaapin’s evidence depicted ms.
+edwards physically resisting mr. wickham’s efforts to expel her.
+having
+listened carefully to mr. velaapin's recorded evidence, i do not understand him
+to have described a struggle in which ms. edwards was an aggressor, actively
+resisting mr. wickham's efforts to expel her. i do not understand mr. velaapin
+to have suggested that ms. edwards pushed on the door, appearing to know that
+someone else was on the opposite side.
+rather,
+i understand him to have testified that ms. edwards was leaning on the door
+simply to enter, at which point she faced resistance – the accused or his son
+pushing back against the door and then the accused pushing her body with his
+hands. mr. velaapin testified that he observed mr. wickham "trying to, uh,
+put her out of the house, firstly pushing the door." i do not understand
+mr. velaapin to have suggested that ms. edwards, upon facing resistance,
+responded with force of her own. mr. velaapin testified that at that point he
+heard mr. wickham tell ms. edwards, "just to get out of the house".
+he described ms. edwards' response to mr. wickham's initial efforts to expel
+her: she "was still trying to remove the key and just trying to remove her
+feet from where she was in the door and the outside". she was able to do
+that "after you kind of push her".
+elsewhere
+in his evidence, mr. velaapin described a "struggle". mr. wickham
+pointed to this as evidence that ms. edwards was an aggressor. i reject that
+interpretation of the evidence. i understand mr. velaapin to have used the word
+"struggle" as a synonym for "altercation", without
+intending to suggest that the altercation involved two mutual aggressors.
+elsewhere in his evidence he described what he meant by "struggle".
+he testified that when ms. edwards "opened the door [you, mr. wickham]
+kinda shouted at her to get out of the house. that's when there were a few
+segments of struggling. and then she was just pushed out." he explained,
+"the struggling was like trying to push her out […] the door. and then she
+was like pushed with the hands."
+in
+any event, if i am wrong and there is any ambiguity in mr. velaapin's evidence
+and whether it suggests ms. edwards was also an aggressor, the record contains
+the evidence of mr. green, describing mr. wickham as the only aggressor and ms.
+edwards as simply a recipient of that aggression. i accept this unambiguous
+description of the events to be true. i reject mr. wickham’s suggestion that
+the evidence shows ms. edwards was an aggressor. the evidence does not raise any
+doubt on that issue.
+2.
+the defence of property
+the defence of property is found in
+s. 35(1)
+of the
+criminal code
+.
+it provides a complete defence to an offence where
+i.
+the accused believes “on reasonable grounds that
+they are in peaceable possession of property”,
+ii.
+the accused believes “on reasonable grounds that
+another person […] is about to enter, is entering or has entered the property
+without being entitled by law to do so”,
+iii.
+the “act that constitutes the offence” was
+“committed for the purpose of […] removing that person from the property” and
+iv.
+the “act committed” was “reasonable in the
+circumstances”.
+i
+am satisfied that the defence of property has an air of reality in this case
+and i must consider it. the air of reality test is satisfied where “there is
+evidence on the record upon which a properly instructed jury acting reasonably
+could acquit”: see e.g.,
+r. v. edowen
+,
+2021 onsc 2157
+, at paras.
+16-18
+. as
+i will explain, two elements of the defence are clearly satisfied, and there is
+a live dispute whether the others are satisfied. the defence is in play.
+once
+the defence is in play, mr. wickham, as the accused, has no burden of proof. his
+defence will succeed unless the crown discharges its burden of proof. the crown’s
+burden is to prove beyond a reasonable doubt that at least one element of the
+defence is absent: see e.g.,
+r. v. khill
+,
+2021 scc 37
+, at para.
+18
+.
+3.
+elements 1 and 3: peaceable possession and defensive purpose
+the
+crown concedes it cannot prove the first and third elements are absent. i
+agree.
+although
+mr. wickham did not testify, i accept he believed on reasonable grounds that he
+was in peaceable possession of the property. the trial record includes emails
+and text-messages between ms. edwards and a phone number and email address she
+used to correspond with mr. wickham. the email address is in his name. the
+email signature refers to the phone number with which ms. edwards was
+corresponding. i find that he authored, or was at least aware of, the
+correspondence purportedly from him. the text messages to ms. edwards assert
+mr. wickham’s right to “[q]uiet enjoyment” of the property. his subjective
+belief that he had peaceable possession of the property was objectively
+reasonable. he and his family, as tenants, enjoyed statutory rights to privacy
+and “reasonable enjoyment of the rental unit”: see
+residential tenancies
+act, 2006
+, s.o. 2006, c. 17, ss. 22,
+25
+.
+the
+third branch of the defence is a defensive purpose – i.e.
+,
+that the
+offence (here, the alleged assault) was committed to prevent entry of, or remove,
+an intruder. i accept mr. wickham applied force to remove ms. edwards from the
+property, which she had entered or was at least in the process of entering. his
+utterances to ms. edwards that she “get out” or “get the fuck out” and his actions
+in pushing her out show his intention was to expel a person he believed was an
+intruder.
+4.
+element 2: reasonable belief of no lawful authority to enter
+a
+landlord’s authority to enter a tenanted property with notice is found in s. 27
+the
+residential tenancies act
+. in part, s. 27(1) provides that “[a]
+landlord may enter a rental unit in accordance with written notice given to the
+tenant at least 24 hours before the time of entry […] [t]o carry out a repair
+or replacement or do work in the rental unit.” subsection 27(3) specifies that
+“[t]he written notice under subsection (1) […] shall specify the reason for
+entry, the day of entry and a time of entry between the hours of 8 a.m.
+and 8 p.m.” subsection 191(1) provides that “[a] notice or document is
+sufficiently given to a person” if it is delivered in various ways, including
+“(d) by leaving it in the mail box where mail is ordinarily delivered to the
+person” or “(e) if there is no mail box, by leaving it at the place where mail
+is ordinarily delivered to the person”. the act does not require that the
+notice be received for the notice to be effective.
+i
+am satisfied that mr. wickham subjectively believed ms. edwards lacked lawful
+authority to enter. although he did not testify, his utterances during the
+alleged assault suggest he subjectively believed ms. edwards was entering
+unlawfully: "[y]ou did not give notice. you can't come in here. are you
+crazy?"
+there
+are good reasons to question whether mr. wickham’s belief was objectively
+reasonable. a reasonable person in mr. wickham’s situation on november 14 would
+have expected ms. edwards to enter only if she had good reason to believe she
+was doing so lawfully. i accept ms. edwards’ evidence that she drafted a notice
+letter referrable to november 14 (exhibit 3) and believed it had been
+delivered. it was apparent from the various forms of correspondence that were
+exhibits at trial—including those she was cross-examined on when she was
+recalled—that ms. edwards was diligently trying to comply with the requirements
+of the act. she believed she needed to enter the property with plumbers and was
+trying to do so lawfully. in text messages, she told mr. wickham this letter
+had been left for him. they debated the effectiveness of serving notice in that
+manner. even if the notice was not received, a reasonable person in the
+circumstances informed of the law would have known that for notice to be
+effective, notice must be provided, but need not be received. the reasonable
+person would also know that ms. edwards was trying to comply with the law as
+she understood it. these factors undermine the objective reasonableness of mr.
+wickham’s belief that ms. edwards would enter without at least believing she
+had lawful authority.
+that
+said, i find that the crown has not proved beyond a reasonable doubt that mr.
+wickham’s belief that ms. edwards lacked lawful authority was objectively unreasonable.
+this is because the crown did not prove that the notice was given, so has not established
+ms. edwards had lawful authority to enter.
+a
+notice letter (exhibit 1) was initially provided to mr. wickham on november 2
+for a proposed november 9 entry with plumbers. in his text messages with ms.
+edwards on november 2 (exhibit 2), mr. wickham demonstrated knowledge of the
+letter’s contents, implicitly showing he had received it. however, ms. edwards
+did not attend on november 9. the letter providing notice of entry for november
+9 could not authorize her entry on november 14, when the alleged assault
+occurred. subsection 27(3) of the act requires that notice specify “the day of
+entry”.
+ms.
+edwards testified that a second notice letter—providing notice of entry for
+november 14 (exhibit 3)—was left outside the doorway to the rental property by
+either her or her ex-husband. she could not recall whether she or her ex-husband
+had delivered that letter. in a text message she sent to mr. wickham shortly
+after the letter was purportedly delivered, ms. edwards wrote “[a] letter has
+been dropped off to you”. the passive voice suggests that ms. edwards had not
+personally delivered the letter. in the text messages between the parties, ms.
+edwards sometimes referred to letters having been dropped off, and at other
+times refers to having personally delivered a letter: i.e.,
+“i left you
+a letter at your front door.”
+i
+cannot find that ms. edwards personally delivered the letter. she believed that
+if she did not deliver it, her ex-husband did. she did not explain why she held
+this belief. it would appear to be based on inadmissible hearsay. the crown called
+no other evidence to prove the letter was delivered.
+the
+crown points to the text exchange on november 8 after the letter was purportedly
+delivered. in it, ms. edwards told mr. wickham a letter had been delivered. he
+responded he “would not have received the letter” unless it was put in the
+mailbox. these texts do not prove the letter was delivered. ms. edwards’ text
+reflects her belief, potentially based on hearsay, that the letter had been
+delivered. in mr. wickham’s texts, it is apparent that he understood the letter
+to be about notice to enter the property. i do not take this an implicit
+admission to having received the letter: it would have been clear that the letter
+ms. edwards referenced was a notice letter, even without receiving it; the text
+messages on november 8 follow days of text messages back and forth about notice
+to enter. mr. wickham’s texts come close, but ultimately do not satisfy me that
+notice was provided.
+on
+this record, i cannot find that notice was provided. in the absence of notice,
+i cannot find there was lawful authority to enter. absent proof that there was
+lawful authority, i cannot say mr. wickham’s belief that there was no lawful
+authority was objectively unreasonable. this branch of the defence is
+satisfied. to be clear, i do not find his belief was objectively reasonable; i
+only find that the crown has not proven beyond a reasonable doubt that it was
+objectively unreasonable.
+having
+reached this conclusion, i need not address the arguments on whether the
+proposed manner of service (leaving a letter outside the front door) was
+sufficient or whether the purpose of ms. edwards’ entry (to investigate the
+water issue) provided a lawful basis for her to enter if notice was provided.
+5.
+element 4: was the force used reasonable
+in the circumstances?
+a.
+the
+reasonableness standard under s. 35(1)(d)
+the
+reasonableness standard is objective. the analysis is conducted from the
+perspective of a reasonable person in the circumstances of the accused, armed
+with the information known to the accused: see e.g.,
+r. v. fleming
+,
+2014
+oncj 26
+, at para.
+19
+;
+r. v. green
+,
+2017 oncj 705
+, at para.
+85
+. there is
+no closed list of factors that a court should consider in determining whether
+conduct in defence of property is reasonable under
+s. 35(1)
+(d). the provision
+directs courts to consider “the circumstances”, which i take to mean all
+relevant circumstances.
+when
+deciding which circumstances are relevant, it may be helpful to refer to the
+enumerated factors that a court must consider when applying the self-defence
+provision in
+s. 34
+of the
+criminal code
+. both ss. 34 and 35 include a
+requirement that “the act committed is reasonable in the circumstances.” in s.
+34—but not s. 35—parliament listed factors that a court must consider when conducting
+the reasonableness analysis.
+i
+do not understand parliament’s decision to omit a list of factors in s. 35 as a
+direction that courts may not consider the s. 34 factors in applying s. 35. parliament
+chose to make the factors mandatory only under s. 34, so needed to list them
+there, but not under s. 35. parliament clearly saw the factors as important
+indicators of whether defensive conduct is reasonable. although they are not
+mandatory under s. 35, a court may find them helpful when assessing whether a
+defensive purpose in relation to property can justify criminal conduct.
+i
+accept that necessity and proportionality of the accused’s response are important
+indicia of reasonableness. provisions like s. 35 have long been interpreted in accordance
+with the common-law principle that force used to defend person or property must
+be no more than necessary to defend and must not be disproportionate “to the
+injury or harm [the force] is intended to prevent”. when discussing provisions
+like s. 35, the supreme court has treated the concept of reasonable force as
+synonymous with both proportionality and necessity. see
+r. v. szczerbaniwicz
+,
+2010 scc 15
+, at paras.
+20
+, 21;
+r. v. baxter
+(1975),
+1975 canlii 1510 (on ca)
+, 27 c.c.c. (2d) 96
+(ont. c.a.), at p. 113;
+r. v. gunning
+,
+2005 scc 27
+, at paras.
+24-25
+;
+r.
+v. khill
+,
+2021 scc 37
+, at paras.
+62
+, 63;
+morris manning and peter
+sankoff,
+manning, mewett & sankoff: criminal law
+, 5th ed., at paras.
+14.63-64.
+i
+accept the crown’s submission that the court should consider other options open
+to the accused at the time. doing so helps to assess whether the option
+selected was necessary and proportionate. other options may include using less
+force, or even waiting before responding: see e.g.,
+r. v. trudeau
+,
+2017
+oncj 793
+, at para.
+95
+.
+the
+reasonableness standard does not require perfection. assessed in hindsight and outside
+the “stressful and dangerous situation” faced by an accused person, it might be
+easy to find alternative options or to say that the force used was excessive. recognizing
+this, our law provides that when defensive force is applied, it need not be
+weighed to a nicety and may be invoked based on reasonable mistakes of fact: see
+e.g.,
+szczerbaniwicz
+, at para.
+35
+,
+per
+binnie j. (dissenting, but
+not on this point);
+r. v. cunha
+,
+2016 onca 491
+, at paras.
+7-8
+, 24-27 (discussing
+s. 34). the s. 35 defence will succeed unless the crown proves beyond a
+reasonable doubt that the force used was not reasonable in the circumstances.
+b.
+was
+the force used reasonable in the circumstances?
+as
+noted above, the evidence disclosed a short sequence of events in which the
+complainant was in the process of entering the residence, and was perhaps only
+a foot past the threshold, when the accused yelled at her, demanded that she
+leave, and used his hands to push her out the door. he pushed her hard enough
+to cause her to fall back into mr. green.
+in
+deciding whether this response was proportionate, i have considered the threat
+ms. edwards posed. i find it was negligible. a reasonable person in mr.
+wickham’s shoes, with his knowledge, would have found no urgent need to expel
+her from the property immediately. mr. wickham and ms. edwards knew one
+another. i find based on mr. wickham’s utterances—“[y]ou did not give notice.
+you can't come in here.”—his unchanged, angry demeanour throughout their entire
+interaction on november 14, and his close proximity to her when he shoved her that
+he recognized ms. edwards as he began shoving her. their prior correspondence
+demonstrates he knew she wished to enter the property with plumbers to investigate
+a plumbing issue. he knew from the texts on november 8 that she took the view
+that she had provided proper notice to enter. a reasonable person in his
+situation with this knowledge would have perceived little if any threat: a
+landlord, known to him, who was entering to address a plumbing issue, albeit at
+an unexpected time (assuming the second notice letter was not received). there
+was no true threat to his property rights. there is no suggestion that ms.
+edwards or the men she was with were, or appeared to be, armed. a reasonable
+person would not have perceived that ms. edwards and the men meant to cause mr.
+wickham or his family any harm, meant to occupy, damage or steal from the
+property, or meant to displace mr. wickham’s family from it. a reasonable person
+would have expected ms. edwards and the plumbers to investigate the water
+issue, perhaps make repairs, and leave. assuming notice was not provided, at
+most, the intrusion involved a violation of the
+residential tenancies act
+by
+someone who would have the right to enter—even over mr. wickham’s express
+objections—simply by complying with the notice provisions of that act.
+mr.
+wickham emphasized that ms. edwards is taller than him. that may be so. but it
+does not undermine my conclusion that the threat she posed to mr. wickham was
+negligible. as noted above, i do not accept mr. wickham’s submission that the
+evidence suggests ms. edwards was the aggressor, applying physical force to try
+to enter the property over mr. wickham’s protests. i reject that interpretation
+of the evidence.
+the
+force used was more than necessary to address that threat. i am satisfied that
+there were other clear options open to mr. wickham that he should have taken
+before resorting to violence, even allowing for the fact that mr. wickham may
+have experienced stress, surprise and anger at seeing ms. edwards entering his
+home unexpectedly. a conversation was the logical first step. only if that
+failed should he have contemplated more aggressive actions. people should generally
+not be allowed to resort to physical violence to defend a very minor intrusion
+into real property without first at least trying to use words to resolve the
+situation.
+another
+option would have been to loudly protest ms. edwards’ entry and demand—even
+angrily—that she leave. mr. wickham did demand that ms. edwards “get out” or
+“get the fuck out”. however, he did so either immediately before, immediately
+after, or while pushing her. this was not a reasonable approach in the
+circumstances. at a minimum, upon demanding that ms. edwards leave, mr. wickham
+needed to give her reasonable time to do so before using physical force to
+expel her.
+going
+further and pushing her was unreasonable. i am satisfied that mr. wickham’s
+choice to forcefully push ms. edwards out of his home was entirely
+disproportionate to the negligible threat she posed.
+d.
+disposition
+people
+in canada enjoy the right to defend their real property from reasonably
+perceived unlawful threats, but only when they take reasonable steps to do so. on
+the facts of this case, the force used was a clearly disproportionate response
+to a negligible threat. i am satisfied beyond a reasonable doubt that it was
+unreasonable for mr. wickham to push ms. edwards forcefully out of the
+property.
+since
+i am satisfied beyond a reasonable doubt that mr. wickham did not use
+reasonable force in the circumstances, within the meaning of
+s. 35(1)
+(d), his defence
+under s. 35 fails. i find him guilty of assault.
+released:  september 5, 2025.
+signed:
+justice michael perlin
+considering my findings that ms. edwards was not an aggressor, there is no air
+of reality to the defence of person under s. 34(1). there was no air of reality
+that mr. wickham could have believed on reasonable grounds that force was being
+used against him or someone else, or that there was a threat of such force (s.
+34(1)(a)). there is no air of reality for a suggestion that the act of pushing
+was committed to defend mr. wickham or another person from force or a threat of
+force (s. 34(1)(b)).

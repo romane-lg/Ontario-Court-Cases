@@ -1,0 +1,438 @@
+citation:
+r. v. freedland
+, 2025 oncj 29
+date:  2025·01·17
+toronto
+region
+ontario
+court  of  justice
+between:
+his majesty
+the  king
+—
+and  —
+robert
+freedland
+before
+justice michael waby
+heard
+on 17
+th
+january, 2025
+reasons
+for judgment released on january 17, 2025
+s. hobson...................................................................................................................
+for the crown
+ms. freeland............................................................................................................
+for the accused
+waby m.:
+overview
+robert freedland is the respondent to an
+underlying section 117.05 application brought by the crown.  mr. freedland has
+brought an application for abuse of process with respect
+to the underlying section 117.05 disposition process and its accompanying
+hearing
+.
+the applicant before the court, mr.
+freedland seeks a stay of this proceeding based on an alleged abuse of process
+perpetrated by the crown.  the applicant alleges that by commencing this
+proceeding the crown has “reneged” on an agreement made at the end of the
+applicant’s preliminary hearing for 10 counts of conspiracy to kidnap and that
+the proposed section 117.05 hearing is motivated by malice on the part of state
+actors following his conviction being overturned by the court of appeal.  a new
+trial was ordered following which the crown stayed the charges.
+in the alternative, the applicant seeks an
+order assigning an “out of town” crown to take carriage of this proceeding.
+lastly, the applicant seeks an order to
+summons the empanelled jury for his original trial in 2018 to investigate what
+the applicant believes was an obstruction of justice that occurred during his
+trial.
+it is the crown’s submission that there is
+either no evidentiary basis or no legal basis to grant the remedies sought and
+the crown submits that these applications should be dismissed.
+this application was brought and argued
+before me this earlier today.  the following are my written reason for my
+decision on this application.
+summary
+given the particular history of this matter,
+a brief summary is of assistance.  in january of 2017, police searched the
+applicant’s residences and that of a mr. garvin james. in the latter search,
+police found a recently purchased mossberg shotgun.  it was registered to the
+applicant.  two further firearms, a sks rifle and a scorpio tactical shotgun,
+were found at the applicant’s property in kaladar, ontario.  these firearms
+were seized pending his trial and then re-seized as part of this application on
+september 26, 2023 by the toronto police service.  the crown seeks a forfeiture
+of them.
+mr. james and the applicant were
+subsequently charged with 10 counts of conspiracy to
+commit the indictable offence of
+kidnapping
+.  the applicant’s preliminary hearing took place
+in the summer of 2017.  at some point during this hearing, the parties came to
+resolution on what offences the applicant would be committed to trial in the
+superior court of justice.  that resolution stated, “
+in agreeing
+that
+committal would not be challenged it was agreed that there would not be any
+firearms
+charge added to the indictment- neither on committal or by the
+crown
+”.
+while a simplified three count indictment
+was later placed before the court, it did not include any firearms offences.
+during the applicant’s jury trial, mr. james
+testified the applicant purchased the mossberg shotgun and ammunition.  they
+were the given to mr. james to use in the kidnapping of 10 lawyers targeted by
+the applicant.  the applicant was found guilty of one count of counselling to
+commit extortion.
+on may 3, 2023, the court of appeal
+overturned the conviction and ordered a new trial.  on july 28, 2023, the crown
+stayed the proceedings.  on september 22, 2023, the toronto police service
+commenced this proceeding.  there is presently no indictment before any court
+in the province of ontario and the applicant is not currently charged with any
+criminal
+code
+offence.
+i have been provided with written materials
+by the crown mr. hobson and ms. freidman who is acting on behalf of mr.
+freedland as well as a motion record filed by mr. freedland himself which
+comprises a number of materials.  in addition to the helpful materials with
+which i was provided, counsel supplemented these with oral submissions.
+i have reviewed all of the materials and
+supporting case law that counsel have provided me with.  counsel agree as the
+relevant law that governs an abuse of process application but diverge as to the
+decisions that the court should make in light of all of the evidence and
+information before the court.
+counsel also disagree as to whether either
+of the alternate orders that are sought should be granted and whether there is
+a basis to do so.
+law and analysis
+abuse of process
+the applicant seeks a stay of proceedings
+pursuant to
+s.106
+of the
+courts of justice act
+.
+section 106
+of the
+courts of justice act
+,
+rso 1990, c c.43 states:
+stay of proceedings 106
+a court, on its own initiative or on motion by any person, whether or
+not a party, may stay any proceeding in the court on such terms as are
+considered just.
+r.s.o. 1990, c. c.43, s. 106
+.
+section 106 gives the court a broad discretion stay proceedings, unfettered
+by any specific test.
+hester v. canada (national revenue)
+,
+2008 canlii 6193 (on
+scdc)
+at para
+15
+.
+the onus is on the party seeking a
+stay to establish that the stay is justified.
+blue note mining inc. v. canzinco ltd.,
+2008
+canlii 43581 (on sc)
+at para
+8
+.
+an order for a stay-of-proceedings is “the
+most drastic remedy” available under the law, one that “permanently halts the
+prosecution” and, in so doing, frustrates “the truth-seeking function of the
+trial” and deprives the “public of the opportunity to see justice done on the
+merits.”  only in the rarest of occasions – “the clearest of cases” – will this
+remedy be warranted.
+r. v. babos
+, 2014 (canlii) (scc) at 30
+r. v. regan
+,
+2002 scc 12
+at 53
+r. v. o’connor
+, 1995 canlii (scc) at 68
+these circumstances ordinarily fall into two
+categories: (i) the ‘main’ category, in which the state conduct compromises the
+fairness of the accused’s trial; and, (ii) the ‘residual’ category, in which
+the state conduct undermines the integrity of the judicial process but does not
+impinge upon trial fairness.  for either category, a three-part test determines
+whether the remedy is appropriate.
+the prejudice to the
+accused’s fair trial rights or the integrity of the justice system must be “manifested,
+perpetuated, or aggravated” by either the trial or its outcome. no alternate
+remedy capable of redressing the prejudice exists; and, where uncertainty
+remains regarding the appropriateness of a stay at steps (a) and (b), above, a
+balancing occurs in relation to the interests militating in favour of the stay,
+such as denouncing misconduct and preserving the integrity of the justice
+system, against society’s interest in having a final adjudication on the
+merits.
+r. v. babos,
+supra
+at 31-32
+r. v. o’connor,
+supra
+at 71, 73
+in relation to the
+residual category, the remedy of a stay-of-proceedings will ordinarily – although
+not always – be invoked to cure state misconduct.  occasions where the
+integrity of the justice system is impugned in the absence of state misconduct
+may include repeatedly prosecuting an accused for the same offence following
+successive trials in which the juries were hung and using the criminal process
+solely for the purposes of collecting a civil debt.
+r. v. babos,
+supra
+at 37
+r. v. waugh
+1985 canlii 3557 (ns ca)
+at 33-37
+during the applicant’s criminal trial, the
+crown entered into an agreement with him in which mr. freedland agreed to
+committal to stand trial in exchange for the crown agreeing not to pursue
+criminal firearms charges against.  no criminal firearms charges formed part of
+mr. freedland’s trial.
+it is the position of the applicant that his
+understanding of the agreement he made with the crown was that he would face no
+jeopardy at all with respect to the firearms and that this extends to the
+proposed 117.05 hearing.  while it is the applicant’s position that he may have
+been represented by counsel at the point in time he entered into this agreement,
+he submits it is reasonable for him to be of the view that a reasonable person
+similarly situated would reach the same conclusion as him.
+the applicant admits that the crown has
+reneged on its promise and this violates fundamental principles of justice and
+amounts to an abuse of process.  furthermore, the applicant contends that the
+timing of the section 117.05 application proximate to the decision taken to
+stay the charges against him raises the reasonable spectre that section 117.05
+application is motivated by malice on the part of the state and that this also
+would clearly amount to amount to abuse of process.
+the applicant filed several formal
+complaints against the trial crown, the trial judge and police officers
+involved in his original trial in june 2023.  in july of 2023, the crown made a
+decision to stay the charges against the applicant.  in september 2023, the
+underlying section 117.05 application was brought.
+simply put, it is the applicant’s position
+that the section 117.05 hearing is being pursued has some form of vendetta to
+compensate for the frustration that he submits agents of the state feel as a
+result of the criminal prosecution against him being discontinued after a re-trial
+was ordered and his conviction was overturned.
+on my review of the agreement reached as
+between the crown and the applicant at his trial, a plain reading of it makes
+clear that the crown undertook not to pursue criminal firearm charges against
+mr. freedland at his trial.  this undertaking was given and honoured.  within
+the context of the criminal matter that was then before the courts and to which
+mr. freedland was a party, the extent of the agreement is clear on applying the
+ordinary, plain and natural meaning of the language used.
+i agree with mr. hobson for the crown that
+an agreement on what charges would be included on an indictment cannot
+reasonably be interpreted as immunity from
+any
+future proceedings or
+sanctions.
+i appreciate that if is mr. freedland’s
+current position that he understood that the agreement really meant that he
+would be subject to no jeopardy whatsoever with respect to the 3 firearms that
+are in issue but i am satisfied that there was not then, nor is there now, a
+reasonable basis for him to reach a contrary conclusion.
+nothing in the agreement and importantly the
+context within which it was reached would have led a reasonable person to
+conclude that they would be rendered exempt from, for example, the regulatory
+regime applicable to firearms.
+i also note that at the time of the original
+conviction and the corresponding lifetime weapons prohibition order that was
+imposed this issue was not raised as a concern by the application but is raised
+before the court for the first time on this application.
+the supreme court of canada in
+r. v.
+zeolkowski,
+scc 20395 and the relevant statutes make it clear that
+the firearm disposition process and its related regime do not equate with a
+person being accused of a criminal offence.  nor do the provisions affect the
+applicant’s liberty interests.  the “jeopardy” that the applicant is subject to
+is a section 117.05 hearing the outcome of which cannot be known and which has
+yet to be determined. in short, the applicant argues that the jeopardy is the
+process in and of itself.
+i do not find that there is any basis to
+conclude that pursuing a properly conducted section 117.05 hearing represents
+any reneging of the original agreement that the applicant and crown entered
+into and as such, i find that there is no abuse of process as alleged.
+the section 117.05 is a distinct process
+that is to be conducted impartially and according to the governing principles
+and rules of evidence.  while there may be evidential connections with the
+original trial, it is not and is not intended to be a re-litigation of the
+criminal issues at any previous trial.
+i now turn to the timing of the filing of
+the section 117.05 application.  i can appreciate that to the applicant there
+may be sense of frustration that this process was initiated relatively
+proximate to the decision to stay the charges against him.
+i note that there was approximately a two-month
+gap between the decision to stay the charges and the decision to bring the section
+117.05 application in respect of the 3 firearms.   i note that the firearms
+were still in the possession of the police at this time.  it may seem
+self-evident to the applicant that the section 117.05 hearing is simply
+motivated by malice but there is no evidence before me to support such a
+conclusion as being with foundation.
+the section 117.05 process is one focused
+principally on issues of safety, not punitive sanctions.  if it is not
+desirable in the interests of safety of the person from whom an item is seized,
+or any other person, a court can order the forfeiture of the items and impose
+an accompanying weapons prohibition.
+the two-month time period between the
+decision stay the charges and to initiate the section 117.05 hearing does not
+strike me as consistent with a rush to act malevolently against the applicant and
+seems consistent with a reasonable period of time to make a balanced decision.
+i am sure that for the applicant this seems more than a coincidence but such
+speculation on his part provides no basis for me to conclude that merely
+initiating the section 117.05 hearing amounts to an abuse of process.
+applications in the alternative
+out-of-town crown
+the applicant seeks an order from the court
+that if a section 117.05 hearing is to proceed that an “out-of-town crown”
+should have carriage of the matter.  specifically, this would mean a crown attorney
+from somewhere other than the toronto region.
+the basis for this application is that mr.
+freedland has lodged formal complaints against the toronto crown attorney who
+prosecuted him and an alleged victim of the original charges against mr.
+freedland was a former toronto crown attorney.
+ms. friedman, on behalf of mr. freedland,
+submits that perception of fairness is as important as actual fairness and that
+the interests of justice militate in favor of such an order in this case.  she
+further submits that there is the perception of a conflict of interest in this
+case among toronto crown attorneys.  this is a submission mr. hobson roundly
+rejects.
+mr. hobson, for the crown, opposes this application.
+he submits that there is no evidential basis to support the making of such
+order.  mr. hobson further submits that any such order would have adverse
+administrative and operational implications for the crown in both toronto and
+the region from which any alternate crown attorney was sourced.  he also
+submits that there would be a danger in the court making such an order because
+of what would be termed the risk of a “floodgates argument” in that individuals
+before the court would subsequently be more likely to seek to influence the
+assignment of crown attorneys in cases to which they are a party.
+it is clear from the materials that i have
+reviewed that mr. freedland has profound concerns he is the victim of a
+conspiracy by a number of state actors.  this list includes crown attorneys
+from the toronto region as well as his original trial judge and a number of
+police officers.  it is not my role or purpose on this application to address
+the merits or lack thereof of those allegations.
+however, i am of the view that the perception
+that mr. freedland holds of state actors working against him is one he
+legitimately believes and that proceedings connect him to at least two current
+or former toronto crowns.  it is his genuine perception and his subjective
+belief that the fairness of any section 117.05 hearing is dependent upon a
+crown attorney from outside of toronto region conducting this matter.
+i appreciate the merit and logic to mr.
+hobson’s submissions.  an individual before the court cannot simply be allowed
+to dictate which crown is assigned to his or her case.  crown attorneys are
+ministers of justice and presumed to act as such.  i also appreciate that
+perception is not the same as reality.
+nevertheless, mr. freedland does not seek to
+impose a particular or individual crown attorney on any section 117.05
+proceedings or to exclude any specific individual.  his request is for any one
+of the approximately 700 remaining crown attorneys in the province of ontario
+to conduct this matter given the history of his proceedings before the courts.
+while it is not determinative and is
+inevitably case specific, the perception of an individual before the courts
+that their matter is not proceeding fairly is an issue that the courts are
+obliged to take seriously.  it is inevitably a contextual analysis and i do not
+believe that a decision predicated on the specific facts of this case would
+determine the outcome of such a request in another case and thereby risk
+creating a problematic flood of similar outcomes.
+i appreciate that crown resources are not
+unlimited and they are frequently stretched to breaking point.  however, i am
+not persuaded that assigning one out-of-town crown attorney for the limited
+purposes of conducting a section 117.05 hearing would place an unreasonable or
+inappropriate burden upon the crown’s resources.   while i accept mr hobson’s
+submissions that there would inevitably be some impact on crown scheduling
+operations, this would seem to me to be to be both modest and manageable.
+within the specific context of this
+application and their somewhat atypical history, i am satisfied that the
+interests of justice are in favour of me ordering that a crown attorney from
+somewhere other than the toronto region is to conduct the future section 117.05
+proceedings.  i am of the view that both the appearance of justice and the
+interests of justice in this case would be best served by such an order.  this
+is not to impute any bad faith on the part of any of the crown attorneys in
+toronto and nor should any such imputation be construed.
+jurors to be summonsed to
+investigate obstruction of justice
+the second order in the alternative that the
+applicant seeks is an order from the court summonsing the jurors from the
+applicant’s original criminal trial to testify at the section 117.05 hearing.
+the basis for this application rests upon
+the applicant’s belief that the crown anticipates seeking the court to draw
+adverse inferences against him at the section 117.05 hearing based upon the
+criminal conviction which was subsequently overturned.
+based on this premise, the applicant relies
+upon a phone call he indicates he received in 2024 from an anonymous person who
+did not disclose their name and who apparently blocked their telephone number.
+this individual claimed to be a friend of a juror at the applicant’s former
+criminal trial and this anonymous person claimed that they were told that the
+jury had been provided with a prejudicial photograph of the applicant that was
+not adduced as an exhibit at his trial.
+the applicant seeks to counter any such
+adverse inference that the crown seeks at the section 117.05 hearing by having
+his former jurors made available for cross-examination as part of the
+disposition hearing and to explore whether an obstruction of justice occurred
+in his previous trial.
+section 649
+of the
+criminal code
+allows for the questioning of jurors regarding their deliberations in only two
+instances:
+a. an investigation under s.139(s) in
+relation to a juror
+b.
+giving evidence in criminal proceedings in relation to a s.139(2) offence.
+mr. hobson opposes this application and
+submits that there is no evidential basis upon which to make such an order and
+that the only information before the court is effectively “double hearsay”
+which is incapable of being tested for its reliability or credibility.  he
+further submits that it is not the role of this court to instigate such
+criminal investigations and that the jealously guarded sanctity of the jury
+room should only be subject to the limited intrusion of section 649 of the
+code
+in the clearest of circumstances.
+mr. hobson further submitted that while he
+would not be seeking to bind any colleague with eventual carriage of this
+matter, he did not foresee a likelihood of the crown seeking this court to draw
+an adverse inference from an overturned criminal conviction.  while he did
+anticipate that there may be evidential issues from the previous criminal trial
+that may be of relevance to the disposition hearing, he quite rightly, in my
+view, did not anticipate that the crown would seek to go behind the overturned
+conviction nor the crowns’ subsequent decision to stay the matter against the
+applicant.
+given the anticipated position of the crown
+with respect to the concern that the applicant had it seems that, following
+crown submissions, there would not be a foundation for the applicant’s concern
+and therefore there would not be a basis for the order he seeks to summons his
+former jurors.
+in what i hope is the unlikely event that
+the crown position changed on this issue, it would be open to applicant to
+renew his application.  however, any such application would require a clear and
+legitimate foundation as well as credible evidence in support of it.
+on the basis of the information currently
+before me, both a foundation for the application and any credible or reliable
+evidence supporting it are absent.  i shall not make any order for the
+summonsing of the applicant’s former jurors.
+summary
+in summary and for the foregoing reasons:
+i.
+i
+dismiss the application with respect to an abuse of process;
+ii.
+in
+the interest of justice, a crown attorney from somewhere other than the toronto
+region will conduct the 117.05 hearing.
+iii.
+there
+is no basis to grant an order summonsing the applicant’s former jurors to
+testify at the firearms disposition hearing and no such order will be made.
+i shall now address with the parties the
+time estimate and scheduling arrangements for the section 117.05 hearing
+released:  17
+th
+january, 2025
+signed: justice m waby

@@ -1,0 +1,1002 @@
+ontario court of justice
+citation:
+r. v. mann
+, 2025 oncj 457
+date:
+2025 09 04
+court
+file no.:  peel region
+3111-998-24-31103237-00
+between:
+his
+majesty the king
+— and
+—
+prabhjot mann
+before
+justice s. robichaud
+heard
+on august 19, 21, 2025
+reasons
+for judgment released on september 4, 2025
+j. white............................................................................................... counsel
+for the crown
+l. sandhu.......................................................... counsel
+for the accused prabhjot mann
+table of
+contents
+a.
+overview
+..
+2
+b.
+police observations of prabjot mann and the blue duffel bag
+where the firearm was found
+.
+3
+a)
+the evidence of constable o’connor
+.
+3
+b)
+the evidence of constable elford
+.
+4
+c)
+the evidence of constable beccario
+.
+5
+d)
+the evidence of constable angevine
+.
+5
+e)
+the officers’ evidence combined
+.
+7
+f)
+the unchallenged identification of mr. mann
+.
+7
+c.
+the case for the defence
+.
+8
+a)
+the evidence of amarjit kaur
+.
+8
+b)
+the assessment of amarjit kaur’s evidence
+.
+9
+d.
+the burden of proof, knowledge and control, and
+circumstantial evidence
+.
+10
+a)
+inference vs. speculation
+.
+10
+b)
+inferential and direct conclusions based upon the evidence
+.
+11
+c)
+the defence theory of evidence planting by a third party
+.
+12
+d)
+the rejection of a third-party suspect theory
+.
+13
+e)
+the analysis of the defence evidence and position
+.
+14
+e.
+application of the law of constructive possession
+.
+15
+f.
+findings of fact supporting possession
+.
+16
+g.
+conclusion
+.
+17
+robichaud j.:
+a.
+overview
+this case concerns whether prabhjot mann
+knowingly possessed a loaded, prohibited firearm and magazine found in a duffel
+bag in the kitchen of his home on march 20, 2024, upon the execution of a
+search warrant by police.
+it is admitted
+that this handgun was:
+(1)
+an operable, loaded, prohibited firearm as
+defined by the
+criminal code
+of canada
+and related regulations.
+(2)
+loaded with 17 cartridges of 9mm calibre
+ammunition, contained in an over-capacity magazine that is a “prohibited
+device” as defined by law; and
+(3)
+a “weapon” as defined by law.
+it is further admitted that the accused:
+(1)
+did not have any legal authority to possess such
+a firearm, ammunition, or magazine. more specifically, he was not a holder of a
+firearm licence, authorization, or registration certificate.
+(2)
+was subject to the terms of a valid and active common
+law peace bond on the date and time of the allegations where he is alleged to
+have possessed the firearm, ammunition, and prohibited device.
+there were no
+charter of rights and freedoms
+applications
+before this court seeking an exclusion of evidence, or a stay of proceedings.
+this was confirmed at the commencement of the proceedings.
+accordingly, the sole issue at trial for this
+court to decide is whether mr. mann had possession of the firearm, ammunition,
+and prohibited device found inside the residence. all other elements of the
+offences are admitted through the agreed statement of facts.
+b.
+police observations of prabjot mann and the blue duffel bag where
+the firearm was found
+the crown called four police witnesses in
+support of its case: constables o’connor, elford, beccario, and angevine. each
+officer provided testimony regarding their respective roles in the surveillance
+and search operation that culminated in the recovery of the firearm and related
+items.
+a)
+the evidence of constable o’connor
+constable o’connor was assigned to conduct surveillance on mr.
+mann beginning on march 16, 2024, as part of a coordinated investigation led by
+the narcotics team and briefed by constable angevine. his duties included
+locating mr. mann, identifying any associated addresses, vehicles, or
+individuals, and, if grounds were established, drafting a
+criminal code
+search warrant.
+on march 16, o’connor began his shift at 2:00 p.m. and proceeded
+to the area of 30 henry maracle street in ayr, ontario. this was one of the
+known addresses linked to mr. mann. that evening, he personally observed mr.
+mann at goodlife fitness in kitchener, exiting the facility and entering a grey
+2011 bmw 5 series sedan bearing the personalized plate “6invader.” constable
+o’connor assumed the vehicle’s driver-side door was damaged as both mr. mann
+and another male entered via the passenger side.
+mr. mann was carrying a blue duffel bag with a shoulder strap and
+a water bottle affixed to it. o’connor described the bag as navy in colour and
+approximately 24 inches in length, though he noted that his observations were
+made from a distance.
+following this, mr. mann was observed attending the residence at
+30 henry maracle street, though o’connor did not personally witness mr. mann
+entering the home. he was present at the location but relied on radio
+communications from other officers for updates. his role at that time was to
+maintain surveillance and, if grounds were established, act as the affiant for
+the warrant.
+on march 18, 2024, o’connor authored a
+criminal code
+search warrant, which was signed by justice of the peace michael perrault at
+12:40 p.m. the warrant was not executed on march 19 due to mr. mann’s absence
+from the residence.
+on march 20, o’connor participated in the execution of the
+warrant as a search officer. he entered the residence at 3:50 p.m., searched
+the upper closet, basement, and the bmw parked outside, but found no (material)
+property in any of those locations. his involvement concluded at 4:39 p.m.,
+after interviewing one of the suspected residents, mandeep singh.
+during cross-examination, o’connor adopted a suggestion by
+defence counsel that that a cpic check conducted on march 17, 2024, showed the
+bmw was registered to abhishek jain, not mr. mann. he conceded that the
+registered owner of the vehicle based on the vin, was “jain abhishek”, born […],
+1998.
+b)
+the evidence of constable elford
+constable elford was a member of the specialized guns and drugs
+unit and became involved in the investigation on march 15, 2024, following a
+briefing regarding mr. mann’s suspected possession of a firearm. that evening,
+elford deployed a covert “drop camera” outside the residence at 30 henry
+maracle street. he explained that the camera was motion-triggered, faced a
+public area, and was used to safely capture video evidence without intruding
+into private spaces.
+on march 16, 2024, elford participated in surveillance operations
+from 1:51 p.m. to 7:52 p.m. at approximately 3:15 p.m., he observed a grey bmw
+sedan pull into the driveway of the residence. a male exited the vehicle
+carrying a duffel bag, followed by a female. the same female later returned to
+the vehicle. elford identified the licence plate as “6invader.” these
+observations were buttresses by photographic evidence entered as exhibits 5 and
+6.
+later that evening, at 7:47 p.m., elford observed mr. mann exit
+the passenger side of the bmw, retrieve a blue duffel bag from the rear
+driver-side door, and use a key to enter the residence.
+he described the bag as blue, slightly larger than a backpack,
+with a single strap and measuring 18 to 24 inches in length and 12 inches in
+width. these observations were supported by similar photographic evidence
+entered as exhibits 7, 8, and 9.
+elford confirmed that mr. mann left the residence overnight on
+march 18–19. he based this from his knowledge of the home’s monitoring via the drop
+camera footage. as noted above, this absence would postpone the plan to execute
+the warrant upon the residence and vehicle until march 20, 2024.
+on march 20, 2024, elford was present during the execution of the
+search warrant and was assigned to search the master bedroom. there, he located
+a bmw ownership that listed the accused, mr. mann, as the registered owner of
+the bmw and connected to another residence located at 32 fenton way in brampton,
+ontario. these documents were entered as exhibits 10 and 11. the licence plate,
+manufacturer (bmw), and model (550) listed in the ownership match that of the
+vehicle mr. mann was driving at all relevant times of police observations.
+i am aware that constable o’connor admitted under
+cross-examination that cpic and other police checks noted another person, abhishek
+jain as the registered owner of the bmw vehicle. i find the actual owner
+immaterial to the relevant issues in this file. what is more important is the
+personal documents of the accused in the residence located at 30 henry maracle.
+whether the mto records show the bmw in another person’s name has no bearing on
+the outcome of this case. it is also clear, as set out in greater detail below,
+the accused mr. mann was operating the motor vehicle regardless of who the
+registered owner may have been at the time.
+c)
+the evidence of constable beccario
+constable beccario, also with the guns and gangs unit, was
+assigned to search the kitchen area of the residence during the execution of
+the search warrant on march 20, 2024. he located a blue gym bag on the kitchen
+floor near the island. inside the bag, he found gym clothes, supplements, mr.
+mann’s driver’s licence, and a black and silver handgun with a magazine seated
+in the firearm.
+the driver’s licence and firearm were found in separate internal compartments
+of the bag.
+beccario immediately notified the exhibits officer, detective
+andrews, who photographed the items and proved the firearm safe. beccario
+remained present during this process. the relevant photographs were entered as
+exhibits 12 through 17, showing the bag
+in situ
+, the firearm, the
+driver’s licence, and the process of rendering the firearm safe.
+photographs of this blue duffel bag and items found within it
+were entered as exhibits 12, 13, 14, 15, 16, and 17. those photos may be
+described in general terms as follows:
+•
+wide shot of the blue gym bag found in
+the kitchen.
+•
+close-up of the gym bag.
+•
+the firearm
+in situ
+inside the
+bag.
+•
+mr. mann’s driver’s licence found in a
+separate compartment of the bag.
+•
+the firearm removed from the bag.
+•
+the firearm being proved safe, with the
+magazine removed and placed on the tile floor.
+beccario confirmed that he did not see anyone move the bag prior
+to his search and did not observe any other individuals entering or exiting the
+residence apart from tactical officers. he later attended 22 division to
+interview mr. mann but had no further involvement in the investigation.
+d)
+the evidence of constable angevine
+constable cole angevine was the officer in charge of the
+investigation and coordinated both the surveillance and execution of the search
+warrant. he has been a member of the peel regional police since august 2011 and
+was the primary investigator in this matter.
+the investigation commenced in march 2024 following information
+received that mr. mann may be in possession of a firearm. angevine conducted
+background checks, including cpic, mto, and local inquiries, which linked mr.
+mann to the residence at 30 henry maracle street in ayr and a grey bmw sedan.
+surveillance was initiated, and a covert drop camera was deployed on march 15,
+2024, with angevine present during its installation.
+on march 16, angevine conducted physical surveillance and
+personally confirmed mr. mann’s identity at a goodlife fitness location in the
+waterloo region. he identified mr. mann based on a neck tattoo and descriptors
+provided in a briefing “run sheet.”
+on march 19, the team attended the residence at approximately
+5:20 a.m. intending to execute the search warrant but postponed it after
+observing mr. mann and his vehicle had left earlier that day. surveillance
+resumed the following morning, and angevine monitored the covert camera from
+5:30 a.m. until 3:10 p.m., when the warrant was executed.
+at 1:48 p.m., angevine observed mr. mann arrive at the residence
+in a dark grey bmw, exit the driver’s side, and carry a dark blue gym bag with
+two black handles into the home. a female occupant also exited the vehicle and
+entered the residence with a separate bag. these observations were made via
+live feed from the covert camera.
+during the execution of the warrant at approximately 3:10 p.m.,
+angevine remained outside until the scene was secured.
+three individuals were detained:
+(1)
+the accused, mr. prabhjot mann
+(2)
+a female believed to be in a relationship with the accused; and,
+(3)
+an unknown male
+had left the residence in a white dodge charger just prior to the waterloo
+regional police services tactical team entering the residence to execute the
+warrant.
+no charges were laid against anyone other than the accused.
+angevine was assigned to search several rooms, including bedrooms
+and the garage, but did not seize any items personally. angevine was later
+advised by andrews that a loaded glock 9mm handgun, nine rounds of ammunition,
+a 16-round magazine, and mr. mann’s driver’s licence were found within the blue
+gym bag located in the kitchen.
+angevine confirmed that the bag where the firearm was located was
+the same one, he saw mr. mann carrying earlier via the covert camera. he
+expressed confidence that it was the same bag.
+following the search, angevine was briefed on the seized property
+and later advised constable beccario of the charges to be laid against mr.
+mann.
+e)
+the officers’ evidence combined
+i found each of the police witnesses to be credible and
+forthright. their testimony was consistent with the physical and photographic
+evidence, with no material contradictions exposed under cross-examination.
+the only notable point of difference is an observation of constable
+angevine that mr. mann exited the driver’s side door upon returning to
+residence at 30 henry maracle st. on the date the warrant was executed. other officers
+noted in their evidence that there was an observation that mr. mann had exited
+via the passenger side door of the bmw on at least one prior occasion. this
+point is immaterial to the relevant issues.
+it may be the door did work, and he exited the passenger side on
+another occasion for unknown reasons, perhaps the door was repaired in the
+interim, or perhaps one of the officers’ is mistaken. it makes no meaningful difference
+in my view the material issues to decide in this case.
+minor discrepancies in peripheral observations, such as which
+door mr. mann exited from, do not undermine the reliability of the core
+evidence. these are expected variances in multi-officer surveillance and do not
+detract from the overall credibility of the witnesses.
+in conducting my analysis of the evidence, i am mindful that the
+initial information received by police—suggesting mr. mann may be in possession
+of a firearm—constitutes inadmissible hearsay. while no objection was raised
+during trial, i have not relied on this information for any probative purpose
+in determining whether mr. mann had knowledge and control over the firearm and
+prohibited items.
+the hearsay tendered at trial was limited to explaining the
+narrative of events, and the state of mind of the officers. specifically, how
+police attention was drawn to mr. mann and why officers undertook the
+surveillance and investigative steps they did.
+f)
+the unchallenged identification of mr. mann
+it is significant to point out that while not specifically
+admitted in the asf, constables o’connor, beccario, elford, and angevine’s
+observations relating to the identity of mr. mann were not challenged under
+examination. despite this, i am cognizant that it is still the crown’s burden
+to prove identification beyond a reasonable doubt. that burden exists
+independent of any challenge or silence of the accused.
+similarly, there was no meaningful challenge on any of the
+officers’ observations on the blue duffel bag, or the conclusion drawn by
+angevine that it was indeed the same bag the accused was seen carrying on march
+16, or on march 20, 2024. i apply the same burden noted above on this material
+point as well.
+while the officers had no prior dealings with mr. mann prior to
+the “tip” and commencement of the investigation, there was no equivocation on
+who they were observing when referring to mr. mann, or any suggestion by
+defence otherwise.
+to the extent that officers did not see mr. mann, they were
+forthright and admitted the occasions where updates were only being provided
+through means of communication. regardless, there is still evidentiary value that
+can be applied to that communication in ensuring that mr. mann remained the
+person of targeted surveillance. put another way, while certain officers could
+not make direct observations at certain locations, the information received
+allowed them to confirm that the person being surveilled continued to match the
+description and had related items (like the duffel bag) as observed by other
+officers.
+the only reasonable conclusion is that the accused, mr. prabhjot
+mann, was consistently the subject of surveillance, as established through the
+officers’ chain of observations. i accept their evidence to the extent that
+they testified they could make those observations and identifying mr. mann.
+this includes their observations regarding the duffel bag.
+i am satisfied that the individual observed—whether through the
+drop camera or through direct visual surveillance made by the officers—was the
+accused, prabhjot mann. i have no doubt in this regard. the crown has met its
+burden in that regard.
+angevine’s identification of the blue duffel bag carried by mr.
+mann—made via covert camera earlier that day—along with his observations at
+goodlife fitness on march 16 and his confirmation that the bag matched the one
+containing the firearm found during the search, provides a critical link in
+establishing continuity and control over both mr. mann and the items in
+question.
+this is all combined with the admission that mr. mann was arrested
+inside the residence at the time the firearm was found.
+c.
+the case for the defence
+in response to the crown evidence, the defence
+called the spouse of the accused amarjit kaur.
+a)
+the evidence of amarjit kaur
+amarjit kaur, the wife of mr. mann, testified as
+a defence witness. she stated that she and mr. mann were married in 2023 and
+had been living together at 30 henry maracle street in ayr, ontario,
+since march 2024. she described the residence as a leased home shared by
+multiple individuals, including mr. mann, herself, and others such as mandeep
+singh and abhishek jain.
+ms. kaur testified that on march 18, 2024,
+she accompanied mr. mann on a work-related trucking trip to quebec, returning
+to the residence on march 20 between 1:30 and 2:00 p.m. she
+stated that upon arrival, mandeep singh opened the door, and she and mr. mann
+placed their bags in the kitchen before proceeding to their upstairs bedroom.
+she described mr. mann as feeling unwell and stated that she gave him
+medication before lying beside him while he slept.
+regarding the blue duffel bag, ms. kaur
+testified that it was primarily used by mr. mann for gym-related items,
+including clothing, supplements, and ingredients for protein shakes. she stated
+that she accessed the main compartment of the bag during the trip to prepare
+shakes for mr. mann and denied ever seeing a firearm in the bag. she
+acknowledged that mr. mann carried the blue bag into the kitchen upon their
+return and placed it on the floor near the island.
+during cross-examination, ms. kaur confirmed that the blue bag
+was in mr. mann’s possession when they entered the residence and that he placed
+it in the kitchen. she described its contents as including gym clothes,
+sandals, deodorant, and shake ingredients, primarily stored in the main
+compartment. she acknowledged using the bag during the trip but maintained that
+she had no knowledge of any firearm being present.
+ms. kaur also testified to interpersonal tensions within the
+residence, particularly between mr. mann and abhishek jain. she described a
+prior physical altercation between the two, which she had seen in a video
+shared by mr. mann. according to her, the conflict stemmed from mr. mann’s
+disapproval of mr. jain’s conduct toward another female resident, whom the
+household considered a sister figure.
+this altercation was captured on video and introduced as an
+exhibit through ms. kaur. while the footage shows mr. mann physically
+assaulting mr. jain, i have not engaged in any propensity reasoning that this
+prior disreputable conduct makes him more or less likely to possess a firearm
+or prohibited devices.
+the relevance of this assault, led by the defence, is limited to
+ms. kaur’s explanation of the animosity between mr. mann and mr. jain. it is
+considered only as far as it may support the defence’s theory that mr. jain, or
+someone close to him, coordinated and planted the firearm as an act of
+retribution or to frame the accused.
+ms. kaur expressed surprise upon learning from police that a firearm
+had been found in the blue bag. she denied any knowledge of the weapon and
+stated that she had never seen mr. mann possess one. she was briefly detained
+during the execution of the search warrant but was released shortly thereafter.
+b)
+the assessment of amarjit kaur’s evidence
+while ms. kaur’s testimony was not directly
+contradicted under cross-examination, i found her lack of specificity on key
+details relating to who was in possession of the blue bag at relevant times to
+be evasive and an attempt to minimize the accused’s connection to it.
+overall, i found her evidence as evasive,
+incomplete, and implausible. a detailed assessment of why i came to this
+conclusion is set out in greater detail below under the heading “the analysis
+of the defence evidence and position”.
+d.
+the burden of proof, knowledge and control, and circumstantial evidence
+to prove possession, the prosecution must prove knowledge of the
+firearm and control over the firearm:
+r. v. morelli
+,
+2010 scc 8
+,
+1 s.c.r. 253, at paras.
+15
+, 17;
+r. v. lights
+,
+2020 onca 128
+at paras.
+44-52
+;
+r. v. choudhury
+,
+2021 onca 560
+at para.
+19
+.
+the case against the accused, as far as drawing conclusions of
+knowledge and control, is based upon circumstantial evidence relating to where
+the firearm was found, when, and its connection to the accused.
+in assessing these circumstantial inferences, i am mindful of the
+supreme court of canada’s ruling in
+r. v. villaroman
+.
+where the court held a trier of fact must not draw an inference of guilt unless
+it is the only reasonable inference permitted by the evidence.
+i have also instructed myself to look at the evidence
+holistically to consider whether i am satisfied beyond a reasonable doubt that
+the only reasonable conclusion is one of guilt of the offence(s) based on the
+totality of admissible and probative evidence.
+a)
+inference vs. speculation
+as a matter of evidence, the difference between inference and
+speculation is a key distinction.
+mcwilliams' canadian criminal evidence
+,
+5th edition § 31:17 states:
+“the process of drawing inferences from evidence is not … the
+same as speculating even where the circumstances permit an educated guess”. 4
+conjecture and factual speculation cannot substitute for logical reasoning based
+on evidence.5 “inference must be carefully distinguished from conjecture or
+speculation”.6 “the dividing line between conjecture and inference is often a
+very difficult one to draw”.7 a “reasonable possibility” may raise reasonable
+doubt.8 so, too, it is not always easy to define, with any precision, “the
+bright line distinction between the drawing of reasonable inferences and mere
+speculation”
+inference corresponds to a conclusion drawn inductively or
+deductively from proven premises. speculation, by contrast, is a conclusion
+offered without a sufficient evidentiary premise, or one that assumes facts not
+in evidence. inference is premise-dependent reasoning; speculation is
+premise-independent conjecture.
+speculation lacks probative value and cannot be used to support
+findings of fact by drawing inferences from them.
+reasonable doubt may arise from competing inferences where the
+premises are grounded in the record, but not from conjectures where the
+premises are absent or unproven. while a trier of fact must consider other
+explanations and plausible theories that are inconsistent with guilt, it does
+not leave every theory advanced without a proper evidentiary foundation worthy
+of raising reasonable doubt.
+i am mindful that a lack of evidence may still raise doubt and
+without speculation. a certain gap in the evidence may result in inferences
+other than guilt. but those inferences must be reasonable given the evidence
+and the absence of evidence, assessed logically, and considering human
+experience and common sense.
+reasonable doubt may arise from plausible alternative inferences,
+but not from conjecture. this principle is echoed throughout in appellate
+authority and well stated in in emphasizing that speculation lacks probative
+value and cannot support a finding of fact.
+b)
+inferential and direct conclusions based upon the evidence
+i therefore make the following findings of fact:
+(1)
+despite constable elford uncertainty at the time
+the photos were captured at approximately 3:14 on march 16, 2024, it is now
+clear by way of the nexus of evidence, that exhibits 5 and 6 is a photo of mr.
+mann carrying a blue duffel bag. i also find this is the same duffel bag found
+inside the residence on march 20 with the firearm and prohibited device inside.
+(2)
+the bmw seen in exhibit 7, is being driven by
+prabjot mann at the time it is taken. immediately after in the sequence of
+these photos, i find that the accused is the individual in exhibit 9 holding a
+blue duffel bag. while exhibit 8 is blurry, the immediate sequencing of these
+photos leads to conclude it is the accused as well.
+(3)
+the duffel bag with the loaded firearm found
+inside, was the same bag officers o’connor and angevine saw the accused with on
+march 16, 2024, inside the goodlife fitness (angevine), exiting the goodlife
+(o’connor), and entering the residence located at 30 henry maracle on march 16,
+2024.
+(4)
+that on march 20, 2024, via the covert camera
+live feed and recordings, officer angevine observed mr. mann carrying the same
+blue duffel bag he had on march 16, 2024, at the goodlife and entering the
+residence at 30 henry maracle (as seen in exhibits 7, 8, and 9).
+(5)
+for greater clarity, i find the blue duffel bag
+shown in exhibits 5, 6, 12, 13, 14, and 15, is the same bag. i find this is the
+same bag where the loaded firearm and prohibited device was found.
+(6)
+there is no “other” blue bag. while this was not
+raised by the defence in argument, or through the evidence of ms. kaur, i kept
+this possibility in mind as the evidence unfolded. ultimately, the evidence
+confirmed that there was only one blue duffel bag connected to the residence or
+to mr. mann. any other bag resembling the one mr. mann is observed carrying is
+not based in the evidence, and is therefore speculative, and incapable of
+supporting a logical inference to this end.
+these direct and inferential conclusions noted
+above are based upon the evidence presented at trial, and the agreed statement
+of fact. those include:
+(1)
+observations of the officers noted above.
+(2)
+the temporal proximity to these observations of
+the officers and mr. mann.
+(3)
+the size, shape, colour, and water bottle
+affixed to the bag combined create a distinctive look of the bag.
+(4)
+the absence of evidence of any other bag and
+combined water bottle resembling that seen by the officers.
+(5)
+the presence of mr. mann’s driver’s licence in
+the same bag as the firearm—albeit in a separate compartment—supports the
+inference that the bag was under his control. a driver’s licence is a personal
+item typically kept close at hand, particularly when one is operating a motor
+vehicle, as mr. mann was observed doing.
+c)
+the defence theory of evidence planting by a third
+party
+the defence’s theory is that the firearm was
+planted by a resident in the home. i note at the outset that a third-party suspect
+application was not filed to pursue who that specifically might be—although it
+was theorized by the defence it might have been mr. singh, possibly at the
+direction of mr. jain.
+despite this, i am mindful of the ontario court
+of appeal’s ruling in
+r. v. appleton
+,
+that makes it clear, at paragraphs 101-104 that a third-party suspect
+theory is not an affirmative defence, nor does it shift any burden onto the
+accused. rather, it is a denial that the crown has proven the essential element
+of identity beyond a reasonable doubt. the theory is admissible to the extent
+that it raises a reasonable doubt as to whether the accused was the person in
+possession of the firearm and prohibited items.
+importantly, the third-party suspect rule is a threshold inquiry
+into admissibility. where relevant evidence exists suggesting that another
+person may have committed the offence, that evidence may be considered in
+evaluating whether the crown has met its burden. however, the rule must not be
+misapplied in a manner that improperly shifts the burden of proof to the
+accused. the ultimate question remains whether, on the totality of admissible
+evidence, the crown has proven the accused’s guilt beyond a reasonable doubt.
+therefore, and despite the lack of filing, i am
+considering the defence in this respect noted above; however, for reasons noted
+below, i reject it and it does not raise reasonable doubt towards the accused’s
+guilt.
+d)
+the rejection of a third-party suspect
+theory
+the defence theory that someone else in the
+residence planted the firearm in the blue duffel bag to frame mr. mann is
+speculative, implausible, and unsupported by the evidentiary record.
+based on police observations and covert camera
+monitoring, the only individuals present in the residence from the time mr.
+mann and his wife, amarjit kaur, returned from their trip to quebec until the
+execution of the warrant were the two of them and mandeep singh. no other
+occupants were found inside the home or observed coming and going during this
+time. according to same observations, the individual with whom mr. mann had a
+prior altercation—abhishek jain—was not present during any material times in
+the investigation. his absence is also supported by the evidence of ms. kaur.
+while mr. singh is described as a friend of mr.
+jain, there is no evidence to suggest that he would have had the motive or
+willingness to participate in a scheme to frame mr. mann. nor is there any
+evidence that such a scheme ever existed or was threatened.
+even assuming motive—which i do not find—the
+theory fails as a matter of logic, reasonable inferences, and timed opportunity:
+(1)
+there is no evidence that mr. jain or mr. singh
+knew when mr. mann and his wife would return home from their trip, nor that
+they could have anticipated mr. mann would leave the blue bag unattended in the
+kitchen while retiring to the bedroom.
+(2)
+surveillance footage shows mandeep singh leaving
+the residence in a white dodge charger shortly before the tactical team arrived,
+with no indication that he was aware of the impending execution of the warrant.
+(3)
+the warrant had already been issued and was
+executed based on pre-existing surveillance, not any real-time tip or update.
+(4)
+there is no evidence that any tip was received between
+mr. mann’s return home and the execution of the warrant; indeed, police were
+themselves uncertain about when the warrant would be executed due to mr. mann’s
+earlier absence, which had necessitated an unplanned postponement and
+recalibration of the initial attempt.
+(5)
+the firearm was found inside an internal pocket of
+the duffel bag. if the intent was to have police discover it upon immediate
+examination, it makes little sense that it would be further concealed by
+placing it within an internal pocket. this would also take more time to “plant”
+and greater exposure while mr. mann and ms. kaur were in the home.
+(6)
+on the defence theory, the presence of mr.
+mann’s driver’s licence inside the bag where the firearm was located would have
+to be a fortuitous coincidence—either to mr. mann himself or to mr. jain’s
+alleged scheme. this coincidence is highly implausible and contributes to my
+overall reasons for rejecting the defence position.
+(7)
+if the initial “tip” somehow originated from
+those responsible for planting the firearm, it would have predated the
+accused’s unexpected trip to quebec. it is reasonable to assume that someone
+providing such a tip would expect prompt police action. accordingly, any plan
+to plant the firearm would likely have been coordinated with the expectation
+that mr. mann would be searched shortly thereafter. if this were somehow the
+case, it implies a firearm would be planted before the trip to quebec, in
+alignment with the originally intended warrant execution date. since mr. mann
+brought the blue duffel bag with him on that trip, it follows that—if the
+firearm had been placed in the bag in anticipation of immediate police
+action—he would have unknowingly carried it with him throughout his time in
+quebec, despite frequent use of the bag by both him and his spouse.
+(8)
+despite an opportunity to do so when interviewed
+on scene, there is no evidence to suggest mr. singh gave a statement to police incriminating
+mr. mann by stating who the owner of the bag was. if the intent was to frame
+mr. mann, it seems likely that the final step would be to incriminate him but
+telling police that the blue duffel bag was mr. mann’s.
+moreover, even if the firearm had been planted,
+the theory lacks a coherent endgame.
+it is illogical to assume that someone would
+plant a loaded firearm in the bag of a person known to have previously inflicted
+violence upon them or their friend, thereby risking further intimidation, violence,
+or death. the idea that mr. jain or mr. singh would arm mr. mann—knowing his
+capacity for violence—is inherently contradictory and implausible.
+e)
+the analysis of the defence evidence and position
+ms. kaur’s testimony does not advance the
+defence theory.
+she was evasive on key details surrounding the
+blue bag, particularly its contents and her awareness of the side pocket where
+the firearm was found. her stated use of the bag was limited to accessing the
+main compartment for vitamins and shake ingredients.
+her reference to a “pink bag” was not put to any
+officer in cross-examination and is immaterial, as she ultimately confirmed
+that mr. mann carried the blue bag into the kitchen and placed it on the floor,
+where it was later found.
+while she testified that she believed someone
+was cooking in the kitchen, she could not provide any details on who that was
+or what they were doing. this evidence is of no assistance.
+under cross-examination, ms. kaur acknowledged
+that she only accessed the main compartment of the bag. this is significant as
+the firearm was found in an internal side pocket as seen in exhibit 13. her
+evidence therefore does not support a theory of “planting” as the “plant” would
+not be in a location she would have seen and therefore could properly exclude
+from her prior interactions with the bag.
+the alternative, of course, is that she was
+aware of the firearm and was not candid with the court. if i were required to
+make a finding of fact one way or another, i would conclude she was aware of
+the firearm and prohibited devices if one considers her access to the duffel
+bag on the trip, and her relationship with her husband.
+she further admitted under cross-examination
+that the accused would typically use the blue bag to attend the gym. he would
+attend 4-5 times a week for 1 to 1.5 hours at a time. this establishes strong
+evidence that mr. mann had primary, if not exclusive, use of the blue bag where
+the firearm was found. it makes little sense that mr. mann would consistently switch
+bags considering the frequency in which he visited the gym. regardless, he was
+using it and seen with it at the relevant times.
+taken together, the defence theory is
+speculative, internally inconsistent, implausible, illogical, and contradicted
+by the surveillance, witness testimony, and physical exhibits. i reject it
+entirely.
+e.
+application of the law of constructive possession
+while this case is one of possession
+simpliciter
+,
+namely mr. mann’s knowledge and control of the firearm and prohibited devices,
+i also put my mind to the doctrine of constructive possession since the bag was
+found inside his residence, while he was found in different room in the home.
+i am mindful in reaching any conclusions that
+tenancy or occupancy of a place where contraband is found does not create a
+“presumption of possession.”
+the test for possession was repeated by the
+ontario court of appeal in the case of
+r. v. choudhury
+as follows:
+•
+constructive possession is established
+when an accused does not have physical custody of an object but knowingly has
+it in the actual possession or custody of another person or has it in any place
+for their own or another’s use or benefit:
+criminal code
+, s. 4(3)(a);
+r.
+v. morelli
+,
+2010 scc 8
+,
+1 s.c.r. 253
+, at para.
+17
+; and
+r.
+v. lights
+,
+2020 onca 128
+,
+149 o.r. (3d) 273
+, at para.
+47
+.
+•
+knowledge
+and control
+are essential elements of
+constructive possession, which is established when the crown proves beyond a
+reasonable doubt that the accused: (i) has knowledge of the character of the
+object said to be possessed; (ii) knowingly puts or keeps the object in a
+particular place, whether or not the place belongs to or is occupied by the accused;
+and (iii) intends to have the object in the place for the use or benefit of the
+accused or another person:
+morelli
+, at paras.
+15, 17
+;
+lights
+,
+at paras.
+44, 47
+.
+•
+tenancy or occupancy of a place
+where an object is found does not create a presumption of possession:
+lights
+,
+at para.
+50
+;
+r. v. watson
+,
+2011 onca 437
+,
+at para.
+13
+;
+r. v. lincoln
+,
+2012 onca
+542
+, at paras.
+2-3
+; and
+r. v. bertucci
+(2002),
+2002 canlii 41779 (on ca)
+,
+169 c.c.c. (3d) 453
+(ont. c.a.)
+, at para.
+18
+.
+•
+when the crown relies largely or wholly
+on circumstantial evidence to establish constructive possession,
+a conviction
+can be sustained only if the accused’s knowledge and control of the impugned
+objects is the only reasonable inference on the facts. the trier of fact must
+determine whether any other proposed way of looking at the case as a whole is
+reasonable enough to raise a doubt about the accused’s guilt, when assessed
+logically and in light of human experience and common sense:
+see
+r.
+v. villaroman
+,
+2016 scc 33
+,
+1 s.c.r. 1000
+, at paras.
+55-56
+;
+lights
+,
+at para.
+39
+; and
+r. v. stennett
+,
+2021 onca
+258
+, at paras.
+60-61
+.
+on the topic of constructive possession, i have
+also reviewed the case of
+r. v. yousuf
+,
+,
+its application of
+r. v. morelli
+,
+and applied it strictly in my analysis of these facts before me.
+f.
+findings of fact supporting possession
+i conclude that both tests for actual and constructive possession
+are met in this case. the facts i have found, and rely upon are as follows in
+drawing the inferences that the accused had control and knowledge of the firearm
+and prohibited items are as follows:
+•
+the blue duffel bag where the firearm and prohibited device was
+located contained the driver’s licence of the accused, prabhjot mann.
+•
+the driver’s licence was found near the firearm, albeit in a
+separate pocket.
+•
+as a matter of common sense, a driver’s licence is personal item
+that is kept in proximity and control of by an active operator of a motor
+vehicle, as mr. mann was.
+•
+mr. mann is a professional driver and not having his licence with
+him for a commercial trip to quebec is highly implausible.
+•
+the accused was observed carrying the blue duffel bag into the
+residence on march 20, 2024, shortly before the firearm was discovered within
+it.
+•
+the same bag was observed in his possession on march 16, 2024,
+during surveillance at goodlife fitness and at the residence.
+•
+the bag contained mr. mann’s driver’s licence, a personal item
+typically kept on-hand, found in a separate compartment from the firearm.
+•
+the firearm was in a side pocket, not the main compartment, which
+ms. kaur testified she accessed—supporting the inference that mr. mann had
+exclusive control over the firearm’s location.
+•
+the accused was the primary user of the bag, as confirmed by ms.
+kaur, who stated he used it regularly for gym visits (4–5 times per week).
+•
+no other individual was observed handling the bag between the
+time of mr. mann’s arrival and the execution of the warrant.
+•
+the firearm was loaded, suggesting it was prepared for use, not abandoned,
+or discarded.
+•
+the defence theory of planting is speculative and unsupported by
+any direct or circumstantial evidence.
+•
+the accused’s conduct—placing the bag in the kitchen and retiring
+to the bedroom—suggests knowledge and control, not abandonment or ignorance.
+i find as a fact that mr. mann had both direct
+knowledge and control of the firearm and the prohibited items in the blue duffel
+bag.
+there is no evidence anyone was using it at the
+time, that anyone else had an invitation to use it, or that he did not exercise
+ultimate control over the blue duffel bags at all material times. i find the
+evidence supports the inference that mr. mann knew the contents of the bag. the
+issue of “constructive” possession therefore becomes redundant.
+however, if my reasoning is wrong in this
+respect, i further find in the alternative the firearm, ammunition, and
+extended capacity were deposited in the bag by him with an intent to have the
+object for his use or benefit on a later occasion and therefore meeting the
+test of constructive possession as well.
+g.
+conclusion
+the only reasonable conclusion to be reached is that this was the
+accused’s duffel bag, his firearm, his ammunition, and his prohibited magazine
+housing the ammunition. he had both knowledge and control over these items.
+there is no evidence of passive acquiescence, nor is there any reasonable
+inference on the evidence before me, and the facts i have found noted above,
+that these items were placed (or “planted”) by someone else.
+despite the issue being undisputed at trial, for the sake of
+completion of the record, i find that the manner the firearm was stored
+(loaded, without a trigger lock, in an unsecured duffel bag, on a kitchen
+floor, with other occupants in the home) was “careless” as defined by 86(1) of
+the
+criminal code
+.
+for the reasons set out above, i find mr. mann guilty beyond a
+reasonable doubt on all counts before the court on information 998 24 31103237.
+released:  september 4, 2025
+justice
+s. robichaud
+see exhibit 1 to the proceedings “agreed statement of facts”
+it was later discovered through the evidence of ms. kaur, the
+accused’s spouse, that she and mr. mann had gone to quebec on a work-related
+trip during their absence.
+presumably it is the same year (2011) and vin, but evidence was not
+led specifically on that point.
+no statement was led by the crown and therefore has no bearing on
+this decision.
+later identified at trial as mandeep singh.
+r. v. villaroman
+, supra, at paras.
+30, 35-42
+r. v. lights
+,
+2020 onca 128
+, 149 o.r. (3d) 273, at para.
+39
+,
+and in
+r. v. fauder
+,
+2021 onca 226
+, 403 c.c.c. (3d) 43, at paras.
+84–87
+r. v. mustard
+2016 mbca 40, at para 31
+, and
+r v
+grandinetti
+,
+2005 scc 5 (canlii)
+, 1 scr 27, at para
+47
+r v villaroman
+,
+supra,
+at para
+36
+r. v. appleton
+,
+2024 onca 329
+r. v. choudhury
+,
+2021 onca 560
+, at para.
+19
+.
+2025 onca 441
+2010 scc 8
+, 1 s.c.r. 253, at para.
+17

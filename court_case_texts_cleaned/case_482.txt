@@ -1,0 +1,1658 @@
+warning
+the court hearing this matter directs that the following notice be
+attached to the file:
+a
+non-publication and non-broadcast order in this proceeding has been issued
+under
+subsection 486.4(1)
+of the
+criminal code
+.
+this subsection and
+subsection 486.6(1)
+of the
+criminal code,
+which is concerned with the
+consequence of failure to comply with an order made under
+subsection 486.4(1)
+,
+read as follows:
+486.4  order
+restricting publication
+— sexual offences.
+— (1)  subject to subsection (2), the presiding judge or justice
+may make an order directing that any information that could identify the victim
+or a witness shall not be published in any document or broadcast or transmitted
+in any way, in proceedings in respect of
+(
+a
+)   any
+of the following offences:
+(i)   an
+offence under section 151, 152, 153, 153.1, 155, 160, 162, 162.1, 163.1, 170,
+171, 171.1, 172, 172.1, 172.2, 173, 213, 271, 272, 273, 279.01, 279.011,
+279.02, 279.03, 280, 281, 286.1, 286.2, 286.3, 346 or 347, or
+(ii)  any
+offence under this act, as it read from time to time before the day on which
+this subparagraph comes into force, if the conduct alleged would be an offence
+referred to in subparagraph (i) if it occurred on or after that day; or
+(
+b
+)   two
+or more offences being dealt with in the same proceeding, at least one of which
+is an offence referred to in paragraph
+(a)
+.
+(2)
+mandatory
+order on application
+— in proceedings in respect of the offences referred
+to in paragraph (1)(
+a
+) or (
+b
+), the presiding judge or justice
+shall
+(
+a
+)   at
+the first reasonable opportunity, inform any witness under the age of eighteen
+years and the victim of the right to make an application for the order; and
+(
+b
+)   on
+application made by the victim, the prosecutor or any such witness, make the
+order.
+.   .   .
+486.6  offence
+— (1)  every person who fails to comply with an order made under
+any of
+subsections 486.4(1)
+to (3) or subsection 486.5(1) or (2) is guilty of
+an offence punishable on summary conviction.
+citation:
+r. v. b.s.
+, 2025 oncj 34
+date:
+january 15, 2025
+court
+file no:  23-37101330
+o n t a r i o   c o u r t   of   j u s t i c e
+b e t w e e n :
+his majesty the king
+respondent
+-and-
+b.s.
+applicant
+­­­­­­­­­­­
+before
+justice michael g. march
+heard
+on november 20, 2024
+reasons
+for decision on s. 11(b)
+charter
+application released on january 15,
+2025
+goher irfan….…………..…………….………………………….counsel for the crown
+dawn
+dickinson…………….….………………...………………counsel for the accused
+march, m.g., j. :
+introduction:
+1
+.
+this is a case about the propriety and timing of
+a section 11(b) application under the
+canadian charter of rights and freedoms
+(“the
+charter
+”) post-verdict.  following two days of hearing of a prior
+sexual history, pre-trial application under
+s. 276
+of the
+criminal code of
+canada
+(the “
+code
+”), and a seven-day trial, i found the offender, b.s.
+guilty on june 12, 2024 in respect of eight of the eighteen offences with which
+he was charged.  all of the crimes committed by him were of a sexual nature.
+his main victim was his cousin, e.w., his junior by some ten years.
+2
+.
+on july 17, 2024, b.s. first notified the court through
+his new counsel of his intention to bring a
+s. 11(b)
+charter
+application
+alleging that his right to be tried within a reasonable time had been infringed
+or denied. to that point in time, no whisper of complaint by the defence had
+been made about the pace of his proceedings.
+3
+.
+at considerable expense to the publicly funded
+legal aid system, b.s. retained new counsel to argue this application before me,
+and transcripts were ordered of numerous appearances b.s. made in this court to
+chronicle how his charges proceeded through to the end of trial.
+4
+.
+b.s.’s counsel on the application, not his trial
+counsel, urged me to undertake a close examination of the
+jordan
+factors
+to determine its outcome, and to refuse to summarily dismiss the application as
+requested by the crown.
+5
+.
+at first blush, the argument made by b.s.’s new counsel
+appeared compelling.  the information (“info. no. 1”) alleging the first set of
+charges against him was sworn on march 5, 2021. however, two additional sets of
+charges were laid against b.s. complicating somewhat his combined trial on two
+of those sets, which ultimately ended on january 15, 2024.
+6
+.
+while it is true his trial took over 34 months,
+or more precisely 1046 days, to complete in provincial court and therefore
+exceeded the presumptive ceiling of 18 months established by the supreme court
+of canada (“scc”) in its benchmark decision of
+r. v. jordan
+,
+2016 scc
+27
+, upon closer analysis, it is readily apparent that much of the delay was
+caused by the defence, or implicitly waived by the defence.
+7
+.
+for the following reasons, i am compelled to
+dismiss this application primarily based on the principles of law articulated by
+the scc in its decision of
+r. v. j.f
+.
+2022 scc 17
+.
+8
+.
+in my view, post-verdict 11(b)
+charter
+applications ought to be carefully considered by the defence and brought only
+in rare and exceptional circumstances. they cannot be concealed in defence
+counsel’s back pocket only to be resorted to at the 11
+th
+hour to
+attempt to avoid the consequences of their client’s criminal conviction.
+position of
+the applicant
+9
+.
+the defence submitted that one of the greatest
+factors causing b.s.’s trial to be delayed was the late disclosure of crucial
+materials to the defence, and court unavailability.
+10
+.
+the defence contended that b.s. did not waive
+his rights under
+section 11(b)
+of the
+charter
+, either explicitly or
+implicitly.
+11
+.
+further, the defence argued that there were no
+exceptional circumstances, to which the crown can point, to justify a refusal
+to stay the proceedings against b.s.
+12
+.
+the crown, it is advanced, failed to mitigate
+the delay it witnessed accruing, and b.s.’s trial became a symptom of “the
+complacency of delay” as referred to in
+jordan
+. accordingly, a stay is
+the only appropriate remedy to address the breach of b.s.’s right to trial
+within a reasonable time.
+13
+.
+regarding the failure by the defence to bring
+its 11(b)
+charter
+application 60 days in advance of the trial date as
+required by the rules of the ontario court of justice, the defence submits that
+the rules are procedural in nature, meant to facilitate a fair and expeditious
+determination of
+charter
+issues, by ensuring all parties have adequate
+notice of intended applications. noncompliance with the rules is not fatal. rules
+are meant to be flexible.
+14
+.
+furthermore, the
+s. 11(b)
+charter
+right
+is dynamic in nature.  the court must assess whether noncompliance with the
+rules offends fairness, or unjustly disadvantages one party to the point of
+insurmountable prejudice.
+15
+.
+put otherwise, the failure to adhere to a
+procedural rule is not ideal; however, it cannot extinguish the importance of upholding
+a constitutional right.
+16
+.
+this application, defence counsel submits,
+deserves consideration and determination in accordance with the factors specified
+for analyzing delay as set out in
+jordan
+, and expounded upon by the
+court of appeal for ontario in
+r. v. coulter
+,
+2016 onca 704
+.
+position of
+the respondent
+17
+.
+crown counsel countered that while there were no
+specific waivers of b.s.’s rights under
+section 11(b)
+of the
+charter
+,
+there were periods of delay specifically caused or contributed to by the
+defence, or delay that was implicitly waived by the defence, as follows:
+a)
+275 days between september 15, 2021 and june 17,
+2022 on account of the defence failure to set trial dates,
+b)
+102 days between june 17, 2022 and september 27,
+2022 attributable to defence counsel’s consent to join previous charges with
+more recent ones in a new information, and
+c)
+226 days between december 16, 2022 and august 8,
+2023 owing to defence counsel’s unavailability for the first date offered to
+try this case when the crown and the court were ready to commence.
+18
+.
+crown counsel further contended that two distinct
+periods of time were the result of exceptional circumstances causing delay,
+namely:
+a)
+the covid 19 pandemic (which locally, the crown submitted was worthy
+of a 180 day deduction), and
+b)
+crown counsel’s illness on december 20, 2023, preventing oral
+submissions from being made at the conclusion of the hearing of trial evidence
+until january 15, 2024 (26 days).
+19
+.
+fatal to the application, the crown argued, was
+the failure by b.s. through his counsel to raise the purported unreasonableness
+of the delays engendered in bringing his matters to trial until after his
+conviction on june 12, 2024. no exceptional circumstances existed to justify
+the application having been brought so late in the day.
+20
+.
+clearly, trial judges have the power to
+summarily dismiss
+charter
+applications including those brought under
+section 11(b).  the broader interests of justice are not solely informed by those
+of the accused’s. they include the need to conduct “all litigation in a fair,
+orderly and efficient manner” (see
+r. v cody,
+2017 scc 31
+at paras.
+201
+;
+r. v. allison
+2022 onca 329
+at paras.
+57 – 70
+).
+21
+.
+an accused is obliged to raise the
+unreasonableness of trial delay in a timely manner. when the anticipated end of
+trial is known and trial dates are set, the accused has a duty to raise the
+issue and bring the application
+before the trial
+.
+22
+.
+the accused must act diligently. as was made
+clear by the scc in
+j.f.
+, “while an accused has no legal obligation to
+assert their right to be tried within a reasonable time in order for that right
+to exist, this does not entitle the accused to do nothing when they believe
+that their section 11(b) right is not being or will not be respected.
+the court’s teachings are clear on this point: s. 11(b) does not allow an accused to benefit
+unduly from the lengthening of delay, notwithstanding the fact that it is the
+crown that has a constitutional obligation to bring the accused to trial.
+” (see
+r. v. j.f
+, supra,
+at para.
+58
+).
+23
+.
+inaction on the part of the defence does not
+constitute waiver of the period of delay in all instances; however, it is a
+relevant factor as to whether delay was indeed waived.
+24
+.
+further, delay caused as a result of a late
+s. 11(b)
+charter
+application need not be classified as waiver, since in such
+circumstances, delay is more properly attributable to defence caused delay
+under the
+jordan
+analysis.
+25
+.
+as expressed by the scc in
+j.f.
+as well,
+“as a general rule, in the context of a single trial, an accused who believes
+that the right to be tried within a reasonable time has been infringed must act
+diligently and apply for a remedy before the trial is held (see
+r. v. j.f.
+,
+supra,
+at para.
+3
+).
+26
+.
+unless there are exceptional circumstances
+justifying it, the application must be brought prior to the trial or prior to
+the trial’s end where the delay issue crystallized mid-trial. failure to do so
+should be fatal to the claim (see
+r. v. rabba
+,
+1991 canlii 7073
+(onca)
+at para.
+5
+;
+r. v. cortes-rivera
+,
+2019 abca 62
+at para.
+3 -7
+,
+r. v. yizhak
+,
+2022 oncj 476
+at paras.
+16 – 35
+).
+27
+.
+a failure to express any concern about delay on
+the record can lead to a finding that there was a consistent pattern of
+complacency on the part of the defence, depriving both the crown and the court
+from proactively addressing any such concern (see
+r. v. kandeh
+o.j. no. 5000 (oncj) at paras. 36 – 47
+).
+28
+.
+again, in
+j.f.
+, the scc was unequivocal
+as to the appropriate timing of a
+s. 11(b)
+charter
+application.  it
+ought to be brought
+pre-trial
+to allow the parties to know in advance
+the bounds of reasonableness, so proactive measures can be taken to remedy any delay
+(see
+r. v. j.f.
+,
+supra
+at para.
+35
+).
+29
+.
+if the accused does not bring the application under
+section 11(b)
+of the
+charter
+prior to trial, simply put, it is late.
+flowing from its tardiness, the court must then determine the following two issues:
+a)
+are there circumstances in the case that justify the late
+application?
+b)
+if not, what are the consequences of the
+lateness?
+(see
+r. v. europe
+,
+2024 onsc 4867
+at paras.
+18 - 41
+)
+30
+.
+crown counsel argues that the defence in this
+case cannot point to any circumstances to justify its late application.  consequently,
+the crown and court were completely deprived of the opportunity to take
+immediate steps to remedy the delay.
+history of the
+proceedings
+31
+.
+some twenty-five transcripts of b.s.’s
+appearances before this court were filed in support of his
+s. 11(b)
+charter
+application.  upon my review of them, the written facta prepared by, and oral submissions
+made by crown and defence counsel, i find i need only consider the following
+dates to determine the outcome of this application:
+chart
+of
+critical
+dates
+dates
+action
+taken
+cumulative
+delay
+march
+5-6
+2021
+b.s.
+was
+arrested and the information (info. no.
+1) setting out his charges were sworn on march 5. he was released
+the following day on crown consent
+1 day
+march
+11 – may 18,
+2020
+disclosure:
+request
+sent for the disclosure by defence and sent out by crown on may 18, counsel
+pre-trial (cpt) held.
+68
+days
+august 13, 2021
+judicial pre-trial (jpt) held. crown to provide updated synopsis.
+police to interview a secondary witness.  defence to confirm whether a
+s. 276
+application will be brought under the
+code
+.  crown to provide an early guilty
+plea resolution offer
+153
+days
+september
+15,
+2021
+remand court:
+second jpt held off record.  all outstanding issues addressed by
+counsel.  crown and defence counsel directed by the court to secure hearing
+dates for the
+s. 276
+application and trial dates as well on record by
+presiding judge.
+186
+days
+october
+19,
+2021
+defence has not yet secured hearing dates for its
+s.
+276
+application.  no trial dates have yet been set.
+220
+days
+october
+29,
+2021
+b.s. is charged with a second set of alleged offences as set out in a
+further information (info. no. 2).
+230 days post sworn date
+for info. no. 1/ 0 days for info. no. 2
+november
+18,
+2021
+second cpt held after disclosure was made of the second set of
+charges to the defence.
+251 days
+post
+sworn date for info. no. 1/ 21 days for info. no. 2
+december
+14,
+2021
+disclosure
+:
+defence counsel advised that further
+disclosure was required to prepare its
+s. 276
+application (cell phone records
+of b.s. and complainant, roughly 1500 pp.)
+277 days
+post
+sworn date for info. no. 1/ 73 days for info. no. 2
+march
+25,
+2022
+disclosure
+:
+crown provided 1200 pp. of disclosure; defence counsel needed time to review.
+378 days
+post
+sworn date for info. no. 1/ 148 days for info. no. 2
+april 13,
+2022
+b.s. is charged with a third set of alleged offences.
+397 days
+post
+sworn date for info. no. 1/ 167 days for info. no. 2/ 0 days for info. no. 3
+august
+23,
+2022
+disclosure:
+crown
+provided disclosure to defence on b.s.’s third set of charges.
+529 days
+post sworn date for info. no. 1/ 299
+days for info. no. 2/ 132 days for info. no. 3
+october
+1
+8,
+2022
+a third jpt was held and the court approved two days for the
+s. 276
+hearing and six days for trial.
+n.b.:  the presumptive ceiling of 18 months or 547 days had already
+been surpassed by 38 days by this point with respect to b.s.’s first set of
+charges.  in spite of the court’s direction on sept. 15, 2021 to set hearing
+dates for the
+s. 276
+application and for the trial, this had still not been
+done.
+585 days
+post
+sworn date for info. no. 1/ 352 days for info. no. 2/ 188 days for info. no.
+3
+november
+1,
+2022
+on record,
+s. 276
+hearing dates were set for aug. 8
+and sept. 28, 2023.  trial dates were reserved for nov. 16, 17, 20, 21, 22
+and 23.  two sets of b.s.’s charges were to tried together in a relaid new
+info.
+no concern is raised by defence as to length of delay already
+engendered for all sets of charges.
+598 days
+post
+sworn date for info. no. 1/ 365 days for info. no. 2/ 201 days for info. no.
+3
+august 8, 2023
+-november 27, 2023
+the s. 276 application was heard on its scheduled
+dates, aug. 8 and sept. 28.  it was granted.  the trial later  commenced as
+expected on november 16 and finished on nov. 27.  the nov. 17 trial date was
+vacated and replaced with nov. 27.  final submissions of counsel on the
+evidence called at trial adjourned to dec. 14, 2023
+n.b.  again, in spite of all of the court
+appearances made by b.s. during the hearing of the
+s. 276
+application and the
+trial evidence, and the presumptive ceilings having been surpassed in respect
+of all three sets of charges, no concern is raised by the defence regarding
+the length of the delay.
+999 days post sworn date for
+info. no. 1/ 766 days for info. no. 2/ 602 days for info. no. 3
+december 14, 2023
+court is unavailable to hear counsel submissions on
+evidence due to judge’s personal matters; case is adjourned to december 20,
+2023
+1016 days post sworn date for
+info. no. 1/ 783 days for info. no. 2/ 619 days for info. no. 3
+december 20, 2023
+crown is ill with covid and cannot proceed with
+final submissions.
+1022 days post sworn date for
+info. no. 1/ 789 days for info. no. 2/ 625 days for info. no. 3
+january 15, 2024
+final submissions of counsel heard on trial
+evidence.
+1048 days post sworn date for
+info. no. 1/ 815 days for info. no. 2/ 651 days for info. no. 3
+june 12, 2024
+trial judgment rendered in writing (102 pp.) by the
+court finding b.s. guilty on eight counts of a 18 count relaid, new info.
+combining two of his outstanding sets of charges.
+n/a
+july 17, 2024
+defence notified the court of its intention to bring
+a
+s. 11(b)
+charter
+application post-verdict
+n/a
+november 20, 2024
+section 11 (b)
+charter
+application was heard
+n/a
+january 15, 2025
+application dismissed with written reasons herein
+(** pp.)
+n/a
+issues
+32
+.
+the history of the proceedings and counsel submissions raise the
+following issues for resolution:
+a)
+are there legitimate circumstances in this case
+that justify the late date upon which the s. 11(b) application was brought?
+b)
+if not, what are the consequences of the
+lateness?
+c)
+should the application be summarily dismissed
+?
+the law
+33
+.
+in
+j.f
+., the scc was dealing with an
+accused who was acquitted on all charges at his first trial.  the crown
+successfully appealed, and a re-trial was ordered.  only at the second trial
+did the accused raise the argument that his
+s. 11(b)
+charter
+rights were
+violated.
+34
+.
+notwithstanding b.s. has only had one trial thus
+far, the general principles articulated by the scc in
+j.f.
+are more than
+simply helpful and instructive to me in my deliberation over b.s.’s application
+before me, they guide me almost completely in my determination of its outcome.
+35
+.
+as pointed out by wagner c.j. in
+j.f
+.:
+while
+jordan
+does
+not indicate the point in time when an accused must bring a s. 11(b)
+motion, the court has nonetheless been clear about how it wishes all
+participants in the criminal justice system to act: at all stages of the trial
+process, everyone must take proactive measures to remedy any delay and to
+ensure that the accused is tried in a timely manner (
+jordan
+, at
+paras.
+137‑39
+;
+r.
+v. thanabalasingham
+,
+2020 scc 18
+, 2
+s.c.r. 413, at para.
+9
+).
+36
+.
+further, the chief justice explained:
+defence
+conduct is considered under the
+jordan
+framework, since the
+delay attributable to the defence is subtracted from the gross total delay
+(para. 60). defence delay has two components: (1) delay waived by the
+defence, and (2) delay caused solely or directly by the defence (
+jordan
+,
+at paras.
+61 and 63
+;
+cody
+,
+at para.
+26
+). inaction may
+amount to illegitimate conduct on the part of the defence, because “[i]llegitimacy
+may extend to omissions as well as acts” (
+cody
+, at para.
+33
+). as this court
+said in cody, the defence may not benefit from its own inaction or
+lateness in taking action; it must act proactively:
+accused persons must
+bear in mind that a corollary of the s. 11
+(b)
+right “to be tried
+within a reasonable time” is the responsibility to avoid causing unreasonable
+delay. defence counsel are therefore expected to “actively advanc[e] their
+clients’ right to a trial within a reasonable time, collaborat[e] with crown
+counsel when appropriate and . . . us[e] court time efficiently” (
+jordan
+,
+at para.
+138
+). [para. 33]
+an accused
+who sees delay lengthening must therefore respond in a proactive manner. being
+proactive may mean filing a s. 11(b) motion where the accused believes
+that their right to be tried within a reasonable time is not being or will not
+be respected (
+jordan
+, at para.
+85
+). like any other
+application made by an accused, a motion of this kind must be brought
+“reasonably and expeditiously” (para. 85). lateness in raising delay is
+contrary to the proper administration of justice, because such a practice
+serves to waste judicial resources. indeed, the
+jordan
+framework
+is specifically designed to eliminate inefficient practices that impact on the
+justice system (paras. 41 and 116). bringing a s. 11(b) motion before
+the end of the trial allows the accused to alert the crown and the court to
+their concerns about delay. as a result, all parties can take proactive measures
+and cooperate to expedite the proceedings.
+it
+is generally recognized that an accused who raises the unreasonableness of
+delay after trial (
+r. v. rabba
+(1991),
+1991 canlii 7073 (on ca)
+, 64
+c.c.c. (3d) 445 (ont. c.a.)), and particularly after conviction (
+r. v.
+warring
+,
+2017 abca 128
+, 347
+c.c.c. (3d) 391, at para.
+11
+;
+r. v. c.d.
+,
+2014 abca 392
+, 588
+a.r. 82), is not acting in a timely manner. in
+k.g.k.
+, moldaver j.
+interpreted the prospective approach adopted in
+jordan
+as
+“encourag[ing] pre‑trial s. 11
+(b)
+applications”
+(para. 43 (emphasis added)). the defence is in fact encouraged to act
+before the start of the trial, since the
+jordan
+framework
+allows “the parties to know ‘
+in advance
+, the bounds of reasonableness so
+proactive measures can be taken to remedy any delay’” (
+k.g.k.
+, at
+para.
+43
+, quoting
+jordan
+,
+at para.
+108
+(emphasis in
+original)).
+in
+short, a duty to act proactively also rests on the accused. as a result, the
+accused must indicate that their right to be tried within a reasonable time has
+not been respected and, where the circumstances require, bring a motion for a
+stay of proceedings in a timely manner. as a general rule, this means before
+the trial is held. by the time the trial dates are set, the parties are
+generally in a position to know whether the trial delay will exceed the
+applicable presumptive ceiling, and the defence can raise any concerns it may
+have. however, it is not out of the question that, exceptionally, an
+infringement of the s. 11(b) right will reveal itself only once the trial
+has begun. in such a case, the accused must also act proactively.
+37
+.
+the scc was careful to emphasize how mere
+silence on the part of the accused does not constitute waiver of his or her
+s.
+11(b)
+charter
+right.  as stated by wagner c.j. at para. 52:
+an accused’s silence or
+inaction cannot in itself give rise to an inference that the accused has waived
+delay, although it may be a relevant and important factor in the waiver
+inquiry. this conclusion is an obvious one given the fact that any person
+charged with an offence has the right to be tried within a reasonable time
+without having to explicitly state their wish to be protected by this right (
+rabba
+;
+see also
+morin
+, at p. 802). an accused nonetheless has a duty
+to raise an infringement of their right to be tried within a reasonable time in
+a timely manner. at the risk of repeating myself, an accused may not benefit
+from their own inaction or lateness in taking action. the new
+framework sanctions an accused’s inaction or lateness in taking action.
+inaction may be considered illegitimate conduct, and the delay associated with
+it may be attributed to the defence when the unreasonableness of delay is being
+determined (
+jordan
+, at paras.
+63, 113 and 121
+;
+cody
+,
+at para.
+33
+).
+38
+.
+further, at para. 58, the chief justice added:
+while an accused has no
+legal obligation to assert their right to be tried within a reasonable time in
+order for that right to exist (
+morin
+, at p. 802, cited by the court
+of appeal, at para. 60), this does not entitle the accused to do nothing
+when they believe that their s. 11(b) right is not being or will not
+be respected. the court’s teachings are clear on this point: s. 11(b)
+does not allow an accused to benefit unduly from the lengthening of delay,
+notwithstanding the fact that it is the crown that has a constitutional obligation
+to bring the accused to trial.
+39
+.
+in
+yizhak
+,
+supra
+, my colleague,
+band j. interpreted and synopsized some of these salient principles as follows:
+in
+j.f.
+,
+supra
+, the
+supreme court addressed the timing of s. 11(b) applications. while
+jordan
+did
+not indicate the point in time when a s. 11(b) application must be brought,
+“the [supreme] court has nonetheless been clear about how it wishes all
+participants in the criminal justice system to act: at all stages of the trial
+process, everyone must take proactive measures to remedy any delay and to
+ensure that the accused is tried in a timely manner” (para. 30). when an
+accused sees delay lengthening, they must “respond in a proactive manner” and
+bring a motion “reasonably and expeditiously” (para. 34). the court accepted
+that “it is not out of the question that
+exceptionally
+, an
+infringement of the s. 11(b) right will reveal itself once the trial has begun”
+yet, even in such a case, “the accused must also act proactively.” (para. 36.
+emphasis added.) the accused’s duty to act proactively means that they “must
+indicate that their right to be tried within a reasonable time has not been
+respected”…. (
+ibid
+.)
+40
+.
+the facts in
+yizhak
+, supra
+were similar
+to those in the case before me.  mr. yizhak, like b.s., did not bring his
+s.
+11(b)
+charter
+application until after he was found guilty at the
+conclusion of his trial.  only then did mr. yizhak announce his intention to
+proceed with the application.  he did so despite knowing his trial date was set
+with the assistance of his lawyer on february 21, 2021, and with an anticipated
+end date of september 9, 2021.  his charges were sworn to in the information upon
+which he was tried before band j. on september 25, 2019.  mr. yizhak, through
+his counsel, accepted a trial date 17 months past the date the information was
+sworn.
+41
+.
+in b.s.’s case, the delay was even worse when
+the trial was set for him on november 1, 2022.  his first set of charges were
+already 20 months old by that point (i.e. the sworn date for info. no. 1 was
+march 5, 2021).  not a peep was heard from him or his counsel that his trial would
+take too long if it was not going to end until november 2023, in other words, a
+further year into the future.
+42
+.
+under the circumstances where the delay was certainly
+not waived by the defence explicitly, but at a minimum, acquiesced to, band j. went
+on to dismiss mr. yizhak’s s. 11(b) application as follows:
+the defence failed to exercise its duty to raise
+concerns and to act proactively in february 2021, when the bounds of the trial
+became known. that failure prevented all parties from cooperating and taking
+steps to remedy the situation. such inaction constituted
+illegitimate
+defence conduct
+in this case. the accused must not be permitted to run out
+the clock in silence, and then be rewarded for doing so after trial.
+this application should have been brought in the
+spring of 2021, not after trial when nothing could be done to ameliorate the
+delay. in the extraordinary circumstances of this case, the defence conduct in
+regard to this application is fatal because it is contrary to the proper
+administration of justice.
+43
+.
+later, in emphasizing the
+illegitimacy
+of
+the defence inaction, and using it as a basis for a ‘defence caused delay’ deduction
+under the usual
+jordan
+rubric for calculating net delay, band j. stated
+at para. 38:
+[a]s the supreme court
+explained at para. 32 of
+cody
+,
+supra
+, “[i]irrespective
+of merit, a defence action may be deemed not legitimate in the context of a s.
+11(b) application if it is designed to delay
+or if it exhibits marked
+inefficiency or marked indifference toward delay.
+(emphasis added.)
+44
+.
+in
+kandeh, supra
+, my colleague, webber j.
+was faced with a
+s. 11(b)
+charter
+application post-conviction as well.
+mr. kandeh, like b.s., was found guilty of serious offences.  the findings of
+guilt following trial were made on july 21, 2022.  on october 25, 2022, the day
+before sentencing was to proceed, the defence filed the application.
+45
+.
+the defence argued that the
+jordan
+presumptive ceiling of 18 months in provincial court had been exceeded.  22.66
+months had elapsed between the swearing of the information and the submissions
+of counsel made on the last day of the trial.
+46
+.
+in stern language, webber j. summarily dismissed
+the application as follows:
+19  the
+application was not brought in a timely fashion. it was brought
+post-conviction. to complicate matters, the trial record is quite literally
+devoid of any expression of concern on the part of the applicant that delay was
+or was becoming a problem. while clearly an accused is not permitted to sit on
+his hands and do or say nothing about accruing delay until the ceiling has been
+breached, that is exactly what happened here. to be clear, i do not believe this
+to be a result of any subterfuge on the part of the defence, but i do conclude
+that the defence was quite content with, and at times endorsed, some of the
+delay that occurred, and that such behaviour amounted to at best a consistent
+pattern of complacency.
+20  i have no
+reason to believe that a complaint of delay was even on the applicant's radar
+until soon before sentencing submissions were to commence, months after
+convictions had been registered. if it was, he did not say or do anything to
+communicate as much to the crown or court.
+21  the
+recognised problem with this behaviour is that it can understandably lead other
+players in the case to proceed on the basis that delay was not a concern. thus,
+at the very least, the crown, and for that matter the court as well, were
+deprived of any right to proactively address the issue.
+47
+.
+webber j. also provided a succinct, but thorough
+review of the authorities allowing him to arrive at the conclusion he did.  he
+stated:
+33  as well,
+when i was initially asked or originally asked to summarily dismiss the 11(b)
+application, i did not have the benefit of the supporting jurisprudence that i
+do now. firstly, i will refer to the court of appeal's decision in
+r.
+v. kazman
+(2020) o.j. no. 136
+, ontario court of appeal, there at
+paragraph 14 the court wrote:
+there can be no doubt
+that a trial judge has the authority to summarily dismiss motions brought at
+trial, including s. 11(b) motions. that power is recognized in rule 34.03 of
+the criminal proceedings rules for the superior court of justice ...the case
+law from this court also acknowledges a trial judge's power to summarily
+dismiss motions. without that power, trial judges could not properly control
+the proceedings before them..."
+34  justice
+doherty thereafter cites
+r. v. imola
+(2019) onca 556 at
+paragraph 17.
+35  the court
+also noted, at paragraph 15, that a trial judge, when asked to summarily
+dismiss a motion, must consider broader administration of justice concerns,
+including the need to conduct all litigation, including criminal litigation, in
+a fair, orderly and efficient manner. it falls to trial judges to decide where
+the interests of justice lie in a specific case.
+36  when an
+11(b) motion such as the one in this case is brought after a conviction, and
+the record is all but silent from the applicant before such date, and thus has
+not highlighted 11(b) concerns, the administration of justice is done a
+disservice. the crown and court have been deprived their post-
+jordan/cody
+entitlement
+to timely notice of such grievance, and as well of their right to attempt to
+rectify the problem.
+37  an
+untimely 11(b) application brought postconviction does not ptomote the fair,
+orderly, or efficient nature of the litigation, and can attract summary
+dismissal.
+38
+in
+r.
+v. j.f
+., the supreme court noted as follows, paragraph 31:
+"the
+predictability of the new framework makes the parties more accountable and
+encourages them to be proactive about delay (
+jordan
+, at para.
+112
+;
+r. v. cody
+,
+2017 scc 31
+,
+1 s.c.r. 659
+, at para.
+36
+)."
+39  the
+decision goes on at paragraph 34:
+"an accused who
+sees delay lengthening must [i emphasise must] therefore respond in a proactive
+manner. being proactive may mean filing a s. 11(b) motion...like any other
+application made by an accused, a motion of this kind must be brought
+'reasonably and expeditiously'... lateness in raising delay is contrary to the
+proper administration of justice, because such a practice serves to waste
+judicial resources. indeed, the
+jordan
+framework is
+specifically designed to eliminate inefficient practices that impact on the
+justice system... bringing a s. 11(b) motion before the end of the trial allows
+the accused to alert the crown and the court to their concerns about delay. as
+a result, all parties can take proactive measures and co operate to expedite
+the proceedings."
+40  the crown
+and court have clearly been deprived of this opportunity by the applicant's
+inaction in this case.
+41  paragraph
+35:
+"it is generally
+recognized that an accused who raises the unreasonableness of delay after
+trial (
+r. v. rabba
+(1991),
+1991 canlii 7073 (on ca)
+,
+64 c.c.c. (3d) 445
+(ont. c.a.)), and particularly
+after conviction (
+r. v. warring
+,
+2017 abca 128
+,
+347 c.c.c. (3d) 391
+...[that] accused is not acting in a timely
+manner."
+42  the court
+emphasised that the accused must bring s.11(b) motions in a timely manner, but
+perhaps more to the point, the court stressed that the current 11(b) culture
+demands timely proactiveness from the accused. it is an obligation that must be
+satisfied.
+43  obviously,
+there is nothing about the applicant's motion here that could possibly satisfy
+the expectation that such applications be brought in a timely manner, nor that
+the applicant displayed even an iota of proactivity.
+44  viewing
+expectations of the accused from another perspective, the court noted
+specifically that an accused is simply not entitled to do nothing in the face
+of impugned delay. the court further noted, at paragraph 58, as follows:
+"while an accused
+has no legal obligation to assert their right to be tried within a reasonable
+time in order for that right to exist...this does not entitle the accused to do
+nothing when they believe that their s. 11(b) right is not being or will not be
+respected...s. 11(b) does not allow an accused to benefit unduly from the
+lengthening of delay..."
+45  contrary
+to this clearly stated expectation of the supreme court of canada, the
+applicant in this case did absolutely nothing about 11(b) until postconviction.
+**********************
+48  as i turn
+to the conclusion, i want to briefly return to the language of justice doherty
+in
+kazman
+, at paragraph 15, where the court said:
+"when asked to
+summarily dismiss a motion, a court must consider broader administration of
+justice concerns, including the need to conduct all litigation, including
+criminal litigation, in a fair, orderly, and efficient manner. it falls to
+trial judges to decide where the interests of justice lie in each specific
+case."
+49  a
+post-trial s.11(b) application, such as we have in this case, threatens to
+frustrate each of the broader administration of justice concerns articulated in
+this passage. i believe that the interests of justice favour summarily
+dismissing this application.
+48
+.
+i was, of course, guided by the decisions of the
+scc and my colleagues as i come to my own conclusions on the application before
+me.
+analysis
+do any legitimate
+circumstances exist for the failure to bring the s. 11(b) charter application until
+more than five months post-verdict (june 12, 2024 – november 20, 2024),
+thirteen months following the setting of the
+s. 276
+pre-trial application and
+trial dates (november 1, 2022 – november 27, 2023) and twenty-six months after
+the court directed crown and defence counsel to secure pre-trial application
+and trial dates (september 15, 2021 – november 27, 2023)?:
+49
+.
+on a careful review of the transcripts, i cannot
+conceive of a legitimate reason why the defence did not put the crown and court
+on notice of its intention to bring a
+section 11(b)
+charter
+application
+before the conclusion of the trial, if this was a legitimate concern for the
+accused.  when the trial dates were finally set on november 1, 2022, the bounds
+were certainly set, and in large part, adhered to.
+50
+.
+additionally, on november 1, 2022 when the
+s.
+276
+code
+application hearing and trial dates were set, one very good,
+legitimate reason existed for why trial counsel remained silent as to b.s.’s
+s.
+11(b)
+charter
+rights.  he kept getting charged making her task of
+defending him all the more difficult.
+51
+.
+over the span of his accruing charges, b.s.’s
+trial counsel agreed with crown counsel that it made sense to have the
+allegations in infos. no. 1 and no. 3 tried together.  they involved one of the
+same complainants, the main one, b.s.’s younger cousin, e.w.  it was a
+sensible, fair concession made by trial counsel for b.s.  it allowed him to
+have one trial, not two.
+52
+.
+b.s.’s counsel on the
+s. 11(b)
+charter
+application
+ignores completely the effect b.s.’s accruing charges had on the intricacies of
+his case.
+53
+.
+it must be remembered that after b.s. was
+originally charged on march 5, 2021, he was arrested and charged again on
+october 29, 2021 with offences involving the same complainant, e.w.
+54
+.
+on april 13, 2022, he was charged yet a further
+time with more offences relating to e.w. and another complainant.
+55
+.
+in an agreed statement of facts filed on the
+hearing of that application, b.s.’s trial counsel and crown counsel decided it
+would be “efficient” to proceed on one replacement information joining the
+allegations set out in infos. no. 1 and no. 3.  to do so would save court
+resources, and the complainant, e.w., would only have to testify once.
+56
+.
+the consequence of the agreement between counsel
+meant the trial on the replacement information would take longer.  it would
+require more witnesses to be called, and more issues to be resolved.
+57
+.
+i can safely infer that experienced trial
+counsel, who has appeared before me on many occasions and from whose assistance
+b.s. greatly benefitted, would have discharged her ethical obligation to share
+those pros and cons of joinder with her client, b.s.
+58
+.
+ultimately, the point is . . . trial dates were
+agreed to by crown and defence over a year into the future beyond their set
+date on november 1, 2022.  the presumptive
+jordan
+ceiling of 18 months
+had already been exceeded in respect of b.s.’s first set of charges.  yet the
+defence stood mute on the issue of delay.  if the time was ripe to ever
+complain about that fact the trial would not start until over a year later, it
+was then and there.
+what are the real
+consequences of the late
+s. 11(b)
+charter
+application brought by the defence?
+59
+.
+in answer to the question posed directly above,
+in my humble view, i would say the court and crown were literally hogtied by
+the defence when the complaint was only raised at the completion of trial.
+there were no means left to address the accused’s concern over delay.  that
+ship had veritably sailed.
+60
+.
+in a case i decided some eighteen months ago,
+r.
+v. k.d
+.,
+2023 oncj 252
+, i had this to say about the efforts i am prepared
+to go to in order to offer early trial time to those accused who truly desire
+it.  i wrote:
+63.      as the local administrative judge,
+and taking a “bird’s-eye view” i have little hope of ever attempting to meet
+the demands placed on scarce judicial resources unless i direct my trial
+co-ordinator to double-book, triple-book and quadruple-book trial upon trial,
+each and every available, court sitting day. i venture i give up more chambers
+days than the vast majority of trial judges in the ocj simply in an attempt to
+meet the ever-increasing demands for trial time.
+61
+.
+i could have and would have given up chambers
+days to have b.s.’s trial heard earlier if that is what he actually wanted.  my
+colleague, richardson j., would have done likewise, if the matter could have
+been brought on before him more quickly.  i have seen him do so on numerous
+occasions in the past.
+62
+.
+later in
+k.d
+., i went on to say:
+106.   k.d.’s case was not an island. it was one of the
+many demanding the court’s attention. the court did what it could.
+107.   had defence counsel drawn to the court’s
+attention that k.d. was insisting on having his trial completed by april 20,
+2022, the date upon which the presumptive ceiling was attained, i have no doubt
+whatsoever that the court and the crown would have made greater efforts to
+attempt to meet his wish.
+108.   to the contrary, it is clear to me that counsel
+for k.d. had his eye on the ball for when his charges would reach their
+supposed, ‘drop dead’ date. he was looking to use his
+section 11(b)
+charter
+right
+as a positive defence. to do so was never the spirit or intent of the accused’s
+section 11(b) right. as explained by moldaver j in
+jordan
+:
+at the
+same time, we recognize that some accused persons who are in fact guilty of
+their charges are content to see their trials delayed for as long as possible.
+indeed, there are incentives for them to remain passive in the face of delay.
+accused persons may seek to avoid responsibility for their crimes by embracing
+delay, in the hope that the case against them will fall apart or they
+will obtain a stay of proceedings. this operates to the detriment of the public
+and of the system of justice as a whole. section 11
+(b
+) was not intended
+to be a sword to frustrate the ends of justice (
+morin
+, at pp. 801-2).
+109
+.
+while i accept that there were reasons why
+defence counsel could not have brought the section 11(b) application earlier
+than he did, given the nature of
+k.d.’s
+retainer and
+the
+need to seek the
+approval of legal aid ontario to order transcripts of the proceedings, i find
+that he could have and should have said more about the intention to bring an
+11(b) application before he agreed to seven days of trial in april 2022. on may
+21, 2021, he accepted those dates. further, on june 15, 2021, he was
+specifically informed that april 19, 20, 21 would be the first three dates
+reserved for
+k.d.’s
+trial.  if he was so incensed with those dates
+being set that far into the future, he ought to have said so unequivocally,
+forcefully and loudly.  that is the type of rancor i expect defence
+counsel to raise when asserting the
+s. 11(b)
+charter
+right of a client.  they are not to
+sit on their hands or lay in the weeds.
+110
+.
+instead, in this case on june 15, 2021,
+defence counsel stood mute regarding the
+proximity
+of
+the
+conclusion date for the trial to the
+presumptive ceiling. in my view, he ought to have spoken up. he did not.
+111
+.
+this court definitely would have done more to
+bring the trial to its conclusion, if properly
+placed
+on notice, that
+k.d.
+was insisting on
+strict adherence to the 18 month presumptive ceiling. unfortunately, the court
+received no clear warning the time allotted for completing the trial was taking
+too long.
+63
+.
+if i did not state it plainly enough in
+k.d.
+,
+i will now.  defence counsel cannot use
+s. 11(b)
+of the
+charter
+like an
+ace up their sleeve or a secreted dagger under their robes.  they cannot behave
+like a cheater at the poker table or a silent assassin.
+64
+.
+the time is not to complain when the trial has
+ended.  it is far too late.
+65
+.
+like schreck j. in
+europe
+, supra
+, at paras.
+32 - 41
+, i would infer that the entire period:
+a)
+from when trial dates are set,
+b)
+to the point the trial is anticipated to end,
+is a span of time
+implicitly waived by the defence.  it is, or ought to be, apparent to the
+defence when trial dates are accepted beyond the
+jordan
+presumptive limits
+in either provincial or superior court, when the bounds are known without a
+whisper of objection, it loses its right of complaint over that tract of time.
+66
+.
+in b.s.’s case, with the assistance of counsel,
+he set trial dates into the future (i.e. nov. 1, 2022) knowing his trial would
+not end for over a year (i.e. anticipated to be nov. 23, 2023).  i find he implicitly
+waived this period, when neither his counsel, nor he himself chose to voice any
+opposition to the wait.  alternatively, it must constitute defence caused
+delay.
+should this
+s. 11(b)
+charter
+application be summarily dismissed?
+:
+67
+.
+it should.  when one takes a holistic view of
+what happened in b.s.’s case, the answer is plain.  his accruing charges added
+a layer of complexity to the proceedings.  to be clear, none of what he faced
+in the way of charges involved intense rumination by the court over complex
+legal issues.  like so many criminal trials, his turned on issues of
+credibility and reliability.  now, his new counsel on this application wants
+those findings brushed aside and his imminent sentencing halted on account of a
+purported
+s. 11(b)
+charter
+violation.
+68
+.
+on my watch, i cannot allow this to occur.  i do
+not want to see, as my colleague webber j. observed in
+kandeh
+at para.
+36, “the administration of justice . . .done a disservice”.  long ago, the barn
+doors were opened on this case.  the horses were let out.  it is far too late
+now to have them rounded up and put back in their stalls to start the day afresh.
+to permit the bringing of
+s. 11(b)
+charter
+applications post-trial,
+except in rare and exceptional circumstances, condones illegitimate defence
+conduct.
+69
+.
+under the circumstances of this case, i must
+summarily dismiss this 11(b)
+charter
+application brough by b.s.
+non-standard or
+modified jordan calculus:
+70
+.
+in the event i am wrong about my power to
+summarily dismiss this 11(b)
+charter
+application, i will briefly consider
+the required
+jordan
+timeline analysis with necessary modifications, as
+urged upon me by b.s.’s counsel on the application.
+clearly,
+this
+case does not lend itself well to standard
+jordan
+calculations to
+determine delay because of the three different sets of charges b.s. faced
+.
+neither crown nor defence counsel have assisted me with how i am to do the math
+in such a case.
+71
+.
+suffice to say, it is my view the
+jordan
+timelines must be expanded where crown and defence counsel have agreed, as they
+did here, that the allegations for the first and third sets of b.s.’s charges ought
+to be tried in the same proceeding.  given my finding that this application must
+be summarily dismissed for the reason i have earlier given, i need not turn my
+mind to exactly how much the timelines ought to be extended.
+72
+.
+as far as the two prongs of complaint go (crown
+and court delay), as made by defence counsel on this application, i can offer
+that i am not at all pleased with the amount of time it took for the crown to
+disclose the cell phone extractions.  their contents contained critical pieces
+of evidence, which greatly assisted me in making findings of fact and
+credibility at his trial.  they included key electronic exchanges (e.g. texts
+and photos) shared between the accused and the complainants.  more must be done
+to speed up this forensic disclosure process.
+73
+.
+i am given to understand from other cases i have
+heard that most of these ‘cell phone dump’ requests, as they have colloquially
+become known, are handled at headquarters for the ontario provincial police in
+orillia.  these requests end up in a queue to wait for those with the technical
+expertise and ‘know how’ to extract what is stored in the memories of the
+various devices they are asked to examine, once they have time to do so.
+74
+.
+clearly to my mind, more resources are needed to
+handle the demands placed on the ‘techies’.  perhaps more staff has to be
+hired.  or maybe both.
+75
+.
+the fact is . . . so many criminal cases now
+turn on exchanges between the accused and the complainant, often over text, as
+was the case here.  the police and crown must be ever mindful of
+jordan
+timelines.  the delivery of this type of extraction disclosure has to happen
+far more quickly than it is occurring at present.
+76
+.
+it took a long time for disclosure to be made by
+the crown to the defence of the following items:
+a)
+initial disclosure on the first set of charges
+(mar. 11 – may 18, 2021, 68 days),
+b)
+cell phone dumps (dec. 14, 2021 – mar. 25, 2022,
+91 days), and
+c)
+initial disclosure including cell phone dumps on
+the third set of charges (apr. 13 – aug. 23, 2022, 132 days).
+77
+.
+i therefore arrive at the sum of 191 days, which
+i would characterize as crown delay in getting disclosure out to the defence.
+78
+.
+turning my mind to court delay, the court took
+some time, it appears, to provide a jpt date to crown and defence counsel in
+the first instance (may 18 – august 13, 2021, 87 days).  i offer this
+explanation as no excuse, but i note that in this period when the court was
+emerging from the backlog caused by covid, our ‘two judge jurisdiction’ could
+no longer afford ‘burning’ one of its judges by having him do a jpt and having
+the other do the trial.  justice richardson and i had to seek outside help from
+mostly ‘per diem’ judges to handle our jpts for us.  all of our time as local
+renfrew county provincial court judges was dedicated to doing trial after
+trial.
+79
+.
+there were other delays owing to court unavailability
+as well:
+a)
+may 18 – aug. 13, 2021 – 87 days (i.e. to obtain
+a jpt, assuming one was requested by either crown or defence at the earliest
+opportunity following the cpt; crown and defence counsel directed to do certain
+things, e.g. police to interview secondary witness, crown to provide position
+on early resolution offer, defence to confirm whether
+s. 276
+application would
+be brought), and
+b)
+aug. 13 - sept. 15, 2021 – 33 days (i.e. to
+obtain 2
+nd
+jpt, crown and defence counsel directed to secure
+s. 276
+application and trial dates which both ignored.
+80
+.
+i was the judge presiding on september 15,
+2021.  when i told counsel to secure pre-trial application and trial dates, i
+expected my direction to be acted upon.  it was not.  by that point, i was
+alive to the fact that b.s.’s first set of charges were 194 days, or six and a
+half months old.  i ordered the matter to be moved along.  that did not happen.
+81
+.
+while i appreciate that b.s.’s matter was then
+complicated by a second set of charges laid against him on october 29, 2021,
+the problem of delay could have been nipped
+in the bud and avoided, if counsel had
+heeded what i told them to do.  they did not.  counsel unilaterally took the
+matter off my radar.
+82
+.
+more frustrating still is that as early as may
+19, 2021, i was expecting counsel to set jpt and trial dates.
+83
+.
+the sad reality is that after september 15,
+2021, b.s.’s charges then went into a churn for an inordinately long period of
+time, which on my assessment, crown and defence counsel share equal
+responsibility for.  ultimately, trial dates were not set until over a year
+later on november 1, 2022.  i will attribute the delay engendered between september
+15, 2021 to november 1, 2022 (412 days) as 206 days of
+defence caused delay
+,
+and 206 days as crown caused delay.
+84
+.
+i have already found that the period between
+november 1, 2022, the set date for the trial, and november 23, 2023, the
+anticipated end date for the trial, (i.e. 388 days) as a period
+implicitly
+waived or caused by the defence
+, when the defence failed to raise any
+complaint about the time it would take to conclude b.s.’s trial.
+85
+.
+there was a further delay from november 23, 2023
+to january 15, 2024 when the trial did not end on time as expected.  i will characterize
+as court delay the period of november 23 to december 20, 2023 (27 days).
+86
+.
+the period of delay between december 20 and
+january 15, 2024 (26 days) arose due to an exceptional circumstance.  crown
+counsel fell ill with covid.
+87
+.
+accordingly, under my
+jordan
+calculus,
+without modification, total delay (sworn date of info. no. 1, mar. 5, 2021, to
+actual end date of trial, january 15, 2024) amounts to 1046 days.
+88
+.
+total delay (1046 days) minus defence caused
+delay (206 days), minus further delay implicitly waived or caused by the
+defence (388 days), leaves a net delay of 352 days.
+89
+.
+net delay (352 days) minus exceptional circumstance/discrete
+event delay (26 days) equates to 326 days.  those 326 days is just under 11
+months on b.s.’s first set of charges.  it does not exceed the
+jordan
+presumptive ceiling for provincial court of 18 months.  his s. 11(b)
+charter
+application must therefore fail.
+conclusion
+90
+.
+for the reasons above stated, i must deny the
+application brought on behalf of b.s. seeking the rare remedy of a stay of
+proceedings.
+91
+.
+i find his right under
+s.11(b)
+of the
+charter
+to trial within a reasonable time has not been infringed or denied, when all
+periods of delay are analyzed in accordance with the principles established in both
+j.f.
+and
+jordan.
+dated:   january 15, 2025
+march, m.g., j.

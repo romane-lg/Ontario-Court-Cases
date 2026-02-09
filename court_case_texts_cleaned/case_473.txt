@@ -1,0 +1,357 @@
+ontario court of justice
+citation:
+r. v. d.b.,
+2025 oncj 38
+date:
+2025 01 21
+4814998
+24 y4811017
+toronto
+region
+between:
+his majesty the
+king
+— and —
+db, a young
+person
+before
+justice cidalia faria
+heard
+on january 10, may 6, june 18, november 1, and december 20, 2024
+reasons
+for ruling on constitutional question on january 21, 2025
+brianne bovell..................................................................................... counsel
+for the crown
+emma rhodes..................................................................................................
+amicus curiae
+db...............................................................................................................................
+own behalf
+faria j.:
+i.
+introduction
+db first pled before me on january 10,
+2024, for an indecent act on his 5-year-old cousin in 1974, more than 50 years
+ago. the matter was adjourned for sentencing.
+then this case took a few unusual turns.
+ultimately, i am now to decide both the constitutionality of ss.
+42(2)(p) and 42(5)(a) of the
+youth criminal justice act
+(
+ycja
+),
+and the fit sentence for db.
+these are my reasons on the constitutional question. i will
+provide separate reasons for sentence.  (
+r. v. d.b
+.,
+2025 oncj 39
+)
+ii.
+procedural history
+after the “first” guilty plea on january 10,
+2024, sentencing was adjourned for material to be filed by both parties and
+submissions to be made on may 6, 2024. db was represented by counsel at the
+time.
+after submissions on may 6, 2024, i informed the
+parties that because db was 17 years old in 1974, pursuant to ss. 158-159 of
+the
+youth criminal justice act
+(
+ycja
+), the information laid under
+the
+juvenile delinquents act
+acted on january 10, 2024 was improper and
+the process followed was flawed.
+on june 18, 2024, the guilty plea was struck, a
+new
+ycja
+information was sworn, and a proper guilty plea to
+s. 149
+of
+the
+criminal code
+was entered.
+all the material filed by both parties was
+re-filed. the crown modified its sentencing position, but counsel continued to
+pursue his position that a fit sentence was a conditional one.
+i informed counsel at the time that a
+conditional sentence is not an available sentence for a young person. its
+equivalent under the
+ycja
+, a deferred custody supervision order (dcso),
+was also not available, as the offence pled to is an excluded one.  however, i
+referred the parties to
+r. v. t.m.
+2024 oncj 257
+which had been decided
+just weeks before. it held that the
+ycja
+sections barring a dcso were
+unconstitutional. the matter was adjourned for counsel to consider his
+position.
+counsel had been ill throughout these proceedings. he had been
+appearing virtually to accommodate his medical condition.   on november 1,
+2024, counsel applied to be removed from the record as he was medically unable
+to continue to represent db. i granted the application.
+db chose to represent himself for the remainder of the proceedings.
+given the circumstances, on november 1, 2024, i appointed
+amicus
+curae
+, emma rhodes, to assist the db, a young person, in relation to the
+finding of guilt, and to address the constitutionality issue i had raised.
+on november 11, 2024,
+amicus curiae
+filed an application to
+challenge the constitutionality of sections 42(5)(a)  and 42(2)(p) of the
+ycja
+in db’s pursuit of a dcso.
+iii.
+constitutional context and issues
+the
+canadian charter of rights and freedoms
+provides:
+section 15
+: every individual is equal before and under the law and has the
+right to the equal protection and equal benefit of the law without
+discrimination and, in particular, without discrimination based on race,
+national or ethnic origin, colour, religion, sex, age, or mental or physical
+disability.
+section 7
+: everyone has the right to life, liberty and security of the person
+and the right not to be deprived thereof except in accordance with the
+principles of fundamental justice.
+the
+ycja
+section 42(5)(a) excludes the availability of a
+dcso, a custodial sentence served in the community, for offences committed by a
+young person that “causes or attempts to cause serious bodily harm”.
+section 42(2)(p) of the
+ycja
+limits a dcso for a “specified
+period not exceeding 6 months”.
+the
+criminal code
+’s adult equivalent for a custodial
+sentence served in the community, a conditional sentence order (cso) is
+provided in s. 742.1. neither the nature of the offence “causes or attempts to
+cause serious bodily harm” nor the 6-month limitation applies to a cso for adults.
+an indecent act is a sexual offence. it is well-established sexual
+offences cause serious bodily harm. an indecent act is therefore an excluded
+offence for a dcso for a young person per the
+ycja
+but an indecent act is
+not an excluded offence for a cso in the
+criminal code
+for an adult.
+this distinction is the root of the constitutional issue.
+therefore, the two constitutional questions to be determined are:
+(1)
+does s. 42(5)(a) and 42(2)(p) of the
+youth
+criminal justice act
+violate
+s. 15
+of the
+canadian charter of rights and
+freedoms
+?
+(2)
+does s. 42(5)(a) and s. 42(2)(p) of the
+youth
+criminal justice act
+violate
+s. 7
+of the
+canadian charter of rights and
+freedoms
+?
+iv.
+position of the parties
+amicus curiae
+submits that should i find
+that a dcso is the most appropriate sentence for db, and that a dcso for a
+period of more than 6 months is the most appropriate length, it would require
+me to find that ss. 42(5)(a) and 42(2)(p) violate
+ss. 15
+and
+7
+of the
+charter
+,
+and to the extent of the violations, are of no force and effect.
+further,
+amicus curiae
+submits that the principle of horizontal
+stare decisis
+applies to this case. justice camara of the ontario court
+of justice found that ss. 42(5)(a) and 42(2)(p) violate both
+ss. 15
+and
+7
+of
+the
+charter
+in
+tm.
+she submits that pursuant to
+r. v. sullivan
+,
+2022 scc 19
+, i am bound
+by
+t.m
+.
+the crown agrees with
+amicus curiae’s
+submission on the
+applicability of horizontal
+stare decisis
+in this case.
+the crown submits that the same factual and legal circumstances in
+t.m
+.
+exist in the case at bar. the applicant raises the same issues as those in
+t.m.
+and i am therefore bound to follow the precedent set in
+t.m.
+the crown made no submissions on either the constitutionality of the
+impugned
+ycja
+provisions or on whether they are justified by
+s. 1
+of the
+charter
+.
+v.
+constitutional analysis
+the analysis of the constitutional question must proceed via two
+steps:
+i.
+if i find that a dcso is not an appropriate
+disposition for db, i may decline to answer the constitutional question.
+ii.
+if i find a dcso to be an appropriate
+disposition for db, and the appropriate length of it to be more than 6 months,
+i am bound by horizontal
+stare decisis
+to strike down s. 42 (5)(a) and
+declare the 6-month limitation in 42(2)(p) invalid.
+db is a 68-year-old man who has pled guilty to an offence he
+committed 50 years ago when he was only 17 years old. his circumstances at the
+time were severely compromised. he had been sent to canada alone at the age of
+13. he was in canada illegally. he was not permitted to go to school.  he was unparented.
+db has pled guilty and demonstrated significant remorse. these circumstances
+warrant the consideration of a dcso as a disposition.
+given the serious nature of the offence, and its impact on the
+victim, however, a 6-month term would be inappropriate. a dcso longer than 6
+months would be required to reflect the gravity of the offence if a dcso is to
+be imposed.
+as a result, i must decide the constitutional questions.
+however, my task is simplified as both the crown and
+amicus curiae
+submit the  principle of horizontal
+stare decisis
+applies.
+justice camara in
+t.m.
+found that both ss. 42(5)(a)
+and 42(2)(p) of the
+ycja
+violate both
+ss. 15
+and
+7
+of the
+charter
+when she stated at para. 46:
+…the distinction based on age
+created by ss. 42(5)(a) and 42(2)(p) of the
+ycja
+does deny
+young persons a benefit in a manner that reinforces, perpetuates and
+exacerbates their disadvantage.  rather than working in tandem with the rest of
+the sentencing scheme of the
+ycja
+to address the disadvantage of young
+persons arising from their diminished moral blameworthiness, the impugned
+provisions work against it. they prevent youth court justices from giving
+meaning to the important ameliorative provisions and may result in
+sentences that actually violate them. this is not a situation where a
+side-by-side comparison of the dcso provisions of the
+ycja
+and
+the cso provisions of the
+criminal code
+demonstrates a
+simple distinction, it is a situation where the
+distinction that arises between the two has the effect of denying young persons
+the benefit of a fit and appropriate sentence and thereby perpetuates the
+disadvantage occasioned by their age.
+per
+sullivan
+, there are three narrow circumstances in which
+trial courts should depart from a binding decision issued by a court of
+coordinate jurisdiction. these are:
+(1)
+the rationale of an earlier decision has been
+undermined by subsequent appellant decisions.
+(2)
+the earlier decision was reached
+per incuriam
+(“through carelessness” or “by inadvertence”); or
+(3)
+the earlier decision was not fully considered,
+e.g. taken in exigent circumstances.
+none of these circumstances apply to justice camara’s decision. hers
+is a clear, thoughtful, well-reasoned analysis.
+vi.
+finding
+i find that not only am i bound by
+t.m
+. but i agree with its
+reasoning and similarly conclude that ss. 42(5)(a) and 42(2)(p) violate
+ss. 15
+and
+7
+of the
+charter
+. the crown did not argue the provisions are
+justified by s.1.
+i therefore strike down s. 42(5)(a) and delete 6-month limitation in
+s. 42(2)(p).
+released:  january
+21, 2025
+signed:
+justice cidalia c.g. faria
+this section of the
+criminal code
+(
+cc)
+was repealed in an act to amend
+the
+criminal code
+in relation to sexual offences against the person and
+to amend certain other acts in relation thereto or in consequence thereof, s.c.
+1980-81-82-83, c. 125, s. 8.  however, since this offence was committed in
+1974, this was the provision of the
+cc
+that was in force at the relevant
+time. while the
+ycja
+only came into effect in 2002, s. 158 requires that
+the young person be sentenced pursuant to the
+ycja,
+despite that the
+offence was committed before the
+ycja’
+s enactment.
+r. v. tm
+, at para. 38, 46 and 57. respondent’s factum, at para 12.
+r.
+v. sullivan
+,
+2022 scc 19
+at para.
+75
+.

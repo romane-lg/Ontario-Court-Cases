@@ -1,0 +1,851 @@
+ontario court of justice
+citation:
+r. v. amankwaah
+, 2025 oncj 87
+date:
+2025 02 14
+court
+file no.:  toronto 4810 998 24 48106134-00
+between:
+his
+majesty the king
+— and
+—
+dwumo amankwaah
+before
+justice christine mainville
+heard
+on january 13-17, 2025
+reasons
+for judgment released on february 14, 2025
+sandra duffey..................................................................................... counsel
+for the crown
+ben elzingacheng........................................................................
+counsel for the accused
+mainville j.:
+on february 9, 2024, carlos alfaro was stabbed
+four times in the back, in a makeshift shelter set up in a public field near
+jane and finch, where people gathered to eat and socialize.
+mr. amankwaah is charged with attempted murder,
+assault with a weapon, and failure to comply with probation in relation to this
+stabbing.
+the crown no longer seeks a conviction on the
+count of attempted murder. rather, it submits that i may find mr. amankwaah guilty
+of the lesser included offence of aggravated assault.
+the defence agrees that attempted murder is not
+made out on the evidence adduced at trial but argues that the count as stipulated
+does not allow for a finding of guilt on the charge of aggravated assault.
+counsel does recognize that i may however consider the lesser included
+offence of assault causing bodily harm. i will return to this issue below.
+the main issue in this case is identity. counsel
+on behalf of mr. amankwaah submits that the crown has not discharged its burden
+to prove beyond a reasonable doubt that mr. amankwaah is the person who
+stabbed carlos alfaro on february 9, 2024.
+there is direct evidence implicating mr. amankwaah as the perpetrator in
+this case because mr. alfaro testified that he was the person who stabbed him.
+however, given numerous frailties with mr. alfaro’s identification, which i
+will return to below, this case is better viewed as a circumstantial case of
+identity.
+aside from mr. alfaro’s eyewitness identification, the crown relies on several
+circumstances to argue that mr. amankwaah is beyond doubt the person who
+attacked mr. alfaro. this includes: other witnesses placing mr. amankwaah at
+the scene of the crime earlier in the day and connecting him to mr. alfaro;
+video surveillance of the accused around the time of the offence; statements
+made by the accused to the police, and that i have previously deemed voluntary
+and thus admissible; and items seized in mr. amankwaah’s apartment by the
+police shortly after the stabbing – most significantly, a knife on which dna belonging
+to mr. alfaro was located.
+overview of the evidence
+mr. alfaro called 911 at 8:20 pm on february 9, 2024. he had been
+stabbed a few minutes prior, a short distance away, and walked to the location
+where he placed the call.
+the stabbing occurred in an encampment or what was termed a “little
+house” by some witnesses. it was built by luis morales and antonio
+soto-gonzales – both of whom testified at trial – to provide a gathering space
+for some in the community. there was no lock on the premises, nor was entry
+restricted in any way. people who attended the encampment were generally people
+known to mr. morales and mr. soto-gonzales, such as mr. alfaro. they would
+generally eat and drink there, and just relax. two separate spaces inside the
+shelter had a couch. there was a fire pit to barbecue meat. one individual who
+testified at trial, samson obaga, has also been residing in the shelter for the
+past two or so years. the evidence is that he works full time but sleeps in the
+shelter.
+mr.
+amankwaah resides with his mother in an apartment complex near the encampment.
+there was evidence that he occasionally spent time at this encampment.
+the
+police began investigating mr. amankwaah after mr. alfaro described his
+attacker and after mr. morales and mr. soto-gonzales provided additional
+information about mr. amankwaah. i heard evidence from all three at this trial.
+i
+also heard from police officers who obtained video surveillance from mr.
+amankwaah’s apartment building and searched the area on the evening in
+question, as well as from officers who executed a search warrant at his
+residence and who were involved in his arrest. the police seized clothing
+believed to have been worn by the accused at the time of the stabbing, as well
+as a small knife and other items.
+finally,
+i heard evidence from an expert in forensic biology from the centre of forensic
+sciences regarding a speck of blood found on a black sweater seized from mr.
+amankwaah’s apartment, and dna found on the seized knife.
+i
+note at the outset that given the expert’s testimony, i am unable to draw
+anything from the speck of blood found on the sweater. there was no way to tell
+whether the speck was animal blood (such as from meat) or human blood, nor how
+long it had been on the sweater. there was such a small amount of blood that it
+was not observable to the human eye and a second sample – that is, even a
+second speck – could not be obtained from the fabric. it could not be further
+tested.
+as
+for the dna profile relating to some substance found on the knife, the expert
+could not determine what the substance was, other than stating it was not
+blood. no blood was found on the knife. however, a grease-like marking found on
+the blade of the knife was tested and it contained a mixture of two dna
+profiles. one of them belonged to mr. alfaro – that is, it is more than one trillion
+times more likely that the dna originates from carlos alfaro than from an
+unknown person unrelated to carlos alfaro. as the expert explained, the range
+starts at 1 and is capped at “greater than one trillion”: this represents the
+highest level of certainty they provide that the dna belongs to mr. alfaro as
+opposed to some other person who is not related to him.
+the
+second dna contributor was not compared to a known dna sample to identify a
+contributor and pursuant to an agreed statement of facts, i am to draw no
+inferences or conclusions from that second dna profile.
+the
+accused did not testify or call evidence in his defence.
+principles to be applied
+the accused is presumed innocent. there is no obligation on him
+to do anything to establish his innocence. the presumption of innocence remains
+in place, unless and until the crown has proven each essential element of these
+offences beyond a reasonable doubt.
+reasonable doubt is based upon reason and common sense. it is
+logically connected to the evidence or lack of evidence. it is not enough for
+me to believe that the accused is probably or likely guilty. reasonable doubt
+requires more than mere probability. although it cannot be described with
+mathematical precision, reasonable doubt is a high standard, consistent with
+its role as a safeguard against wrongful convictions. at the same time,
+reasonable doubt does not require proof beyond all doubt, nor is it proof to an
+absolute certainty.
+the crown may prove the case by way of direct or circumstantial
+evidence, or both. i must ultimately consider the evidence as
+a whole.
+in assessing the evidence of the witnesses in this case, i must
+consider their credibility and reliability. credibility relates to the honesty
+of the witness, including whether the witness was trying to tell the truth and
+if the witness was candid, sincere, biased, evasive or prone to exaggeration or
+minimization. reliability relates to the accuracy of a witness’ testimony and
+involves a consideration of the person’s ability to accurately observe, recall
+and describe the events in issue. any witness whose evidence on an issue is not
+credible cannot give reliable evidence on the same point. however, credibility
+alone does not establish reliability, as a truthful witness may give unreliable
+evidence.
+testimony can be assessed through a non-exhaustive list of
+factors, including (a) the plausibility of the evidence; (b) the presence of
+independent supporting or contradicting evidence; (c) the external and internal
+consistency of the evidence; (d) the witness’ apparent willingness to be fair
+and forthright without any personal motive or agenda; and to a limited extent,
+(e) the witness’ demeanour while testifying.
+analysis
+i
+first consider the evidence of the civilian witnesses in this case, including
+that of the victim, mr. alfaro.
+carlos alfaro
+mr.
+alfaro states that on february 9
+th
+, he went to the little house
+around 7:30 pm. luis, antonio and the person he identified as mr. amankwaah
+were already there. he went into the room with a multicoloured sofa, sat down
+on the sofa and opened a can of beer. in direct examination, he indicated that
+he had been cleaning his apartment that day and this was his first beer of the
+day.
+luis
+promptly left, and antonio sat in the other room with mr. amankwaah who then
+left for 10 to 15 minutes before returning. mr. alfaro was sitting by himself
+in the room with the multicoloured couch, until around 8:05 or 8:10 pm.
+around
+that time, the man he identified as mr. amankwaah returned and stabbed him. mr.
+alfaro says he was sitting on the couch when the man came in and immediately
+lunged at him and repeatedly stabbed him in the back. when asked how he could
+have been stabbed in the back when he was in a sitting position, he explained
+that the man stabbed him with an overhand motion, overtop him. he was stabbed
+toward his left shoulder.
+no
+words were exchanged, and the man immediately departed. mr. alfaro then left
+the encampment and walked to jane and finch, where he called 911. he estimated
+that that walk took him about five minutes. this would situate the stabbing as
+having taken place sometime between 8:05 and 8:15 pm.
+mr.
+alfaro first told the police that he did not know the name of the man who
+stabbed him, but he had seen him earlier in the day at the encampment, along
+with his friends antonio soto-gonzales and luis morales.
+in
+court, mr. alfaro described the perpetrator as tall, thin and black, with a
+dark shade of black skin. he did not know his name nor any nickname for him,
+but had seen him around, though infrequently. aside from seeing him earlier on
+the day of the stabbing, he had seen him the week prior at the encampment. mr.
+alfaro had heard the man talk before, but not with him. they had never had a
+conversation, nor had he had any prior conflict with him. in cross-examination,
+however, he relayed two prior instances where mr. amankwaah would have said
+something to him. he identified mr. amankwaah in the prisoner’s box.
+i
+have significant concerns regarding mr. alfaro’s reliability, and to some
+extent his credibility.
+mr.
+alfaro was adamant that he only had part of one beer at the encampment, and at
+most four beers during the day as he cleaned his apartment. he initially denied
+in examination-in-chief having consumed any alcohol that day beyond the one
+beer in the shelter.
+the
+parties agree that mr. alfaro’s blood alcohol concentration at the hospital
+later that night was 238 mg of alcohol in 100 ml of blood, approximately three
+times the legal limit for operating a conveyance. based on this reading and
+general concerns regarding mr. alfaro’s credibility and reliability, i do not
+accept his evidence regarding how much he had to drink that night. he was far
+more intoxicated than he testified to.
+mr.
+alfaro repeatedly minimized his alcohol consumption and state of intoxication. he
+admitted in cross-examination that he could have had three to four beers at
+home after denying having consumed anything more than the beer he started
+drinking at 7:30 pm. he then insisted that he could not have had more than the
+four and a bit he finally admitted to consuming that day, denying it could have
+been six or seven.
+i
+find that he similarly minimized his consumption of alcohol in relation to an
+incident that happened on a different date involving mr. obaga – the individual
+who lives in the shelter – shortly after the stabbing, in the context of which
+he was captured on video after the police got involved.
+the
+other civilian witnesses testified to mr. alfaro’s general habit of consuming
+alcohol and mr. alfaro himself acknowledged to not-infrequently drinking far
+more than he says he did on these two occasions. in my assessment, based on
+this evidence, the video evidence and the blood alcohol evidence, his estimates
+of how much he had to drink on these two occasions are unreliable, and he was
+not trying to testify in a candid manner on the issue.
+the
+fact that mr. alfaro consumed more alcohol than he was prepared to admit calls
+into question the reliability of his account of the day, including of the
+stabbing. it also signals the need for me to be prudent in assessing his
+evidence given his efforts to make his observations – including, potentially,
+his identification of the accused – appear more reliable than they in fact
+were.
+on
+the first point, the reliability of his account, mr. alfaro denied being at the
+encampment earlier in the day, as testified to by antonio and luis. he also acknowledged
+in cross-examination that he never told the police that luis was at the
+encampment when he arrived there that night.
+mr.
+alfaro further testified to his recollection that the man repeatedly stabbed
+him in quick succession. he demonstrated the man’s action in doing so. yet he
+acknowledged in cross-examination that he told the police he had only been
+stabbed once. he explained that he initially thought this because of how quick
+the motions were. he only later realized, upon seeing his injuries, that he had
+been stabbed several times.
+i
+accept that he would have been confused and in a state of shock at the time,
+such that he misperceived how many times he was stabbed. i cannot however
+accept as reliable his recollection of seeing the man repeatedly stabbing him
+in quick succession. this appears to be an inference he drew after the fact
+that may have impacted his recollection of events. indeed, even when the police
+pointed out that there was more than one area of injury on his back, he was
+insistent that he had only been stabbed once.
+but
+the concerns i have are not limited to reliability concerns. in my assessment,
+mr. alfaro’s evidence was at times intended to persuade the court that his recollection
+is more certain than it in fact is.
+for
+instance, mr. alfaro testified to having seen the knife used to stab him,
+stating it was not so big and estimating a length of about six to eight inches.
+in cross-examination, however, he acknowledged telling the police that he
+thought it could be a knife, but he did not see the weapon because it was dark.
+more
+significantly, mr. alfaro claimed at trial that there was a candle lighting the
+room where the stabbing took place – which would have impacted his ability to
+see the perpetrator. he never mentioned this to the police, though he may not
+have been specifically asked about lighting. still, he was not able to point to
+any candle in the pictures taken of the scene, and the other civilian witnesses
+who spend a significant amount of time at the shelter testified that there is
+no candle there.
+ultimately,
+i do not accept that there was a candle, nor do i accept that mr. alfaro saw
+the knife.
+that
+is not to say that i give no credence to his ability to have seen the
+perpetrator to some extent and to have recognized the person.
+first,
+in terms of lighting and opportunity to see, although the witnesses
+acknowledged how dark it was at night in the room where mr. alfaro was stabbed,
+mr. alfaro said that the man removed the plastic to enter the space where he
+was, such that he was able to see him because it was a bit lighter outside the
+room. this aligns with the pictures filed in evidence. indeed, the room with
+the multi-coloured couch has a roof, and it was after dark in the winter. but the
+other area of the shelter, behind the opening to the room, is not covered and
+could let in some light, including after dark given some artificial lighting in
+the surrounding area.
+i
+also accept that mr. alfaro was awake when he was stabbed. mr. soto-gonzales testified
+that despite mr. alfaro drinking significantly, he had never seen him fall
+asleep in the encampment. mr. morales’ evidence regarding how drunk mr. alfaro gets
+also suggested he would not pass out from drinking at the encampment.
+second,
+although i must exercise the usual caution that applies to identification
+evidence given that recognition evidence is merely a form of identification evidence,
+triers of fact are entitled to take into account whether the witness is
+acquainted with the accused when assessing the reliability of the
+identification evidence. the level of familiarity between the accused and the
+witness may serve to enhance the reliability of the evidence:
+r. v. walker
+,
+2025 onca 19
+, at paras.
+38-39
+.
+here,
+there were no unique characteristics attributable to the perpetrator mr. alfaro
+witnessed. his description of the perpetrator was vague: tall, thin, dark black
+skin. but as stated in
+walker
+, at para.
+18
+, “[i]t is notorious that a
+witness who recognizes another person will base their recognition not only on
+the details they can identify and describe in testimony, but also on details
+they have unconsciously observed, or that cannot realistically be identified or
+articulated in testimony”. despite having been stated in a different context,
+this helps explain how mr. alfaro may have been able to identify mr. amankwaah
+but be unable to properly articulate how.
+while
+the accused and mr. alfaro did not know each other very well, i accept – based
+not only on mr. alfaro’s evidence but on that of the other civilian witnesses –
+that they were acquainted and had seen each other shortly before the incident.
+though
+i am not prepared to accept with mr. alfaro’s level of certainty that he
+recognized mr. amankwaah that night, i do accept that he got a glance at the
+perpetrator (albeit a quick one in the dark, and while he was in a state of
+intoxication), such that he tentatively recognized mr. amankwaah. stated
+differently, i accept that he
+believed
+mr. amankwaah to be the
+perpetrator based on his observations of the person that night – that is, that
+the perpetrator resembled mr. amankwaah. his recognition of the perpetrator, as
+relayed in vague terms to the police shortly after the incident, carries some
+but not much weight in the analysis.
+luis morales and antonio
+soto-gonzales
+luis morales resides near the encampment and
+spends a fair bit of time there. he testified that he does not know carlos
+alfaro very well, but that carlos comes around and hangs around them a fair bit.
+luis recalls working at the fresco on february 9
+th
+and going to the encampment with antonio after work around 12:00 or 12:30 pm.
+carlos arrived very shortly thereafter, and they ate together.
+luis testified that after carlos arrived, a
+person he identified as nana came by. he identified nana as the person in the
+prisoner dock and saluted him. luis said he had known nana a long time and that
+he was a good friend. he wished him a happy new year in court.
+luis testified that carlos was drinking that day.
+he agreed that when carlos drinks, he becomes aggressive and wants to pick a
+fight. by this, mr. morales meant that mr. alfaro – who is gay – gets too close
+to other men who do not welcome it.
+mr. morales testified that he did not see nana
+drink that day. he stated that nana is a good boy and doesn’t drink much.
+later, after they had eaten, carlos left, then
+nana left. he did not witness any argument or fight. luis and antonio
+subsequently left, around 3:30 pm. luis testified he did not see carlos again
+that day.
+finally, luis confirmed that a person named samson
+obaga was living in the shelter at the time. his recollection was that mr.
+obaga was only there at nighttime because he was working in the factory, and he
+only returns from the factory around 11 pm or midnight. he testified that mr.
+obaga does not like being touched by any man or any gay man.
+antonio soto-gonzales testified that carlos is a
+friend from the neighbourhood whom he has known for about five years.
+on february 9
+th
+, he first saw carlos
+after he finished work, around 12:30 pm. he went to the encampment with luis,
+and carlos arrived shortly after. carlos was drinking, and antonio started
+doing the same.
+antonio later saw the person he knows as nana.
+he identified this person in court as mr. amankwaah. he stated he saw him after
+carlos had left. antonio then left with nana to buy some marijuana. he does not
+recall what time it was, but it was still light out. he then returned to the
+shack with nana. no one else was there at that time.
+antonio later saw carlos again, when it was
+getting dark. carlos returned to the shack, as did luis. nana then left after
+they had drunk and had the smokes. antonio then left, and then carlos left. it
+was still daytime when carlos returned.
+antonio was high and fell asleep on the grey
+couch after luis and nana left. he later woke up, and once again saw carlos
+there, on the multicoloured couch – he had come back. he never saw nana return
+once he had left. antonio then got up and left. he could not recall what time
+it was but stated it would have been after 6 pm.
+antonio witnessed what he described as only a
+very small argument between carlos and nana, as a result of carlos seemingly
+sitting right next to nana. it was very quick, nothing of much significance,
+and they separated. this was in the area of the multicoloured couch.
+antonio was feeling a bit dizzy and went home.
+he testified that carlos was a bit drunk that day and that when he is drunk, he
+becomes aggressive – he will try to kiss you. that is the reason antonio left
+and went home. antonio could not recall how much carlos had to drink but stated
+that at one point, carlos left and went drinking at the corner near the no
+frills, then came back with some beer and was drinking by himself. when antonio
+woke up and saw carlos in the shack, carlos was sitting and drinking on the
+multi-coloured couch by himself, listening to music.
+as for samson obaga, antonio also testified that
+he was working that day and believed that he would return from work around 2 am.
+no doubt, the evidence of mr. alfaro, mr.
+morales and mr. soto-gonzales does not align as it relates to the timing of when
+they and nana found themselves in the shelter on february 9
+th
+. all
+had been drinking. mr. alfaro testified that luis was already quite drunk when
+he attended the encampment. and mr. soto-gonzales stated that luis was quite
+high – that they had smoked about four joints and drank about eight beers each.
+he felt dizzy and went home.
+nevertheless, i accept their collective recollection
+that the accused was at the shelter earlier in the day, along with mr. alfaro.
+certainly, alcohol and drugs, as well as the passage of time, has impacted
+their recollections to varying degrees, and i am cautious about the reliability
+of their evidence. but i accept that mr. morales and mr. soto-gonzales did their
+best to tell the court the truth about what they recall of the day in question.
+they were credible and had no incentive to support carlos in his recollection
+vis-à-vis the accused. they were neutral as between the
+two and, if anything, had more of a liking for the accused than for mr. alfaro.
+i would not however place any weight on the
+details of their evidence regarding the timing of their interactions with, and
+observations of, the accused and mr. alfaro that day, including how these
+interactions unfolded. but i accept that they saw both at the shelter at the
+same time earlier that day. they were confident in that assertion and their
+memory of the day was canvassed that very night by the police. this is not
+merely something they now claim to recall from a year ago, in respect of a day
+that would blend in with any other.
+by contrast, i reject mr. alfaro’s evidence that
+he was at home cleaning his apartment that day, and his evidence regarding his
+interactions or lack thereof at the encampment on the day in question.
+identification of the accused as
+nana
+neither mr. alfaro, mr. morales nor mr.
+soto-gonzales knew the accused’s name. they knew him from the neighbourhood and
+identified him in court. the latter two referred to him as nana.
+in his statement to the police, the accused
+confirmed that some people call him nana, though he does not like that. he does
+not go by that name, but it is a nickname people call him. he perceives that it
+is to make fun of him.
+indeed, he stated that he had looked up the
+meaning of the term a couple months prior and it means “a fool”. he added that “[t]hat’s
+somebody else’s name that they were always teasing me with”, and that he didn’t
+know what their issue is. he never clarified who he meant by “they”.
+nevertheless, mr. amankwaah’s statement to the
+police confirms mr. morales and mr. soto-gonzales’ identification of mr.
+amankwaah as nana, that is, the person they saw at the encampment earlier in
+the day.
+surveillance evidence
+the crown also introduced in evidence
+surveillance footage from mr. amankwaah’s apartment building showing him coming
+and going from his residence to the area where the encampment is located right
+around the time of the stabbing.
+first, i have no doubt that the person in the
+surveillance videos is mr. amankwaah. during the police interview, mr.
+amankwaah was shown a couple stills from the surveillance footage the police
+had by then just obtained. while he denied being the person in the first still
+he was shown, he acknowledged he was the person on a second still, explaining
+that he was just doing laundry.
+despite his initial denial, i am confident that
+the same person is tracked throughout the video footage introduced at trial.
+the surveillance covers a limited period of time between 8:00 and 8:35 pm, and
+the movements of the person are tracked through the various video clips: they
+align. for instance, the person is seen waiting for the elevator, then inside
+the elevator, then on the floor where they have exited. in the beginning, they
+are wearing the same clothes, dressed all in black with a distinct textured
+pattern and buttons on the sweater, and sporting a ball cap with lettering on
+it and gloves with distinct characteristics. some matching items were recovered
+from mr. amankwaah’s apartment.
+the images are of good quality and provide clear
+views of the person, their actions, and their clothing. certainly, the man in
+the surveillance videos looks like mr. amankwaah. i am able to make such a
+comparison pursuant to the principles set out in
+r. v. nikolovski
+,
+1996 canlii 158 (scc)
+,
+3 s.c.r. 1197, at para.
+23
+. the man on surveillance can also be tracked going
+from and to the 7
+th
+floor, which is the floor on which mr. amankwaah
+resides.
+further, after returning inside the apartment
+building, the man pushes the elevator button before instead turning the corner
+and continuing on to the laundry room. there, he does not put anything in the
+wash or retrieve anything – rather, he appears to be checking on laundry that
+is already in a machine. he then returns to the elevator and makes his way up
+to the 7
+th
+floor. he arrives there around 8:14 pm. at about 8:30 pm,
+he returns to the laundry room from the 7
+th
+floor in different
+clothing, including beige pants and a different hat. despite the change of
+clothes, i am able to infer that it is the same person. he walks to the
+elevator from the same end of the hallway on the 7
+th
+floor as he did
+earlier. in the laundry room, he retrieves clothing from a washing machine in
+the same location as the one he was checking earlier, and places it in a dryer
+before returning upstairs to the 7
+th
+floor. his face is seen in some
+instances.
+it is without a doubt the same person that mr.
+amankwaah identified as himself on the video still who is first tracked going
+outside from the 7
+th
+floor around 8:03 pm, and who returns inside
+the apartment building at around 8:11 pm. the person is wearing the same
+clothing as in the still that mr. amankwaah identified.
+based on the above and on mr. amankwaah’s
+admission, i find that the person tracked throughout the various surveillance
+videos is mr. amankwaah.
+the diagram of the area that was put in evidence
+shows that the hydro field where the encampment is located is adjacent to the
+accused’s apartment building. the encampment is also located closer to the
+building within that field. it would not have taken very long to walk to the
+encampment and return to the building.
+the timing tightly corresponds to the time at
+which mr. alfaro was stabbed – on his evidence and corroborated by the timing
+of the 911 call, between 8:05 and 8:15 pm. right around that time, mr.
+amankwaah is seen walking southwest, in the direction of the hydro field. when
+he returns from that area, he is empty handed. he does put a hand in his pocket
+but he is not carrying anything that would suggest that he went out to make a
+purchase or anything of the sort. this timing is very compelling, as is the
+fact that mr. amankwaah changed out of his clothes immediately upon returning
+to his apartment unit.
+dna evidence
+of clear import is the knife located in mr.
+amankwaah’s apartment, on which mr. alfaro’s dna was located.
+mr. amankwaah resides alone with his mother, as
+he acknowledged in his statement to the police. their residence is a
+one-bedroom apartment. the knife was located next to a bed made up just behind the
+couch in the living room area of the apartment. it was alongside manly articles
+of clothing and shoes, and near other seized items including a ball cap,
+sweater and gloves resembling what mr. amankwaah was seen wearing on the video
+surveillance. his resume was also located on a shelf on the other side of the
+bed. i infer from the whole of the evidence that this was the bed on which he
+slept – for all intents and purposes, his bedroom.
+when questioned about a knife the police located
+by his bed, the accused told the police that he has a knife for cutting oranges
+and apples and everything when he’s in his home. this statement confirms that
+he owned a knife used for slicing – which is consistent with the small betty
+crocker kitchen knife, of the kind used for slicing such things as fruits and
+vegetables, that was located near the mattress inside his apartment. that is
+the only knife the police appear to have located in the apartment: there were no
+knives in the kitchen area, nor any that the police located in areas where
+knives would not typically be found. the knife seized had a plastic cover
+protecting the blade of the knife, which would make it safer to carry around
+without cutting oneself.
+as set out above, there was dna on the knife
+that is clearly that of mr. alfaro. while no blood was found on the knife, the
+expert’s evidence was that depending on how a knife was washed, some dna –
+indeed some blood – could still remain. the crown’s theory is that while the
+blood was washed off, some of mr. alfaro’s dna – from some other unknown bodily
+source – remained on the knife.
+considering the whole of the evidence, i accept that
+there is no other plausible explanation for mr. alfaro’s dna being on the blade
+of a knife located inside mr. amankwaah’s apartment, where he resides alone
+with his mother, than the one put forward by the crown. the two were not
+friends and mr. alfaro had not visited that apartment. nor is there any
+plausible scenario of dna transference onto the blade of the knife found in mr.
+amankwaah’s apartment. even if the dna profile did not emanate from blood, it
+remains very compelling evidence of guilt.
+samson obaga
+mr. obaga’s name came up during trial as a
+potential third-party suspect, given the evidence that he resided in the
+shelter at the time and is also a tall and slender black man, though he is
+older than the accused.
+mr. obaga was subsequently located and testified
+at this trial. he denied any involvement and i deemed his evidence very credible.
+mr. obaga identified the accused as someone he
+recognized, placing him at the encampment on occasion. his best recollection
+was that he would have been working on february 9, 2024, around the time of the
+stabbing, pursuant to his usual schedule.
+both mr. morales and mr. soto-gonzales believed that
+mr. obaga had been working that day, and did not reference his presence at the
+encampment throughout their accounting of the events of the day. mr. alfaro was
+also recalled to address the issue and denied that mr. obaga could have been
+the perpetrator.
+certainly, i heard evidence that anyone could
+access the encampment and that many people occasionally attended there. i also
+accept that others, including mr. obaga, appeared to have had some animus
+toward mr. alfaro, not liking when he got close to other men when he became
+intoxicated. and mr. alfaro was intoxicated that day.
+but the question is whether the crown has
+proven, to the exclusion of any other reasonable inference, that the
+perpetrator was mr. amankwaah:
+r. v. villaroman
+,
+2016 scc 33
+, at para.
+30
+.
+if there are reasonable inferences other than guilt, the crown’s evidence does
+not meet the proof beyond a reasonable doubt standard. inferences consistent
+with innocence do not have to arise from proven facts. but inferences other
+than guilt must be reasonable given the evidence and the absence of evidence,
+assessed logically, and in light of human experience and common sense. the
+crown may need to disprove other reasonable possibilities, but does not need to
+disprove every possible conjecture which might be consistent with innocence.
+other plausible theories or other reasonable possibilities must be based on
+logic and experience applied to the evidence or the absence of evidence, not on
+speculation:
+villaroman
+, at paras.
+30, 35-38
+.
+one additional consideration here is that mr.
+alfaro was sitting at the farthest end of the shelter and would not have been
+visible to passersby. someone passing by would not have known of his presence
+there, unless they had been there earlier themselves or had otherwise been
+informed that he was there. this certainly does not exclude the possibility
+that someone other than mr. amankwaah, mr. morales or mr. soto-gonzales entered
+the shelter and stabbed mr. alfaro, but it does diminish it.
+conclusion on identity
+taking into account each of the above
+circumstances, in particular the dna evidence combined with the surveillance footage,
+i can come to no other reasonable conclusion than mr. amankwaah’s guilt as the
+author of the stabbing. together, and factoring in what i will call mr. alfaro’s
+tentative identification of the accused as the one who stabbed him, the only
+reasonable inference is that the accused is the person who stabbed mr. alfaro
+shortly before 8:15 pm on the night in question.
+other elements of the offences
+charged
+the
+repeated stabbing with a knife was clearly intentional. the charge of assault
+with a weapon is therefore made out and a finding of guilt will be made on
+count two.
+the
+crown has also proven that mr. amankwaah was bound by a probationary term that
+he not possess any weapons. mr. amankwaah conveyed knowledge of this
+probationary term in his statement to the police.
+given
+my finding that mr. amankwaah stabbed mr. alfaro on february 9, 2024, it is
+clear that the crown has also proven that mr. amankwaah used a knife as a
+weapon, in breach of that condition.
+the
+crown has accordingly proven count three, the failure to comply with probation,
+beyond a reasonable doubt.
+this leaves
+count one, attempted murder. the defence acknowledges that if i find that mr. amankwaah
+stabbed mr. alfaro, the charge of assault causing bodily harm is also properly
+made out and is included in the offence of attempted murder. i must first
+however turn to the issue of whether the offence of aggravated assault is also
+included, as contended by the crown.
+lesser included offence to attempted
+murder
+the attempt murder charge that was laid particularizes the offence
+as having been committed “by stabbing”.
+the
+defence argues that, based on
+r. v. mackinnon
+,
+2021 onsc 4763
+, at paras.
+769-770
+, the charge must also include the way in which the assault is said to
+be aggravated in nature, that is, the prohibited consequence, by including the words
+“wounding”, “maiming”, “disfiguring” or “endangering life”. see also
+r. v.
+d.g.
+,
+2024 oncj 510
+, at paras.
+115-16
+.
+the
+crown argues that the offence here was committed by “wounding”. wounding means
+to break, cut, pierce, or tear the skin or some other part of the body in a way
+that is more than trifling, fleeting or minor, such as a scratch:
+r. v.
+brown
+,
+2021 onca 678
+, at paras.
+23-25
+, citing
+watt’s
+manual of
+criminal jury instructions
+, 2nd ed. (toronto: thomson reuters canada, 2015);
+mackinnon
+, at para.
+770
+. the defence accepts that the evidence makes out
+wounding but argues that the accused – based on how the charge was
+particularized – did not have fair notice that he could be convicted of the
+charge of aggravated assault by wounding.
+i agree with the crown that the charge as particularized allows me
+to consider aggravated assault as a lesser and included offence.
+it
+is fair to say that aggravated assault is not always an included offence to
+attempt murder. attempt murder can be committed in any number of ways, not all
+of which would involve an assault that wounds, maims, disfigures or endangers
+life.
+in
+mackinnon
+, the attempt murder charge was particularized as
+“by stabbing and thereby wound, main, or endanger his life” and as such,
+justice copeland found that aggravated assault was a lesser included offence.
+while her reasons clearly imply that the words “and thereby wound, maim, or
+endanger his life” were important to this finding, they do not directly address
+the issue i am contending with and do not state that that particular wording is
+necessarily required. nor does
+r. v. pelletier
+,
+2012 onca 566
+, at para.
+111
+, on which justice copeland relies.
+in
+pelletier
+, at para.
+126
+, watt j.a. amended the count of
+attempted murder by adding immediately after “while using a firearm”, the
+phrase “by shooting him with a gun, thereby wounding him”. but there is no
+indication that that is the only way the count could be particularized to constitute
+a lesser included offence. rather, justice watt stated that
+for aggravated assault to be included in the count of attempt murder, what is
+necessary is that the count “specify the means used to commit the offence and …
+contain other apt words of description”:
+pelletier
+, at para.
+111
+.
+the latter phrase comes from
+r. v. harmer and miller
+(1977),
+1976 canlii 570 (on ca)
+, 33 c.c.c. (2d) 17, at p. 19, cited in
+simpson
+, at p. 135, and is the
+ultimate test where the lesser offence is not included by the wording of the
+statute itself. see also
+simpson
+, at p. 143.
+the means used – here, “by stabbing” – is certainly a requirement. but
+does “other apt words of description” necessarily include at least one of the
+prohibited consequences set out in
+s. 268
+of the
+criminal code
+?
+as stated by the supreme court in
+r. v. simpson (no. 2)
+, (1981)
+1981 canlii 3284 (on ca)
+, 58 c.c.c. (2d) 122 at 134, “the offence said to be included must form such an apparent
+and essential constituent of the offence charged that the accused on reading
+the indictment will have adequate notice that he is required to meet, not only
+the offence charged, but also the specific offences included”. it added, at
+page 135, that “the description of the offence in the enactment creating it may
+be amplified in the indictment
+by describing the manner in which the offence
+was committed
+so that the description of the offence in the indictment
+imports included offences not contained in the offence as described in the
+enactment creating it” [emphasis added].
+of note, the
+mens rea
+of aggravated assault does not require
+proof of an intent to maim, wound or disfigure. rather, the crown must prove
+objective foresight of bodily harm:
+r. v. godin
+,
+1994 canlii 97 (scc)
+, 2 s.c.r. 484.
+in my view, then, the issue turns on whether the accused had fair
+notice that by alleging that he stabbed carlos alfaro, this would necessarily
+include an allegation that he wounded him. see:
+simpson
+, at pp. 136-37,
+where the court also references the “good working rule” that “[i]f the whole
+offence charged can be committed without committing another offence, that other
+offence is not included.” see also:
+r. v. tenthorey
+,
+2021 onca 324
+.
+the crown relies on
+r. v. allard
+,
+1990 canlii 3036
+(qcca) and
+r. v. desousa
+,
+2016 onsc 2745
+, at paras.
+84-88
+, for the proposition that
+where the means by which the attempted murder is said to have been committed is
+particularized, aggravated assault is a lesser included offence. in
+allard
+,
+like here, this was particularized as “by stabbing”.
+in both cases, however, the indictment also specifically referenced
+an aggravated assault (or “voies de fait graves”, in
+allard
+). this
+alleviated any concerns about fair notice to the accused.
+r. v. s.r.
+,
+2008 canlii 35680
+(onsc) at
+paras.
+95 and 99
+, however, also supports the proposition that specifying the
+means will suffice. in that case, the court acquitted on attempt murder but
+convicted on the lesser included offence of aggravated assault where the charge
+was particularized as “by attempting to push her in front of a subway train”.
+the court held that the “assault, in causing her to lose her balance near the
+edge of the platform as the train was approaching, clearly endangered her
+life”. there was no specific reference to endangering life in the charge as
+particularized. see also
+desousa
+, at para.
+87
+.
+one way to ask the question in this case is : could a person stab
+someone and not cause a cut or piercing of the skin or other body part? in my
+view, the only reasonable answer is no. while there may then be a factual
+determination as to whether the cut or piercing is one that is minor, fleeting
+or trifling in nature, there can be no stabbing of a person (in contrast to
+“stabbing at” someone) that would not occasion a cut or piercing in some way. an
+injury occasioned by stabbing is after all typically referred to as a “stab
+wound”.
+as stated in
+de sousa
+, at para. 85, what is essential
+is that the description of the offence be sufficient to alert
+the accused to the included offence of aggravated assault. in my view, the
+accused in this case would have been so alerted by the inclusion of the words
+“by stabbing” in the charge of attempted murder. i therefore accept that
+aggravated assault is a lesser offence that is included in the count as
+charged.
+while this is conceded, i received pictures and medical
+records relating to mr. alfaro’s injuries and accept that the four perforations
+of his skin, which are neither minor nor trifling, meet the definition of
+wounding that applies to this offence.
+given
+the nature of the stabbing, the mental element of objective foresight of bodily
+harm is also clearly made out on the evidence in this case.
+i therefore find mr. amankwaah not guilty of attempted murder but guilty
+of the lesser included offence of aggravated assault on count one.
+aggravated assault is the more serious charge of the two assaults
+that mr. amankwaah is guilty of. i therefore propose to stay the charge of
+assault with a weapon pursuant to the principle set out in
+kienapple
+.
+released:  february 14, 2025
+signed:
+justice c. mainville

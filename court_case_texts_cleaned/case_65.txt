@@ -1,0 +1,447 @@
+ontario court of justice
+citation:
+r. v. grewal
+, 2025 oncj 600
+date:
+november 14, 2025
+court
+file no. 1260-999-00-3398736f
+between:
+his
+majesty the king  (appellant)
+—
+and —
+kanwaljit grewal (respondent)
+before
+justice brian g. puddington
+heard
+on september 12, 2025
+reasons
+for judgment released on november 14, 2025
+christopher zenko...........................................................................
+agent for the appellant
+nobody
+appeared for the respondent
+kanwaljit
+grewal
+puddington j.:
+contents
+overview
+...
+1
+facts
+..
+2
+analysis
+..
+2
+conclusion
+..
+5
+overview
+under section 11(b) of our
+charter of rights and freedoms,
+any
+person charged with an offence has the right to be
+tried
+for that
+offence within a reasonable time.  in order to determine what constitutes a
+“reasonable time”, there must be a clear start and end time.
+the “end time” in this case was not in dispute.  where the parties
+disagreed was with respect to when the clock started.
+the prosecution submitted that the relevant time period started when mr.
+grewal decided he wanted a trial.  in this case, that would be after the
+completion of the early resolution meeting that mr. grewal had requested.
+after meeting with the prosecution, mr. grewal decided he did not want to
+resolve his charges and instead requested a trial.
+the defence proposed, and the justice of the peace in this case ultimately
+agreed, that the total delay in this case was from the moment the certificate
+of the offence was filed until the anticipated end of trial.  his worship did
+not find any time to be defence delay or an exceptional circumstance.
+for the reasons that follow, and with the utmost of respect, i find that
+the justice of the peace erred in his calculation of the relevant time periods,
+and the crown appeal is allowed, requiring a new trial.
+facts
+the facts underlying the section 11(b) application are not in dispute.
+mr. grewal was charged on january 28, 2023 with careless driving.  it appears
+from the record that the certificate of offence was filed on january 30, 2023.
+on february 3, 2023, mr. grewal filed an early resolution request, which is
+option 2 on the back of the certificate of the offence.  the date provided for
+that early resolution was february 6, 2024 – 1 year and 3 days later.
+the early resolution meeting took place as scheduled, and it was at this
+time that mr. grewal decided he wanted to have a trial.  the anticipated end date
+for that trial was august 27, 2024, approximately 19 months after the filing of
+the certificate of the offence.
+this “total delay” is above the 18 month presumptive ceiling set in the supreme
+court of canada’s decision in
+r. v. jordan,
+2016 scc 27
+and
+therefore demands an analysis of its reasonableness.
+analysis
+as stated, the issue in this appeal is when the clock starts and whether
+his worship erred in law in his classification of the time periods.
+a review of the jurisprudence on this issue reveals that the time period
+for these types of offences starts when the accused elects to have a trial.
+in
+mississauga (city) v. gordan,
+2016 oncj 587
+,
+a decision rendered by
+this court on october 3, 2016, after the supreme court of canada’s july 8, 2016
+decision in
+jordan
+,
+the time from the offence to the trial was 13 1/2
+months.  as in this case, there was a request by the defendant in
+gordan
+for
+an early resolution meeting.  the time from the charge to the early resolution
+meeting was 7 months, though in
+gordan
+the early resolution meeting was
+set by default, because the accused hadn’t actually checked any of the options
+on the offence notice.
+that
+being said, justice duncan of this court found in
+gordan
+at paragraph
+15
+that “the time to the resolution meeting should have been excluded by the trial
+justice from the 11(b) calculation.  had he done so, he would have inevitably
+and correctly dismissed the 11(b) application.”  his honour found support for
+this finding in the decision of
+mississauga
+v.
+lam,
+2012 oncj no.
+5594.  in that case
+,
+the total amount of delay was 18 months and 29 days.
+in dismissing the 11(b) application, the justice in
+lam
+found at
+paragraph 61:
+on the question of how to treat the five-month delay from
+april 29, 2011, to september 29, 2011, that is associated with the scheduling
+and holding the first attendance meeting with the prosecutor,
+that period
+can be regarded as an implicit waiver by the defendant since the defendant had
+opted on april 29, 2011, to have a voluntary or optional first attendance
+meeting with the prosecutor
+; however, since the purpose or function of
+the first attendance meeting is for the resolution of the charge then it is
+more suitable and practicable for the 11(b) paradigm to find this delay as part
+of a "neutral intake period" that is to be deducted from the overall
+length of delay.  (emphasis added).
+again,
+gordan
+(at the trial level) and
+lam
+were decided prior to
+jordan,
+and prior to the presumptive ceiling of 18 months articulated in that case.
+under the
+jordan
+framework, courts no longer deal with “neutral intake”
+periods of delay.  as correctly pointed out by the justice of the peace in the
+present case, we must instead look to defence delay, either explicit or
+implicit or exceptional circumstances, which include discrete events or
+particularly complex cases.
+for clarity, the
+jordan
+framework was helpfully
+summarized
+by gillese j.a. in
+r. v. coulter
+,
+2016 onca 704
+at paragraphs
+34-41
+, as follows:
+•
+calculate the
+total delay
+, which is the period from the charge
+to the actual or anticipated end of trial. (
+jordan
+, at para.
+47
+).
+•
+subtract
+defence delay
+from the total delay, which
+results in the “
+net
+delay
+”. (
+jordan
+, at para.
+66
+).
+•
+compare the net delay to the
+presumptive ceiling. (
+jordan
+,
+at para.
+66
+).
+•
+if the net delay exceeds the presumptive ceiling, it is
+presumptively unreasonable. to rebut the presumption, the
+crown must establish the presence of
+exceptional
+circumstances (
+jordan
+, para.
+47
+). if it cannot
+rebut the presumption, a stay will follow (
+jordan
+, para.
+47
+). in general,
+exceptional circumstances fall under two categories: discrete events and particularly
+complex
+cases. (
+jordan
+, para.
+71
+).
+•
+subtract delay caused by discrete events from the net delay
+(leaving the “
+remaining delay
+”) for the purpose of determining
+whether the presumptive ceiling has been reached. (
+jordan
+, para.
+75
+).
+•
+if the remaining delay exceeds the presumptive ceiling, the court
+must consider whether the case was particularly complex such that the time the
+case has taken is justified and the delay is reasonable. (
+jordan
+, at
+para.
+80
+).
+•
+if the
+remaining delay falls
+below the presumptive ceiling
+,
+the
+onus is on the defence to show that the delay is unreasonable
+. (
+jordan
+, para.
+48
+).
+defence
+delay has two components. the first is delay waived by the defence. “waiver”
+can be explicit or implicit, but in either case, it must be clear and
+unequivocal. (
+jordan
+,
+at para.
+61
+).  the second component of defence
+delay is delay caused solely by the conduct of the defence. this kind of
+defence delay involves those situations where the accused's acts either
+directly caused the delay, or the acts of the accused are shown to be a
+deliberate and calculated tactic employed to delay the trial.
+as
+i have already mentioned, despite
+gordan
+being decided at the trial
+level before
+jordan,
+i find that justice duncan’s reasoning (post-
+jordan)
+in that case
+is still sound in the post-
+jordan
+age.  as his
+honour notes in the third endnote of that decision:
+an election to pursue resolution is considered to be a
+waiver
+of ensuing delay
+to the point of change of course toward trial:
+lam supra.
+see
+also recent court of appeal decision
+r v coulter
+,
+2016 onca 704
+where
+the court considered most of the time that the case was "on a resolution
+path" to have been specifically or impliedly waived.  (emphasis added).
+section 11(b)
+of the
+charter
+protects a
+trial
+within a reasonable time.  if the accused is looking to resolve the matter, they
+are not at that point pursuing a
+trial
+.  they are on a different
+path – a path that is not covered by the section 11(b) right to a trial within
+a reasonable time. a person issued a certificate of an offence is presented
+with a choice.  they can choose to have a trial, or they can choose to try and resolve
+the matter.  in mr. grewal’s case, he chose to try and resolve the matter, and
+therefore he should be seen to have waived his time to a trial up and until he
+changed his mind and wanted a trial.
+this
+is a different dynamic than a criminal trial.  when someone is charged with a
+criminal offence, they are immediately on the path towards a trial, and the
+clock starts as soon as the information is laid.  there is no option for the criminally
+accused to check a box and try to “resolve” the matter.  the state has charged
+them, and the state is obligated to get them to trial in a reasonable time in accordance
+with
+section 11(b)
+of the
+charter
+and the framework outlined in
+jordan
+.
+when a defendant selects a path other than a trial in a
+highway traffic act
+matter, however, they have essentially waived their right to a timely trial
+until such time that they choose to have a trial.
+the
+justice of the peace in this matter appears to agree with this analysis, at
+least from his own reasoning in a recent decision of
+burlington (city)
+v.
+eshed,
+2024 oncj 299
+.  in this decision, his worship found that 16
+months and 10 days between a reopening decision and an early resolution meeting
+was defence delay.  in his worship’s view, it was appropriate in that case to
+"re-start" the clock after the early resolution meeting on october
+24, 2023, because “until that point the applicant had not made clear her
+intention to have a trial” (
+eshed
+at para.
+37
+).  in support of this
+finding, his worship cites
+r. v. guiste,
+2022 oncj 575
+, where at
+paragraph
+26
+, the justice of the peace found that “an appropriate starting date
+to begin the deduction of delay is the date of the early resolution meeting”.
+i
+agree with the decisions in
+eshed
+and
+guiste,
+both cases that
+were decided under the
+jordan
+framework, and both of which are
+consistent with justice duncan’s analysis in
+gordan
+.
+with
+respect to the thorough and thoughtful reasons of the justice of the peace in
+this case, i disagree with his worship when he states at paragraph 14 that “it
+would be counterproductive to effectively penalize defendants who choose [to
+have an early resolution].”  a defendant is not “penalized” because the time
+between the charge and the early resolution meeting is not counted on the 11(b)
+clock.  it was always open to the respondent, upon learning of the length of
+time it would take to get an early resolution, to then change his mind and seek
+a trial instead.  he did not do so.  in fact, he did nothing to move the matter
+along. he is not “penalized” by having this time categorized as defence delay.
+he is merely not having the time he was clearly pursuing a resolution added to
+the calculation of delay in an 11(b) analysis.  he always had the option to
+pursue a trial.  the moment he did, the state was obligated to have his trial
+scheduled and heard within a reasonable time, in compliance with his 11(b)
+charter
+rights.
+up
+until the time mr. grewal elected to have a trial, the entire system was
+operating on the understanding that it was on the path to resolution.  possible
+trial dates came and went while he travelled the potential resolution path.  when
+that resolution was not to his satisfaction, mr. grewal was absolutely entitled
+to then decide to have a trial. changing his mind, however, does not change the
+fact that the time leading up to his election to have a trial was an implicit
+waiver of delay.
+conclusion
+when
+the time between the filing of the certificate of the offence and the early
+resolution date are deducted as defence delay, then the time to trial falls
+well below the
+jordan
+ceiling.  the approximate 19 months of delay now
+becomes a net delay of approximately 7 months.
+when
+the delay is below the presumptive ceiling, the onus is on the defence to show
+that the delay is unreasonable.  unfortunately, despite being made aware of the
+date for his appeal, mr. grewal did not attend at his appeal, nor did he appear
+at the interim date that was set prior to the hearing.  i therefore do not have
+any submissions from the defence as to why approximately 7 months delay between
+electing to have a trial and the end of that trial is unreasonable.  given that
+7 months is 11 months below the presumptive ceiling, however, i have little difficulty
+finding that the net delay in this case was reasonable in the circumstances.
+i
+want to be clear, nothing in these reasons should be interpreted as saying that
+having to wait 12 months for an early resolution meeting is appropriate.  in
+this case, what appears to have justifiably upset the justice of the peace is
+the outrageous amount of time it took to have a phone call with a prosecutor.
+12 months is, frankly, ridiculous.  if the province or municipality wish to
+provide this option to those charged with driving offences, it has to be done
+sooner.  no good reason was provided to the justice of the peace in this case
+as to why it took as long as it did to have, what i’m sure, is no more than a 5
+to 10 minute conversation with a prosecutor.
+while
+i have found that the time leading up to an early resolution meeting is defence
+delay, i would caution the prosecution and hope that these timelines have
+significantly shortened since this case.  if not, i suspect that rather than
+individuals opting for a resolution meeting, they will simply elect a trial.  this
+will result in the clock starting the moment they make that election, and will
+leave the prosecution, administration and the courts scrambling to find trial
+time.  the chaos and backlog that will flow from that is obvious and
+inevitable.
+“early”
+resolution in this matter was a misnomer.  there was nothing “early” about it.
+to effectively address the high volume of cases in the
+provincial offences
+act
+courts, prosecutors need to have resolution discussions at an early
+stage – not over a year after the offence occurs.
+those
+words of caution aside, i ultimately find that the justice of the peace erred
+in his calculation of the defence delay and the appeal is therefore allowed.  all
+of the evidence having already been heard, including submissions on the trial
+proper, the appropriate remedy would be, as requested by the prosecutor, to
+send the matter back to the justice of the peace to render a decision on the
+trial proper.  unfortunately, pursuant to section
+138(2)
+of the
+provincial offences act
+,
+where the
+appellate court directs a new trial, “it shall be in the ontario court of
+justice presided over by a justice other than the justice who tried the
+defendant in the first instance”, unless there is a consent of the parties that
+it go back before the original justice.  as mentioned already, mr. grewal did
+not participate in this appeal, and i cannot therefore obtain his consent to
+send it back to the same justice.  a new trial, before a different justice, is
+therefore ordered.
+released:  november
+14, 2025
+justice
+b.g. puddington
+the
+trial didn’t actually finish until september 20, 2024, but for the purposes of
+this appeal, i will use the end date stipulated by the justice of the peace, as
+his worship made no mention of how that additional time should be classified.
+coincidently, 18 months and 29 days was
+the exact amount of delay found by the justice of the peace in the case at bar.

@@ -1,0 +1,875 @@
+ontario
+court
+of
+justice
+citation:
+r. v.
+williams
+, 2025 oncj 55
+date:
+2025
+01
+03
+court
+file
+no.:
+23-
+48123769
+toronto
+region
+b
+e
+t
+w
+e
+e
+n
+:
+his
+majesty
+the
+king
+—
+and
+—
+lionel
+brian
+williams
+before
+justice h. pringle
+heard
+on december 6, 2024
+written
+reasons for judgment released on january 3, 2025
+nathaniel
+smith................................................................................... counsel
+for the crown
+paula
+rochman...............................................................................................................
+amicus
+lionel
+williams............................................................................................... self-represented
+pringle
+j.:
+overview
+of assessment application
+the crown has applied for mr.
+williams to undergo a psychiatric assessment pursuant to
+s. 752.1
+of the
+criminal
+code
+. this section reads:
+752.1 (1)
+on application
+by the prosecutor, if the court is of the opinion that there are reasonable
+grounds to believe that an offender who is convicted of a serious personal
+injury offence or an offence referred to in paragraph 753.1(2)(a) might be
+found to be a dangerous offender under section 753 or a long-term offender
+under section 753.1, the court shall, by order in writing, before sentence is
+imposed, remand the offender, for a period not exceeding 60 days, to the
+custody of a person designated by the court who can perform an assessment or
+have an assessment performed by experts for use as evidence in an application
+under section 753 or 753.1.
+the applicable sections
+under which the crown says mr.
+williams may be found a dangerous offender (do) or long-term offender (lto)
+are:
+753
+(1)
+on
+application made under this part after an assessment report is filed under
+subsection 752.1(2), the court shall find the offender to be a dangerous
+offender if it is satisfied
+(a)
+that the offence for which the offender has been
+convicted is a serious personal injury offence described in paragraph (a) of
+the definition of that expression in section 752 and the offender constitutes a
+threat to the life, safety or physical or mental well- being of other persons
+on the basis of evidence establishing
+(i)
+a pattern of repetitive behaviour by the offender, of
+which the offence for which he or she has been convicted forms a part, showing
+a failure to restrain his or her behaviour and a likelihood of causing death or
+injury to other persons, or inflicting severe psychological damage on other
+persons, through failure in the future to restrain his or her behaviour,
+(ii)
+a pattern of persistent aggressive behaviour by the
+offender, of which the offence for which he or she has been convicted forms a
+part, showing a substantial degree of indifference on the part of the offender
+respecting the reasonably foreseeable consequences to other persons of his or
+her behaviour…
+753.1
+(1)
+the court may, on application made under this part
+following the filing of an assessment report under subsection 752.1(2), find an
+offender to be a long-term offender if it is satisfied that
+(a)
+it would be appropriate to
+impose a sentence of imprisonment of two years or more for the offence for
+which the offender has been convicted;
+(b)
+there is a substantial risk
+that the offender will reoffend; and
+(c)
+there is a reasonable
+possibility of eventual control of the risk in the community.
+the predicate offence is one count
+of assault with a weapon. mr. williams pled to this offence on september 5,
+2024. the crown proceeded by indictment, making the maximum sentence not more
+than ten years custody.
+it is distinctly
+possible that mr. williams struggles cognitively. ms. rochman was appointed to
+assist the court with issues that mr. williams, as an in-custody self-
+represented litigant, could not meaningfully advance himself. she has also
+taken great care to ensure mr. williams understands this process.
+mr. williams had no substantive
+legal submissions to the crown’s assessment application. as
+amicus curiae,
+ms.
+rochman’s submissions invited consideration of the following:
+(i)
+what parts of this evidentiary
+record can the court safely rely upon?
+(ii)
+is there a legitimate statutory
+basis upon which a successful do/lto application could rest, including:
+(a)
+is there a relevant pattern within
+the meaning of subsections (i) or (ii)? [ref: do preconditions, s.
+753(1)(i)(ii)]
+(b)
+should i consider, at this stage,
+whether a sentence of two years or more would be appropriate for the predicate
+offence? [ref: lto preconditions, s. 753.1(1)(a)]
+(c)
+if so, and if a two-year sentence
+is inappropriate for the predicate offence, is it a do prerequisite that mr.
+williams receive a sentence of two years or more for the predicate offence?
+these reasons explain why the
+crown’s application for psychiatric assessment has succeeded.
+the
+evidentiary record
+the crown relied upon three forms
+of evidence in this application: police synopses, a cpic print-out of
+convictions, and court transcripts. all three were acknowledged to be
+admissible, but
+amicus
+invited caution in assessing police synopses.
+two main points underlay this
+submission. first, some synopses were challenging to match up with cpic
+entries, leading to the question of whether some could be linked to findings of
+guilt. second, synopses alone are not necessarily credible, reliable proof of
+the factual details of a criminal offence. as the court of appeal said
+in
+r.
+v. williams
+2018 onca 437
+at para.
+55
+:
+due to the evidentiary frailties
+inherent in the nature of a police synopsis, caution is required when the
+sentencing judge is considering whether the contents of those records can,
+along with the rest of the record, provide the basis for a finding that the
+statutory elements of dangerousness have been proven beyond a reasonable doubt.
+the incidents set out in the synopses must be considered in light of all of the
+evidence led at the hearing. certain parts of a synopsis may find support and
+confirmation, either directly or by reasonable inference, in other parts of the
+record. if so, it is open to the sentencing judge to rely on those incidents as
+evidence in support of a finding that the statutory elements of dangerousness,
+such as the requisite pattern of behaviour, are made out.
+appendix a to this decision sets
+out where and how police synopses were found to match to cpic entries in this
+case. this is not to say that the
+facts
+in those synopses were accepted,
+wholesale, as accurate. they were not. some were weakly corroborated and could
+bear little weight. appendix a to this judgment summarizes my conclusions about
+each synopsis.
+the court transcripts and cpic
+record were both capable of receiving significant weight. the transcripts were
+certified copies. mr. williams, after reviewing the cpic record with
+amicus,
+acknowledged its accuracy.
+at age 38, mr. williams has a
+depressingly consistent criminal record. as a youth, he incurred eight findings
+of guilt, including violent entries in 2001 and 2003. as an adult, he has been
+convicted of multiple offences almost every year
+for 18 years. mr. williams has
+been found guilty, as an adult, of sixty-seven criminal offences in the past 20
+years.
+mr. williams asked me to remember
+that he has been homeless and struggling to survive his entire adult life. many
+of the sentencing transcripts confirmed this. they showed mr. williams becoming
+disruptive after being refused money or insulted while panhandling, or being
+moved along from a warm place he was illegally sleeping in, or being removed
+from public places for trespassing.
+a palpable connection exists
+between mr. williams’ unhoused, marginalized status and the number and nature
+of his criminal convictions. additionally, many of his convictions are minor,
+non-violent offences. but there are also multiple entries for violent,
+assaultive behaviour:
+•
+two adult convictions for assault
+with a weapon (2024 and 2008);
+•
+one adult conviction for assault
+cause bodily harm to peace officer (2020);
+•
+one adult conviction for assault
+cause bodily harm (2008);
+•
+fourteen adult convictions for
+common assault (various dates in 2023, 2021, 2020, 2019, 2018, 2015, 2014,
+2011, 2009, 2008, 2007)
+•
+five convictions for uttering
+threats.
+but mr. williams
+has never received a penitentiary sentence. indeed, he has never been sentenced
+to more than 12 months in custody. his 2023 set of convictions resulted in a
+global total of 12 months custody being imposed, as did a prior set of
+convictions from 2020
+.
+mr. williams has been placed on
+probation many times. he has been convicted of breaching probation orders on
+sixteen different occasions. an early transcript referred to a diagnosis of
+conduct disorder. others referred to a diagnosis of schizophrenia and past
+community treatment orders.
+some transcripts suggested
+non-compliance with treatment was connected to his offending. recently
+, rose j. prophetically said:
+his reluctance to get help for
+psychological issues leads me to find that mr. williams is at a high risk to
+re-offend and violently re-offend….if mr. williams does not get help and stop
+re-offending violently, he may well appear before the court in the future
+facing a long term or dangerous offender application. there is every reason to
+believe mr. williams will attack a stranger violently at some time after he is
+released from custody.
+in reviewing cpic in conjunction
+with the transcripts, it was clear that the cycle of mr. williams’ re-offending
+could be concerningly short. for example, three convictions from 2023 reflected
+violent assaults committed on december 1 2022, december 7 2022 (10 days later),
+and january 22 2023 (46 days later).
+on june 6, 2023, he was sentenced
+to twelve months less presentence custody for those assaults. the time mr.
+williams had left to serve, after sentence was imposed, was five months.
+five months later, on november 1,
+2023, he committed the predicate offence of assault with a weapon. i do not
+know the precise date he was released from custody. but
+clearly, he was not in the community long before
+re-offending violently and, as will be explained, in a very similar way.
+analysis:
+serious personal injury offence
+mr. williams admitted that in the
+early evening of november 1, 2023, he assaulted a 22-year-old female university
+student. she was a stranger to him and was walking alone. mr. williams made eye
+contact with her, spoke some “gibberish”, and then began following her.
+the victim got nervous. she took
+off her headphones and picked up her walking pace. mr. williams reacted by
+running toward her. he threw a rock at her head. it connected. she fell to the
+ground and mr. williams left the scene. the victim was left with a concussion,
+a laceration requiring stitches, and significant emotional trauma.
+indisputably, this conviction for
+assault with a weapon met the “serious personal injury” threshold: see the
+definition in s. 752(a).
+analysis:
+court might make do / lto finding
+next, the crown had to establish
+reasonable grounds to believe mr. williams might be found to be a dangerous
+offender or a long-term offender.
+the threshold for this latter precondition is low. as
+per
+r. v. whitmore,
+2011 onsc 6976
+at para.
+14
+:
+this last step in the analysis
+has been described as whether the court has a reasonable suspicion on the
+circumstances of this case that the accused might be found to be a
+"dangerous offender" or a "long term offender". the
+threshold is very low, in fact below the standard of balance of probabilities.
+all that is required is the possibility the crown may establish either status
+on the ultimate application using such an assessment. see
+r. v. vincent,
+o.j. no. 5623 (s.c.j.) at para. 3
+;
+r. v. torres,
+o.j. no. 1402
+(s.c.j.) at para. 22 and 23
+;
+r. v. mcarthur,
+o.j. no. 5146
+(s.c.j.) at para. 20
+and
+r. v. vanderwhal
+,
+2010 onsc 265 (canlii)
+, o.j. no. 246 at para.
+27
+.
+similarly, quigley, j. said
+in
+r.
+v. states,
+2015 onsc 3265
+at paras.
+45-46
+, 51:
+….the threshold standard for
+ordering an assessment under s. 752.1 has always been low. in
+r. v. mcarthur
+,
+decided in the context of the pre-1997 legislative framework but equally
+applicable today, laforme j., as he then was, confirmed that
+s. 752.1
+is merely
+a procedural step and a summary proceeding. he confirmed that the applicable
+standard is "a possibility" that the offender might be found to be a
+dangerous offender. the question is not a complex one. it is simply whether the
+offender should be remanded for observation by a psychiatric expert for the
+purpose of gathering evidence that would or may later assist in the
+determination of whether he is in fact a dangerous or long-term offender.
+this view was further confirmed
+and followed by this court after the 2008 amendments. in r. v. stratton,
+bellefontaine j. found that a
+s. 752.1
+application for assessment is intended
+to be a lesser summary proceeding. a plain reading of the provision, and
+particularly the use of the word "might," confirmed in his view that
+the threshold standard is lower than the criminal or even civil standards of
+proof. in r. v. fulton, 14 the saskatchewan court of appeal found, at para. 21,
+that "might speaks to possibilities" and that, in determining whether
+to make an order for assessment, the court must ask whether the prospect of the
+offender being found to be a dangerous or long-term offender is merely
+"within the realm of possibility or beyond it."
+***
+it seems clear that on any fair
+reading of the current jurisprudence, the applicable standard is indeed low,
+plainly some distance below the balance of probabilities and a great distance
+removed from the criminal standard of proof that applies on the dangerous
+offender charact­erization itself.
+r. v. mcarthur,
+o.j. no. 5146 (gen. div.)
+at para. 20
+put the
+question to be decided as “based on the circumstances and evidence, is it a
+logical conclusion that there is a possibility the offender might be found to
+be a dangerous offender? …. is the court satisfied, after weighing and
+balancing all the relevant considerations, including the evidence, that the
+offender should be remanded for observation?”
+amicus
+observed that the threshold may be low, but it still
+exists and for good reason. potentially, a s. 752.1 assessment is the first
+step towards state control over an individual’s liberty for the rest of their
+life: see
+r. v. naess,
+o.j. no. 936 (s.c.j.)
+at para. 77
+;
+r.
+v. p.h.
+o.j. no. 5698 (s.c.j.)
+at para. 32
+.
+this assessment application must not be approached lightly, no matter where the
+threshold of proof falls.
+the crown referenced two possible
+paths to a dangerous offender finding in this case. i agree with mr. smith that
+the crown need not particularize, at this stage, which path the crown intends
+to pursue.
+the two paths have commonalities. both require
+establishing a specific behavioural pattern:
+(i)
+a
+pattern
+of
+repetitive
+behaviour
+by the offender, of which the offence for which he or she has been convicted
+forms a part, showing a failure to restrain his or her behaviour and a
+likelihood of causing death or injury to other persons, or inflicting severe
+psychological damage on other persons, through failure in the future to
+restrain his or her behaviour,
+(ii)
+a
+pattern
+of
+persistent
+aggressive
+behaviour by the offender, of which the offence for which he or she has been
+convicted forms a part, showing a substantial degree of indifference on the
+part of the offender respecting the reasonably foreseeable consequences to
+other persons of his or her behaviour…
+[
+emphasis
+added
+]
+helpful definitions of “pattern”,
+“repetitive”, and “persistent” were included at
+r. v. naess, supra
+at
+para. 61:
+a pattern is a repeated and
+connected design or order of things as opposed to a differentiated or random
+arrangement. repetitive or persistent connotes "constantly repeating"
+(
+r. v. yanoshewski
+(1996),
+1996 canlii 4916 (sk ca)
+, 104 c.c.c. (3d) 512 (sask. c.a.)) or
+"renewal or recurrence of an action or event"; "continuous;
+constantly repeated"; "existing continuously in time; enduring":
+the shorter oxford english dictionary
+,
+supra
+at 1560, 1798.
+i agree with both counsel that
+“pattern”, in this context, must be more than generically observing the
+repetition of violent behaviour. as per
+r. v. wong,
+2016 onsc 6362
+at
+para.
+199
+, the pattern of
+…repetitive behaviour that
+includes the predicate offence has to contain enough of the same elements of
+unrestrained dangerous conduct to be able to predict that the offender will
+likely offend in the same way in the future" (
+r. v. hogg,
+2011 onca 840 (canlii)
+,
+o.j. no. 5963 (ont. c.a.) at para.
+40
+).
+r. v. tynes,
+2022 onca 866
+provided
+more guidance on this point. at
+para. 67, tulloch j.a. [
+as he then was
+] explained the first subsection’s
+pattern requirement:
+justice watt of this court held
+in
+r. v. gibson
+,
+2021 onca 530
+, 157 o.r. (3d) 597, that the pattern
+requirement in s. 753(1)(a)(i) is not based exclusively on the number of
+offences. it is also rooted in the elements of similarity in the offender's
+behaviour:
+r. v. langevin
+(1984),
+1984 canlii 1914 (on ca)
+, 11 c.c.c. (3d) 336 (ont. c.a.), at pp.
+348-49. similarities can be found not only in the types of offences but also in
+the degree of violence or aggression threatened or inflicted on the victims:
+r.
+v. szostak,
+2014 onca 15
+, 118 o.r. (3d) 401, at para.
+33
+, leave to appeal
+refused, s.c.c.a. no. 300;
+r. v. neve
+,
+1999 abca 206
+. where there
+are numerous incidents in the pattern - as in this case - fewer similarities
+between the incidents are required:
+r. v. hogg
+,
+2011 onca 840
+, 287
+o.a.c. 82, at paras.
+39
+;
+r. v. jones
+,
+o.j. no. 1321 (ont. c.a.),
+at p. 3
+.
+tynes
+, supra
+at paras.
+70 and 71
+explained that the facts of the
+predicate offence need not fit squarely into a pattern under ss. (ii). the
+scope appears to be broader, in that the predicate offence must form a part of
+persistent, aggressive behaviour:
+unlike the "pattern of
+repetitive behaviour" in s.753(1)(a)(i), the jurisprudence has not
+interpreted this subsection to require similarities between the predicate
+offence and past offences. instead, the past behavior must be
+"persistent" and coupled with indifference and intractability: see
+e.g.,
+r. v. wong
+,
+2016 onsc 6362
+, at para.
+70
+;
+r. v. robinson
+,
+b.c.j. no. 1001 (b.c. s.c.), at para. 122
+;
+r. v. morin
+(1998),
+1998 canlii 13883
+, 173 sask. r. 101 (sask. q.b.), at para.
+85.
+based on the appellant's history
+of using violence when confronted with problems, particularly in his
+interactions with the police, the trial judge was satisfied that there was
+evidence of persistent aggressive behavior. i fail to see how this finding was
+unreasonable. the appellant had "demonstrated a quality of obstinately
+refusing to give up or let go", and all of his violent offences were
+triggered by intense emotions, drug use, and confrontation.
+similarly, the trial judge
+in
+r.
+v. wong
+, supra
+at paras.
+217 and 218
+said:
+unlike
+the "pattern of repetitive behaviour" in s.753(1)(a)(i), the case law
+has not interpreted this subsection as requiring any particular degree of
+similarity between the instances of aggressive behaviour. to be persistent, the
+past aggressive behaviour need not be continuous, but it must be
+"persistent" in the sense of enduring or constantly repeated (
+r.
+v. robinson
+,
+b.c.j.
+no. 1001
+(b.s.s.c.)
+at para. 122
+;
+r.
+v. j.y.
+(1996),
+1996 canlii 4916 (sk ca)
+,
+104
+c.c.c. (3d) 512
+(sask. c.a.)
+at
+paras.
+25-27
+;
+r. v. morin
+(1998),
+1998 canlii 13883 (sk qb)
+,
+173 sask
+r. 101
+(sask. q.b.)
+at para.
+85
+).
+aggressive behaviour does not
+require an element of physical force. instead, aggressive behaviour "is a
+vague term that can run the gamut between 'pushy and overly-confident' to
+'extremely violent'" (
+r v campbell
+,
+o.j. no 2079
+at
+p.23 (o.c.j.)
+;
+r v r.j.m,
+o.j. no 5991
+at
+para 70 (s.c.j.)
+;
+r v. s.l
+.,
+o.j. no. 6078
+at para. 32 (o.c.j.)
+.
+application
+of law to facts
+i can see a logical, reasonable
+route between factual findings summarized in appendix a and a conclusion that
+mr. williams might be found a dangerous offender. on the current evidentiary
+record, this might not be the most
+likely
+outcome. but at this stage,
+that is not the threshold of proof.
+the evidence realistically made
+out two possible patterns of behaviour fitting the required thresholds.
+pattern of repetitive behaviour – section 752(1)(a)(i)
+the first pattern showed mr.
+william’s past failure to restrain his behaviour and a likelihood of causing
+physical injury or severe psychological damage to others by continued failure
+to restrain his behaviour.
+this pattern was supported by
+evidence which included:
+i.
+the assault of a female stranger,
+unprovoked and in public, using a rock thrown at her head, causing physical and
+psychological injury. mr. williams followed her before the assault, which
+occurred on november 1, 2023 [predicate offence];
+ii.
+the assault of a female stranger,
+unprovoked and in public, by punching her in head, causing physical injury. mr.
+williams followed her before the assault, which occurred on january 22, 2023;
+iii.
+the assault of a female stranger,
+unprovoked and in public, by punching her in back, causing physical and
+psychological injury. mr. williams approached her unprompted before the
+assault, which occurred on december 7, 2022;
+iv.
+the assault of a female stranger,
+unprovoked and in public, by punching her in head, causing physical injury. mr.
+williams followed her before the assault, which occurred on december 1, 2022;
+v.
+the assault of a female stranger,
+unprovoked, location unclear but she was leaving a building, by punching her in
+the back, causing psychological injury (unknown if physical injury caused) and
+which occurred on march 22, 2021;
+vi.
+the assault of a female stranger,
+unprovoked, location unclear but between entrance doors of a building, by
+punching her in back, causing physical and psychological injury and which
+occurred on april 15, 2020;
+vii.
+the assault of a
+female peace officer, punching her in head during arrest
+,
+causing physical injury and which occurred in spring or summer of 2020;
+viii.
+the consistent assaultive
+behaviour established over 20 years in his criminal record;
+ix.
+the short timeline between the
+commission of the assaults set out at (i) through (vii);
+x.
+the pattern of non-compliance with
+court orders, meant to restrain behaviour, established over 20 years in his
+criminal record.
+mr. williams submitted that he did
+not deliberately go out seeking female victims. he does not deliberately prey
+on women. he described this similarity as incidental. he submitted that the
+street life can be hard. his criminal record reflects this fact and his
+marginalized existence. but his record should not, he argued, support a
+dangerous offender finding.
+however, at this stage the crown
+need not prove beyond reasonable doubt that the requisite pattern exists. the
+crown does not have to rule out inferences inconsistent with the presence of
+this pattern. only the possibility of a pattern had to be established upon
+reasonable grounds. i found, on reasonable grounds, that this possibility had
+been proven.
+there may be other explanations
+for what appears, on a preliminary basis, to be a pattern. mr. williams
+assaults people in public because he lives in public spaces. the recent
+recurrence of female victims may be, as he says, happenstance. but again, to
+accept alternate explanations as dispositive would mean failing to apply the
+requisite test.
+pattern of persistent aggressive behaviour – section 752(1)(a)(ii)
+a second pattern arose from this
+evidentiary record. this one fit within the parameters of subsection (ii):
+a pattern of persistent
+aggressive behaviour by the offender, of which the offence for which he or she
+has been convicted forms a part, showing a substantial degree of indifference
+on the part of the offender respecting the reasonably foreseeable consequences
+to other persons of his or her behaviour…
+on ten occasions between 2013 and
+2023, mr. williams physically assaulted and/or threatened a person who refused
+him something he wanted (money, to sleep in public, to remain in a location to
+panhandle). most of these occurrences involved physical assault. this clearly
+showed the potential to fit into a pattern of persistent aggressive behaviour.
+the facts of each occurrence
+demonstrated a substantial degree of indifference about the reasonably
+foreseeable consequences to others. the presence of a subsection (ii) pattern
+was also suggested by proof of 20 years of committing assaults, threatening people,
+and non-compliance with court orders.
+while the facts of this pattern of
+persistent aggressive behaviour did not fit exactly with the facts of the
+predicate offence,
+tynes
+, supra,
+at para.
+70
+said it need not and binds
+this lower court. the predicate offence does, obviously reveal the continuation
+of persistent, aggressive behaviour showing mr. williams’ indifference to the
+consequences of throwing a rock at someone’s head.
+the
+lto precondition of two years or more
+finally, i am of the view that i should
+not consider, at the assessment stage, whether a sentence of two years or more
+would realistically be imposed for the predicate offence. this rendered
+academic the final question raised, which was whether a sentence of two years
+or more must be a dangerous offender prerequisite.
+to explain,
+amicus
+invited
+consideration of whether a sentence of two years or more would be likely for
+this predicate offence. there is solid evidential support for this argument.
+despite the volume of convictions, mr. williams never served a sentence longer
+than 12 months. he has never served a sentence in the penitentiary. two years
+for one offence would be a significant jump from his prior sentence, which was
+12 months for similar misconduct but reflected the commission of three separate
+assaults.
+indeed it may even be unlikely,
+given these points, that this court would impose two years or more for the
+predicate offence. but quantum of future sentence should not be determinative
+of an assessment application. after all, a sentence of more than two years is
+not an impossible outcome either. in my view, this lto prerequisite was met, on
+a preliminary basis, by the fact that a sentence of two years or more is a
+possible
+outcome for this charge.
+moreover, the purpose of the legislation
+resolved this issue in the crown’s favour. parliamentary intent was to, above
+all else, protect the public. it seemed counterintuitive, given that purpose,
+to dismiss the crown’s application because i pre-determined sentence on a less
+than complete sentencing record.
+conclusion
+there are reasonable grounds to
+believe that mr. williams has been convicted of a serious personal injury
+offence. there are reasonable grounds to believe mr. williams
+might
+be
+found a dangerous or long-term offender.
+mr. williams should understand
+that this does not mean he
+will
+be found a dangerous or long-term
+offender. at this stage, the evidence proved a basis for him to be
+psychiatrically assessed for the purpose of assisting with any possible future
+s. 753 / 753.1 application.
+the application must be granted. a
+draft order of remand for assessment may be emailed to me in advance of the
+next court date.
+given that mr. williams is a
+self-represented litigant, i am grateful to ms. rochman for her diligence and
+care and to mr. smith for his fairness and objectivity.
+released:
+january 3, 2025
+signed:
+justice h. pringle
+written submissions were also filed by the applicant and
+amicus
+.
+mr. williams has
+never committed a sexual offence and, therefore, some subsections
+in s. 753 do not
+apply in his case.
+while i am confident ms. rochman will review
+these reasons with mr. williams, an oral summary of this judgment will be
+provided in court on january 10, 2025.
+his
+cpic
+record
+shows
+a
+gap
+in
+convictions
+between august
+2015
+and
+march
+2018.
+my review of this record suggested the cpic
+entries from this matter were incorrectly recorded to mr.
+williams’ benefit. i preferred the
+transcript to the cpic printout on this issue.
+r. v. williams
+,
+2023 oncj 238
+, para.
+21
+,
+june
+6,
+2023
+.
+n.b.,
+the
+maximum
+penalty
+for
+assault
+with
+weapon
+is
+not
+more
+than
+ten
+years,
+while
+a
+serious
+personal injury
+offence
+must
+be
+punishable
+by
+a
+sentence
+of
+ten
+years
+or
+more.
+this
+component
+was
+met
+at
+the
+ten- year mark.
+these
+cases
+pre-dated
+2008
+statutory amendments to
+the
+applicable
+legislation, but the
+observations at
+each paragraph remain an apt reminder.
+this
+offence
+did
+not
+squarely
+fit
+within
+the
+pattern
+established
+in
+the
+other
+offences
+but
+had
+sufficient points of similarity that i
+could not rule it out as part of this pattern either.
+some
+discussion
+of
+this
+question
+was
+found
+in
+r.
+v.
+naess,
+supra,
+at
+paras.
+55-
+59.

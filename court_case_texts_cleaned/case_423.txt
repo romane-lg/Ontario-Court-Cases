@@ -1,0 +1,650 @@
+ontario court of justice
+citation:
+r. v. arruda
+, 2025 oncj 346
+date:
+2025 02 26
+court
+file no.:  brampton 23-31108721/23-31108595
+between:
+his
+majesty the king
+— and
+—
+kevin arruda
+before
+justice d.f. mcleod
+heard
+on october 21, 22, 2024 and january 8 and february 7, 2025
+reasons
+for judgment released on february 26, 2025
+persad-ford......................................................................................... counsel
+for the crown
+s. bhangal ………………………………………. counsel for
+the accused kevin arruda
+d. f.
+mcleod, j.:
+i.          introduction
+this judgment arises from an application
+challenging the validity of a search warrant executed at the residence of the
+accused, mr. kevin arruda. the application alleges that the warrant was
+obtained in breach of
+section 8
+of the
+canadian charter of rights and freedoms
+,
+due to material omissions and misstatements in the information to obtain (ito)
+submitted by the affiant. the court is tasked with determining whether the
+warrant was lawfully issued, whether the affiant fulfilled the duty of full,
+fair, and frank disclosure, and whether any resulting breach of the charter
+warrants the exclusion of evidence under section 24(2). the analysis that
+follows is grounded in the evidentiary record, the applicable legal principles,
+and the submissions of both parties.
+ii.
+relevant facts
+in support of an application for a search warrant under
+section 487
+of
+the
+criminal code
+, the affiant relied on a series of facts suggesting a
+connection between the applicant, kevin arruda, and a pattern of harassing
+conduct involving both physical and electronic communications. the
+investigation began after letters signed “pedro” were left at the residence of ts’s
+family. these letters were temporally associated with messages sent from social
+media accounts—bearing names similar to “peter smith”—that were linked to the
+applicant. the messages, which were directed at ts, were described as unwanted
+and fraudulent, and the letters contained references to ts, her parents, and
+threats of future sexual violence involving ts and ms.
+additional information was provided by a neighbor, pa., who reported
+receiving an email from “
+peterpedro@
+[...]
+”
+stating “i know where you live.” this communication was viewed as potentially
+connecting the alias “pedro” used in the letters with the name “peter” used in
+the electronic messages. pa. also received emails from individuals purporting
+to be ts’s father and ms, referencing the earlier messages and asking about
+communications from “pedro peter.”
+statements were obtained from ts, ms, and ds. none of the individuals
+were able to definitively identify the person responsible for the
+communications. while several individuals were considered persons of interest,
+the investigation did not yield evidence implicating them, with the exception
+of the applicant.
+following the issuance of the warrant, police conducted a search of the
+applicant’s residence. during the search, they located a loaded restricted
+firearm under a blanket on a bed. additional items found included four
+prohibited devices (two shortened barrels and two over-capacity magazines),
+multiple firearm components (including 12 barrels and 20 slides), an
+unserialized firearm receiver frame that could be assembled into a functional
+handgun, and a modified bag containing two large knives, multiple zip ties, and
+an interior holster.
+iii.
+position
+of parties
+applicant’s position
+counsel for the applicant, ms. savena bhangal, argues that the search
+warrant issued under
+section 487
+of the
+criminal code
+was obtained in violation
+of
+section 8
+of the
+charter
+. she submits that the information to obtain (ito)
+was materially misleading due to deliberate omissions, misstatements, and
+unsupported assertions by the affiant, detective constable mchenry.
+ms. bhangal contends that the affiant failed to disclose alternative
+suspects, omitted exculpatory facts such as negative surveillance results, and
+mischaracterized witness statements. these actions, she argues, misled the
+issuing justice and subverted the integrity of the warrant process.
+ex parte
+she further asserts that even if the ito, once corrected through
+excision and amplification, could support the issuance of the warrant, the
+process was so tainted by bad faith that the warrant must be quashed. upholding
+it, she argues, would undermine the foundational principle that judicial
+authorizations must be obtained through full, fair, and frank disclosure.
+under section 24(2) of the
+charter
+, ms. bhangal submits that the
+evidence obtained from the search should be excluded. the breach was serious,
+the intrusion into the home was significant, and the long-term integrity of the
+justice system outweighs the short-term interest in prosecuting the offence.
+respondent’s position
+counsel
+for the crown, ms. amita persad-ford, maintains that the warrant was lawfully issued,
+and that the ito provided sufficient grounds for the issuing justice to find
+reasonable and probable grounds. while acknowledging that some errors were
+made, she characterizes them as minor, technical, and made in good faith.
+ms.
+persad-ford emphasizes that the affiant was credible and cooperative during
+cross-examination and that there is no evidence of deliberate misconduct. she
+argues that the core facts linking the applicant to the online harassment and
+threatening letters remain intact, even after excision.
+in
+her section 24(2) analysis, ms. persad-ford highlights the seriousness of the
+offences—possession of a loaded restricted firearm and controlled
+substances—and society’s strong interest in prosecuting such crimes. she
+contends that the evidence is reliable, probative, and essential to the crown’s
+case.
+she
+submits that the police acted appropriately by seeking judicial authorization
+and that any breach, if found, does not warrant exclusion. ms. persad-ford
+urges the court to admit the evidence and allow the matter to proceed on its
+merits, emphasizing the need to balance individual rights with the public
+interest in effective law enforcement.
+iii.
+relevant evidence
+detective
+constable luke mchenry was the affiant who prepared the information to obtain
+(ito) that supported the issuance of a search warrant executed on mr. kevin
+arruda’s residence. during the garofoli
+voir dire
+, mchenry testified
+that the ito contained certain factual inaccuracies. these included a statement
+that the threatening letters were addressed to ts, when they were addressed to
+her parents, and a reference to the alias “peter smith” instead of “peter.”
+mchenry stated that these inaccuracies were the result of oversight and
+reliance on information from police occurrence reports.
+mchenry
+also testified that the ito did not include certain facts known to police at
+the time of the application. these included the results of surveillance footage
+from the s residence and surrounding area, which did not show mr. arruda or his
+vehicle, and the fact that ip addresses associated with suspicious email
+accounts were traced to kitchener and australia. mchenry also confirmed that
+the ito did not mention that police were awaiting results from a bell canada
+production order related to the impersonation email accounts.
+in
+his testimony, mchenry stated that he believed the ito provided a fair summary
+of the relevant facts. when asked about the omissions, he indicated that they
+were not included because they were not considered material at the time. he did
+not provide further detail on the decision-making process regarding the
+selection of facts included in the ito.
+the
+testimony addressed the process by which the ito was prepared and the
+information that was relied upon. the evidence included both the content of the
+ito and the affiant’s explanations for the inclusion and exclusion of specific
+facts. the court heard that the ito emphasized certain elements of the
+investigation and did not include others that were known to police at the time.
+a.
+duty to provide full, fair, and frank disclosure
+legal framework and case law
+an officer applying for a search warrant has a legal duty to
+provide full, fair, and frank disclosure of all material facts. this principle
+is firmly established in canadian jurisprudence. in r. v. araujo,
+2000 scc 65
+at para
+46
+, the supreme court of canada held that an affiant must present all
+material facts, including those that may be unfavourable to the crown’s
+position. this duty is heightened in
+ex parte
+proceedings, where the
+subject of the warrant has no opportunity to respond. similarly, in r. v.
+morelli,
+2010 scc 8
+at paras
+50–55
+, the court emphasized that omissions or
+misleading statements in an information to obtain (ito) (ito) can distort the
+evidentiary matrix and affect the range of inferences available to the issuing
+justice.
+the duty is not limited to avoiding falsehoods;
+it extends to ensuring that the ito does not omit material facts that could
+impact the issuing justice’s assessment of whether the statutory preconditions
+for a warrant have been met. as noted in r. v. nyadu,
+2024 onsc 4092
+at para
+2
+,
+deliberate or reckless omissions that subvert the integrity of the
+pre-authorization process may justify setting aside the warrant and excluding the
+evidence obtained.
+evidence from the officer and
+supporting materials
+detective constable mchenry testified that he
+relied on police occurrence reports and statements from ts in preparing the
+ito. he acknowledged that the ito incorrectly stated that the threatening
+letters were addressed to ts, and that it referred to the alias “peter smith”
+instead of “peter.” he also confirmed that the ito did not include the results
+of surveillance, or the geographic origin of the ip addresses linked to the
+email accounts. mchenry stated that these omissions were not intentional and
+that he believed the ito fairly summarized the relevant facts.
+the defence’s factum further points to internal
+police memos and production order results that were available to the affiant at
+the time but not disclosed in the ito. these documents, according to the
+defence, would have provided important context and may have led the issuing
+justice to a different conclusion regarding the existence of reasonable and
+probable grounds.
+counsel submissions
+in the present case, both the crown and defence
+acknowledge the existence of this duty, though they differ in its application.
+the defence submits that the affiant, detective constable luke mchenry, failed
+to meet this obligation by omitting several material facts from the ito. these
+include the absence of surveillance evidence linking mr. arruda to the scene,
+the lack of connection between mr. arruda and the ip addresses associated with
+the impersonation emails, and the pending results of a bell canada production
+order. the defence argues that these omissions were significant and deprived
+the issuing justice of the ability to properly assess the reliability of the
+affiant’s belief.
+the crown, in contrast, maintains that mchenry
+acted in good faith and that any errors or omissions were minor and technical.
+it argues that the affiant provided explanations for the inaccuracies during
+cross-examination and that the ito, when read as a whole, presented a
+reasonable basis for the issuance of the warrant. the crown emphasizes that the
+affiant’s conduct did not amount to bad faith and that the core investigative
+theory remained supported by the evidence available at the time.
+conclusion
+while the legal standard for full, fair, and
+frank disclosure is clear and undisputed, its application in this case raises
+concerns. the omissions identified—particularly the absence of surveillance
+evidence, the lack of connection to the ip addresses, and the pending
+production order—were not peripheral. they were directly relevant to the
+reliability of the affiant’s belief and the strength of the investigative
+theory. although the affiant may not have acted with deliberate intent to
+mislead, the cumulative effect of the omissions materially impacted the
+completeness of the ito.
+in light of the case law and the factual record,
+it is difficult to conclude that the duty of full, fair, and frank disclosure
+was fully satisfied. the omissions, whether due to oversight or investigative
+tunnel vision, undermined the integrity of the pre-authorization process and
+compromised the issuing justice’s ability to make an informed decision.
+accordingly, the warrant’s validity must be carefully scrutinized in light of
+these deficiencies.
+b.
+did the officer act in good faith?
+legal framework and case law
+the concept of good faith in the context of
+search warrant applications is closely tied to the affiant’s duty to provide
+full, fair, and frank disclosure. while courts recognize that affiants may make
+errors, the distinction between honest mistakes and conduct that undermines the
+integrity of the warrant process is critical. in r. v. araujo,
+2000 scc 65
+at
+para
+46
+, the supreme court emphasized that affiants must not omit material
+facts or mislead the issuing justice. in r. v. morelli,
+2010 scc 8
+at para
+49
+,
+the court held that false statements or omissions in an ito may contravene this
+duty, even if not made with deliberate intent. however, where deliberate
+deception is found, as in r. v. nyadu,
+2024 onsc 4092
+at para
+118
+, the court
+may conclude that the affiant did not act in good faith, and the warrant may be
+set aside
+.
+evidence from the officer and
+supporting materials
+detective constable mchenry testified that he
+relied on police occurrence reports and witness statements in preparing the
+ito. he acknowledged that the ito incorrectly stated that the threatening
+letters were addressed to ts and that it referred to the alias “peter smith”
+instead of “peter.” he also confirmed that the ito did not include the results
+of surveillance or the geographic origin of the ip addresses linked to the
+email accounts. mchenry stated that these omissions were not intentional and
+that he believed the ito fairly summarized the relevant facts. no internal
+police memos or notes were produced to show how the affiant evaluated the
+materiality of the omitted information.
+submissions from counsel
+the defence submits that the affiant, detective
+constable luke mchenry, failed to act in good faith by omitting material facts
+from the ito and presenting a narrative that overstated the strength of the
+evidence linking mr. arruda to the alleged offences. these omissions included
+the lack of surveillance evidence, the absence of any known connection between
+mr. arruda and the ip addresses associated with the impersonation emails, and
+the pending results of a bell canada production order. the defence argues that
+these omissions were not minor and that their cumulative effect distorted the
+evidentiary matrix presented to the issuing justice.
+the crown, by contrast, maintains that mchenry
+acted in good faith throughout the warrant application process. it submits that
+the affiant acknowledged and explained the errors in the ito during
+cross-examination and that there is no evidence of deliberate intent to
+mislead. the crown emphasizes that the affiant relied on information available
+at the time, including statements from ts and production order results, and
+that the ito reflected a reasonable interpretation of the evidence. the crown
+further argues that the affiant’s conduct does not rise to the level of bad
+faith as contemplated in cases such as nyadu or maton.
+conclusion
+while there is no direct evidence that detective
+constable mchenry acted with deliberate intent to mislead, the omissions
+identified in the ito raise concerns about the thoroughness and objectivity of
+the warrant application. the affiant’s failure to include known facts that were
+directly relevant to the reliability of the investigative theory suggests a
+lack of diligence in meeting the standard of full, fair, and frank disclosure.
+although the crown characterizes the errors as minor, their cumulative effect
+was to present a narrative that may have overstated the strength of the case
+against mr. arruda.
+in the absence of clear evidence of intentional deception, it may
+be concluded that the affiant did not act in bad faith in the strictest legal
+sense. however, the record supports a finding that the affiant did not fully
+discharge his duty to act with the care and candor required in an
+ex parte
+proceeding. the omissions, whether the result of tunnel vision or investigative
+bias, undermined the completeness of the ito and compromised the issuing
+justice’s ability to assess the existence of reasonable and probable grounds.
+as such, the affiant’s conduct falls short of the standard expected in the
+preparation of a judicial authorization.
+c.
+have there been any material omissions?
+counsel submissions
+in the present case, the defence has identified
+several omissions in the ito that it characterizes as material. these include
+the failure to disclose that surveillance footage from the s.’s residence and
+surrounding area did not show mr. arruda or his vehicle. the ito also did not
+mention that ip addresses associated with the impersonation email accounts
+traced to kitchener and australia—locations with which mr. arruda had no known
+connection. additionally, the ito did not disclose that police were awaiting
+the results of a bell canada production order that could have provided
+subscriber information for the ip addresses in question.
+another omission raised by the defence concerns
+the attribution of online accounts. while two accounts were linked to mr. arruda
+through production order results, the ito referenced several others without
+distinguishing which were supported by evidence and which were not. the defence
+submits that this presentation may have led the issuing justice to infer a
+broader connection than the evidence warranted. furthermore, the ito did not
+include information from witness statements suggesting that other individuals
+may have had access to the personal details referenced in the letters,
+including a former personal support worker who had previously interacted with
+the s family.
+the crown, in response, acknowledges that
+certain facts were not included in the ito but maintains that these omissions
+were not material. it argues that the affiant, detective constable mchenry,
+acted in good faith and that the ito, when read as a whole, provided a
+sufficient basis for the issuance of the warrant. the crown emphasizes that the
+affiant relied on information available at the time, including statements from ts
+and production order results, and that the omissions did not significantly
+alter the overall reliability of the investigative theory.
+legal framework
+the legal standard for assessing material omissions in an ito is
+well established. as stated in r. v. morelli,
+2010 scc 8
+at paras
+50–55
+,
+omissions that affect the range of inferences available to the issuing justice
+may undermine the validity of a warrant. the affiant is required to present all
+material facts known at the time of the application, including those that may
+weaken the investigative theory. this principle is reinforced in r. v. araujo,
+2000 scc 65
+at para
+46
+, and r. v. nyadu,
+2024 onsc 4092
+at para
+2
+, which
+emphasize the importance of full, fair, and frank disclosure in
+ex parte
+proceedings.
+conclusion
+while the crown characterizes the omissions as
+minor, the nature and number of the excluded facts suggest that they were
+directly relevant to the reliability of the affiant’s belief and the strength
+of the investigative theory. the absence of surveillance evidence, the lack of
+connection to the ip addresses, and the pending production order results were
+all facts known to police at the time of the application. their omission
+limited the issuing justice’s ability to fully assess whether the statutory
+preconditions for the warrant were met.
+taken individually, each omission may be viewed
+as a matter of judgment. however, when considered cumulatively, they present a
+pattern of selective disclosure that may have affected the issuing justice’s
+assessment of the evidence. these omissions were not peripheral; they related
+to the core question of whether there were reasonable and probable grounds to
+believe that evidence of an offence would be found at mr. arruda’s residence.
+as such, they are properly characterized as material and warrant close scrutiny
+in the context of the
+charter
+challenge.
+d.
+analysis of online attribution of accounts
+counsel submissions
+the attribution of various online accounts to mr. arruda was a
+central component of the investigative theory presented in the information to
+obtain (ito). the ito referenced multiple email and social media accounts,
+including those used to send threatening messages and impersonate individuals
+connected to the complainants. according to the crown’s submissions, two of
+these accounts were linked to mr. arruda through production order results that
+identified subscriber information or ip address usage consistent with his known
+identifiers. the crown argues that this evidence, combined with contextual
+factors such as the use of the alias “peter” and the timing of the messages,
+provided a reasonable basis to believe that mr. arruda was responsible for the
+online activity.
+the defence, however, challenges the sufficiency
+and clarity of the attribution. it submits that the ito failed to distinguish
+between accounts that were supported by production order evidence and those
+that were not. the defence argues that the ito presented the accounts
+collectively, creating the impression that all were linked to mr. arruda when,
+in fact, only two had any evidentiary connection. the remaining accounts,
+according to the defence, were included without disclosing that no subscriber
+information or ip data tied them to the applicant. this, the defence contends,
+amounted to a material omission that may have misled the issuing justice
+regarding the strength of the digital evidence.
+further, the defence points to the absence of
+information in the ito regarding the geographic origin of the ip addresses
+associated with the unlinked accounts. some of these addresses were traced to
+locations such as kitchener and australia, with which mr. arruda had no known
+connection. the defence submits that this information, known to police at the
+time, should have been disclosed to allow the issuing justice to assess whether
+the accounts could reasonably be attributed to the applicant. the defence also
+notes that the ito did not clarify whether the police had ruled out other
+potential users or whether the accounts had been accessed from devices or
+networks associated with mr. arruda.
+the crown maintains that the affiant acted in
+good faith and that the ito, when read as a whole, provided a fair summary of
+the evidence. it argues that the inclusion of multiple accounts was necessary
+to illustrate the pattern of conduct under investigation and that the affiant’s
+belief in mr. arruda’s involvement was based on a cumulative assessment of the
+digital and circumstantial evidence. the crown further submits that any lack of
+specificity in the attribution did not materially affect the sufficiency of the
+grounds for the warrant.
+legal framework/conclusion
+when considered in light of the legal standard requiring full,
+fair, and frank disclosure, the manner in which the online accounts were
+presented in the information to obtain (ito) raises concerns about the adequacy
+of the attribution. while the inclusion of multiple accounts may have been
+intended to illustrate a broader pattern of conduct, the ito did not clearly
+differentiate between accounts that were supported by production order evidence
+and those that were not. this lack of specificity may have led the issuing
+justice to infer that all referenced accounts were linked to mr. arruda, when
+in fact only two had any evidentiary connection. the defence submits that this
+presentation created a misleading impression of the strength of the digital
+evidence, particularly in the absence of clarifying language or evidentiary
+breakdowns.
+additionally, the ito did not disclose that some
+of the ip addresses associated with the unlinked accounts were traced to
+geographic locations such as kitchener and australia—places with no known
+connection to mr. arruda. nor did it clarify whether police had ruled out other
+potential users or whether the accounts had been accessed from devices
+or networks associated with the applicant. these omissions, while not
+necessarily deliberate, limited the issuing justice’s ability to assess the
+reliability of the affiant’s belief. although there is no direct evidence of
+bad faith, the cumulative effect of these omissions and ambiguities undermines
+the transparency of the ito. as a result, the attribution of the online
+accounts, as presented, may not have met the standard of disclosure required in
+an
+ex parte
+warrant application.
+d.  where
+their strategic omissions
+legal framework
+the jurisprudence establishes that affiants must provide full,
+fair, and frank disclosure in
+ex parte
+warrant applications. strategic
+omissions—particularly those that obscure weaknesses in the investigative
+theory or conceal exculpatory information—can invalidate a warrant, even if the
+remaining content could support its issuance.
+the key legal takeaways are:
+(i)
+materiality matters: omissions must be assessed
+for their impact on the issuing justice’s ability to evaluate reasonable
+grounds.
+(ii)
+good faith is not a shield: even if omissions
+are not overtly malicious, a pattern of selective disclosure may still amount
+to subversion.
+(iii)
+the process must be protected: courts have a
+residual discretion to quash a warrant where the integrity of the authorization
+process is compromised, as affirmed in paryniuk and maton.
+(iv)
+the standard is not perfection, but candor: as
+araujo and george make clear, affiants are not expected to be flawless, but
+they must be honest and balanced.
+ultimately, the court must determine whether the
+omissions in this case were so significant and deliberate that they undermined
+the fairness and reliability of the warrant process. if so, exclusion of the
+evidence may be required to preserve the integrity of the justice system.
+counsel submissions
+ms. bhangal submits that the affiant, detective
+constable mchenry, engaged in strategic omissions that materially misled the
+issuing justice. she argues that the affiant failed to disclose key exculpatory
+facts, including the absence of any direct evidence linking mr. arruda to the
+threatening letters, the lack of surveillance or eyewitness evidence, and the
+existence of alternative suspects. these omissions, she contends, distorted the
+evidentiary matrix and undermined the issuing justice’s ability to assess the
+existence of reasonable and probable grounds.
+in support of her position, ms. bhangal relies
+on the supreme court’s decision in r v morelli,
+2010 scc 8
+, where the court
+emphasized that affiants must not “pick and choose” among facts and must avoid
+incomplete recitations that invite misleading inferences (para 58). she also
+cites r v maton, 2005 bcsc, where a warrant was quashed due to the affiant’s
+failure to disclose that the residence had no basement, contradicting a key
+claim in the ito. additionally, she references r v nyadu,
+2024 onsc 4092
+, where
+the court found that deliberate omissions and misstatements by experienced
+officers subverted the warrant process and justified exclusion of the evidence.
+ms. bhangal argues that even if the ito could
+support the warrant after excision, the deliberate nature of the omissions
+requires the court to quash the warrant to protect the integrity of the prior
+authorization process.
+ms. persad-ford, for the crown, maintains that
+while there were omissions in the ito, they were not material and did not
+mislead the issuing justice. she argues that the affiant’s conduct did not rise
+to the level of bad faith or deliberate deception. the omissions, in her view,
+were the result of reasonable judgment calls about what was relevant, and the
+ito, when read as a whole, provided sufficient grounds for the warrant.
+she relies on r v araujo,
+2000 scc 65
+, where the
+court acknowledged that itos are not expected to be perfect and that minor
+errors or omissions do not automatically invalidate a warrant. ms. persad-ford
+also cites r v george,
+2003 oj no 4825 (scj)
+, where the court cautioned against
+dissecting itos with 20/20 hindsight and emphasized the need for a practical,
+common-sense approach. she further references r v paryniuk,
+2017 onca 87
+, to
+argue that the residual discretion to quash a warrant should only be exercised
+in cases of clear subversion of the process, which she submits is not present
+here.
+ms. persad-ford contends that the affiant acted
+in good faith, and that the omissions did not affect the core facts supporting
+the warrant. therefore, the warrant should be upheld and the evidence admitted.
+conclusion
+the
+judicial authorization process is a cornerstone of the constitutional
+protection against unreasonable search and seizure. it is designed to ensure
+that intrusions into privacy—particularly into the sanctity of one’s home—are
+justified by objective, credible, and complete information. the issuing justice
+must be equipped with all material facts, both inculpatory and exculpatory, in
+order to make a fully informed and impartial decision. anything less undermines
+the very purpose of the
+ex parte
+process, which relies entirely on the
+affiant’s duty of candor.
+in
+this case, the court was not presented with a balanced and transparent account.
+the omissions and misstatements in the information to obtain (ito) deprived the
+issuing justice of the ability to properly assess the reliability and
+sufficiency of the grounds. this failure is not merely procedural—it strikes at
+the heart of the
+charter
+’s protection and the legitimacy of the warrant process
+itself.
+the
+integrity of the pre-authorization process is of paramount importance. it is
+not enough that a warrant could have issued; it must be shown that it did issue
+through a process that was fair, honest, and faithful to the law. where that
+process is compromised, the court must act to preserve public confidence in the
+administration of justice. upholding the warrant in such circumstances would
+send the wrong message—that shortcuts and selective disclosure are tolerable in
+pursuit of investigative goals.
+accordingly,
+the court must reaffirm that the rule of law demands more. the justice system
+must not only be effective but also principled. protecting the integrity of the
+warrant process ensures that the rights of all individuals are respected—not
+just in this case, but in every case that follows.
+iii.
+24(2) analysis
+the
+applicant respectfully submits that although the offences in question—namely,
+possession of a loaded restricted firearm and a controlled substance—are
+serious under the
+criminal code
+and engage strong societal interests in
+prosecution, these interests must be weighed against the foundational
+principles that govern the issuance of search warrants. the integrity of the
+pre-authorization process is paramount. the evidence in this case was obtained
+through a warrant issued under
+section 487
+of the criminal code, but the
+process by which that warrant was obtained was fundamentally flawed.
+the
+affiant, detective constable mchenry, engaged in a pattern of conduct that
+included deliberate omissions, misleading statements, and bald assertions
+unsupported by evidence. these actions were not mere technical errors or
+oversights; they were strategic and calculated, designed to mislead the issuing
+justice and secure a warrant on the basis of a distorted evidentiary record.
+the affiant failed to disclose material facts, including the absence of any
+connection between the applicant and key digital evidence, the lack of
+surveillance or eyewitness evidence, and the existence of alternative suspects.
+this conduct subverted the
+ex parte
+nature of the warrant process, which
+relies on the affiant’s duty to be full, fair, and frank.
+under
+the framework established in r v grant, the seriousness of the
+charter-infringing conduct weighs heavily in favour of exclusion. the affiant’s
+actions reflect a disregard for the constitutional safeguards that protect
+against unreasonable search and seizure. the second grant factor—the impact on
+the accused’s charter-protected interests—is also significant. the search
+intruded upon the applicant’s home, a space that attracts the highest
+expectation of privacy. the third factor, society’s interest in adjudication on
+the merits, must be considered in light of the long-term repute of the justice
+system. while the offences are serious, the justice system cannot be seen to
+condone unlawful conduct by admitting evidence obtained through a corrupted
+process.
+conclusion
+even
+if, after excision of the misleading and erroneous information, the remaining
+content of the ito could support the issuance of the warrant, the warrant
+should still be quashed. courts have recognized a residual discretion to
+invalidate a warrant where the conduct of the police subverts the prior
+authorization process. upholding the warrant in this case would send a message
+that the ends justify the means, undermining public confidence in the fairness
+and integrity of the judicial process. the charter is designed to prevent
+unreasonable intrusions before they occur, not to retroactively justify them.
+accordingly,
+the applicant submits that the evidence obtained through the search should be
+excluded pursuant to
+section 24(2)
+of the
+charter
+. the long-term integrity of
+the justice system demands no less.
+released:  february 26, 2025
+signed:
+justice d.f. mcleod

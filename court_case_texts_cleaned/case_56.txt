@@ -1,0 +1,192 @@
+ontario  court  of
+justice
+citation:
+r. v. tverberg
+, 2025
+oncj 613
+date:  2025·11·24
+newmarket
+between:
+his
+majesty  the  king
+—
+and  —
+todd
+tverberg
+judgment
+evidence and
+submissions heard: november 24, 2025.
+delivered: november
+24, 2025
+ms. lindsay young.................................................................................
+counsel for the crown
+mr. jason rabinovitch ....................................................................   counsel
+for the defendant
+kenkel j.:
+introduction
+constable godin was conducting a mobile ride
+at an lcbo store in vaughan. he saw mr. tverberg stumble as he walked to his
+vehicle carrying a bottle of vodka. the officer stopped mr. tverberg to conduct
+a sobriety check. his observations, including an odour of alcohol from the
+driver led to an approved screening device (asd) test. the “fail” result led to
+two approved instrument tests at the station showing blood alcohol
+concentrations of 221 and 219mgs/100ml. mr. tverberg was charged with having a
+blood alcohol concentration in excess of the legal limit within 2 hours of
+operation (80+) s 320.14(1)(b).
+the final submissions in this case focused
+solely on the
+charter
+application.
+the crown has otherwise proved its case beyond a reasonable doubt. the parties
+have identified the following
+charter
+issues for decision:
+•
+whether the stop to investigate driver sobriety
+without prior reasonable grounds to arrest or reasonable suspicion is arbitrary
+and contrary to s 9 of the
+charter?
+•
+whether the crown has proved that the officer
+had a reasonable suspicion for the asd demand?
+•
+whether the crown has proved that the officer
+had reasonable grounds for the approved instrument demand?
+•
+if the
+charter
+breach(es) are proved, should the breath test evidence be excluded
+pursuant to s 24(2)?
+arbitrary stop – charter s 9
+the defence questioned the officer about his
+basis for the stop. the notice of application submitted that the stop and
+detention of the accused was arbitrary and a breach of s 9 of the
+charter.
+“driving is a heavily regulated activity.
+the police are engaged, not so much in after the fact investigations of
+completed crimes, but in pre-emptive investigations intended to avoid the
+serious harm caused by those who are involved in dangerous ongoing criminal
+conduct. the police’s goal is to catch the drinking driver at the roadside and
+not at the scene of the accident. drivers expect to be stopped and questioned
+by the police concerning matters relating to the operation of their vehicles.
+that expectation is part and parcel of the privilege of operating a motor
+vehicle.”
+r v smith,
+1996 canlii 1074 (on ca)
+, oj no 372 (ca) at para
+52
+.
+constable godin had authority at common law
+and under
+section 48(1)
+of the
+highway traffic act
+rso 1990 c h.8, to
+stop mr. tverberg to investigate his sobriety. such a stop can be random. this
+stop wasn’t completely random as constable godin saw mr. tverberg stumble in
+the lcbo parking lot.
+arbitrary or random stops of drivers for
+sobriety checks are authorized by law and are reasonable limits on the mobility
+rights of drivers in this regulatory context –
+r v ladouceur,
+1990 canlii 108 (scc)
+, scj
+no 53. the ride checkstop program in this province is the best-known example of
+that authority.
+on the same day they delivered the decision
+in
+r v ladouceur
+,
+the supreme court also held that the principle was not
+confined to organized programs. in
+r v wilson,
+1990 canlii 109 (scc)
+, scj no. 54 (scc)
+at para
+12
+, the court held that a “floating stopcheck” similar to the “mobile
+ride” in this case was lawful as a reasonable limit on a driver’s
+charter
+rights
+even if the stop was truly random.
+this stop was lawful and a reasonable limit
+on the accused’s mobility right in this regulatory context.
+reasonable suspicion for asd
+demand – charter s 8
+the officer did not need a reasonable
+suspicion for his asd demand (s 320.27(2)) but he had one here. as soon as he
+stood by the driver’s open window, he smelled an odour of alcohol coming from
+the vehicle. constable godin had made other relevant observations, but even just
+the odour of alcohol coming from the vehicle provided an objective basis for
+his immediate demand.
+the crown has proved the officer had a
+reasonable suspicion for the asd demand.
+reasonable grounds for the approved
+instrument demand – charter s 8
+pc godin explained at trial that he believed
+the failure of the asd test provided him with objectively reasonable grounds
+for the approved instrument (ai) demand. the defence submits that in explaining
+the failure of that test to mr. tverberg the officer used the wrong wording,
+showing that he did not understand the statutory requirements for the ai demand
+which is a breach of s 8.
+at the roadside, mr. tverberg asked about
+the asd alcohol test, “tell me what i blew”. p.c. godin told him he blew a
+“fail” which indicated that he was over the legal limit of 80. the officer
+explained to the accused several times that he was arrested for having over
+80mgs of alcohol “in his system”.
+at trial p.c. godin was cross-examined on
+the asd settings and he explained that the “fail” result indicates more than
+100mgs of alcohol in 100ml of blood, a “pass” is less than 49mgs and an “alert”
+is less than 100mgs.
+the defence submits that the use of the
+words “in his system” at the roadside does not repeat the statutory language of
+s 320.28 which refers to a belief in a s 320.14(1)(b) offence involving a blood
+alcohol concentration equal to or exceeding 80mgs in 100ml of blood. the use of
+the phrase “in his system” shows that at the time the officer did not have
+reasonable grounds for the approved instrument demand. his evidence at trial
+showed he understands the results of the asd as expressed in mgs/100ml of blood
+but that does not correct his misunderstanding at the roadside.
+p.c. godin knew the approved screening
+device test would determine whether there were grounds for an approved
+instrument demand. the failure of that test reasonably provided him with
+objective grounds for the ai demand he made. his explanation of the fail result
+at the request of the accused was in informal terms appropriate to that
+conversation. nothing in that conversation reasonably indicated that the
+officer misunderstood the requirement for the approved instrument demand. the
+expression “there are no magic words” (
+r v grant,
+2014 onsc 1479
+)
+also
+applies in this context. the officer does not have to quote the precise
+statutory language when explaining the asd result.
+exclusion of evidence – s 24(2)
+the defence submitted in strong terms that
+the breach in this case is a serious one that must result in the exclusion of
+the breath test evidence.
+there was no s 8 or s 9 breach, but in the
+alternative if the use of the term “in his system” amounted to a breach, it
+could not reasonably result in the exclusion of evidence under s 24(2).
+the breach described is a highly technical
+one. it was not serious as the officer reasonably believed he had reasonable
+grounds for the approved instrument demand and objectively he did in fact have
+reasonable grounds based on the asd failure. there was no impact on the accused
+when the failure result was explained as over the legal limit for alcohol “in
+your system” as the essential message was conveyed. it’s not likely that adding
+the statutory toxicology terms of mgs/100ml of blood would have been
+meaningful. the exclusion of evidence in this context for a trivial breach
+would bring the administration of justice into disrepute.
+conclusion
+the
+charter
+applications are
+dismissed. i find the crown has proved the charge alleged beyond a reasonable
+doubt.
+as a postscript, i should add that this case
+shows precisely why parliament and the legislature have given police wide
+ranging powers to investigate drivers for sobriety.  mr. tverberg is very lucky
+the officer stopped him. his statements at the roadside indicated he was on his
+way to pick up his daughter from school. mobile driver sobriety investigations
+like this one carried out by p.c. godin save lives.
+delivered: november 24, 2025.
+justice joseph f. kenkel

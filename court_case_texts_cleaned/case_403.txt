@@ -1,0 +1,526 @@
+ontario court of justice
+citation:
+r. v. cobb
+, 2025 oncj 140
+date:  2025 03 11
+court file no.:  windsor
+23-81105156
+between:
+his majesty the
+king
+— and —
+brian
+cobb
+before justice s.
+g. pratt
+heard on 27
+february, 3 march 2025
+reasons for
+judgment released on 11 march 2025
+jonathan lall......................................................................................... counsel
+for the crown
+brian cobb...............................................................................................
+on his own behalf
+pratt j.:
+the
+defendant brian cobb is charged with two offences: count 1 alleges he breached
+a release order by going to a prohibited place, and count 2 alleges he uttered
+a threat to cause bodily harm.  the crown relies on direct and circumstantial
+evidence to argue it has proved both counts beyond a reasonable doubt.  the defendant,
+representing himself, argues the wording of the condition he allegedly breached
+is unworkably vague, and that there is insufficient evidence it was he who sent
+the threatening email.  in the result, he submits he should be acquitted of
+both counts.
+these
+reasons explain why i reach different conclusions on each count.
+admissions
+as
+the defendant was self-represented, there were few admissions.  on consent, the
+crown filed a certified copy of the information and release order that relate
+to count 1.  it was also agreed between the parties that the crown would file
+an audio recording of a meeting that had been made by the defendant.  while it
+was, strictly speaking, evidence brought by the defendant, the crown agreed to
+make it part of its case to assist the defendant.  a transcript of the
+recording was also provided, which the crown conceded was generally accurate.
+issues
+i
+see two issues in this case, one related to each count.
+1.
+did
+the defendant attend a place “frequented” by
+maisam
+al-rais?
+2.
+has
+the crown proved beyond a reasonable doubt it was the defendant who sent the
+threatening email?
+issue 1: did the
+defendant attend a place “frequented” by maisam al-rais?
+on
+22 august 2023 the defendant was placed on a release order with conditions.
+the order was in effect at the time these charges arose.  the first count of
+the information alleges the defendant:
+…did, being at
+large on a release order, fail to comply with a condition of that release order
+to wit: do not be within 200m of any place where you know maisam al-rais to
+live, work, go to school, frequent or any place you know the person(s) to be
+except for required court appearances except pursuant to a family court order
+made after today’s date…
+(emphasis in original)
+it
+was not argued that either exception applied to the incident in question.
+the
+crown argues that the breach is founded on the defendant’s attendance at ste.
+anne’s church in tecumseh, ontario.  this location, he says, is one the
+defendant knew the complainant ms. al-rais frequented.  a review of the
+evidence and the circumstances of the defendant’s relationship with the
+complainant is necessary.
+the
+defendant and complainant were married in 2009.  they share three children,
+ages 13, 12, and 8.  according to the complainant, the couple separated on 7
+december 2021.  since then, they have been engaged in divorce proceedings.
+the
+complainant was asked about her church attendance.  she testified that in 2021
+she was a member of the ste. anne’s parish.  she and her children would attend
+mass every sunday.  the defendant would go with them when he was not working.
+after
+the couple separated, her attendance increased.  she said that in 2022 and
+2023, in addition to going every sunday, she would also go two or three times
+during the week.  in cross-examination, she specified these midweek attendances
+were in the evenings.  she also confirmed that she never told the defendant of
+her increased attendance.  as far as she knew, he knew her to go only on
+sundays.
+on
+tuesday 31 october 2023, while governed by the release order, the defendant
+visited the church.  according to katherine marsh, one of the employees, he arrived
+over the lunch hour.  he entered the main church building playing loud music on
+his phone and yelling that he wanted to speak to someone.  ms. marsh came out
+of her upstairs office and went to the main floor.  by the time she got to the
+defendant, he was in the sanctuary of the church, near the altar.  he was
+adamant that he wanted to speak to father patrick beneteau.  he told ms. marsh
+that he was investigating a child sex trafficking ring that he said was
+operating out of the church.  she told him father beneteau was not available
+and he insisted on seeing a priest.  she described the defendant as intimidating
+and aggressive, and said he was using profanity in his communication with her.
+as
+father beneteau had been re-assigned out of ste. anne’s, ms. marsh offered to
+get the current pastor, father chris gillespie.  the defendant agreed and said
+he wasn’t leaving until he spoke to someone.  she texted father gillespie,
+hoping he was around.
+they
+then left the main church and went to another building on the property.  this
+building housed the rectory and offices.  there, they met with both father gillespie
+and another priest, father keith morrison.  together, they entered father
+gillespie’s office for a meeting.
+in
+that meeting, the defendant told the others about an investigation he’d
+commenced.  he told them he was a member of law enforcement, specifically with
+border services.  he was concerned his wife was being prostituted as part of a
+larger sex trafficking ring.  he provided father gillespie with extensive
+information he said he’d obtained through research.
+the
+substance of that meeting was provided to the court in the form of the audio
+recording made by the defendant at the time.  it largely corroborates ms.
+marsh’s evidence.  at the end of the meeting, the defendant asked for father gillespie’s
+email.  he declined to provide it, but the defendant was given the general ste.
+anne’s email.  the defendant told the others to expect an email, which he
+called a “notice”.
+i
+observe that at no time during his attendance on 31 october did the defendant ask
+to see the complainant or ever suggest that he expected her to be there.
+the
+crown argues that since the defendant knew the complainant was a regular
+churchgoer, the church was a place he knew her to frequent.  the release order
+barred him from being within 200m of any place he knew her to frequent.  by
+attending the church, he was violating that order.
+in
+support of their position, the crown relied on the case of
+r.
+v.
+boise
+o.j. no. 516 (c.j.)
+, a decision of my brother justice baker.  in that
+case, the defendant was prohibited from going within 300m of anywhere he knew
+the complainant to frequent.  it was alleged he visited a cottage property
+owned by the complainant’s mother.  at the relevant time, the complainant
+visited the property regularly to perform maintenance, but was not present when
+the defendant attended.  the question before the court, therefore, was whether
+the property was a place the complainant frequented, regardless of whether she
+was physically present when the defendant went there.
+justice
+baker reviewed dictionary definitions of “frequent” as there appears to be no
+appellate or trial court guidance on the issue.  in the end, the court laid out
+seven principles to summarize just what the term means.  in essence, the term
+requires repeated attendance, though that attendance need not be often.  there
+must be some kind of relationship between the person and the place at the time
+of the offence, and the more intimate the connection between the person and the
+location, the more likely that frequenting will be made out.
+the
+court rejected the argument of defence counsel that the condition was meant to
+prevent contact between defendant and complainant.  rather, the condition had
+as its aim the creation of safe spaces where the complainant would not have to
+worry about running into the defendant.
+there
+is an attractiveness to the position taken in
+boise
+.  certainly,
+parliament has consistently emphasized the need to protect victims of crime and
+ensure their safety.  the wide net cast by this definition of “frequent” could
+be seen to achieve those objectives.
+with
+the utmost of respect to my learned colleague, i cannot accept the definition
+of frequent as laid out.  in my view, the net is simply too wide.  as defined,
+it would create vast, amorphous no-go zones that a defendant would be in
+constant danger of breaching.  this is all the more concerning when a radius is
+added to a frequent condition.  in the present case, the defendant was barred
+from attending within 200m of anywhere he knew the complainant to frequent.
+accepting for the moment that would include ste. anne’s parish, it would also
+include a portion of tecumseh road east and lesperance road.  that is, the
+defendant would not be permitted to use either of those streets within 200m of
+the church.  he could not drive past the church, using two major thoroughfares
+in the town.
+given
+the open-ended nature of the term, the
+boise
+definition would also mean
+the defendant could not go within 200m of the grocery store he knows the
+complainant has attended in the past.  it would bar his attendance at or near
+any shopping centres or offices he knows she has been to more than once.  it would
+be extremely difficult for the defendant to live in the same town as the
+complainant under such a condition.
+the
+boise
+definition specifically rejects any knowledge element on the part
+of the defendant.  attendance at a time when he might not expect the
+complainant to be there, or even at a time when he would know conclusively that
+she isn’t there, would still be prohibited.  for example, if the defendant knew
+the complainant was out of town, he still could not attend any place she went
+to repeatedly.  the church, grocery store, shopping mall, and other places
+would still be off limits.  in my view, this does not protect the complainant;
+it is a punitive restriction on his liberty with no reasonable basis.  that restriction
+is an even greater unjustified incursion on his freedom when the radius element
+is added in.  it is not inconceivable that a person could be charged with breaching
+such a condition for being anywhere near a complainant’s typical route to work.
+if the complainant habitually drove past the intersection of tecumseh and
+ouellette avenue, for example, that would meet the
+boise
+definition of a
+location she frequents.  the defendant would be barred from attending within
+200m of that intersection, or any other location she passed each day.  this is
+not to say police would likely charge someone for driving past such a location,
+but the point is that under the
+boise
+definition, they could.
+to
+make the frequent condition reasonable, or even practically workable, there
+must be a knowledge component.  i note that the condition in the release order
+that follows the frequent condition states, “or any place you know the
+person(s) to be”.  this imparts a knowledge requirement.  the other prohibited
+locations, i.e. places the defendant knows the complainant to live, work, or go
+to school would not need such a requirement as it is reasonable to expect the
+complainant would be present at her residence, school, or workplace much of the
+time.  the concept of frequenting, on the other hand, is potentially so wide
+and undefined that making the breach of it effectively an absolute liability
+offence is inappropriate and unjustified.
+in
+my view, attendance at a location known to be frequented by a complainant
+requires some risk that the complainant be present, or at least that they be indirectly
+affected by the person’s attendance.  the entire point of a non-attendance
+condition is to avoid contact between the parties.  it is not meant to create a
+network of bubbles a defendant can never enter regardless of where the
+complainant might be at any given time.
+the
+problem is still more acute when a frequenting condition is added to a release
+order.  at that stage of a proceeding, a defendant is still presumed innocent.
+an argument might be made that such a condition is appropriate in a probation
+order, after a defendant is convicted and the risk they pose to a victim has
+been proven.  that is not the case when charges are still outstanding.  a
+defendant’s liberty interest must surely be recognized and not unreasonably restricted
+when they still bear the presumption of innocence.
+in
+the present case, the defendant brings up what i see as another valid point:
+the property in question in
+boise
+was a private residence.  in this
+case, it is a church.  i see a difference between a private location and a
+public one.  attendance at a private residence where a defendant knows the
+complainant has gone regularly would almost always carry with it the risk of
+contact.  i’m not persuaded attendance at a public building would necessarily
+carry the same risk.
+on
+the evidence i heard, the defendant knew the complainant attended ste. anne’s
+each sunday.  while her attendance increased after their separation, the
+defendant did not know that.  at most, he may have known her parents sometimes
+attended morning mass during the week.  when he went to the church on tuesday
+31 october 2023 at mid-day, there was no reasonable risk that he would
+encounter the complainant.  his business at the church that day underscores
+that he did not go there with any intention of seeking out the complainant.  he
+wanted only to speak to a priest.  there is no evidence he intended to see the
+complainant that day, or that he was trying to locate her at the church.
+a
+breach of a frequenting condition requires more than mere presence.  context is
+important.  there must be some reasonable risk of contact.  to hold otherwise
+makes the condition unworkably broad and punitive.
+on
+the evidence in this case, i find there was no such risk when the defendant
+attended ste. anne’s church that day.  he will be found not guilty of count 1.
+issue 2: has the crown proved beyond a reasonable
+doubt it was the defendant who sent the threatening email?
+count
+2 alleges the defendant sent a threat to cause bodily harm to chris gillespie
+by email.  the main argument advanced by the defendant was that the crown had
+not shown he was the actual sender of the emails in question.  while it did
+come from an email address he owned, he argued the crown did not show exclusive
+opportunity on his part.  there should be a reasonable doubt that perhaps
+someone else with access to the email account was the real sender.
+the
+email in question was one of several sent from briancobb13@xxx to steanne@xxx.
+the time stamps on the emails indicate they were all sent the night of 1
+november 2023, at 8:31pm, 9:07pm, 10:05pm, 10:33pm, 11:11pm and finally at
+11:46pm.  the portion of the email relied on by the crown as being a threat to
+cause bodily harm was in the fifth email sent, at 11:11pm.  it included the
+following:
+you
+fucking touch my children, or any children you can expect your cock shoved down
+your fucking throat after i stick a 4” by 4” piece of would [sic] up your ass
+and make you stay alive for a week or more!
+it
+was not disputed that the words used constitute a threat.  a conditional threat
+is still a threat (
+see:
+r.
+v.
+ross
+(1986)
+1986 canlii 4625 (on ca)
+,
+26 c.c.c. (3d) 413 (ont.
+c.a.)
+).  the threatened course of action would clearly amount to bodily harm.
+i find as a fact the statement included in the fifth email constitutes a threat
+contrary to s. 264.1(1).
+in
+his closing argument, the defendant submitted that as he’d been incarcerated
+since arrest, he had not had the chance to see if any of his accounts had been
+compromised.  he also said in argument that the complainant had access to his
+accounts and that perhaps she was involved in sending the emails.
+the
+defendant did not call evidence in this trial.  when he first said he did not
+want to do so, i took the opportunity to ensure he was making an informed
+decision.  i advised him firstly that the decision to testify or call evidence
+was entirely his.  no one could force him to abandon his right to silence,
+which right persisted throughout the trial.  testifying or calling evidence
+was, however, his opportunity to get “his side” before the court.  if he
+elected not to testify or call other evidence, he could not introduce new
+assertions in his argument.  the defendant advised me he understood.  in fact,
+it was after this exchange that he had discussions with the crown that resulted
+in the crown filing the audio recording as part of its case.  it is clear to me
+he understood that if he wanted to get evidence before the court, this was his
+opportunity.  aside from giving the recording to the crown to file, he made no
+other attempt to provide evidence at the trial.
+he
+did, however, put other emails to one of the crown witnesses in
+cross-examination.  these emails were marked as exhibit a on the trial as the
+witness was not able to identify them conclusively.  they do not, therefore,
+form part of the evidence i can consider.  on their face, they appeared to be emails
+sent from the defendant’s email account, but on dates when he was in custody.
+the implication was that, as emails were sent from that account at a time when
+he wasn’t able to access it, other people could have had that access at the
+time the threatening email was sent.  the difficulty with that position is these
+later emails were never authenticated.  i also heard no evidence that the
+defendant did not have access to the email account while in custody.  it was
+never asked of the complainant whether she had access to his email account.
+assertions of a lack of access to email while in custody, or of the complainant
+or someone else having some level of control over the defendant’s email, are
+not part of the trial evidence.
+in
+the result, i do not consider the later emails in reaching a verdict on this
+count.  i do consider the possibility that someone other than the defendant may
+have sent the email in question, but only in the context of the burden being on
+the crown to prove the defendant was the sender beyond a reasonable doubt.  the
+crown conceded that it is possible for the non-owner of an email address to
+have access to it.
+to
+prove the defendant was the sender, the crown relies on circumstantial evidence.
+there is no direct evidence that the defendant sent the email and so the crown
+must point to surrounding circumstances to establish this fact.
+in
+the case of
+r.
+v.
+villaroman
+2016 scc 33 (canlii)
+,
+1 s.c.r. 1000
+the supreme
+court of canada summarized how circumstantial evidence should be used by a
+trier of fact.  at paragraph 30, justice cromwell stated:
+it follows that in
+a case in which proof of one or more elements of the offence depends
+exclusively or largely on circumstantial evidence, it will generally be helpful
+to the jury to be cautioned about too readily drawing inferences of guilt. no
+particular language is required. telling the jury that an inference of guilt
+drawn from circumstantial evidence should be the only reasonable inference that
+such evidence permits will often be a succinct and accurate way of helping the
+jury to guard against the risk of "filling in the blanks" by too
+quickly overlooking reasonable alternative inferences.
+guilt
+must be the only reasonable inference to be drawn from the evidence.  if other
+inferences that point away from guilt are present, either based on the evidence
+or on a lack of evidence, the crown will have failed to prove guilt to the
+criminal standard.
+applied
+to the present case, has the crown proved that the defendant’s personal
+authorship of the threatening email is the only reasonable inference available
+to be drawn?  in my view, the answer to that question is yes.  i will explain
+why that is.
+i
+begin my analysis by recognizing that no one piece of evidence in a trial
+should be viewed in a vacuum.  this is especially so when considering
+circumstantial evidence.  while the crown relies on one email to substantiate
+the charge of uttering a threat, it put into evidence six emails in total.  the
+alleged threat is found in the fifth email.  in determining if the
+circumstances only reasonably point towards guilt, i must consider all the
+emails together with the situation that preceded them.
+at
+the meeting between the defendant and the church staff on 31 october, the defendant
+referred to a fear that his wife, the complainant, was being prostituted by a
+sex trafficking ring.  he said he’d found evidence of her participation in
+pornography by locating a video he said she was in, but said that in the video,
+she’d been wearing a mask.
+in
+the sixth email sent to the church, the sender included seven photographs.  in
+five of the seven, a woman can be seen wearing a black mask.  all photos show
+either nudity or explicit pornography.
+in
+the meeting, he also referenced cheryl hodgkin, whom he identified as the
+complainant’s family lawyer.  he told church staff that ms. hodgkin was likely
+an israeli intelligence agent who was involved in the ongoing mishandling of
+his divorce proceedings, with the complicity of the superior court of justice.
+in
+the fifth email sent to the church, the sender refers to ms. hodgkin twice,
+once regarding a claim that she was abducting children and once referencing her
+law firm and accusing her of abducting immigrants.
+in
+the sixth email, in a passage where individuals’ names are repeated many times,
+the name “hodgkin” appears twice and “hogdkin” appears once.
+in
+the meeting, the defendant refers to a cult called “sanctum” or “6309”.  he
+also said the people responsible for the sex ring get paid through “963”.
+the
+first email mentions a group called either sanctum or 369.  the second email is
+a pasted excerpt from the
+criminal code
+followed by pages and pages of “369”
+repeated over and over.  the third email includes an attachment that goes into
+significant detail describing the significance of the numbers 3, 6, and 9.
+in
+the meeting, the defendant made extensive mention of the stock market and the
+issuance of shares and statutory instruments.
+in
+the first and sixth emails, the sender references financial markets and
+securities fraud.
+at
+the end of the meeting, the defendant asked for father gillespie’s email
+address.  as i noted above, that request was declined but the defendant was
+given the general email for the parish, which was steanne@dol.ca.  at page 27,
+starting at line 21 of the transcript of the audio recording, the defendant
+says the following:
+brian:           so,
+so, okay, so i’m gonna be sending you guys notice.  so what, uh, what email
+address would you prefer me to use?  i would-, i am, i’m asking out of respect
+because the notice i’m gonna send is gonna be like, pretty heavy and it’s
+gonna, it’s gonna go to a lot of people.
+after
+father gillespie told the defendant he wasn’t comfortable giving him his own
+email address, the defendant said this at page 27, line 29 and onward:
+well, i won’t, i
+won’t give you it-, it’s not-, i’m not serving you in particular, you’re just
+the one that receives the notice it’s actually i’m serving pope francis, so you’re
+gonna have to get it up to the pope.
+the
+first email received by the church bears the subject line: “urgent notice –
+surrender”.  it was directed towards pope francis and king charles iii.
+(i
+pause to note that, having listened to the audio and read the transcript, i
+find the passages cited above, and those noted below, to have been transcribed
+correctly.)
+the
+pastor of ste. anne’s church is, as i’ve said, father christopher gillespie.  the
+second email sent repeats the name “father kris” a total of eighteen times in
+the subject line.  in argument, the defendant submitted that the spelling of
+that name called the meaning of the emails into question as father gillespie
+spells his name “chris” and the emails refer to “kris”.  i would only note that
+at no point in the meeting, at least as reflected by the recording or any other
+evidence, was the defendant ever given father gillespie’s name in writing.  he
+would not have known how father gillespie spells his first name.
+the
+fourth email refers to “kris kringle”.  it includes a series of questions.  among
+them were:
+you seemed to know
+quite a bit about me, for never having met?
+you seemed very
+concerned about my employment status, like you knew something, do tell?
+at
+various points in the transcript, father gillespie asked the defendant
+questions about his status as a law enforcement officer.
+the
+sender then writes:
+you mentioned
+something that was curious to me, about how did i know it was ste anne? and not
+another church, which led me to look into the document closer.
+at
+pages 17 and 18 of the audio transcript, father gillespie questioned the
+defendant about how he came to the conclusion that the sex trafficking ring was
+operating out of ste. anne’s church.
+the
+fifth email, the one with the allegedly threatening comment, began with the
+following, in multiple font sizes:
+kris kris kris did
+you fuck the whore of babylon?
+ma
+si
+am
+is
+ra
+al
+?
+kris kris kris
+kris kris kris, do you know who i am?
+kris kris kris
+kris kris kris kris kris kris
+after
+stating the name kris many times, the sender went on to make the comments on
+which the crown relies.  further, the first line would seem to include a
+thinly-veiled reference to the complainant, whose name is maisam al-rais.
+considering
+the timing of the emails and their content, i find as a fact that all were sent
+by the same person.  they were sent in quick succession, and all relate to the
+same subject matter.  they were clearly all sent by the same author.
+taking
+all the evidence into account, the idea that anyone other than the defendant
+sent the threatening email is not a reasonable inference.  the defendant told
+church staff they would be receiving a “notice” and asked for an email
+address.  the next night, the email address the defendant was given received an
+email entitled “urgent notice – surrender”.  the subject matter of the emails
+was connected to and expanded upon the defendant’s claims made at the meeting.
+the fourth email makes specific mention of the meeting.  the other emails
+reflect the same or similar topics the defendant spoke of at the meeting.  the
+notion that someone other than the defendant would send the emails, at that
+point in time and with that content, is an unreasonable inference.
+the
+crown does not have to negate every possible competing inference.  they need
+only show beyond a reasonable doubt that guilt is the only
+reasonable
+inference available.  in my view, they have done so.
+i
+therefore find as a fact that the defendant sent all six emails.  in
+particular, he sent the fifth email which included the threat.
+the
+crown has proved the defendant’s guilt on count 2 beyond a reasonable doubt.
+the
+defendant will be found not guilty of count 1 and guilty of count 2.
+released:
+11 march 2025
+signed: justice s.
+g. pratt

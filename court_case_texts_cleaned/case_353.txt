@@ -1,0 +1,633 @@
+ontario court of justice
+citation:
+r. v. profiti
+, 2025 oncj 723
+date:
+2025 04 09
+court
+file no.:  brampton 3111 998 23 31106988
+between:
+his
+majesty the king
+— and
+—
+john profiti
+before
+justice g.p. renwick
+heard
+and judgment released on 09 april 2025
+e. wong...................................................................................... counsel
+for the prosecution
+a. menchynski....................................................... counsel
+for the defendant john profiti
+ruling on s. 11(b)
+charter
+application
+renwick j.:
+introduction
+the defendant faces one count of having an
+excess blood alcohol concentration within two hours of operating a motor
+vehicle.
+the defendant was arrested on 11 june 2023. the
+information was sworn 28 june 2023. the defendant’s trial was set to take place
+today and tomorrow (09-10 april 2025). the trial was apparently adjourned by
+another judge on 20 march 2025 to permit the prosecution to respond to the late
+filing of this application (17 march 2025). the parties agree that the global post-charge
+delay until the original anticipated completion of the defendant’s trial is 653
+days or 21 months and 14 days.
+this application is brought because the
+defendant asserts that his constitutional right to be tried within a reasonable
+period of time will have been breached by the date that this trial was
+originally set to conclude. the prosecution does not seek to rely on any
+exceptional circumstance to justify any delay and professes timeliness and all
+appropriate alacrity.
+there are few facts in dispute between the
+parties. the parties agree on the calculation of the total delay and the
+applicable law. at issue are deductions for defence delay and any apportionment
+of responsibility for the trial date that was set.
+i have also considered whether this application
+is ripe for determination: the new trial date has not been set, the total gross
+delay is unknown. i have taken into account that i have heard full argument and
+i am in a position to determine the application, as it is currently framed,
+today.
+governing
+jurisprudence
+in
+r
+. v.
+jordan
+, the supreme court
+of canada held that trials in provincial courts ought to complete within 18
+months.
+the first step under the
+jordan
+analysis
+is to determine the total length of time between the date when the defendant
+was charged and the completion of his trial.
+the next step is to subtract from the total delay any time periods which are
+“attributable to the defence.”
+if the net delay remains above the appropriate
+ceiling:
+…then the
+delay is presumptively unreasonable. to rebut this presumption, the crown must
+establish the presence of exceptional circumstances. if it cannot, the delay is
+unreasonable and a stay will follow.
+if, after subtracting defence delay, the net
+delay is below the 18-month ceiling:
+…then the onus
+is on the defence to show that the delay is unreasonable. to do so, the defence
+must establish that (1) it took meaningful steps that demonstrate a sustained
+effort to expedite the proceedings,
+and
+(2) the case took markedly
+longer than it reasonably should have. …stays beneath the ceiling [will] be
+rare, and limited to clear cases.
+[emphasis in the original.]
+what is “defence delay?” time periods that may
+be deducted from the total delay are those “where the defence conduct has “
+solely
+or directly
+” caused the delay.”
+that said, not all delay caused by the defence
+should be counted as defence delay. our supreme court clarified the definition
+of “defence delay” in
+r.
+v
+. cody
+:
+in
+setting the presumptive ceilings, this court recognized that an accused
+person's right to make full answer and defence requires that the defence be
+permitted time to prepare and present its case. to this end, the presumptive
+ceilings of 30 months and 18 months have "already accounted for [the]
+procedural requirements" of an accused person's
+case (
+jordan
+,
+at para.
+65
+; see also paras. 53 and 83). for this reason, "defence actions
+legitimately taken to respond to the charges fall outside the ambit of defence
+delay" and should not be deducted (
+jordan
+, at
+para.
+65
+).
+the
+only deductible defence delay under this component is, therefore, that which:
+(1) is solely or directly caused by the accused person; and (2) flows from
+defence action that is illegitimate insomuch as it is not taken to respond to
+the charges. as we said
+in
+jordan
+, the most
+straightforward example is "[d]eliberate and calculated defence tactics
+aimed at causing delay, which include frivolous applications and requests"
+(
+jordan
+, at para.
+63
+). similarly, where the court
+and crown are ready to proceed, but the defence is not, the resulting delay
+should also be deducted (
+jordan
+, at para.
+64
+). these
+examples were, however, just that -- examples. they were not
+stated in
+jordan
+, nor should they be taken now, as exhaustively
+defining deductible defence delay. again, as was made clear
+in
+jordan
+, it remains "open to trial judges to find that
+other defence actions or conduct have caused delay" warranting a deduction
+(para. 64).
+…
+defence
+conduct encompasses both substance and procedure -- the decision to take a
+step,
+as well as the manner in which it is conducted
+,
+may attract scrutiny. to determine whether defence action is legitimately taken
+to respond to the charges, the circumstances surrounding the action or conduct
+may therefore be considered. the overall number, strength, importance,
+proximity to the
+jordan
+ceilings, compliance with
+any notice or filing requirements and timeliness of defence applications may be
+relevant considerations. irrespective of its merit, a defence action may be
+deemed not legitimate in the context of a s. 11(
+b
+)
+application if it is designed to delay or if it exhibits marked inefficiency or
+marked indifference toward delay.
+as
+well, inaction may amount to defence conduct that is not legitimate (
+jordan
+, at paras.
+113 and 121
+). illegitimacy may extend to
+omissions as well as acts (see, for example in another context,
+r. v. dixon
+,
+1998 canlii 805 (scc)
+, 1 s.c.r. 244
+, at para.
+37
+). accused persons must bear in mind that a
+corollary of the s. 11(
+b
+) right "to be tried
+within a reasonable time" is the responsibility to avoid causing
+unreasonable delay. defence counsel are therefore expected to "actively
+advanc[e] their clients' right to a trial within a reasonable time,
+collaborat[e] with crown counsel when appropriate and ... us[e] court time
+efficiently" (
+jordan
+, at para.
+138
+).
+in
+r.
+v.
+mallozzi
+, our court of appeal confirmed that
+actions that are legitimately taken to respond to the charges will fall outside
+of defence delay and will not be subtracted from the total delay.
+however, legitimate
+defence action may still reduce overall delay if not taken in a timely way, or
+if the manner of proceeding has led to delay.
+the
+calculation of defence delay is no longer simply a matter of measuring the time
+between refused and accepted trial dates. our court of appeal has rejected this
+approach in favour of a contextual approach that considers the circumstances
+relevant to whether, in respect of a particular period of time, the defence
+refusal of a date is the “sole or direct” cause of the resulting delay.
+the supreme court has confirmed that courts are entitled to apportion responsibility
+for delay among the litigants.
+in
+j.f
+., in the context of delay calculation when a re-trial is ordered,
+the supreme court affirmed the requirement of all parties to take a
+prospective
+approach to delay.
+analysis
+a.
+the total delay
+it is agreed that the total delay for this case is 653 days or 21 months and 14 days.
+b.
+the
+net delay
+defence delay is to be subtracted from the total delay to arrive
+at the net delay. defence delay can arise in two different ways.
+the first component is delay resulting from clear and unequivocal
+waiver of the defendant’s s. 11(b) right. the parties agree that there has been
+no explicitly waived periods of delay by the defendant in this matter.
+the second component is delay caused solely by the conduct of the
+defence. this includes periods when the prosecution and the court were prepared
+to proceed and a defendant was not.
+the defendant accepts 35 days of delay that occurred during the
+period after the judicial pre-trial (held 29 february 2024) until the trial
+scheduling meeting occurred. this was a reasonable concession: on 06 march
+2024, agent for counsel of record (not counsel who argued this application),
+indicated that a trial scheduling meeting would be held, “later this week.”
+that did not occur. in fact, on the subsequent court appearance (20 march 2024),
+inexplicably, no one appeared. eventually, the trial scheduling meeting was
+held on 11 april 2024.
+subtracting 35 days from gross delay leaves 618 days or 20 months
+and 10 days of delay.
+c.
+additional
+delay
+the prosecution seeks the attribution of further defence delay as
+a remedy for the late filing of this application and no prior notice of an
+intention to bring a s. 11(b) application. following several provincial court
+authorities, the prosecution seeks some apportionment of defence delay in the period
+from the setting of the trial date until what was (until recently) the
+anticipated completion of the trial.
+when pressed during oral submissions, the prosecutor (like counsel for the
+applicant) was reluctant to give a precise apportionment of responsibility for
+the 12 months from the trial set date (11 april 2024), until the putative trial
+completion date (tomorrow).
+the defendant accepts that it did not give written or formal
+notice of its s. 11(b)
+charter
+concerns until the filing of this application
+on 17 march 2025. however, the defendant submits that the defence conduct
+always signalled an intention to rely upon s. 11(b) of the
+charter
+. this
+was demonstrated by the speed with which matters were moved ahead, the
+willingness of the defendant to conduct a crown pre-trial meeting (11 january
+2024) even before disclosure (the qualified technician’s breath sampling
+procedure and prisoner cells videos) was completed, and the ready acceptance of
+the first trial dates offered (15-16 may 2024), which were rejected by the
+prosecution.
+pursuant to the directions of higher courts, i
+have tried to take a wholistic view of the conduct of the parties both before
+and after setting this matter down for trial. when considered from an
+atmospheric view, i find that some delay is appropriately attributed to the
+defendant.
+i accept that there were disclosure issues that
+prevented this matter from moving forward until late january 2024 (some seven
+months post-charge). during the fifth court appearance on 31 january 2024, counsel’s
+agent sought a three-week adjournment to review “the recent video disclosure”
+and to schedule a judicial pre-trial.
+however, the defendant, through counsel, was not
+blameless for all delay until the matter was set down for trial. on 21 february
+2024, counsel’s agent sought a two-week adjournment due to counsel’s
+unavailability (conducting a homicide trial). further, there is the delay
+(accepted by the defendant) from 06 march until 11 april 2024 in holding the
+trial scheduling meeting, despite representations made on 06 march.
+i mention these delays not to assign blame, but
+to acknowledge that any message sent to the prosecution, on the basis of counsel’s
+conduct, would have been mixed.
+i also find that efforts to assert the defendant’s
+s. 11(b) right were lacking. there are no emails or letters, there were no
+comments on the record (during any of the defendants nine court appearances), there
+is no indication on either the trial time estimate form (completed before the
+trial scheduling meeting), or the trial scheduling form itself, that s. 11(b)
+was to be litigated.
+the defendant asserts that there was some
+discussion about s. 11(b) during the trial scheduling meeting, which is
+accepted by the court, for the purposes of this argument. however, without any
+context or other evidence, it is almost meaningless. did the defendant put the
+prosecution on notice that s. 11(b)
+charter
+concerns were going to be
+raised? did counsel advise that instructions would be needed from the defendant,
+but if positive, the prosecution could expect to litigate a s. 11(b)
+application? in the absence of a more complete record, it is inappropriate to give
+this fact much weight.
+i find that the late notice of this application runs
+afoul the supreme court’s direction in
+r
+. v.
+j.f
+.:
+the predictability of the new
+framework makes the partie
+s
+more accountable and encourages
+them
+to be proactive about delay (
+jordan
+, at para.
+112
+;
+r. v. cody
+,
+2017 scc 31
+,
+1 s.c.r. 659
+, at para.
+36
+). in the case of the
+crown, the prospective approach clarifies the content of its constitutional
+obligation to bring the accused to trial within a reasonable time (
+jordan
+, at para.
+112
+).
+as for the accused
+,
+the predictability provided by
+the new framework requires that
+they
+be an active part of the solution to the problem of delay in criminal
+cases
+(
+jordan
+, at paras.
+84-86 and 113
+).
+[emphasis added]
+there can be no doubt that the defendant cannot
+sit idly by while delay mounts:
+an accused who sees delay
+lengthening must therefore respond in a proactive manner. being proactive may
+mean filing a s. 11(b) motion where the accused believes that their right to be
+tried within a reasonable time is not being or will not be respected (jordan,
+at para.
+85
+). like any other application made by an accused, a motion of this
+kind must be brought "reasonably and expeditiously" (para. 85).
+lateness in raising delay is contrary to the proper administration of justice,
+because such a practice serves to waste judicial resources.
+…
+in short, a duty to act
+proactively also rests on the accused. as a result, the accused must indicate
+that their right to be tried within a reasonable time has not been respected
+and, where the circumstances require, bring a motion for a stay of proceedings
+in a timely manner. as a general rule, this means before the trial is held. by
+the time the trial dates are set, the parties are generally in a position to
+know whether the trial delay will exceed the applicable presumptive ceiling,
+and the defence can raise any concerns it may have.
+the majority decision in
+j.f.
+uses the
+word “proactive” or “proactively” no less than 18 times in 80 paragraphs. the
+message is clear: all parties (which includes a defendant) must act proactively
+to avoid unreasonable delay in the conduct of a criminal prosecution. that
+includes putting the other side and the court on reasonable notice of an
+intention to bring a s. 11(b) application.
+i also find that by failing to formally raise s.
+11(b) as an issue either in writing or on the record during court proceedings, the
+defendant deprived the prosecution of an opportunity to remedy the situation.
+this failing is especially significant in this
+jurisdiction where there was a successful backlog-reduction initiative in the
+fall of 2024 which invited defendants with s. 11(b) concerns to court to
+attempt to move their trials to earlier dates.
+situations like this were anticipated. in fact, the
+chief justice of this court created a practice direction to avoid them. that
+practice direction became effective 01 november 2023. on that date, her worship
+(now regional senior justice of the peace) s. burton advised the parties (during
+the third appearance) of the new practice direction given the disclosure
+difficulties some four months post-charge. among other things, that practice
+direction also requires:
+…
+2.
+unless the court directs otherwise, section 11(b) applications shall be
+heard at least four months before trial, to allow the scheduled trial dates to
+be utilized for other matters should the proceedings be stayed.
+3.
+section 11(b) applications will be scheduled at the same time the trial
+is set. to facilitate this procedure:
+i.
+s. 11(b) applications will be canvassed during judicial pre-trials and
+the defence (counsel, authorized agent or accused, if self-represented) is
+required to advise the pre-trial judge if they intend to bring a s. 11(b)
+application; and
+ii.
+s. 11(b) applications will be canvassed when trial dates are canvassed
+in the trial scheduling court or in the trial coordinator’s office. if the
+trial date is more than 18 months from the information sworn date, a s. 11(b)
+application date will be set unless the defence confirms on the record that
+they are not bringing a s. 11(b) application.
+this procedure applies, with any necessary modifications,
+when a trial is adjourned and/or a new trial is being set.
+4.
+the s. 11(b) notice of application (form 1) and any supporting materials
+must be served and filed at least 30 days in advance of the application hearing
+date, in accordance with rule 3.1 of the
+criminal
+rules of the ontario court of justice.
+neither the rules nor the practice direction
+were followed by this defendant.
+i agree with and adopt the words of justice
+monahan in
+r
+. v.
+kullab
+:
+…the
+defence was uniquely in the position to say if delay was a problem. simply
+because dates were set outside the
+jordan
+ceiling
+would not necessarily signal to the crown that there was a section 11(b)
+problem. for example, the defence may have been content with the delay for
+whatever reason. accordingly, both the defence and the crown were to blame.
+in considering an apportionment of the delay
+from 11 april 2024 until 10 april 2024, i have taken the following into
+account:
+i.
+the defendant had been reasonably diligent in
+moving the matter along throughout most of the early appearance, pre-trial
+process;
+ii.
+the prosecution took no proactive steps to avoid
+delay from the start of the proceedings until the trial was set (it took seven
+months for core disclosure to be made available);
+iii.
+the defendant failed to put the prosecution and
+the court on notice of s. 11(b) concerns for 11 months following the setting of
+the trial date; and
+iv.
+a lack of institutional resources was the
+largest determinant of the 12-month delay from the setting of the trial until
+the trial date, rather than the conduct or inaction of the parties.
+accordingly, of the delay from setting the trial to reaching the
+trial date, i am prepared to apportion 20% responsibility to the defendant. of
+the 365 days from 11 april 2024 until 10 april 2025, the defendant is
+responsible for 73 days.
+when defence delay is subtracted from the gross delay (653 minus 35,
+minus another 73 days), the net delay to trial is 545 days or 17.92 months, which
+is marginally below the presumptive
+jordan
+limit for trials in this
+level of court.
+the trial will be adjourned
+on 20 march 2025, the matter was brought forward from today’s trial
+date to discuss the late filing of this application. the presiding judge
+granted an order to permit the prosecution to file a late response to this late
+application. as well, i am advised that the presiding justice adjourned the
+trial and vacated tomorrow as a continuation date to permit the prosecution to respond
+to the application without the need to prepare for trial.
+today, the parties indicated that they could begin the trial if need
+be. that may not change anything, given the time left today and the requirement
+of up to two days to complete this trial.
+i do not propose to over-rule a prior order of a colleague. this
+trial will not begin today. the parties are directed to return to the trial
+coordinator’s office to reschedule this two-day trial.
+conclusion
+the defendant’s s. 11(b)
+charter
+right to
+be tried within a reasonable period of time was not expected to be violated if
+the evidence and submissions ended tomorrow, as initially planned. this is the only
+time period i have been asked to consider.
+my findings and these reasons should not be
+interpreted to bind any other court if any future application(s) are brought. however,
+future applications should adhere to both the rules and the practice direction
+of 01 november 2023.
+given that no new trial date is fixed, i do not
+consider myself to be seized to hear this matter.
+for the reasons above, this application is
+dismissed.
+released:
+09 april 2025
+justice
+g. paul renwick
+canadian
+charter of rights and freedoms
+,
+being part i of the
+constitution
+act, 1982
+, enacted as schedule b to the
+canada act 1982
+(u.k.),
+1982, c. 11 (“
+charter
+”).
+i
+adopt the formula used by paciocco j.a. in
+r.
+v
+. shaikh
+,
+2019
+onca 895
+at para.
+33
+. to convert the total number of days to months, one must
+divide the total number of days by the average number of days in a month
+(365/12 = 30.417). 653 days divided by 30.417 equals 21.47 months.
+2016 scc 27
+at para.
+5
+.
+jordan
+, supra,
+at para.
+60
+.
+ibid
+.
+jordan
+, supra,
+at para.
+47
+.
+jordan
+, supra,
+at para.
+48
+.
+r
+. v.
+cody
+,
+2017 scc 31 (canlii)
+, s.c.j. no. 31, at para.
+28
+;
+jordan
+,
+supra,
+at para.
+66
+.
+cody
+, supra,
+at paras.
+29-30 and 32-33
+, respectively.
+r.
+v
+. mallozzi
+,
+2018 onca 312 (canlii)
+, o.j. no. 1794 (c.a.) at para.
+3
+.
+r.
+v.
+boulanger
+,
+2022 scc 2
+at para.
+5
+.
+r.
+v
+. albinowski
+,
+2018 onca 1084
+at para.
+46
+.
+boulanger
+, supra,
+at para.
+8
+.
+2022, scc 17
+at paras.
+31 and 31
+.
+see
+r.
+v
+. nigro,
+2023 oncj 541
+and
+r.
+v
+.
+kullab
+,
+2023 oncj 458
+, among other unreported cases.
+earlier
+today, i denied a defence request for an adjournment of this application to
+provide an affidavit from a student who was present during the trial scheduling
+meeting. there was no explanation given for the failure to file this evidence
+along with this application.
+j.f.
+,
+supra
+, at paras.
+30-31
+.
+j.f.
+,
+supra
+, at paras.
+34 and 36
+.
+it is not lost on the court that there is no indication that
+the trial coordinator set a s. 11(b) hearing date pursuant to the requirement
+in 3(ii), above. one inference is that s. 11(b) was not raised during the
+scheduling meeting.
+2023
+oncj 458
+at para.
+38
+.
+18 months is equal to 1.5 years or (365 + (.5 x 365 = 182.5) = 548
+days).

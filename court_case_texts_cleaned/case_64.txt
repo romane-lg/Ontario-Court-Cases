@@ -1,0 +1,985 @@
+ontario court of justice
+(toronto region)
+between:
+his
+majesty the king
+respondent
+—
+and
+—
+gavin
+dorneal leon
+applicant
+before justice p. downes
+heard on october 1, 2, 22, 23, 29 &
+november 3, 2025
+reasons for judgment released on november
+17, 2025.
+ryan
+wilson......................................................................................... counsel
+for the crown
+reid
+rusonik and sophie vaisman............................... counsel for gavin
+dorneal leon
+p.
+downes j.:
+1.         introduction
+on july
+6th, 2024, police obtained three search warrants under
+s. 11
+of the
+controlled
+drugs and substances act
+sc 1996 c. 19 (cdsa) for two residences and a
+motor vehicle associated with the accused, gavin leon. on the same day, and
+before executing those warrants, police officers went to mr. leon’s neighbourhood
+and located him driving the vehicle. they followed mr. leon to several areas
+and, when he entered a convenience store near pape and danforth, they arrested
+him without incident.
+a
+search of mr. leon’s bag incident to arrest uncovered a loaded firearm and a
+separate magazine with eight rounds of ammunition.
+police
+then proceeded to execute the three search warrants.
+nothing
+of any evidentiary value was seized from the residences. when police executed
+the warrant on the motor vehicle two days later, they seized from the trunk of
+his car another firearm loaded with an over capacity magazine and two
+additional over capacity magazines, one of which was loaded with ammunition, as
+well as a handgun suppressor, other ammunition and some fentanyl residue.
+mr.
+leon was charged with 19 firearms related offences
+.  he was not
+charged with any drug-related offences.
+mr.
+leon challenges the validity of the search warrants and the search incident to
+arrest and seeks to exclude the evidence seized pursuant to s.24(2) of the
+charter
+on the basis that his s. 8 rights were violated. he says that the warrants could
+not have issued because the information to obtain (ito) failed to disclose reasonable
+grounds to believe that the items sought would be at the places to be searched.
+resting on the same premise, mr. leon also says that the police did not have
+the necessary reasonable grounds to believe he had committed an offence, thus
+making his arrest unlawful and the search incident to that arrest a violation
+of s. 8.
+the
+crown resists the application and submits that the grounds in the ito were  sufficient
+for the warrants to issue and for the arrest to have been made. even if they
+were not, the crown submits, the evidence should not be excluded under s. 24(2).
+these
+reasons explain why i agree with mr. leon. in my view, on the record before me,
+including the excised version of the ito, these search warrants could not have
+issued.
+dependent
+as it is on the information provided by a single confidential informant (ci),
+the ito in support of the warrants fails to provide a sufficient basis for the
+issuing justice, acting reasonably, to conclude that the information provided
+by the ci was credible, compelling and corroborated. it amounted to nothing
+more then an unverified generalized tip. it was not enough to allow a justice
+to find that the items sought in appendix “a” of the ito would be found at the
+places to be searched. mr. leon’s residences and vehicle were therefore
+searched in violation of his s. 8 rights.
+equally,
+the police were not possessed with reasonable grounds to arrest mr. leon for
+anything. the search incident to that arrest was also a breach of s. 8.
+this
+was a serious violation with a multi-pronged impact on mr. leon’s
+charter
+-
+protected interests. notwithstanding its importance to the crown’s case and the
+significant public interest in the prosecution of these charges, i conclude
+that the evidence seized must be excluded under s. 24(2) of the
+charter
+.
+2.
+the
+procedural background
+all
+three warrants relied on a single ito. the ito relied upon information from a
+single confidential source. as a result, portions of the ito were redacted.
+the crown
+conceded that the redacted version of the ito did not set out sufficient
+grounds to justify the issuance of the warrants and sought to rely on the
+six-step procedure set out
+in
+r. v. garofoli
+.
+in
+accordance with that procedure the defence was provided with a redacted version
+of the ito and a judicial summary of the redactions, which was prepared by the
+crown and refined with judicial input in an
+ex parte
+and
+in camera
+proceeding.
+mr. leon conceded that the judicial summary allowed the defence to be sufficiently
+aware of the nature of the redacted material to challenge it in argument or by
+evidence. as a result, the s. 8 challenge proceeded on the basis that i could
+consider the ito in its entirety, including the redacted portions.
+there
+was also a further and less common application incidental to the
+garofoli
+proceedings. the defence applied for a declaration that the confidential source
+relied on  in the ito was not a
+bona fide
+informant but was instead an
+agent of the police and not entitled to the protection of privilege afforded by
+virtue of being a confidential informant. this is sometimes referred to as a
+basi
+hearing.
+the
+defence filed an affidavit from mr. leon
+describing the basis upon which he believed that the person thought to be the
+ci was an agent. the crown filed an affidavit from a detective in the
+intelligence unit
+which essentially outlined the factual basis upon which the crown would submit
+that whomever the ci was, they were not a police agent. i provided a judicial
+summary of the redacted portions of that brief affidavit to the defence.
+i
+agreed that there was a basis to conduct such a hearing and proceeded to hear
+from one witness, who was the handler for the ci. i then provided a judicial
+summary of the evidence heard in that proceeding to the defence.
+armed
+with the redacted ito, the judicial summary of the redactions in the ito, the
+redacted affidavit from the intelligence unit and the associated summary, as
+well as some additional disclosure of source material provided by the handler
+to the affiant, the parties made submissions on whether the warrants could have
+issued.
+where
+it is necessary for me to refer to redacted portions of the materials in these
+reasons in order to fully explain my conclusions, i have done so in endnotes. a
+copy of these reasons with the endnotes redacted will be provided to mr. leon
+and can be publicly disseminated. an unredacted version will be made a sealed
+lettered exhibit so that it will be available to any reviewing court. an
+unredacted version will also be provided to crown counsel.
+3.         the legal
+principles governing the review of search warrants
+a
+search warrant is presumptively valid.
+the burden is on the applicant challenging the warrant to demonstrate that the
+minimum standard of reasonable and probable grounds has not been met.
+these
+warrants were granted pursuant to
+s.11
+of the
+cdsa
+, which requires that
+there be “reasonable grounds to believe” that a controlled substance or offence
+related property will be found at a named place. the phrase “reasonable grounds
+to believe” does not require proof on the balance of probabilities. the
+statutory and constitutional standard is one of credibly-based probability.
+a
+warrant that is issued based on an ito that fails to disclose the necessary
+statutory prerequisites is facially invalid. a warrant is sub-facially invalid
+if information not before the issuing justice is added to the record, or
+information that should not have been before the issuing justice that is
+excised, renders the issuance of the warrant unsupportable or demonstrates that
+the
+affiant
+deliberately, or at least recklessly, misled the issuing judge, rendering the
+entire ito unreliable.
+the
+ultimate question on the s. 8 challenge to the warrants is not whether the
+reviewing justice would have
+issued the warrants. rather, the question
+is whether, based upon the record that was before the issuing justice as
+amplified and excised by the evidence adduced at this hearing, the warrants
+could
+have issued.
+in
+reviewing a warrant for sufficiency the reviewing justice should adopt a
+“common sense and holistic approach.”
+where,
+as here, the ito relies on information from a confidential source, a review of
+the grounds for the issuance of the warrants requires consideration of what is
+commonly referred to as the
+debot
+criteria,
+or the
+“three cs”: was the source information credible, compelling and corroborated?
+in assessing the extent to which the information provided by the source meets
+the
+debot
+criteria, the totality of the circumstances must be
+considered. no one factor is determinative, and weaknesses in one area may be
+compensated for by strength in the others.
+4.         the information to obtain
+the
+ito is not lengthy. it bears repeating the basic point, however, that the items
+sought as described in appendix “a” to both the warrants and the ito were the
+typical drug-related items: controlled substances, drug paraphernalia,
+proceeds, debt lists etc. the warrants did not authorize the seizure of any
+firearms.
+after
+attesting to mr. leon’s known residences and a vehicle registered in his name,
+appendix “c” of the ito proceeds to introduce the affiant who asserts his
+opinion that “much of the information provided by the confidential source(s)
+has been corroborated through police sources and surveillance leading me to
+believe the information is compelling in nature.”
+the
+ito then describes mr. leon’s arrest three and a half years earlier in january
+2021 in which drugs and a handgun were discovered in the same vehicle for which
+a warrant was being sought in this case. mr. leon was charged in relation to those
+items. the ito discloses that those charges are still outstanding, and the
+affiant notes that including this information is “not an assessment of
+character by showing involvement
+with police, but rather used as a way to
+corroborate information of leon.”
+the
+ito goes on to describe observations of mr. leon’s movements in and around his
+residences in the two weeks leading up to the warrant application.
+the
+affiant proceeds to describe his general beliefs about why the items sought
+would afford evidence of an offence and why they could be found at the places
+to be searched. the affiant’s sub-heading sums it up: “people keep personal
+items in their personal
+places.”
+the affiant concludes appendix “c” by reasserting his personal belief that the
+items sought would be found at the places to be searched.
+appendix
+“d” of the ito relates information about and received from the ci. i will
+address the specifics of that information in my analysis of the sufficiency of
+the grounds, below.
+at
+the end of appendix “d”, following the affiant’s description of the male about
+whom he is providing information, his possession of a firearm and the possible location
+of drugs, the affiant states the following (which was unredacted in the course
+of the preparation of the judicial summary):
+at this time it is
+unknown how many people know about the firearm observed by the confidential
+source. in order to protect the confidential source’s identity, i am only
+seeking a
+controlled drugs and substances act
+search warrant as i do not
+wish to inadvertently identify or narrow the pool of individuals that the
+confidential source could be, which would occur by drafting a
+criminal code
+search warrant for the firearm(s). the information related to the firearm(s) is
+also dated and i am unable to corroborate that part of the information any
+further at this point of the investigation.
+appendix
+“e” provides information about the ci’s history.
+the
+judicial summary says that appendix “e” discloses that “this is the first time
+the ci has provided information to the police.” in the affidavit of the
+detective
+in the intelligence unit filed on the application for a
+basi
+hearing,
+the affiant says that they reviewed the “source file” for the ci and confirmed
+that the ci had provided information on what the judicial summary of that
+affidavit described as “a specific number” of occasions, which is “significantly
+different” than information provided in the ito.
+[i]
+the
+crown acknowledges that the assertion in the ito that this was the first time the
+ci had provided information to the police is factually incorrect. as a result,
+this part of appendix “e” of the ito was excised from the ito for the purposes
+of the review.
+5.         the s. 8 breach
+the
+information provided by the ci touching on mr. leon’s possession of any of the
+items sought in appendix “a” is minimal. it is described it in detail in the
+endnotes.
+[ii]
+the
+ci provided other information about the male he was describing, namely the two
+addresses where he had lived, some information about his tenuous connection to
+other criminal acts, and that the male had recently become a father.
+in
+sum, the information provided by the ci as described in the endnotes, as well
+as the fact that mr. leon was facing outstanding gun charges arising from his
+arrest in january 2021, and the affiant’s personal belief based on experience
+that people keep personal items in their cars and houses, are the sum total of
+information available to the issuing justice on the question of whether the
+items listed in appendix “a” — drugs and drug paraphernalia  —  would be found
+at the places to be searched.
+the
+affiant repeatedly states that information provided by the ci had been
+corroborated by police sources. he also says, as i have described earlier, that
+the description of what led to mr. leon being charged in january 2021 is
+provided “to corroborate information of leon.” i do not understand what this reference
+to corroboration means. the phrase is highly ambiguous. if the affiant means
+that this 2021 arrest is somehow corroborative of the information provided by
+the ci about mr. leon’s current possession of drugs, i respectfully disagree. the
+ito fails to disclose any meaningful corroboration of the ci’s information.
+while
+i accept that reasonable grounds do not necessitate corroboration of the very
+criminality of the information given by the tipster, the only corroboration in
+this instance is of information that would be known to any number of people in
+mr. leon’s community. as doherty ja put it
+in
+r. v. lewis
+:
+absent
+confirmation of details other than details which describe innocent and
+commonplace conduct, information supplied by an untested, anonymous informant
+cannot, standing alone, provide reasonable grounds for an arrest or search.
+i
+appreciate that the ci in this case is not anonymous. but similar concerns
+apply with respect to the corroboration of details provided even by a known
+source. any member of mr. leon’s community could have provided the innocent
+details related by the ci in this case.
+nor
+is the information provided by the ci compelling. it is at the most extreme
+level of generality with respect to what contraband might be found. any
+reference by the affiant to his belief that mr. leon was in possession of a
+particular drug has no support in the ito. the information with respect to
+where any illegal items might be found is general and it is also contradictory.
+nor is there any indication that the ci is relying on firsthand observations of
+criminality, not to mention instances in which he or she observed mr. leon in
+possession of or dealing in drugs. simply put, with respect to the items sought
+and the places to be searched authorized by the warrants, there is nothing
+compelling about the information from the ci which formed the basis for the
+issuance of the warrants. nor is there anything in the ito to allow the issuing
+justice to know the precise source of the ci’s information.
+while
+the ci may have provided more detailed, and therefore potentially more
+compelling information about possession of firearms, that does little to
+advance the proposition that mr. leon was also in possession of drugs. while i
+accept that guns and drugs are “frequent companions,”
+that there
+may be grounds to believe that someone is in possession of one cannot be a
+substitute for the complete absence of grounds that they possess the other.
+in
+any event, i am skeptical that the ito discloses reasonable grounds to believe
+that mr. leon was in possession of firearms. as the affiant himself stated,
+“the information related to the firearm(s) is also dated and i am unable to corroborate
+that part of the information any further at this point of the investigation.”
+this
+reference to firearms led to a curious turn in the course of the crown’s
+submissions.
+initially,
+the crown conceded that on a facial analysis the ito did not provide reasonable
+grounds to believe that drugs or any related items listed in appendix “a” of
+the ito would be found at any of the places to be searched.
+he
+maintained however, that if the issuing justice was satisfied that the ito
+failed
+to disclose reasonable grounds to believe that any of the items in appendix “a”
+would be found at any of the locations to be searched, but
+did
+disclose
+reasonable grounds to believe that
+firearms
+would be found, even though
+they are not listed in appendix “a”, these
+cdsa
+warrants could issue authorizing
+the police to seize
+firearms
+. the crown explained that this was the case
+because the affiant was full, fair and frank in disclosing to the issuing
+justice that the true goal of the investigation was to search for firearms, not
+drugs. in other words, the
+cdsa
+warrant could be used as a subterfuge for
+the seizure of guns if that was necessary in order to protect the identity of a
+confidential source.
+this
+is a novel submission, in support of which the crown relied on the judgment of kenkel
+j.
+in
+r. v. dadollahi-sarab
+.
+that
+case provides no assistance to the crown. there, the defence complained that
+the police obtained a
+cdsa
+warrant as a ruse to enable them to install a
+listening device in the accused’s home in furtherance of a different investigation.
+that device had been judicially authorized in a separate application, but the
+police had been unable to gain surreptitious access to the accused’s residence
+to install it. the affiant had disclosed to the issuing justice on the
+cdsa
+application that installing the device was the primary purpose of seeking the
+warrant.
+kenkel
+j.
+found on the
+garofoli
+review that the
+cdsa
+warrant was
+properly issued because there were reasonable grounds to believe that the items
+to be seized under that warrant would be found in the residence.
+with
+respect to the so-called ruse, he said this, at para. 25:
+the presence of a “dual
+purpose” at the time the affiant applied for the warrant did not invalidate the
+resort to
+s.11
+of the
+cdsa
+--
+r v sandhu
+2011 onca 124
+. this
+applies even where the other purpose is the more important purpose in the eyes
+of the officer --
+sandhu
+at para. 62. i find the circumstances including
+the reference to the second purpose set out in the june 23rd ito did not
+disclose a s.8 breach such that the authorizing justice of the peace should
+have declined to issue the warrant.
+i
+know of no lawful basis to conclude that a
+cdsa
+warrant could issue in
+the circumstances described by the crown. it runs contrary to a basic premise
+of search warrant principles and jurisprudence to suggest that a
+cdsa
+warrant
+could issue, even if the ito fails to disclose reasonable grounds to believe
+that the items sought under the warrant are in the places to be searched.
+it
+may be that a
+criminal code
+s. 487.01 general warrant could be sought to
+authorize such a ruse;
+a
+cdsa
+warrant could not be.
+with
+respect to the third
+debot
+factor,
+credibility, the excised ito sheds
+very little light on the ci’s history.
+[iii]
+it addresses, as the judicial summary discloses, the ci’s background and role
+in criminal activity
+and
+the length of time the ci has been involved with it, and provides a general
+assertion as to the degree of the ci’s involvement in this criminal subculture.
+it also discloses in the most general of terms the ci’s motivation for
+providing information.
+[iv]
+the ito, particularly in light of the redacted reference to the ci’s history as
+an informant, has little to offer in terms of measuring the ci’s credibility.
+as
+wilson j. said
+in
+debot
+, “the level of verification required may be
+higher where the police rely on an informant whose credibility cannot be
+assessed or where fewer details are provided and the risk of innocent
+coincidence is greater.”
+since in this case the credibility of the informant cannot be assessed and few
+details were supplied, a relatively higher level of corroboration was required.
+here,
+as i have discussed, the level of meaningful corroboration was low.
+the
+affiant provides his belief as to whether or not the information received from
+the ci is firsthand, second-hand, based on gossip, observations, or a
+combination of these. but that assertion is not supported by any examples of
+firsthand knowledge or observations by the ci. like much of the ito, this
+amounts to little more than the affiant’s submission or belief,
+unsupported by any
+evidence
+,
+about the source of the information supplied by the ci. the mere assertion by
+the affiant that the information is firsthand, is detailed or that the ci is
+credible cannot serve to enhance the ci’s credibility. it is the affiant’s
+opinion; it is not evidence.
+in
+sum, this ito falls on all three branches of the
+debot
+framework.
+stripped
+to its bare essentials, it is little more than a generalized, unsourced
+assertion that some general item of contraband will be found in property
+related to mr. leon. in my respectful view, the information in this application
+did not cross the threshold into credibly-based probability and failed to establish
+reasonable grounds to believe that the items sought would be found in any of
+the three locations authorized to be searched.
+mr.
+leon has demonstrated on a balance of probabilities that the search of his
+residences, vehicle and his person was a violation of s. 8.
+i
+will now turn to s. 24(2).
+6.         section 24(2)
+mr.
+leon bears the onus of establishing on a balance of probabilities that the
+admission of the impugned evidence would bring the administration of justice
+into disrepute.
+as
+the supreme court of canada set out
+in
+r. v. grant
+,
+the focus of
+the s. 24(2) analysis is on the overall repute of the administration of justice
+and the public’s confidence in the justice system in view of the long-term
+consequences of admission of unlawfully obtained evidence.
+the
+focus of this application was, of course, on the issuance of the search
+warrants. but the analysis with respect to breach of s. 8 applies equally to
+the search incident to arrest of mr. leon. that arrest was premised on the same
+grounds to believe he was in possession of illegal firearms as those contained
+in the ito.
+the
+grant
+analysis
+is comprised of three lines of inquiry. the first line of
+inquiry addresses the seriousness of the
+charter
+-infringing state
+conduct. as
+grant
+holds, there is a spectrum of seriousness:
+at one end of the
+spectrum, admission of evidence obtained through inadvertent or minor
+violations of the
+charter
+may minimally undermine public confidence in
+the rule of law. at the other end of the spectrum, admitting evidence obtained
+through a wilful or reckless disregard of
+charter
+rights will inevitably
+have a negative effect on the public confidence in the rule of law, and risk
+bringing the administration of justice into disrepute.
+here,
+the seriousness of the breach lies in what was at the very least a careless
+approach to the drafting of this ito. the crown conceded that the ito was
+largely a “boilerplate” affidavit in respect of which the affiant did little to
+tailor the application to the circumstances of this case.
+in
+my view the affiant’s repeated assertions about the credibility of the ci, the
+corroboration of information and the compelling nature of the information
+supplied were not just careless, they were a subtle attempt to convince the
+issuing justice, successfully as it turned out, that this application was far
+stronger that the evidence actually made out.
+the
+crown’s submission that this application was made as a ruse to seize firearms
+suggests that this was an approach deliberately adopted by the affiant. that is
+highly concerning, displaying as it does what in my view is the most elementary
+of misunderstandings of the warrant process.
+it
+is also troubling that, while the affiant discloses the reason why he is not
+seeking a
+criminal code
+search warrant, he does not make it clear to the
+issuing justice that he was really seeking to seize firearms under the guise of
+a paper-thin application for a
+cdsa
+warrant. i have little doubt that
+the issuing justice had no idea this was the affiant’s intent.
+indeed,
+in my view the effect of the disclaimer paragraph was to mislead the issuing
+justice. if this was not intentional, it at the very least displayed a reckless
+disregard for the affiant’s obligations in bringing this
+ex parte
+application
+and deprived the issuing justice of information essential for him to properly
+exercise his discretion to issue the warrants.
+the
+comments of rosenberg ja
+in
+r. v. hosie
+are particularly apposite here.
+there, the affiant had included a misleading paragraph respecting the
+informant’s reliability. in holding that the evidence seized under the warrant
+should be excluded, rosenberg ja commented:
+the wording of
+that paragraph displays a degree of carelessness completely inconsistent with
+the standard of care expected from any police officer deemed competent to apply
+for a search warrant.  that wording had the effect of misleading the justice of
+the peace, who was required to pass upon the sufficiency of the information….the
+obtaining of a search warrant in this fashion strikes at the core of the
+administration of justice.  as dickson j. observed in
+hunter et al v. southam
+inc
+., supra at page 110, for a procedure of prior authorization to be
+meaningful “it is necessary for the person authorizing the search to be able to
+assess the evidence as to whether that standard has been met, in an entirely
+neutral and impartial manner”.  the justice can only perform that function if
+provided with accurate and candid information.  blind reliance upon ritualistic
+phrases without regard to the facts of the particular case robs the judicial
+officer of the ability to perform this vital function in the administration of
+justice….the courts should not be seen as condoning the use of language in
+search warrants which masks the true state of affairs and deprives a judicial
+officer of the opportunity to fairly assess whether the state's interest in
+detecting crime outweighs the individual's privacy interest in his or her  own
+home.
+i
+am cognizant of rosenberg ja’s caution
+in
+rocha
+that “[a]pplying for and
+obtaining a search warrant from an independent judicial officer is the
+antithesis of wilful disregard of
+charter
+rights.”
+but as
+rosenberg ja went on to say:
+i should not be
+taken as holding that whenever a search warrant has been granted, the first
+grant
+inquiry favours admission of the evidence. but the approach is not, as held by
+the trial judge, to hold in favour of exclusion because obtaining a search
+warrant is a deliberate process. the approach rather should be to look at the
+ito and consider first if it is misleading in any way. if so, the court should
+then consider where it lies on the continuum from the intentional use of false
+and misleading information at one end to mere inadvertence at the other end.
+in
+my view the affiant was not reasonably diligent in ensuring that he conveyed
+the true state of affairs to the issuing justice. he tried to bootstrap a weak
+application with inappropriate submissions and groundless assertions. as fish j.
+put it
+in
+r. v. morelli
+:
+the repute of the
+administration of justice is jeopardized by judicial indifference to
+unacceptable police conduct. police officers seeking search warrants are bound
+to act with diligence and integrity, taking care to discharge the special
+duties of candour and full disclosure that attach in
+ex parte
+proceedings. in discharging those duties responsibly, they must guard against
+making statements that are likely to mislead the justice of the peace. they
+must refrain from concealing or omitting relevant facts. and they must take
+care not to otherwise exaggerate the information upon which they rely to
+establish reasonable and probable grounds for issuance of a search warrant.
+while
+i cannot find that the affiant deliberately set out to mislead the issuing
+justice, the application left a great deal to be desired and demonstrated an
+unfortunate disregard for basic principles governing applications for judicial authorizations.
+the
+extent to which the ito fell short of providing reasonable grounds suggests a
+concerning ignorance of
+charter
+standards by the police who sought the
+warrant. this contributes to the seriousness of the breach.
+in
+my view the first branch of the
+grant
+analysis
+pulls strongly in favour
+of exclusion of the evidence.
+the
+second line of inquiry assesses the impact of the violation on the accused’s
+charter-
+protected
+interests. this line of inquiry requires an assessment of the nature of the
+charter-
+protected
+interests engaged and the degree to which the
+charter
+violation impacts
+those interests.
+in
+my view the impact on mr. leon was considerable. the police searched the most
+protected of private areas – his residence, his person and, to a lesser extent,
+his vehicle. the search of his person occurred in a public place.
+the
+second
+grant
+factor
+also pulls strongly in favour of the exclusion of
+the evidence.
+the
+third line of inquiry assesses the societal interest in an adjudication on the
+merits. does the vindication of a
+charter
+violation exact too
+great a toll on the truth-seeking function of the trial process?
+there
+is no question that society has a very strong interest in an adjudication of
+this case on the merits, as it involves the alleged possession of loaded
+illegal firearms, one of them allegedly on mr. leon’s person as he walked
+around a busy area of the city. it is also beyond dispute that the public in
+the city of toronto, and in canada generally, is justifiably alarmed at the
+proliferation of illegal firearms, and the risk to public safety which they
+pose.
+it
+may be that the firearm seized from mr. leon incident to arrest is measured
+slightly differently in the 24(2) analysis than those that were hidden from
+view in the trunk of his car. either way, this is real, reliable evidence which
+is essential to the crown’s case. multiple firearms are involved. the third
+branch pulls strongly in favour of admission.
+in
+balancing the lines of inquiry, it is the cumulative weight of the first two
+lines of inquiry that must be balanced against the third line of inquiry.
+where
+the first two lines of inquiry tip strongly towards exclusion, the third line
+of inquiry will rarely tip the scale back to admissibility.
+excluding
+reliable firearms evidence at any time is not something that should be done
+lightly. in the current climate the public rightly expects those who possess
+illegal firearms to be properly tried and, if found guilty, appropriately
+sanctioned. at the same time, as mclachlin cj and justice charron, writing for
+the majority, observed
+in
+grant
+:
+the phrase “bring
+the administration of justice into disrepute” must be understood in the
+long-term sense of maintaining the integrity of, and public confidence in, the
+justice system.  exclusion of evidence resulting in an acquittal may provoke
+immediate criticism.  but s. 24(2) does not focus on immediate reaction to the
+individual case.  rather, it looks to whether the overall repute of the justice
+system, viewed in the long term, will be adversely affected by admission of the
+evidence.  the inquiry is objective.  it asks whether a reasonable person,
+informed of all relevant circumstances and the values underlying the
+charter
+,
+would conclude that the admission of the evidence would bring the
+administration of justice into disrepute.
+while
+undoubtedly the public has a very strong interest in the adjudication of this
+case on the merits, i accept that the long-term reputation of the
+administration of justice requires that the evidence of the firearms and
+associated items seized from mr. leon and from his car be excluded as their
+admission would bring the administration of justice into disrepute.
+7.         conclusion
+mr.
+leon’s application to exclude the evidence seized from him incident to arrest
+and from his vehicle is allowed. his s. 8 rights were violated by the issuance
+of search warrants in the absence of the statutory prerequisites necessary to authorize
+those searches, and the police did not have reasonable grounds to believe he
+was in possession of firearms at the time he was arrested.
+the
+evidence of the firearms is excluded from this trial.
+____________________________
+p. downes j.
+november 17, 2025
+endnotes
+redacted ito, exhibit 2
+1990 canlii 52 (scc)
+,
+2 s.c.r. 1421
+exhibit 8
+exhibit 9 (sealed)
+r. v. basi
+,
+2009
+scc 52
+;
+r. v. sandhu
+2020 onca 479
+;
+r. v. mckenzie
+2015 onsc 6289
+;
+r. v. burke et al
+, unreported decision of porter j. october 21, 2021
+(ocj)
+exhibit 27
+exhibits 29 (sealed) and 30
+exhibit 31
+exhibit 34
+r. v. pires; r. v.
+lising
+,
+2005
+scc 66
+, at para.30;
+r. v. sadikov
+2014 onca 72
+at para.
+83
+r. v. crevier
+,
+2015 onca 619
+, at
+para.
+66
+. strictly speaking, the burden here is divided because mr. leon bears
+the burden with respect to the offences relating to firearms seized from his
+vehicle during the execution of a
+cdsa
+warrant, while the crown bears
+the burden with respect to charges relating to firearms seized from mr. leon’s
+person incident to his warrantless arrest. as my analysis will show, the
+location of the burden is ultimately immaterial to the result in this case.
+sadikov
+, at para.
+81
+r. v. shivrattan
+,
+2017 onca 23
+, at para.
+26
+;
+r. v. phan
+,
+2020 onca 298
+at paras.
+49-51
+garofoli
+, at
+p.1452;
+r. v. araujo
+,
+2000 scc 65
+, at para.
+51
+mccormack v. evans
+,
+2025 onca 767
+, at para.
+67
+;
+r.
+v. herta
+,
+onca 927, at para. 21
+r. v. debot
+,
+1989 canlii 13 (scc)
+,
+2 s.c.r. 1140
+r. v. rocha
+,
+2012 onca 707 (canlii)
+,
+o.j. no.4991 (c.a.)
+at para.16
+exhibit 3, appendix “c” under
+“overview” (the pages and paragraphs at this point in the ito are not numbered).
+r. v. lewis
+1998 canlii 7116 (on ca)
+,
+o.j. no. 376
+, at para.
+19
+(ca)
+r. v. simon
+2010 onca 754
+, at para.
+1
+the crown later in his submissions
+withdrew that concession and maintained that the ito
+did
+provide
+reasonable grounds to support the issuance of the warrants to search for and
+seize drugs and associated items listed in appendix “a”.
+submissions of crown
+counsel, november 3, 2025, at 10:42 a.m.
+r. v.
+dadollahi-sarab
+2017 oncj 808
+that issue was addressed
+recently
+in
+woods c. r
+.
+,
+2025 qcca 943
+, where a general warrant was
+issued authorizing police to stop and search the suspects and their vehicle
+using a false pretext, based on reasonable grounds to believe a drug
+trafficking offence had been committed. by not revealing the true reason for
+the stop and search, the police were able to continue their investigation
+without disclosing its existence to the other targeted individuals. the québec
+court of appeal held that the general warrant could not issue because it
+implicitly
+authorized
+the police to detain the target while concealing the true reason for that
+detention, in violation of the s. 10(a) of the
+charter
+.
+debot
+, at para.
+63
+2009 scc 32
+;
+r. v.
+le
+,
+2019 scc 34
+, at paras.
+139-140
+;
+r. v. beaver
+,
+2022 scc 54
+;
+r. v. mcgregor
+,
+2023 scc 4
+;
+r. v. mccolman
+,
+2023 scc 8
+;
+r. v. zacharias
+,
+2023 scc 30
+grant
+, at para.
+74
+r. v. hosie
+,
+1996 canlii 450 (on ca)
+,
+o.j. no. 2175
+, at para.
+31
+rocha
+, at para.
+28
+rocha
+, at paras.
+28-29
+r. v. morelli
+,
+2010 scc 8 (canlii)
+,
+1 s.c.r. 253
+,
+at paras.
+99-103
+grant
+, at para.75
+r. v. kitaitchik
+(2002),
+2002 canlii 45000 (on ca)
+,
+166 c.c.c. (3d)
+14 (ont. c.a.)
+, at para.
+47
+r.
+v. beaver
+,
+2022 scc 54
+, at paras.
+133-134
+r.
+v. lafrance
+,
+2022 scc 32
+, at para.
+90
+;
+r.
+v. mcguffie
+,
+2016
+onca 365
+,
+at paras.
+62-63
+grant
+, at para.
+68
+[i]
+redacted
+[ii]
+redacted
+•
+redacted
+•
+redacted
+•
+redacted
+[iii]
+redacted
+•
+redacted
+•
+redacted
+[iv]
+redacted

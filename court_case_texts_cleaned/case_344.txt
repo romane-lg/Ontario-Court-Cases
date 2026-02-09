@@ -1,0 +1,388 @@
+citation:
+r.
+v. mccluskey
+, 2025 oncj 212
+date:  2025·04·16
+toronto
+ontario
+court  of  justice
+between:
+his majesty  the  king
+—  and  —
+andrew mccluskey
+before
+justice peter scrutton
+heard
+on april 1, 2025
+judgment
+released april 16, 2025
+l. petryshen…………………………………………………………………………………
+for the crown
+h. r. wellington
+……………………………………………………………………….   for the defendant
+scrutton j.:
+overview
+andrew mccluskey is charged with having a
+blood alcohol concentration exceeding the legal limit within two hours of
+operating a conveyance.  he was stopped at a ride check by members of the toronto
+police service just after 11:00 p.m. on december 9, 2023. the police had set up
+at an intersection not far from the scarborough town centre, near an area with many
+licensed establishments.  it is accepted by both parties that mr. mccluskey’s
+section 8 and 9
+charter
+rights were breached in the course of his
+interaction with police. it is also accepted that the breath samples he
+provided into an approved instrument establish the elements of this offence.  the
+issues i must decide are whether there were additional
+charter
+breaches
+and whether his breath samples should be excluded pursuant to s. 24(2) of the
+charter
+.
+the evidence
+the team set up the ride check at 9:45 p.m.;
+it was anticipated to finish around 4:00 a.m.  a number of officers and scout
+cars, a supervisor, and at least two approved screening devices (asd) were on
+scene.  the entirety of the interaction between the police and the defendant was
+audio and video recorded.
+after flagging down mr. mccluskey’s jeep, p.c.
+ryan pulumbarit asked if he had consumed any alcohol that night. mccluskey answered:
+“ya, maybe a couple of hours ago.”  his response prompted p.c. pulumbarit to
+demand that he provide a sample of his breath into an approved screening device.
+for hygienic reasons, it is standard practice to provide each detainee with a
+new mouthpiece prior to using an asd.  unbeknownst to p.c. pulumbarit, the team
+had run out of mouthpieces at the time he gave mr. mccluskey the asd demand.  p.c.
+pulumbarit learned about this shortage when he went to get the device from a
+scout car.  he was advised that the supervisor on scene had left to bring mouthpieces
+back to the ride check.  p.c. pulumbarit did not know how many mouthpieces they
+had started out with that night or how many cars had been stopped before mr.
+mccluskey’s but he could see from the counter on the asd that it had been used
+a number of times.
+p.c. pulumbarit advised mr. mccluskey that
+he would have to wait, told him that he was being detained, and provided him
+rights to counsel.  mr. mccluskey asked if he could refuse to provide a sample;
+p.c. pulumbarit said that he could not but because of the delay mr. mccluskey could
+call a lawyer or duty counsel for free legal advice with a 1-800 number that he
+could provide.  he reiterated that because of the “holding pattern”, he wanted
+mr. mccluskey to know that he could make a phone call.  mr. mccluskey indicated
+that he understood and declined.
+twelve minutes elapsed between the time p.c.
+pulumbarit realized there were no mouthpieces on scene and the time he was
+provided a mouthpiece at 11:15 p.m. mr. mccluskey provided a sample without
+incident.  it registered a “fail” and p.c. pulumbarit arrested him for “over
+80”, demanding that he provide a sample of his breath into an approved
+instrument.  he cautioned him and provided rights to counsel again.  mr. mccluskey
+was taken to a mobile ride command centre with a qualified breath technician
+and facilities for detainees to consult counsel that had been set up a short
+drive away.  they arrived at 11:30 p.m.; mr. mccluskey spoke to duty counsel 9
+minutes later.  he provided his first breath sample at 12:20 a.m.; his blood
+alcohol content (bac) was 140 mg of alcohol in 100 ml of blood.  his second
+sample, provided at 12:43 a.m., indicated a bac of 130 mg of alcohol in 100 ml
+of blood.
+p.c. pulumbarit testified that at the time
+he made the asd demand he was not aware they were out of mouthpieces and believed
+he would be able to obtain a sample immediately.  when he went looking for
+mouthpieces, he learned that steps were already being taken to obtain more.  p.c.
+pulumbarit understood that a valid demand required that the asd device be
+operational.  he believed his demand was valid because at the time he made it he
+had a working device and no reason to think he could not use it to take a breath
+sample.  he would not have allowed mr. mccluskey to leave the scene during
+their wait.   mr. mccluskey was detained and would have been arrested for
+refusing to provide a sample had he attempted to leave because p.c. pulumbarit
+had a responsibility to ensure that the roads were safe.
+p.c. pulumbarit denied the suggestion that
+he would not have actually facilitated a call to counsel from the roadside if
+mr. mccluskey had requested one. he explained that he had already permitted mr.
+mccluskey to use his cell phone earlier in their interaction, something that is
+clear from the video.  he said he would have looked for a private place for mr.
+mccluskey to make the call and would have let mr. mccluskey call from his
+inside his jeep if he was satisfied there was nothing in it to be concerned
+about.
+the parties’ positions
+defence counsel argues that p.c. pulumbarit breached
+mr. mccluskey’s section 8, 9, 10(a) and 10(b)
+charter
+rights.  he
+submits that everything that followed the invalid asd demand was unlawful and
+that evidence of the breath samples should be excluded pursuant to s. 24(2) of
+the
+charter
+because of the inter-related, successive
+charter
+violations.
+crown counsel concedes that mr. mccluskey’s
+section 8 and 9 rights were breached in virtue of the fact that p.c. pulumbarit’s
+demand was invalid at the time he made it because he could not use the asd to
+obtain the samples immediately.  she characterized the breach as a technical
+one which was the product of good faith and ought not to result in the
+exclusion of the breath samples mr. mccluskey provided at the station.  crown
+counsel disputed any other
+charter
+breaches.
+section 8 and 9 of the
+charter
+p.c. pulumbarit’s initial detention of the
+defendant in the context of the ride spot check was lawful:
+r. v. dedman
+,
+1985 canlii 41 (scc)
+, 2 s.c.r. 2;
+r. v. elias,
+2005 scc 37
+.  i agree with defence
+counsel, however, that this detention became unlawful when p.c. pulumbarit continued
+it for the sole purpose of having the defendant provide a sample of his breath
+into an asd.  while the defendant’s utterances clearly furnished the requisite
+legal basis to make the asd demand,
+the detention became arbitrary when p.c. pulumbarit continued it
+for the purpose of administering the asd when he was unable to do so:
+r. v.
+breault
+,
+2023 scc 9 (canlii)
+, 2023 s.c.c. 9;
+r. v. robbins
+,
+m.j. no. 62 (k.b.)
+.
+p.c. pulumbarit did not note or observe any
+indicia of impairment during his interactions with the defendant.  because his
+grounds to arrest were based entirely on the results of the asd, which must be
+excised from the
+charter
+analysis, all of the state action that
+followed, including the defendant’s arrest and the samples of his breath that
+were collected at the station must be characterized as consequential
+charter
+breaches:
+r. v. zacharias,
+2022 scc 30
+;
+r. v. tavora
+,
+2024
+onsc 6568
+(s.c.a.) at para.
+39
+.  i am satisfied, though, that the absence of a
+fully functioning asd is the only state action (or inaction) that contributed
+to the subsequent
+charter
+breaches here.  put differently, had the asd demand
+been valid, everything that followed would have been occurred in a
+constitutionally compliant manner.
+section 10(a) and 10(b) of the
+charter
+there was no breach of s. 10(a) of the
+charter
+.
+p
+.c. pulumbarit
+advised mr. mccluskey that he was detaining
+him for a ride check immediately upon directing him to pull over.  he also told
+him that he was being detained pursuant to the asd demand when he made that
+demand.  the officer informed the defendant of his right to counsel at the
+roadside as soon as he realized that he would not be able to operate the asd
+without delay.  the audio and video recording make clear that he told the
+defendant he would allow him to make a private call to counsel while they
+waited for new mouthpieces to arrive.
+i accept p.c. pulumbarit’s evidence that he
+would have facilitated this call had the defendant decided to avail himself of
+that offer.  p.c. pulumbarit appears almost sheepish about the delay in his
+interactions with the defendant on the video.  he was friendly and
+conversational.  i find that he was trying to be helpful and am satisfied that
+his offer to allow mr. mccluskey to call duty counsel was sincere.
+after seeing that mr. mccluskey had failed
+the asd, p.c. pulumbarit advised him of his rights to counsel immediately upon
+arresting him for over 80.  he fulfilled the implementational component of that
+right by putting the defendant in touch with duty counsel less than 10 minutes after
+their arrival at the mobile police station.  i am satisfied that there were no
+deficiencies in either the form or substance of how p.c. pulumbarit advised mr.
+mccluskey of his s. 10(b) rights or how he implemented them.
+section 24(2) of the
+charter
+(a)
+the seriousness of the
+charter
+-infringing state conduct
+the first line of inquiry under s. 24(2)
+asks whether the
+charter
+-infringing state conduct was sufficiently
+serious as to warrant disassociation from it.  the spectrum of seriousness runs
+from inadvertent or minor to wilful or reckless disregard for
+charter
+rights:
+r. v.  zacharias
+,
+supra
+at para.
+51
+;
+r. v. grant
+,
+2009 scc 32
+at para.
+74
+.  the consequential breaches of sections 8 and 9 of the
+charter
+relating to mr. mccluskey’s arrest and the breath samples the
+police collected at the station must be considered under the first two parts of
+the
+grant
+analysis but because those breaches flowed only from the
+initial unlawful conduct, and not any subsequent act or omission, they do not significantly increase the overall seriousness of the conduct at
+issue:
+r. v. zacharias
+,
+supra
+, at para.
+52
+.
+i would not describe this as a “technical
+breach”, given the supreme court of canada’s determination in
+breault
+that
+police must be able to administer an asd immediately if they are going to detain
+someone for the purpose of demanding a sample.
+i agree with the crown,
+though, that this breach was inadvertent and the product of good faith.  the
+defendant’s initial detention pursuant to the ride stop was lawful.  p.c. pulumbarit
+had grounds to detain the defendant and make an asd demand in virtue of the
+defendant’s admission that he had recently consumed alcohol.  p.c. pulumbarit
+believed he would be able to administer the asd immediately.  when he learned
+that he would be unable to do so, he ameliorated the situation as best he could,
+having regard to the public safety concerns raised by a potentially impaired
+driver, by providing rights to counsel and offering to facilitate a call to
+counsel.  it is unfortunate that the ride check ran out of mouthpieces and also
+that no one advised p.c. pulumbarit of this but i accept his evidence that
+there are a lot of “moving parts” to ride spot checks. in the circumstances, am
+satisfied that this was a minor breach.
+(b) the impact on the
+charter
+-protected
+interests of the accused
+to
+assess
+this
+factor,
+i
+must
+consider the interests
+engaged
+by
+the
+infringed
+rights
+and
+examine
+the
+degree
+to
+which
+the
+violation
+impacted
+those
+interests:
+r. v. grant
+,
+supra
+,
+at para.
+77
+.
+this analysis is not limited to the initial state action
+on which the consequential breaches are premised but requires consideration of the
+defendant’s subsequent arrest and the collection of his breath samples at the
+station.  it bears repeating here that mr. mccluskey’s initial detention was
+lawful because a fully operational asd is not a constitutional precondition of
+a ride spot check, it is only a precondition to a valid asd demand.
+the absence of a new mouthpiece added precisely 12 minutes
+to what began as a lawful detention.  in that time, mr. mccluskey was given the
+opportunity to speak to counsel, was treated cordially and respectfully, and no
+attempt was made to obtain evidence that could incriminate him. the opportunity
+to speak to counsel at the roadside prior to providing a breath sample, which mr.
+mccluskey declined, distinguishes this scenario from
+r. v. kubacsek
+,
+2021 onsc 5081
+at para.
+66
+and
+r. v. macmillan
+,
+2019 onsc 3560
+at para.
+30
+, authorities upon which defence counsel relies.
+mr. mccluskey’s arrest was unlawful because
+the failed asd result must be excised from review of p.c. pulumbarit’s grounds
+to arrest.  if the police had repeated the asd demand once the new mouthpiece
+arrived, it is arguable that this demand would mean the subsequent asd sample,
+arrest, and collection of breath samples at the station were done lawfully,
+such that there were no consequential breaches, and the only impact on his
+charter
+-protected
+rights was the 12-minute detention at the roadside.  regardless, the collection
+of his breath samples was minimally intrusive.  so, while mr. mccluskey’s unlawful arrest
+occasioned a serious intrusion on his liberty, in my view, the aggregate impact
+on his
+charter
+-protected rights was only moderately serious.
+(
+c) society's interest in an adjudication on the
+merits
+the third line of inquiry asks whether the
+truth-seeking function of the trial process would be better served by admission
+of the evidence or by its exclusion.  the court must consider both the negative
+impact of admission of the evidence and the impact of excluding it on the
+long-term repute of the administration of justice:
+r. v. grant
+,
+supra
+,
+at para.
+79
+;
+r. v.
+harrison
+,
+2009 scc 34 (canlii)
+, 2 s.c.r. 494 at para.
+36
+.  the
+evidence in this case is real, reliable, and crucial to the crown’s case.  mr.
+mccluskey’s bac was significantly above the legal limit.  operation of a
+vehicle while “over 80” is a serious offence that engages real public safety
+concerns.  society has a significant interest in a trial on the merits:
+r.
+v. tavora
+,
+supra,
+at para.
+58
+.
+the overriding consideration in any s. 24(2)
+analysis is whether admitting the evidence would bring the administration of
+justice into disrepute
+: r. v. whittaker
+,
+2024 onca 182
+.  in my view, the
+first two
+grant
+factors do not pull strongly toward exclusion.  the predicate
+breach was minor and its impact was attenuated by the opportunity to consult
+counsel.  this court does not need to disassociate itself from the manner in
+which the breath samples were obtained. in the circumstances, i think that an
+informed, reasonable person would conclude that exclusion would bring the long-term
+reputation of the administration of justice into disrepute.
+mr. mccluskey’s application to have the evidence excluded
+pursuant to s. 24(2) is dismissed.  i find him guilty of the offence charged.
+dated:     april 16, 2025                                          ________________________________
+justice
+peter scrutton
+p.c. pulumbarit was relying on s. 320.27(1) of the
+code
+rather than s. 320.27(2).

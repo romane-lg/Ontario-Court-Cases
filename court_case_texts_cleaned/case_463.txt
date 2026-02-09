@@ -1,0 +1,840 @@
+ontario court of justice
+citation
+:
+r. v. njei-bentley
+, 2025 oncj 52
+date:
+2025 01 28
+court
+file no.:  oshawa 23-28109167
+between:
+his
+majesty the king
+— and
+—
+bambot njei-bentley
+before
+justice joseph hanna
+heard
+on december 12, 2024
+reasons
+for judgment released on january 28, 2025
+n. hegedus
+........................................................................................... counsel
+for the crown
+c. melo
+………………………………………………….………counsel
+for mr. njei-bentley
+hanna j.:
+overview
+on october 28, 2023, members of the ontario
+provincial police responded to a call for a disabled vehicle stopped on the 401.
+when police arrived the defendant, bambot njei-bentley, was in an ambulance.
+police initially made an approved screening demand but soon after arrested mr.
+njei-bentley for impaired operation and made a demand for him to provide breath
+samples into an approved instrument.
+mr. njei-bentley was transported to the durham
+regional police division in pickering. while at the station he spoke with
+counsel and refused to provide samples of his breath.
+the defendant stands charged with impaired
+operation of a conveyance and refusing or failing to comply with a demand to
+provide samples of his breath, contrary to sections 320.14(1)(a) and 320.15(1),
+respectively of the
+criminal code
+. at his trial he brought an
+application to exclude evidence pursuant to s. 24(2) of the
+charter
+for
+alleged violations of ss. 8, 9, and 10(b) of the
+charter
+. prior to
+closing its case, the crown invited an acquittal on the impaired operation charge.
+these are my reasons addressing mr. njei-bentley’s
+various
+charter
+arguments and whether the crown has proven the remaining
+count beyond a reasonable doubt.
+the
+issues
+the following issues were raised at this trial:
+1.
+did the police breach mr. njei-bentley’s s. 8
+charter
+right by searching his vehicle prior to his arrest.
+2.
+did the police have reasonable and probable
+grounds to arrest mr. njei-bentley and make a breath demand. this issue is
+relevant to whether the crown has proven the validity of the demand beyond a
+reasonable doubt and whether there were breaches of ss. 8 and 9 of the
+charter
+.
+3.
+did the police fail to comply with the
+informational component of s. 10(b).
+4.
+did the police fail in their s. 10(b)
+implementational obligations by delaying facilitating contact with counsel.
+5.
+did the police breach mr. njei-bentley’s right
+to retain and instruct counsel of choice, contrary to s. 10(b) of the
+charter
+.
+6.
+did the police breach mr. njei-bentley’s s.
+10(b)
+charter
+right by failing to afford him another opportunity to
+speak with counsel.
+7.
+should any evidence be excluded pursuant to s.
+24(2) of the
+charter
+.
+8.
+has the crown proven the remaining elements of
+the refuse charge beyond a reasonable doubt.
+i will outline the evidence relevant to each of
+these issues as i address them.
+1) the section 8 issue relating to
+the purported search of mr. njei-bentley’s vehicle
+while initially pleaded as part of mr.
+njei-bentley’s
+charter
+application, once the evidence unfolded, the defendant
+did not pursue the argument that the police breached s. 8 of the
+charter
+by searching his vehicle prior to his arrest. the evidence of police constable
+church on this issue was that he looked into the vehicle without entering it to
+ensure that there was no one else inside. given the evidence heard and the
+positions advanced by the parties, there is no basis to find a s. 8 breach
+relating to this conduct.
+2) the reasonable and probable
+grounds issue: the validity of the demand, and sections 8 and 9 of the charter
+the defence submits that the arresting officer,
+p.c. church, only had a reasonable suspicion of alcohol consumption, which is
+why he made an approved screening device (asd) demand. the defence argues that
+the police became frustrated by mr. njei-bentley not understanding that demand
+and “shortcut their investigation to an arrest based on their suspicions of
+impairment.” according to the defence, absent a “fail” on an asd, their were
+insufficient grounds to arrest mr. njei-bentley and make an intoxilyzer demand.
+absent a lawful demand, mr. njei-bentley had no legal obligation to comply.
+one of the elements of the offence the crown
+must prove beyond a reasonable doubt is the existence of a valid demand:
+r.
+v. khandakar
+,
+2024 onca 620
+, at para.
+18
+;
+r. v. degiorgio
+,
+2011 onca
+527
+, at para.
+43
+. a breath demand will be valid only when the demanding officer
+has reasonable and probable grounds to believe that the suspect operated a
+conveyance while his or her ability to operate it was impaired:
+r. v. hull
+,
+2016 onsc 2267
+, at paras.
+5 – 6
+;
+criminal code
+, s. 320.28(1).
+the standard to make a breath demand and to effect
+an arrest is reasonable and probable grounds. this standard does not require proof beyond a reasonable doubt, nor even a prima facie
+case. the test is met where, based on all the circumstances known to the
+officer, “credibly-based probability replaces suspicion.” it is a lower threshold
+than balance of probabilities:
+r. v. beaver
+,
+2022 scc 54
+, at paras.
+72
+(1)
+& 72(6);
+r. v. bush
+,
+2010 onca 554
+, at paras.
+36 – 37
+;
+r. v.
+canary
+,
+2018 onca 304
+, at para.
+23
+.
+there is both a subjective and objective
+component to the reasonable and probable ground standard. in assessing either
+part of the test, the court is not limited to the arresting officer’s
+articulated reasons for the arrest, though those reasons will be relevant to
+assessing the officer’s credibility:
+r. v. fyfe
+,
+2023 onca 715
+, at
+paras.
+54 - 62
+.
+evidence about subjective grounds may come from
+multiple sources, including the surrounding circumstances. the subjective
+component of the test focuses on whether the arresting officer honestly
+believed the suspect committed the offence:
+fyfe
+, at para.
+53
+;
+r. v.
+r.m.j.t
+.,
+2014 mbca 36
+, at paras.
+60-63
+;
+r. v. dill
+,
+2009 abca 332
+,
+at paras.
+6-7
+.
+the objective component looks at whether “a
+reasonable person placed in the position of the officer would be able to
+conclude that there were indeed reasonable and probable grounds for the
+arrest”:
+bush
+, at para.
+38
+;
+fyfe
+, at paras.
+54 - 55
+. accordingly,
+the focus is not limited to the officer’s stated grounds but must include
+consideration of the broader circumstances known to the officer at the time of
+the arrest:
+fyfe
+, at paras.
+55 – 62
+.
+the only officer to testify who attended the
+scene was the arresting officer, p.c. church. he had only been a police officer
+for three weeks at the time he conducted the investigation in this case. he
+arrived on scene at 7:53 a.m.
+i found p.c. church to be a careful witness. his
+evidence was not contradicted nor was it meaningfully shaken in
+cross-examination.
+he testified that when he arrived on seen he
+spoke with a civilian, jeremy lumambiajo.
+mr.
+lumambiajo
+advised p.c. church of the following:
+-
+he observed a male slumped over the steering
+wheel of a disabled vehicle.
+-
+he knocked on the window several times and the
+male did not respond.
+-
+when he opened the door, he smelled an odour of
+alcohol.
+-
+he believed that the male was intoxicated.
+-
+the male was already in the ambulance.
+p.c. church then attended the ambulance and
+observed mr. njei-bentley to be the male being attended to. the paramedic
+advised the officer that other than mr. njei-bentley most likely being
+intoxicated, he was fine to transport.
+p.c. church asked mr. njei-bentley what had
+happened. mr. njei-bentley responded that he did not know, he was out late, and
+that he needed to go to the hospital. p.c. church asked if mr. njei-bentley had
+had anything to drink and mr. njei-bentley answered that he could not remember.
+p.c. osborn then asked mr. njei-bentley when he had had his last drink and mr.
+njei-bentley answered that it was maybe around 11 but that he could not
+remember. p.c. church observed mr. njei-bentley to have bloodshot glassy eyes,
+and slurred speech. he also smelled an odour of alcohol on his breath. when
+p.c. osborne asked mr. njei-bentley what time it was, mr. njei-bentley indicated
+that he did not know.
+at 7:56 a.m., p.c. church formed a suspicion
+that that mr. njei-bentley was impaired by alcohol and read him an approved
+screening demand. in the conversation that followed, mr. njei-bentley slurred
+his words such that parts of his speech were unintelligible. p.c. church also
+observed that the odour of alcohol became much stronger. he arrested mr.
+njei-bentley at 7:59 a.m. after being told to do so by sergeant simpson.
+though he was directed to arrest mr.
+njei-bentley by a more senior officer, p.c. church testified that he would have
+done so regardless of this direction given that he believed he had reasonable
+grounds to arrest mr. njei-bentley for the offence of impaired operation. in
+cross-examination he maintained that he had his own independent grounds to make
+an arrest. i found p.c. church to be a credible and sincere witness. i do not
+doubt the genuineness of his evidence in this regard. in cross-examination he advised
+that he had been attempting to give mr. njei-bentley the benefit of the doubt. i
+found the officer’s explanation regarding the additional indicia which
+contributed to him forming his grounds for an arrest, following his having made
+the asd demand, to be reasonable and credible. again, those observations were
+an increased strength in the odour of alcohol and mr. njei-bentley’s speech
+being slurred at one point to the extent that it was unintelligible.
+in closing arguments, defence counsel did not
+really challenge the subjective aspect of the officer’s grounds and focused instead
+on the objective component.  when i consider p.c. church’s evidence in the context
+of the circumstances known to him, i am satisfied he subjectively believed that
+mr. njei-bentley’s ability to operate a motor vehicle was impaired and that he
+had grounds to arrest mr. njei-bentley and make a breath demand.
+i am also satisfied that p.c. church’s belief
+was objectively reasonable. in my view, his articulated reasons for his grounds
+considered along with the information known by him which was provided by mr.
+lumambiajo and the paramedic, easily satisfy the objective component of the reasonable
+and probable grounds standard. the officer was not required to continue with
+the asd procedure prior to making an arrest if sufficient grounds for an arrest
+were present:
+r. v. marrese
+,
+o.j. no. 4467 (scj), at para. 19
+;
+r.
+v. censoni,
+o.j. no. 5189, at para. 50
+. the defence suggested that that
+officer’s decision to arrest was unreasonable in part because he had been aware
+that mr. njei-bentley had just woken up and there had been a potential medical
+emergency. i disagree. the officer was “not required to undertake further
+investigation to seek exculpatory facts or to rule out possible innocent
+explanations for the events before making an arrest”:
+beaver
+, at para.
+72
+(6).
+when i consider the evidence in its entirety on
+this issue, i conclude beyond a reasonable doubt that p.c. church had
+reasonable and probable grounds to believe that mr. njei-bentley’s ability to
+operate a conveyance was at least slightly impaired by the consumption of
+alcohol:
+bush
+, at para.
+48
+. there being no other concerns raised
+regarding the validity of the breath demand, i am satisfied beyond a reasonable
+doubt that this element of the refuse offence has been proven by the crown.
+furthermore, i find that mr. njei-bentley was
+neither arbitrarily detained nor subjected to an unreasonable search and
+seizure. his sections 8 and 9
+charter
+applications are dismissed.
+3)
+the alleged delay in informing mr. njei-bentley of s. 10(b) rights
+the defence alleges that the police breached his
+s. 10(b)
+charter
+right by unreasonably delaying informing him of his
+right to counsel for 11 minutes following his arrest.
+p.c. church testified that three events accounted
+for the 11-minute delay. first, he wished to get mr. njei-bentley out of the
+ambulance and walk him to his cruiser as this was a safer location to conduct
+his investigation. second, he conducted a safety search incident to arrest.
+third, when he first placed mr. njei-bentley in the back of the police cruiser mr.
+njei-bentley complained that his handcuffs were very uncomfortable. in response
+to this complaint the officer had mr. njei-bentley exit the vehicle so that he
+could re-adjust his handcuffs. “the right to counsel is to be provided
+'immediately not instantaneously'. police officers are not required to hand
+cuff the accused with one hand and with the other hand read the right to
+counsel from their notebooks”:
+r. v. fisk
+,
+2020 oncj 88
+, at para.
+51
+;
+r.
+v. ismail
+,
+o.j. no. 468, at paras. 61 - 62
+; aff’d
+2024 onca 945
+, at
+paras.
+7 – 8
+. based on the record before me, i do not find a breach of the
+informational component of s. 10(b). furthermore, i note that as in
+fisk
+and
+ismail
+, the police did not elicit any evidence from mr. njei-bentley
+during the delay in providing him his rights to counsel. accordingly, if i am
+wrong and there was a technical breach of s. 10(b), in my view nothing of
+consequence arises from it for the purposes of s. 24(2) of the
+charter
+:
+r.
+v. culotta
+,
+2018 onca 665
+, at paras.
+35 and 65
+; aff’d
+2018 scc 57
+.
+4)
+the alleged delay in contacting counsel
+mr. njei-bentley’s
+charter
+materials allege
+that the police unreasonably delayed facilitating contact with counsel. in
+submissions, defence counsel advised that she was not pursuing this argument. given
+the evidence i heard, i consider counsel’s position to be reasonable. there was
+not an unreasonable delay in contacting counsel in this case.
+5) the
+counsel of choice issue
+the defence submits that the police interfered
+with mr. njei-bentley’s right to contact his counsel of choice by not
+permitting him to speak with his brother. i disagree.
+when a detainee requests to speak with a third
+party for the purpose of assisting in contacting counsel of choice the police
+are required to facilitate this:
+r. v. beals
+,
+2020 onsc 996
+, at paras.
+70
+;
+r. v. kumarasamy
+,
+o.j. no. 303 at paras. 25-26
+.
+however, the police’s obligation to facilitate
+contact with counsel of choice and the detainee’s responsibility to take
+reasonable steps to contact counsel work in tandem. in other words, the steps
+the police are required to take in contacting a lawyer of choice is dependent
+upon the reasonable diligence exercised by the detainee in his or her efforts
+to connect with counsel of choice. both obligations are assessed on a
+reasonableness standard:
+r. v. edwards
+,
+2024 onca 135
+, at para.
+36
+;
+r.
+v. manchulenko
+,
+2013 onca 543
+, at para.
+65
+;
+r. v. willier
+,
+2010 scc
+37
+, at paras.
+33
+,
+r. v. o’shea
+,
+2019 onsc 1514
+at paras.
+30 – 35
+.
+a portion of the audio from the in-car camera
+was entered as an exhibit at trial (between 015:17 – 016:20 on the player). it
+captures the period when mr. njei-bentley first arrived at the police station. an
+officer can be heard asking mr. njei-bentley who he is calling. mr.
+njei-bentley responds, “lawyer.” the officer then indicates that they would
+take the number down because they need to speak with the lawyer too. mr.
+njei-bentley then says, “i’ll call my brother if he doesn’t pick up cuz…” the
+officer tells mr. njei-bentley he will have reasonable use of the phone and
+asks if his brother is a lawyer. mr. njei-bentley responds that his brother is
+not a lawyer but that he’ll know how to direct him. he also states, “it has
+been a long time i didn’t talk to him, so i can call my brother.” the officer
+then says that they will make those arrangements. i consider this interaction to
+be consistent with mr. njei-bentley attempting to contact his lawyer and explaining
+to the officer that he would wish to call his brother if his lawyer did not
+answer the phone.
+following the interaction captured on the in-car
+camera, mr. njei-bentley was brought before the booking sergeant. a portion of
+the booking video, between 8:32 a.m. and 8:40:34, was played in court. the
+video shows mr. njei-bentley asking to speak with his brother. p.c. church
+states that mr. njei-bentley has also provided the name and number of a lawyer.
+the booking sergeant explains to mr. njei-bentley that if he needs to go through
+his brother to speak with a lawyer the officers will make those arrangements.
+the officers then advise mr. njei-bentley that they will call his brother on
+his behalf. eventually, the booking sergeant clarifies with mr. njei-bentley
+whether he would like for his brother to know that he was in the police’s care
+or whether he would like to get a lawyer from him. at this point mr.
+njei-bentley responded, “no, i would like him to know that i am in your care.” the
+booking sergeant then advised mr. njei-bentley that they could do that for him.
+despite mr. njei-bentley’s insistence on contacting his brother, the result of
+this interaction is that he clarified for the officers that the reason he
+wished to do so was for the purpose of letting his brother know he was at the
+police station rather than to facilitate contact with his lawyer.
+p.c. church testified that mr. njei-bentley
+provided him with the name and contact information for the lawyer, adetayo
+akimyemi. mr. njei-bentley retrieved this information from his phone. he spoke
+privately with this lawyer between 8:55 a.m. and 8:59 a.m.
+p.c. church testified that following the call
+he confirmed with mr. njei-bentley that he was satisfied with the call. he
+acknowledged he did not write in his notes that he had done this but maintained
+that he was sure that he had done so because he had an independent recollection
+of the conversation and because doing so was part of his training. the
+significance of an omission in an officer’s notes must be assessed on a case-by-case
+basis:
+r. v. machado
+,
+2010 onsc 277
+, at paras.
+120 – 124
+;
+r. v. brown
+,
+2014 onsc 1383
+, at paras.
+19 – 27
+. in this case, i find that p.c. church was an
+honest and careful witness. i accept his uncontradicted evidence on this point.
+he was not shaken in cross-examination, and i do not consider it unreasonable
+that he as a junior officer would recall that he acted in accordance with his
+training in what was one of his first investigations. nor did i find that his
+credibility was undermined because he omitted to include this detail in his
+notes. again, given his inexperience it is understandable that his notes were
+imperfect.
+finally, i observe that there is no evidence
+that mr. njei-bentley requested to contact a different lawyer than the one he
+spoke with.
+mr. njei-bentley bears the onus of establishing
+a breach of the implementational duties under s. 10(b):
+r. v. van binnendyk
+,
+2007 onca 537
+, at para.
+11
+;
+r. v. duerksen
+,
+2018 bcca 46
+at paras.
+25 - 41
+;
+r. v. gardner
+,
+2021 onsc 3468
+at para.
+62
+;
+r. v. tarapaski
+,
+2022
+mbca 74
+at para.
+52
+;
+r. v. julom
+,
+2022 abca 198
+at paras.
+100 – 104
+.
+this includes the burden of showing that he only spoke to the lawyer he did
+because he misunderstood his rights:
+r. v. ghotra
+,
+2020 onca 373
+, at
+paras.
+38 – 40
+. for the reasons given, i find that mr. njei-bentley has not
+demonstrated that the police failed to facilitate contact with his counsel of
+choice.
+6) the refusal to permit a second
+consultation with counsel
+the defence argues that the police infringed s.
+10(b) of the
+charter
+by failing to afford him a second opportunity to
+consult with counsel.
+generally, a single consultation with counsel
+with be constitutionally sufficient. there are three non-exhaustive categories
+of exceptional circumstances that can trigger a police obligation to provide a
+detainee with a second opportunity to speak with counsel:
+(1) the police
+invite the accused to take part in non-routine procedures that counsel would
+not consider at the time of the initial consultation;
+(2) there is a
+change in jeopardy that could affect the adequacy of the advice received during
+the initial consultation; and
+(3) there is
+reason to question the detainee's understanding of his rights.
+r. v.
+sinclair
+,
+2010 scc 35
+, at paras.
+49 – 52
+;
+r. v.
+lafrance
+,
+2022 scc 32
+, at para.
+72
+.
+there was no suggestion by the defence that
+either the first or second category was in play at this trial.
+regarding the third category, this can arise in
+situations where the police have either undermined the legal advice the
+detainee has received or damaged the detainee’s confidence in the lawyer they
+spoke to. additionally, this can occur when there are objective indications
+that the consultation was deficient in a material way such that there are
+reasons to question the detainee’s understanding of his or her rights. general
+confusion or a need for help is not sufficient to require an additional
+consultation:
+sinclair
+, at paras.
+52 – 53
+;
+lafrance
+, at para.
+86
+.
+nor is a request, without more, sufficient to retrigger the s. 10(b) right to
+counsel:
+sinclair
+, at para.
+65
+. an assessment of the third category
+requires a broad inquiry into all the circumstances:
+lafrance
+, at para.
+79
+.
+there is no evidence that the police either undermined
+the advice mr. njei-bentley received from counsel or weakened his confidence in
+his lawyer.
+mr. njei-bentley, while in the breath room,
+repeatedly asked to speak with his lawyer and made multiple references to
+having his lawyer present. he also repeatedly told the breath technician that
+he did not understand his rights. notwithstanding these observations, when i consider
+mr. njei-bentley’s entire interaction with the police, i do not believe mr.
+njei-bentley’s claim that he did not understand his rights.
+when p.c. church read mr. njei-bentley his
+rights to counsel, mr. njei-bentley indicated he understood. the police facilitated
+contact with mr. njei-bentley’s counsel of choice, after which p.c. church
+confirmed that mr. njei-bentley was satisfied with the call.
+with regards to mr. njei-bentley’s interactions
+with the breath technician, p.c. lang, i find it significant that mr.
+njei-bentley responded inconsistently regarding his understanding of the breath
+demand and the consequences for not complying with that demand.
+at 9:11 a.m. p.c. lang explained to mr.
+njei-bentley that he was making a lawful demand pursuant to the
+criminal code
+of canada
+. mr. njei-bentley nodded along. the officer then explained that the
+demand compelled mr. njei-bentley to provide samples of his breath and that if
+he did not do so he would be charged with refusing to provide a breath sample. mr.
+njei-bentley responded, “ok.” the officer then asked again if mr. njei-bentley
+understood there were consequences to not providing samples and mr.
+njei-bentley again, responded, “okay.” based on the officer’s clear
+explanations and mr. njei-bentley’s verbal responses and nodding it is clear to
+me that mr. njei-bentley understood the nature of the demand and the
+consequences for non-compliance. immediately after, at 9:12, p.c. lang again
+read the breath demand and asked mr. njei-bentley if he understood. mr.
+njei-bentley responded, “no.”
+when asked what part of the demand he did not
+understand, mr. njei-bentley responded that he felt he had been mistreated by
+the police. when the officer asked mr. njei-bentley if he wished to read the
+demand himself mr. njei-bentley refused, indicating that he was not a lawyer.
+this conveyed to me that mr. njei-bentley was not interested in seeking
+clarification about what the officer was saying to him. between 9:13:36 and
+9:13:45, the officer then again asked mr. njei-bentley whether he understood
+that he was requiring him to provide samples and that if he refused to comply
+he could be charged with a criminal offence. mr. njei-bentley indicated he
+understood all of this. at 9:18, p.c. lang again read the breath demand to mr.
+njei-bentley and asked him if he understood. this time mr. njei-bentley
+responded, “i do not understand.” despite having indicated at 9:11 and 9:13
+that he understood the nature of the breath demand mr. njei-bentley reverted at
+9:18 to advising the officer that he did not understand. between 9:19:20 – 9:20:05,
+p.c. lang asked mr. njei-bentley if he understood that by refusing to provide
+samples of his breath, he would be charged with an offence mr. njei-bentley
+claimed to not understand. this response was clearly unbelievable given mr.
+njei-bentley’s previous responses. i note later during the breath room
+interaction mr. njei-bentley returned to acknowledging that he did understand
+the nature of the demand and that there would be criminal consequences if he
+refused to provide samples of his breath.
+mr. njei-bentley’s assertions that he did not
+understand the breath demand or the consequences for not complying with that
+demand were in my view transparent attempts to delay or avoid providing samples
+of his breath. given that context, i am persuaded that mr. njei-bentley’s
+repeated assertions that he did not understand his rights were similarly an
+attempt to avoid providing breath samples.
+additionally, while mr. njei-bentley repeatedly
+asserted to p.c. lang that he did not understand his rights, his only explanations
+regarding this related to expressing his displeasure regarding how he perceived
+he had been mistreated by the police and explaining that he had never been in a
+situation like this before.
+furthermore, i do not find that mr. njei-bentley
+was indicating that he believed he was entitled to have his lawyer present.
+instead, i find that he expressed that he wanted to have his counsel attend.
+there was no evidence led that mr. njei-bentley was advised by counsel that he
+had a right to have a lawyer present prior to providing breath samples: see
+similarly,
+r. v. hunter
+,
+2023 abca 201
+, at para.
+23
+. furthermore, when mr.
+njei-bentley first indicated that he wanted his lawyer present, p.c. lang
+advised him that his lawyer would not be attending. mr. njei-bentley responded,
+“okay” and did not appear to express any surprise by the that.
+i have considered the entire record before me of
+mr. njei-bentley’s interactions with the police as well as his particular
+vulnerabilities. he is a racial minority who advised the police he had never
+been arrested before. at the same time, he is not especially young, being in
+his 30s, and he presented on video as a confident person, who spoke english
+fluently. he was also not shy to assert himself – indeed, he repeatedly told
+the police he wished to remain silent. furthermore, despite mr. njei-bentley’s
+claims during the breath video that he was mistreated by the police i was
+presented with no evidence to that effect. the evidence of p.c. church, p.c.
+lang, and the videos filed show that the police were polite and courteous with mr.
+njei-bentley throughout their interactions with him.
+when i consider all the circumstances, i do not
+find that there were objective indicators that mr. njei-bentley did not
+understands his s. 10(b) rights. on the contrary, i find that mr. njei-bentley’s
+claims to not understand his rights were insincere and attempts to avoid
+providing breath samples.
+i do not find that the police were obliged to
+permit mr. njei-bentley to have another consultation with counsel prior to
+continuing with the breath procedure.
+7) section 24(2) of the charter
+in view of my findings on the
+charter
+applications, it is unnecessary to consider s. 24(2) of the
+charter
+. i
+will briefly indicate that if there was a s. 10(b) breach relating to the delay
+in reading mr. njei-bentley his rights to counsel, i would consider this to be
+a very minor breach which had no impact on mr. njei-bentley. in my view,
+excluding the actus reus of the offence would not be appropriate.
+8)
+has the crown proven the offence beyond a reasonable doubt?
+mr. njei-bentley is presumed innocent. it is the
+crown’s onus to prove each of the essential elements of the offence charged beyond
+a reasonable doubt.
+to prove the actus reus of the offence, the
+crown must prove that the police made a lawful demand under either s. 320.27 or
+320.28, and that the accused either "fail[ed]" or
+"refus[ed]" to comply. in cases involving the refusal branch of the
+offence, the accused must be proved to have refused "unequivocally":
+degiorgio
+,
+at para.
+42
+;
+khandakar
+,
+at para.
+18
+.
+the jurisprudence is divided about whether the
+mens rea for the offence requires proof that the accused intentionally refused
+to provide a breath sample or whether the crown need only prove that the
+accused would know their conduct would have that result:
+khandakar
+,
+at para.
+19
+(citing:
+r. v. porter
+,
+2012 onsc 3504
+;
+r. v. lewko
+,
+2002 skca 121
+;
+r. v. soucy
+,
+2014 oncj 497
+;
+r. v. slater
+,
+2016
+onsc 2161
+;
+r. v. mtonga
+,
+2021 onsc 1482
+).
+as mentioned earlier, the only argument raised
+with respect to the validity of the demand was the challenge to the demanding
+officer’s grounds. for the reasons already given, i have resolved that issue in
+favour of the crown. i am satisfied beyond a reasonable doubt that there was a
+valid demand.
+the breath room video also makes it abundantly
+clear that mr. njei-bentley unequivocally refused or failed to provide samples
+of his breath. he repeatedly indicated that he would not provide a sample despite
+being explained that he was required to do so and the criminal consequences of
+failing to do so. he refused to take the mouthpiece when it was handed to him.
+he also refused to blow into the machine when it was presented to him. there
+was nothing ambiguous about his words or actions.
+the crown has proven the mens rea for the
+offence regardless of which approach from the jurisprudence is used. applying
+the more stringent approach, mr. njei-bentley’s words and actions make it clear
+beyond a reasonable doubt that he intentionally was refusing to provide samples
+of his breath. at no point did mr. njei-bentley make any attempt to provide a
+sample or indicate that he was willing to do so.
+“a ‘reasonable excuse’ refers to something
+outside the essential elements of an offence. an excuse speaks to whether an
+accused should be held accountable for what otherwise would be a crime”:
+r.
+v. armstrong
+,
+2011 onca 709
+(ont. c.a.), at para.
+9
+. the only potential
+reasonable excuse raised in this case is that mr. njei-bentley expressed a desire
+to speak with counsel again prior to providing breath samples. i find that he did
+not have a right to do so. any assumption he may have had in that regard would
+not afford him a reasonable excuse: see
+r. v. gentile
+,
+2012 onsc 4898
+,
+at para.
+49
+;
+r. v. van deelen
+,
+2009 onca 53
+;
+r. v. kumar
+,
+2016
+onsc 7928
+, at para.
+102
+. i am satisfied beyond a reasonable doubt that mr.
+njei-bentley did not have a reasonable excuse to refuse to comply.
+in summary, i am satisfied beyond a reasonable
+doubt that mr. njei-bentley intentionally and unequivocally refused or failed to
+comply with a valid demand to provide samples of his breath and that he did so
+without a reasonable excuse.
+conclusion
+for the reasons given, the
+charter
+applications are dismissed, and mr. njei-bentley is found guilty of failing or
+refusing to comply with a lawful demand to provide samples of his breath,
+contrary to
+s. 320.15(1)
+of the
+criminal code
+.
+the crown acknowledges that it cannot prove the
+impaired operation charge. that count is accordingly dismissed.
+released:  january 28, 2025
+signed:
+justice joseph hanna
