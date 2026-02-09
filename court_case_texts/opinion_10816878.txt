@@ -1,0 +1,329 @@
+Cite as: 604 U. S. ____ (2025)            1
+
+
+
+
+SUPREME COURT OF THE UNITED STATES
+                         _________________
+
+                          No. 24A831
+                         _________________
+
+
+  DEPARTMENT OF STATE, ET AL. v. AIDS VACCINE
+         ADVOCACY COALITION, ET AL.
+    ON APPLICATION TO VACATE THE ORDER ISSUED BY
+      THE UNITED STATES DISTRICT COURT FOR THE
+                DISTRICT OF COLUMBIA
+                        [March 5, 2025]
+
+   On February 13, the United States District Court for the
+District of Columbia entered a temporary restraining order
+enjoining the Government from enforcing directives paus-
+ing disbursements of foreign development assistance funds.
+The present application does not challenge the Govern-
+ment’s obligation to follow that order. On February 25, the
+District Court ordered the Government to issue payments
+for a portion of the paused disbursements—those owed for
+work already completed before the issuance of the District
+Court’s temporary restraining order—by 11:59 p.m. on Feb-
+ruary 26. Several hours before that deadline, the Govern-
+ment filed this application to vacate the District Court’s
+February 25 order and requested an immediate administra-
+tive stay. THE CHIEF JUSTICE entered an administrative
+stay shortly before the 11:59 p.m. deadline and subse-
+quently referred the application to the Court. The applica-
+tion is denied. Given that the deadline in the challenged
+order has now passed, and in light of the ongoing prelimi-
+nary injunction proceedings, the District Court should clar-
+ify what obligations the Government must fulfill to ensure
+compliance with the temporary restraining order, with due
+regard for the feasibility of any compliance timelines. The
+order heretofore entered by THE CHIEF JUSTICE is vacated.
+2   DEPARTMENT OF STATE v. AIDS VACCINE ADVOCACY
+                     COALITION
+                  ALITO, J., dissenting
+
+  JUSTICE ALITO, with whom JUSTICE THOMAS, JUSTICE
+GORSUCH, and JUSTICE KAVANAUGH join, dissenting from
+the denial of the application to vacate order.
+  Does a single district-court judge who likely lacks juris-
+diction have the unchecked power to compel the Govern-
+ment of the United States to pay out (and probably lose for-
+ever) 2 billion taxpayer dollars? The answer to that
+question should be an emphatic “No,” but a majority of this
+Court apparently thinks otherwise. I am stunned.
+                               I
+  In capsule form, this is what happened. Respondents are
+a group of American businesses and nonprofits that receive
+foreign-assistance funds from the State Department and
+the U. S. Agency for International Development. They
+brought suit and claimed that the current administration’s
+temporary pause of foreign-assistance payments is unlaw-
+ful. On February 13, 2025, the District Court issued a tem-
+porary restraining order (TRO) requiring the Government
+to halt its funding pause. It based that decision on a finding
+that respondents are likely to succeed in showing that the
+Government violated the Administrative Procedure Act
+(APA). After issuing the TRO, the District Judge grew frus-
+trated with the pace at which funds were being disbursed,
+and on February 25, he issued a second order requiring the
+Government to pay out approximately $2 billion. The judge
+brushed aside the Government’s argument that sovereign
+immunity barred this enforcement order, and he took two
+steps that, unless corrected, would prevent any higher court
+from reviewing and possibly stopping the payments. First,
+he labeled the order as a non-appealable TRO, and second,
+he demanded that the money be paid within 36 hours.
+  This left the Government little time to try to obtain some
+review of what it regarded as a lawless order. The Govern-
+ment moved for a stay pending appeal in the District Court.
+But the judge shrugged off the Government’s sovereign-
+                 Cite as: 604 U. S. ____ (2025)            3
+
+                     ALITO, J., dissenting
+
+immunity argument and ignored the Government’s repre-
+sentation that most of the money in question, once dis-
+bursed, could probably not be recovered. See App. to Appli-
+cation to Vacate Order 93a.
+   The Government quickly filed an appeal in the United
+States Court of Appeals for the District of Columbia. But,
+with only four hours to spare before the payment deadline,
+the D. C. Circuit dismissed the Government’s appeal be-
+cause it took the District Court’s “TRO” label at face value
+and determined it lacked appellate jurisdiction.
+   With nowhere else to turn and the deadline fast ap-
+proaching, the Government asked this Court to intervene.
+At the last moment, THE CHIEF JUSTICE issued an admin-
+istrative stay. Unfortunately, a majority has now undone
+that stay. As a result, the Government must apparently
+pay the $2 billion posthaste—not because the law requires
+it, but simply because a District Judge so ordered. As the
+Nation’s highest court, we have a duty to ensure that the
+power entrusted to federal judges by the Constitution is not
+abused. Today, the Court fails to carry out that responsi-
+bility.
+                               II
+  Time does not allow a lengthy discussion of the legal is-
+sues presented by this case, but a brief summary suffices to
+show that the District Court’s order should be vacated or,
+at the very least, stayed.
+  To start, it is clear that the District Court’s enforcement
+order should be construed as an appealable preliminary in-
+junction, not a mere TRO. A TRO, as its name suggests, is
+“temporary,” and its proper role is to “restrain” challenged
+conduct for a short time while the court considers whether
+more lasting relief is warranted. See 16 C. Wright, A. Mil-
+ler, & E. Cooper, Federal Practice and Procedure §3922.1
+(3d ed. 2012). The order here, which commanded the pay-
+ment of a vast sum that in all likelihood can never be fully
+4     DEPARTMENT OF STATE v. AIDS VACCINE ADVOCACY
+                       COALITION
+                    ALITO, J., dissenting
+
+recovered, is in no sense “temporary.” Nor did the order
+merely “restrain” the Government’s challenged action in or-
+der to “preserve the status quo.” Northeast Ohio Coalition
+for Homeless and Serv. Employees Int’l Union, Local 1199
+v. Blackwell, 467 F. 3d 999, 1006 (CA6 2006). Rather, it
+“act[s] as a mandatory injunction requiring affirmative ac-
+tion” by the Government. Ibid. And given its likely irre-
+versibility, the District Court’s enforcement order effec-
+tively gave respondents a portion of the ultimate relief they
+seek.
+   For these reasons, the Court of Appeals had jurisdiction
+to consider the Government’s appeal, and we have jurisdic-
+tion to review and summarily vacate that court’s erroneous
+judgment.
+                               III
+   Even if the majority is unwilling to vacate the District
+Court’s order, it should at least stay the District Court’s en-
+forcement order until the Government is able to petition for
+a writ of certiorari. In considering whether to issue such a
+stay, we ask, at a minimum, (1) whether the moving party
+is likely to prevail on the merits and (2) whether that mov-
+ing party is likely to suffer irreparable harm.* See Nken v.
+Holder, 556 U. S. 418, 425 (2009); Grupo Mexicano de De-
+sarrollo, S. A. v. Alliance Bond Fund, Inc., 527 U. S. 308,
+327 (1999). In “close cases,” we also take into account other
+——————
+   *To the extent that likelihood of certiorari is a relevant factor, John
+Does 1–3 v. Mills, 595 U. S ___, ___ (2021) (BARRETT, J., concurring in the
+denial of application for injunctive relief) (slip op., at 1), it is met here.
+Recent years have seen a sharp increase in district-court orders enjoin-
+ing important Government initiatives, and some of these have been la-
+beled as unappealable TROs. See Dellinger v. Bessent, 2025 WL 559669
+(CADC, Feb. 15, 2025); id., at *10–*17 (Katsas, J., dissenting). Clarifi-
+cation of the standards for distinguishing between a TRO and a prelimi-
+nary injunction is a matter that deserves this Court’s attention at the
+present time. The same is true regarding the scope of the APA’s waiver
+of sovereign immunity.
+                  Cite as: 604 U. S. ____ (2025)            5
+
+                      ALITO, J., dissenting
+
+equitable considerations. Hollingsworth v. Perry, 558 U. S.
+183, 190 (2010) (per curiam). Here, these factors weigh in
+favor of a stay.
+   Likelihood of success. The Government has shown a like-
+lihood of success on the merits of its argument that sover-
+eign immunity deprived the District Court of jurisdiction to
+enter its enforcement order.
+   Sovereign immunity bars “a suit by private parties seek-
+ing to impose a liability which must be paid from public
+funds in the . . . treasury.” Edelman v. Jordan, 415 U. S.
+651, 663 (1974). But that is exactly what the District Court
+ordered here. See App. to Application to Vacate Order 85a–
+86a (“[T]he restrained defendants shall pay all invoices and
+letter of credit drawdown requests on all contracts for work
+completed prior to the entry of the Court’s TRO on February
+13”).
+   Sovereign immunity may be waived, but “[t]o sustain a
+claim that the Government is liable for awards of monetary
+damages, the waiver of sovereign immunity must extend
+unambiguously to such monetary claims.” Lane v. Peña,
+518 U. S. 187, 192 (1996). Attempting to satisfy this strict
+requirement, respondents point to the APA’s waiver of sov-
+ereign immunity for certain actions “seeking relief other
+than money damages.” 5 U. S. C. §702. That language, as
+we have explained, distinguishes “between specific relief,”
+which is permitted under the APA, and “compensatory, or
+substitute, relief,” which is not. Department of Army v. Blue
+Fox, Inc., 525 U. S. 255, 261 (1999). But the relief here more
+closely resembles a compensatory money judgment rather
+than an order for specific relief that might have been avail-
+able in equity. See Great-West Life & Annuity Ins. Co. v.
+Knudson, 534 U. S. 204, 210–211 (2002) (“[A]n injunction to
+compel the payment of money past due under a contract, or
+specific performance of a past due monetary obligation, was
+not typically available in equity”). Sovereign immunity
+thus appears to bar the sort of compensatory relief that the
+6   DEPARTMENT OF STATE v. AIDS VACCINE ADVOCACY
+                     COALITION
+                  ALITO, J., dissenting
+
+District Court ordered here.
+    Hoping to escape that conclusion, respondents point to
+Bowen v. Massachusetts, 487 U. S. 879 (1988). In that case,
+we held that the APA’s waiver of sovereign immunity cov-
+ered a District Court’s judgment reversing a final order of
+the Secretary of Health and Human Services refusing to re-
+imburse Massachusetts for certain Medicaid expenditures.
+Unlike the District Court’s order here, that “judgment did
+not purport to . . . order that any payment be made” by the
+United States. Id., at 888. Rather, Bowen simply recog-
+nized a basic reality of APA review: after a court sets aside
+an agency action, a natural consequence may be the release
+of funds to the plaintiff down the road. Indeed, we have
+since clarified that “Bowen has no bearing on the unavaila-
+bility of an injunction to enforce a contractual obligation to
+pay money past due”—the sort of relief that appears to have
+been ordered here. Knudson, 534 U. S., at 212.
+    The District Court, however, failed to mention (much less
+reckon with) Bowen or Knudson before plowing ahead with
+its $2 billion order. Nor did it take account of our previous
+suggestion that the proper remedy for an agency’s recalci-
+trant failure to pay out may be to “seek specific sums al-
+ready calculated” and “past due” in the Court of Federal
+Claims. Maine Community Health Options v. United
+States, 590 U. S. 296, 327 (2020); Bowen, 487 U. S., at 890,
+n. 13 (invoking the First Circuit’s suggestion that if an
+agency “ ‘persist[s] in withholding reimbursement for rea-
+sons inconsistent with our decision’ ” under the APA, the
+“ ‘remedy would be a suit for money past due under the
+Tucker Act in the Claims Court’ ”). The most that can be
+said is that in the District Court’s denial of the Govern-
+ment’s motion for a stay pending appeal, it cited but did not
+analyze a handful of cases echoing Bowen’s discussion of the
+APA’s conscribed waiver of sovereign immunity. One might
+expect more care from a federal court before it so blithely
+discards “sovereign dignity.” Alden v. Maine, 527 U. S. 706,
+                  Cite as: 604 U. S. ____ (2025)              7
+
+                       ALITO, J., dissenting
+
+715 (1999).
+   Finally, the Government has a strong argument that the
+District Court’s order violates the principle that a federal
+court may not issue an equitable remedy that is “more bur-
+densome to the defendant than necessary to” redress the
+plaintiff ’s injuries. Califano v. Yamasaki, 442 U. S. 682,
+702 (1979). In this case, the District Court’s enforcement
+order functions as a “universal injunction def[ying] these
+foundational” limits on equitable jurisdiction. Labrador v.
+Poe, 601 U. S. ___, ___ (2024) (GORSUCH, J., concurring in
+grant of stay) (slip op., at 5). The District Court ordered the
+Government to “pay all invoices and letter of credit draw-
+down requests on all contracts” for pre-TRO work com-
+pleted. App. to Application to Vacate Order 86a. That order
+encompasses more than just respondents, and the District
+Court offered no reason why universal relief to nonparties
+is appropriate here. And this is not the sort of case in which
+only universal relief is feasible. Even supposing the APA
+allows universal vacatur of rules in some circumstances,
+the District Court’s order of direct monetary payment bears
+no resemblance to that. Cf. Griffin v. HM Florida-Orl, LLC,
+601 U. S. ___, ___, n. 1 (2023) (KAVANAUGH, J., respecting
+denial of application for stay) (slip op., at 3, n. 1.). And no-
+body has suggested that the Government is unable to iden-
+tify respondents’ allegedly owed funds and pay out only to
+them. Limiting the scope of relief in that manner would be
+significant. Below, the Government represented respond-
+ents seek roughly $250 million—still a large figure, but a
+fraction of the $2 billion ordered. Emergency Motion for
+Immediate Administrative Stay and for Stay Pending Ap-
+peal in No. 25-5046 etc. (CADC), p. 9.
+   Harm to the parties and others. The Government has
+shown that it is likely to suffer irreparable harm if the Dis-
+trict Court’s order is not stayed. The Government has rep-
+resented that it would probably be unable to recover much
+of the money after it is paid because it would be quickly
+8   DEPARTMENT OF STATE v. AIDS VACCINE ADVOCACY
+                     COALITION
+                  ALITO, J., dissenting
+
+spent by the recipients or disbursed to third parties. Re-
+spondents did not credibly dispute this representation, and
+the District Court did not find that it is incorrect.
+   We usually “balance the equities and weigh the relative
+harms” in “close cases.” Hollingsworth, 558 U. S., at 190.
+For the reasons I have explained, this is not such a case,
+and our analysis could end there. Nevertheless, respond-
+ents’ equitable arguments are insufficient to justify the de-
+nial of a stay. They contend that the failure to pay the
+money in question would cause them irreparable harm be-
+cause without those funds, they could not continue to oper-
+ate or would have to reduce the work they do. As a result,
+they claim, recipients of their services would suffer. These
+potential consequences are, of course, serious. But any
+harm resulting from the failure to pay amounts that the law
+requires would have been diminished, if not eliminated, if
+the Court of Appeals had promptly decided the merits of the
+Government’s appeal, which it should not have dismissed.
+If we sent this case back to the Court of Appeals, it could
+still render a prompt decision. If it decided in favor of re-
+spondents, the Government would be obligated to pay all
+the money that is due, and respondents would have suffered
+only a short delay in the receipt of payments. And if the
+Government prevailed on its sovereign-immunity argu-
+ment, neither respondents nor any of the recipients of their
+services would have suffered any unlawful consequences.
+   In sum, the factors we consider in deciding whether to
+issue a stay weigh strongly in favor of granting that relief.
+                       *     *    *
+  Today, the Court makes a most unfortunate misstep that
+rewards an act of judicial hubris and imposes a $2 billion
+penalty on American taxpayers. The District Court has
+made plain its frustration with the Government, and re-
+spondents raise serious concerns about nonpayment for
+completed work. But the relief ordered is, quite simply, too
+                 Cite as: 604 U. S. ____ (2025)           9
+
+                     ALITO, J., dissenting
+
+extreme a response. A federal court has many tools to ad-
+dress a party’s supposed nonfeasance. Self-aggrandize-
+ment of its jurisdiction is not one of them. I would chart a
+different path than the Court does today, so I must respect-
+fully dissent.

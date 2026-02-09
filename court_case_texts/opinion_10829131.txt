@@ -1,0 +1,466 @@
+Cite as: 604 U. S. ____ (2025)                      1
+
+                          Statement of ALITO, J.
+
+SUPREME COURT OF THE UNITED STATES
+               CID C. FRANKLIN v. NEW YORK
+  ON PETITION FOR WRIT OF CERTIORARI TO THE COURT OF
+                 APPEALS OF NEW YORK
+                 No. 24–330.    Decided March 24, 2025
+
+   The petition for a writ of certiorari is denied.
+   Statement of JUSTICE ALITO respecting the denial of cer-
+tiorari.
+   I agree that we should not grant certiorari in this case,
+but in an appropriate case we should reconsider the inter-
+pretation of the Confrontation Clause that the Court
+adopted in Crawford v. Washington, 541 U. S. 36 (2004),
+and has elaborated in later cases. Overturning established
+precedent, the Crawford Court claimed that its new inter-
+pretation captured the original meaning of the Confronta-
+tion Clause as revealed by then-recent scholarship, id., at
+60–61, and that this interpretation would avoid the “unpre-
+dictable and inconsistent” results that had occurred under
+the test it overturned, id., at 66.
+   Subsequent developments have undermined these two
+pillars of Crawford’s rationale. Historical research now
+calls into question Crawford’s understanding of the rele-
+vant common law rules at the time of the adoption of the
+Sixth Amendment, and whatever else may be said about
+that decision, there can be no dispute that it has not pro-
+duced predictable and consistent results. Despite repeated
+attempts to explain what Crawford meant by “testimonial
+statements,” our Confrontation Clause jurisprudence con-
+tinues to confound courts, attorneys, and commentators.1
+——————
+  1 See, e.g., R. Allen, J. Hoffman, D. Livingston, A. Leipold, & T. Meares,
+
+Comprehensive Criminal Procedure 1416 (5th ed. 2020) (“astonishing”);
+E. Sheley, The Dignitary Confrontation Clause, 97 Wash. L. Rev. 207,
+223 (2022) (“morass”); D. Tuerkheimer, Exigency, 49 Ariz. L. Rev. 801,
+2                      FRANKLIN v. NEW YORK
+
+                         Statement of ALITO, J.
+
+   Petitioner asks us to remedy this confusion by clarifying
+what qualifies as a “testimonial statement” under our post-
+Crawford case law. See Smith v. Arizona, 602 U. S. 779,
+783–789, 799–802 (2024) (discussing our “varied formula-
+tions” of Crawford’s “testimonial inquiry”). But the real
+problem may be Crawford itself and its conclusion that the
+Confrontation Clause codified a well-established common
+law right against the use of any “testimonial” statement
+made out of court by a person who is available to testify and
+was not previously subject to cross-examination by the de-
+fendant. 541 U. S., at 68.
+   In order to reach this conclusion, the Court was required
+to hold that any person who makes a “testimonial” state-
+ment (whatever that means) is a “witness” within the
+meaning of the Confrontation Clause, but this gave the
+term “witness” a meaning that is radically different from its
+meaning in the neighboring Compulsory Process Clause
+and elsewhere in the Constitution. See A. Amar, Confron-
+tation Clause First Principles: A Reply to Professor Fried-
+man, 86 Geo. L. J. 1045, 1045–1047 (1998); A. Amar, Fore-
+word: Sixth Amendment First Principles, 84 Geo. L. J. 641,
+647 (1996).
+
+——————
+832, n. 173 (2007) (“incoherent”); J. Widdison, Comment, Michigan v.
+Bryant: The Ghost of Roberts and the Return of Reliability, 47 Gonz.
+L. Rev. 219, 240 (2011) (“unstable”); A. Eichner, Note, The Failures of
+Melendez-Diaz v. Massachusetts and the Unstable Confrontation Clause,
+38 Am. J. Crim. L. 437 (2011) (same); M. Spottswood, Truth, Lies, and
+the Confrontation Clause, 89 U. Colo. L. Rev. 565, 611 (2018) (“unneces-
+sarily complex”); J. Ross, After Crawford Double-Speak: “Testimony”
+Does Not Mean Testimony and “Witness” Does Not Mean Witness, 97 J.
+Crim. L. & C. 147 (2006) (“double-speak”); D. Crump, Overruling Craw-
+ford v. Washington: Why and How, 88 Notre Dame L. Rev. 115, 132
+(2012) (“unworkable”); D. Noll, Constitutional Evasion and the Confron-
+tation Puzzle, 56 Boston College L. Rev. 1899, 1903 (2015) (“mess” (in-
+ternal quotation marks omitted)); G. Fisher, The Crawford Debacle, 113
+Mich. L. Rev. First Impressions 17, 24 (2014) (“ ‘inherently, and therefore
+permanently, unpredictable’ ” (quoting Crawford, 541 U. S., at 68, n. 10)).
+                  Cite as: 604 U. S. ____ (2025)            3
+
+                     Statement of ALITO, J.
+
+   The Compulsory Process Clause, which follows immedi-
+ately after the Confrontation Clause, gives a defendant the
+right “to have compulsory process for obtaining witnesses in
+his favor.” Amdt. 6 (emphasis added). And it is clear that
+these “witnesses” are people who are subpoenaed to appear
+in court and testify. The Court has understood the Clauses’
+neighboring references to “witnesses” as two sides of the
+same coin. See Washington v. Texas, 388 U. S. 14, 19 (1967)
+(“Just as an accused has the right to confront the prosecu-
+tion’s witnesses for the purpose of challenging their testi-
+mony, he has the right to present his own witnesses to es-
+tablish a defense”). After Crawford, however, only the
+Compulsory Process Clause’s “witnesses” are people who
+must appear in court and take the stand. When a law uses
+the same term more than once, we presume that the term
+means the same thing every time it is used. See A. Scalia
+& B. Garner, Reading Law: The Interpretation of Legal
+Texts 170 (2012). Thus, it is startling to hold that the term
+“witnesses” in two provisions separated by nothing but a
+semicolon have very different meanings.
+   Other provisions of the Constitution that use the term
+“witnesses” also refer to people who testify in court. The
+Treason Clause states that “[n]o Person shall be convicted
+of Treason unless on the Testimony of two Witnesses to the
+same overt Act, or on Confession in open Court.” Art. III,
+§3, cl. 1. This provision requires two live witnesses who
+take the stand. See M. Hale, Pleas of the Crown 262 (1694);
+J. Langbein, The Origins of Adversary Criminal Trial 238–
+239 (2003); Amar, 86 Geo. L. J., at 1047.
+   These powerful textual arguments were known when
+Crawford was decided, but the Court dismissed them be-
+cause its study of history led it to believe that the Confron-
+tation Clause was meant to codify a well-established com-
+mon law right against the introduction of a certain category
+4                     FRANKLIN v. NEW YORK
+
+                         Statement of ALITO, J.
+
+of what we now call hearsay. More recent scholarship, how-
+ever, casts doubt on key aspects of Crawford’s reasoning.2
+   Our body of constitutional decisions would be in perpet-
+ual turmoil if we reconsidered every decision resting on an
+interpretation of history that is subsequently challenged in
+the law reviews. But as both JUSTICE GORSUCH and I rec-
+ognize, the current state of our Confrontation Clause juris-
+prudence is unstable and badly in need of repair. If we un-
+dertake that project, we should not limit our efforts to an
+attempt to shore up what may be a fundamentally unsound
+structure.
+   If we reconsider Crawford, as I think we should, the re-
+sult might be a reaffirmation of Crawford or the adoption
+of an entirely different Confrontation Clause rule. But
+whatever the outcome might be, reconsideration is needed.
+
+
+
+
+——————
+   2 See, e.g., T. Davies, Not “The Framers’ Design”: How the Framing-Era
+
+Ban Against Hearsay Evidence Refutes the Crawford-Davis “Testimo-
+nial” Formulation of the Scope of the Original Confrontation Clause, 15
+J. L. & Pol’y 349 (2007); Noll, 56 Boston College L. Rev., at 1904–1905,
+1918–1950; Spottswood, 89 U. Colo. L. Rev., at 595–596; D. Sklansky,
+Hearsay’s Last Hurrah, 2009 S. Ct. Rev. 1, 5–6, 36–38, 46–47, 54; B.
+Trachtenberg, Confronting Coventurers: Coconspirator Hearsay, Sir
+Walter Raleigh, and the Sixth Amendment Confrontation Clause, 64 Fla.
+L. Rev. 1669, 1677–1681 (2012); J. Bellin, The Incredible Shrinking Con-
+frontation Clause, 92 B. U. L. Rev. 1865, 1881–1893 (2012); T. Davies,
+What Did the Framers Know, and When Did They Know It? Fictional
+Originalism in Crawford v. Washington, 71 Brooklyn L. Rev. 105, 106–
+107 (2005); R. Kry, Confrontation Under the Marian Statutes: A Re-
+sponse to Professor Davies, 72 Brooklyn L. Rev. 493 (2007); T. Davies,
+Revisiting the Fictional Originalism in Crawford’s “Cross-Examination
+Rule”: A Reply to Mr. Kry, 72 Brooklyn L. Rev. 557 (2007).
+                  Cite as: 604 U. S. ____ (2025)              1
+
+                    Statement of GORSUCH, J.
+
+SUPREME COURT OF THE UNITED STATES
+            CID C. FRANKLIN v. NEW YORK
+  ON PETITION FOR WRIT OF CERTIORARI TO THE COURT OF
+                 APPEALS OF NEW YORK
+               No. 24–330.   Decided March 24, 2025
+
+  Statement of JUSTICE GORSUCH respecting the denial of
+certiorari.
+  While Cid Franklin awaited arraignment after his arrest,
+an employee of the Criminal Justice Agency questioned him
+outside the presence of counsel. That publicly funded
+agency interviews “nearly all individuals arrested in New
+York City” in order to make bail recommendations to the
+arraigning judge. 42 N. Y. 3d 157, 159, 242 N. E. 3d 652,
+653 (2024) (internal quotation marks omitted).
+  Much later, prosecutors sought to make a different use of
+Mr. Franklin’s bail report. At trial, they introduced it as
+evidence of his guilt. See App. to Pet. for Cert. 33a (exhibit).
+And they did so without giving him a chance to cross-
+examine the report’s author. Relying on the report, which
+“was central to the People’s case at trial,” a jury convicted
+Mr. Franklin. 42 N. Y. 3d, at 160, 242 N. E. 3d, at 654.
+  On appeal, Mr. Franklin argued that this use of the bail
+report violated his Sixth Amendment right to confront the
+witnesses against him. The New York Court of Appeals dis-
+agreed. It reasoned that the Sixth Amendment only bars
+the use of “ ‘testimonial’ ” out-of-court statements. Id., at
+161, 242 N. E. 3d, at 655 (quoting Crawford v. Washington,
+541 U. S. 36, 51 (2004)). And a statement qualifies as “tes-
+timonial,” the court continued, only if it “was created for the
+primary purpose of serving as trial testimony.” 42 N. Y. 3d,
+at 159, 242 N. E. 3d, at 653. Applying that test, taken from
+this Court’s decision in Michigan v. Bryant, 562 U. S. 344
+(2011), the Court of Appeals concluded that Mr. Franklin’s
+2                  FRANKLIN v. NEW YORK
+
+                    Statement of GORSUCH, J.
+
+bail report was written principally for “administrative” pur-
+poses and not primarily for use at trial. 42 N. Y. 3d, at 165,
+242 N. E. 3d, at 658. Therefore, the court reasoned, it did
+not qualify as testimonial. Ibid.
+   It’s hard to fault the Court of Appeals for applying a “pri-
+mary-purpose” test in assessing Mr. Franklin’s Sixth
+Amendment claim. After all, this Court endorsed the test
+just last year in Smith v. Arizona, 602 U. S. 779, 800 (2024).
+But even if that judge-made test may have some useful role
+to play, it seems to me that treating it as a necessary con-
+dition to relief under the Confrontation Clause can pose
+problems too, risking results that sit uneasily with the
+Clause’s original meaning. It is a concern I raised in
+Smith—and one that, to my eyes, this case highlights. Id.,
+at 806 (opinion concurring in part).
+   Consider briefly some of what we know about the Sixth
+Amendment. Beginning in the 16th century, Parliament
+required magistrates “to examine suspects and witnesses”
+before trial and to “certify the results to the court.” Craw-
+ford, 541 U. S., at 43–44. Apparently, an important pur-
+pose of those examinations was to ensure that the defend-
+ant and key witnesses would appear at trial, not to generate
+admissible evidence. See J. Langbein, Prosecuting Crime
+in the Renaissance 24 (1974). Still, prosecutors sometimes
+introduced those examinations at trial instead of calling
+live witnesses, effectively denying defendants a chance to
+cross-examine their accusers. See Crawford, 541 U. S., at
+44. By the founding, the common law had largely turned
+against that practice. See J. Beattie, Crime and the Courts
+in England 1660–1800, pp. 270–271, 363–365 (1985). Rec-
+ognizing as much, this Court in Crawford held that the “use
+of ex parte examinations as evidence against the accused”
+was one of the “principal evil[s] at which the Confrontation
+Clause was directed.” 541 U. S., at 50.
+   Now return to Mr. Franklin’s case. The Court of Appeals
+applied the primary-purpose test to approve something that
+                  Cite as: 604 U. S. ____ (2025)             3
+
+                    Statement of GORSUCH, J.
+
+looks very similar to what the Confrontation Clause was
+adopted to prevent—the use at trial of a pretrial examina-
+tion as evidence against the accused “in lieu of live testi-
+mony” subject to cross-examination. Id., at 43.
+   Perhaps there is some way to reconcile this apparent ten-
+sion. But perhaps, too, the tension here should give us rea-
+son to ask some questions about the “primary-purpose” test
+itself. Start with this one: Where does it come from? The
+test appears nowhere in the text of the Sixth Amendment,
+nor have our decisions sought to justify it by reference to
+the Amendment’s original meaning and the historic prac-
+tices that informed it. Really, where the primary-purpose
+test “comes from is anyone’s guess.” Williams v. Illinois,
+567 U. S. 50, 135 (2012) (KAGAN, J., dissenting).
+   Seemingly, the first mention of “primary purpose” in our
+Sixth Amendment jurisprudence came in Davis v. Washing-
+ton, 547 U. S. 813, 822 (2006). Even there, however, the
+Court did not purport to suggest that every Confrontation
+Clause claim must run the primary-purpose gauntlet. In-
+stead, Davis used the phrase “primary purpose” merely as
+shorthand to describe some situations in which an out-of-
+court statement will qualify as “testimonial” and thus im-
+plicate the Confrontation Clause. Ibid. Reading any more
+into its discussion, Davis emphasized, would be a mistake,
+since it was not “attempting to produce an exhaustive clas-
+sification of all conceivable statements . . . as either testi-
+monial or nontestimonial.” Ibid.
+   Admittedly, and despite that admonition, some of our
+later cases seized on Davis’s discussion of “primary pur-
+pose” and sought to transform it into a kind of “grand uni-
+fied theory” for assessing Confrontation Clause claims, a
+test that must be satisfied in every case. American Legion
+v. American Humanist Assn., 588 U. S. 29, 60 (2019) (plu-
+rality opinion). But even after years of toiling with that
+project, our cases have never quite settled on what the
+primary-purpose test is. As we candidly acknowledged last
+4                  FRANKLIN v. NEW YORK
+
+                    Statement of GORSUCH, J.
+
+year in Smith, the Court has offered a number of “varied”
+and seemingly inconsistent “formulations.” 602 U. S., at
+800; see also State v. Mattox, 2017 WI 9, ¶63, 373 Wis. 2d
+122, 161, 890 N. W. 2d 256, 277 (Abrahamson, J., dissent-
+ing) (“[T]he U. S. Supreme Court has not adopted a single,
+definitive formulation of the primary purpose test”); People
+v. Fontenot, 509 Mich. 1073, 1079, 975 N. W. 2d 919, 925
+(2022) (McCormack, C. J., concurring) (“[T]he proper for-
+mulation of the primary-purpose test is unclear”).
+   Consider a few examples. Perhaps the most demanding
+articulation of the primary-purpose test came in Bryant,
+where the Court indicated that an out-of-court statement
+qualifies as testimonial if it was procured “with a primary
+purpose of creating an out-of-court substitute for trial testi-
+mony.” 562 U. S., at 358 (emphasis added). More forgiv-
+ingly, in Melendez-Diaz v. Massachusetts, the Court said
+that a statement qualifies as “testimonial” if it was “ ‘made
+under circumstances which would lead an objective witness
+reasonably to believe that the statement would be available
+for use at a later trial.’ ” 557 U. S. 305, 310 (2009) (emphasis
+added). Differently still, Davis suggested that statements
+“made in the course of police interrogation . . . are testimo-
+nial when . . . the primary purpose of the interrogation is to
+establish or prove past events potentially relevant to later
+criminal prosecution.” 547 U. S., at 822 (emphasis added).
+And in yet another iteration, Smith said the relevant ques-
+tion is whether a statement was prepared with a “ ‘focus on
+court.’ ” 602 U. S., at 802 (emphasis added).
+   It might be possible, I suppose, to harmonize these dis-
+cordant variations. But lower courts have generally felt
+compelled to pick one version or another, and a defendant’s
+conviction or acquittal can hang on that choice. See, e.g.,
+United States v. Miller, 982 F. 3d 412, 436 (CA6 2020)
+(“Were [the statements] testimonial? It might depend on
+which of the Supreme Court’s varied ‘primary-purpose’
+tests we apply”).
+                  Cite as: 604 U. S. ____ (2025)             5
+
+                    Statement of GORSUCH, J.
+
+  Just look again at what happened to Mr. Franklin in the
+Court of Appeals. There, a majority applied Bryant’s ver-
+sion of the test, asking whether the primary purpose of Mr.
+Franklin’s bail report “was to create an out-of-court substi-
+tute for trial testimony.” 42 N. Y. 3d, at 164, 242 N. E. 3d,
+at 657. Under that standard, the report struck the majority
+as nontestimonial. Meanwhile, the dissent thought the bail
+report testimonial because, even if it wasn’t created as a
+substitute for trial testimony, it was created for use in court
+and was available for use at trial, considerations Smith and
+Melendez-Diaz have suggested are enough to trigger the
+Sixth Amendment. See 42 N. Y. 3d, at 176, 242 N. E. 3d, at
+666 (Aarons, J., dissenting).
+  If deciding which primary-purpose test to use can pose
+lower courts with a challenge, applying any version of it
+may be no easier. Bryant suggested that a court must “ob-
+jectively” determine an out-of-court statement’s “ ‘primary
+purpose.’ ” 562 U. S., at 360. But how is a court supposed
+to do that? Must it take evidence and conduct a mini-trial
+about the circumstances of each utterance? See id., at 370
+(suggesting that courts must analyze “the statements and
+actions of all participants” in an out-of-court encounter).
+What, too, is a court supposed to do when the evidence in-
+dicates that an officer had one “primary purpose” in mind
+when soliciting an out-of-court statement and the declarant
+had another? See id., at 383 (Scalia, J., dissenting). In
+cases like that, what is to keep an “objective” inquiry from
+devolving into raw judicial choice, inviting in the process
+different results from different judges in similar cases? See
+Kennedy v. Bremerton School Dist., 597 U. S. 507, 533–534
+(2022) (noting problems with a not-dissimilar “reasonable
+observer” inquiry); Smith, 602 U. S., at 806–807
+(GORSUCH, J., concurring in part); cf. Davis, 547 U. S., at
+841–842 (THOMAS, J., concurring in judgment in part and
+dissenting in part). The challenges associated with apply-
+6                     FRANKLIN v. NEW YORK
+
+                       Statement of GORSUCH, J.
+
+ing the primary-purpose test only seem to compound fur-
+ther when one considers the immense variety of out-of-court
+statements that prosecutors may seek to use at trial—rang-
+ing from statements from eyewitnesses at a crime scene to
+bail reports to expert forensic analyses. Does each type of
+statement demand its own primary-purpose jurisprudence?
+Cf. Smith, 602 U. S., at 802 (distinguishing among different
+types of laboratory records).
+   To my mind, all this suggests we may need to rethink our
+course sometime soon. The primary-purpose test came
+about accidentally. It has caused considerable confusion.
+This Court has never sought to justify it on the basis of the
+Sixth Amendment’s text or original meaning. Nor, for that
+matter, is it easy to see how one might. The Sixth Amend-
+ment guarantees “the accused . . . the right . . . to be con-
+fronted with the witnesses against him.” What matters, as
+I read those words, is not the purpose for which an out-of-
+court statement was originally created, but whether the
+government seeks to use a witness’s statement at trial
+against a defendant in lieu of live testimony. See Smith,
+602 U. S., at 806–807 (GORSUCH, J., concurring in part).
+   When it comes to vindicating many other guarantees in
+the Bill of Rights, we have eschewed “ambitious, abstract,
+and ahistorical” tests in favor of ones grounded in the con-
+stitutional text and the common law that informed it. Ken-
+nedy, 597 U. S., at 534 (internal quotation marks and alter-
+ation omitted) (Establishment Clause).1 Perhaps we should
+
+——————
+  1 See also, e.g., SEC v. Jarkesy, 603 U. S. 109 (2024) (Seventh Amend-
+
+ment); Ramos v. Louisiana, 590 U. S. 83 (2020) (Sixth Amendment jury
+right); Knick v. Township of Scott, 588 U. S. 180 (2019) (Fifth Amend-
+ment Takings Clause); Currier v. Virginia, 585 U. S. 493 (2018) (Fifth
+Amendment Double Jeopardy Clause); District of Columbia v. Heller, 554
+U. S. 570 (2008) (Second Amendment); United States v. Bajakajian, 524
+U. S. 321 (1998) (Eighth Amendment Excessive Fines Clause); cf. Car-
+penter v. United States, 585 U. S. 296, 397–404 (2018) (GORSUCH, J., dis-
+senting) (urging a similar approach for the Fourth Amendment).
+                      Cite as: 604 U. S. ____ (2025)                      7
+
+                        Statement of GORSUCH, J.
+
+consider doing the same here. As we recognized in Craw-
+ford, the Sixth Amendment enshrined a pre-existing right
+to confront one’s accusers at trial, and its broad language
+“admit[s] only those exceptions established at the time of
+the founding.” 541 U. S., at 54. In other words, the Amend-
+ment established a presumption that prosecutors cannot
+use out-of-court statements against a defendant without an
+opportunity for cross-examination, a presumption prosecu-
+tors can overcome only by identifying some historically rec-
+ognized exception to the general rule. Following that ap-
+proach might sometimes present courts and counsel with
+difficult questions, but perhaps no more so than those they
+face today under the primary-purpose regime. And, in any
+event, it is hard to see how else we might proceed if our aim
+is “to honor the supreme law the people have ordained ra-
+ther than substituting our will for theirs.” United States v.
+Rahimi, 602 U. S. 680, 711 (2024) (GORSUCH, J., concur-
+ring); see Crawford, 541 U. S., at 67.
+   Now may not be the moment, I concede, for the Court to
+take up these questions. The Court issued its latest word
+on the Confrontation Clause in Smith less than a year ago.
+Before weighing in again, we may benefit from the insights
+and further experience of our lower court colleagues. Along
+the way, I hope only that they pause to consider the compli-
+cations surrounding the primary-purpose test and address
+possible alternatives we might consider. As Chief Justice
+Marshall observed, all of us who serve in the judiciary are
+charged with being “watchful of every inroad” on the rights
+the Confrontation Clause protects. United States v. Burr,
+25 F. Cas. 187, 193 (No. 14,694) (CC Va. 1807).2
+——————
+   2 JUSTICE ALITO also writes to criticize the various tests this Court has
+
+developed to determine what qualifies as a “testimonial” statement. As
+he observes, “the real problem may” lie not with any particular test but,
+more fundamentally, with the notion that the Confrontation Clause’s
+protections hinge on whether a statement is “testimonial.” Ante, at 2
+(statement respecting denial of certiorari). So, for instance, one study
+8                      FRANKLIN v. NEW YORK
+
+                        Statement of GORSUCH, J.
+
+
+
+
+——————
+cited by JUSTICE ALITO argues that “framing-era sources did not draw any
+distinction between testimonial and nontestimonial hearsay.” T. Davies,
+Not “The Framers’ Design”: How the Framing-Era Ban Against Hearsay
+Evidence Refutes the Crawford-Davis “Testimonial” Formulation of the
+Scope of the Original Confrontation Clause, 15 J. L. & Pol’y 349, 465
+(2007) (emphasis added). According to that study, “framing-era evidence
+doctrine imposed a virtually total ban against using unsworn hearsay
+evidence to prove a criminal defendant’s guilt,” regardless of the state-
+ment’s original purpose. Id., at 351; cf. Crawford v. Washington, 541
+U. S. 36, 52, n. 3 (2004) (discussing evidence of a “general bar on unsworn
+hearsay” at the founding). If that is true, then reexamining the relevant
+history might well require us not only to “reaffir[m]” Crawford, as
+JUSTICE ALITO suggests, ante, at 4, but to broaden its protections, per-
+haps along the lines outlined above.

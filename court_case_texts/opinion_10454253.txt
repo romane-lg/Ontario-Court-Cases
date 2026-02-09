@@ -1,0 +1,380 @@
+Cite as: 603 U. S. ____ (2024)               1
+
+                      JACKSON, J., dissenting
+
+SUPREME COURT OF THE UNITED STATES
+    WARREN KING v. SHAWN EMMONS, WARDEN
+   ON PETITION FOR WRIT OF CERTIORARI TO THE UNITED
+  STATES COURT OF APPEALS FOR THE ELEVENTH CIRCUIT
+                 No. 23–668.   Decided July 2, 2024
+
+   The petition for a writ of certiorari is denied.
+   JUSTICE JACKSON, with whom JUSTICE SOTOMAYOR joins,
+dissenting from the denial of certiorari.
+   Under the Antiterrorism and Effective Death Penalty Act
+of 1996 (AEDPA), federal habeas courts must give substan-
+tial deference to factual determinations made by state
+courts. See 28 U. S. C. §§2254(d)(2), (e)(1). But deference
+is not a rubber stamp; it “does not imply abandonment or
+abdication of judicial review.” Miller-El v. Cockrell, 537
+U. S. 322, 340 (2003). “A federal court can disagree with a
+state court’s [factual findings] and, when guided by
+AEDPA, conclude the decision was unreasonable or that the
+factual premise was incorrect by clear and convincing evi-
+dence.” Ibid.
+   In this capital case, a Georgia prosecutor struck every
+Black woman and all but two Black men from a jury pool
+during voir dire. Responding to a challenge from the de-
+fendant based on Batson v. Kentucky, 476 U. S. 79 (1986),
+the prosecutor protested, arguing that it was “improper” for
+the court to inquire into his reasons for making the strikes.
+4 App. in No. 20–12804 (CA11), p. 7. He then proceeded to
+explain that one of his “main reason[s]” for a specific strike
+was that “this lady is a black female.” Id., at 9.
+   The trial court determined that this racially discrimina-
+tory strike violated Batson. In response, the prosecutor
+erupted into a rant against Batson. He repeatedly asserted
+that it was “improper for this [c]ourt to tell me . . . that’s not
+a justifiable strike.” Id., at 43. And he concluded: “I take
+2                       KING v. EMMONS
+
+                      JACKSON, J., dissenting
+
+issue with this entire whole process . . . . It’s improper and
+it’s wrong.” Id., at 44.
+   On appeal, the Supreme Court of Georgia found that none
+of the prosecutor’s other peremptory strikes were racially
+discriminatory—but nowhere did that court acknowledge
+the fact that one of the prosecutor’s strikes was explicitly
+discriminatory, nor did the court even mention the prosec-
+tor’s drawn-out rants against Batson. The Eleventh Circuit
+then proceeded on federal habeas review to conclude that
+the state court did not make “an unreasonable determina-
+tion of the facts” under §2254(d)(2), despite its having com-
+pletely ignored those highly salient facts.
+   That was error. The deference that AEDPA requires is
+not boundless, and when a state court fails to engage with
+critical evidence in rendering its factual findings, a federal
+habeas court should not hesitate to deem those findings un-
+reasonable. Because I would summarily reverse the Elev-
+enth Circuit’s contrary decision, I respectfully dissent.
+                                I
+   Petitioner Warren King was charged with malice murder
+and other crimes for his involvement in the killing of a con-
+venience store employee in the course of a robbery. During
+jury selection for King’s trial, the prosecutor, Assistant Dis-
+trict Attorney John Johnson, used 7 of his 10 allotted per-
+emptory challenges to strike every Black woman and all but
+two Black men. As a result of these strikes, Johnson struck
+87.5% of the qualified Black jurors but only 8.8% of the
+qualified White jurors. Statistically speaking, this meant
+that Black jurors were about 10 times more likely to be
+struck than White jurors. The resulting jury consisted of
+seven White men, four White women, and one Black man.
+   The defense challenged Johnson’s strikes as discrimina-
+tory in violation of Batson.1 The trial court determined that
+
+——————
+ 1 Under this Court’s decision in Batson v. Kentucky, 476 U. S. 79
+                      Cite as: 603 U. S. ____ (2024)                       3
+
+                          JACKSON, J., dissenting
+
+a prima facie case of discrimination had been made and di-
+rected Johnson to explain his strikes, as Batson requires.
+Before complying, however, Johnson made his objection to
+Batson clear in a lengthy speech that included the following
+assertions:
+     “I object to the [c]ourt’s finding based on the fact that
+     it’s simply on statistical analysis that the State struck
+     eight blacks and three whites, and that has no rational
+     basis to whether a prima facie case of discrimination
+     has been established in this particular case. I state
+     that for the record. I know the [c]ourt’s ruling, and I
+     know the issue that has been decided by the Supreme
+     Court of Georgia. I do state for the record that the Su-
+     preme Court of Georgia of course does not know how I
+     strike, and that it is improper for them to involve them-
+     selves in this unless defense counsel can point to a spe-
+     cific reason why some particular juror was qualified to
+     serve and that I struck them. . . . [S]tatistics can never
+     make a prima facie showing. The Supreme Court of
+     Georgia has said that it does, and I just take exception
+     to that, and I do so for the record.” 4 App. in No. 20–
+     12804, at 6–7.
+  Johnson capped off his objection by asserting his view
+that a Batson-type analysis “becomes very unwieldy, and
+that’s why neither this Court nor the Supreme Court nor
+the defense should be involved in deciding whether or not
+the State has accurately or effectively performed its
+strikes.” Id., at 8. But then he proceeded to offer reasons
+
+——————
+(1986), analyzing a claim involving an allegedly discriminatory strike fol-
+lows a three-step process. First, the defendant must establish “a prima
+facie case” that the circumstances of the strike “giv[e] rise to an inference
+of discriminatory purpose.” Id., at 93–94. Second, “the burden shifts to
+the [prosecution] to explain adequately the racial exclusion.” Id., at 94.
+Third and finally, the trial court must determine whether “the defendant
+has established purposeful discrimination.” Id., at 98.
+4                     KING v. EMMONS
+
+                     JACKSON, J., dissenting
+
+for the particular strikes he had made in this case. The trial
+court accepted those explanations until Johnson reached
+prospective juror Jacqueline Alderman, a Black woman.
+Johnson explained, “My main reason [for the strike] is that
+this lady is a black female, she is from Surrency, [and] she
+knows the defendant and his family.” Id., at 9. The trial
+court, however, noted that Alderman had testified that she
+did not know King or his family. The trial court accordingly
+found that the strike violated Batson and ordered Alderman
+seated on the jury.
+  Johnson then made a second oral statement protesting
+against Batson. As before, Johnson’s tirade is too long to
+reproduce fully here, but the following excerpt is emblem-
+atic of the position he forcefully maintained:
+       “If this lady were a white lady there would not be a
+    reason—there would not be a question in this case.
+    And that’s the problem I have with all of this is that it’s
+    not racially neutral. There was a time when it was ra-
+    cially neutral and that was before Batson. Because I
+    had to act that way when I was in Brunswick because
+    it was a physical impossibility if you wanted to strike
+    every black off a jury for you to do that. And we had an
+    issue just—you had to reform your whole ideas and
+    then Batson came out. And Batson now makes us look
+    whether people are black or not. Not whether they’re
+    black or white, but black or not.” Id., at 43–44.
+Johnson concluded by emphasizing that, in his view, “it
+[was] uncalled for to require people to be reseated on a jury
+that [he] ha[d] a problem with in this case.” Id., at 44.
+   After his speech concluded, Johnson emphasized that he
+was “very angry right now,” ibid., but suggested that the
+trial court place Alderman on the jury while leaving his
+other strikes untouched. The trial court and King’s attor-
+neys eventually accepted this compromise, and the court
+did not revisit its prior conclusions regarding Johnson’s
+                  Cite as: 603 U. S. ____ (2024)             5
+
+                     JACKSON, J., dissenting
+
+other strikes. The newly empaneled jury, consisting of 10
+White and 2 Black jurors, ultimately convicted King on all
+charges and sentenced him to death.
+   On appeal, the Supreme Court of Georgia affirmed King’s
+conviction and sentence. King v. State, 273 Ga. 258, 539
+S. E. 2d 783 (2000). The state court did not, however, even
+mention Johnson’s repeated, indignant diatribes against
+Batson. Nor did it recognize that Johnson’s reason for strik-
+ing Alderman was explicitly based on race, obliquely refer-
+ring to that strike only to say that “[t]he trial court found
+the State’s reason for striking juror Alderman to be insuffi-
+cient to rebut the prima facie showing of discrimination.”
+273 Ga., at 268, 539 S. E. 2d, at 795.
+   King filed a petition for habeas corpus in federal court,
+again pressing his Batson claim. The District Court denied
+relief, and a divided panel of the Eleventh Circuit affirmed.
+King v. Warden, Ga. Diagnostic Prison, 69 F. 4th 856
+(2023). The court acknowledged that King’s case “presents
+a troubling record and a prosecutor who exercised one ra-
+cially discriminatory strike and ranted against precedents
+of the Supreme Court of the United States.” Id., at 868. It
+concluded, however, that the state court’s findings were not
+unreasonable under AEDPA. Judge Wilson dissented. In
+his view, “even deferentially reviewing the Supreme Court
+of Georgia’s opinion, no reasonable jurist could have re-
+viewed this record—replete with evidence of racial discrim-
+ination—and not found a Batson violation.” Id., at 881.
+                               II
+                               A
+   Under AEDPA, a federal court may not grant habeas re-
+lief to a state prisoner based on a state court’s factual find-
+ings “unless the adjudication of the claim . . . resulted in a
+decision that was based on an unreasonable determination
+of the facts in light of the evidence presented in the State
+6                      KING v. EMMONS
+
+                     JACKSON, J., dissenting
+
+court proceeding.” §2254(d)(2). “A determination of a fac-
+tual issue made by a State court shall be presumed to be
+correct”; this “presumption of correctness” must be “re-
+butt[ed] . . . by clear and convincing evidence.” §2254(e)(1).
+Only after a state court’s factual determination is found to
+be unreasonable can a federal court then assess the merits
+of a habeas petitioner’s claim “without the deference
+AEDPA otherwise requires.” Panetti v. Quarterman, 551
+U. S. 930, 953 (2007). Clearly, this standard incorporates a
+significant amount of deference to a state court’s prior fac-
+tual findings. “A state-court factual determination is not
+unreasonable merely because the federal court would have
+reached a different conclusion in the first instance.” Wood
+v. Allen, 558 U. S. 290, 301 (2010).
+   Equally clear, however, is that “[e]ven in the context of
+federal habeas, deference does not imply abandonment or
+abdication of judicial review, and does not by definition pre-
+clude relief.” Brumfield v. Cain, 576 U. S. 305, 314 (2015)
+(internal quotation marks omitted). Put another way,
+AEDPA’s “standard is demanding but not insatiable.” Mil-
+ler-El v. Dretke, 545 U. S. 231, 240 (2005).
+   For that reason, this Court has not hesitated to find
+AEDPA’s standard satisfied when a state court’s factfind-
+ing process disregards information that is highly relevant
+to a court’s factual determination. See, e.g., Brumfield, 576
+U. S., at 314–316; Wiggins v. Smith, 539 U. S. 510, 528
+(2003); Dretke, 545 U. S., at 265–266; see also 2 R. Hertz &
+J. Liebman, Federal Habeas Corpus Practice and Procedure
+§32.4, p. 2002, and n. 12 (7th ed. 2023) (collecting lower
+court cases in which “[t]he state court . . . overlooked or mis-
+construed evidence”). To be sure, “a state court need not
+make detailed findings addressing all the evidence before
+it.” Cockrell, 537 U. S., at 347. But a state court’s disregard
+for highly salient facts casts serious doubt on the reasona-
+bleness of the state court’s determination.
+                  Cite as: 603 U. S. ____ (2024)            7
+
+                     JACKSON, J., dissenting
+
+                                B
+   The Georgia Supreme Court’s blinkered assessment of
+each of prosecutor Johnson’s strikes—divorced from con-
+text—ignored highly relevant facts and circumstances in
+three critical areas, each of which should have informed the
+Eleventh Circuit’s AEDPA determination.
+   First, the Georgia Supreme Court ignored the flagrant
+nature of the Batson violation the trial court had already
+recognized—the discriminatory strike of Jacqueline Alder-
+man. In the state court’s telling, this earlier violation was
+simply one for which the prosecution’s “reason for striking
+juror Alderman” was “insufficient to rebut the prima facie
+showing of discrimination.” King, 273 Ga., at 268, 539 S. E.
+2d, at 795. But that sugarcoated version of events failed to
+acknowledge that one of Johnson’s “main reason[s]” for the
+strike was that Alderman “is a black female,” 4 App. in
+No. 20–12804, at 9, and that Johnson’s nonracial reason for
+the strike—that Alderman knew King and his family—was
+in fact false, as the trial court found. We have emphasized
+that “historical evidence of the State’s discriminatory per-
+emptory strikes from past trials” are highly probative of a
+prosecutor’s discriminatory intent. Flowers v. Mississippi,
+588 U. S. 284, 304 (2019); see also Dretke, 545 U. S., at 253–
+254. All the more, then, when—as in this case—a discrim-
+inatory strike had occurred earlier during the same trial.
+   Second, the Georgia Supreme Court said absolutely noth-
+ing about Johnson’s multiple heated outbursts, all of which
+made his hostility to Batson patently obvious. This Court
+has recognized that “ ‘the best evidence of discriminatory in-
+tent often will be the demeanor of the attorney who exer-
+cises the challenge.’ ” Flowers, 588 U. S., at 302–303 (quot-
+ing Snyder v. Louisiana, 552 U. S. 472, 477 (2008)). Here,
+that demeanor provided highly probative evidence that
+Johnson’s use of peremptory strikes was suspect. Johnson
+repeatedly made clear that he disagreed with this Court’s
+decision in Batson and believed that courts had no business
+8                      KING v. EMMONS
+
+                     JACKSON, J., dissenting
+
+inquiring into the reasons for his strikes. As the dissent
+below noted, Johnson’s outbursts “demonstrated, at a min-
+imum, that he was reluctant to abide by the requirements
+of Batson.” 69 F. 4th, at 882 (opinion of Wilson, J.).
+   Third, racial disparities in a prosecutor’s exercise of per-
+emptory strikes are highly probative of discriminatory in-
+tent, and here, “[t]he numbers speak loudly.” Flowers, 588
+U. S., at 305. Again, Johnson struck 87.5% of the qualified
+Black jurors while striking only 8.8% of the qualified White
+jurors. In a prior case, we have described this kind of dis-
+parity—there, the striking of 10 out of 11 Black jurors—as
+“remarkable.” Dretke, 545 U. S., at 240–241. With such
+stark numbers, “[h]appenstance is unlikely.” Cockrell, 537
+U. S., at 342. This fact, too, does not appear anywhere in
+the Georgia Supreme Court’s opinion.
+   The Eleventh Circuit should have been attentive to the
+fact that the Georgia Supreme Court’s Batson determina-
+tion exhibited such critical flaws born out of its abject fail-
+ure to grapple with what actually happened at trial. The
+state court’s watered-down description of Johnson’s initial
+Batson violation should have raised alarm bells as the Cir-
+cuit evaluated the reasonableness of the state court’s fac-
+tual findings under AEDPA. The Court of Appeals also
+should have had grave doubts about the reasonableness of
+the state court’s factual findings due to its failure to
+acknowledge the prosecutor’s pertinent and disturbing
+anti-Batson rants. And the stark statistical evidence of the
+prosecutor’s discriminatory strike behavior—again, un-
+mentioned by the State Supreme Court—should have
+served as further confirmation that AEDPA deference to
+that court’s factual findings was not warranted.
+   In short, the Eleventh Circuit failed to faithfully apply
+AEDPA’s review standard here. Given that the Georgia Su-
+preme Court did not address, or even mention, the prosecu-
+tor’s expressed antipathy toward Batson, the Eleventh Cir-
+cuit should have deemed AEDPA’s unreasonable-
+                      Cite as: 603 U. S. ____ (2024)                       9
+
+                          JACKSON, J., dissenting
+
+determination standard satisfied and proceeded to review
+the merits of King’s claim without the deference that
+AEDPA usually requires. See Panetti, 551 U. S., at 953.
+Such a nondeferential review of the strikes at issue here
+might well have made a difference—as Judge Wilson noted
+in dissent, there is good reason to believe that King’s Batson
+claim would otherwise have prevailed.2 But the Court of
+Appeals reflexively deferred to the Georgia Supreme Court,
+notwithstanding glaring flaws in the state court’s factual
+findings. Even under AEDPA’s deferential standard, fed-
+eral courts play an important role in “ ‘guard[ing] against
+extreme malfunctions in the state criminal justice sys-
+tems.’ ” Harrington v. Richter, 562 U. S. 86, 102 (2011). The
+Eleventh Circuit’s failure to do so here is deeply unfortu-
+nate, and it reflects a neglectful response to the apparent
+trend of disturbingly lax Batson enforcement on the part of
+Georgia’s high court.3
+                        *    *    *
+  Batson’s third step requires courts to consider a prosecu-
+
+——————
+   2 Even setting aside the highly relevant evidence that the Georgia Su-
+
+preme Court ignored, there is ample evidence that the state court’s anal-
+ysis of each of these strikes was flawed. “[O]f the potential jurors who
+knew of King or his family, only black potential jurors were struck,” even
+though “[t]hree white potential jurors . . . discussed their familiarity with
+King or his family.” King v. Warden, Ga. Diagnostic Prison, 69 F. 4th
+856, 884 (2023) (Wilson, J., dissenting). And Johnson’s other “proffered
+neutral reasons for striking black jurors”—such as views about the death
+penalty or involvement in church—“are not supported by the record.” Id.,
+at 884–885.
+   3 We are told that, since this Court decided Batson in 1986, the Georgia
+
+Supreme Court has found a prosecutor’s strikes to violate Batson only
+five times, despite having considered the issue in 127 published opinions,
+and it has not found a Batson violation for the past 27 years (since 1997).
+Brief for Georgia Association of Criminal Defense Lawyers as Amicus
+Curiae 6. In 12 of the cases in which it reviewed Batson challenges, the
+court upheld the prosecution’s decision to strike every single Black juror.
+Id., at 6–7.
+10                   KING v. EMMONS
+
+                    JACKSON, J., dissenting
+
+tor’s “strike in the context of all the facts and circum-
+stances.” Flowers, 588 U. S., at 315. Here, the Georgia Su-
+preme Court ignored highly salient facts about the prosecu-
+tor’s admittedly discriminatory strike behavior and
+antipathy toward the legal standards that address such
+conduct. Instead, the state court made a narrow assess-
+ment of the prosecutor’s strikes that lacked important con-
+text. Therefore, the state court’s denial of King’s Batson
+claim was “based on an unreasonable determination of the
+facts in light of the evidence presented in the State court
+proceeding.” §2254(d)(2). Accordingly, I would summarily
+reverse the Court of Appeals’ erroneous application of def-
+erence in upholding the state court’s decision and remand
+for reconsideration of King’s Batson claim “without the def-
+erence AEDPA otherwise requires.” Panetti, 551 U. S., at
+953.

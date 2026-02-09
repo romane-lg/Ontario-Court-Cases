@@ -1,0 +1,220 @@
+Cite as: 601 U. S. ____ (2023)            1
+
+                     THOMAS, J., dissenting
+
+SUPREME COURT OF THE UNITED STATES
+BRIAN TINGLEY v. ROBERT W. FERGUSON, ATTORNEY
+        GENERAL OF WASHINGTON, ET AL.
+   ON PETITION FOR WRIT OF CERTIORARI TO THE UNITED
+    STATES COURT OF APPEALS FOR THE NINTH CIRCUIT
+             No. 22–942.   Decided December 11, 2023
+
+  The petition for a writ of certiorari is denied. JUSTICE
+KAVANAUGH would grant the petition for a writ of certio-
+rari.
+  JUSTICE THOMAS, dissenting from the denial of certiorari.
+  This petition asks us to consider whether Washington can
+censor counselors who help minors accept their biological
+sex. Because this question has divided the Courts of Ap-
+peals and strikes at the heart of the First Amendment, I
+would grant review.
+                               I
+  There is a fierce public debate over how best to help mi-
+nors with gender dysphoria. The petitioner, Brian Tingley,
+stands on one side of the divide. He believes that a person’s
+sex is “a gift from God, integral to our very being.” Pet. for
+Cert. 7. As a licensed marriage and family counselor, Tin-
+gley seeks to assist minors who suffer from gender dyspho-
+ria but “want to become comfortable with their biological
+sex.” Ibid. Tingley does so through “talk therapy”—i.e.,
+therapy conducted solely through speech. The State of
+Washington is on the other side of the divide. Its view is
+that the State should “protec[t] its minors against exposure
+to serious harms caused by” counseling to change a minor’s
+gender identity, Note, Wash. Rev. Code §18.130.180 (2018),
+and, as a result, that counselors should only affirm a mi-
+nor’s chosen gender identity.
+  Washington silenced one side of this debate by enacting
+S.B. 5722, 65th Leg., Reg. Sess. (2018) (SB 5722). SB 5722
+2                   TINGLEY v. FERGUSON
+
+                     THOMAS, J., dissenting
+
+prohibits licensed healthcare providers from “[p]erforming
+conversion therapy on a patient under age eighteen.”
+§18.130.180(26). According to Washington, “[c]onversion
+therapy” is “a regime that seeks to change an individual’s
+sexual orientation or gender identity.” §18.130.020(4)(a).
+Washington excludes from the definition of “[c]onversion
+therapy” counseling “that provide[s] acceptance, support,
+and understanding of clients or the facilitation of clients’
+coping, social support, and identity exploration and devel-
+opment that do[es] not seek to change sexual orientation or
+gender identity.” §18.130.020(4)(b). In other words, help-
+ing a minor become comfortable with his biological sex is
+prohibited “conversion therapy,” while encouraging a minor
+to change his “outward, physical traits” to “alig[n] . . . with
+[his] gender identity” is not. Dept. of Health and Human
+Services, Office of Population Affairs, Gender-Affirming
+Care and Young People 1 (Aug. 2023). Violations of SB
+5722 are punishable by fines up to $5,000, “remedial edu-
+cation,” suspension from practice, and license revocation.
+Wash. Rev. Code §18.130.160.
+  After Washington enacted SB 5722, Tingley filed suit, ar-
+guing that SB 5722 violates the First Amendment by re-
+stricting his speech based on its viewpoint and content. The
+Ninth Circuit, however, held that SB 5722 does not regulate
+speech at all. It reasoned that counseling is a type of med-
+ical treatment and qualifies as only professional conduct.
+47 F. 4th 1055, 1080 (2022). In the alternative, the Ninth
+Circuit held that counseling is unprotected by the First
+Amendment because there is a “tradition of regulation gov-
+erning the practice of those who provide health care within
+state borders.” Ibid. The Ninth Circuit denied rehearing
+en banc over the statement of Judge O’Scannlain, joined by
+three others, and Judge Bumatay’s dissent. See 57 F. 4th
+1072 (2023).
+  The Ninth Circuit’s opinion created a Circuit split. Two
+years earlier, the Eleventh Circuit concluded that near-
+                  Cite as: 601 U. S. ____ (2023)              3
+
+                      THOMAS, J., dissenting
+
+identical Florida municipal ordinances did regulate speech.
+Otto v. Boca Raton, 981 F. 3d 854, 859, 865 (2020). The
+Eleventh Circuit held the ordinances unconstitutional be-
+cause they prohibited speech based on content and view-
+point, and could not satisfy strict scrutiny. Id., at 864–870.
+The Third Circuit has also held that laws restricting talk
+therapy designed to change a client’s sexual orientation reg-
+ulate speech, not conduct. King v. Governor of New Jersey,
+767 F. 3d 216, 224 (2014), abrogated on other grounds by
+National Institute of Family and Life Advocates v. Becerra,
+585 U. S. 755 (2018). Tingley asks us to resolve this Circuit
+split and review whether SB 5722 violates the First Amend-
+ment. We should have.
+                                II
+   There is little question that SB 5722 regulates speech and
+therefore implicates the First Amendment. True, counsel-
+ing is a form of therapy, but it is conducted solely through
+speech. “If speaking to clients is not speech, the world is
+truly upside down. [SB 5722] sanction[s] speech directly,
+not incidentally—the only ‘conduct’ at issue is speech.”
+Otto, 981 F. 3d, at 866; see King, 767 F. 3d, at 228 (noting
+that “it would be strange indeed to conclude” talk therapy
+is conduct when “the same words, spoken with the same in-
+tent” by a student is speech).
+   It is a “fundamental principle that governments have ‘no
+power to restrict expression because of its message, its
+ideas, its subject matter, or its content.’ ” National Institute
+of Family and Life Advocates, 585 U. S., at 766 (quoting
+Reed v. Town of Gilbert, 576 U. S. 155, 163 (2015); some in-
+ternal quotation marks omitted)). A law that restricts
+speech based on its content or viewpoint is presumptively
+unconstitutional and may be upheld only if the state can
+prove that the law is narrowly tailored to serve compelling
+state interests. Ibid.
+4                   TINGLEY v. FERGUSON
+
+                      THOMAS, J., dissenting
+
+   Under SB 5722, licensed counselors can speak with mi-
+nors about gender dysphoria, but only if they convey the
+state-approved message of encouraging minors to explore
+their gender identities. Expressing any other message is
+forbidden—even if the counselor’s clients ask for help to ac-
+cept their biological sex. That is viewpoint-based and con-
+tent-based discrimination in its purest form. As a result,
+SB 5722 is presumptively unconstitutional, and the state
+must show that it can survive strict scrutiny before enforc-
+ing it.
+   The Ninth Circuit attempted to sidestep this framework
+by concluding that counseling is unprotected by the First
+Amendment because States have traditionally regulated
+the practice of medicine. See 47 F. 4th, at 1080. The Court
+has already made clear its “reluctan[ce] to ‘exemp[t] a cate-
+gory of speech from the normal prohibition on content-
+based restrictions.’ ” National Institute of Family and Life
+Advocates, 585 U. S., at 767 (quoting United States v. Alva-
+rez, 567 U. S. 709, 722 (2012) (plurality opinion)). Accord-
+ingly, the Court has instructed that states may not “impose
+content-based restrictions on speech without ‘persuasive
+evidence . . . of a long (if heretofore unrecognized) tradition’
+to that effect.” 585 U. S., at 767 (quoting Brown v. Enter-
+tainment Merchants Assn., 564 U. S. 786, 792 (2011); some
+internal quotation marks omitted). Despite this instruc-
+tion, the Ninth Circuit did not offer a single example of a
+historical regulation analogous to SB 5722, which targets
+treatments conducted solely through speech. See 57 F. 4th,
+at 1082 (O’Scannlain, J., statement respecting denial of re-
+hearing en banc) (explaining the panel’s “citations are not
+merely insufficient evidence—they are not even relevant
+evidence”).
+   This case is not the first instance of the Ninth Circuit re-
+stricting medical professionals’ First Amendment rights,
+and without the Court’s review, I doubt it will be the last.
+This Court recently reversed the Ninth Circuit’s decision to
+                  Cite as: 601 U. S. ____ (2023)             5
+
+                     THOMAS, J., dissenting
+
+uphold a law compelling crisis pregnancy centers to dissem-
+inate government-drafted notices. National Institute of
+Family and Life Advocates, 585 U. S., at 765–66. The Ninth
+Circuit declined to apply strict scrutiny because it con-
+cluded that the law regulated only “professional speech.”
+Id., at 767. As we explained, however, “[s]peech is not un-
+protected merely because it is uttered by ‘professionals.’ ”
+Ibid. And, we warned that “regulating the content of pro-
+fessionals’ speech ‘pose[s] the inherent risk that the Gov-
+ernment seeks not to advance a legitimate regulatory goal,
+but to suppress unpopular ideas or information.’ ” Id., at
+771 (quoting Turner Broadcasting System, Inc. v. FCC, 512
+U. S. 622, 641 (1994)). That warning has proved prescient.
+                           *     *     *
+   “If there is any fixed star in our constitutional constella-
+tion, it is that no official, high or petty, can prescribe what
+shall be orthodox in politics, nationalism, religion, or other
+matters of opinion or force citizens to confess by word or act
+their faith therein.” West Virginia Bd. of Ed. v. Barnette,
+319 U. S. 624, 642 (1943). Yet, under SB 5722, licensed
+counselors cannot voice anything other than the state-ap-
+proved opinion on minors with gender dysphoria without
+facing punishment. The Ninth Circuit set a troubling prec-
+edent by condoning this regime. Although the Court de-
+clines to take this particular case, I have no doubt that the
+issue it presents will come before the Court again. When it
+does, the Court should do what it should have done here:
+grant certiorari to consider what the First Amendment re-
+quires.
+                  Cite as: 601 U. S. ____ (2023)            1
+
+                      ALITO, J., dissenting
+
+SUPREME COURT OF THE UNITED STATES
+BRIAN TINGLEY v. ROBERT W. FERGUSON, ATTORNEY
+        GENERAL OF WASHINGTON, ET AL.
+   ON PETITION FOR WRIT OF CERTIORARI TO THE UNITED
+    STATES COURT OF APPEALS FOR THE NINTH CIRCUIT
+             No. 22–942.   Decided December 11, 2023
+
+   JUSTICE ALITO, dissenting from the denial of certiorari.
+   Like JUSTICE THOMAS, I would grant the petition for a
+writ of certiorari. This case presents a question of national
+importance. In recent years, 20 States and the District of
+Columbia have adopted laws prohibiting or restricting the
+practice of conversion therapy. It is beyond dispute that
+these laws restrict speech, and all restrictions on speech
+merit careful scrutiny.
+   There is a conflict in the Circuits about the constitution-
+ality of such laws. Compare, 47 F. 4th 1055 (CA9 2022),
+with Otto v. Boca Raton, 981 F. 3d 854 (CA11 2020). And
+the Ninth Circuit’s holding is based on the highly debatable
+view that its prior decision in Pickup v. Brown, 740 F. 3d
+1208 (2014), survived at least in part our decision in Na-
+tional Institute of Family and Life Advocates v. Becerra, 585
+U. S. ___, ___ (2018) (slip op., at ___) which singled out
+Pickup for disapproval.
+   For these reasons, this case easily satisfies our estab-
+lished criteria for granting certiorari, see this Court’s Rule
+10(a), and I would grant review.

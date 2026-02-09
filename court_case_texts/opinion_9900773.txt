@@ -1,0 +1,185 @@
+Cite as: 601 U. S. ____ (2023)             1
+
+                    Statement of dissenting
+                     THOMAS, J., THOMAS, J.
+
+SUPREME COURT OF THE UNITED STATES
+E. I. DU PONT DE NEMOURS & CO. v. TRAVIS ABBOTT,
+                      ET UX.
+
+   ON PETITION FOR WRIT OF CERTIORARI TO THE UNITED
+    STATES COURT OF APPEALS FOR THE SIXTH CIRCUIT
+             No. 23–13. Decided November 20, 2023
+
+   The petition for a writ of certiorari is denied. JUSTICE
+KAVANAUGH would grant the petition for a writ of certio-
+rari. JUSTICE ALITO took no part in the consideration or
+decision of this petition.
+   JUSTICE THOMAS, dissenting from the denial of certiorari.
+   Plaintiffs brought negligence claims against petitioner
+E. I. du Pont de Nemours & Co. (DuPont) on behalf of a
+class of approximately 80,000 residents for DuPont’s dis-
+charge of perfluorooctanoic acid into the Ohio River and the
+air. They alleged that their exposure to the chemical
+caused a range of diseases. The Judicial Panel on Multidis-
+trict Litigation assigned the cases to multidistrict litigation
+(MDL). The MDL court directed the parties to identify
+cases for bellwether trials, which it explained would be in-
+formational for the other pending MDL cases. The three
+resulting trials ended in verdicts for the plaintiffs. DuPont
+then settled the remaining cases in the MDL.
+   After the settlement, however, more plaintiffs brought
+claims, including respondents Travis and Julie Abbott. Re-
+lying on the three bellwether trials, the District Court held
+that DuPont was collaterally estopped from disputing sev-
+eral elements of the Abbotts’ (and the other new plaintiffs’)
+claims. Specifically, the District Court prevented DuPont
+from challenging duty, breach, and foreseeability. The only
+elements seemingly left unresolved were specific causation
+and damages. See App. to Pet. for Cert. 131. The jury found
+for the Abbotts, awarding them roughly $40 million. The
+2         E. I. DU PONT DE NEMOURS & CO. v. ABBOTT
+
+                     THOMAS, J., dissenting
+
+Sixth Circuit affirmed over Judge Batchelder’s partial dis-
+sent. In re E. I. du Pont de Nemours & Co. C-8 Personal
+Injury Litigation, 54 F. 4th 912 (2022).
+  DuPont now asks us to review the District Court’s appli-
+cation of collateral estoppel. I would grant the petition. I
+have serious doubts about the application of nonmutual of-
+fensive collateral estoppel in the MDL context.
+  Nonmutual offensive collateral estoppel prevents a de-
+fendant from relitigating issues that it lost in an earlier
+case against a different plaintiff. At common law, however,
+collateral estoppel—also called issue preclusion—required
+mutuality of parties: A prior judgment prevented only the
+same parties from relitigating settled issues in a new case
+between them. See, e.g., Hopkins v. Lee, 6 Wheat. 109, 113
+(1821); Deery v. Cray, 5 Wall. 795, 803 (1867). In Parklane
+Hosiery Co. v. Shore, 439 U. S. 322 (1979), the Court relaxed
+the mutuality requirement for a plaintiff ’s offensive use of
+collateral estoppel. But the Court cautioned that this pre-
+clusion should not be used when “the application of offen-
+sive estoppel would be unfair to a defendant.” Id., at 331.
+  Extending Parklane to the MDL context seems illogical
+and unfair. First, an MDL is a mechanism for streamlining
+pretrial proceedings; it is not designed to fully resolve the
+merits of large batches of cases in one fell swoop. When
+several courts face cases involving common questions of
+fact, an MDL pools resources by having one court handle
+the pretrial proceedings for all related cases simultane-
+ously. An MDL’s scope, however, is limited to pretrial pro-
+ceedings. See 28 U. S. C. §1407(a). Once pretrial proceed-
+ings are complete, the MDL court must remand the cases
+back to their originating courts to be resolved on the merits.
+Ibid. (“Each action so transferred shall be remanded by the
+panel at or before the conclusion of such pretrial proceed-
+ings . . . ” (emphasis added)); see also Lexecon Inc. v. Mil-
+berg Weiss Bershad Hynes & Lerach, 523 U. S. 26, 40
+                  Cite as: 601 U. S. ____ (2023)            3
+
+                     THOMAS, J., dissenting
+
+(1998). Although the MDL court may hold bellwether tri-
+als, I have not yet seen evidence that they are anything
+more than “nonbinding trial[s] . . . held to determine the
+merits of the claims and the strength of the parties’ posi-
+tions on the issues.” Black’s Law Dictionary 190 (11th ed.
+2019) (defining “bellwether” (emphasis added)); see also 4
+W. Rubenstein, Newberg and Rubenstein on Class Actions
+§11:20, and n. 13 (6th ed. 2022). Indeed, the MDL court
+here shared that understanding and described the bell-
+wether trials as helpful “information gathering.” In re E. I.
+du Pont de Nemours & Co. C-8 Personal Injury Litigation,
+No. 2:13–md–2433 (SD Ohio 2016), ECF Doc. 4624, p.
+100947. It is quite a stretch to use a mechanism designed
+to handle only pretrial proceedings to instead resolve mul-
+tiple elements of a claim based on a few nonbinding bell-
+wether trials. This use of nonmutual offensive collateral
+estoppel is far afield from any this Court has endorsed.
+   Second, expansive use of nonmutual offensive collateral
+estoppel in the MDL context raises serious due process con-
+cerns. See Taylor v. Sturgell, 553 U. S. 880, 891 (2008)
+(“[P]reclusion is . . . subject to due process limitations”).
+Although not without limits, it is “part of our deep-rooted
+historic tradition that everyone should have his own day in
+court.” Richards v. Jefferson County, 517 U. S. 793, 798
+(1996) (internal quotation marks omitted). Application of
+this type of collateral estoppel in an MDL, however, could
+prevent a defendant from raising a defense in potentially
+thousands of cases. It would make no difference if other
+MDL plaintiffs have material differences that would pre-
+vent them from making their required showing on that ele-
+ment—once nonmutual offensive collateral estoppel has
+been applied, a defendant’s hands are tied. In fact, a de-
+fendant cannot raise a defense even if there was no notice
+that bellwether trials would dictate the results of every
+MDL case. Collateral estoppel also must contend with a
+defendant’s right to a jury trial. See Parklane, 439 U. S., at
+4         E. I. DU PONT DE NEMOURS & CO. v. ABBOTT
+
+                      THOMAS, J., dissenting
+
+346–347 (Rehnquist, J., dissenting). In short, applying non-
+mutual offensive collateral estoppel in the MDL context
+runs afoul of this Court’s warning that preclusion should
+not be used when “the application of offensive estoppel
+would be unfair to a defendant.” Id., at 331.
+  The MDL here is a case in point. The MDL court origi-
+nally told the parties that the bellwether trials would be
+informational and “would facilitate valuation of cases to as-
+sist in global settlement.” ECF Doc. 4624, at 100947. Yet,
+the MDL court later treated them as binding. Far from
+mere gauges of the parties’ claims, the three trials turned
+out to be DuPont’s only chance to litigate several elements
+of claims brought by numerous different plaintiffs. The
+MDL court thus used a tiny fraction of the cases against
+DuPont to impose sweeping liability—all without any
+warning to DuPont of the bellwether trials’ import.
+  The MDL court’s ruling was not only breathtaking in its
+scope, but it also disregarded the fact that the three bell-
+wether trials were not representative of the cases against
+DuPont. For example, two bellwether plaintiffs drank wa-
+ter from wells that were less than one-third of a mile from
+DuPont’s plant; the Abbotts’ water, by contrast, came from
+wells 14 to 56 miles away. Two bellwether plaintiffs as-
+serted exposure through air emissions, in addition to expo-
+sure through drinking water; the Abbotts’ alleged exposure
+was only through their water. These differences in location
+and source of exposure are material to each plaintiff ’s claim
+that DuPont injured him through its negligent discharge of
+the chemical: “Any combination of these factual differences
+could lead a jury to find that a particular plaintiff ’s injuries
+were not reasonably foreseeable and, therefore, that
+DuPont did not owe or breach a duty of care.” 54 F. 4th, at
+943 (Batchelder, J., concurring in part and dissenting in
+part). And, of course, the third bellwether plaintiff was cho-
+sen not as a representative case, but as one of “the most
+severely impacted plaintiffs.” ECF Doc. 4624, at 100962.
+                  Cite as: 601 U. S. ____ (2023)            5
+
+                     THOMAS, J., dissenting
+
+Given the differences among plaintiffs, DuPont may have
+lost the first three trials, but perhaps it would have won the
+rest. Under the MDL court’s ruling, however, DuPont had
+no chance to find out.
+   The preclusion was also entirely one sided: While plain-
+tiffs were able to use their bellwether trial wins against
+DuPont, if the roles were reversed, DuPont could not have
+asserted collateral estoppel against new MDL plaintiffs
+without violating those plaintiffs’ due process rights. See
+Blonder-Tongue Laboratories, Inc. v. University of Ill. Foun-
+dation, 402 U. S. 313, 329 (1971) (explaining that “[d]ue
+process prohibits estopping” those litigants “who never ap-
+peared in a prior action”). DuPont had all of the downside
+without any potential for upside. The lopsidedness of the
+preclusion adds to the potential for unfairness.
+   I have doubts about whether the application of nonmu-
+tual offensive collateral estoppel based on bellwether trials
+comports with due process. Given that MDLs constitute a
+large part of the federal docket, this issue should be re-
+solved sooner rather than later. We should not sacrifice
+constitutional protections for the sake of convenience, and
+certainly at least not without inquiry.

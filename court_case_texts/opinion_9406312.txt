@@ -1,0 +1,174 @@
+Cite as: 600 U. S. ____ (2023)                  1
+
+                       JACKSON, J., dissenting
+
+SUPREME COURT OF THE UNITED STATES
+      ROY HARNESS, ET AL. v. MICHAEL WATSON,
+         MISSISSIPPI SECRETARY OF STATE
+   ON PETITION FOR WRIT OF CERTIORARI TO THE UNITED
+    STATES COURT OF APPEALS FOR THE FIFTH CIRCUIT
+                 No. 22–412.   Decided June 30, 2023
+
+   The petition for a writ of certiorari is denied.
+   JUSTICE JACKSON, with whom JUSTICE SOTOMAYOR joins,
+dissenting from the denial of certiorari.
+   The President of the 1890 Mississippi Constitutional
+Convention said it plain: “Let us tell the truth if it bursts
+the bottom of the Universe . . . We came here to exclude the
+negro. Nothing short of this will answer.”1 To further that
+agenda, the Convention placed nine crimes in §241 of the
+State’s Constitution as bases for disenfranchisement, be-
+lieving that more Black people would be convicted of those
+crimes than White people. See Williams v. Mississippi, 170
+U. S. 213, 222–223 (1898) (acknowledging that purpose, but
+expressing “no concern” regarding the Conventioneers’ ob-
+jective); Ratliff v. Beale, 74 Miss. 247, 265, 20 So. 865, 868
+(1896) (similar); 47 F. 4th 296, 300 (CA5 2022) (per curiam)
+(en banc) (case below) (recognizing §241’s discriminatory
+aim).
+   Eight of those crimes have remained in §241 since 1890,
+without interruption. Thus, the Convention’s avowed goals
+continue to be realized via its chosen mechanism: Today
+(just as in the Convention’s aftermath), thousands of Black
+Mississippians cannot vote due to §241’s operation.2 Peti-
+
+
+——————
+  1 N. McMillen, Dark Journey: Black Mississippians in the Age of Jim
+
+Crow 41 (1989) (McMillen) (internal quotation marks omitted); see also
+id., at 39–43.
+  2 See McMillen 44–48; Report of Dov Rothman in No. 3:17–cv–00791
+2                       HARNESS v. WATSON
+
+                        JACKSON, J., dissenting
+
+tioners brought this legal action to challenge §241’s contin-
+ued use of the eight crimes as bases for felon disenfran-
+chisement. 47 F. 4th, at 302.
+   The Court of Appeals for the Fifth Circuit properly recog-
+nized that, under this Court’s settled precedent, the mere
+passage of time cannot insulate from constitutional chal-
+lenge a law that was invidious at its inception. See id., at
+300, 304. That court could not escape acknowledging the
+similarities between this case and Hunter v. Underwood,
+471 U. S. 222 (1985) (Rehnquist, J., for the Court), in which
+this Court unanimously invalidated an Alabama constitu-
+tional provision passed in 1901 because its “enactment was
+motivated by a desire to discriminate against blacks on ac-
+count of race” and it “continue[d] to th[at] day to have that
+effect.” Id., at 233. But en route to affirming the District
+Court’s grant of summary judgment against petitioners, the
+Fifth Circuit proceeded to make two egregious analytical
+errors that ought to be corrected.
+   First, it seized upon the idea that §241 had somehow been
+“reenacted” in full when the citizens of Mississippi twice
+amended parts of that provision years later. 47 F. 4th, at
+306. To be sure, later amendments changed bases for dis-
+enfranchisement other than the eight at issue here: In
+1950, burglary was removed from the list of disenfranchis-
+ing crimes via the State’s amendment processes, and, in
+1968, murder and rape were added via the same processes.
+See id., at 300–301. But, for federal constitutional pur-
+poses, the State never enacted any “new” version of the orig-
+inal eight grounds for disenfranchisement. In 1950, voters
+could have either removed burglary from §241 or left §241
+unchanged. So, too, in 1968—voters could have added mur-
+der and rape or left §241 unchanged. Id., at 319, 323–324
+(Graves, J., dissenting). No other change to the original list
+
+——————
+(SD Miss., Oct. 25, 2018), ECF Doc. 77–9, p. 6, ¶10.
+                 Cite as: 600 U. S. ____ (2023)            3
+
+                    JACKSON, J., dissenting
+
+of crimes was ever on offer. Therefore, the same discrimi-
+natory list of crimes that the 1890 Constitution’s ratifiers
+“ma[d]e into law by authoritative act” operates to disen-
+franchise Mississippians who commit those crimes today.
+Black’s Law Dictionary 666 (11th ed. 2019) (defining “en-
+act”).
+   Accordingly, the Fifth Circuit was wrong to believe that
+the amendments rendered the 1890 Convention’s discrimi-
+natory purpose irrelevant and to reject petitioners’ claim on
+the ground that they could show no discriminatory purpose,
+see 47 F. 4th, at 307, 309–310. Quite to the contrary, here,
+just as in Hunter, the “remaining crimes” from §241’s per-
+nicious origin still work the very harm the 1890 Convention
+intended—denying Black Mississippians the vote. 471
+U. S., at 232–233.
+   Second, the Fifth Circuit’s alternative holding—that even
+if §241 is tainted by discriminatory purpose, petitioners
+have no viable claim because the disenfranchisement pro-
+vision would have been adopted anyway, see 47 F. 4th, at
+310–311—was equally misguided. Under our well-estab-
+lished precedents, in order to defeat a challenge to a state
+law that was motivated by discriminatory purpose, the
+State bears the burden of showing that “the law would have
+been enacted without” that purpose. Hunter, 471 U. S., at
+228. Here, the Fifth Circuit assumed for argument’s sake
+that petitioners had shown discriminatory purpose, but
+concluded that the State had discharged its burden because
+certain legislators and a state task force considered recom-
+mending changes to §241’s list of crimes in the 1980s. 47 F.
+4th, at 302, 310. And the Fifth Circuit held that the State’s
+burden was satisfied even though that consideration never
+yielded an actual change to §241. See id., at 310–311.
+   This alternative holding was infused with the faulty
+“reenactment” rationale, insofar as the Fifth Circuit as-
+sumed, arguendo, “discriminatory intent arising from the
+1968 amendment.” Id., at 310 (emphasis added). Moreover,
+4                    HARNESS v. WATSON
+
+                     JACKSON, J., dissenting
+
+and even more fundamentally, the Fifth Circuit misread (or
+misunderstood) this Court’s holdings about the nature of
+the necessary inquiry. The burden is not to demonstrate a
+theoretical possibility that any legislature could have
+adopted the enactment at issue absent discrimination. Ra-
+ther, courts must assess whether the discriminatory actor
+(here, the 1890 Convention) “would have” enacted the pro-
+vision sans the discriminatory intent that was its actual
+motivation. Hunter, 471 U. S., at 228; see also Arlington
+Heights v. Metropolitan Housing Development Corp., 429
+U. S. 252, 270–271, and n. 21 (1977) (State’s “burden” is to
+“establis[h] that the same decision would have resulted”
+(emphasis added)). And that question cannot possibly be
+answered by looking to the unconsummated considerations
+of legislative actors a near century after the enactment.
+   In sum, I would have granted this petition to correct the
+Fifth Circuit’s clear and constitutionally momentous errors,
+and the Court could have done so in a straightforward and
+narrow (but significant) manner. All that is needed to re-
+solve this dispute is (1) the indisputable fact that §241’s dis-
+enfranchisement provisions were adopted for an illicit dis-
+criminatory purpose, and (2) the (unusually undeniable)
+understanding that, far from being subsequently “reen-
+acted,” §241 has persisted, without change—doing the
+harmful work that it was designed to do—ever since its in-
+itial invidious inception.
+                         *     *    *
+    The other day, this Court declared that the “ ‘Constitu-
+tion deals with substance, not shadows,’ and the [constitu-
+tional] prohibition against racial discrimination is ‘levelled
+at the thing, not the name.’ ” Students for Fair Admissions
+v. President and Fellows of Harvard College, 600 U. S. ___,
+___–___ (2023) (slip op., at 39–40). There are no shadows
+in §241, only the most toxic of substances.
+   Thus, the majority’s decision not to take up this matter is
+                 Cite as: 600 U. S. ____ (2023)            5
+
+                    JACKSON, J., dissenting
+
+doubly unfortunate. We were asked to address this problem
+125 years ago in Williams, and declined to do so. See 170
+U. S., at 219–223, 225 (rejecting challenge to §241). And
+this Court blinks again today. So, at the same time that the
+Court undertakes to slay other giants, Mississippians can
+only hope that they will not have to wait another century
+for a judicial knight-errant. Constitutional wrongs do not
+right themselves. With its failure to take action, the Court
+has missed yet another opportunity to learn from its mis-
+takes.

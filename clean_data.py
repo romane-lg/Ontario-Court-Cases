@@ -134,7 +134,7 @@ class CourtListenerScraper:
 def main():
     API_TOKEN = "d8178eca58deced23f2a3f27dcc67d869749a06a"
     COURT = "scotus"
-    LIMIT = 100  # number of dockets to fetch
+    LIMIT = 500  # number of dockets to fetch
 
     print("Starting CourtListener extraction...")
     scraper = CourtListenerScraper(API_TOKEN)

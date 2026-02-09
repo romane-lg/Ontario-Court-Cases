@@ -1,0 +1,361 @@
+Cite as: 604 U. S. ____ (2025)            1
+
+                     THOMAS, J., dissenting
+
+SUPREME COURT OF THE UNITED STATES
+       RONALD HITTLE v. CITY OF STOCKTON,
+               CALIFORNIA, ET AL.
+   ON PETITION FOR WRIT OF CERTIORARI TO THE UNITED
+    STATES COURT OF APPEALS FOR THE NINTH CIRCUIT
+              No. 24–427.   Decided March 10, 2025
+
+   The petition for a writ of certiorari is denied.
+   JUSTICE THOMAS, with whom JUSTICE GORSUCH joins,
+dissenting from the denial of certiorari.
+   To prevail on a Title VII disparate-treatment claim, a
+plaintiff must prove that the defendant intentionally dis-
+criminated against him because of a protected trait. See 42
+U. S. C. §2000e–2(a)(1). In McDonnell Douglas Corp. v.
+Green, 411 U. S. 792 (1973), this Court announced a three-
+part burden-shifting framework to help “bring the litigants
+and the court expeditiously and fairly to this ultimate ques-
+tion” when the plaintiff relies on circumstantial evidence.
+Texas Dept. of Community Affairs v. Burdine, 450 U. S. 248,
+253 (1981). Despite seemingly good intentions, this “judge-
+created doctrine has been widely criticized for its ineffi-
+ciency and unfairness.” Nall v. BNSF R. Co., 917 F. 3d 335,
+351 (CA5 2019) (Costa, J., specially concurring). The doc-
+trine has “spawn[ed] enormous confusion” in the lower
+courts. Brady v. Office of Sergeant at Arms, 520 F. 3d 490,
+494 (CADC 2008) (majority opinion of Kavanaugh, J.). And,
+at least some of its applications at summary judgment
+strike me as difficult to square with Federal Rule of Civil
+Procedure 56. See Tynes v. Florida Dept. of Juvenile Jus-
+tice, 88 F. 4th 939, 952–954 (CA11 2023) (Newsom, J., con-
+curring) (describing the problem). I would have taken this
+opportunity to revisit McDonnell Douglas and clarify what
+role—if any—it ought to play in Title VII litigation. Be-
+cause the Court declines to do so, I respectfully dissent.
+2               HITTLE v. CITY OF STOCKTON
+
+                     THOMAS, J., dissenting
+
+                                 I
+   The plaintiff in McDonnell Douglas had worked as a me-
+chanic and laboratory technician for the McDonnell Doug-
+las Corporation before being laid off as part of a general re-
+duction in force. 411 U. S., at 794. After the layoff, the
+plaintiff participated in civil rights protests against McDon-
+nell Douglas’s employment practices. Id., at 794–795.
+When McDonnell Douglas posted an opening for a new me-
+chanic position, the plaintiff applied but was not hired. Id.,
+at 796.
+   The plaintiff sued his former employer, alleging that it
+had refused to rehire him because of his race. Id., at 797.
+The employer responded that its refusal was not because of
+the plaintiff ’s race, but because he had engaged in illegal
+demonstrations. See ibid. The District Court initially dis-
+missed the plaintiff ’s suit, but the Eighth Circuit reversed
+and remanded for a bench trial. Id., at 797–798. To guide
+the District Court on remand, the Eighth Circuit “at-
+tempted to set forth standards to govern the consideration”
+of the claim. Id., at 798. This Court granted certiorari to
+clarify the controlling standards. Ibid.
+  The Court explained that “the issue at the trial” would be
+whether the employer refused to hire the plaintiff because
+of his race or because of his participation in unlawful con-
+duct. Id., at 801. To help the trial court make that ultimate
+determination, this Court offered a three-part framework
+for analyzing the circumstantial evidence to determine the
+real reason for the employer’s actions. First, the Court ex-
+plained, the plaintiff “must carry the initial burden” of “es-
+tablishing a prima facie case of racial discrimination.” Id.,
+at 802. A plaintiff can make this showing with evidence
+that (1) “he belongs to a racial minority,” (2) “he applied and
+was qualified for a job for which the employer was seeking
+applicants,” (3) “despite his qualifications, he was rejected,”
+and (4) “after his rejection, the position remained open and
+the employer continued to seek applicants from persons of
+                     Cite as: 604 U. S. ____ (2025)                     3
+
+                         THOMAS, J., dissenting
+
+complainant’s qualifications.” Ibid. If the plaintiff succeeds
+in establishing a prima facie case, the burden then shifts to
+the defendant “to articulate some legitimate, nondiscrimi-
+natory reason for the employee’s rejection.” Ibid. If the de-
+fendant carries that burden, then the plaintiff must have
+an “opportunity to show that [the employer’s] stated reason
+for [rejecting him] was in fact pretext.” Id., at 804.
+   This framework was designed to help the trial court eval-
+uate the circumstantial evidence offered by both sides and
+make an ultimate finding as to liability. See id., at 807. In
+other words, the framework was intended to offer “ ‘a sensi-
+ble, orderly way to evaluate the evidence’ ” that “ ‘bears on
+the critical question of discrimination.’ ” Postal Service Bd.
+of Governors v. Aikens, 460 U. S. 711, 715 (1983).
+   The Court made no attempt to ground its new evidentiary
+framework in the text of Title VII or any other source of law.
+The Court appears to have made it out of whole cloth.
+   In the years since McDonnell Douglas, the doctrine has
+“taken on a life of its own.” Tynes, 88 F. 4th, at 952 (New-
+som, J., concurring). Although initially developed for use in
+a bench trial,1 the McDonnell Douglas burden-shifting
+framework has since become “the presumptive means of re-
+solving Title VII cases at summary judgment.” 88 F. 4th,
+at 952; see also Jackson v. VHS Detroit Receiving Hospital,
+Inc., 814 F. 3d 769, 776 (CA6 2016) (“[C]ourts typically ap-
+ply the three-part burden-shifting framework developed” in
+McDonnell Douglas “to determine whether the plaintiff has
+proffered sufficient evidence to survive summary judg-
+ment”).
+                           II
+  The application of McDonnell Douglas in the summary-
+judgment context has caused significant confusion.
+
+——————
+  1 Title VII did not provide for jury trials until 1991. See Civil Rights
+
+Act of 1991, §102, 105 Stat. 1073 (establishing jury trial right).
+4                  HITTLE v. CITY OF STOCKTON
+
+                        THOMAS, J., dissenting
+
+   Some confusion likely arises from the fact that the frame-
+work was not designed with summary judgment in mind. It
+was created as a tool for resolving the “ultimate question”
+in a Title VII case—that is, whether the defendant inten-
+tionally discriminated against the plaintiff. Burdine, 450
+U. S., at 253. But, when a defendant moves for summary
+judgment, the question for the court is not whether the de-
+fendant has in fact engaged in unlawful discrimination. In-
+stead, the question is whether the plaintiff has proffered
+enough evidence to allow a reasonable factfinder to find a
+Title VII violation. See Fed. Rule Civ. Proc. 56(a).
+   Because the McDonnell Douglas framework was de-
+signed for use in a bench trial, the language this Court has
+used to describe the framework does not neatly track the
+plaintiff ’s summary-judgment task.2 For example, the first
+step requires a plaintiff to “establis[h] a prima facie case.”
+411 U. S., at 802. And, the third step requires the plaintiff
+to show, “by a preponderance of the evidence,” Burdine, 450
+U. S., at 253, that the employer’s stated reason “was in fact
+pretext” for discrimination, McDonnell Douglas, 411 U. S.,
+at 804. But, a plaintiff need not establish or prove any ele-
+ments—by a preponderance or otherwise—to survive sum-
+mary judgment. At that stage, he need only offer enough
+evidence to create a genuine dispute of material fact. See
+Celotex Corp. v. Catrett, 477 U. S. 317, 322 (1986). At least
+a few courts have suggested that this Court’s language
+“likely bears some responsibility for the continuing confu-
+sion” regarding McDonnell Douglas. See, e.g., Tynes, 88
+F. 4th, at 945.
+   Whatever the origins of the confusion, it is producing
+troubling outcomes on the ground. Lower court decisions
+reflect “widespread misunderstandings about the limits of
+——————
+  2 As far as I can tell, this Court has never applied McDonnell Douglas
+
+in a Title VII case in the summary-judgment context. See Tynes v. Flor-
+ida Dept. of Juvenile Justice, 88 F. 4th, 939, 952 (CA11 2023) (New-
+som, J., concurring).
+                   Cite as: 604 U. S. ____ (2025)               5
+
+                      THOMAS, J., dissenting
+
+McDonnell Douglas.” Id., at 946. Our precedent makes
+clear that the framework is, at most, a “procedural device,
+designed only to establish an order of proof and production”
+when evaluating circumstantial evidence. St. Mary’s Honor
+Center v. Hicks, 509 U. S. 502, 521 (1993). Put another way,
+it is “ ‘merely’ ” a “ ‘way to evaluate the evidence’ ” that bears
+on the ultimate finding of liability. Aikens, 460 U. S., at
+715. Yet, some courts treat McDonnell Douglas as a sub-
+stantive legal standard that a plaintiff must establish to
+survive summary judgment or to ultimately prove a claim.
+See Tynes, 88 F. 4th, at 945 (observing that some parties
+and courts “wrongly treat the prima facie case as a substan-
+tive standard of liability”).
+   Some courts also fail to appreciate that McDonnell Doug-
+las is necessarily underinclusive. The framework sets forth
+criteria that, if satisfied, will allow a plaintiff to prove a Ti-
+tle VII violation. But, satisfying McDonnell Douglas is not
+the only way or even the best way to prove a claim. The
+McDonnell Douglas Court itself explained that “[t]he facts
+necessarily will vary in Title VII cases” and the prima facie
+proof required in one case “is not necessarily applicable in
+every respect to differing factual situations.” 411 U. S., at
+802, n. 13; see also Furnco Constr. Corp. v. Waters, 438
+U. S. 567, 575 (1978) (explaining that McDonnell Douglas
+“was not intended to be an inflexible rule”). Yet, some
+courts treat the McDonnell Douglas framework as the ex-
+clusive method for evaluating evidence at summary judg-
+ment. As Judge Newsom has ably explained, this practice
+very likely runs afoul of Federal Rule of Civil Procedure 56.
+See Tynes, 88 F. 4th, at 952–953 (concurring opinion). Rule
+56 requires that a claim survive summary judgment so long
+as the plaintiff proffers enough evidence to allow a reason-
+able factfinder to decide the case in his favor. Analyzing
+evidence exclusively under McDonnell Douglas may lead a
+court to overlook the other ways that a plaintiff can prove
+his claim.
+6               HITTLE v. CITY OF STOCKTON
+
+                      THOMAS, J., dissenting
+
+   Adding to the confusion, judges appear to have different
+views on how best to apply the framework at summary
+judgment. Some courts require a plaintiff to establish a
+prima facie case at the Rule 56 stage. See, e.g., Everett v.
+Cook Cty., 655 F. 3d 723, 730 (CA7 2011) (“To move past
+summary judgment under the indirect method, a plaintiff
+must establish a prima facie case of discrimination”). Other
+courts have held that, at the summary judgment stage,
+when an employee has suffered an adverse employment ac-
+tion and the employer has asserted a legitimate, nondis-
+criminatory reason for the decision, “the district court need
+not—and should not—decide whether the plaintiff actually
+made out a prima facie case under McDonnell Douglas.”
+Brady, 520 F. 3d, at 494.
+   A remarkable number of lower court judges have gone out
+of their way to describe the chaos sown by McDonnell Doug-
+las. See, e.g., Walton v. Powell, 821 F. 3d 1204, 1210 (CA10
+2016) (majority opinion of Gorsuch, J.) (McDonnell Douglas
+“has proven of limited value” and invites “confusion and
+complexities”); Brady, 520 F. 3d, at 494 (majority opinion of
+Kavanaugh, J.) (describing the first step of McDonnell
+Douglas as “a largely unnecessary sideshow” that has
+“spawn[ed] enormous confusion and wast[ed] litigant and
+judicial resources”); Tynes, 88 F. 4th, at 945 (explaining
+that McDonnell Douglas has caused “continuing confu-
+sion”); 88 F. 4th, at 951 (Newsom, J., concurring) (explain-
+ing that McDonnell Douglas is a “judge-concocted doctrine
+that obfuscates the critical inquiry” at summary judgment);
+Nall, 917 F. 3d, at 351 (Costa, J., specially concurring) (ex-
+plaining that McDonnell Douglas is a “judge-created doc-
+trine [that] has been widely criticized for its inefficiency and
+unfairness”); Coleman v. Donahoe, 667 F. 3d 835, 863 (CA7
+2012) (Wood, J., concurring) (asserting that McDonnell
+Douglas has “lost [its] utility” and has “inflicted” “snarls
+and knots” “on courts and litigants alike”); Provenzano v.
+LCI Holdings, Inc., 663 F. 3d 806, 813 (CA6 2011) (arguing
+                     Cite as: 604 U. S. ____ (2025)                   7
+
+                        THOMAS, J., dissenting
+
+that McDonnell Douglas “often fails to fulfill its purpose”
+and that this failure “is particularly pronounced in the con-
+text of summary judgment”); Griffith v. Des Moines, 387
+F. 3d 733, 746 (CA8 2004) (Magnuson, J., concurring spe-
+cially) (explaining that McDonnell Douglas “has befuddled”
+the lower courts “[s]ince its inception”); Wells v. Colorado
+Dept. of Transp., 325 F. 3d 1205, 1221 (CA10 2003) (Hartz,
+J., writing separately) (explaining that “[t]he McDonnell
+Douglas framework only creates confusion and distracts
+courts from ‘the ultimate question’ ” and that the doctrine
+“should be abandoned”); Loeb v. Textron, Inc., 600 F. 2d
+1003, 1016 (CA1 1979) (explaining that “the subtleties of
+McDonnell Douglas are confusing” and “have caused con-
+siderable difficulty for judges of all levels”); Brockbank v.
+U. S. Bancorp, 506 Fed. Appx. 604, 611 (CA9 2013) (Rip-
+ple, J., concurring in part and dissenting in part) (explain-
+ing that McDonnell Douglas causes confusion for courts);
+Paup v. Gear Prods., Inc., 327 Fed. Appx. 100, 113 (CA10
+2009) (per curiam) (joined by Gorsuch, J.) (explaining that
+McDonnell Douglas has been criticized for “improperly di-
+verting attention away from the real question”); see also T.
+Tymkovich, The Problem With Pretext, 85 Denver U. L.
+Rev. 503, 519–529 (2008) (describing the ways in which
+McDonnell Douglas has caused confusion).
+   I am not aware of many precedents that have caused
+more confusion than this one. By my best lights, a Title VII
+claim should survive summary judgment so long as the
+plaintiff establishes a genuine dispute of material fact
+about each element of his claim. See Fed. Rule Civ. Proc.
+56(a). I am confident that lower courts know how to apply
+Rule 56 and make the familiar summary-judgment deter-
+mination. I am skeptical that McDonnell Douglas is help-
+ing anyone perform that task.3
+——————
+  3 McDonnell Douglas causes confusion beyond the summary-judgment
+
+context too. For example, the framework is so confusing that some courts
+8                   HITTLE v. CITY OF STOCKTON
+
+                          THOMAS, J., dissenting
+
+                               III
+   This case squarely presents the question whether
+McDonnell Douglas should be overruled. Given the wide-
+spread confusion caused by McDonnell Douglas, and given
+the frequency with which courts encounter Title VII cases,
+it behooves us to revisit McDonnell Douglas and offer clear
+guidance on how to determine whether a Title VII claim
+survives summary judgment.
+   This petition provides an opportunity to do so. Petitioner
+Ronald Hittle, a devout Christian, served as fire chief for
+the city of Stockton, California, from 2005 to 2011. While
+employed by the city, Hittle’s supervisor directed him to at-
+tend a leadership training program. After Hittle did so, his
+supervisor chastised him for selecting a religious program.
+The city then hired an outside investigator to investigate,
+among other things, Hittle’s attendance at this religious
+leadership training. The investigator “interrogated Hittle
+at length” regarding his Christian faith and ultimately
+found that Hittle had committed misconduct. 101 F. 4th
+1000, 1008–1009 (CA9 2024). According to the investigator,
+two of the four “most serious acts of misconduct” were:
+“[i]nappropriate use of City time and a City vehicle to at-
+tend a religious event,” and “[f]avoritism . . . regarding cer-
+tain employees of the department in approving their inap-
+propriate attendance on City time of a religious event.” 2
+Excerpts of Record in No. 22–15485 (CA9), ECF Doc. 26–3,
+p. 225. After reviewing the investigator’s findings, the city
+sent Hittle a “notice of its intent to remove him from City
+service . . . for the reasons stated” in the investigator’s re-
+
+——————
+do not allow any discussion of it in jury instructions. See, e.g., Whitting-
+ton v. Nordam Group Inc., 429 F. 3d 986, 993 (CA10 2005) (“We have
+repeatedly stated that juries are not to apply the McDonnell Douglas
+framework”); see also Vance v. Ball State Univ., 570 U. S. 421, 444–445,
+and n. 13 (2013) (emphasizing the confusion caused by McDonnell Doug-
+las in the jury-instruction context).
+                 Cite as: 604 U. S. ____ (2025)            9
+
+                    THOMAS, J., dissenting
+
+port. 101 F. 4th, at 1010. Hittle sued the city and its lead-
+ership, alleging that his termination was the result of un-
+lawful religious discrimination in violation of Title VII.
+   The District Court analyzed Hittle’s claims under the
+McDonnell Douglas framework and entered summary judg-
+ment for the City on the ground that Hittle had “not shown
+sufficient evidence of pretext to survive summary judg-
+ment.” 2022 WL 616722, *8 (ED Cal., Mar. 2, 2022). The
+Ninth Circuit affirmed for the same reason—that Hittle
+had failed to “demonstrate that Defendants’ legitimate non-
+discriminatory reasons for firing him were mere pretext for
+religious discrimination.” 101 F. 4th, at 1017. Both deci-
+sions below rested on a purported failure to satisfy a com-
+ponent of McDonnell Douglas. Accordingly, this case pre-
+sents us with an opportunity to revisit McDonnell Douglas
+and decide whether its use at summary judgment comports
+with Rule 56.
+   This case highlights how McDonnell Douglas may distort
+a lower court’s analysis. Hittle presented “ample” evidence
+of discriminatory intent on the part of those who decided to
+terminate him. 101 F. 4th, at 1022 (VanDyke, J., dissent-
+ing from denial of rehearing en banc). That evidence is
+more than likely sufficient for Hittle to establish a genuine
+dispute of material fact as required by Rule 56. See id., at
+1018–1019 (Callahan, J., dissenting from denial of rehear-
+ing en banc); id., at 1019 (Ikuta, J., dissenting from denial
+of rehearing en banc); id., at 1026 (opinion of VanDyke, J.).
+Yet, after applying McDonnell Douglas, the District Court
+and the Ninth Circuit ruled for the city.
+                        *     *     *
+  I would have taken this opportunity to revisit McDonnell
+Douglas and decide whether its burden-shifting framework
+remains a workable and useful evidentiary tool. I respect-
+fully dissent from the denial of certiorari.

@@ -1,0 +1,67 @@
+Cite as: 604 U. S. ____ (2024)            1
+
+                           Per Curiam
+
+SUPREME COURT OF THE UNITED STATES
+    JOHN Q. HAMM, COMMISSIONER, ALABAMA
+       DEPARTMENT OF CORRECTIONS v.
+            JOSEPH CLIFTON SMITH
+   ON PETITION FOR WRIT OF CERTIORARI TO THE UNITED
+  STATES COURT OF APPEALS FOR THE ELEVENTH CIRCUIT
+             No. 23–167.   Decided November 4, 2024
+
+   PER CURIAM.
+   Joseph Clifton Smith was sentenced to death for the mur-
+der of Durk Van Dam. The U. S. District Court for the
+Southern District of Alabama vacated Smith’s death sen-
+tence after concluding that he is intellectually disabled. See
+Atkins v. Virginia, 536 U. S. 304 (2002). Smith has ob-
+tained five full-scale IQ scores, ranging from 72 to 78.
+Smith’s claim of intellectual disability depended in part on
+whether his IQ is 70 or below. The District Court found
+that Smith’s IQ could be as low as 69 given the standard
+error of measurement for his lowest score of 72. The Dis-
+trict Court then vacated the death sentence, and the U. S.
+Court of Appeals for the Eleventh Circuit affirmed. Smith
+v. Commissioner, Ala. Dept. of Corrections, 67 F. 4th 1335,
+1354 (2023).
+   Analyzing Smith’s intellectual functioning requires eval-
+uating his various IQ scores. In Hall v. Florida, 572 U. S.
+701, 714 (2014), this Court stated that “when a person has
+taken multiple tests, each separate score must be assessed”
+considering the standard error of measurement. The Court
+further noted that “the analysis of multiple IQ scores jointly
+is a complicated endeavor.” Ibid. This Court has not spec-
+ified how courts should evaluate multiple IQ scores. See
+ibid.; Moore v. Texas, 581 U. S. 1 (2017); Brumfield v. Cain,
+576 U. S. 305 (2015).
+   The Eleventh Circuit’s opinion can be read in two ways.
+On the one hand, the Eleventh Circuit’s opinion might be
+2                      HAMM v. SMITH
+
+                         Per Curiam
+
+read to afford conclusive weight to the fact that the lower
+end of the standard-error range for Smith’s lowest IQ score
+is 69. That analysis would suggest a per se rule that the
+lower end of the standard-error range for an offender’s low-
+est score is dispositive. On the other hand, the Eleventh
+Circuit also approvingly cited the District Court’s determi-
+nation that Smith’s lowest score is not an outlier when con-
+sidered together with his higher scores. That analysis
+would suggest a more holistic approach to multiple IQ
+scores that considers the relevant evidence, including as ap-
+propriate any relevant expert testimony.
+   The Eleventh Circuit’s opinion is unclear on this point,
+and this Court’s ultimate assessment of any petition for cer-
+tiorari by the State may depend on the basis for the Elev-
+enth Circuit’s decision. Therefore, we grant the petition for
+certiorari and Smith’s motion for leave to proceed in forma
+pauperis, vacate the judgment of the Eleventh Circuit, and
+remand the case for further consideration consistent with
+this opinion.
+                                             It is so ordered.
+
+  JUSTICE THOMAS and JUSTICE GORSUCH would grant the
+petition for a writ of certiorari and set the case for argu-
+ment.

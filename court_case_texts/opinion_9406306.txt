@@ -1,0 +1,189 @@
+Cite as: 600 U. S. ____ (2023)             1
+
+                     Statement of ALITO, J.
+
+SUPREME COURT OF THE UNITED STATES
+    ALICIA THOMPSON v. JANELLE HENDERSON
+  ON PETITION FOR WRIT OF CERTIORARI TO THE SUPREME
+                COURT OF WASHINGTON
+               No. 22–823.   Decided June 30, 2023
+
+   The petition for a writ of certiorari is denied.
+   Statement of JUSTICE ALITO, with whom JUSTICE
+THOMAS joins, respecting the denial of certiorari.
+   I concur in the denial of certiorari because this case is in
+an interlocutory posture, and it is not clear whether it pre-
+sents any “federal issue” that has been “finally decided by
+the” Washington Supreme Court. Cox Broadcasting Corp.
+v. Cohn, 420 U. S. 469, 480 (1975); see 28 U. S. C. §1257.
+But if the Washington courts understand the decision below
+to be as sweeping as it appears, review may eventually be
+required.
+   This case started as an ordinary tort suit over a car acci-
+dent. The victim of the accident, plaintiff Janelle Hender-
+son, is black, as was her trial counsel. Alicia Thompson, the
+defendant, is white, as was her trial counsel. Thompson
+admitted fault, so the suit was over damages. Henderson
+claimed that the whiplash she suffered from the accident
+“seriously exacerbated” her Tourette’s syndrome, and she
+asked for $3.5 million in damages. 200 Wash. 2d 417, 422–
+424, 518 P. 3d 1011, 1017 (2022). Defense counsel naturally
+tried to convince the jury that such a large award was not
+justified, and the jury, which awarded Henderson only
+$9,200, was apparently persuaded. Id., at 422, 518 P. 3d,
+at 1017. Henderson moved for a new trial, claiming that
+the small award was based on racial bias, but the trial court
+denied the motion without a hearing. Id., at 428, 518 P. 3d,
+at 1019–1020.
+   In a remarkable decision, the Washington Supreme
+2                THOMPSON v. HENDERSON
+
+                     Statement of ALITO, J.
+
+Court reversed due to the possibility that the jury’s award
+was tainted by prejudice, and it remanded for a hearing
+that appears to have no precedent in American law. In sup-
+port of its decision, the court cited several statements made
+by defense counsel in her closing argument. It pointed to
+defense counsel’s description of Henderson as “quite com-
+bative” on the witness stand and her description of Thomp-
+son as “intimidated and emotional about the process.” Id.,
+at 425, 518 P. 3d, at 1018 (internal quotation marks omit-
+ted; emphasis in original). The court found that these com-
+ments played on stereotypes about the “ ‘angry Black
+woman’ ” and the “victimhood” of white women. Id., at 436–
+437, and n. 8, 518 P. 3d, at 1023–1024, and n. 8. The court
+also cited defense counsel’s insinuation that Henderson was
+motivated by a desire for a financial windfall, as well as her
+suggestion that Henderson could not have suffered $3.5
+million in damages since she had not even mentioned the
+accident when she saw her doctor a short time thereafter.
+Id., at 425, 518 P. 3d, at 1018. The court thought that this
+argument “alluded to racist stereotypes”—that black
+women are “lazy, deceptive, and greedy” and are “untrust-
+worthy and motivated by the desire to acquire an unearned
+financial windfall.” Id., at 437, 518 P. 3d, at 1024. The
+court also faulted defense counsel for suggesting that Hen-
+derson’s lay witnesses, all of whom were black, had been
+prepared or coached because they all used the same
+phrase—“ ‘life of the party’ ”—to describe Henderson’s per-
+sonality before the accident. Ibid. The court viewed this
+tactic as inviting jurors to make decisions about these wit-
+nesses “as a group and . . . based on biases about race and
+truthfulness.” Id., at 438, 518 P. 3d, at 1024.
+   Because of these comments by defense counsel, the court
+found that an objective observer “could conclude that rac-
+ism was a factor in the verdict,” and it therefore held “that
+Henderson is entitled to an evidentiary hearing on her new
+                  Cite as: 600 U. S. ____ (2023)              3
+
+                      Statement of ALITO, J.
+
+trial motion.” Id., at 429, 439, 518 P. 3d, at 1020, 1025 (em-
+phasis in original). The court added that “[a]t that hearing,
+the [trial] court must presume racism was a factor in the
+verdict and Thompson bears the burden of proving it was
+not.” Id., at 429, 518 P. 3d, at 1020.
+   The Washington Supreme Court’s decision raises serious
+and troubling issues of due process and equal protection. In
+some cases, it will have the practical effect of inhibiting an
+attorney from engaging in standard and long-accepted trial
+practices: attempting to undermine the credibility of ad-
+verse witnesses, seeking to bolster the credibility of the at-
+torney’s client, raising the possibility of a counterparty’s pe-
+cuniary motives, and suggesting that witnesses may have
+been coached or coordinated their stories. Such tactics are
+common and have long been viewed as proper features of
+our adversarial system. See, e.g., Geders v. United States,
+425 U. S. 80, 89–90 (1976) (emphasizing that “[s]killful
+cross-examination” is a remedy to deal with “ ‘coached’ wit-
+nesses”); Marcic v. Reinauer Transp. Cos., 397 F. 3d 120,
+125 (CA2 2005) (“A claim for money damages does create a
+financial incentive to be untruthful, and it was not im-
+proper for opposing counsel to invoke this incentive in an
+attempt to impeach plaintiff ”); Fed. Rule Evid.
+801(d)(1)(B)(i) (contemplating impeachment based on “im-
+proper influence or motive”).
+   “ ‘Due process requires that there be an opportunity to
+present every available defense,’ ” Lindsey v. Normet, 405
+U. S. 56, 66 (1972) (quoting American Surety Co. v. Bald-
+win, 287 U. S. 156, 168 (1932)), but the decision below at-
+taches a high price to the use of these run-of-the-mill de-
+fenses in cases where parties are of particular races. The
+Washington Supreme Court endorsed an evidentiary hear-
+ing based on the mere “possibility” of bias, and its analysis
+appears to hold that such litigation strategies per se raise
+at least the “possibility” of such bias. 200 Wash. 2d, at 434,
+518 P. 3d, at 1023 (emphasis added). Moreover, the State
+4                THOMPSON v. HENDERSON
+
+                     Statement of ALITO, J.
+
+Supreme Court’s rule requires the nonmoving party to
+prove at a hearing not that it did not intend to appeal to
+racial bias, but that racial bias (perhaps even subconscious
+bias) had no impact on the jurors. See ibid. How the Wash-
+ington Supreme Court thinks this can be done is unclear.
+   In sum, the opinion below, taken at face value, appears
+to mean that in any case between a white party and a black
+party, the attorney for the white party must either operate
+under special, crippling rules or expect to face an eviden-
+tiary hearing at which racism will be presumed and the at-
+torney will bear the burden of somehow proving his or her
+innocence. It is possible that the Washington Supreme
+Court will subsequently interpret its brand-new decision
+more narrowly, but the procedures it appears to set out
+would raise serious due-process concerns.
+   The Washington Supreme Court’s opinion is also on a col-
+lision course with the Equal Protection Clause, as our re-
+cent opinion in Students for Fair Admissions, Inc. v. Presi-
+dent and Fellows of Harvard College, 600 U. S. ___ (2023)
+(SFFA), demonstrates. The procedures the state court has
+imposed appear likely to have the effect of cordoning off
+otherwise-lawful areas of inquiry and argument solely be-
+cause of race, violating the central constitutional command
+that the law must “be the same for the black as for the
+white; that all persons . . . shall stand equal before the laws
+of the States.” Id., at ___ (slip op., at 10) (quoting Strauder
+v. West Virginia, 100 U. S. 303, 307 (1880)). The Washing-
+ton Supreme Court justified its prophylactic rules in part
+by reasoning that “[r]acism is endemic” in our society, 200
+Wash. 2d, at 421, 518 P. 3d, at 1016, and that “implicit, in-
+stitutional, and unconscious biases, in addition to purpose-
+ful discrimination, have influenced jury verdicts in Wash-
+ington State,” id., at 435, 518 P. 3d, at 1023 (emphasis in
+original). But as we reaffirmed in SFFA, the Fourteenth
+Amendment’s equal-treatment principle yields only when
+necessary to remediate “specific, identified instances of . . .
+                  Cite as: 600 U. S. ____ (2023)              5
+
+                      Statement of ALITO, J.
+
+discrimination that violat[e] the Constitution or a statute,”
+not generalized past or ongoing discrimination. 600 U. S.,
+at ___ (slip op., at 15). The decision of the Washington Su-
+preme Court, however, threatens “to inject racial consider-
+ations into every [litigation] decision” parties make. Texas
+Dept. of Housing and Community Affairs v. Inclusive Com-
+munities Project, Inc., 576 U. S. 519, 543 (2015).
+   Nothing in the papers before us suggests that defense
+counsel would have tried this case differently or that the
+jury award would have been larger if the races of the plain-
+tiff and defendant had been different. As a result, the deci-
+sion below, far from combating racism, institutionalizes a
+variation of that odious practice. See SFFA, 600 U. S., at
+___ (slip op., at 38) (discussing the unfitness of the judiciary
+to determine whether reliance on race is benevolent rather
+than malign).
+   The decision below, like the decision in Roberts v. McDon-
+ald, No. 22–757, in which I have filed a separate statement,
+illustrates the danger of departing from the foundational
+principle that in the United States all people are entitled to
+“equal justice under law,” as the façade of our building pro-
+claims. Every one of the 330 million inhabitants of our
+country is a unique individual and must be treated as such
+by the law. It is not an exaggeration to say that our extraor-
+dinarily diverse population will not be able to live and work
+together harmoniously and productively if we depart from
+that principle and succumb to the growing tendency in
+many quarters to divide Americans up by race or ancestry.

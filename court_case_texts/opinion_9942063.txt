@@ -1,0 +1,114 @@
+Cite as: 601 U. S. ____ (2024)            1
+
+                  Statement of SOTOMAYOR, J.
+
+SUPREME COURT OF THE UNITED STATES
+                 IN RE MICHAEL BOWE
+        ON PETITION FOR WRIT OF HABEAS CORPUS
+            No. 22–7871. Decided February 20, 2024
+
+   The petition for a writ of habeas corpus is denied.
+   Statement of JUSTICE SOTOMAYOR, with whom JUSTICE
+JACKSON joins, respecting the denial of the petition for a
+writ of habeas corpus.
+   Under §2244(b)(1) of the Antiterrorism and Effective
+Death Penalty Act of 1996 (AEDPA), a federal court must
+dismiss a “claim presented in a second or successive habeas
+corpus application under section 2254 that was presented
+in a prior application.” 28 U. S. C. §2244(b)(1). State pris-
+oners seek federal postconviction relief under §2254. Fed-
+eral prisoners seek postconviction relief under §2255. This
+petition raises the question whether §2244(b)(1)’s bar,
+which explicitly references only §2254, also applies to a
+claim by a federal prisoner who brings a successive chal-
+lenge to his conviction under §2255.
+   The Government agrees with Bowe that §2244(b)(1)’s
+plain language covers only challenges by state prisoners un-
+der §2254. Three Circuits now agree with that interpreta-
+tion. See Jones v. United States, 36 F. 4th 974, 982 (CA9
+2022) (“The plain text of §2244(b)(1) by its terms applies
+only to state prisoners’ applications”); In re Graham, 61 F.
+4th 433, 438 (CA4 2023); Williams v. United States, 927
+F. 3d 427, 434 (CA6 2019). But six Circuits disagree. See
+Winarske v. United States, 913 F. 3d 765, 768–769 (CA8
+2019); In re Bourgeois, 902 F. 3d 446, 447 (CA5 2018); In re
+Baptiste, 828 F. 3d 1337, 1339–1340 (CA11 2016); United
+States v. Winkelman, 746 F. 3d 134, 135–136 (CA3 2014);
+Gallagher v. United States, 711 F. 3d 315 (CA2 2013); Tay-
+lor v. Gilkey, 314 F. 3d 832, 836 (CA7 2002).
+2                        IN RE BOWE
+
+                  Statement of SOTOMAYOR, J.
+
+   JUSTICE KAVANAUGH has previously expressed his desire
+for this Court to resolve this split. Avery v. United States,
+589 U. S. ___, ___ (2020) (statement respecting denial of cer-
+tiorari) (slip op., at 2). I now join him. There is a reason,
+however, that this is the first case to reach the Court pre-
+senting this question since he welcomed petitions on the
+split in Avery. There are considerable structural barriers to
+this Court’s ordinary review via certiorari petition.
+   A petition cannot reach this Court from the three Circuits
+that read §2244(b)(1) to apply only to state prisoners. Be-
+fore a federal prisoner can file a second or successive habeas
+§2255 motion, a court of appeals must certify it. See 28
+U. S. C. §2255(h). When a federal prisoner files a second or
+successive §2255 motion that raises an issue he has raised
+previously, neither the court of appeals nor the district
+court will apply §2244(b)(1)’s bar. If the court of appeals
+certifies the motion, the district court will decide it on the
+merits. The Government, because it agrees that §2244(b)(1)
+applies only to state prisoners, will not seek certiorari and
+the question will be left behind.
+   A petition cannot reach this Court from the six Circuits
+that apply §2244(b)(1) to both state and federal prisoners
+either. In those Circuits, the court of appeals will apply
+§2244(b)(1)’s bar and deny certification to any second or
+successive §2255 motion that raises an issue the prisoner
+has previously raised. Neither the Government nor the
+prisoner can seek review of that interpretation of
+§2244(b)(1) from this Court, however, because AEDPA sep-
+arately bars petitions for certiorari stemming from “[t]he
+grant or denial of an authorization by a court of appeals to
+file a second or successive application.” §2244(b)(3)(E).
+   Here, the Eleventh Circuit denied Bowe authorization to
+file his successive §2255 motion based on §2244(b)(1).
+Faced with §2244(b)(3)(E)’s bar on petitioning for review of
+that denial in this Court, Bowe instead invokes this Court’s
+jurisdiction to entertain original habeas petitions under
+                     Cite as: 601 U. S. ____ (2024)                     3
+
+                      Statement of SOTOMAYOR, J.
+
+§2241(a). The standard for this Court’s consideration of an
+original habeas petition is a demanding one. A petitioner
+must show both that “adequate relief cannot be obtained in
+any other form or from any other court” and “exceptional
+circumstances warrant the exercise of the Court’s discre-
+tionary powers.” Rule 20.4(a). Whether Bowe has met that
+demanding standard here is questionable, because it is not
+clear that, absent §2244(b)(1)’s bar, the Eleventh Circuit
+would have certified his §2255 motion.
+   The Circuit split, however, is still an important issue for
+this Court to consider in a more appropriate case. I would
+welcome the invocation of this Court’s original habeas ju-
+risdiction in a future case where the petitioner may have
+meritorious §2255 claims. The Government also suggests
+that a court of appeals seeking clarity could certify the
+question to this Court. In the meantime, in light of the de-
+manding standard for this Court’s jurisdiction over original
+habeas petitions, I encourage the courts of appeals to recon-
+sider this question en banc, where appropriate.*
+
+
+
+
+——————
+   *For instance, it may be unnecessary to revisit the question en banc
+where statements from prior cases examining §2244(b)(1)’s bar are dicta,
+rather than holdings. See, e.g., Williams v. United States, 927 F. 3d 427,
+435–436 (CA6 2019) (revisiting the §2244(b)(1) analysis after concluding
+that statements from two published prior cases were unreasoned dicta);
+King v. Brownback, 601 U. S. ___, ___ (2023) (statement of SOTOMAYOR,
+J., respecting denial of certiorari) (noting different avenues for lower
+courts to reconsider the application of a statutory bar).

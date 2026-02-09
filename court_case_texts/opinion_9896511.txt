@@ -1,0 +1,319 @@
+Cite as: 601 U. S. ____ (2023)            1
+
+                     JACKSON, J., dissenting
+
+SUPREME COURT OF THE UNITED STATES
+   MICHAEL JOHNSON v. SUSAN PRENTICE, ET AL.
+   ON PETITION FOR WRIT OF CERTIORARI TO THE UNITED
+   STATES COURT OF APPEALS FOR THE SEVENTH CIRCUIT
+            No. 22–693.   Decided November 13, 2023
+
+  The petition for a writ of certiorari is denied.
+  JUSTICE JACKSON, with whom JUSTICE SOTOMAYOR and
+JUSTICE KAGAN join, dissenting from the denial of certio-
+rari.
+  This Court has long held that the test for evaluating an
+Eighth Amendment challenge to a prisoner’s conditions of
+confinement involves determining whether prison officials
+acted with “deliberate indifference” to a substantial risk to
+an inmate’s health or safety. Estelle v. Gamble, 429 U. S.
+97, 104 (1976). With respect to the Eighth Amendment
+claim at issue in this case, the Court of Appeals for the Sev-
+enth Circuit affirmed the grant of summary judgment to
+prison officials without applying that well-established
+standard. Given this indisputable legal error, I would grant
+certiorari and summarily reverse.
+                               I
+                              A
+  For nearly three years, petitioner Michael Johnson—
+whom the Illinois Department of Corrections has classified
+as “seriously mentally ill” based on his bipolar disorder, se-
+vere depression, and other diagnosed conditions—was held
+in solitary confinement at Pontiac Correctional Center, a
+prison two hours from Chicago. During that time, Johnson
+spent nearly every hour of his existence in a windowless,
+perpetually lit cell about the size of a parking space. His
+cell was poorly ventilated, resulting in unbearable heat and
+noxious odors. The space was also unsanitary, often caked
+with human waste. And because Pontiac officials would not
+2                  JOHNSON v. PRENTICE
+
+                     JACKSON, J., dissenting
+
+provide cleaning supplies to Johnson unless he purchased
+them from the commissary, he was frequently forced to
+clean that filth with his bare hands. Johnson was allowed
+out of his cell to shower only once per week, for 10 brief
+minutes.
+   As Members of this Court have recognized, the practice
+of solitary confinement “exact[s] a terrible price.” Davis v.
+Ayala, 576 U. S. 257, 289 (2015) (Kennedy, J., concurring);
+see also Apodaca v. Raemisch, 586 U. S. ___, ___–___ (2018)
+(statement of SOTOMAYOR, J., respecting denial of certio-
+rari) (slip op., at 6–7); Ruiz v. Texas, 580 U. S. 1191, 1192
+(2017) (Breyer, J., dissenting from denial of stay of execu-
+tion). Indeed, “serious objections” to this form of imprison-
+ment have been brought to this Court for more than a cen-
+tury. In re Medley, 134 U. S. 160, 168 (1890). In this
+regard, Johnson’s case is not unusual.
+   But Johnson’s solitary confinement was unusually severe
+in another respect. In addition to the typical hardships as-
+sociated with solitary confinement, prison officials com-
+pletely deprived Johnson of exercise for nearly all of his in-
+carceration at Pontiac. In the ordinary course, even when
+in solitary confinement, Pontiac inmates are permitted to
+have recreation time in the prison yard for at least eight
+hours per week. See Ill. Admin. Code, tit. 20, §504.670
+(2023). While in the yard, inmates can access a caged out-
+door exercise area that has some basic exercise equipment
+and enough open space in which to move about.
+   In Johnson’s case, however, Pontiac officials refused to
+provide even this modest relief. Rather, Johnson was re-
+peatedly placed under so-called “yard restrictions” as pun-
+ishment for various infractions, most of them minor, which
+resulted in the denial of any access to recreation outside his
+cell. Each yard restriction was imposed for a period of be-
+tween 30 and 90 days, but the restrictions were stacked
+such that, in total, Johnson received over three years’ worth
+of yard restrictions. The cramped confines of Johnson’s cell
+                     Cite as: 601 U. S. ____ (2023)                    3
+
+                        JACKSON, J., dissenting
+
+prevented him from exercising there. Thus, for three years,
+Johnson had no opportunity at all to stretch his limbs or
+breathe fresh air.1
+   The consequences of such a prolonged period of exercise
+deprivation were predictably severe. Most notably, John-
+son’s mental state deteriorated rapidly. He suffered from
+hallucinations, excoriated his own flesh, urinated and defe-
+cated on himself, and smeared feces all over his body and
+cell. Johnson became suicidal and sometimes engaged in
+misconduct with the hope that prison guards would beat
+him to death. His muscles also became prone to spasms and
+cramping, and he often complained of overwhelming fa-
+tigue. He developed respiratory difficulties, including pain-
+ful chest contractions and nosebleeds. Worse still, John-
+son’s dire physical condition led to further yard restrictions,
+as prison guards faulted him for being disruptive and hav-
+ing an unclean cell. This vicious cycle continued month af-
+ter month until Johnson was transferred to a specialized
+mental-health treatment unit, where his condition im-
+proved.
+                             B
+  Just before his transfer, Johnson filed a lawsuit in the
+Northern District of Illinois against the Pontiac officials
+who had deprived him of exercise. Proceeding pro se under
+Rev. Stat. §1979, 42 U. S. C. §1983, Johnson made various
+——————
+  1 It appears that Johnson received 16 yard-restriction sanctions begin-
+
+ning in January 2013 and that 10 of those restrictions were imposed for
+some variation of “insolence,” “damage or misuse of property,” or “diso-
+beying a direct order.” 3 App. in No. 18–3535 (CA7), pp. 575–578 (alter-
+ations omitted). Only four—three of which involved spitting on another
+inmate, and one that involved throwing liquid at prison staff—could be
+characterized as involving any violence. See id., at 576–578. Nor did
+any of these infractions involve misconduct that occurred in the yard.
+Thus, as one judge noted below, “[m]any, if not most, of the disciplinary
+infractions in this case [did] not signify any acute security risk.” 29
+F. 4th 895, 913–914 (CA7 2022) (Rovner, J., dissenting).
+4                   JOHNSON v. PRENTICE
+
+                     JACKSON, J., dissenting
+
+Eighth Amendment claims, and also repeatedly pleaded for
+the District Court to appoint him an attorney, noting that
+his mental state made it difficult for him to litigate his case.
+His pleas were refused, and Johnson litigated the case on
+his own. After the prison officials moved for summary judg-
+ment, Johnson mustered only a partially completed, hand-
+written opposition brief, which ended with the statement “I
+could not finish.” 3 App. in No. 18–3535 (CA7), p. 742. The
+District Court granted summary judgment to the Pontiac
+officials.
+   Over Judge Rovner’s dissent, the Seventh Circuit af-
+firmed. As relevant here, the panel pointed to Pearson v.
+Ramos, 237 F. 3d 881 (CA7 2001), and restated the two-part
+holding of that Circuit precedent: (1) that a single “90-day
+period of no yard privileges as a sanction for misconduct
+does not inflict cruel and unusual punishment on an inmate
+in segregation,” and (2) that “imposing consecutive 90-day
+periods of no-yard privileges for separate misconduct viola-
+tions does not violate the Eighth Amendment unless the
+sanctions were meted out for ‘some utterly trivial infraction
+of the prison’s disciplinary rules.’ ” 29 F. 4th 895, 904 (2022)
+(quoting Pearson, 237 F. 3d, at 884–885). Applying that le-
+gal standard to the facts presented in Johnson’s case, the
+panel reasoned that, while “Johnson’s cumulative yard re-
+strictions were far longer” than the total one year of yard
+restrictions imposed in Pearson, Johnson did not, and could
+not, argue “that his misconduct was trivial, either individ-
+ually or in the aggregate,” and thus “[s]ummary judgment
+for the defendants on this [Eighth Amendment] claim was
+appropriate.” 29 F. 4th, at 904–905.
+   With five judges dissenting, the entire Court of Appeals
+subsequently denied Johnson’s petition for rehearing en
+banc, rejecting his request that Pearson’s “utterly trivial in-
+fraction” rule be revisited and revised. 47 F. 4th 529 (CA7
+2022). Concurring in the rehearing denial, Judge Scudder
+characterized Johnson’s case as presenting a “difficult”
+                  Cite as: 601 U. S. ____ (2023)              5
+
+                     JACKSON, J., dissenting
+
+question that Pearson had not adequately addressed inso-
+far as Pearson suggested “that the proper Eighth Amend-
+ment focus is not on the cumulative effect of disciplinary
+infractions . . . but rather on whether each individual in-
+stance of misconduct warranted denying that access for
+some lesser increment of time.” 47 F. 4th, at 530. Judge
+Scudder recognized that Pearson’s rule was “at odds with
+the established preference of resolving Eighth Amendment
+challenges to prison conditions on their individual facts
+with legal guideposts informing the proper inquiry,” and
+thus he indicated that “[re]consideration in a future case”
+was warranted. 47 F. 4th, at 530 (citing Farmer v. Bren-
+nan, 511 U. S. 825 (1994)). But, in Judge Scudder’s view,
+Johnson’s case was not the appropriate vehicle to reassess
+“the right legal standard,” because Johnson’s pro se status
+had led to a record that was “underdeveloped on points of
+fact and law.” 47 F. 4th, at 529–530.
+                                 II
+   The “right legal standard” for evaluating Johnson’s
+Eighth Amendment no-yard-access claim is well estab-
+lished. As this Court has long explained, the Eighth
+Amendment prohibits conditions of confinement that are
+attributable to a prison official’s “deliberate indifference” to
+an inmate’s health or safety, Estelle, 429 U. S., at 104, for
+in such cases, it can be fairly said that “the official has in-
+flicted cruel and unusual punishment,” Wilson v. Seiter, 501
+U. S. 294, 299 (1991). We have also clarified the meaning
+of deliberate indifference, noting that any prison official
+who “knows of and disregards an excessive risk to inmate
+health or safety” has violated the constitutional rights of an
+inmate who is harmed by that condition. Farmer, 511 U. S.,
+at 837. And we have further specified that, in order for a
+prison official to be liable for unconstitutional deliberate in-
+difference, “the official must both be aware of facts from
+which the inference could be drawn that a substantial risk
+6                      JOHNSON v. PRENTICE
+
+                         JACKSON, J., dissenting
+
+of serious harm exists, and he must also draw the infer-
+ence.” Ibid.
+   In the cumulative no-yard-access context, then, proper
+application of the deliberate-indifference standard when
+evaluating a prison official’s motion for summary judgment
+requires consideration of two factbound factors: first,
+whether the exercise deprivation at issue posed a substan-
+tial risk to the prisoner’s health or safety, and second,
+whether prison officials “knowingly and unreasonably dis-
+regard[ed]” that risk of harm. Id., at 845–846. In other
+words, the focus of the correct assessment is on the evidence
+concerning the risks presented to the inmate and the prison
+officials’ knowledge of and response to those risks. And for
+summary judgment to be properly awarded to prison-offi-
+cial defendants, there cannot be any genuine dispute about
+the insufficiency of the prisoner’s showing related to the
+risks posed by the complained-of condition or the official’s
+knowing and deliberate disregard of them. See id., at 846.
+   Pearson’s “utterly trivial infraction” test bears no rela-
+tionship to this legal standard. As noted above, its entire
+focus is on the reasons the officials imposed the yard re-
+strictions, presumably based on the mistaken view that the
+Eighth Amendment analysis turns only on a prison official’s
+rationale for imposing the purportedly inhumane condition.
+The Pearson rule pays no attention whatsoever to the indis-
+putable risks to health or safety that a prolonged period of
+exercise deprivation can cause.2 Moreover, Pearson’s con-
+clusion that the way to evaluate a prisoner’s complaint
+
+——————
+   2 Respondents do not contest that a 3-year deprivation of exercise
+
+might implicate the Eighth Amendment insofar as it poses a substantial
+risk to an inmate’s health or safety. Nor could they. This Court has
+already determined that “deprivation of a single, identifiable human
+need such as . . . exercise” can “establish an Eighth Amendment viola-
+tion.” Wilson v. Seiter, 501 U. S. 294, 304 (1991); see also Apodaca v.
+Raemisch, 586 U. S. ___, ___ (2018) (statement of SOTOMAYOR, J., respect-
+ing denial of certiorari) (slip op., at 5) (“[T]o deprive a prisoner of any
+                     Cite as: 601 U. S. ____ (2023)                   7
+
+                        JACKSON, J., dissenting
+
+about yard restrictions that cumulatively deprive him of ex-
+ercise—by disaggregating the stacked penalties and exam-
+ining each one for its unreasonableness relative to what the
+prisoner has done to warrant that restriction—is plainly
+contrary to the thrust of a legal standard that requires con-
+sideration of “the sum total of the deprivation,” as Judge
+Scudder rightly observed. 47 F. 4th, at 530 (quoting Wilson,
+501 U. S., at 304, for the proposition that “[s]ome conditions
+of confinement may establish an Eighth Amendment viola-
+tion in combination when each would not do so alone” (em-
+phasis deleted; internal quotation marks omitted)).
+   The facts and circumstances here further indicate that
+the Seventh Circuit’s erroneous application of the Pearson
+test in lieu of the deliberate-indifference standard was not
+a harmless error in the context of Johnson’s case. The
+Court of Appeals rejected Johnson’s claim by focusing only
+on the nature and volume of Johnson’s infractions. See 29
+F. 4th, at 904–905. It did not consider the impact of cumu-
+lative exercise deprivation on Johnson’s physical and men-
+tal health, or what was known to prison officials about the
+risks of such deprivation. And there was more than enough
+evidence to support a reasonable jury finding that the over-
+all 3-year deprivation of yard time that Johnson was sub-
+jected to was the result of unconstitutional deliberate indif-
+ference. The record includes, for example, evidence of
+Johnson’s attempts to notify prison staff of the dire impacts
+that the yard restrictions had on his health. See, e.g., 1
+
+——————
+outdoor exercise for an extended period of time in the absence of an es-
+pecially strong basis for doing so is deeply troubling—and has been rec-
+ognized as such for many years”). And while the Constitution “does not
+mandate comfortable prisons,” Rhodes v. Chapman, 452 U. S. 337, 349
+(1981), it is clear beyond cavil that the Eighth Amendment does require
+“that inmates be furnished with the basic human needs,” Helling v.
+McKinney, 509 U. S. 25, 33 (1993); see also Youngberg v. Romeo, 457
+U. S. 307, 315 (1982); DeShaney v. Winnebago County Dept. of Social
+Servs., 489 U. S. 189, 200 (1989).
+8                      JOHNSON v. PRENTICE
+
+                        JACKSON, J., dissenting
+
+App. in No. 18–3535 (CA7), at 30 (writing in a prison griev-
+ance form: “I am in a cell 24 hours a day, 7 days a week. I
+am not allowed to go out of my cell for anything except
+showers once a week. . . . Due to me not being allowed to
+have outdoor exercise I . . . continuously am being injured
+physically [and] psychologically”).3
+  In short, rather than faulting Johnson for failing to pre-
+sent arguments or evidence that established the “trivial”
+nature of the behavioral infractions that precipitated the
+cumulative yard restrictions, the Seventh Circuit should
+have abandoned Pearson’s “utterly trivial infraction” rule
+and applied the well-established deliberate-indifference
+standard to analyze the state of the evidence concerning
+Johnson’s Eighth Amendment cumulative no-yard-access
+claim. If it had done so, the Circuit panel would have had
+to acknowledge that, at the very least, the deliberate-indif-
+ference inquiry presents a genuine issue of material fact for
+the jury, under the facts and circumstances presented here,
+such that summary judgment was not appropriate.
+
+
+
+
+——————
+  3 Other evidence confirms that Pontiac officials were aware of John-
+
+son’s suffering. For example, one mental-health professional at Pontiac
+reported that Johnson was “hyperactive,” and that while “on yard re-
+striction” he had “no outlet for his mania.” 2 App. in No. 18–3535 (CA7),
+at 295. By that Pontiac professional’s own account, Johnson was “re-
+stricted in his basic need[s] due to being indigent/manic.” Ibid.

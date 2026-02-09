@@ -1,0 +1,190 @@
+Cite as: 604 U. S. ____ (2025)            1
+
+                    GORSUCH, J., dissenting
+
+SUPREME COURT OF THE UNITED STATES
+                         _________________
+
+                          No. 24A790
+                         _________________
+
+
+ SCOTT BESSENT, SECRETARY OF THE TREASURY,
+ET AL. v. HAMPTON DELLINGER, SPECIAL COUNSEL
+       OF THE OFFICE OF SPECIAL COUNSEL
+    ON APPLICATION TO VACATE THE ORDER ISSUED BY
+      THE UNITED STATES DISTRICT COURT FOR THE
+                DISTRICT OF COLUMBIA
+                     [February 21, 2025]
+
+   This matter concerns the President’s action to remove
+Hampton Dellinger from his position as Special Counsel for
+the Office of Special Counsel. Dellinger challenged his
+without-cause removal in the District Court for the District
+of Columbia. See 5 U. S. C. §1211(b). On February 12,
+2025, the District Court entered a temporary restraining
+order (TRO) providing that Dellinger should remain in of-
+fice until the court ruled on his motion for a preliminary
+injunction. The District Court has scheduled a hearing on
+that motion for February 26, the day that the TRO expires.
+See Fed. Rule Civ. Proc. 65(b)(2).
+   Pending before this Court is the Government’s applica-
+tion to vacate the TRO. Dellinger has filed a Response in
+Opposition. The Government then filed a reply. The ques-
+tion is thus fully briefed before this Court.
+   Although it acknowledges that this Court typically does
+not have appellate jurisdiction over TROs, the Government
+urges us to construe the TRO as a preliminary injunction or
+to exercise jurisdiction under the All Writs Act in light of
+the core executive power assertedly restrained. Application
+31–32; see 28 U. S. C. §1292(a)(1). In his opposition,
+Dellinger repeatedly notes that the TRO will “expire by its
+terms [in] eight [now five] days,” Response in Opposition 1,
+2                  BESSENT v. DELLINGER
+
+                     GORSUCH, J., dissenting
+
+that it “lasts only for a very short duration,” id., at 15, and
+that it “is set to expire on February 26,” id., at 39.
+  In light of the foregoing, the application to vacate the or-
+der of the United States District Court for the District of
+Columbia presented to THE CHIEF JUSTICE and by him re-
+ferred to the Court is held in abeyance until February 26,
+when the TRO is set to expire.
+  JUSTICE SOTOMAYOR and JUSTICE JACKSON would deny
+the application.
+  JUSTICE GORSUCH, with whom JUSTICE ALITO joins, dis-
+senting from the order holding the application in abeyance.
+  Until recently, Hampton Dellinger served as Special
+Counsel, the head of the Office of Special Counsel. 5
+U. S. C. §1211(a). That agency oversees the enforcement of
+various statutes governing the federal workforce. §1212(a).
+The Special Counsel is appointed by the President, with the
+advice and consent of the Senate, for a five-year term.
+§1211(b).
+  On February 7, 2025, the President removed Mr.
+Dellinger from office. Complaint in No. 25–cv–385 (D DC,
+Feb. 10, 2025), ECF Doc. 1–1, Exh. A. Mr. Dellinger re-
+sponded by suing the President and other officials on Feb-
+ruary 10, claiming that §1211(b) restricted the President’s
+authority to remove him. ECF Doc. 1, at 1.
+  Mr. Dellinger also sought interim equitable relief restor-
+ing him to his post while his lawsuit unfolds. Granting that
+request, the district court issued a temporary restraining
+order (TRO) directing that Mr. Dellinger “shall continue to
+serve as the Special Counsel” until the court rules on his
+application for a preliminary injunction. ___ F. Supp. ___,
+___, 2025 WL 471022, *14 (D DC, Feb. 12, 2025). Over
+Judge Katsas’s dissent, a panel of the D. C. Circuit held it
+lacked jurisdiction to review the TRO at that time. App. to
+Application to Vacate Order 33a (App.). The President and
+other defendants promptly filed an application in this
+                  Cite as: 604 U. S. ____ (2025)            3
+
+                     GORSUCH, J., dissenting
+
+Court, asking us to vacate the district court’s order.
+   The Court instead holds the application in abeyance.
+Presumably, like the court of appeals, it harbors a concern
+that the TRO may not yet have ripened into an appealable
+order. Respectfully, I believe that it has and that each ad-
+ditional day where the order stands only serves to confirm
+the point. Unlike preliminary injunctions, of course, TROs
+are generally not appealable. See id., at 1a (citing 28
+U. S. C. §1292(a)(1)). But exceptions exist, preventing dis-
+trict courts from “shield[ing]” their “orders from appellate
+review.” Sampson v. Murray, 415 U. S. 61, 87 (1974). And
+as Judge Katsas recounted in detail below, here there are
+powerful reasons to look behind the label, acknowledge that
+this TRO presently acts as a preliminary injunction, and
+review its lawfulness. App. 50a–53a; see Sampson, 415
+U. S., at 87; 16 C. Wright, A. Miller, & E. Cooper, Federal
+Practice and Procedure §3922.1 (3d ed. 2012).
+   As a starting point in that review, consider what we know
+about the remedy the district court ordered. The court ef-
+fectively commanded the President and other Executive
+Branch officials to recognize and work with someone whom
+the President sought to remove from office. Whether la-
+beled a TRO or a preliminary injunction, that order pro-
+vided an equitable remedy. See, e.g., Advisory Committee’s
+1937 Note on Fed. Rule Civ. Proc. 65, 28 U. S. C., p. 2648;
+Fed. Equity Rule 73 (1912).
+   Under this Court’s precedents, however, a federal court
+may issue an equitable remedy only if, at the time of the
+Nation’s founding, it was a remedy “traditionally accorded
+by courts of equity.” Grupo Mexicano de Desarrollo, S. A. v.
+Alliance Bond Fund, Inc., 527 U. S. 308, 319 (1999). That
+limitation would seem to pose a problem here, for courts of
+equity at the time of the founding were apparently power-
+less to “restrain an executive officer from making a . . . re-
+moval of a subordinate appointee.” White v. Berry, 171
+U. S. 366, 377 (1898) (internal quotation marks omitted).
+4                  BESSENT v. DELLINGER
+
+                     GORSUCH, J., dissenting
+
+“No English case” involved “a bill for an injunction to re-
+strain the appointment or removal of a municipal officer.”
+In re Sawyer, 124 U. S. 200, 212 (1888). And state courts
+“denied” the “power of a court of equity to restrain . . . re-
+moval” in “many well considered” decisions. Ibid. Given
+that pattern of restraint, by the 1880s this Court considered
+it “well settled that a court of equity has no jurisdiction over
+the appointment and removal of public officers.” Ibid.
+   To be sure, throughout the Nation’s history, various pres-
+identially appointed officials like Mr. Dellinger have con-
+tested their removal—and courts have heard and passed on
+their claims. But those officials have generally sought rem-
+edies like backpay, not injunctive relief like reinstatement.
+E.g., Myers v. United States, 272 U. S. 52 (1926); Humph-
+rey’s Executor v. United States, 295 U. S. 602 (1935). The
+closest the parties have come to identifying a precedent for
+the district court’s remedial order in this case is “just a sin-
+gle, unpublished district-court decision purporting to enjoin
+the President from removing [two] government official[s]
+from office.” App. 55a (Katsas, J., dissenting) (citing Berry
+v. Reagan, No. 83–3182 (D DC, Nov. 14, 1983)). And that
+case involved members of “a temporary, multi-member
+agency,” App. 55a, not an official, like Mr. Dellinger, who
+wields significant prosecutorial and investigative power as
+the sole head of a 129-person office, Application to Vacate
+Order 6–8.
+   In response to all this, Mr. Dellinger stresses that courts
+of law have traditionally entertained petitions for writs of
+quo warranto to decide “which of two claimants [is] entitled
+to an office.” Brief in Opposition 32 (quoting Newman v.
+United States ex rel. Frizzell, 238 U. S. 537, 544 (1915)).
+But it is unclear how Mr. Dellinger might defend the dis-
+trict court’s exercise of its equitable remedial authority by
+pointing to a distinct legal remedy he never sought, the dis-
+trict court never invoked, and the procedures for which he
+did not follow. See D. C. Code §16–3501 et seq. (2024);
+                     Cite as: 604 U. S. ____ (2025)                     5
+
+                        GORSUCH, J., dissenting
+
+Johnson v. Manhattan R. Co., 289 U. S. 479, 502 (1933);
+Andrade v. Lauer, 729 F. 2d 1475, 1498 (CADC 1984). If
+anything, the (potential) availability of quo warranto would
+seem to cut against recognizing a novel equitable power to
+return an agency head to his office, for a “court of equity
+will not entertain a case for relief where the complainant
+has an adequate legal remedy.” Case v. Beauregard, 101
+U. S. 688, 690 (1880).
+   The district court grappled with none of these complica-
+tions before ordering Mr. Dellinger’s reinstatement. And if
+there are answers to the questions its remedial order raises,
+they appear nowhere in that court’s decision. Accordingly,
+I would vacate the district court’s order and remand with
+instructions to consider the “boundaries of traditional equi-
+table relief.” Grupo Mexicano, 527 U. S., at 322.*
+
+
+
+
+——————
+  *Given the questions associated with the district court’s remedy, I do
+not address at this time the President’s contention, Application to Vacate
+Order 11–12, and Judge Katsas’s assessment, App. 54a–57a, that the
+district court’s order also relies on a mistaken view of the merits of Mr.
+Dellinger’s removal claim.

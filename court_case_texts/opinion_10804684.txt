@@ -1,0 +1,143 @@
+Cite as: 604 U. S. ____ (2025)            1
+
+                      ALITO, J., dissenting
+
+SUPREME COURT OF THE UNITED STATES
+ MICHAEL PINA v. ESTATE OF JACOB DOMINGUEZ
+   ON PETITION FOR WRIT OF CERTIORARI TO THE UNITED
+    STATES COURT OF APPEALS FOR THE NINTH CIRCUIT
+             No. 24–152.   Decided February 24, 2025
+
+    The petition for a writ of certiorari is denied.
+   JUSTICE ALITO, with whom JUSTICE THOMAS joins, dis-
+senting from the denial of certiorari.
+    To overcome qualified immunity, a party must show that
+an official violated a federal right that “was ‘clearly estab-
+lished’ at the time of [the] alleged misconduct.” Pearson v.
+Callahan, 555 U. S. 223, 232 (2009). This requirement en-
+sures that officials are not subject to the burdens of litiga-
+tion or held liable for conduct without notice that such con-
+duct is unlawful. See Kisela v. Hughes, 584 U. S. 100, 104
+(2018) (per curiam); Hope v. Pelzer, 536 U. S. 730, 739
+(2002). Needless to say, a judicial decision postdating an
+official’s alleged misconduct is of no use in determining
+what was “clearly established” at the time. The courts
+below badly fumbled this basic tenet of our qualified-
+immunity doctrine by treating a later-in-time Circuit prec-
+edent as a basis for the existence of “clearly established
+law.” I would grant the petitioner’s request for summary
+reversal to correct this flagrant error.
+    In 2017, officers of the San Jose Police Department pro-
+cured an arrest warrant for Jacob Dominguez, a suspect in
+an armed robbery of a gas station. Based on information
+from a confidential informant, officers believed Dominguez
+was armed with a revolver. Once the officers had found
+Dominguez in his vehicle, Officer Michael Pina ordered him
+to put his hands up. Dominguez complied, but he then
+“ ‘quickly dropped his hands’ ” out of sight and “ ‘moved for-
+ward.’ ” App. to Pet. for Cert. 43a. That led Officer Pina to
+2              PINA v. ESTATE OF DOMINGUEZ
+
+                      ALITO, J., dissenting
+
+believe Dominguez was reaching for a firearm. And when
+Dominguez quickly leaned back, Officer Pina shot and
+killed him. The whole encounter lasted less than one mi-
+nute.
+   Dominguez’s estate sued Officer Pina under Rev. Stat.
+§1979, 42 U. S. C. §1983, and a jury found Officer Pina lia-
+ble for excessive force in violation of the Fourth Amend-
+ment. The jury also returned a special interrogatory, an-
+swering “yes” to the question, “Did decedent Jacob
+Dominguez drop his hands and lean forward before Michael
+Pina fired his weapon?” App. to Pet. for Cert. 58a. Follow-
+ing trial, Officer Pina moved for judgment as a matter of
+law on qualified-immunity grounds, but the District Court
+denied his motion, anchoring its clearly-established-law in-
+quiry in Peck v. Montoya, 51 F. 4th 877 (CA9 2022). See
+App. to Pet. for Cert. 47a–49a.
+   The Ninth Circuit affirmed in an unpublished decision.
+Like the District Court, the Ninth Circuit relied on its deci-
+sion in Peck. It viewed that decision as providing sufficient
+evidence that Officer Pina “violated Dominguez’s Fourth
+Amendment right under clearly established law” and was
+thus “not entitled to qualified immunity.” App. to Pet. for
+Cert. 7a.
+   The lower courts made a serious misstep in their analy-
+sis. Even if it is assumed that controlling Circuit precedent
+may constitute clearly established law, Peck, a 2022 deci-
+sion, was not the law in the Ninth Circuit when the events
+of this case unfolded in 2017. As such, Peck, “decided after
+the shooting at issue, is of no use in the clearly established
+inquiry.” City of Tahlequah v. Bond, 595 U. S. 9, 13 (2021).
+   Perhaps realizing that reliance on Peck was anachronis-
+tic, the lower courts tried to backpedal. The District Court
+acknowledged that “Peck was decided after the events that
+occurred in our case,” but it asserted that “Peck looked to
+Cruz v. City of Anaheim,” a 2014 decision. App. to Pet. for
+Cert. 47a–48a (citing 765 F. 3d 1076 (CA9 2014)). And the
+                      Cite as: 604 U. S. ____ (2025)                     3
+
+                          ALITO, J., dissenting
+
+Ninth Circuit sneaked into a footnote of its unpublished de-
+cision the same suggestion that Peck merely identified “the
+law that Cruz clearly established.” App. to Pet. for Cert. 7a,
+n. 1.
+   Those ham-fisted rescue efforts rest on a misreading of
+Cruz. If Cruz itself could serve as the basis for clearly es-
+tablished law, then the Ninth Circuit presumably could
+have cited it directly instead of shunting it to a footnote.
+But unsurprisingly, Cruz alone does not suffice. In that
+case, officers stopped an allegedly armed suspect in his ve-
+hicle and used deadly force when the suspect reached for
+his waistband. There, the Ninth Circuit held that “[i]t
+would be unquestionably reasonable for police to shoot a
+suspect . . . if he reaches for a gun in his waistband, or even
+if he reaches there for some other reason.” 765 F. 3d, at
+1078. In the lower courts’ view, Peck simply restated Cruz’s
+conclusion “that officers may not fire at a suspect . . . absent
+some reason to believe that the suspect will soon access or
+use [a] weapon.” 51 F. 4th, at 888. But that is not a mere
+gloss on Cruz. Rather, Peck narrowed Cruz’s holding by
+eliminating the suggestion that an officer’s use of force may
+be reasonable if a suspect “reaches” for his waistband “for
+some other reason.” Cruz, 765 F. 3d, at 1078. That altera-
+tion may very well have made a difference here.* Read in
+its proper light, Peck is not a restatement of the law set
+forth in Cruz. If Peck is removed from the picture, the lower
+courts would have failed to identify any clearly established
+law that Officer Pina allegedly violated.
+——————
+  *Although the courts below did not directly rely on it as a basis of
+clearly established law, Cruz lends support to Officer Pina’s use of force.
+To start, I am skeptical that the Ninth Circuit gave adequate weight to
+the jury’s special interrogatory that Dominguez dropped his hands and
+leaned forward. Even assuming Dominguez was not reaching for a fire-
+arm as the Ninth Circuit assumed, App. to Pet. for Cert. 4a, the fact that
+he was reaching down “for some other reason” could certainly constitute
+the sort of furtive movement that justifies the use of force in a fast-
+moving police encounter, Cruz v. Anaheim, 765 F. 3d 1076, 1078 (2014).
+4              PINA v. ESTATE OF DOMINGUEZ
+
+                      ALITO, J., dissenting
+
+                         *     *    *
+  The decisions below made more than a trifling mistake.
+In the Fourth Amendment context, the clearly-established-
+law requirement provides essential notice at the “ ‘hazy bor-
+der between excessive and acceptable force.’ ” Kisela, 584
+U. S., at 105 (quoting Mullenix v. Luna, 577 U. S. 7, 18
+(2015) (per curiam)). But by holding an officer liable based
+on a judicial precedent issued after the events in question,
+the courts below ran roughshod over this key notice-bearing
+feature of our qualified-immunity jurisprudence.
+  I would summarily reverse the judgment below and reit-
+erate a point that this Court has made time and again: a
+judicial decision can serve as a basis for clearly established
+law only if it predates the allegedly unlawful conduct. See
+Bond, 595 U. S., at 13; Brosseau v. Haugen, 543 U. S. 194,
+198, 200, n. 4 (2004) (per curiam); Kisela, 584 U. S., at 104;
+Ashcroft v. al-Kidd, 563 U. S. 731, 741 (2011). The Court
+unfortunately fails to take that step, so I must respectfully
+dissent.

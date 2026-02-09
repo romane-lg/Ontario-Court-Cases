@@ -1,0 +1,334 @@
+Cite as: 598 U. S. ____ (2023)             1
+
+                    Statement of GORSUCH, J.
+
+SUPREME COURT OF THE UNITED STATES
+   CITY OF OCALA, FLORIDA v. ART ROJAS, ET AL.
+   ON PETITION FOR WRIT OF CERTIORARI TO THE UNITED
+  STATES COURT OF APPEALS FOR THE ELEVENTH CIRCUIT
+               No. 22–278.   Decided March 6, 2023
+
+   The petition for a writ of certiorari is denied.
+   Statement of JUSTICE GORSUCH respecting the denial of
+certiorari.
+   Faced with tragedy, the city of Ocala, Florida, searched
+for ways to bring the community together. After a shooting
+spree left several children injured, police appealed to com-
+munity leaders for help. A local NAACP official suggested
+to the chief of police that he contact religious leaders to fa-
+cilitate conversations between residents and law enforce-
+ment. A local minister, in turn, proposed holding a prayer
+vigil for the victims. The chief agreed to organize the event
+and police chaplains participated in it.
+   But instead of unity, litigation followed. Several atheists
+who chose to attend the event sued the city, alleging that
+the event’s religious themes violated the First Amend-
+ment’s Establishment Clause. Eventually, the District
+Court granted summary judgment in their favor. 315
+F. Supp. 3d 1256, 1290 (MD Fla. 2018). The court reasoned
+that individuals enjoy Article III standing to contest reli-
+gious speech they find offensive and that the vigil violated
+the Establishment Clause under the terms of Lemon v.
+Kurtzman, 403 U. S. 602 (1971). 315 F. Supp. 3d, at 1274–
+1290.
+   On appeal, the Eleventh Circuit agreed that at least one
+of the plaintiffs had standing to sue, noting that she had
+“ ‘direct contact’ ” with prayer she found “offensive.” 40
+F. 4th 1347, 1350–1351 (2022). It didn’t matter that the
+2                  CITY OF OCALA v. ROJAS
+
+                    Statement of GORSUCH, J.
+
+plaintiff went to the vigil knowing that she would be of-
+fended. Ibid. What mattered was that prayers reached her
+ears. Ibid. Still, the Eleventh Circuit vacated the District
+Court’s decision on the merits, remanding the case for re-
+consideration in light of this Court’s intervening decision in
+Kennedy v. Bremerton School Dist., 597 U. S. ___ (2022). 40
+F. 4th, at 1351–1352.
+   I do not doubt that the District Court must reconsider the
+merits. As this Court explained in Kennedy, the Lemon test
+on which the District Court relied is no longer good law. 597
+U. S., at ___ (slip op., at 22). But the question of standing
+must be reconsidered too. This Court has never endorsed
+the notion that an “offended observer” may bring an Estab-
+lishment Clause claim. American Legion v. American Hu-
+manist Assn., 588 U. S. ___, ___ (2019) (GORSUCH, J., con-
+curring in judgment) (slip op., at 6). Elsewhere in the law,
+we routinely say that Article III demands a more “ ‘concrete
+and particularized’ ” injury. Id., at ___ (slip op., at 2). And
+the same rule, we have said, applies in the Establishment
+Clause context too. Id., at ___ (slip op., at 5) (discussing
+Valley Forge Christian College v. Americans United for Sep-
+aration of Church and State, Inc., 454 U. S. 464 (1982)).
+   Why, despite these teachings, have some lower courts in-
+dulged the fiction of “offended observer” standing? At least
+some of the fault “lies here.” American Legion, 588 U. S., at
+___ (opinion of GORSUCH, J.) (slip op., at 6). In Lemon, this
+Court suggested that “the Establishment Clause forbids an-
+ything a reasonable observer would view as an endorse-
+ment of religion.” American Legion, 588 U. S., at ___–___
+(opinion of GORSUCH, J.) (slip op., at 6–7). For this to be so,
+lower courts deduced, “such an observer must be able to
+sue.” Id., at ___–___ (slip op., at 7–8) (citing lower court
+cases).
+   But if that logic ever made sense, it no longer does. In
+Kennedy, this Court put to rest any question about Lemon’s
+vitality. We held that claims alleging an establishment of
+                  Cite as: 598 U. S. ____ (2023)              3
+
+                    Statement of GORSUCH, J.
+
+religion must be measured against the Constitution’s origi-
+nal and historical meaning, not the sensitivities of a hypo-
+thetical reasonable observer. 597 U. S., at ___ (slip op., at
+22). And with the demise of Lemon’s reasonable observer
+test, “little excuse” now remains “for the anomaly of of-
+fended observer standing.” American Legion, 588 U. S., at
+___ (opinion of GORSUCH, J.) (slip op., at 9). “[T]he gaping
+hole it tore in standing doctrine in [the lower courts] should
+now begin to close.” Ibid.
+   The city asks us to take this case to make just this point.
+It is an understandable request. But I see no need for the
+Court’s intervention at this juncture. This case remains in
+an interlocutory posture—the Eleventh Circuit has re-
+manded the case to the District Court to permit it to con-
+sider Kennedy’s implications in the first instance. I would
+allow that process to unfold. Moving forward, I expect
+lower courts will recognize that offended observer standing
+has no more foundation in the law than the Lemon test that
+inspired it. If I am wrong, the city is free to seek relief here
+after final judgment. For by now it should be clear that,
+“[i]n a large and diverse country, offense can be easily
+found. Really, most every governmental action probably of-
+fends somebody. No doubt, too, that offense can be sincere,
+sometimes well taken, even wise. But recourse for disagree-
+ment and offense does not lie in federal litigation. Instead,
+in a society that holds among its most cherished ambitions
+mutual respect, tolerance, self-rule, and democratic respon-
+sibility, an ‘offended viewer’ may ‘avert his eyes’ or pursue
+a political solution.” American Legion, 588 U. S., at ___ (slip
+op., at 11) (opinion of GORSUCH, J.) (citation omitted).
+                 Cite as: 598 U. S. ____ (2023)            1
+
+                    THOMAS, J., dissenting
+
+SUPREME COURT OF THE UNITED STATES
+   CITY OF OCALA, FLORIDA v. ART ROJAS, ET AL.
+   ON PETITION FOR WRIT OF CERTIORARI TO THE UNITED
+  STATES COURT OF APPEALS FOR THE ELEVENTH CIRCUIT
+              No. 22–278.   Decided March 6, 2023
+
+   JUSTICE THOMAS, dissenting from denial of certiorari.
+   In 2014, a shooting spree in Ocala, Florida, left several
+children injured. In response, the city of Ocala’s police de-
+partment worked with community leaders to identify sus-
+pects and witnesses. Leaders of the religious community
+suggested holding a prayer vigil in the town square to bring
+the community together and encourage potential witnesses
+to cooperate. The chief of police agreed and posted a letter
+on the department’s public Facebook page asking citizens
+to attend a prayer vigil for the victims. At the vigil, uni-
+formed police chaplains appeared onstage alongside com-
+munity religious leaders, all singing and praying for the in-
+jured children.
+   Respondents, several atheists who voluntarily attended
+the vigil with full knowledge of its religious content, sued
+the city and several officials under Rev. Stat. §1979, 42
+U. S. C. §1983. They alleged that they felt uncomfortable
+and unable to participate at the vigil because of its Chris-
+tian themes, and that the city had violated the Establish-
+ment Clause. The District Court granted summary judg-
+ment to respondents, holding that they had Article III
+standing and that the vigil violated the Establishment
+Clause under the Lemon test. See Lemon v. Kurtzman, 403
+U. S. 602 (1971). Applying Circuit precedent, the Eleventh
+Circuit agreed that at least one respondent had standing
+because she came into “ ‘direct contact’ ” with the vigil, 40
+F. 4th 1347, 1350 (2022), but it remanded on the merits in
+light of our express abandonment of Lemon last Term in
+Kennedy v. Bremerton School Dist., 597 U. S. ___, ___–___
+2                  CITY OF OCALA v. ROJAS
+
+                     THOMAS, J., dissenting
+
+(2022) (slip op., at 22–23).
+   Although the Eleventh Circuit was correct that Lemon is
+no longer good law, we should have granted certiorari to re-
+view whether respondents had standing to bring their
+claims. Standing is an antecedent jurisdictional require-
+ment that must be established before a court reaches the
+merits. Steel Co. v. Citizens for Better Environment, 523
+U. S. 83, 94–95 (1998). It thus makes no difference that the
+court below remanded based on Kennedy, and it may make
+no difference if the District Court holds for petitioner on the
+merits. Courts have no constitutional authority to pass on
+the merits of a case beyond their jurisdiction—“to do so is,
+by very definition, for a court to act ultra vires.” 523 U. S.,
+at 102. “Much more than legal niceties are at stake here.
+The statutory and (especially) constitutional elements of ju-
+risdiction are an essential ingredient of separation and
+equilibration of powers, restraining the courts from acting
+at certain times, and even restraining them from acting
+permanently regarding certain subjects.” Id., at 101. “This
+tenet is as solid as bedrock and almost as old.” Cross-Sound
+Ferry Servs., Inc. v. ICC, 934 F. 2d 327, 339 (CADC 1991)
+(Thomas, J., concurring in part and concurring in denial of
+petition for review). Because standing based on mere of-
+fense is in significant tension with Article III and our prec-
+edents, I would have granted certiorari to determine
+whether the courts below lacked jurisdiction.
+   I have serious doubts about the legitimacy of the “of-
+fended observer” theory of standing applied below. See
+American Legion v. American Humanist Assn., 588 U. S.
+___, ___, ___, ___ (2019) (GORSUCH, J., concurring in judg-
+ment) (slip op., at 2, 5, 6) (noting that the doctrine “has no
+basis in law,” is “deeply inconsistent . . . with many . . .
+longstanding principles and precedents,” and “cannot be
+squared with this Court’s longstanding teachings about the
+limits of Article III”). For decades, members of the Judici-
+ary have noted that offended observer standing appears to
+                  Cite as: 598 U. S. ____ (2023)             3
+
+                     THOMAS, J., dissenting
+
+be flatly inconsistent with our opinion in Valley Forge
+Christian College v. Americans United for Separation of
+Church and State, Inc., 454 U. S. 464 (1982). In that case,
+we held “that ‘the psychological consequence presumably
+produced by observation of religious conduct with which one
+disagrees’ is ‘not an injury sufficient to confer standing un-
+der Article III, even though the disagreement is phrased in
+constitutional terms.’ ” Kondrat’yev v. Pensacola, 949 F. 3d
+1319, 1335 (CA11 2020) (Newsom, J., concurring) (quoting
+454 U. S., at 485–486; alterations omitted); see also Ameri-
+can Legion, 588 U. S., at ___ (opinion of GORSUCH, J.) (slip
+op., at 5); Freedom From Religion Foundation, Inc. v. Mack,
+49 F. 4th 941, 949 (CA5 2022) (Smith, J.) (“[T]he law of Es-
+tablishment Clause standing is hard to reconcile with the
+general principle that standing is absent where a plaintiff
+has only a generalized grievance shared in substantially
+equal measure by all or most citizens” (internal quotation
+marks omitted)); Freedom From Religion Foundation, Inc.
+v. Obama, 641 F. 3d 803, 807 (CA7 2011) (Easterbrook,
+C. J.) (“[H]urt feelings differ from legal injury”); Barnes-
+Wallace v. San Diego, 530 F. 3d 776, 795 (CA9 2008) (Klein-
+feld, J., dissenting) (“[B]eing there and seeing the offending
+conduct does not confer standing”); Doe v. Tangipahoa Par-
+ish School Bd., 494 F. 3d 494, 500 (CA5 2007) (DeMoss, J.,
+specially concurring) (explaining that offended observer
+standing “opens the courts’ doors to a group of plaintiffs
+who have no complaint other than they dislike any govern-
+ment reference to God”); American Civil Liberties Union of
+Ohio Foundation, Inc. v. Ashbrook, 375 F. 3d 484, 497 (CA6
+2004) (Batchelder, J., dissenting) (explaining that standing
+based on “unwelcome contact” with governmental religious
+displays is “inconsistent with . . . Valley Forge”); Washegesic
+v. Bloomingdale Public Schools, 33 F. 3d 679, 684–685
+(CA6 1994) (Guy, J., concurring) (explaining that offended
+observer standing “establishe[s] . . . a class of ‘eggshell’
+4                  CITY OF OCALA v. ROJAS
+
+                     THOMAS, J., dissenting
+
+plaintiffs of a delicacy never before known to the law”); Pen-
+koski v. Bowser, 486 F. Supp. 3d 219, 231 (DC 2020)
+(McFadden, J.) (explaining that offended observer standing
+“cannot be squared with” Valley Forge).
+   Offended observer standing appears to warp the very es-
+sence of the judicial power vested by the Constitution. Un-
+der Article III, federal courts are authorized “to adjudge the
+legal rights of litigants in actual controversies,” not hurt
+feelings. Valley Forge, 454 U. S., at 471 (internal quotation
+marks omitted); see also In re Navy Chaplaincy, 534 F. 3d
+756, 763 (CADC 2008) (“[M]ere personal offense to govern-
+ment action does not give rise to standing to sue” (citing
+Allen v. Wright, 468 U. S. 737, 752–754 (1984)); J. Davis &
+N. Reaves, Fruit of the Poisonous Lemon Tree: How the Su-
+preme Court Created Offended-Observer Standing, and
+Why It’s Time for It To Go, 96 Notre Dame L. Rev. Reflec-
+tion 25, 35–36 (2020) (“Under a historical understanding of
+Article III,” “psychological offense resulting merely from
+seeing [challenged government] action does not qualify” as
+“concrete harm”). In every other area, we have been clear
+that “offense alone [is] insufficient to convey standing.”
+American Legion, 588 U. S., at ___ (opinion of GORSUCH, J.)
+(slip op., at 3); see also Kondrat’yev, 949 F. 3d, at 1337
+(Newsom, J., concurring) (“[T]he Supreme Court has long
+rejected allegations of offense, fear, and stigma as sufficient
+to establish standing”). And, we admonished in Valley
+Forge that there is “no principled basis on which to create a
+hierarchy of constitutional values or a complementary ‘slid-
+ing scale’ of standing.” 454 U. S., at 484. Yet offended ob-
+server standing seems to do just that by “carv[ing] out [a]
+special exceptio[n] to the rules governing standing for Es-
+tablishment Clause claims.” Ashbrook, 375 F. 3d, at 496
+(Batchelder, J., dissenting); see also Penkoski, 486
+F. Supp. 3d, at 233–234.
+   Valley Forge could not have been clearer that a relaxed
+standing doctrine “does not become more palatable when
+                  Cite as: 598 U. S. ____ (2023)             5
+
+                     THOMAS, J., dissenting
+
+the underlying merits concern the Establishment Clause.”
+454 U. S., at 489. Nonetheless, we have muddied the wa-
+ters by repeatedly reaching the merits of Establishment
+Clause cases premised upon offended observer standing in
+the courts below. American Legion, 588 U. S., at ___ (opin-
+ion of GORSUCH, J.) (slip op., at 5). Fortunately, “ ‘drive-by
+jurisdictional rulings of this sort’ carry ‘no precedential ef-
+fect.’ ” Ibid. (quoting Steel Co., 523 U. S., at 91; alteration
+omitted). But we should not “continue to hold expressly
+that the injury in fact requirement is no different for Estab-
+lishment Clause cases, while . . . implicitly assum[ing]
+standing in” those cases based on an injury that, “in a non-
+Establishment Clause case, would not get the plaintiff into
+the courthouse.” Doe, 494 F. 3d, at 500 (DeMoss, J., spe-
+cially concurring). Nor should we continue to countenance
+the undermining of our well-reasoned Valley Forge prece-
+dent by the Courts of Appeals.
+   This Court’s intervention has become increasingly neces-
+sary, as time has demonstrated that this problem is not go-
+ing away by itself. Even those Courts of Appeals that rec-
+ognize the apparent illegitimacy of offended observer
+standing now find themselves bound by Circuit precedent
+to apply it. See Kondrat’yev, 949 F. 3d, at 1337 (Newsom,
+J., concurring) (“[W]e should . . . convene en banc in order
+to bring our own Establishment Clause standing precedent
+into line with the Supreme Court’s”); Mack, 49 F. 4th, at
+949 (“[C]orrect or not, our [offended observer] precedents
+bind us”); Freedom From Religion Foundation, Inc. v.
+County of Lehigh, 933 F. 3d 275, 280 (CA3 2019) (Har-
+diman, J.) (“We . . . leave it to the Supreme Court—or this
+Court sitting en banc—to determine whether to discard” of-
+fended observer standing). And, anomalous exceptions that
+expand an institution’s power have a tendency to swallow
+rules that limit it. The same is true here: Far from natu-
+rally receding, offended observer standing threatens to di-
+6                  CITY OF OCALA v. ROJAS
+
+                     THOMAS, J., dissenting
+
+lute Article III requirements in other areas. See, e.g., Ger-
+ber v. Herskovitz, 14 F. 4th 500, 506 (CA6 2021) (employing
+a direct analogy to offended observer cases to hold that in-
+dividuals had standing to bring various federal statutory,
+due process, and free exercise claims solely because they
+suffered psychological harm from alleged legal violations).
+We should reconsider this seeming aberration before it fur-
+ther erodes bedrock Article III restrictions on the judicial
+power.
+   Decades ago, I joined Chief Justice Rehnquist in a dissent
+from denial of certiorari that recognized the tension be-
+tween standing based on religious offense and Valley Forge.
+City of Edmond v. Robinson, 517 U. S. 1201, 1202–1203
+(1996). At the time, Chief Justice Rehnquist lamented the
+Court’s failure to confront this undeniably important ques-
+tion that “determines the reach of federal courts’ power of
+judicial review of state actions.” Id., at 1203. Time has vin-
+dicated this exhortation, and I continue to urge the Court
+to review the legitimacy of this form of standing. If the
+Courts of Appeals are unwilling to reconsider their offended
+observer precedents en banc, we should intervene to vindi-
+cate our holding in Valley Forge.

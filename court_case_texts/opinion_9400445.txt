@@ -1,0 +1,1305 @@
+(Slip Opinion)              OCTOBER TERM, 2022                                       1
+
+                                       Syllabus
+
+         NOTE: Where it is feasible, a syllabus (headnote) will be released, as is
+       being done in connection with this case, at the time the opinion is issued.
+       The syllabus constitutes no part of the opinion of the Court but has been
+       prepared by the Reporter of Decisions for the convenience of the reader.
+       See United States v. Detroit Timber & Lumber Co., 200 U. S. 321, 337.
+
+
+SUPREME COURT OF THE UNITED STATES
+
+                                       Syllabus
+
+                      DUBIN v. UNITED STATES
+
+CERTIORARI TO THE UNITED STATES COURT OF APPEALS FOR
+                  THE FIFTH CIRCUIT
+
+      No. 22–10. Argued February 27, 2023—Decided June 8, 2023
+Petitioner David Dubin was convicted of healthcare fraud under 18
+  U. S. C. §1347 after he overbilled Medicaid for psychological testing
+  performed by the company he helped manage. The question is
+  whether, in defrauding Medicaid, he also committed “[a]ggravated
+  identity theft” under §1028A(a)(1). Section 1028A(a)(1) applies when
+  a defendant, “during and in relation to any [predicate offense, such as
+  healthcare fraud], knowingly transfers, possesses, or uses, without
+  lawful authority, a means of identification of another person.” The
+  Government argued below that §1028A(a)(1) was automatically satis-
+  fied because Dubin’s fraudulent Medicaid billing included the patient’s
+  Medicaid reimbursement number—a “means of identification.” Bound
+  by Fifth Circuit precedent, the District Court allowed Dubin’s convic-
+  tion for aggravated identity theft to stand, even though, in the District
+  Court’s view, the crux of the case was fraudulent billing, not identity
+  theft. The Fifth Circuit sitting en banc affirmed in a fractured deci-
+  sion, with five concurring judges acknowledging that under the Gov-
+  ernment’s reading of §1028A(a)(1), “the elements of [the] offense are
+  not captured or even fairly described by the words ‘identity theft.’ ” 27
+  F. 4th 1021, 1024 (opinion of Richman, C. J.).
+Held: Under §1028A(a)(1), a defendant “uses” another person’s means of
+ identification “in relation to” a predicate offense when the use is at the
+ crux of what makes the conduct criminal. Pp. 4–21.
+    (a) This case turns on the scope of two of §1028A(a)(1)’s elements:
+ Dubin was convicted under §1028A(a)(1) for “us[ing]” a patient’s
+ means of identification “in relation to” healthcare fraud. On the Gov-
+ ernment’s view, a defendant “uses” a means of identification “in rela-
+ tion to” a predicate offense if the defendant employs that means of
+ identification to facilitate or further the predicate offense in some way.
+2                       DUBIN v. UNITED STATES
+
+                                   Syllabus
+
+    Section 1028A(a)(1) would thus apply automatically any time a name
+    or other means of identification happens to be part of the payment or
+    billing method used in the commission of a long list of predicate of-
+    fenses. Dubin’s more targeted reading requires that the use of a means
+    of identification have “a genuine nexus” to the predicate offense. When
+    the underlying crime involves fraud or deceit, as many of §1028A’s
+    predicates do, this entails using a means of identification specifically
+    in a fraudulent or deceitful manner, not as a mere ancillary feature of
+    a payment or billing method. A careful examination of §1028A(a)(1)’s
+    text and structure points to a narrower reading. Pp. 4–5.
+       (b) The terms “uses” and “in relation to” have been singled out by
+    this Court as being particularly sensitive to context. The “various def-
+    initions of ‘use’ imply action and implementation.” Bailey v. United
+    States, 516 U. S. 137, 145. Beyond that general concept, however,
+    “ ‘use’ takes on different meanings depending on context.” Id., at 143.
+    This requires looking “not only to the word itself, but also to the statute
+    and the [surrounding] scheme, to determine the meaning Congress in-
+    tended.” Ibid. “In relation to” is similarly context sensitive. If ex-
+    tended to its furthest reach, “relate to” would be practically limitless.
+    The phrase clearly refers to a relationship or nexus of some kind, but
+    the nature and strength of this relationship or nexus will be informed
+    by context. Because the presence of two such context-dependent terms
+    renders §1028A(a)(1) doubly attuned to its surroundings, resort to con-
+    text is especially necessary. Pp. 5–7.
+       (c) Section 1028A(a)(1)’s title and terms both point toward reading
+    the provision to capture the ordinary understanding of identity theft,
+    where misuse of a means of identification is at the crux of the crimi-
+    nality. Pp. 8–15.
+          (1) Section 1028A is a focused, standalone provision, and its title—
+    “Aggravated identity theft”—suggests that identity theft is at the core
+    of §1028A(a)(1). A statute’s title has long been considered a “ ‘too[l]
+    available for the resolution of a doubt’ about the meaning of a statute.”
+    Almendarez-Torres v. United States, 523 U. S. 224, 234. Section
+    1028A’s title is especially valuable here because it does not summarize
+    a list of “complicated and prolific” provisions, Trainmen v. Baltimore
+    & Ohio R. Co., 331 U. S. 519, 528, and also “reinforces what the text’s
+    nouns and verbs independently suggest,” Yates v. United States, 574
+    U. S. 528, 552 (ALITO, J., concurring in judgment). The Court has pre-
+    viously observed the contrast between §1028A’s targeted title and the
+    broad title of neighboring provision §1028: “ ‘Fraud and related activity
+    in connection with identification documents, authentication features,
+    and information.’ ” Flores-Figueroa v. United States, 556 U. S. 646,
+    655. That “Congress separated the [identity] fraud crime from the
+    [identity] theft crime in” §1028A suggests that §1028A is focused on
+                    Cite as: 599 U. S. ____ (2023)                       3
+
+                               Syllabus
+
+identity theft specifically, rather than all fraud involving means of
+identification. Ibid.
+   The Government urges the Court to ignore §1028A’s title, because
+the Government’s reading of the provision bears little resemblance to
+ordinary understandings of “identity theft.” This broad reading would,
+in practice, place garden-variety overbilling at the core of §1028A. In-
+stead, “identity theft” has a focused meaning: “[T]he fraudulent appro-
+priation and use of another person’s identifying data or documents,”
+Webster’s Unabridged Dictionary xi, or “[t]he unlawful taking and use
+of another person’s identifying information for fraudulent purposes,”
+Black’s Law Dictionary 894. This understanding of identity theft sup-
+ports a reading of “in relation to” where use of the means of identifica-
+tion is at the crux of the underlying crime. And under these defini-
+tions, identity theft occurs when a defendant “uses” the means of
+identification itself to defraud others. Further, the inclusion of “aggra-
+vated” in §1028A’s title suggests that Congress had in mind a particu-
+larly serious form of identity theft, not just all manner of everyday
+overbilling offenses. Pp. 8–12.
+      (2) Section 1028A(a)(1)’s language points in the same direction as
+its title. In particular, Congress used a trio of verbs that reflect an
+ordinary understanding of identity theft. Section 1028A(a)(1) applies
+when a defendant “knowingly transfers, possesses, or uses, without
+lawful authority, a means of identification of another person,” “during
+and in relation to” any predicate offense. (Emphasis added). The two
+verbs neighboring “uses”—“transfers” and “possesses”—are most nat-
+urally read in the context of §1028A(a)(1) to connote not only theft, but
+ordinary understandings of identity theft in particular, i.e., they point
+to (1) theft of a (2) means of identification belonging to (3) another per-
+son. Because “transfer” and “possess” channel ordinary identity theft,
+the interpretative cannon noscitur a sociis (“ ‘a word is known by the
+company it keeps,’ ” McDonnell v. United States, 579 U. S. 550, 568–
+569) indicates that “uses” should be read in a similar manner. In ad-
+dition, the Court “assume[s] that Congress used [three] terms because
+it intended each term to a have a particular, nonsuperfluous meaning.”
+Bailey, 516 U. S., at 146. On a more targeted reading, §1028A(a)(1)’s
+three verbs capture the complexity of identity theft, which intermin-
+gles aspects of theft and fraud, misappropriation and deceitful use.
+While “transfer” and “possess” conjure up two steps of theft, “uses”
+supplies the deceitful use aspect. In contrast, if §1028A(a)(1) is not
+read in this narrow manner, then the two other verbs risk leaving
+“uses” without “virtually any function.” Ibid. Pp. 12–15.
+   (d) The list of §1028A(a)(1)’s predicate offenses creates additional
+problems for the Government’s broad reading. Section 1028A(a)(1)’s
+enhancement adds a severe 2-year mandatory prison sentence onto
+4                       DUBIN v. UNITED STATES
+
+                                  Syllabus
+
+    underlying offenses that do not impose any mandatory prison sentence
+    at all. The Government’s reading, however, does not meaningfully dis-
+    tinguish between the aggravated identity theft crime that Congress
+    singled out for heightened punishment and other crimes. Instead, so
+    long as the criteria for the broad predicate offenses are met, a defend-
+    ant faces an automatic 2-year sentence for generic overbilling that
+    happens to use names or other means of identification for routine bill-
+    ing and payment. A far more sensible conclusion from the statutory
+    structure is that §1028A(a)(1)’s enhancement targets situations where
+    the means of identification itself is at the crux of the underlying crim-
+    inality, not just an ancillary billing feature. Pp. 15–17.
+       (e) In contrast to the staggering breadth of the Government’s read-
+    ing of §1028A, this Court has “ ‘traditionally exercised restraint in as-
+    sessing the reach of a federal criminal statute,’ ” Marinello v. United
+    States, 584 U. S. ___, ___, and prudently avoided reading incongruous
+    breadth into opaque language in criminal statutes. See, e.g., Van Bu-
+    ren v. United States, 593 U. S. ___. The vast sweep of the Govern-
+    ment’s reading—under which everyday overbilling cases would ac-
+    count for the majority of violations—“underscores the implausibility of
+    the Government’s interpretation.” Id., at ___. While the Government
+    represents that prosecutors will act responsibly in charging defend-
+    ants under its sweeping reading, this Court “cannot construe a crimi-
+    nal statute on the assumption that the Government will ‘use it respon-
+    sibly.’ ” McDonnell, 579 U. S., at 576. Pp. 17–19.
+27 F. 4th 1021, vacated and remanded.
+
+  SOTOMAYOR, J., delivered the opinion of the Court, in which ROBERTS,
+C. J., and THOMAS, ALITO, KAGAN, KAVANAUGH, BARRETT, and JACKSON,
+JJ., joined. GORSUCH, J., filed an opinion concurring in the judgment.
+                        Cite as: 599 U. S. ____ (2023)                              1
+
+                             Opinion of the Court
+
+     NOTICE: This opinion is subject to formal revision before publication in the
+     United States Reports. Readers are requested to notify the Reporter of
+     Decisions, Supreme Court of the United States, Washington, D. C. 20543,
+     pio@supremecourt.gov, of any typographical or other formal errors.
+
+
+SUPREME COURT OF THE UNITED STATES
+                                   _________________
+
+                                    No. 22–10
+                                   _________________
+
+
+DAVID FOX DUBIN, PETITIONER v. UNITED STATES
+ ON WRIT OF CERTIORARI TO THE UNITED STATES COURT OF
+            APPEALS FOR THE FIFTH CIRCUIT
+                                  [June 8, 2023]
+
+  JUSTICE SOTOMAYOR delivered the opinion of the Court.
+  There is no dispute that petitioner David Fox Dubin over-
+billed Medicaid for psychological testing. The question is
+whether, in defrauding Medicaid, he also committed
+“[a]ggravated identity theft,” 18 U. S. C. §1028A(a)(1), trig-
+gering a mandatory 2-year prison sentence. The Fifth Cir-
+cuit found that he did, based on a reading of the statute that
+covers defendants who fraudulently inflate the price of a
+service or good they actually provided. On that sweeping
+reading, as long as a billing or payment method employs
+another person’s name or other identifying information,
+that is enough. A lawyer who rounds up her hours from 2.9
+to 3 and bills her client electronically has committed aggra-
+vated identity theft. The same is true of a waiter who
+serves flank steak but charges for filet mignon using an
+electronic payment method.
+  The text and context of the statute do not support such a
+boundless interpretation. Instead, §1028A(a)(1) is violated
+when the defendant’s misuse of another person’s means of
+identification is at the crux of what makes the underlying
+offense criminal, rather than merely an ancillary feature of
+a billing method. Here, the crux of petitioner’s overbilling
+was inflating the value of services actually provided, while
+2                     DUBIN v. UNITED STATES
+
+                          Opinion of the Court
+
+the patient’s means of identification was an ancillary part
+of the Medicaid billing process.
+                               I
+   David Dubin helped his father manage a psychological
+services company. This company submitted a claim for re-
+imbursement to Medicaid for psychological testing by a li-
+censed psychologist. In fact, however, the claim overstated
+the qualifications of the employee who actually performed
+the testing and who was only a licensed psychological asso-
+ciate. This falsehood inflated the amount of reimburse-
+ment. Petitioner also changed the date on which the exam-
+ination occurred.1 Even with the inflation, the total
+reimbursement was only $338. App. 49. Petitioner was ac-
+cordingly charged with healthcare fraud, a federal offense
+under 18 U. S. C. §1347. According to the Government,
+however, petitioner’s conduct also constituted “[a]ggra-
+vated identity theft” under §1028A(a)(1).
+   Section 1028A(a)(1) applies when a defendant, “during
+and in relation to any [predicate offense], knowingly trans-
+fers, possesses, or uses, without lawful authority, a means
+of identification of another person.” The predicate offenses
+include, among many others, healthcare fraud.
+§1028A(c)(4). Section 1028A(a)(1) carries a severe penalty:
+a mandatory minimum sentence of two years in prison “in
+addition to the punishment” for the predicate offense.
+   According to the Government, this is a clear aggravated
+identity theft case. The Government argued at trial that
+§1028A(a)(1) was automatically satisfied because peti-
+tioner’s fraudulent billing included the patient’s Medicaid
+reimbursement number (a “means of identification”). The
+District Court was less sure. “[T]his doesn’t seem to be an
+aggravated identity theft case” the court explained, as “the
+——————
+   1 The parties dispute whether changing the date affected the availabil-
+
+ity of Medicaid reimbursement. The Court does not reach that question,
+as the outcome of this case would be the same either way.
+                  Cite as: 599 U. S. ____ (2023)             3
+
+                      Opinion of the Court
+
+whole crux of this case is how [petitioner was] billing.” App.
+37–38. This overbilling was “criminal,” but it “wasn’t ag-
+gravated identity theft.” Id., at 38. Nevertheless, the Dis-
+trict Court denied petitioner’s post-trial challenge to his ag-
+gravated identity theft conviction, explaining that contrary
+Fifth Circuit precedent tied its hands. The court said that
+it “hope[d]” it would “get reversed.” Id., at 39.
+   On appeal, a Fifth Circuit panel affirmed. On rehearing
+en banc, a fractured court affirmed again. Five judges who
+agreed with the Government nonetheless acknowledged
+that under the Government’s reading of §1028A(a)(1), “the
+elements of [the] offense are not captured or even fairly de-
+scribed by the words ‘identity theft.’ ” 27 F. 4th 1021, 1024
+(2022) (Richman, C. J., concurring). Eight dissenting
+judges agreed on this point.
+   This type of prosecution is not uncommon. The Govern-
+ment has, by its own admission, wielded §1028A(a)(1) well
+beyond ordinary understandings of identity theft. One
+prosecution targeted a defendant who “made a counterfeit
+handgun permit” for another person, using that person’s
+real name and at that person’s request. United States v.
+Spears, 729 F. 3d 753, 754 (CA7 2013) (en banc). Another
+involved unlicensed doctors who violated the law by
+“issu[ing] prescriptions that their [actual] patients would
+then fill at . . . pharmacies.” United States v. Berroa, 856
+F. 3d 141, 148, 155–156 (CA1 2017). There was also a pros-
+ecution involving an ambulance service inflating its reim-
+bursement rates by “mischaracteriz[ing] the nature of the
+transports, saying that the patients had required stretchers
+when they had not.” United States v. Michael, 882 F. 3d
+624, 628 (CA6 2018) (citing United States v. Medlock, 792
+F. 3d 700, 705 (CA6 2015)). Yet another prosecution in-
+volved a defendant who “provided massage services to pa-
+tients to treat their pain,” but improperly billed this “as a
+Medicare-eligible physical therapy service.” United States
+v. Hong, 938 F. 3d 1040, 1051 (CA9 2019).
+4                    DUBIN v. UNITED STATES
+
+                          Opinion of the Court
+
+  Many lower courts have responded to such prosecutions
+with more restrained readings of the aggravated identity
+theft statute.2 The Fifth Circuit did not. To resolve the
+conflict in the courts below, this Court granted certiorari,
+598 U. S. ___ (2022), and now vacates the judgment of the
+Fifth Circuit and remands.3
+                               II
+                               A
+   This case turns on two of §1028A(a)(1)’s elements. Of the
+various possible ways to violate §1028A(a)(1), petitioner
+was convicted for “us[ing]” a patient’s means of identifica-
+tion “in relation to” healthcare fraud. The parties offer com-
+peting readings of these two elements.
+   The Government reads the terms broadly and in isola-
+tion. On the Government’s view, “[a] defendant uses a
+means of identification ‘in relation to’ a predicate offense if
+the use of that means of identification ‘facilitates or fur-
+thers’ the predicate offense in some way.” Brief for United
+States 10 (quoting Smith v. United States, 508 U. S. 223,
+232 (1993)). As to “uses,” the Government seems just to
+mean “employ[s]” in any sense. Brief for United States 5,
+7, 10–11. Section 1028A(a)(1) would thus apply automati-
+cally any time a name or other means of identification hap-
+pens to be part of the payment or billing method used in the
+commission of a long list of predicate offenses. In other
+words, virtually all of the time.
+   Petitioner, in response, offers a more targeted reading.
+For petitioner, using a means of identification in relation to
+
+——————
+  2 See Berroa, 856 F. 3d, at 148, 155–157; Michael, 882 F. 3d, at 628;
+
+Spears, 729 F. 3d, at 754; Hong, 938 F. 3d, at 1051.
+  3 The Government argued below that because petitioner did not
+
+properly raise certain challenges to his §1028A conviction, he cannot ob-
+tain relief without meeting the higher bar for plain-error review. The
+Fifth Circuit below did not decide that question, which this Court leaves
+for remand.
+                  Cite as: 599 U. S. ____ (2023)             5
+
+                      Opinion of the Court
+
+a predicate offense requires “a genuine nexus to the predi-
+cate offense.” Brief for Petitioner 15. On this reading, the
+means of identification is at the crux of what makes the
+predicate offense criminal, rather than merely an ancillary
+feature of a payment method. When the underlying crime
+involves fraud or deceit, as many of §1028A’s predicates do,
+this entails using a means of identification specifically in a
+fraudulent or deceitful manner.
+   To illustrate, petitioner borrows a heuristic from the
+Sixth Circuit. See Michael, 882 F. 3d, at 628. The relevant
+language in §1028A(a)(1) “covers misrepresenting who re-
+ceived a certain service,” but not “fraudulent claims regard-
+ing how or when a service was performed.” Brief for Peti-
+tioner 15. In other words, fraud going to identity, not
+misrepresentation about services actually provided. Take
+an ambulance service that actually transported patients
+but inflated the number of miles driven. The crux of this
+fraud was “how” services were rendered; the patients’
+names were part of the billing process, but ancillary to what
+made the conduct fraudulent. See Michael, 882 F. 3d, at
+628–629. In contrast, take the pharmacist who swipes in-
+formation from the pharmacy’s files and uses it to open a
+bank account in a patient’s name. That “misuse of th[e]
+means of identification” would be “integral to” what made
+the conduct fraudulent, because misrepresentation about
+who was involved was at the crux of the fraud. Id., at 629.
+   In deciding between the parties’ readings, one limited
+and one near limitless, precedent and prudence require a
+careful examination of §1028A(a)(1)’s text and structure.
+While “uses” and “in relation to” are, in isolation, indeter-
+minate, the statutory context, taken as a whole, points to a
+narrower reading.
+                              B
+  In interpreting the scope of “uses” and “in relation to,” the
+Court begins with those terms themselves. Both terms
+6                  DUBIN v. UNITED STATES
+
+                       Opinion of the Court
+
+have been singled out by this Court as particularly sensitive
+to context, and they do not, standing alone, conclusively re-
+solve this case.
+   Start with “uses.” As the Court has observed more than
+once, “the word ‘use’ poses some interpretational difficulties
+because of the different meanings attributable to it.” Bailey
+v. United States, 516 U. S. 137, 143 (1995); see also Leocal
+v. Ashcroft, 543 U. S. 1, 9 (2004). The “ ‘ordinary or natural
+meaning’ ” of “ ‘use’ ” is “variously defined as ‘[t]o convert to
+one’s service,’ ‘to employ,’ ‘to avail oneself of,’ and ‘to carry
+out a purpose or action by means of.’ ” Bailey, 516 U. S., at
+145. “These various definitions of ‘use’ imply action and im-
+plementation.” Ibid. Beyond that general concept, how-
+ever, “ ‘use’ takes on different meanings depending on con-
+text,” and because it “draws meaning from its context, . . .
+we will look not only to the word itself, but also to the stat-
+ute and the [surrounding] scheme, to determine the mean-
+ing Congress intended.” Id., at 143; see also Leocal, 543
+U. S., at 9 (“Particularly when interpreting a statute that
+features as elastic a word as ‘use,’ we construe language in
+its context and in light of the terms surrounding it”).
+   For example, the federal arson statute only applies to
+buildings “ ‘used in’ commerce or commerce-affecting activ-
+ity.” Jones v. United States, 529 U. S. 848, 850–851 (2000).
+In that statutory context, the Court distinguished between
+uses of a building as “the locus of any commercial undertak-
+ing,” and noncovered “passive,” “passing,” or ancillary uses
+of a building “as collateral to obtain and secure a mortgage”
+or to obtain an insurance policy. Id., at 855–856. It is stat-
+utory context, therefore, that determines what kind of ac-
+tive employment or conversion to one’s service triggers
+§1028A(a)(1)’s harsh penalty.
+   “In relation to” is similarly context sensitive. If “ ‘relate
+to’ were taken to extend to the furthest stretch of its inde-
+terminacy, then for all practical purposes” there would be
+                      Cite as: 599 U. S. ____ (2023)                      7
+
+                           Opinion of the Court
+
+no limits, as “ ‘[r]eally, universally, relations stop no-
+where.’ ” New York State Conference of Blue Cross & Blue
+Shield Plans v. Travelers Ins. Co., 514 U. S. 645, 655 (1995)
+(quoting H. James, Roderick Hudson xli (New York ed.,
+World’s Classics 1980)). This language thus cannot be “con-
+sidered in isolation,” Maracich v. Spears, 570 U. S. 48, 59
+(2013), and the Court must “go beyond the unhelpful text
+and the frustrating difficulty of defining [this] key term”
+and look to statutory context. Travelers, 514 U. S., at 656.
+That the phrase refers to a relationship or nexus of some
+kind is clear. See Smith, 508 U. S., at 238 (“ ‘[I]n relation
+to’ ” requires “some purpose or effect” between two things).
+Yet the kind of relationship required, its nature and
+strength, will be informed by context.
+   The presence of two such context-dependent terms ren-
+ders §1028A(a)(1) doubly attuned to its surroundings. The
+parties’ competing readings both fall within the range of
+meanings of “uses” and “in relation to,” taken alone. Resort
+to context is thus especially necessary here.4
+
+
+
+
+——————
+   4 The Government tries to head off any contextual analysis at the pass,
+
+urging that “uses” and “during and in relation to” in §1028A(a)(1) must
+be read identically to Smith and other of this Court’s cases interpreting
+18 U. S. C. §924(c)(1)(A). That provision applies to “any person who, dur-
+ing and in relation to any crime of violence or drug trafficking crime . . .
+uses or carries a firearm.” One need look no further than this Court’s
+§924(c) case law to see why this argument fails. The teaching of those
+cases is that because “use” “draws meaning from its context, . . . we will
+look not only to the word itself, but also to the statute and the [broader]
+scheme.” Bailey v. United States, 516 U. S. 137, 143 (1995). Section
+1028A(a)(1) differs greatly from §924(c), from the thing that is “used,” to
+the title, to the nature of the predicate offenses to which the enhance-
+ment relates. Words can wound, but names and numbers are not guns.
+If anything, the ubiquity of names and their vast range of “uses” makes
+the verb especially indeterminate in this context. For that same reason,
+the Court’s decision today does not alter its §924(c) case law.
+8                 DUBIN v. UNITED STATES
+
+                      Opinion of the Court
+
+                               C
+   Having found the key terms “use” and “in relation to” in-
+determinate, the next step is to look to their surrounding
+words. After all, “a statute’s meaning does not always turn
+solely on the broadest imaginable definitions of its compo-
+nent words.” Epic Systems Corp. v. Lewis, 584 U. S. ___,
+___ (2018) (slip op., at 23) (internal quotation marks omit-
+ted). Instead, “[l]inguistic and statutory context also mat-
+ter.” Ibid. Even in cases where “the literal language of the
+statute is neutral” in isolation, reading “the whole phrase”
+can point to a more targeted reading. Marinello v. United
+States, 584 U. S. ___, ___–___ (2018) (slip op., at 4–5).
+   Such is the case here. Section 1028A(a)(1)’s title and
+terms both point to a narrower reading, one centered
+around the ordinary understanding of identity theft. This
+cuts against the Government’s broad reading, which the
+Government admits bears little relationship to the common
+understanding of identity theft. In contrast, a more tar-
+geted reading accurately captures the ordinary understand-
+ing of identity theft, where misuse of a means of identifica-
+tion is at the crux of the criminality.
+                                1
+  Start at the top, with the words Congress chose for
+§1028A’s title: “Aggravated identity theft.” 118 Stat. 831.
+This Court has long considered that “ ‘the title of a statute
+and the heading of a section’ are ‘tools available for the res-
+olution of a doubt’ about the meaning of a statute.” Al-
+mendarez-Torres v. United States, 523 U. S. 224, 234 (1998)
+(quoting Trainmen v. Baltimore & Ohio R. Co., 331 U. S.
+519, 528–529 (1947)). A title will not, of course, “override
+the plain words” of a statute. Fulton v. Philadelphia, 593
+U. S. ___, ___ (2021) (slip op., at 9). Yet here, the key terms
+are so “elastic” that they must be construed “in light of the
+terms surrounding [them],” Leocal, 543 U. S., at 9, and the
+                      Cite as: 599 U. S. ____ (2023)                      9
+
+                           Opinion of the Court
+
+title Congress chose is among those terms. Even the Gov-
+ernment acknowledged that if the terms in §1028A(a)(1) are
+unclear, “the title is a useful clue.” Tr. of Oral Arg. 80.
+   Two additional points bolster this approach. First, the
+title here is not serving the unenviable role of pithily sum-
+marizing a list of “complicated and prolific” provisions.
+Trainmen, 331 U. S., at 528. Section 1028A is a focused,
+standalone provision. Second, a title is “especially valuable
+[where] it reinforces what the text’s nouns and verbs inde-
+pendently suggest.” Yates v. United States, 574 U. S. 528,
+552 (2015) (ALITO, J., concurring in judgment). As ex-
+plained below, §1028A(a)(1)’s text independently suggests
+a focus on identity theft. See infra, at 12–15.
+   Indeed, this Court has already once used §1028A’s title
+and place in the statutory scheme to shed light on its text.
+In Flores-Figueroa v. United States, 556 U. S. 646 (2009),
+this Court pointed out that a neighboring provision, §1028,
+carries the broad title “ ‘Fraud and related activity in con-
+nection with identification documents, authentication fea-
+tures, and information.’ ” Id., at 655. Section 1028A, in con-
+trast, is far more targeted, “us[ing] the words ‘identity
+theft.’ ” Ibid. That “Congress separated the [identity] fraud
+crime from the [identity] theft crime in” §1028A suggests
+that §1028A is focused on identity theft specifically, rather
+than all fraud involving means of identification. Ibid.5
+   Given that, it is abundantly clear why the Government
+urges the Court to ignore the title. The Government’s broad
+reading, covering any time another person’s means of iden-
+tification is employed in a way that facilitates a crime,
+
+——————
+  5 Flores-Figueroa held that under §1028A(a)(1) a defendant must know
+
+“that the ‘means of identification’ he or she unlawfully transferred, pos-
+sessed, or used, in fact, belonged to ‘another person.’ ” 556 U. S., at 647.
+The Court not only looked to §1028A(a)(1)’s theft-focused title and role
+in the statutory structure, but also drew on an understanding that the
+provision covers “classic identity theft.” Id., at 655–656.
+10                   DUBIN v. UNITED STATES
+
+                         Opinion of the Court
+
+bears little resemblance to any ordinary meaning of “iden-
+tity theft.” Consider again an unlicensed doctor who fills
+out a prescription actually requested by a patient; no one
+would call that identity theft. Even judges below who
+agreed with the Government’s reading of §1028A(a)(1), and
+ultimately the Government itself, acknowledged that its
+reading of §1028A(a)(1) does not fairly capture the ordinary
+meaning of identity theft. Nor is the difference just around
+the edges; the Government’s reading would, in practice,
+place garden-variety overbilling at the core of §1028A.
+   Instead, “identity theft” has a focused meaning. One dic-
+tionary defines identity theft as “the fraudulent appropria-
+tion and use of another person’s identifying data or docu-
+ments, as a credit card.” Webster’s Unabridged Dictionary
+xi (2d ed. 2001) (Webster’s). Another similarly offers “[t]he
+unlawful taking and use of another person’s identifying in-
+formation for fraudulent purposes; specif[ically] a crime in
+which someone steals personal information about and be-
+longing to another, such as a bank-account number or
+driver’s-license number, and uses the information to de-
+ceive others.” Black’s Law Dictionary 894 (11th ed. 2019)
+(Black’s) (defining “identity theft”).6
+   This supports a reading of “in relation to” where use of
+the means of identification is at the crux of the underlying
+criminality. These definitions refer to offenses built around
+what the defendant does with the means of identification in
+particular. In other words, the means of identification spe-
+cifically is a key mover in the criminality. This central role
+played by the means of identification, which serves to des-
+ignate a specific person’s identity, explains why we say that
+the “identity” itself has been stolen. See, e.g., Spears, 729
+F. 3d, at 756 (“identity theft” occurs when someone’s “iden-
+
+
+——————
+  6 “Steal[ing]” can, of course, include situations where something was
+
+initially lawfully acquired. See Black’s 1710 (defining “steal”).
+                  Cite as: 599 U. S. ____ (2023)            11
+
+                      Opinion of the Court
+
+tity has been stolen or misappropriated”). This helps ex-
+plain why the examples resulting from the Government’s
+theory do not sound like identity theft. If a lawyer rounds
+up her hours from 2.9 to 3 and bills her client using his
+name, the name itself is not specifically a source of fraud; it
+only plays an ancillary role in the billing process. The same
+is true for the waiter who substitutes one cut of meat for
+another; we might say the filet mignon’s identity was sto-
+len, perhaps, but not the diner’s.
+   This understanding of identity theft also supports a more
+targeted definition of “uses.” The word “use” appears in
+these definitions with a specific meaning: Identity theft en-
+compasses when a defendant “uses the information to de-
+ceive others,” Black’s 894 (emphasis added), and “the fraud-
+ulent . . . use” of a means of identification, Webster’s xi
+(emphasis added). In other words, identity theft is commit-
+ted when a defendant uses the means of identification itself
+to defraud or deceive. This tracks the Sixth Circuit’s heu-
+ristic. When a means of identification is used deceptively,
+this deception goes to “who” is involved, rather than just
+“how” or “when” services were provided. Use of the means
+of identification would therefore be at “the locus of [the
+criminal] undertaking,” rather than merely “passive,”
+“passing,” or ancillary employment in a crime. Jones, 529
+U. S., at 855–856.
+   On top of that, §1028A’s title is not just “identity theft,”
+but “Aggravated identity theft.” Typically, “[a]n ‘aggra-
+vated’ offense is one ‘made worse or more serious by circum-
+stances such as violence, the presence of a deadly weapon,
+or the intent to commit another crime.’ ” Carachuri-
+Rosendo v. Holder, 560 U. S. 563, 574 (2010) (quoting
+Black’s Law Dictionary 75 (9th ed. 2009)). This suggests
+that Congress had in mind a particularly serious form of
+identity theft. Yet the Government’s reading “would apply
+an ‘aggravated’ . . . label” to all manner of everyday over-
+billing offenses. Carachuri-Rosendo, 560 U. S., at 574. “Of
+12                 DUBIN v. UNITED STATES
+
+                      Opinion of the Court
+
+course . . . Congress, like ‘Humpty Dumpty,’ has the power
+to give words unorthodox meanings.” Id., at 575. Yet where
+“the Government argues for a result that the English lan-
+guage tells us not to expect, . . . we must be very wary of the
+Government’s position.” Ibid. (internal quotation marks
+omitted).
+   The title suggests identity theft is at the core of
+§1028A(a)(1). On the Government’s reading, however, eve-
+ryday overbilling would become the most common trigger
+for §1028A(a)(1)’s severe penalty. This would turn the core
+of “worse or more serious” identity theft into something the
+ordinary user of the English language would not consider
+identity theft at all.
+                                 2
+   The title is, by definition, just the beginning. A title does
+not supplant the actual text of the provision, as the Govern-
+ment observes. The problem for the Government is that
+§1028A(a)(1)’s language points in the same direction as its
+title. In particular, Congress used a trio of verbs that reflect
+an ordinary understanding of identity theft.
+   While “uses” is indeterminate in isolation, here it has
+company. Section 1028A(a)(1) applies when a defendant
+“knowingly transfers, possesses, or uses, without lawful au-
+thority, a means of identification of another person,” “dur-
+ing and in relation to” any predicate offense. (Emphasis
+added.) “Under the familiar interpretive canon noscitur a
+sociis, ‘a word is known by the company it keeps.’ ” McDon-
+nell v. United States, 579 U. S. 550, 568–569 (2016) (quot-
+ing Jarecki v. G. D. Searle & Co., 367 U. S. 303, 307 (1961)).
+“[T]his canon is often wisely applied where a word is capa-
+ble of many meanings in order to avoid the giving of unin-
+tended breadth to the Acts of Congress.” McDonnell, 579
+U. S., at 569 (internal quotation marks omitted).
+   The two neighboring verbs here, “transfers” and “pos-
+sesses,” are most naturally read in the context of
+                      Cite as: 599 U. S. ____ (2023)                      13
+
+                           Opinion of the Court
+
+§1028A(a)(1) to connote theft. While it is not necessary to
+determine the precise metes and bounds of these two verbs,
+their role in the provision points to this targeted reading.
+Section 1028A(a)(1) covers unlawful possession or transfer
+of a means of identification belonging to “another person.”
+Generally, to unlawfully “possess” something belonging to
+another person suggests it has been stolen. And to unlaw-
+fully “transfer” something belonging to another person sim-
+ilarly connotes misappropriating it and passing it along. In
+Flores-Figueroa, this Court drew a similarly intuitive link
+between a defendant taking a means of identification he
+knows belongs to another person and “ ‘theft.’ ” 556 U. S., at
+655. The Government, at argument, agreed: these two
+verbs “refer to circumstances in which the information is
+stolen.” Tr. of Oral Arg. 90.7
+   “Transfer” and “possess” not only connote theft, but iden-
+tity theft in particular. The verbs point to (1) theft of a (2)
+means of identification belonging to (3) another person.
+That tracks ordinary understandings of identity theft: “a
+crime in which someone [1] steals [2] personal information
+about and [3] belonging to another.” Black’s 894. Similarly,
+“the [1] fraudulent appropriation and use of [3] another per-
+son’s [2] identifying data or documents.” Webster’s xi. If
+this parallel were not enough, §1028A(a)(1)’s title indicates
+that the type of theft its verbs connote is identity theft spe-
+cifically.
+   Because “transfer” and “possess” channel ordinary iden-
+tity theft, noscitur a sociis indicates that “uses” should be
+
+——————
+   7 Those who find legislative history helpful will find yet further sup-
+
+port. “[P]ossesses” refers to “someone who has wrongly acquired an-
+other’s means of identification, but has not yet put it to use or transferred
+it elsewhere.” H. R. Rep. No. 108–528, p. 10 (2004). “[T]ransfers” is
+when the defendant “transferred it to another person or location where
+it can be put to use.” Ibid. And “uses” is when “a defendant . . . obtained
+someone else’s means of identification and actually put that means of
+identification to use.” Ibid.
+14                DUBIN v. UNITED STATES
+
+                      Opinion of the Court
+
+read in a similar manner to its companions. See McDon-
+nell, 579 U. S., at 568–569. “Uses” is quite amenable to
+such a reading, and not just because of its indeterminacy.
+As explained above, “using” another person’s means of iden-
+tification to deceive or defraud is a common feature of iden-
+tity theft. See Webster’s xi (“the fraudulent . . . use” of a
+means of identification (emphasis added)); Black’s 894
+(when a defendant “uses the information to deceive others”
+(emphasis added)).
+   Congress thus employed a trio of verbs that capture var-
+ious aspects of “classic identity theft.” Flores-Figueroa, 556
+U. S., at 656. There is “the defendant [who] has gone
+through someone else’s trash to find discarded credit card
+and bank statements,” ibid., and thus has taken possession
+unlawfully. There is the bank employee who passes along
+customer information to an accomplice, and thus transfers
+it unlawfully. Then there is use involving fraud or deceit
+about identity: “a defendant [who] has used another per-
+son’s identification information to get access to that per-
+son’s bank account.” Ibid.
+   Another canon of construction offers a further point in fa-
+vor of this narrow interpretation. The Court “assume[s]
+that Congress used [three] terms because it intended each
+term to a have a particular, nonsuperfluous meaning.” Bai-
+ley, 516 U. S., at 146. Reading §1028A(a)(1)’s operative
+verbs as tracking aspects of classic identity theft, each verb
+has an independent role to play. As the definitions reveal,
+identity theft covers both when “someone steals personal in-
+formation about and belonging to another . . . and uses the
+information to deceive others,” Black’s 894 (emphasis
+added), and “fraudulent appropriation and use,” Webster’s
+xi (emphasis added). Identity theft thus intermingles as-
+pects of theft and fraud, misappropriation and deceitful use.
+Section 1028A(a)(1)’s three verbs capture this complexity.
+While “transfer” and “possess” conjure up two steps of theft,
+“uses” supplies the deceitful use aspect.
+                  Cite as: 599 U. S. ____ (2023)            15
+
+                      Opinion of the Court
+
+   In contrast, if §1028A(a)(1)’s verbs do not track identity
+theft and if the means of identification need only facilitate
+the predicate offense, the other two verbs threaten to leave
+“uses” without “virtually any function.” Bailey, 516 U. S.,
+at 146. Return to a definition of “in relation to” that just
+means “ ‘facilitates or furthers’ the predicate offense in
+some way.” Brief for United States 10. In virtually all cases
+where a defendant employs a means of identification to fa-
+cilitate a crime, the defendant will also possess or transfer
+the means of identification in a way that facilitates the
+crime. For example, petitioner’s possession of the patient’s
+means of identification facilitated the fraud, as did peti-
+tioner’s transfer of the patient’s means of identification to
+Medicaid. It is hard to imagine when “uses” would not sim-
+ilarly be covered by, at least, one of the two other verbs.
+This risk of superfluity suggests giving §1028A(a)(1) a more
+precise reading.
+   In sum, §1028A(a)(1)’s title and text are mutually rein-
+forcing. Both point toward requiring the means of identifi-
+cation to be at the crux of the criminality.
+                               D
+   Section 1028A’s list of predicate offenses points to yet an-
+other stumbling block for the Government’s broad reading.
+Section 1028A(a)(1) is an enhancement, and a severe one at
+that. It adds a 2-year mandatory prison sentence onto un-
+derlying offenses that do not impose a mandatory prison
+sentence of any kind. See, e.g., 18 U. S. C. §1035 (“[f]alse
+statements relating to health care matters,” setting no min-
+imum sentence). This prevents sentencing judges from con-
+sidering the severity of the offense, even if the amount of
+money involved was quite small or there are other mitigat-
+ing factors. Interpretation of §1028A(a)(1) should thus re-
+flect the “distinction between” the aggravated identity theft
+crimes that “Congress sought to distinguish for heightened
+punishment and other crimes.” Leocal, 543 U. S., at 11.
+16                    DUBIN v. UNITED STATES
+
+                          Opinion of the Court
+
+   Far from distinguishing, the Government’s reading col-
+lapses the enhancement into the enhanced. Here, the Gov-
+ernment claims that because petitioner’s overbilling was fa-
+cilitated by the patient’s Medicaid reimbursement number,
+§1028A(a)(1) automatically applies. Patient names or other
+identifiers will, of course, be involved in the great majority
+of healthcare billing, whether Medicare for massages,
+Hong, 938 F. 3d, at 1051, or for ambulance stretcher ser-
+vices, Medlock, 792 F. 3d, at 706. Patient names will be on
+prescriptions, Berroa, 856 F. 3d, at 148, 155–156, and pa-
+tients committing fraud on their own behalf will often have
+to include the names of others on their forms, such as doc-
+tors or employers. Under the Government’s own reading,
+such cases are “automatically identity theft,” Tr. of Oral
+Arg. 82, independent of whether the name itself had any-
+thing to do with the fraudulent aspect of the offense.
+   Nor are these implications confined to healthcare. Sec-
+tion 1028A(a)(1)’s predicates include a vast array of of-
+fenses, including wire fraud and mail fraud. §1028A(c)(5).
+The Government’s boundless reading of “uses” and “in rela-
+tion to” would cover facilitating mail fraud by using another
+person’s name to address a letter to them.8 Even beyond
+
+——————
+   8 To avoid this, the Government has advanced a medley of shifting and
+
+inconsistent readings of “without lawful authority,” another element of
+§1028A(a)(1). Sometimes the Government has claimed that a defendant
+would not violate §1028A(a)(1) if they had permission to use a means of
+identification to commit a crime. See Brief for United States 32 (“every-
+one is presumed to have permission to use other people’s names” in cer-
+tain ways to facilitate crimes, such as addressing a letter); id., at 31–32
+(a defendant can have “lawful authority” to use a co-conspirator’s name
+to commit bank fraud). Other times the Government has argued that no
+one ever has permission to commit a crime. App. 32 (a person “can’t give
+someone [else] permission” to use their name to facilitate a crime); Tr. of
+Oral Arg. 91–92 (doctor would violate §1028A(a)(1) even if patient
+granted permission to use his name in the fraud). The Court need not,
+and does not, reach the proper interpretation of “without lawful author-
+ity.” Suffice it to say, these attempts to rein in §1028A(a)(1) through
+                    Cite as: 599 U. S. ____ (2023)                 17
+
+                        Opinion of the Court
+
+that, names or other means of identification are used rou-
+tinely for billing and payment, whether payment apps,
+credit and debit cards, a bill sent by mail, or an invoice sent
+electronically. So long as the criteria for the broad predi-
+cate offenses are met, the Government’s reading creates an
+automatic 2-year sentence for generic overbilling that hap-
+pens to use ubiquitous payment methods.
+   A far more sensible conclusion from the statutory struc-
+ture is that §1028A(a)(1)’s enhancement is not indiscrimi-
+nate, but targets situations where the means of identifica-
+tion itself plays a key role—one that warrants a 2-year
+mandatory minimum. This points once more to a targeted
+reading, where the means of identification is at the crux of
+the underlying criminality, not an ancillary feature of bill-
+ing.
+                               E
+    If more were needed, a final clue comes from the stagger-
+ing breadth of the Government’s reading. This Court has
+“ ‘traditionally exercised restraint in assessing the reach of
+a federal criminal statute.’ ” Marinello, 584 U. S., at ___
+(slip op., at 9) (quoting United States v. Aguilar, 515 U. S.
+593, 600 (1995)); see also Arthur Andersen LLP v. United
+States, 544 U. S. 696, 703–704 (2005); McBoyle v. United
+States, 283 U. S. 25, 27 (1931). This restraint arises “both
+out of deference to the prerogatives of Congress and out of
+concern that a fair warning should be given to the world in
+language that the common world will understan[d] of what
+the law intends to do if a certain line is passed.” Marinello,
+584 U. S., at ___ (slip op., at 4) (internal quotation marks
+omitted). After all, “[c]rimes are supposed to be defined by
+the legislature, not by clever prosecutors riffing on equivo-
+cal language.” Spears, 729 F. 3d, at 758.
+——————
+another element of the statute show that the Government itself under-
+stands the problems that arise from its sweeping reading of “uses” and
+“in relation to.”
+18                  DUBIN v. UNITED STATES
+
+                        Opinion of the Court
+
+   Time and again, this Court has prudently avoided read-
+ing incongruous breadth into opaque language in criminal
+statutes. In Van Buren v. United States, 593 U. S. ___
+(2021), the “far-reaching consequences” of the Govern-
+ment’s reading “underscore[d] the implausibility of the Gov-
+ernment’s interpretation.” Id., at ___ (slip op., at 17). In
+Marinello, the Court rejected the Government’s reading of
+a statute about obstructing administration of the Tax Code
+that would have swept in the “person who pays a babysitter
+$41 per week in cash without withholding taxes,” as well as
+someone who “leaves a large cash tip in a restaurant, fails
+to keep donation receipts from every charity to which he or
+she contributes, or fails to provide every record to an ac-
+countant.” 584 U. S., at ___ (slip op., at 7). Nor was all such
+conduct innocent, as the statute required an individual to
+act “ ‘corruptly.’ ” Id., at ___ (slip op., at 8). Even still, “[h]ad
+Congress intended” to sweep so far, “it would have spoken
+with more clarity than it did.” Id., at ___ (slip op., at 7). In
+Yates, the Court held that the Government’s “unrestrained”
+reading would have turned a provision focused on “records”
+and “documents” into “an all-encompassing ban on the spo-
+liation of evidence” that would “sweep within its reach
+physical objects of every kind,” including a fish. 574 U. S.,
+at 536, 540 (plurality opinion). Had Congress set out to do
+so, “one would have expected a clearer indication of that in-
+tent.” Ibid.
+   So too here. The Government’s reading would sweep in
+the hour-inflating lawyer, the steak-switching waiter, the
+building contractor who tacks an extra $10 onto the price of
+the paint he purchased. So long as they used various com-
+mon billing methods, they would all be subject to a manda-
+tory two years in federal prison. To say that such a result
+                      Cite as: 599 U. S. ____ (2023)                    19
+
+                          Opinion of the Court
+
+is implausible would be an understatement.9 Because eve-
+ryday overbilling cases would account for the majority of vi-
+olations in practice, the Government’s reading places at the
+core of the statute its most improbable applications.
+   Finally, the Government makes a familiar plea: There is
+no reason to mistrust its sweeping reading, because prose-
+cutors will act responsibly. To this, the Court gives a just-
+as-familiar response: We “cannot construe a criminal stat-
+ute on the assumption that the Government will ‘use it re-
+sponsibly.’ ” McDonnell, 579 U. S., at 576 (quoting United
+States v. Stevens, 559 U. S. 460, 480 (2010)). “[T]o rely upon
+prosecutorial discretion to narrow the otherwise wide-rang-
+ing scope of a criminal statute’s highly abstract general
+statutory language places great power in the hands of the
+prosecutor.” Marinello, 584 U. S., at ___ (slip op., at 9).
+This concern is particularly salient here. If §1028A(a)(1)
+applies virtually automatically to a swath of predicate of-
+fenses, the prosecutor can hold the threat of charging an
+additional 2-year mandatory prison sentence over the head
+of any defendant who is considering going to trial.
+                             III
+  All the points above are different wells drawing from the
+same source. The Court need not decide whether any of
+these points, standing alone, would be dispositive. Taken
+together, from text to context, from content to common
+sense, §1028A(a)(1) is not amenable to the Government’s
+attempt to push the statutory envelope. A defendant “uses”
+another person’s means of identification “in relation to” a
+predicate offense when this use is at the crux of what makes
+——————
+  9 Even the Government had trouble stomaching some of these results,
+
+offering inconsistent accounts of certain examples. The Government
+claimed, for example, that if “an applicant for a bank loan . . . slightly
+inflates his salary while correctly identifying the co-signer,” “the inclu-
+sion of the co-signer’s name is not ‘in relation to’ the fraud.” Brief for
+United States 31–32 (some internal quotation marks omitted). This can-
+not be squared with the Government’s own “facilitates” standard.
+20                     DUBIN v. UNITED STATES
+
+                            Opinion of the Court
+
+the conduct criminal. To be clear, being at the crux of the
+criminality requires more than a causal relationship, such
+as “ ‘facilitation’ ” of the offense or being a but-for cause of
+its “success.” Post, at 3, 5–6 (GORSUCH, J., concurring in
+judgment). Instead, with fraud or deceit crimes like the one
+in this case, the means of identification specifically must be
+used in a manner that is fraudulent or deceptive. Such
+fraud or deceit going to identity can often be succinctly sum-
+marized as going to “who” is involved.10
+   Here, petitioner’s use of the patient’s name was not at the
+crux of what made the underlying overbilling fraudulent.
+The crux of the healthcare fraud was a misrepresentation
+about the qualifications of petitioner’s employee. The pa-
+tient’s name was an ancillary feature of the billing method
+employed. The Sixth Circuit’s more colloquial formulation
+is a helpful guide, though like any rule of thumb it will have
+its limits. Here, however, it neatly captures the thrust of
+the analysis, as petitioner’s fraud was in misrepresenting
+how and when services were provided to a patient, not who
+received the services.
+
+
+
+——————
+  10 Adrift in a blizzard of its own hypotheticals, the concurrence believes
+
+that it is too difficult to discern when a means of identification is at the
+crux of the underlying criminality. Post, at 4. The concurrence’s bewil-
+derment is not, fortunately, the standard for striking down an Act of Con-
+gress as unconstitutionally vague. There will be close cases, certainly,
+but that is commonplace in criminal law. Equally commonplace are re-
+quirements that something play a specific role in an offense, whether
+that role is articulated as a “nexus,” Marinello v. United States, 584 U. S.
+___, ___ (2018) (slip op., at 10), a “locus,” Jones v. United States, 529 U. S.
+848, 855–856 (2000), or “proximate cause,” Robers v. United States, 572
+U. S. 639, 645 (2014). Such requirements are not always simple to apply.
+Yet resolving hard cases is part of the judicial job description. Hastily
+resorting to vagueness doctrine, in contrast, would hobble legislatures’
+ability to draw nuanced lines to address a complex world. Such an ap-
+proach would also leave victims of actual aggravated identity theft, a se-
+rious offense, without the added protection of §1028A(a)(1).
+                 Cite as: 599 U. S. ____ (2023)                 21
+
+                     Opinion of the Court
+
+                         *    *     *
+  Because petitioner did not use the patient’s means of
+identification in relation to a predicate offense within the
+meaning of §1028A(a)(1), the judgment of the Court of Ap-
+peals is vacated, and the case is remanded for further pro-
+ceedings consistent with this opinion.
+
+                                                  It is so ordered.
+                 Cite as: 599 U. S. ____ (2023)            1
+
+                   GORSUCH
+              GORSUCH        , J., concurring
+                     , J., concurring  in judgment
+
+SUPREME COURT OF THE UNITED STATES
+                          _________________
+
+                           No. 22–10
+                          _________________
+
+
+DAVID FOX DUBIN, PETITIONER v. UNITED STATES
+ ON WRIT OF CERTIORARI TO THE UNITED STATES COURT OF
+            APPEALS FOR THE FIFTH CIRCUIT
+                         [June 8, 2023]
+
+  JUSTICE GORSUCH, concurring in the judgment.
+  Whoever among you is not an “aggravated identity thief,”
+let him cast the first stone. The United States came to this
+Court with a view of 18 U. S. C. §1028A(a)(1) that would
+affix that unfortunate label on almost every adult Ameri-
+can. Every bill splitter who has overcharged a friend using
+a mobile-payment service like Venmo. Every contractor
+who has rounded up his billed time by even a few minutes.
+Every college hopeful who has overstated his involvement
+in the high school glee club. All of those individuals, the
+United States says, engage in conduct that can invite a
+mandatory 2-year stint in federal prison. The Court today
+rightly rejects that unserious position. But in so holding, I
+worry the Court has stumbled upon a more fundamental
+problem with §1028A(a)(1). That provision is not much bet-
+ter than a Rorschach test. Depending on how you squint
+your eyes, you can stretch (or shrink) its meaning to convict
+(or exonerate) just about anyone. Doubtless, creative pros-
+ecutors and receptive judges can do the same. Truly, the
+statute fails to provide even rudimentary notice of what it
+does and does not criminalize. We have a term for laws like
+that. We call them vague. And “[i]n our constitutional or-
+der, a vague law is no law at all.” United States v. Davis,
+588 U. S. ___, ___ (2019) (slip op., at 1).
+  The “[a]ggravated identity theft” statute stipulates that
+“[w]hoever, during and in relation to any felony violation”
+2                  DUBIN v. UNITED STATES
+
+                    GORSUCH
+               GORSUCH        , J., concurring
+                      , J., concurring  in judgment
+
+listed in a later subsection, “knowingly transfers, possesses,
+or uses, without lawful authority, a means of identification
+of another person shall, in addition to the punishment pro-
+vided for such felony, be sentenced to a term of imprison-
+ment of 2 years.” §1028A(a)(1). Today, the Court sets out
+to determine what conduct that law reaches. It is, as the
+Court acknowledges, no easy task. Both the term “us[e]”
+and the phrase “in relation to” can support a multitude of
+possible meanings. Ante, at 5–7. They of course “ ‘imply
+action and implementation.’ ” Ante, at 6 (quoting Bailey v.
+United States, 516 U. S. 137, 145 (1995)). Beyond that “gen-
+eral concept,” however, we must fend for ourselves based
+only on limited contextual clues. Ante, at 5–7.
+   The United States offers up a rapacious interpretation
+that would require only “the use of th[e] means of identifi-
+cation [to] ‘facilitat[e] or furthe[r]’ the predicate offense in
+some way.” Brief for United States 10 (emphasis added).
+Admittedly, this reading “fall[s] within the range” of plau-
+sible meanings the statute could support. Ante, at 7. But
+so too do other readings—ones that require a more demand-
+ing “nexus” between the “means of identification” and the
+underlying misconduct. Ante, at 7–8. For many of the rea-
+sons the Court gives (and more besides), I agree that we
+must adhere to those more restrained offerings. The United
+States’ maximalist approach has simplicity on its side, yes;
+an everybody-is-guilty standard is no challenge to adminis-
+ter. But the Constitution prohibits the Judiciary from re-
+solving reasonable doubts about a criminal statute’s mean-
+ing by rounding up to the most punitive interpretation its
+text and context can tolerate. See Wooden v. United States,
+595 U. S. ___, ___–___ (2022) (GORSUCH, J., concurring in
+judgment) (slip op., at 6–9). That insight alone means Mr.
+Dubin’s §1028A(a)(1) conviction cannot stand.
+   Unfortunately, our opinion cannot end there. Having told
+lower courts how not to read the statute, we owe them some
+guidance as to how they should read it. That is where the
+                  Cite as: 599 U. S. ____ (2023)            3
+
+                    GORSUCH
+               GORSUCH        , J., concurring
+                      , J., concurring  in judgment
+
+real challenge begins. Drawing on contextual clues and
+rules of statutory interpretation, the Court concludes that
+a violation of §1028A(a)(1) occurs whenever the “use of the
+means of identification is at the crux of the underlying crim-
+inality.” Ante, at 10 (emphasis added). “In other words, the
+means of identification specifically” must be in some way “a
+key mover in the criminality.” Ibid. (emphasis added). Put
+still another way, the “means of identification” must play
+the (or maybe a) “central role” in the commission of the of-
+fense. Ibid. (emphasis added).
+  Setting aside some definite-article inconsistency, those
+formulations all sound sensible enough. On closer review,
+however, they present intractable interpretive challenges of
+their own. When, exactly, is a “means of identification” “at
+the crux,” “a key mover,” or a “central role” player in an of-
+fense? No doubt, the answer “turns on causation, or at least
+causation often helps to answer the question.” United
+States v. Michael, 882 F. 3d 624, 628 (CA6 2018). The Court
+agrees but stresses that “a causal relationship” of any kind
+will not suffice. Ante, at 20. At the same time, however, it
+studiously avoids indicating whether the appropriate
+standard is proximate cause or something else entirely
+novel. Ibid. All of which gives rise to further questions. In
+virtually every fraud, a “means of identification” plays some
+critical role in the fraud’s success—good luck committing a
+mail or wire fraud, for instance, without relying heavily on
+the name of the victim and likely the names of other third
+parties. Just how much “causation” must a prosecutor es-
+tablish to sustain a §1028A(a)(1) conviction? For that mat-
+ter, how does one even determine the extent to which a
+“means of identification” “caused” an offense, as compared
+to the many other necessary inputs?
+  The Court supplies no firm answer. Instead, it leans on
+various illustrations that only highlight the difficulties in-
+herent in this exercise. Take, for instance, the Court’s as-
+surance that a “waiter who serves flank steak but charges
+4                 DUBIN v. UNITED STATES
+
+                   GORSUCH
+              GORSUCH        , J., concurring
+                     , J., concurring  in judgment
+
+for filet mignon using an electronic payment method” has
+not committed aggravated identity theft. Ante, at 1, 11.
+Why not, exactly? In one sense, the “means of identifica-
+tion” (the credit card) lies “at the crux” of the fraud. The
+restaurant uses it to charge the customer for a product it
+never supplied. Maybe that feels less distasteful than a sce-
+nario in which an overseas hacker steals an individual’s
+credit card information and deploys it to order luxury goods
+on Amazon. But the Constitution’s promise of due process
+means that criminal statutes must provide rules “knowable
+in advance,” not intuitions discoverable only after a prose-
+cutor has issued an indictment and a judge offers an opin-
+ion. Percoco v. United States, 598 U. S. ___, ___ (2023)
+(GORSUCH, J., concurring in judgment) (slip op., at 6).
+   Not yet convinced? Consider some tweaks to the Court’s
+hypothetical. Suppose that, instead of misrepresenting the
+cut of its steaks, a restaurant charged a customer for an
+appetizer he ordered that never arrived. What about an
+appetizer he never ordered? An additional entrée? Three?
+Three plus a $5,000 bottle of Moët? How about a Boeing
+737? Now suppose the restaurant ran the customer’s credit
+card for the same steak twice. What if it waited an hour to
+do so? A day? A year? What if the waiter gave the credit
+card information to a different employee at the same res-
+taurant to run the charge? A different employee at a differ-
+ent restaurant? What if the restaurant sold the customer’s
+credit card information on the dark web, and another res-
+taurant ran the card for filet mignon? On the Court’s tell-
+ing, the “crux” of the fraud in some of these examples lies
+merely in “how and when services were provided,” while in
+others the “crux” involves “who received the services.” Ante,
+at 20. But how to tell which is which?
+   The Court’s “crux” test seemingly offers no sure way
+through this “blizzard of . . . hypotheticals.” Ibid., n. 10.
+Nor is that because I have cherry-picked “hard cases.” Ibid.
+Scenarios like these—and variations of them—illustrate
+                  Cite as: 599 U. S. ____ (2023)            5
+
+                    GORSUCH
+               GORSUCH        , J., concurring
+                      , J., concurring  in judgment
+
+the sorts of problems that invariably arise in even simple
+§1028A(a)(1) cases involving bogus restaurant bills. Other
+contexts can present still greater complications and still
+deeper uncertainties. The problem we face, then, is not that
+§1028A(a)(1) presents some hard cases at its edges; the
+problem is this statute has no easy cases. Really, you could
+spend a whole day cooking up scenarios—ranging from the
+mundane to the fanciful—that collapse even your most
+basic intuitions about what §1028A(a)(1) does and does not
+criminalize. Try making up some of your own and running
+them by a friend or family member. You may be surprised
+at how sharply instincts diverge.
+   For the less adventurous, consider just the facts of the
+case now before us. On one framing, it seems outrageous to
+convict Mr. Dubin of aggravated identity theft. After all,
+the patient did (at one point) receive psychological testing.
+So you might say, as the Court does, that Mr. Dubin lied
+only about the qualifications of the individual who provided
+those services and the date on which they occurred. See
+ante, at 2, 20. But on another framing, the patient’s iden-
+tity was “a key mover,” perhaps even “at the crux,” of the
+fraud. Mr. Dubin could not have successfully billed the in-
+surance provider without accurately offering up some spe-
+cific patient’s name and information. Nor, as the United
+States notes, could Mr. Dubin have simply drawn a random
+name from a hat. Rather, his fraud depended on purloining
+the specific identity of a “Texas Medicaid enrollee who had
+at least three hours of psychological-testing reimbursement
+left in his or her account.” Brief for United States 13. Along
+the way, Mr. Dubin’s fraud directly harmed the patient by
+depriving him of his annual eligibility for otherwise-
+compensable psychological services. From the patient’s
+perspective, Mr. Dubin’s use of his “means of identification”
+could hardly feel “ancillary.” Ante, at 1–2.
+   As an abstract exercise, debating fact patterns like these
+may seem good fun. But there is nothing entertaining
+6                 DUBIN v. UNITED STATES
+
+                    GORSUCH
+               GORSUCH        , J., concurring
+                      , J., concurring  in judgment
+
+about a 2-year mandatory federal prison sentence. Crimi-
+nal statutes are not games to be played in the car on a cross-
+country road trip. To satisfy the constitutional minimum of
+due process, they must at least provide “ordinary people”
+with “fair notice of the conduct [they] punis[h].” Johnson v.
+United States, 576 U. S. 591, 595 (2015). And, respectfully,
+I do not see how §1028A(a)(1) can clear that threshold. Un-
+der the Court’s “crux” test, no boundary separates conduct
+that gives rise to liability from conduct that does not. And
+it appears I share this concern with the very lower court
+judges who will have to apply this standard prospectively.
+As even many of the Fifth Circuit dissenters below warned,
+the sort of “facilitation standard” the Court today adopts,
+“with its incidental/integral dividing line,” is unworkable
+because it “lacks clear lines and a limiting principle.” 27 F.
+4th 1021, 1042 (2022) (en banc) (Costa, J., dissenting). In
+the end, it is hard not to worry that the Court’s “crux” test
+will simply become a fig leaf for judges’ and jurors’ own sub-
+jective moral judgments about whether (as the Court itself
+puts it) the defendant’s crime is “one that warrants a 2-year
+mandatory minimum.” Ante, at 17.
+   I do not question that the Court today has done the best
+it might to make sense of this statute. It’s just that it faces
+an impossible task. In the past when this Court has grap-
+pled with similar statutory language, it has done so in con-
+texts where the relevant terms could carry only a few pos-
+sible (and comparatively fixed) meanings. For example,
+when it comes to the “us[e]” of a firearm “in relation” to a
+crime of violence, 18 U. S. C. §924(c)(1)(A), the presence of
+a gun could be a but-for cause of (or a necessary ingredient
+of ) the offense—used, for example, as compensation in an
+exchange for illicit drugs. Smith v. United States, 508 U. S.
+223, 237–238 (1993). Or the gun could be “ ‘used as a
+weapon’ ” by being discharged or brandished. Id., at 243
+(Scalia, J., dissenting). Because both those interpretations
+are relatively bounded and understandable, this Court
+                  Cite as: 599 U. S. ____ (2023)            7
+
+                    GORSUCH
+               GORSUCH        , J., concurring
+                      , J., concurring  in judgment
+
+could use principles of statutory interpretation to choose be-
+tween them. The same holds true for many of the other
+statutes the Court (mistakenly) frets I would call into
+doubt. See ante, at 20, n. 10.
+  The same cannot be said for §1028A(a)(1), though. There
+are an uncountable number of ways in which an individual
+could “us[e]” the “means of identification” of another to com-
+mit fraud. That list covers everything from including a vic-
+tim’s name in the subject line of a fraudulent email; to mis-
+representing information on a loan form involving a co-
+signer; to putting on a wig and walking into a bank with a
+fake ID. And no obvious neutral rule exists to separate
+those “uses” that violate §1028A(a)(1) from others that do
+not. In this way, §1028A(a)(1) is not just an “ambiguous”
+statute—“one that does define prohibited conduct with
+some precision, but [that] is subject to two or more different
+interpretations.” J. Decker, Addressing Vagueness, Ambi-
+guity, and Other Uncertainty in American Criminal Laws,
+80 Denver U. L. Rev. 241, 261 (2002) (emphasis added). In-
+stead, it is a vague statute—one that “does not satisfactorily
+define the proscribed conduct” at all. Id., at 260–261.
+  I do not write this opinion as wishcasting. Perhaps, by
+applying the Court’s “crux” test, lower courts will achieve a
+consistency that has, to date, eluded them. Or perhaps they
+will, prompted by today’s decision, locate a previously un-
+seen path through this statutory quagmire. But I would not
+hold my breath. Section 1028A(a)(1) simply does too little
+to specify which individuals deserve the inglorious title of
+“aggravated identity thief.” That is a problem Congress
+alone can fix. Until it does, I fear the issues that have long
+plagued lower courts will persist. And I will not be sur-
+prised if someday, maybe someday soon, they find their way
+back here.

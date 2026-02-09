@@ -1,0 +1,70 @@
+Cite as: 600 U. S. ____ (2023)              1
+
+                      Statement of ALITO, J.
+
+SUPREME COURT OF THE UNITED STATES
+       JONATHAN ROBERTS, ET AL. v. JAMES V.
+         MCDONALD, COMMISSIONER, NEW
+           YORK STATE DEPARTMENT
+               OF HEALTH, ET AL.
+   ON PETITION FOR WRIT OF CERTIORARI TO THE UNITED
+   STATES COURT OF APPEALS FOR THE SECOND CIRCUIT
+               No. 22–757.   Decided June 30, 2023
+
+   The petition for a writ of certiorari is denied.
+   Statement of JUSTICE ALITO, with whom JUSTICE
+THOMAS joins, respecting the denial of certiorari.
+   The circumstances underlying the dispute below have
+long since come and gone, and I therefore agree with the
+Court’s decision to deny review. But I write to note that
+this case involves an issue of ongoing importance: whether
+the Equal Protection Clause permits governments to use
+race or ethnicity as a proxy for health risk and therefore
+“prioritize the treatment of patients” on that basis. Roberts
+v. Bassett, 2022 WL 16936210, *3, n. 2 (CA2, Nov. 15, 2022)
+(Cabranes, J., concurring) (noting the “portentous legal is-
+sues” implicated by such policies).
+   When “several new COVID–19 treatments for high-risk
+patients” were approved in late 2021, the treatments were
+“briefly in short supply” relative to need. Id., at *1 (sum-
+mary order). New York State “instruct[ed] providers to fol-
+low” its guidance on “higher priority risk group[s]” so long
+as the “supply shortage persisted.” Ibid. Echoing similar
+guidance from the federal Centers for Disease Control and
+Prevention, the State’s guidance specified that “ ‘[n]on-
+white race or Hispanic/Latino ethnicity should be consid-
+ered a risk factor’ ” when prioritizing patients. Id., at *1, *3
+(alteration in original); Roberts v. Bassett, 2022 WL 785167,
+*2 (EDNY, Mar. 15, 2022). The State justified the use of
+2                   ROBERTS v. MCDONALD
+
+                      Statement of ALITO, J.
+
+race and ethnicity as proxies for health risk by appealing to
+“‘longstanding systemic health and social inequities.’” Rob-
+erts, 2022 WL 785167, at *2.
+   As we have stated many times and have recently reaf-
+firmed, the Equal Protection Clause places a “daunting” ob-
+stacle in the way of any government seeking to allocate
+benefits or burdens based on race or ethnicity, typically giv-
+ing way only when the measure in question is “ ‘narrowly
+tailored’ ”—that is, “ ‘necessary’ ”—to “remediat[e] specific,
+identified instances of past discrimination that violated the
+Constitution or a statute.” Students for Fair Admissions,
+Inc. v. President and Fellows of Harvard College, 600 U. S.
+___, ___ (2023) (slip op., at 15). Therefore, government ac-
+tors may not provide or withhold services based on race or
+ethnicity as a response to generalized discrimination or as
+a convenient or rough proxy for another trait that the gov-
+ernment believes to be “ ‘characteristic’ ” of a racial or ethnic
+group. Id., at ___ (slip op., at 20).
+   Under that precedent, New York’s general reference to
+“longstanding systemic health and social inequities” would
+not have sufficed to allow the State to deny a person medi-
+cal treatment simply because that person is viewed by the
+State as being a member of the wrong racial or ethnic group.
+The shortage at issue in this case appears, thankfully, to
+have concluded. But in the event that any government
+again resorts to racial or ethnic classifications to ration
+medical treatment, there would be a very strong case for
+prompt review by this Court.

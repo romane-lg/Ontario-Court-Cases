@@ -1,0 +1,309 @@
+Cite as: 604 U. S. ____ (2025)            1
+
+                     THOMAS, J., dissenting
+
+SUPREME COURT OF THE UNITED STATES
+   CYNTHIA DAVIS, WARDEN v. DAVID M. SMITH
+   ON PETITION FOR WRIT OF CERTIORARI TO THE UNITED
+    STATES COURT OF APPEALS FOR THE SIXTH CIRCUIT
+             No. 24–421.   Decided January 27, 2025
+
+   The petition for a writ of certiorari is denied.
+   JUSTICE THOMAS, with whom JUSTICE ALITO joins, dis-
+senting from the denial of certiorari.
+   The Antiterrorism and Effective Death Penalty Act of
+1996 (AEDPA) sharply limits the power of federal habeas
+courts to review state criminal convictions. The statute per-
+mits relief only when there is “no possibility fairminded ju-
+rists could disagree that the state court’s decision conflicts
+with this Court’s precedents.” Harrington v. Richter, 562
+U. S. 86, 102 (2011). Unfortunately, some Sixth Circuit
+judges have “acquired a taste for disregarding AEDPA” and
+our cases on how to apply it. Rapelje v. Blackston, 577 U. S.
+1019, 1021 (2015) (Scalia, J., dissenting from denial of cer-
+tiorari). The decision below is the latest example of this
+practice. Because I would not overlook the Sixth Circuit’s
+blatant and repeated disrespect for the rule of law, I re-
+spectfully dissent.
+                               I
+   Respondent David Smith met Quortney Tolliver in 2015,
+a few weeks before she was brutally attacked inside her mo-
+bile home. The two met through a mutual friend and took
+an 80-mile road trip to Cleveland to purchase crack cocaine.
+At some point after the trip, Smith asked Tolliver if he could
+buy crack from her. Tolliver informed Smith that her sup-
+ply had run out, but the pair later agreed that Smith would
+drive Tolliver to Cleveland to restock in exchange for a dis-
+count on the drugs.
+   On the day they were supposed to make the trip, Smith
+2                      DAVIS v. SMITH
+
+                    THOMAS, J., dissenting
+
+called Tolliver to confirm that she was ready. Tolliver indi-
+cated that she was, but Smith did not pick her up. Instead,
+shortly after the phone call ended, someone entered Tol-
+liver’s mobile home, brutally attacked her with a hammer,
+and robbed her.
+   When Tolliver regained consciousness, she stumbled out-
+side and screamed for help. Neighbors called an ambulance
+to take her to the hospital. Due to the severity of her inju-
+ries, which included skull and facial fractures, Tolliver was
+placed in a medically induced coma for about two weeks.
+   As soon as Tolliver awoke from the coma, investigators
+came to the hospital to interview her. Tolliver’s mother was
+in the room during the interview. Still unable to speak, Tol-
+liver communicated through writing and hand signals. In-
+vestigators showed Tolliver photos of 24 individuals, none
+of whom was Smith. Tolliver did not identify any of the
+individuals as her attacker.
+   In the meantime, investigators continued to search for
+Tolliver’s assailant. They determined that a phone number
+connected to Smith had exchanged 85 texts or calls with
+Tolliver’s phone number in the 24 hours before the attack.
+Cell-location data also revealed that, on the day of the
+crime, Smith had traveled near Tolliver’s home. And, DNA
+evidence recovered from the scene was consistent with
+Smith’s DNA.
+   A few weeks after the initial interview with Tolliver,
+Lieutenant Greg Johnson visited her in a medical facility
+where she was recovering. Her mother was once again pre-
+sent. Johnson told Tolliver, “I think I found out who did
+this to you,” adding that “[h]is name is David Smith” and
+“he knows you.” State v. Smith, 2018-Ohio-4799, ¶¶13, 21
+(App.) (internal quotation marks omitted). Johnson also
+showed Tolliver a photo of Smith. At first, Tolliver asked,
+“[W]ho is that?” Id., ¶21 (internal quotation marks omit-
+ted). Seconds later, she said that she recognized Smith and
+recalled that he was coming to her home on the day of the
+                 Cite as: 604 U. S. ____ (2025)            3
+
+                    THOMAS, J., dissenting
+
+attack. Johnson explained that Smith’s DNA was found in
+Tolliver’s mobile home. He also said that Smith is “very
+violent” and “hoping you’re dead.” Id., ¶100 (Grendell, J.,
+dissenting) (internal quotation marks omitted). At some
+point during the interview, Tolliver told Johnson that she
+either dreamt or remembered that Smith hit her with a
+hammer.
+   A few weeks later, Tolliver was sentenced on unrelated
+drug charges. She asked Johnson to meet with her after
+the sentencing. During the meeting, she told him that she
+remembered the incident and knew that Smith was her at-
+tacker. Johnson asked whether Tolliver was sure this was
+not a dream. She confirmed that she was “ ‘one hundred
+percent sure.’ ” 2024 WL 3596872, *3 (CA6, July 31, 2024).
+When asked why she had not previously revealed this in-
+formation, Tolliver said that she did not want her mother
+to know that she was selling drugs. She also did not want
+her admission to affect her then-pending drug charges.
+   The State of Ohio charged Smith with attempted murder
+and other related crimes. Before trial, Smith moved to sup-
+press Tolliver’s identification on the ground that Johnson
+was unnecessarily suggestive when interviewing her. The
+trial court denied the motion, and a jury found Smith guilty
+of attempted murder, felonious assault, aggravated rob-
+bery, and aggravated burglary. The trial court sentenced
+him to 22 years in prison. On direct appeal, Smith renewed
+his argument for suppression of Tolliver’s identification.
+   The Ohio Court of Appeals upheld the trial court’s deci-
+sion to admit the identification. 2018-Ohio-4799. The court
+acknowledged that Johnson’s identification procedure was
+unnecessary and impermissibly suggestive. Id., ¶37. But,
+the court correctly recognized that identifications tainted
+by unduly suggestive police procedures are excludable un-
+der the Fourteenth Amendment’s Due Process Clause only
+in exceedingly rare circumstances. See id., ¶¶36, 43. Un-
+der this Court’s precedents, an identification is excludable
+4                      DAVIS v. SMITH
+
+                     THOMAS, J., dissenting
+
+only if the testimony poses “ ‘a very substantial likelihood of
+irreparable misidentification.’ ” Perry v. New Hampshire,
+565 U. S. 228, 232 (2012). In other words, an identification
+that has “sufficient aspects of reliability” is admissible.
+Manson v. Brathwaite, 432 U. S. 98, 106 (1977). And, to
+determine whether an identification is sufficiently reliable,
+courts examine the totality of the circumstances. See Neil
+v. Biggers, 409 U. S. 188, 199 (1972). This Court has offered
+five factors, known as the Biggers factors, to guide that in-
+quiry. See id., at 199–200.
+   The Ohio Court of Appeals applied Biggers and held that
+Tolliver’s identification was sufficiently reliable. See 2018-
+Ohio-4799, ¶¶38–49 (citing Biggers, 409 U. S., at 198–200).
+The Ohio Supreme Court denied review. State v. Smith,
+156 Ohio St. 3d 1452, 2019-Ohio-2780, 125 N. E. 3d 947.
+   Smith then filed a federal habeas petition raising the
+same claim. The District Court determined that the state
+court’s analysis was reasonable and denied relief. But,
+when Smith appealed to the Sixth Circuit, a divided panel
+reversed and directed the District Court to issue the writ,
+unless the State could hold a new trial within 180 days.
+2024 WL 3596872.
+                               II
+  Judge Thapar’s dissent offers a detailed account of the
+Sixth Circuit panel majority’s errors. Two of those errors
+are particularly egregious.
+  First, the panel majority refused to apply AEDPA’s
+highly deferential standard of review. Because the Ohio
+Court of Appeals rejected Smith’s claim on the merits,
+AEDPA bars federal habeas relief unless the state court’s
+decision “was contrary to, or involved an unreasonable ap-
+plication of, clearly established Federal law, as determined
+by the Supreme Court of the United States.” 28 U. S. C.
+§2254(d)(1). We have made unmistakably clear that a re-
+viewing court may not “ ‘essentially evaluat[e] the merits de
+                  Cite as: 604 U. S. ____ (2025)             5
+
+                     THOMAS, J., dissenting
+
+novo, only tacking on a perfunctory statement at the end of
+its analysis asserting that the state court’s decision was un-
+reasonable.’ ” Shinn v. Kayer, 592 U. S. 111, 119 (2020) (per
+curiam). Yet, the panel majority did just that.
+   The panel majority began its analysis by applying the
+Biggers factors in the first instance. 2024 WL 3596872, *9.
+It then appended a single-sentence assertion that “no fair-
+minded jurist could possibly” disagree with its analysis.
+Ibid. The panel majority’s exercise in de novo review side-
+stepped the operative legal question under AEDPA—
+whether there is “no possibility fairminded jurists could dis-
+agree that the state court’s decision conflicts with this
+Court’s precedents.” Harrington, 562 U. S., at 102 (empha-
+sis added). That inquiry requires substantial deference to
+the state court’s determinations. Ibid.
+   To be sure, the panel majority acknowledged in passing
+its obligation to “examine all theories that could have sup-
+ported the state court’s conclusion.” 2024 WL 3596872, *9.
+But, rather than perform that task, the panel majority
+faulted the state court for a supposed error that is not
+clearly established under this Court’s precedents. See ibid.
+Specifically, it took issue with the state court’s heavy reli-
+ance “upon the fact that Tolliver knew Smith before the
+crime” when assessing the reliability of Tolliver’s identifi-
+cation under the totality of the circumstances. Ibid. Ac-
+cording to the panel majority, the fact that a victim knows
+a suspect is relevant only if the court first determines that
+“a majority of the Biggers factors cut in favor of a finding of
+reliability.” Ibid. This Court has never identified such a
+limitation.     Without a Supreme Court decision that
+“squarely establishe[s]” the “specific legal rule” invoked by
+the prisoner, the state court’s decision could not have in-
+volved “an unreasonable application of clearly established
+6                          DAVIS v. SMITH
+
+                         THOMAS, J., dissenting
+
+Federal law.” Harrington, 562 U. S., at 101 (internal quo-
+tation marks omitted).*
+   To the extent that the panel majority disagreed with the
+degree to which the state court’s analysis relied on Tol-
+liver’s prior interactions with Smith, it was left with a mere
+“disagreement . . . about how to weigh evidence.” 2024 WL
+3596872, *15 (Thapar, J., dissenting). In that instance, as
+Judge Thapar well explained, AEDPA requires a federal
+court to defer to the state court, unless “clearly established
+Supreme Court precedent stands in the way.” Ibid. The
+panel majority flouted AEDPA’s command.
+   The panel majority also erred by critiquing the Ohio
+court’s opinion-writing style rather than its judgment. The
+panel majority faulted the Ohio Court of Appeals for
+“largely fail[ing]” to apply Biggers and “halfheartedly devot-
+ing a couple sentences to its analysis.” 2024 WL 3596872,
+*7, *9. But, a state court need not explain its reasoning at
+all. See Harrington, 562 U. S., at 98 (“There is no text in
+[§§2254(d)(1)–(d)(2)] requiring a statement of reasons”).
+Federal courts “have no authority to impose mandatory
+opinion-writing standards on state courts.” Johnson v. Wil-
+liams, 568 U. S. 289, 300 (2013). And, in any event, the
+Ohio Court of Appeals cited and quoted directly from Big-
+gers, listed its factors, and analyzed the correct legal ques-
+tion—that is, whether Tolliver’s identification was reliable
+under the totality of the circumstances. See 2018-Ohio-
+4799, ¶¶37–49. As Judge Thapar explained, the majority
+implausibly assumed that the state court “refused to apply
+a test it had taken the trouble to recite,” and then it mis-
+takenly focused on the state court’s “reasoning rather than
+its bottom-line decision.” 2024 WL 3596872, *14 (dissenting
+
+——————
+   * I doubt that the panel majority’s analysis could pass muster even un-
+der de novo review. It strains credulity to think that previous interac-
+tions with a suspect would not bear on a totality-of-the-circumstances
+assessment of reliability.
+                  Cite as: 604 U. S. ____ (2025)             7
+
+                     THOMAS, J., dissenting
+
+opinion) (internal quotation marks omitted). “ ‘[M]ischarac-
+terization of the state-court opinion’ ” is a “path that we
+have long foreclosed.” Dunn v. Reeves, 594 U. S. 731, 742
+(2021) (per curiam) (quoting Woodford v. Visciotti, 537 U. S.
+19, 22 (2002) (per curiam)).
+  The panel majority’s errors have real consequences. The
+State of Ohio must retry Smith for a crime committed
+nearly a decade ago. That result comes at a steep cost for
+both society and the victim. Retrial diverts significant time
+and resources away from other law enforcement activities,
+and it is often “more difficult” because of “the ‘erosion of
+memory’ and ‘dispersion of witnesses’ that accompany the
+passage of time.” Brecht v. Abrahamson, 507 U. S. 619, 637
+(1993). Moreover, retrials “inflic[t] substantial pain on
+crime victims who must testify again and endure new tri-
+als.” Edwards v. Vannoy, 593 U. S. 255, 263 (2021). And,
+there is always a risk that retrial is unsuccessful. “When
+previously convicted perpetrators of violent crimes go free
+merely because the evidence needed to conduct a retrial has
+become stale or is no longer available, the public suffers, as
+do the victims.” Ibid.
+  I would have granted certiorari and summarily reversed.
+Smith did not make the required showing for habeas relief,
+and the Sixth Circuit’s analysis blatantly disregards both
+AEDPA and this Court’s precedents in order to give Smith
+a regrettable windfall.
+                             III
+  The decision below is the latest in a long line of Sixth Cir-
+cuit AEDPA errors. This Court has reversed the Sixth Cir-
+cuit at least two dozen times for misapplying AEDPA. See
+Shoop v. Twyford, 596 U. S. 811 (2022); Brown v. Daven-
+port, 596 U. S. 118 (2022); Cassano v. Shoop, 10 F. 4th 695,
+696–697 (CA6 2021) (Griffin, J., dissenting from denial of
+rehearing en banc) (collecting 22 earlier cases in which this
+8                       DAVIS v. SMITH
+
+                      THOMAS, J., dissenting
+
+Court reversed the Sixth Circuit “for not applying the def-
+erence to state-court decisions mandated by AEDPA”).
+And, these reversals only scratch the surface of the Sixth
+Circuit’s defiance. See, e.g., Shoop v. Cunningham, 598
+U. S. ___ (2022) (THOMAS, J., dissenting from denial of cer-
+tiorari); Shoop v. Cassano, 596 U. S. ___ (2022) (THOMAS,
+J., dissenting from denial of certiorari); Blackston, 577 U. S.
+1019 (opinion of Scalia, J.). “That court’s record of ‘plain
+and repetitive’ AEDPA error is an insult to Congress and a
+disservice to the people of Michigan, Ohio, Kentucky, and
+Tennessee.” Cunningham, 598 U. S., at ___ (opinion of
+THOMAS, J.) (slip op., at 13) (citation omitted). The Sixth
+Circuit can and must do more to correct its own errors. See
+ibid.
+   Some “reluctance in deploying en banc review is under-
+standable,” but “only to a point.” Id., at ___ (slip op., at 14).
+“The Sixth Circuit’s habeas problems are well past that
+point—as evidenced by the depressing regularity with
+which petitions like this one reach us.” Ibid. When way-
+ward panels refuse to apply AEDPA, hopefully, the Sixth
+Circuit will correct its errors by rehearing the case en banc.
+See 28 U. S. C. §46(c); Fed. Rule App. Proc. 40(c).
+   This Court also has a job to do. While “primary responsi-
+bility for the Sixth Circuit’s errors rests with the Sixth Cir-
+cuit,” we too must “correct classic AEDPA abuses, especially
+when a lower court brazenly commits errors for which we
+have repeatedly reversed it.” Cunningham, 598 U. S., at
+___ (opinion of THOMAS, J.) (slip op., at 13). I would have
+summarily reversed the judgment below to ensure that fed-
+eral courts do not exceed their very limited role in collateral
+review of state criminal convictions. I respectfully dissent
+from the denial of certiorari.

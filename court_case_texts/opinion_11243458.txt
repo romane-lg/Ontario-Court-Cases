@@ -1,0 +1,1193 @@
+PRELIMINARY PRINT
+
+              Volume 604 U. S. Part 1
+                             Pages 140–167
+
+
+
+
+       OFFICIAL REPORTS
+                                     OF
+
+
+   THE SUPREME COURT
+                             February 21, 2025
+
+
+Page Proof Pending Publication
+
+
+                    REBECCA A. WOMELDORF
+                           reporter of decisions
+
+
+
+
+    NOTICE: This preliminary print is subject to formal revision before
+  the bound volume is published. Users are requested to notify the Reporter
+  of Decisions, Supreme Court of the United States, Washington, D. C. 20543,
+  pio@supremecourt.gov, of any typographical or other formal errors.
+140                      OCTOBER TERM, 2024
+
+                                  Syllabus
+
+
+WISCONSIN BELL, INC. v. UNITED STATES ex rel.
+                  HEATH
+
+certiorari to the united states court of appeals for
+                the seventh circuit
+ No. 23–1127. Argued November 4, 2024—Decided February 21, 2025
+The E-Rate (short for Education-Rate) program, established under the
+  Telecommunications Act of 1996, subsidizes internet and other telecom-
+  munications services for schools and libraries across the United States.
+  To fnance those subsidies, Congress required that telecommunications
+  carriers pay into a fund (now known as the Universal Service Fund)
+  that is administered by the Universal Service Administrative Company,
+  a private not-for-proft corporation. The Company collects and distrib-
+  utes the resulting pot of money to benefciaries pursuant to regulations
+  prescribed by the Federal Communications Commission (FCC). In ad-
+  dition to providing for subsidies, those regulations impose upon carriers
+  a rule called the “lowest corresponding price” rule, which prohibits
+  them from charging schools and libraries more than what they would
+Page Proof Pending Publication
+  charge a “similarly situated” non-residential customer. Once an appro-
+  priate charge is set, a school can obtain its subsidy by paying the carrier
+  a discounted price and requiring the carrier to seek the remainder from
+  the Fund, or by paying the carrier full freight and then applying for
+  reimbursement from the Fund.
+    Respondent Todd Heath is an auditor of telecommunications bills who
+  believes that petitioner Wisconsin Bell defrauded the E-Rate program
+  out of millions of dollars. According to Heath, Wisconsin Bell consist-
+  ently overcharged schools in violation of the “lowest corresponding
+  price” rule. Heath brought suit under the False Claims Act (FCA),
+  which enables private parties to bring civil actions on the Government's
+  behalf to protect federal programs and funds from fraud. The FCA
+  imposes civil liability on any person who “knowingly presents, or causes
+  to be presented, a false or fraudulent claim” as statutorily defned. 31
+  U. S. C. § 3729(a)(1)(A). In Heath's view, Wisconsin Bell's violations of
+  the “lowest corresponding price” rule led to reimbursement requests
+  for amounts higher than the E-Rate program should have paid. The
+  premise of Heath's suit is that an E-Rate reimbursement request can
+  give rise to FCA liability because it qualifes as a “claim,” which, as
+  relevant here, requires the Government to “provide[ ] or ha[ve] provided
+  any portion of the money” requested. § 3729(b)(2)(A)(ii)(I).
+                      Cite as: 604 U. S. 140 (2025)                  141
+
+                                Syllabus
+
+     Wisconsin Bell moved to dismiss Heath's suit. In its view, an E-rate
+  reimbursement request can never qualify as a “claim” under the FCA
+  because the money comes from private carriers and is handled by a
+  private corporation, meaning the Government does not “provide[ ] any
+  portion of the money” requested. The District Court and the Seventh
+  Circuit rejected that argument. The Court of Appeals held that the
+  Government “provided” E-Rate program funding for two independent
+  reasons. First, it held that the Government provided all the money in
+  the program through its regulatory role in the collection and distribu-
+  tion of contributions. Second and more narrowly, it found that the Gov-
+  ernment provided some “portion” of E-Rate funding by depositing into
+  the Fund, in the relevant years, more than $100 million directly from
+  the U. S. Treasury.
+Held: The E-Rate reimbursement requests at issue are “claims” under the
+ FCA because the Government “provided” (at a minimum) a “portion”
+ of the money applied for by transferring more than $100 million from
+ the Treasury into the Fund. § 3729(b)(2)(A)(ii)(I). The question is
+ whether the Government “provided”—in ordinary meaning, supplied,
+ furnished, or made available—any portion of the money sought. While
+ the parties (mirroring the Seventh Circuit's opinion) discuss two inde-
+Page Proof Pending Publication
+ pendent theories under which the Government potentially “provided”
+ the requested funds, here it is enough that the Government provided
+ some E-Rate moneys through the Treasury's own transfer of over $100
+ million into the Fund. That amount consisted of delinquent contribu-
+ tions that the FCC and Treasury Department collected from carriers, as
+ well as civil settlements and criminal restitution payments from Justice
+ Department activities in response to wrongdoing in the E-Rate pro-
+ gram. The Government therefore “provided [a] portion of the money”
+ disbursed from the Fund to reimburse E-Rate program participants.
+    Wisconsin Bell argues that even the $100 million was provided only
+ by the carriers, with the Government playing no more than an interme-
+ diary role. But to start with, Wisconsin Bell mischaracterizes the Gov-
+ ernment's role. Rather than acting as a passive throughway for the
+ transmission of the $100 million, it generated that money itself by ex-
+ tracting it from carriers and by prosecuting wrongdoing in the E-Rate
+ program. And anyway, a simple intermediary can sometimes also “pro-
+ vide” things to a recipient—and the Government, even if viewed only
+ in that light, would do so here. For example, a proctor for an exam
+ “provides” blue books and pencils to students, even if she has not pur-
+ chased them herself and has instead gotten them from the school. The
+ same is true here: The Government “provided” the relevant $100 million
+ to the Fund by collecting it and routing it through Treasury accounts.
+142     WISCONSIN BELL, INC. v. UNITED STATES ex rel.
+                          HEATH
+                          Syllabus
+
+     Here, in the years relevant to Heath's FCA suit, the Government
+  “provided” a “portion of the money requested” for E-Rate subsidies by
+  collecting, holding, and transferring $100 million by way of the Treasury.
+  Indeed, those transfers look like most Government spending: Money
+  usually comes to the Government from private parties, and it then usu-
+  ally goes out to the broader community to fund programs and activities.
+  That conclusion is enough to enable Heath's FCA suit to proceed.
+  Pp. 148–155.
+92 F. 4th 654, affrmed and remanded.
+
+  Kagan, J., delivered the opinion for a unanimous Court. Thomas, J.,
+fled a concurring opinion, in which Kavanaugh, J., joined, and in which
+Alito, J., joined as to Part I, post, p. 155. Kavanaugh, J., fled a concur-
+ring opinion, in which Thomas, J., joined, post, p. 167.
+
+  Allyson N. Ho argued the cause for petitioner. With her
+on the briefs were Helgi C. Walker, Andrew LeGrand, Ash-
+ley E. Johnson, Stephen J. Hammer, and Patrick J. Fuster.
+  Tejinder Singh argued the cause for respondent. With
+Page Proof Pending Publication
+him on the brief were David J. Chizewer, Roger A. Lewis,
+and Harleen Kaur.
+  Vivek Suri argued the cause for the United States as ami-
+cus curiae urging affrmance. With him on the brief were
+Solicitor General Prelogar, Principal Deputy Assistant At-
+torney General Boynton, Deputy Solicitor General Stewart,
+Michael S. Raab, Charles W. Scarborough, and Kevin J.
+Kennedy.*
+
+   *Briefs of amici curiae urging reversal were fled for the Center for
+Constitutional Responsibility by Steven P. Lehotsky, Andrew B. Davis,
+and Karen R. Harned; for the Chamber of Commerce of the United States
+of America by John P. Elwood and Andrew R. Varcoe; for the DRI–Center
+for Law and Public Policy by Mary Massaron; for USTelecom–The Broad-
+band Association et al. by Scott H. Angstreich; and for the Washington
+Legal Foundation by John M. Masslon II and Cory L. Andrews.
+   Briefs of amici curiae urging affrmance were fled for the Anti-Fraud
+Coalition by Chandra A. Napora; for Professors of Law et al. by Michael
+Lieberman and Jamie Crooks; and for the Southern Education Foundation
+et al. by Meredith R. Aska McBride.
+                   Cite as: 604 U. S. 140 (2025)            143
+
+                      Opinion of the Court
+
+   Justice Kagan delivered the opinion of the Court.
+   The E-Rate (short for Education-Rate) program subsidizes
+internet and other telecommunications services for schools
+and libraries across the United States. Established under
+the Telecommunications Act of 1996, 110 Stat. 56, the pro-
+gram disburses funds—collected from telecommunications
+carriers and managed by a private corporation—to cover a
+substantial percentage of a school's internet costs. The
+funds are payable, under Federal Communications Commis-
+sion (FCC) regulations, to either a carrier or a school upon
+receipt of a reimbursement request.
+   This case asks us to decide whether such a request can
+count as a “claim” under the False Claims Act (FCA or Act),
+31 U. S. C. §§ 3729–3733. The FCA protects government
+funds and programs by imposing civil liability on any person
+who knowingly presents a false or fraudulent “claim” as stat-
+utorily defned. In the part of the defnition relevant here,
+Page Proof Pending Publication
+a request for money qualifes as a claim if the Government
+“provides or has provided any portion of the money . . . re-
+quested.” § 3729(b)(2)(A)(ii)(I). We hold today that the
+E-Rate reimbursement requests at issue satisfy that require-
+ment because the Government provided (at a minimum) a
+“portion” of the money applied for. In the years in which
+those requests were made, the Government transferred more
+than $100 million from the Treasury into the pool of funds
+used to pay E-Rate subsidies. That is enough to create a
+“claim” under the Act, and to allow a suit alleging fraud to
+go forward.
+                              I
+   Congress and the FCC have long worked to ensure that
+“all the people of the United States” have access, at reason-
+able prices, to telecommunications and information services.
+47 U. S. C. § 151; see § 254(b). In keeping with that goal, the
+Telecommunications Act of 1996 directed the FCC to estab-
+lish several so-called universal-service programs for popula-
+144    WISCONSIN BELL, INC. v. UNITED STATES ex rel.
+                         HEATH
+                   Opinion of the Court
+
+tions or institutions needing improved access. See § 254.
+That statute identifed, for example, consumers in rural
+areas, consumers with low incomes, and—critical here—
+elementary schools, secondary schools, and libraries as ap-
+propriate recipients of subsidies or other assistance. See
+§§ 254(b), (h)(1).
+   To fnance those measures, Congress required that tele-
+communications carriers pay into a fund—now known as the
+Universal Service Fund—as FCC regulations prescribe.
+See § 254(d). Under those rules, the FCC determines each
+quarter the percentage of revenues that a carrier must con-
+tribute. See 47 CFR §§ 54.706, 54.709(a) (2023). The FCC,
+however, does not manage the Fund's day-to-day operations.
+Rather, it has “appointed” the Universal Service Administra-
+tive Company, a private not-for-proft corporation, as the
+Fund's “Administrator.” § 54.701(a); see App. 34. The Ad-
+ministrative Company generally bills and collects contribu-
+tions from carriers—though the FCC plays a role in pursu-
+Page Proof Pending Publication
+ing delinquents. See § 54.702; App. 37–38, 40–43; in fra,
+at 150. And the Company distributes the resulting pot of
+money, as FCC rules provide, to program benefciaries.
+See § 54.702(b).1
+   Among those benefciaries are public and private schools
+and libraries, under what is commonly called the E-Rate pro-
+gram. See 47 U. S. C. §§ 254(b)(6), (h)(1)(B); 47 CFR § 54.500
+et seq. That program subsidizes between 20 and 90 percent
+of a school's total charges for internet and other telecommu-
+nications services, with higher percentages for schools in
+rural or low-income areas. See §§ 54.505(a)–(c). And the
+program protects the value of that subsidy by preventing a
+
+  1
+    The precise relationship between the FCC and the Administrative
+Company is in dispute in other litigation. See, e. g., Consumers' Research
+v. FCC, 109 F. 4th 743, 750 (CA5) (en banc), cert. granted, 604 U. S. 1029
+(2024). The details of that relationship are irrelevant here, and we ex-
+press no views on that score. Nor do we comment on any other matter
+pertaining to the constitutionality of the universal-service programs.
+                   Cite as: 604 U. S. 140 (2025)            145
+
+                      Opinion of the Court
+
+carrier from infating its non-discounted prices. Under the
+“lowest corresponding price” rule, a carrier may not charge a
+school a higher sticker price than it would charge a “similarly
+situated” customer. §§ 54.500, 54.511(b). Once an appro-
+priate charge is set, a school can obtain its subsidy in either
+of two ways. See § 54.514(c). The school can pay the car-
+rier only the discounted price, thus requiring the carrier to
+seek the remainder from moneys held in the Fund. Or the
+school can pay the carrier full freight and itself apply for
+reimbursement.
+   Respondent Todd Heath is an auditor of telecommunica-
+tions bills who believes that petitioner Wisconsin Bell de-
+frauded the E-Rate program out of millions of dollars. Ac-
+cording to Heath, the carrier fouted the FCC's “lowest
+corresponding price” rule for more than a decade (from 2002
+to 2015) by charging schools a higher full price than it
+charged other, similarly situated customers. And as Heath
+Page Proof Pending Publication
+notes, overcharges of that kind inevitably lead to overpay-
+ments from the Fund. Take a hypothetical example. If the
+lowest corresponding price for a service is $1,000 and a
+school is entitled to a 60% subsidy, then the E-Rate program
+should pay out $600. But if Wisconsin Bell, in violation of
+the rule, instead charged the school a full price of $1,500,
+then the program would instead confer a subsidy of $900.
+(And the school, rather than pay $400, would pay $600.) The
+carrier, in Heath's view, thus wrongly amassed revenues at
+the E-Rate program's expense.
+   That accusation is at the heart of a lawsuit Heath brought
+against Wisconsin Bell under the FCA. Enacted during the
+Civil War to protect federal programs and funds from fraud,
+that law enables private parties to bring civil actions on the
+Government's behalf, and to share in any monetary recovery.
+See United States ex rel. Polansky v. Executive Health Re-
+sources, Inc., 599 U. S. 419, 424–425 (2023). A defendant is
+liable under the Act if it “knowingly presents, or causes to
+be presented, a false or fraudulent claim for payment.” 31
+146     WISCONSIN BELL, INC. v. UNITED STATES ex rel.
+                          HEATH
+                    Opinion of the Court
+
+U. S. C. § 3729(a)(1)(A). In Heath's view, Wisconsin Bell en-
+gaged in that conduct many times over by way of violating
+the FCC's “lowest corresponding price” rule. App. 62–82
+(complaint). All those violations led to reimbursement re-
+quests, by either Wisconsin Bell or a school, for amounts
+higher than the E-Rate program should have had to pay.
+Plus, all Wisconsin Bell's own requests included a false certi-
+fcation (or so Heath alleged) that it had complied with the
+program's rules, including the one about pricing.
+   The premise of Heath's suit is that an E-Rate reimburse-
+ment request can give rise to FCA liability because it fts
+within the statute's defnition of the term “claim.” That
+defnition varies depending on whether a “request or de-
+mand” for money is made to a federal employee or agent, or
+instead to an “other recipient.” § 3729(b)(2)(A). Assuming
+that the Administrative Company—the recipient of E-Rate
+reimbursement requests—falls within the “other” rather
+than the “agent” category, such a request must meet two
+Page Proof Pending Publication
+requirements to count as an FCA “claim.” 2 First, the
+money requested must be “spent or used on the Govern-
+ment's behalf or to advance a Government program or in-
+terest.” § 3729(b)(2)(A)(ii). And second, the Government
+must “provide[ ] or ha[ve] provided any portion of the
+money” requested. § 3729(b)(2)(A)(ii)(I). The statutory
+defnition, though, also offers a caveat: It is immaterial, in
+assessing whether those requirements are met, “whether or
+not the United States has title to the money” at issue.
+§ 3729(b)(2)(A).3
+  2
+    The parties have disputed throughout this litigation whether the Ad-
+ministrative Company is actually an “agent” of the United States, and
+therefore not subject to the two requirements about to be described. But
+our disposition of this case makes that issue immaterial, and we therefore
+express no view of its merits. See infra, at 148, n. 4 (noting the Court of
+Appeals' treatment of the question).
+  3
+    Congress's most recent amendments to the “claim” defnition (which
+included adding the title provision) occurred in 2009, after some of the
+disputed reimbursement requests were made. But Wisconsin Bell does
+                       Cite as: 604 U. S. 140 (2025)                    147
+
+                           Opinion of the Court
+
+   Wisconsin Bell moved to dismiss Heath's suit, arguing that
+under the FCA's defnition an E-Rate reimbursement re-
+quest can never qualify as a “claim.” The carrier did not
+deny that the money so requested “advance[s] a Government
+program,” as the defnition frst requires. That money, after
+all, simply is the E-Rate program's subsidy. But Wisconsin
+Bell contended that an E-Rate reimbursement request funks
+the second requirement, because the Government does not
+“provide[ ] any portion of the money” requested. In Wiscon-
+sin Bell's view, all the money in the E-Rate program is “pri-
+vate,” rather than “federal.” No. 2:08–cv–00724 (ED Wis.,
+Nov. 25, 2014), ECF Doc. 97, p. 6. That is because the
+money comes from private carriers' contributions, and a pri-
+vate corporation handles its collection and disbursement.
+See id., at 12–13. “The federal government,” Wisconsin
+Bell averred, does not provide “a single penny to the Fund.”
+Id., at 12.
+   After the District Court denied the motion, the Court of
+Page Proof Pending Publication
+Appeals for the Seventh Circuit held that E-Rate reimburse-
+ment requests ft the FCA's defnition of “claim.” The Court
+of Appeals found two “independent paths” for concluding,
+contra Wisconsin Bell, that the Government “provided” E-
+Rate program funding. 92 F. 4th 654, 666 (2024). First, the
+court held that the Government provided all the money in
+the program through its regulatory role in the “collection
+and distribution” of contributions—most notably, by initially
+
+not contend that those amendments require separate analysis of the pre-
+and post-2009 requests to resolve the issues we address. In discussing
+those issues, the carrier cites the current defnition and describes the
+amendments (including the title provision) as merely clarifying existing
+law. See Brief for Wisconsin Bell 24–25, 39; Reply Brief 5–6. We as-
+sume without deciding that its characterization is correct, and thus use
+only the FCA's current defnition of “claim.” Cf. Universal Health Serv-
+ices, Inc. v. United States ex rel. Escobar, 579 U. S. 176, 185, n. 1 (2016)
+(noting in another FCA case involving both pre- and post-2009 requests
+that no party argued and “we thus do not consider[ ] whether pre-2009
+conduct should be treated differently”).
+148     WISCONSIN BELL, INC. v. UNITED STATES ex rel.
+                          HEATH
+                    Opinion of the Court
+
+requiring the carriers to pay into the Fund. Id., at 671; see
+id., at 669. Second and more narrowly, the court found that
+the Government provided some “portion” of E-Rate funding
+by depositing into the Fund, in the relevant years, “more
+than $100 million directly from the U. S. Treasury.” Id., at
+667. That contribution of Treasury money, even if a small
+part of the Fund's total, was enough to qualify the E-Rate
+reimbursement requests as FCA “claims.” See ibid.4
+  In a similar case, the Court of Appeals for the Fifth
+Circuit held that E-Rate reimbursement requests do not so
+qualify—although that court considered only the “broad[er]
+view” of how the Government “provides” E-Rate funding.
+United States ex rel. Shupe v. Cisco Systems, Inc., 759 F. 3d
+379, 383–384 (2014) (per curiam); id., at 387–388 (fnding the
+FCC's “regulatory supervision” of the program insuffcient
+to show that the Government provided E-Rate funds).
+  We granted certiorari to resolve the circuit split over
+Page Proof Pending Publication
+whether E-Rate reimbursement requests are FCA “claims.”
+602 U. S. 1030 (2024). We need reach no further today than
+the narrower ($100 million) ground on which the court below
+ruled. The requests at issue qualify as claims because, in
+the years they were submitted, the U. S. Treasury deposited
+money into the Fund for disbursement to those entitled to
+E-Rate subsidies.
+                              II
+  The E-Rate reimbursement requests at issue count as
+FCA “claims” if the Government “provides or has provided
+any portion of the money” requested. § 3729(b)(2)(A)(ii)(I).
+Is that language satisfed when a school or carrier asks for
+E-Rate program funds? Because the Act does not defne
+
+   4
+     Finding yet a third path to the same outcome, the Seventh Circuit also
+held that the Administrative Company is an “agent” of the Government.
+See 92 F. 4th, at 667–668. As noted above, that conclusion (if correct)
+obviates the FCA's requirement that the Government “provide” any part
+of the requested money. See supra, at 146, n. 2.
+                  Cite as: 604 U. S. 140 (2025)           149
+
+                     Opinion of the Court
+
+the word “provides,” we look to its ordinary meaning. To
+“provide” means to “supply,” to “furnish,” or to “make avail-
+able.” American Heritage Dictionary 1411 (4th ed. 2000); 12
+Oxford English Dictionary 713 (2d ed. 1989); see Little Sis-
+ters of the Poor Saints Peter and Paul Home v. Pennsylva-
+nia, 591 U. S. 657, 676 (2020) (defning “provide” the same
+way). The question thus becomes whether the Government
+supplied, furnished, or made available any portion of the
+money here sought.
+   The parties' arguments on that score mirror the two “inde-
+pendent paths” laid out in the Seventh Circuit's opinion. 92
+F. 4th, at 666; see supra, at 147–148. Wisconsin Bell and
+Heath dispute whether the Government provides all E-Rate
+moneys through its regulatory authority over the program,
+especially its mandate that carriers contribute to the Fund.
+But so too the parties contest whether the Government has
+provided some E-Rate moneys through the Treasury's own
+Page Proof Pending Publication
+transfer into the Fund of over $100 million, to pay for pro-
+gram subsidies.
+   If Heath prevails on either one of those theories, he has
+met the FCA's defnition of “claim.” Under that defnition,
+providing some funds is just as good as providing all: The
+Government, recall, need provide only “any portion” of the
+amount requested. § 3729(b)(2)(A)(ii)(I); see United States
+ex rel. DRC, Inc. v. Custer Battles, LLC, 562 F. 3d 295, 303
+(CA4 2009) (“So long as `any portion' of the claim is or will
+be funded by U. S. money,” the “full claim satisfes the
+defnition”). Wisconsin Bell acknowledges that point, as it
+must. See Tr. of Oral Arg. 24. So if the Government, by
+making direct payments, has provided even a small fraction
+of the money used to fund E-Rate reimbursements, the ques-
+tion presented here is resolved. It is then immaterial
+whether the Government, by exercising regulatory control,
+provides all the money so used. Even supposing not, the
+reimbursement requests are “claims” for payment, and
+Heath's suit for fraud can go forward.
+150   WISCONSIN BELL, INC. v. UNITED STATES ex rel.
+                        HEATH
+                  Opinion of the Court
+
+   And as the Court of Appeals explained, the Government—
+more specifcally, the U. S. Treasury—has put substantial
+money into the Fund to fnance E-Rate subsidies. See 92 F.
+4th, at 667. The more than $100 million deposited in the
+relevant years came from two sources. About half consisted
+of delinquent contributions (plus associated interest and pen-
+alties) that the FCC and Treasury Department collected
+from carriers after the Administrative Company proved un-
+able to do so. Those federal agencies, acting under a law
+providing for the collection of sums “owed to the United
+States,” placed the money they garnered in Treasury ac-
+counts. 31 U. S. C. § 3701(b)(1); see §§ 3711, 3717; App. 35–
+38, 40–43. From there, the Treasury made periodic trans-
+fers to the Fund for disbursement to program participants.
+See id., at 37–38, 42–43. The other half of the $100 million
+derived from Justice Department activities. See id., at 38,
+43. When that Department learns of wrongdoing in the E-
+Page Proof Pending Publication
+Rate program, its lawyers may proceed in diverse ways
+against the malefactors—maybe under the FCA itself, or
+under antitrust laws, or under criminal bans on mail or wire
+fraud. Any civil settlements or criminal restitution pay-
+ments resulting from those actions go into Treasury ac-
+counts. And once again, that money eventually makes its
+way to the Fund to bankroll E-Rate subsidies.
+   So to return to the language of the relevant defnitional
+provision: The Government “provided [a] portion of the
+money” disbursed from the Fund to reimburse E-Rate pro-
+gram participants. § 3729(b)(2)(A)(ii)(I). Or to use the syn-
+onyms previously offered: The Government supplied funds,
+furnished funds, and made available funds for that purpose.
+It is a simple matter, as the saying goes, of following the
+money. Again, federal agencies accumulated the roughly
+$100 million and placed it in the U. S. Treasury—the reposi-
+tory for “all monies received by the United States.” K.
+Stith, Congress' Power of the Purse, 97 Yale L. J. 1343, 1356
+(1988). And the Treasury later transferred those sums to
+                       Cite as: 604 U. S. 140 (2025)                   151
+
+                          Opinion of the Court
+
+the Fund for use in fulflling E-Rate reimbursement re-
+quests. Or as the Seventh Circuit put the point: Because
+the Treasury held and conveyed to the Fund the $100 million,
+“quite literally, the Treasury provide[d] money to the E-Rate
+program.” 92 F. 4th, at 670.5
+   Wisconsin Bell resists that conclusion, arguing that even
+the $100 million was provided by, and only by, the carriers.
+See, e. g., Brief for Wisconsin Bell 27 (“The E-rate program
+is funded entirely by private carriers' contributions”). On
+that alternative view, the Government played no more than
+an intermediary role: It “merely collected and held” the car-
+riers' required payments “pending their return” to “their
+rightful owner, the Administrative Company.” Id., at 31.
+And “facilitat[ing] the transfer of money,” Wisconsin Bell
+says, does not amount to “provid[ing]” money. Id., at 30.
+Rather, the deposits that the Treasury put into the Fund
+“are no different than” the carriers' “contributions them-
+Page Proof Pending Publication
+selves.” Tr. of Oral Arg. 5; see id., at 23. The former stand
+in for the latter, and remain just as private.
+
+  5
+    The Court of Appeals for the Fifth Circuit, although rejecting the
+regulatory-control theory of providing funds, never addressed the alterna-
+tive, follow-the-money theory just described. See United States ex rel.
+Shupe v. Cisco Systems, Inc., 759 F. 3d 379, 382–388 (2014) (per curiam);
+supra, at 147–148. That omission apparently resulted from the Govern-
+ment's litigation choices. Only in the Seventh Circuit—not in the Fifth—
+did the Government press the narrower theory and submit supporting
+evidence about the Treasury's deposit of moneys into the Fund. Had the
+Fifth Circuit seen the same evidence, it may well have responded as the
+Seventh did. Indeed, its own analysis suggests as much. For under the
+Fifth Circuit's approach, the defnition of “claim” is met “when United
+States Treasury dollars fow to the defrauded [program].” Shupe, 759
+F. 3d, at 383; see ibid. (noting with approval that “courts have found that
+the Government `provides any portion' of the money requested when the
+Government has given [a program] even a drop of treasury money”); id., at
+388 (concluding that the Government did not provide any of the requested
+money because “there are no federal funds involved in the [E-Rate]
+program”).
+152   WISCONSIN BELL, INC. v. UNITED STATES ex rel.
+                        HEATH
+                  Opinion of the Court
+
+   But to start with, Wisconsin Bell mischaracterizes the
+Government's role in bringing the $100 million to the Fund.
+The Government was not a passive throughway for the
+transmission of E-rate moneys from one private party (the
+carrier) to another (the Administrative Company). Nor
+were the Government's activities confned to “facilitating”
+such transfers, as Wisconsin Bell would have it. Take frst
+the $50 million in delinquent contributions, on which Wiscon-
+sin Bell almost wholly focuses. The FCC and Treasury De-
+partment extracted those moneys from carriers that, even
+after the Administrative Company's entreaties, refused to
+pay on schedule. Without the agencies' dunning, the contri-
+butions would have come in yet later—or might never have
+arrived. (And if no contributions, likely no interest or pen-
+alties either.) Still less does the other $50 million—from
+settlement and restitution awards—align with Wisconsin
+Bell's story. Those awards came from the Justice Depart-
+Page Proof Pending Publication
+ment's efforts to prosecute wrongdoing in the E-Rate pro-
+gram. And the amounts obtained thus refected not the car-
+riers' regular contributions but the harms that fraudulent
+conduct had imposed on the Fund and its benefciaries. So
+the Government, in forwarding those payments to the Fund,
+did not serve as a program middleman or facilitator. Rather,
+the Government itself generated the moneys it provided.
+   And anyway, a simple intermediary can sometimes also
+“provide” things to a recipient—and the Government, even
+if viewed only in that light, would do so here. Wisconsin
+Bell assumes that only one entity can provide a thing, so that
+if a carrier gave a contribution to the Government to give to
+the Fund, then the carrier alone provided the money. But
+why not say that both did so—the originator of the money
+and the transmitter alike? Consider a perhaps dated exam-
+ple used at oral argument. See id., at 13–14. A proctor for
+an exam gives out blue books and pencils to students. She
+has not purchased them herself; rather, she has gotten them
+from the school. It would still be natural to say that she
+                       Cite as: 604 U. S. 140 (2025)                   153
+
+                          Opinion of the Court
+
+(along with the school) has “provided”—has supplied, fur-
+nished, or made available—the booklets and pencils. Simi-
+lar real-world examples abound. A bank teller “provides”
+an account holder with money, even though the recipient's
+employer deposited the relevant funds. A UPS driver “pro-
+vides” a person with a package, even though the driver frst
+picked up the box from a department store. In each case,
+not only the original source but also the middleman (the in-
+termediary, transmitter, facilitator, what have you) provides
+the thing at issue. And the same is true here. Supposing
+that carriers “provided” the relevant $100 million to the
+Fund, so too did the Government by collecting it and routing
+it through Treasury accounts.
+   Nothing about the ownership of the $100 million while in
+the Treasury matters to that conclusion, in the way Wiscon-
+sin Bell at times suggests. In its view, those moneys were
+frst owned by private carriers and then owned by the private
+Administrative Company—but not owned by the Government
+Page Proof Pending Publication
+in the interim period when it had “temporary possession.”
+Id., at 22. Perhaps. Or perhaps not—the Government (as
+well as Heath) takes the opposite view. See Brief for United
+States as Amicus Curiae 21–22. The important point here
+is that the answer is irrelevant. Consider the examples just
+given: No one would say that the proctor or the teller or the
+UPS driver does not “provide” (again, supply, furnish, or make
+available) the relevant item just because she does not own it
+while making the transfer. And so too here. Were there
+any doubt, another aspect of the FCA's defnition of the term
+“claim” clears it away. Recall that the defnition—including
+its provides-the-money requirement—can be met “whether
+or not the United States has title to the money” at is-
+sue. § 3729(b)(2)(A); see supra, at 146.6 So as the FCA sees
+  6
+    As noted earlier, we assume without deciding that this provision,
+enacted in 2009, merely clarifed existing law, and thus that the view it
+takes is relevant to the pre-2009, as well as the post-2009, claims in this
+case. See supra, at 146–147, n. 3.
+154   WISCONSIN BELL, INC. v. UNITED STATES ex rel.
+                        HEATH
+                  Opinion of the Court
+
+the matter, the technical ownership of the $100 million that
+the Government conveyed to the Fund makes not a whit of
+difference. Either way, its transfers can form the basis of
+an FCA suit.
+   Those transfers, indeed, look like most Government
+spending—neither more nor less private, neither more nor
+less public. Money usually comes to the Government from
+private parties—through taxes, fnes, or fees of all kinds.
+And then money usually goes out to the broader community,
+to fund any number of programs and activities. Between
+the time money comes in and the time money goes out, it
+sits—as the $100 million here did—in Treasury accounts. In
+this broad array of schemes, the funding received may be
+more or less earmarked, and it may be disbursed more or
+less quickly. But the basic mechanism remains the same.
+Money enters and then exits the public fsc; the Government
+collects money and then furnishes it for some use. And so
+it was here, in the years relevant to Heath's FCA suit. The
+Page Proof Pending Publication
+Government obtained $100 million in delinquent contribu-
+tions, settlement awards, and restitution payments related
+to the E-Rate program. It held that money for a time in
+the U. S. Treasury. And then it supplied that money to re-
+imburse program participants—“provid[ing],” as the FCA
+requires, a “portion of the money” requested for schools'
+E-Rate subsidies.
+                              III
+   What we have said above is enough to enable Heath's FCA
+suit to proceed. The reimbursement requests at issue qual-
+ify as “claims” under the FCA because, in the years they
+were made, the Government deposited money into the Fund
+to pay for E-Rate subsidies. And all the statute requires is
+that those deposits provide “any portion”—not the whole—
+of the sums requested. For that reason, we need not ad-
+dress the alternative theory that the Government provides
+all E-Rate funds by exercising regulatory control over the
+                   Cite as: 604 U. S. 140 (2025)             155
+
+                      Thomas, J., concurring
+
+program. Whether or not that is so, Heath can press his
+claim that, by violating the “lowest corresponding price”
+rule, Wisconsin Bell “knowingly present[ed], or cause[d] to
+be presented,” a set of “false or fraudulent claim[s] for pay-
+ment.” § 3729(a)(1)(A).
+   If Heath prevails on the merits, issues about damages may
+well emerge. At oral argument, the parties forecast their
+differences on those issues—including about whether (and, if
+so, how) the amount of money the Government deposited
+should limit the damages Heath can recover. See, e.g., Tr.
+of Oral Arg. 24–26, 29–32, 53–54, 66–68, 93–94. But those
+issues were not briefed in this Court, and in any event are a
+long way away. We therefore leave them for the courts
+below to decide, should it ever become necessary to do so.
+   For the reasons stated, we affrm the judgment of the
+Court of Appeals and remand the case for further proceed-
+ings consistent with this opinion.
+Page Proof Pending Publication                It is so ordered.
+
+  Justice Thomas, with whom Justice Kavanaugh joins,
+and with whom Justice Alito joins as to Part I, concurring.
+   I join the Court's opinion in full because it correctly holds
+that, for purposes of the False Claims Act (FCA), the Fed-
+eral Government “provides” money to the Education Rate
+(E-Rate) program when the Government itself collects over-
+due contributions, interest, penalties, settlements, and resti-
+tution payments, and then transfers that money from U. S.
+Treasury accounts into the E-Rate program. See 31 U. S. C.
+§ 3729(b)(2)(A)(ii)(I). The Court saves for another day two
+more diffcult questions: First, whether the Government
+“provides” the money that it requires private carriers to con-
+tribute to the E-Rate program, see ibid.; and second,
+whether the E-Rate program's administrator is an agent of
+the United States. I express no defnitive views on those
+questions today. I write separately only to highlight that
+156   WISCONSIN BELL, INC. v. UNITED STATES ex rel.
+                        HEATH
+                  Thomas, J., concurring
+
+the Government's positions on these questions might, if ac-
+cepted, have signifcant implications for both the scope of the
+FCA and the lawfulness of the E-Rate program.
+
+                              I
+   The question presented in this case is whether reimburse-
+ment requests submitted to the E-Rate program are “claims”
+under the FCA. See § 3729(b)(2). As the Court's opinion
+explains, ante, at 146, the defnition of “claim” depends on
+the person or entity to whom the request for money is made.
+If the request is made to a federal offcer, employee, or agent,
+then any request for money qualifies as a “claim. ”
+§ 3729(b)(2)(A)(i). But, if the request is made to some “other
+recipient,” then the request is a “claim” only in limited cir-
+cumstances, such as if the Federal Government “provides or
+has provided any portion of the money” requested and the
+money is to be spent or used “to advance a Government pro-
+Page Proof Pending Publication
+gram or interest.” § 3729(b)(2)(A)(ii).
+   All agree that E-Rate reimbursement requests are made
+to the Universal Service Administrative Company (Adminis-
+trative Company). The Administrative Company is a pri-
+vate not-for-proft corporation whose parent entity, the Na-
+tional Exchange Carrier Association (Carrier Association),
+is another private not-for-proft corporation. See 47 CFR
+§§ 54.5, 69.602 (2023).
+   The Federal Communications Commission (FCC) has “ap-
+pointed” the Administrative Company as “Administrator” of
+the Universal Service Fund (Fund). See § 54.701(a). The
+Fund is composed primarily of money from private telecom-
+munications carriers. It is undisputed that a federal statute
+requires certain carriers to contribute “to the specifc, pre-
+dictable, and suffcient mechanisms established by the [FCC]
+to preserve and advance universal service.” See 47 U. S. C.
+§ 254(d). FCC regulations in turn mandate that certain car-
+riers contribute to the Fund on a quarterly basis. 47 CFR
+§§ 54.706(a)–(b), 54.709(a). FCC regulations also task the
+                       Cite as: 604 U. S. 140 (2025)                     157
+
+                          Thomas, J., concurring
+
+Administrative Company with disbursing the money in the
+Fund to benefciaries of the E-Rate program and other uni-
+versal service initiatives. § 54.702(b).*
+   The Government offered us three different paths to fnding
+that an E-Rate reimbursement request satisfes the FCA's
+defnition of “claim.” First, assuming that the Administra-
+tive Company is an “other recipient,” the Government ar-
+gued that the Government provides all the money in the
+Fund because federal law requires private carriers to con-
+tribute to it. Second, the Government contended that even
+if it does not provide all the money, it provided at least a
+“ `portion' ” of it during the years relevant to this case be-
+cause “the [FCC], the Department of the Treasury, and the
+Department of Justice collected more than $100 million in
+contributions, interest, and penalties from delinquent carri-
+ers; held the money in Treasury accounts; and then deposited
+the money in the Fund.” Brief for United States as Amicus
+Curiae 7–8. Third, the Government argued that even if it
+Page Proof Pending Publication
+does not provide any money to the Fund, an E-Rate reim-
+bursement request is a “claim” under the FCA because the
+Administrative Company—the entity to whom a request for
+money is made—is an “agent of the United States. ”
+§ 3729(b)(2)(A)(i).
+   The Court resolves this case on the second ground alone.
+During the years relevant here, the Treasury Department
+deposited more than $100 million directly into the Fund. Of
+that sum, approximately $50 million came from delinquent
+contributions and related interest and penalties, and the
+other $50 million came from settlements and restitution
+awards obtained by the Justice Department. I understand
+the Court to have decided that on the facts of this case—
+where the Government itself exercised its power to collect
+overdue contributions, interest, penalties, settlements, and
+
+  *As the Court's opinion explains, see ante, at 144, n. 1, the nature of the
+relationship between the FCC and the Administrative Company is the
+subject of ongoing litigation. I express no view on that matter.
+158   WISCONSIN BELL, INC. v. UNITED STATES ex rel.
+                        HEATH
+                  Thomas, J., concurring
+
+restitution awards, and then transferred those funds from
+U. S. Treasury accounts into the Fund—the Government
+“provided” money within the meaning of the FCA.
+§ 3729(b)(2)(A)(ii).
+   I do not understand the Court to have opined on any other
+set of facts. The opinion explains that, in making the trans-
+fers at issue here, the Government “was not a passive
+throughway.” Ante, at 152. Rather, the FCC and the
+Treasury Department used the power of the Government to
+“extrac[t]” money from private carriers. Ibid. The Justice
+Department, for its part, “prosecute[d] wrongdoing,” and
+then obtained settlements and restitution awards. Ibid.
+The Court observes that, “[w]ithout the agencies' dunning,”
+the money the Government collected would have come later
+“or might never have arrived.” Ibid. Thus, that “the Gov-
+ernment itself generated the moneys it provided” is an es-
+sential component of our decision. Ibid. I do not under-
+stand us to have resolved whether the Government would
+Page Proof Pending Publication
+have “provided” money in the relevant sense,
+§ 3729(b)(2)(A)(ii), if it had acted as a “passive throughway”
+or a mere “transmitter” or “facilitator,” ante, at 152. I
+agree with the Court's resolution of the narrow question be-
+fore us, and I am pleased to join in full. The remainder of
+this opinion considers issues that the Court does not reach.
+
+                             II
+                              A
+  The Government's leading theory in this case was that the
+FCA applies to E-Rate reimbursement requests because the
+Government provides all the money in the Fund. Brief for
+United States as Amicus Curiae 12–16; Tr. of Oral Arg. 85
+(asserting that the United States would “prefer to win on
+th[is] ground”). It is undisputed that federal law and the
+FCC's implementing regulations require private telecommu-
+nications carriers to contribute on a quarterly basis to the
+Fund. See 47 U. S. C. § 254(d); 47 CFR §§ 54.706(a)–(b),
+                   Cite as: 604 U. S. 140 (2025)           159
+
+                     Thomas, J., concurring
+
+54.709(a). According to the Government, because a federal
+statute compels these contributions, the Government “pro-
+vides” all the money that private carriers pay. 31 U. S. C.
+§ 3729(b)(2)(A)(ii).
+   Two Courts of Appeals have considered this argument.
+The Seventh Circuit agreed with the Government in the de-
+cision below. It observed that, in deciding whether the
+FCA applies to alleged fraud aimed at a particular entity,
+“courts have asked whether there is a `suffciently close
+nexus' between the defrauded entity or program and the fed-
+eral government `such that a loss to the former is effectively
+a loss to the latter.' ” 92 F. 4th 654, 669 (2024). The court
+concluded that the “high degree of government involvement
+in the E-Rate program demonstrates that such a nexus ex-
+ists here.” Ibid.
+   The Fifth Circuit reached the opposite conclusion, holding
+that the Government's “broad view” is “unsupported by the
+Page Proof Pending Publication
+cases interpreting the FCA.” United States ex rel. Shupe
+v. Cisco Systems, Inc., 759 F. 3d 379, 383 (2014). The Fifth
+Circuit explained that courts have traditionally “limited the
+FCA's application to instances of fraud that might result in
+fnancial loss to the Government.” Id., at 385 (internal quo-
+tation marks omitted; emphasis added). And, it observed
+that courts have declined to extend the FCA's protections to
+programs that “do not receive federal funds” and “have too
+tenuous of a relationship to the Government to be considered
+a Government entity.” Id., at 384. While acknowledging
+that “the FCC retains some oversight and regulation” over
+the Administrative Company, the Fifth Circuit nevertheless
+concluded that the FCA's protections do not apply to E-Rate
+reimbursement requests because the Administrative Com-
+pany is “a private corporation owned by an industry trade
+group.” Id., at 387.
+   Critically, both the Fifth and Seventh Circuits recognized
+that courts have traditionally interpreted the FCA to cover
+fraud against only those defrauded entities that receive fed-
+160   WISCONSIN BELL, INC. v. UNITED STATES ex rel.
+                        HEATH
+                  Thomas, J., concurring
+
+eral funding or operate with a “high degree of government
+involvement.” 92 F. 4th, at 669; see also Shupe, 759 F. 3d,
+at 383–385. The courts disagreed about whether the rela-
+tionship between the Administrative Company and the Fed-
+eral Government is suffciently close. But, neither court
+posited that the FCA covers fraud against private entities
+that lack both federal funding and a “suffciently close nexus”
+with the Federal Government. 92 F. 4th, at 669 (internal
+quotation marks omitted).
+   This Court's case law strongly suggests that the FCA does
+not cover fraud against purely private entities with purely
+private funding sources. We have always assumed that the
+FCA does not cover acts directed toward parties that are
+not “the Government.” Allison Engine Co. v. United States
+ex rel. Sanders, 553 U. S. 662, 669–670 (2008). We have said
+that the purpose of the FCA was “to provide for restitution
+to the government of money taken from it by fraud.”
+Page Proof Pending Publication
+United States ex rel. Marcus v. Hess, 317 U. S. 537, 551
+(1943). And, we have repeatedly remarked that the FCA
+exists to “ `protect the funds and property of the Govern-
+ment.' ” United States ex rel. Polansky v. Executive Health
+Resources, Inc., 599 U. S. 419, 424 (2023) (quoting Rainwater
+v. United States, 356 U. S. 590, 592 (1958); emphasis added);
+see also United States v. McNinch, 356 U. S. 595, 599 (1958)
+(explaining that Congress enacted the FCA because it
+“wanted to stop th[e] plundering of the public treasury”);
+United States v. Neifert-White Co., 390 U. S. 228, 233 (1968)
+(explaining that a prior version of the FCA extended to “all
+fraudulent attempts to cause the Government to pay out
+sums of money” (emphasis added)).
+   Relying on this understanding of the scope of the FCA,
+lower courts have determined that a program does not re-
+ceive FCA protections unless it receives money that belongs
+to the Government or the Government controls the program.
+For example, the Eighth Circuit held that false payment re-
+quests submitted to a private trust fund created to fnance a
+                   Cite as: 604 U. S. 140 (2025)           161
+
+                     Thomas, J., concurring
+
+CERCLA Superfund cleanup project did not qualify as
+“claims” under the FCA. Costner v. URS Consultants, Inc.,
+153 F. 3d 667, 677 (1998). While recognizing that the funds
+might not have existed if the Government had not helped
+negotiate the trust fund's creation, the court still held that
+the Government did not “provide” the funds because none of
+the funds came from the Treasury, the Government did not
+have access to the trust fund, and the Government did not
+control the trust fund's disbursement. Ibid. Similarly, the
+Third Circuit refused to apply the FCA to fraudulent legal
+bills submitted for approval to a United States Bankruptcy
+Court because the Government itself would not suffer any
+fnancial loss. Hutchins v. Wilentz, Goldman & Spitzer, 253
+F. 3d 176, 182–184 (2001). The court explained that “the
+submission of false claims to the United States government
+for approval which do not or would not cause fnancial loss
+to the government are not within the purview of the False
+Page Proof Pending Publication
+Claims Act.” Id., at 184. The Fifth Circuit identifed sev-
+eral other examples of courts interpreting the FCA in a simi-
+lar way. See Shupe, 759 F. 3d, at 384–385 (collecting cases).
+   In this case, the Government paid scant attention to the
+fact that courts historically have not applied the FCA to
+cover fraud on nongovernment entities unless the Govern-
+ment itself will face a fnancial loss. Assuming that ap-
+proach is correct, it is not obvious to me that the Govern-
+ment puts its own funds at risk when it requires private
+parties to fund the E-Rate program. Ordinary E-Rate con-
+tributions come from private carriers. And, if the carrier
+contributions are insuffcient to fund the E-Rate program,
+the Administrative Company must turn to private sources of
+credit—not the Federal Government—to remedy any budg-
+etary shortfall. See 47 CFR § 54.709(c). It is diffcult for
+me to see how the loss of ordinary contributions from carri-
+ers is necessarily a loss to the Government.
+   The political branches chose to separate the program from
+the public fsc. That choice was made in part to prevent the
+162   WISCONSIN BELL, INC. v. UNITED STATES ex rel.
+                        HEATH
+                  Thomas, J., concurring
+
+E-Rate program from being “turned into a piggy bank which
+can be raided” “for budgetary gains.” 143 Cong. Rec. 16054
+(1997) (statement of Sen. Kerrey); accord, ibid. (statement of
+Sen. Daschle). Whatever the merits of that choice, I sus-
+pect it might carry consequences for the applicability of the
+FCA.
+                             B
+   Before we accept the Government's theory that the FCA
+applies so long as the Government requires one private party
+to pay another private party, we ought to grapple with that
+argument's implications. If the Government's position is
+correct, then the FCA would seem to cover a wide range of
+matters until now understood to be outside the scope of the
+statute. Consider a few examples.
+   Federal law authorizes States to withhold federal pay and
+retirement benefts “to enforce the legal obligation of the
+individual to provide child support.” 42 U. S. C. § 659(a).
+Page Proof Pending Publication
+This law therefore facilitates a payment from one private
+party to another. If this Court were to accept that such a
+law is all it takes for the Government to “provid[e]” money
+under the FCA, then the FCA would seem to cover false or
+fraudulent claims made against a recipient of child-support
+payments because a request for money is made to an “other
+recipient,” and the money is spent or used to advance a Gov-
+ernment “interest.” 31 U. S. C. § 3729(b)(2)(A)(ii). But,
+applying the FCA in this context would signifcantly expand
+the reach of the statute.
+   Or, consider a civil judgment for money damages entered
+by a federal court. The entry of such a judgment has the
+effect of requiring a private party to pay a sum of money to
+another private party. If this Court were to hold that the
+Government “provides” money for FCA purposes so long as
+the Federal Government requires a person to pay a sum of
+money to someone else, then it seems possible that the FCA
+might cover at least some false or fraudulent requests for
+money made to a recipient of money damages. The request
+                   Cite as: 604 U. S. 140 (2025)           163
+
+                     Thomas, J., concurring
+
+would be made to an “other recipient” and, at least in some
+instances, money damages might be spent or used “to ad-
+vance a Government . . . interest.” § 3729(b)(2)(A)(ii).
+   Another example is the individual mandate component of
+the Affordable Care Act, 124 Stat. 119. That provision re-
+quires individuals to purchase “minimum essential” health
+insurance coverage. 26 U. S. C. § 5000A(a). If we were to
+accept the Government's broad theory of what it means to
+provide money for purposes of the FCA, I am not sure why
+the FCA would not cover at least some false or fraudulent
+requests for money made to private health insurance compa-
+nies whose customers purchased health insurance because of
+the individual mandate. A health insurance company ap-
+pears to be an “other recipient,” and it is at least plausible
+that the money health insurers spend on medical care “ad-
+vance[s] a Government program or interest.” 31 U. S. C.
+§ 3729(b)(2)(A)(ii).
+   Perhaps the Government can explain why the FCA sweeps
+Page Proof Pending Publication
+far broader than has been traditionally understood. Or, per-
+haps there are meaningful ways to differentiate these exam-
+ples or other reasons why the FCA would not apply even if
+this Court accepted the Government's broad theory of what
+it means to “provide” money under the FCA. But, the Gov-
+ernment has not engaged with or appreciated the drastic
+consequences that might follow if this Court were to accept
+its primary argument.
+   I express no defnitive view on the merits of the Govern-
+ment's broad theory. I simply note that if this question re-
+turns to us, we ought to carefully consider what the Govern-
+ment's theory might mean for the scope of the FCA.
+
+                               III
+  The Government offered this Court another avenue to
+fnding that the FCA applies to E-Rate reimbursement re-
+quests. It argued that any request for money made to the
+Administrative Company qualifes as a “claim” because the
+164   WISCONSIN BELL, INC. v. UNITED STATES ex rel.
+                        HEATH
+                  Thomas, J., concurring
+
+Administrative Company is an “agent of the United States.”
+§ 3729(b)(2)(A)(i). But, if the Government is correct, then
+the E-Rate program would seem to run afoul of the Govern-
+ment Corporation Control Act (GCCA), 59 Stat. 597.
+   The GCCA provides that “[a]n agency may establish or
+acquire a corporation to act as an agency only by or under a
+law of the United States specifcally authorizing the action.”
+31 U. S. C. § 9102. In other words, the statute “prohibit[s]
+[the] creation of new Government corporations without spe-
+cifc congressional authorization.” Lebron v. National Rail-
+road Passenger Corporation, 513 U. S. 374, 390 (1995).
+   The FCC should be familiar with the GCCA. In the Tele-
+communications Act of 1996, 110 Stat. 56, Congress directed
+the FCC to establish a set of universal service programs.
+See 47 U. S. C. § 254. In its frst attempt at carrying out
+that statutory command, the FCC instructed the Carrier As-
+sociation to create the Administrative Company as an “inde-
+Page Proof Pending Publication
+pendently functioning not-for-proft subsidiary” that would
+“assure signifcant industry-wide representation in the ad-
+ministration” of universal service programs. In re Changes
+to Bd. of Directors of Nat. Exchange Carrier Assn., Inc., 12
+FCC Rcd. 18400, 18401, 18415 (1997) (emphasis added). The
+FCC also directed the Carrier Association to create two
+freestanding corporations to manage the E-Rate program
+and another universal service initiative. Id., at 18430–
+18431.
+   Shortly thereafter, a group of Senators inquired whether
+the FCC had exceeded its authority when it directed the
+Carrier Association to create private corporations. In re-
+sponse to these inquiries, the General Accounting Offce
+(GAO), known today as the Government Accountability Of-
+fce, conducted an investigation. The GAO did not object to
+the FCC's use of the Carrier Association as “a neutral third-
+party administrator.” GAO, Testimony Before the Subcom-
+mittee on Telecommunications, Trade and Consumer Protec-
+                   Cite as: 604 U. S. 140 (2025)           165
+
+                     Thomas, J., concurring
+
+tion, Committee on Commerce, House of Representatives,
+TELECOMMUNICATIONS: FCC Lacked Authority To
+Create Corporations To Administer Universal Service
+Programs 2 (GAO/T–RCED/OGC–98–84, 1998). Nor did
+it object to the FCC's instruction to create the Adminis-
+trative Company—the “independently functioning, not-for-
+proft subsidiary” of the Carrier Association. 12 FCC
+Rcd., at 18415; see GAO Testimony, at 18–20. But, the
+GAO did object to the FCC's attempt to create govern-
+ment corporations. Id., at 13. The GAO determined that
+the FCC had violated the GCCA by attempting to estab-
+lish freestanding corporations to manage certain univer-
+sal service programs and “act as its agents in carrying
+out functions assigned by statute to the [FCC].” Ibid.
+In light of this report, Congress instructed the FCC to “pro-
+pose a new structure for the implementation of universal
+service programs.” H. R. Conf. Rep. No. 105–504, p. 87
+Page Proof Pending Publication
+(1998).
+   The FCC responded by asking Congress for “specifc stat-
+utory authority . . . to create or designate . . . one or more
+entities, such as the Universal Service Administrative Com-
+pany, to administer the federal universal service support
+mechanisms.” Report in Response to Senate Bill 1768 and
+Conference Report on H. R. 3579, 13 FCC Rcd. 11810, 11819
+(1998). But, Congress refused the agency's request.
+   Congress's choice left the FCC with the “independently
+functioning” Administrative Company, 12 FCC Rcd., at
+18415, but no government corporations to “act as its agents,”
+GAO Testimony, at 13. The FCC published a fnal rule ap-
+pointing the Administrative Company as the permanent ad-
+ministrator of the Universal Service programs. See Final
+Rule, Changes to the Board of Directors of the National Ex-
+change Carrier Association, Inc., Federal-State Joint Board
+on Universal Service, 63 Fed. Reg. 70564–70565, 70572–70573
+(1998) (codifed, as amended, at 47 CFR § 54.701).
+166   WISCONSIN BELL, INC. v. UNITED STATES ex rel.
+                        HEATH
+                  Thomas, J., concurring
+
+   The upshot is that the Administrative Company was origi-
+nally understood to be—and the lawfulness of the E-Rate
+program turned upon the Administrative Company being—
+an independent, nongovernment entity. To this day, Con-
+gress has never passed a law approving the Administrative
+Company as a government corporation, nor has it authorized
+the FCC to formally label the Administrative Company a
+subagency. The Government nevertheless contends before
+this Court that the Administrative Company is now an agent
+of the United States.
+   Whether the Administrative Company is in fact an agent
+of the United States is a complex question that we do not
+resolve today. That determination appears to turn on the
+kind and degree of control that the FCC exercises over the
+Administrative Company. And, those issues are the subject
+of another case that this Court will consider soon. See Con-
+sumers' Research v. FCC, 109 F. 4th 743 (CA5) (en banc),
+cert. granted, 604 U. S. 1029 (2024). I express no view on
+Page Proof Pending Publication
+whether the Government's agency argument is correct. I
+simply note that if the Government is correct, then it will
+need to explain how the E-Rate program's current structure
+is compatible with the GCCA. The Government relied on
+the independent, nongovernmental nature of the Administra-
+tive Company to establish compliance with the GCCA.
+Now, the Government asserts that the Administrative Com-
+pany is essentially an arm of the FCC. I doubt that the
+Government can have it both ways.
+
+                            IV
+  The Court resolves this case on a narrow, fact-specifc
+ground. In a future case, however, we may need to confront
+the Government's other arguments—namely, that the FCA
+applies to funds that private parties pay to other private
+parties, and that the Administrative Company is an agent of
+the United States. If these issues return to us, I hope we
+will carefully consider their consequences.
+                  Cite as: 604 U. S. 140 (2025)           167
+
+                   Kavanaugh, J., concurring
+
+  Justice Kavanaugh, with whom Justice Thomas joins,
+concurring.
+  I join the Court's opinion, which decides a narrow statu-
+tory question regarding the scope of the False Claims Act.
+That statutory issue arises in the context of a qui tam suit.
+The Act's qui tam provisions raise substantial constitutional
+questions under Article II. See, e. g., United States ex rel.
+Polansky v. Executive Health Resources, Inc., 599 U. S. 419,
+442 (2023) (Kavanaugh, J., concurring); id., at 449–452
+(Thomas, J., dissenting). Those constitutional questions are
+not before the Court in this case. But in an appropriate
+case, the Court should consider the competing arguments on
+the Article II issue.
+
+
+
+
+Page Proof Pending Publication
+                           Reporter’s Note
+
+  The attached opinion has been revised to refect the usual publication
+and citation style of the United States Reports. The revised pagination
+makes available the offcial United States Reports citation in advance of
+publication. The syllabus has been prepared by the Reporter of Decisions
+Page Proof Pending Publication
+for the convenience of the reader and constitutes no part of the opinion of
+the Court. A list of counsel who argued or fled briefs in this case, and
+who were members of the bar of this Court at the time this case was
+argued, has been inserted following the syllabus. Other revisions may
+include adjustments to formatting, captions, citation form, and any errant
+punctuation. The following additional edits were made:
+
+None

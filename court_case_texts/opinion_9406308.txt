@@ -1,0 +1,189 @@
+Cite as: 600 U. S. ____ (2023)             1
+
+                    SOTOMAYOR, J., dissenting
+
+SUPREME COURT OF THE UNITED STATES
+N. S., ONLY CHILD OF DECEDENT, RYAN STOKES, BY AND
+   THROUGH HER NATURAL MOTHER AND NEXT FRIEND,
+        BRITTANY LEE, ET AL. v. KANSAS CITY
+        BOARD OF POLICE COMMISSIONERS,
+                        ET AL.
+
+   ON PETITION FOR WRIT OF CERTIORARI TO THE UNITED
+   STATES COURT OF APPEALS FOR THE EIGHTH CIRCUIT
+               No. 22–556.   Decided June 30, 2023
+
+   The petition for a writ of certiorari is denied.
+   JUSTICE SOTOMAYOR, dissenting from the denial of certi-
+orari.
+   The evidence in this case, taken in the light required at
+this stage of litigation, tells a disturbing story. Ryan Stokes
+was an unarmed Black man in the process of surrendering
+to the police when Officer Thompson, without warning, shot
+him in the back and killed him. Stokes was only suspected
+of cell phone theft, there had been no reports he was violent
+or threatening, and the unarmed Stokes was peacefully sur-
+rendering to a different officer after a brief foot chase. This
+arresting officer, Officer Straub, had already holstered his
+gun because he could tell that Stokes did not present a risk.
+Indeed, Stokes was facing Straub and lifting his hands to
+surrender. Straub was therefore “shocked” when, without
+any warning, Stokes was shot from behind by Thompson.
+App. in No. 20–1526 (CA8), p. 2058.
+   Stokes’ daughter sued over her father’s killing and sought
+a jury trial. The Court of Appeals for the Eighth Circuit,
+however, ensured that this case never made it to a jury. At
+the summary judgment stage, the court granted Thompson
+qualified immunity on the ground that it was not clearly
+established that Thompson had used excessive force when
+he shot and killed Stokes. The court reached this result
+2           N. S. v. KANSAS CITY BOARD OF POLICE
+
+                    SOTOMAYOR, J., dissenting
+
+through a two-step that is all too familiar.
+   First, the Eighth Circuit improperly drew factual infer-
+ences in the police officer’s favor. It is the jury’s role to de-
+cide factual disputes over what happened and draw factual
+inferences from the evidence presented. Summary judg-
+ment deprives the jury of this crucial role, and thus “is ap-
+propriate only if ‘the movant shows that there is no genuine
+issue as to any material fact and the movant is entitled to
+judgment as a matter of law.’ ” Tolan v. Cotton, 572 U. S.
+650, 656–657 (2014) (per curiam) (quoting Fed. Rule Civ.
+Proc. 56(a)). In assessing whether summary judgment is
+warranted, “a court must view the evidence in the light
+most favorable to the opposing party” and “adhere to the
+fundamental principle that at the summary judgment
+stage, reasonable inferences should be drawn in favor of the
+nonmoving party.” Tolan, 572 U. S., at 657, 660 (internal
+quotation marks omitted). This ensures that it is a jury
+that will hear evidence and determine which story is credi-
+ble, not a judge reading a paper record. This role of the jury
+is particularly important in qualified immunity cases,
+where the stakes are not just about the parties involved,
+but whether there will be accountability when public offi-
+cials violate the Constitution. Cf. Taylor v. Louisiana, 419
+U. S. 522, 530 (1975) (the jury represents “the . . . judgment
+of the community”).
+   Here, however, the Eighth Circuit did not follow this well-
+settled law. In this case, as in many qualified immunity
+cases, a key question at summary judgment was whether,
+resolving factual disputes in favor of Stokes’ daughter, “a
+jury could reasonably infer that [Stokes’ actions], in con-
+text, did not amount” to a threat that he would “inflict
+harm” on Straub. Tolan, 572 U. S., at 658. Yet in answer-
+ing this question and in setting out the version of the facts
+most favorable to Stokes’ daughter, the Eighth Circuit
+failed to draw all factual inferences in the daughter’s favor.
+   To be sure, the court below correctly acknowledged that
+                  Cite as: 600 U. S. ____ (2023)             3
+
+                    SOTOMAYOR, J., dissenting
+
+the evidence showed the following when taking the daugh-
+ter’s version of disputed facts: Stokes never had a gun, he
+was lifting his hands to surrender, and Thompson “fired
+without warning.” 35 F. 4th 1111, 1113–1114 (2022). The
+Eighth Circuit then departed from the proper approach,
+however, when it somehow concluded that even viewing
+this evidence in the light most favorable to Stokes’ daugh-
+ter, Thompson “faced a . . . choice here: use deadly force or
+face the possibility that Stokes might shoot a fellow officer.”
+Id., at 1114. The court drew this inference from two facts:
+First, Stokes was raising his hands (while surrendering to
+Straub) with his back turned toward Thompson; and sec-
+ond, prior to surrendering, Stokes had briefly opened and
+then closed the door to his friend’s car.
+  Yet even assuming an inference of danger could reasona-
+bly be drawn in Thompson’s favor (which is debatable),
+drawing such an inference here would still be inconsistent
+with “the fundamental principle” that “reasonable infer-
+ences should be drawn in favor” of Stokes’ daughter. Tolan,
+572 U. S., at 660. A jury could instead infer that an officer
+in Thompson’s position did not have an objective reason to
+fear imminent violence from Stokes because: (1) no gun was
+seen; (2) there was no reason to suspect Stokes was violent,
+much less prepared to kill a police officer; (3) opening the
+car door could have multiple nonthreatening explanations,
+including hiding a stolen cell phone; and (4) Stokes was un-
+warned, not disobeying any orders, and his actions showed
+he was surrendering. A reasonable juror could have simi-
+larly placed greater weight on the facts that tended toward
+showing that Stokes’ actions, even from Thompson’s van-
+tage point, were harmless. In other words, “[a] jury could
+well have concluded that a reasonable officer would have
+[seen Stokes’ actions] not as a threat” of imminent deadly
+violence, but as what they were: the actions of an unarmed
+man surrendering to the police. Id., at 659. The court be-
+low may have disagreed with that inference, but it was the
+4          N. S. v. KANSAS CITY BOARD OF POLICE
+
+                    SOTOMAYOR, J., dissenting
+
+jury’s to make.
+  Second, the Eighth Circuit compounded this error
+through its analysis of whether Thompson had violated
+Stokes’ clearly established rights. This Court has clearly
+established that an officer cannot use deadly force against
+an unarmed suspect who is not behaving violently and does
+not pose an immediate risk of serious physical injury or
+death to others. See Tennessee v. Garner, 471 U. S. 1, 9–12
+(1985). Indeed, in Garner the suspect was at least refusing
+to follow a direct order, id., at 4, while here Stokes was
+peaceably surrendering. Circuit precedent only further es-
+tablished that officers cannot, without warning and without
+an objective suspicion of imminent violence, shoot unarmed
+people who are not resisting arrest. See Nance v. Sammis,
+586 F. 3d 604, 610–611 (CA8 2009); Ngo v. Storlie, 495 F. 3d
+597, 599–601, 603–605 (CA8 2007).
+  The court below dodged this precedent by identifying im-
+material differences between the facts of cases. Yet factu-
+ally identical cases are not required for law to be clearly es-
+tablished. See, e.g., Hope v. Pelzer, 536 U. S. 730, 739
+(2002). The evidence here, when properly interpreted at
+this stage, matches the key holdings of those cases about
+the use of lethal force against unarmed, unwarned people
+who do not pose a danger to others.
+  Instead, the Eighth Circuit analogized the facts here to a
+case involving “an armed robbery,” “a report of shots fired,”
+and an officer ordering the suspect to stop before firing.
+Thompson v. Hubbard, 257 F. 3d 896, 898 (CA8 2001). This
+analogy was “[c]entral” to the court’s “conclusion.” 35
+F. 4th, at 1114. Had the Eighth Circuit drawn the proper
+inferences in the daughter’s favor, it simply could not have
+plausibly concluded as a matter of law that “Officer Thomp-
+son faced a similar choice here.” Ibid.
+  These dual mistakes—resolving factual disputes or draw-
+ing inferences in favor of the police, then using those infer-
+ences to distinguish otherwise governing precedent—have
+                  Cite as: 600 U. S. ____ (2023)             5
+
+                    SOTOMAYOR, J., dissenting
+
+become the calling card of many courts’ qualified immunity
+jurisprudence. See, e.g., Lombardo v. St. Louis, 600 U. S.
+___, ___–___ (2023) (SOTOMAYOR, J., dissenting from denial
+of certiorari) (slip op., at 2–4); Ramirez v. Guadarrama, 597
+U. S. ___, ___–___ (2022) (SOTOMAYOR, J., dissenting from
+denial of certiorari) (slip op., at 2–3); James v. Bartelt, 595
+U. S. ___, ___–___ (2021) (SOTOMAYOR, J., dissenting from
+denial of certiorari) (slip op., at 1–2); Kisela v. Hughes, 584
+U. S. ___, ___, ___ (2018) (SOTOMAYOR, J., dissenting) (slip
+op., at 2, 13); Mullenix v. Luna, 577 U. S. 7, 23–25 (2015)
+(SOTOMAYOR, J., dissenting).
+   The result is that a purportedly “qualified” immunity be-
+comes an absolute shield for unjustified killings, serious
+bodily harm, and other grave constitutional violations. Of-
+ficers are told “that they can shoot first and think later,”
+because a court will find some detail to excuse their conduct
+after the fact. Kisela, 584 U. S., at ___ (SOTOMAYOR, J., dis-
+senting) (slip op., at 15). The public is told “that palpably
+unreasonable conduct will go unpunished.” Ibid. And sur-
+viving family members like Stokes’ daughter are told that
+their losses are not worthy of remedy. I would summarily
+reverse the court below to break this trend. It is time to
+restore some reason to a doctrine that is becoming increas-
+ingly unreasonable. If this Court is unwilling to do so, then
+it should reexamine its judge-made doctrine of qualified im-
+munity writ large.

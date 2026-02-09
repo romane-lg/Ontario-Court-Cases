@@ -1,0 +1,392 @@
+Cite as: 601 U. S. ____ (2024)            1
+
+                      ALITO, J., dissenting
+
+SUPREME COURT OF THE UNITED STATES
+  COALITION FOR TJ v. FAIRFAX COUNTY SCHOOL
+                    BOARD
+   ON PETITION FOR WRIT OF CERTIORARI TO THE UNITED
+   STATES COURT OF APPEALS FOR THE FOURTH CIRCUIT
+             No. 23–170.   Decided February 20, 2024
+
+   The petition for a writ of certiorari is denied.
+   JUSTICE ALITO, with whom JUSTICE THOMAS joins, dis-
+senting from the denial of certiorari.
+   The Court of Appeals’ decision in this case is based on a
+patently incorrect and dangerous understanding of what a
+plaintiff must show to prove intentional race discrimina-
+tion. A group representing applicants for admission to a
+highly competitive public magnet school brought suit,
+claiming that changes in the school’s admissions require-
+ments violated the Equal Protection Clause. They alleged
+that the changes were made for the purpose of discriminat-
+ing on the basis of race, to the detriment of Asian-American
+applicants. The District Court found that direct and cir-
+cumstantial evidence supported that claim and issued an
+injunction against implementation of the changes. On ap-
+peal, however, a divided Fourth Circuit panel reversed and
+held that the plaintiff ’s claim failed simply because the
+challenged changes did not reduce the percentage of Asian-
+American admittees below the percentage of Asian-
+American students in the schools in the jurisdictions served
+by the magnet school. What the Fourth Circuit majority
+held, in essence, is that intentional racial discrimination is
+constitutional so long as it is not too severe. This reasoning
+is indefensible, and it cries out for correction.
+2              COALITION FOR TJ v. FAIRFAX COUNTY
+                         SCHOOL BOARD
+                        ALITO, J., dissenting
+
+                              I
+                              A
+  Thomas Jefferson High School for Science and Technol-
+ogy (TJ), is a magnet school that draws students from Fair-
+fax County and other jurisdictions in northern Virginia.
+Widely recognized as one of the best public high schools in
+the Nation,1 the school has exceptional resources, including
+13 on-campus research laboratories and a student-pro-
+duced scientific research journal, and it features a rigorous
+curriculum. All students must study computer science and
+complete a science or technology research project, and the
+school offers 26 advanced placement and 20 “post-AP”
+courses.2
+  The Fairfax County School Board (Board), an elected 12-
+member body, sets the school’s admissions policy. Until
+2020, the school had a highly competitive race-blind admis-
+sions process that relied heavily on standardized tests.
+Eighth grade students were eligible to apply if they had at
+least a 3.0 GPA and had taken a course in algebra. All ap-
+plicants then took three standardized tests, and after that,
+the highest ranked students took a fourth exam and sub-
+mitted two teacher recommendations. The class was se-
+lected from that group based on a holistic review of these
+inputs. Admission to TJ has been very competitive. From
+2012 to 2020, the admissions rate varied between 14 and 20
+percent.3
+——————
+  1 U. S. News & World Report, Thomas Jefferson High School for Sci-
+
+ence and Technology, https://www.usnews.com/education/best-high-
+schools/virginia/districts/fairfax-county-public-schools/thomas-jefferson-
+high-school-for-science-and-technology-20461.
+  2 Thomas Jefferson High School for Science and Technology 2022–2023,
+
+https : / / tjhsst.fcps.edu / sites / default / files / media /inline-files/2022-23%
+20TJHSST%20Profile_0.pdf; Fairfax County Public Schools, School
+Summary, https://schoolprofiles.fcps.edu/schlprfl/f?p=108%3A50%3A%
+3A%3A%3A%3AP0_CURRENT _SCHOOL_ID%3A300.
+  3 See, e.g., TJHSST Admissions Statistics for Class of 2016,
+
+https://web.archive.org/web/20150404073947/ https://www.fcps.edu/cco/
+                       Cite as: 601 U. S. ____ (2024)                        3
+
+                            ALITO, J., dissenting
+
+   In recent years, this race-neutral competitive process pro-
+duced classes with a high percentage of Asian-American
+students. In 2019, Asian Americans constituted 71.5 per-
+cent of TJ’s class, and the 2020 entering class was similar,
+with a 73 percent Asian-American student body.
+   Asian-American students, many of whom are immigrants
+or the children of immigrants,4 have often seen admission
+to TJ as a ticket to the American dream. In this respect,
+their aspirations mirror those of young people from other
+immigrant groups. Public magnet schools with competitive
+admissions based on standardized tests have served as en-
+gines of social mobility by providing unique opportunities
+for minorities and the children of immigrants, and these
+students’ subsequent careers have in turn richly contrib-
+uted to our country’s success. For example, one such school
+in New York City has produced no fewer than nine Nobel
+laureates.5
+   While Asian Americans have striven to attend TJ, their
+strong representation in the student body attracted criti-
+cism from education officials. In June 2020, TJ students
+received an email from their principal lamenting that the
+school did “ ‘not reflect the racial composition in [the Fairfax
+County Public Schools].’ ” App. to Pet. for Cert. 90a. A
+member of the Board wrote in an email that she was “ ‘angry
+
+——————
+pr / tj / tjadmissions0412.pdf ; Fairfax County Public Schools, TJHSST
+Offers Admission to 486 Students, https : / / web.archive.org / web /
+20220824023116 / https : / / www.fcps.edu / news / tjhsst-offers-admission-486-
+students.
+   4 The percentage of foreign-born residents in the jurisdictions in ques-
+
+tion is well above the national average. For example, immigrants make
+up approximately 30 percent of the population of Fairfax County, which
+is the most populous county in Virginia. And of the top five countries
+from which these immigrants came, four (India, Korea, Vietnam, and
+China) are in Asia. Fairfax County, Our Immigrant Neighbors,
+https://www.fairfaxcounty.gov/demographics/our-immigrant-neighbors.
+   5 Bronx Science Foundation, Celebrating Bronx Science Luminaries,
+
+https://alumni.bxscience.edu/hall-of-fame-2.
+4             COALITION FOR TJ v. FAIRFAX COUNTY
+                        SCHOOL BOARD
+                       ALITO, J., dissenting
+
+and disappointed’ ” at TJ’s admissions results and that she
+expected “ ‘intentful [sic] action forthcoming.’ ” Id., at 100a.
+That Board member also contacted Scott Braband, the su-
+perintendent of the Fairfax County Public Schools, de-
+manding that the Board and the public school system “ ‘be
+explicit in how we are going to address the under-
+representation of [b]lack and Hispanic students.’ ” Ibid.
+   The Board answered the call. In December 2020, it
+adopted the current admissions policy, which no longer re-
+lies on standardized tests. The policy fills around 450 of the
+550 seats in each incoming class by allocating a specified
+number of seats to each public middle school in the qualify-
+ing region.6 The remaining 100 seats are open to the entire
+applicant pool. Applicants for these seats are evaluated
+based on their grades, a “portrait sheet,” a problem-solving
+essay, and “Experience Factors.” The portrait sheet is
+meant to describe the applicant’s “soft” skills (such as the
+ability to work with other students). The four “Experience
+Factors” are (1) eligibility for free or reduced price meals;
+(2) status as an English language learner; (3) eligibility for
+special education services; and (4) attendance at a public
+middle school that previously sent few students to TJ.
+   This new policy had an immediate effect. The percentage
+of white, Hispanic, and black students increased,7 while the
+percentage and number of Asian-American students
+sharply dropped. In prior years, the offer rate for Asian-
+American students had hovered between 65 and 75 percent
+of the school’s total offers. Under the new policy, Asian
+
+——————
+  6 Specifically, the number of seats given to each such school is equal to
+
+1.5 percent of the school’s eighth grade population.
+  7 White students received 22.36 percent of admission offers, up from
+
+17.7 percent. Hispanic students received 11.27 percent of offers, up from
+3.3 percent. Black students received 7.9 percent of offers, up from less
+than 3 percent. Parties’ Stipulation of Uncontested Facts in No. 1:21–
+cv–296 (ED Va., Dec. 3, 2021), ECF Doc. 95, pp. 4–5; 2 App. in No. 22–
+1280 (CA4, May 11, 2022), ECF Doc. 44–2, pp. 96–98.
+                 Cite as: 601 U. S. ____ (2024)            5
+
+                     ALITO, J., dissenting
+
+Americans received 54.36 percent of the offers. In fact, even
+though the entering class expanded by 64 seats, the number
+of seats offered to Asian Americans decreased by 56. Id., at
+89a.
+                               B
+  The Coalition for TJ (Coalition), an organization that in-
+cludes parents of children who have applied or will apply to
+TJ, filed suit in Federal District Court under 42 U. S. C.
+§1983, against the Board. The Coalition alleged that the
+new admissions policy was based on intentional racial dis-
+crimination and therefore violates the Equal Protection
+Clause.
+  After a careful review of the record, the District Court
+agreed. It found that both direct and circumstantial evi-
+dence clearly showed that the changes in the admissions
+process were motivated by racial discrimination. The court
+found that the Board’s decision-making process was
+“rushed, not transparent, and more concerned with simply
+doing something to alter the racial balance at TJ than with
+public engagement.” App. to Pet. for Cert. 106a. “The dis-
+cussion of TJ admissions changes was infected with talk of
+racial balancing from its inception,” and “emails and text
+messages between Board members and high-ranking [Fair-
+fax County Public School] officials leave no material dispute
+that, at least in part, the purpose of the Board's admissions
+overhaul was to change the racial makeup [of] TJ to the det-
+riment of Asian-Americans.” Ibid. The court also found
+that “Asian-American students [were] disproportionately
+harmed by the Board’s decision to overhaul TJ admissions,”
+id., at 99a, and it viewed this disparate impact as circum-
+stantial evidence of unlawful discrimination. Based on this
+view of the evidence, the court granted summary judgment
+for the Coalition and enjoined use of the new policy.
+  The Fourth Circuit reversed the District Court in a star-
+6          COALITION FOR TJ v. FAIRFAX COUNTY
+                     SCHOOL BOARD
+                    ALITO, J., dissenting
+
+tling 2 to 1 decision. 68 F. 4th 864 (2023). The panel ma-
+jority held that the Coalition could not prevail because, as
+the majority saw things, the new policy “visit[ed] no racially
+disparate impact on Asian American students” since, even
+after use of the new policy began, Asian Americans still re-
+ceived 54.36 percent of the admissions offers. Id., at 879–
+881. This percentage exceeded the percentage of Asian-
+American students in the applicant pool, and therefore, ac-
+cording to the panel majority’s reasoning, Asian-American
+students had no cause to complain. As the panel majority
+put it, “an application of elementary arithmetic shows that
+Asian American students, as a class, experience no material
+disadvantage under the policy’s functioning” and in fact
+perform “better in securing admission to TJ than students
+from any other racial or ethnic group.” Id., at 882. Alt-
+hough the panel also went on to discuss the Coalition’s
+other evidence, the panel majority concluded that it “could
+end [its] analysis of the Coalition’s Equal Protection Claim
+at th[at] juncture.” Id., at 879–880, 882. As I will explain
+below, the panel’s “elementary arithmetic” was elementary
+error.
+                              II
+   The “central purpose” of the Equal Protection Clause is
+to prohibit “official conduct discriminating on the basis of
+race.” Washington v. Davis, 426 U. S. 229, 239 (1976); see
+also, e.g., Students for Fair Admissions, Inc. v. President
+and Fellows of Harvard College, 600 U. S. 181, 206 (2023)
+(SFFA) (the “core purpose” of the Equal Protection Clause
+is “doing away with all governmentally imposed discrimi-
+nation based on race” (internal quotation marks and alter-
+ations omitted)). When a party claims that a law or policy
+is racially discriminatory, that party must show that it was
+adopted for “a racially discriminatory purpose.” Davis, 426
+U. S., at 240. A facially discriminatory policy is automati-
+cally subject to heightened review. Even a policy that is
+                 Cite as: 601 U. S. ____ (2024)            7
+
+                     ALITO, J., dissenting
+
+race neutral on its face may be unconstitutional if it is
+adopted for a “racially discriminatory intent or purpose.”
+Arlington Heights v. Metropolitan Housing Development
+Corp., 429 U. S. 252, 265–266 (1977). A party who chal-
+lenges such a policy on equal protection grounds can show
+intentional discrimination by proffering a combination of
+direct and circumstantial evidence.
+  In Arlington Heights, we listed four factors that, among
+others, have a bearing on the assessment of circumstantial
+evidence: (1) the law’s historical background, (2) the se-
+quence of events leading to the law’s enactment, including
+any departures from the normal legislative process, (3) the
+law’s legislative history, and (4) whether the law “ ‘bears
+more heavily on one race than another.’ ” Id., at 265–269.
+We have emphasized that disparate impact, by itself, does
+not establish intentional discrimination. Davis, 426 U. S.,
+at 239–240.
+  The District Court faithfully employed this framework.
+In addition to noting that the record contains direct evi-
+dence of racial intent, the court noted the stark change ef-
+fected by the new policy, the unusual decisionmaking pro-
+cess that led to the change, and the fact that the change
+bore “more heavily on” Asian Americans than members of
+other groups.
+  The Fourth Circuit panel majority, by contrast, com-
+pletely distorted the meaning of disparate impact. Even
+though the new policy bore “more heavily” on Asian-
+American applicants (because it diminished their chances
+of admission while improving the chances of every other
+racial group), the panel majority held that there was no dis-
+parate impact because they were still overrepresented in
+the TJ student body.
+  That is a clearly mistaken understanding of what it
+means for a law or policy to have a disparate effect on the
+members of a particular racial or ethnic group. Under the
+old policy, each Asian-American applicant had a certain
+8          COALITION FOR TJ v. FAIRFAX COUNTY
+                     SCHOOL BOARD
+                    ALITO, J., dissenting
+
+chance of admission. Under the new policy, that chance has
+been significantly reduced, while the chance of admission
+for members of other racial and ethnic groups has in-
+creased. Accordingly, the new admissions policy bore more
+heavily on Asian-American applicants.
+  The panel majority, however, thought that this did not
+matter. The simple fact that Asian Americans were still
+overrepresented in the TJ student body was enough to
+doom the Coalition’s equal protection claim. As far as the
+Fourth Circuit was concerned, the Board could have
+adopted a policy designed solely to reduce the Asian-
+American offer rate and still evaded liability. The holding
+below effectively licenses official actors to discriminate
+against any racial group with impunity as long as that
+group continues to perform at a higher rate than other
+groups.
+  That is indefensible. As Judge Rushing explained in dis-
+sent, under the Fourth Circuit’s view, the Constitution per-
+mits “facially neutral laws explicitly motivated by racial
+discrimination, as long as the law’s negative effect on the
+targeted racial group pushes it no lower than other racial
+groups.” 68 F. 4th, at 904. “It would not matter, for exam-
+ple, if a new law cut a racial group’s success rate from 90%
+to 30% and the legislature was open about its discrimina-
+tory purpose, as long as no other racial group succeeded at
+a higher rate.” Ibid. This rule defies law and logic.
+  Consider the following hypothetical case. Suppose that
+white parents in a school district where 85 percent of the
+students are white and 15 percent are black complain be-
+cause 10 of the 12 players (83 percent) on the public high
+school basketball team are black. Suppose that the princi-
+pal emails the coach and says: “You have too many black
+players. You need to replace some of them with white play-
+ers.” And suppose the coach emails back: “Ok. That will
+hurt the team, but if you insist, I’ll do it.” The coach then
+takes five of his black players aside and kicks them off the
+                     Cite as: 601 U. S. ____ (2024)                     9
+
+                          ALITO, J., dissenting
+
+team for some contrived—but facially neutral—reason. For
+instance, as cover, he might institute a policy that reserves
+a set number of spots on the roster for each of the middle
+schools who feed to the high school. According to the rea-
+soning of the Fourth Circuit majority, this action would not
+violate equal protection because the percentage of black
+players left on the team (approximately 42 percent) would
+exceed the percentage of black students in the school.8 I
+cannot imagine this Court’s sustaining such discrimination,
+but in principle there is no difference between that imagi-
+nary case and one now before us.
+                              III
+   The Fourth Circuit’s decision is based on a theory that is
+flagrantly wrong and should not be allowed to stand. I
+would not reach the question whether the District Court
+correctly analyzed all the evidence in this case, but I would
+summarily reject the holding discussed above. If the Dis-
+trict Court’s evaluation of the evidence is correct, the panel
+majority’s fallacious reasoning works a grave injustice on
+diligent young people who yearn to make a better future for
+themselves, their families, and our society. In addition, the
+Fourth Circuit’s reasoning is a virus that may spread if not
+promptly eliminated. Indeed, the First Circuit has already
+favorably cited the Fourth Circuit’s analysis to disparage
+the use of a before-and-after comparison in a similar equal
+protection challenge to a facially neutral admissions policy.
+See Boston Parent Coalition for Academic Excellence Corp.
+v. School Comm. for Boston, 89 F. 4th 46, 57–58 (2023). And
+
+——————
+  8 Should the Fourth Circuit’s reasoning be adopted elsewhere, the
+
+same would also hold true in other circuits where the court of appeals
+considers disparate impact to be a necessary element of a successful chal-
+lenge to a facially neutral policy. See Lewis v. Ascension Parish School
+Bd., 806 F. 3d 344, 358–359 (CA5 2015); Doe v. Lower Merion School
+Dist., 665 F. 3d 524, 549 (CA3 2011); Anderson v. Boston, 375 F. 3d 71,
+89 (CA1 2004).
+10           COALITION FOR TJ v. FAIRFAX COUNTY
+                       SCHOOL BOARD
+                      ALITO, J., dissenting
+
+TJ’s model itself has been trumpeted to potential replica-
+tors as a blueprint for evading SFFA.9
+                        *    *    *
+  The Court’s willingness to swallow the aberrant decision
+below is hard to understand. We should wipe the decision
+off the books, and because the Court refuses to do so, I must
+respectfully dissent.
+
+
+
+
+——————
+  9 Less than two weeks after SFFA was decided, the dean of UC Berke-
+
+ley School of Law and the general counsel for the University of Michigan,
+to name just a couple of examples, openly advocated for schools to emu-
+late TJ’s new admissions model. See Brief for Cato Institute as Amicus
+Curiae 4–7. Just as TJ offers a roadmap for other selective schools to
+skirt the Equal Protection Clause, so too does the Fourth Circuit’s rea-
+soning offer a roadmap for other federal courts to provide cover.

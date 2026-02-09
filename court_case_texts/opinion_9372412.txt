@@ -1,0 +1,116 @@
+Cite as: 598 U. S. ____ (2023)            1
+
+                     JACKSON, J., dissenting
+
+SUPREME COURT OF THE UNITED STATES
+      QUARTAVIOUS DAVIS v. UNITED STATES
+   ON PETITION FOR WRIT OF CERTIORARI TO THE UNITED
+  STATES COURT OF APPEALS FOR THE ELEVENTH CIRCUIT
+            No. 22–5364. Decided February 21, 2023
+
+   The petition for a writ of certiorari is denied.
+   JUSTICE JACKSON, with whom JUSTICE SOTOMAYOR joins,
+dissenting from the denial of certiorari.
+   Our criminal justice system today is “for the most part a
+system of pleas, not a system of trials.” Lafler v. Cooper,
+566 U. S. 156, 170 (2012). Against this backdrop, this Court
+has recognized that the loss of an opportunity for a favora-
+ble plea offer due to an attorney’s deficient performance can
+violate the Sixth Amendment right to effective counsel. Id.,
+at 169–170; see also Missouri v. Frye, 566 U. S. 134 (2012).
+Petitioner Quartavious Davis alleged, and the Eleventh
+Circuit did not dispute, that he satisfied the first prong of
+the Strickland ineffective-assistance-of-counsel standard
+because his attorney failed to initiate plea negotiations with
+the Government. The question presented, then, is how can
+a defendant like Davis show “prejudice” as a result of this
+failure? See Strickland v. Washington, 466 U. S. 668, 687
+(1984) (ineffective assistance of counsel requires a showing
+of both deficient performance and prejudice).
+   The Circuits appear to be at odds with respect to this im-
+portant question. Under our case law, in order to demon-
+strate prejudice when defense counsel’s deficient perfor-
+mance causes the defendant to forgo an advantageous plea
+deal, the defendant must show there was “a reasonable
+probability” that the relevant parties—the prosecution, de-
+fendant, and the court—would have accepted the plea.
+Frye, 566 U. S., at 147. But some Circuits have held that
+2                  DAVIS v. UNITED STATES
+
+                     JACKSON, J., dissenting
+
+this showing can be made without proof that the Govern-
+ment had put a plea offer on the table, see Byrd v. Skipper,
+940 F. 3d 248, 252, 255–256 (CA6 2019); United States v.
+Pender, 514 Fed. Appx. 359, 360–361 (CA4 2013) (per cu-
+riam), while others seem to impose a threshold requirement
+that a defendant cannot show prejudice if “the government
+never extended . . . a formal plea offer” to the defendant,
+Ramirez v. United States, 751 F. 3d 604, 608 (CA8 2014);
+see also Byrd, 940 F. 3d, at 264 (Griffin, J., dissenting) (col-
+lecting cases to support the proposition that ineffective as-
+sistance of counsel in this context “require[s] proof of a plea
+offer”).
+   In this case, the Eleventh Circuit joined the debate. The
+District Court concluded that Davis’s allegations in his 28
+U. S. C. §2255 motion were insufficient, even if true, be-
+cause he had not alleged “that a plea offer was made but
+not communicated to [him].” The Eleventh Circuit af-
+firmed, concluding that Davis was not entitled to an eviden-
+tiary hearing to prove his allegations because “Davis did not
+allege in his §2255 petition that the government even of-
+fered a plea deal,” which, in the Eleventh Circuit’s view,
+meant that Davis had insufficiently pleaded prejudice.
+   The instant case not only implicates a divergence of cir-
+cuit opinions, but also is an ideal vehicle to evaluate the
+Eleventh Circuit’s bright-line rule that an adequate show-
+ing of prejudice requires an actual plea offer. That im-
+portant legal question is isolated here; since the Eleventh
+Circuit assumed deficient performance, so can we. See
+Lafler, 566 U. S., at 163. And because the lower courts de-
+nied Davis’s motion without an evidentiary hearing based
+solely on the pleading deficiency, the sole question before us
+is whether a defendant must allege (and then ultimately
+show) that an actual plea offer was made.
+   Moreover, under the circumstances presented here, it
+was exceedingly likely that Davis would have prevailed
+with respect to the prejudice prong if the Eleventh Circuit
+                    Cite as: 598 U. S. ____ (2023)                   3
+
+                        JACKSON, J., dissenting
+
+had not applied that threshold requirement. Davis’s alle-
+gations established that a favorable plea agreement was a
+strong possibility, even though no offer actually material-
+ized, because each of Davis’s five codefendants had lawyers
+who negotiated favorable plea agreements with respect to
+the same series of armed robberies. And while Davis (who
+was 18 or 19 years old at the time the crimes were commit-
+ted) received a sentence of approximately 160 years of im-
+prisonment after his attorney took him to trial, all of Da-
+vis’s codefendants received sentences of less than 40 years
+of imprisonment due to plea agreements that enabled the
+District Court to impose a sentence below the mandatory
+minimum. The District Court’s statements at sentencing
+were also noteworthy: The judge specifically asserted that,
+while he thought the appropriate sentence for Davis was 40
+years, he was bound by the consecutive mandatory mini-
+mums.*
+  The Eleventh Circuit gave short shrift to these alleged
+facts, and others, which suggest that Davis was harmed by
+his counsel’s failure to initiate plea negotiations because it
+applied a bright-line rule that prejudice cannot be shown in
+the absence of a plea offer. This petition presents the Court
+with a clear opportunity to resolve a Circuit split regarding
+whether having an actual plea offer is an indispensable pre-
+requisite to making the necessary showing of prejudice. I
+would grant certiorari to resolve that issue.
+
+
+
+
+——————
+   *The mandatory minimums that applied to Davis were subsequently
+revisited—and revised—by Congress. See 18 U. S. C. §924(c)(1)(A). Da-
+vis asserts that, if sentenced today, he would face a mandatory minimum
+of 35 years of imprisonment.

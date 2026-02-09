@@ -1,0 +1,99 @@
+Cite as: 598 U. S. ____ (2023)           1
+
+                    GORSUCH, J., dissenting
+
+SUPREME COURT OF THE UNITED STATES
+          MONICA TOTH v. UNITED STATES
+   ON PETITION FOR WRIT OF CERTIORARI TO THE UNITED
+    STATES COURT OF APPEALS FOR THE FIRST CIRCUIT
+             No. 22–177.   Decided January 23, 2023
+
+   The petition for a writ of certiorari is denied.
+   JUSTICE GORSUCH, dissenting from the denial of certio-
+rari.
+   In the 1930s, Monica Toth’s father fled his home in Ger-
+many to escape the swell of violent antisemitism. Eventu-
+ally, he found his way to South America, where he made a
+new life with his young family and went on to enjoy a suc-
+cessful business career in Buenos Aires. But perhaps owing
+to his early formative experiences, Ms. Toth’s father always
+kept a reserve of funds in a Swiss bank account. Shortly
+before his death, he gave Ms. Toth several million dollars,
+also in a Swiss bank account. He encouraged his daughter
+to keep the money there—just in case.
+   Ms. Toth, now in her eighties and an American citizen,
+followed her father’s advice. For several years, however,
+she failed to report her foreign bank account to the federal
+government as the law requires. 31 U. S. C. §5314. Ms.
+Toth insists this was an innocent mistake. She says she did
+not know of the reporting obligation. And when she learned
+of it, she says, she completed the necessary disclosures.
+   The Internal Revenue Service saw things differently.
+Pursuant to §5321, the agency charged Ms. Toth with will-
+fully violating §5314’s reporting requirement and assessed
+a civil penalty of $2.1 million—half of the balance of Ms.
+Toth’s account—plus another $1 million in late fees and in-
+terest. Initially, Ms. Toth sought to represent herself in
+proceedings challenging the IRS’s assessment, but that did
+not go well. Later, Ms. Toth engaged counsel who argued
+2                  TOTH v. UNITED STATES
+
+                     GORSUCH, J., dissenting
+
+that the IRS’s assessment violated the Excessive Fines
+Clause of the Eighth Amendment. But the First Circuit re-
+jected this line of defense. It held that the Constitution’s
+protection against excessive fines did not apply to Ms.
+Toth’s case because the IRS’s assessment against her was
+“not tied to any criminal sanction” and served a “remedial”
+purpose. 33 F. 4th 1, 16, 17–19 (2022).
+   This decision is difficult to reconcile with our precedents.
+We have recognized that the Excessive Fines Clause “traces
+its venerable lineage” to Magna Carta and the English Bill
+of Rights. Timbs v. Indiana, 586 U. S. ___, ___–___ (2019)
+(slip op., at 4–5). We have held that “[p]rotection against
+excessive punitive economic sanctions” is “ ‘fundamental’ ”
+and “ ‘deeply rooted in this Nation’s history and tradition.’ ”
+Id., at ___ (slip op., at 7). And all that would mean little if
+the government could evade constitutional scrutiny under
+the Clause’s terms by the simple expedient of fixing a “civil”
+label on the fines it imposes and declining to pursue any
+related “criminal” case. Far from permitting that kind of
+maneuver, this Court has warned the Constitution guards
+against it. See Austin v. United States, 509 U. S. 602, 610
+(1993) (“[T]he question is not, as the United States would
+have it, whether [a monetary penalty] is civil or criminal,
+but rather whether it is punishment.”); see also Giaccio v.
+Pennsylvania, 382 U. S. 399, 402 (1966); Sessions v. Di-
+maya, 584 U. S. ___, ___ (2018) (GORSUCH, J., concurring in
+part and concurring in judgment) (slip op., at 10).
+   Nor is a statutory penalty beneath constitutional notice
+because it serves a “remedial” purpose. Really, the notion
+of “nonpunitive penalties” is “a contradiction in terms.”
+United States v. Bajakajian, 524 U. S. 321, 346 (1998) (Ken-
+nedy, J., dissenting). Just take this case. The government
+did not calculate Ms. Toth’s penalty with reference to any
+losses or expenses it had incurred. The government im-
+posed its penalty to punish her and, in that way, deter oth-
+ers. Even supposing, however, that Ms. Toth’s penalty bore
+                 Cite as: 598 U. S. ____ (2023)            3
+
+                    GORSUCH, J., dissenting
+
+both punitive and compensatory purposes, it would still
+merit constitutional review. Under our cases a fine that
+serves even “in part to punish” is subject to analysis under
+the Excessive Fines Clause. Austin, 509 U. S., at 610 (em-
+phasis added).
+  Ms. Toth and her amici identify still more reasons to
+worry about the First Circuit’s decision. They say it clashes
+with the approach many other courts have taken in similar
+cases. Pet. for Cert. 18–25 (collecting cases). They observe
+that it incentivizes governments to impose exorbitant civil
+penalties as a means of raising revenue. Id., at 25–30. And
+they contend that it is difficult to square with the original
+understanding of the Eighth Amendment. Brief for Profes-
+sor Beth A. Colgan as Amicus Curiae on Pet. for Cert. 4–13.
+For all these reasons, taking up this case would have been
+well worth our time. As things stand, one can only hope
+that other lower courts will not repeat its mistakes.

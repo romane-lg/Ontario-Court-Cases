@@ -1,0 +1,2387 @@
+PRELIMINARY PRINT
+
+             Volume 601 U. S. Part 2
+                             Pages 416–471
+
+
+
+
+       OFFICIAL REPORTS
+                                    OF
+
+
+   THE SUPREME COURT
+                                May 16, 2024
+
+
+Page Proof Pending Publication
+
+
+                   REBECCA A. WOMELDORF
+                           reporter of decisions
+
+
+
+
+    NOTICE: This preliminary print is subject to formal revision before
+  the bound volume is published. Users are requested to notify the Reporter
+  of Decisions, Supreme Court of the United States, Washington, D.C. 20543,
+  pio@supremecourt.gov, of any typographical or other formal errors.
+416                     OCTOBER TERM, 2023
+
+                                 Syllabus
+
+
+  CONSUMER FINANCIAL PROTECTION BUREAU
+   et al. v. COMMUNITY FINANCIAL SERVICES
+     ASSOCIATION OF AMERICA, LTD., et al.
+certiorari to the united states court of appeals for
+                  the fth circuit
+      No. 22–448. Argued October 3, 2023—Decided May 16, 2024
+The Constitution gives Congress control over the public fsc subject to the
+  command that “[n]o Money shall be drawn from the Treasury, but in
+  Consequence of Appropriations made by Law.” Art. I, § 9, cl. 7. For
+  most federal agencies, Congress provides funding through annual appro-
+  priations. For the Consumer Financial Protection Bureau, however,
+  Congress provided a standing source of funding outside the ordinary
+  annual appropriations process. Specifcally, Congress authorized the
+  Bureau to draw from the Federal Reserve System an amount that its
+  Director deems “reasonably necessary to carry out” the Bureau's duties,
+  subject only to an infation-adjusted cap. 12 U. S. C. §§ 5497(a)(1), (2).
+  In this case, several trade associations representing payday lenders and
+Page Proof Pending Publication
+  credit-access businesses challenged regulations issued by the Bureau
+  pertaining to high-interest consumer loans on statutory and constitu-
+  tional grounds. As relevant here, the Fifth Circuit accepted the associ-
+  ations' argument that the Bureau's funding mechanism violates the Ap-
+  propriations Clause.
+Held: Congress' statutory authorization allowing the Bureau to draw money
+ from the earnings of the Federal Reserve System to carry out the Bu-
+ reau's duties satisfes the Appropriations Clause. Pp. 424–438, 441.
+    (a) Under the Appropriations Clause, an appropriation is a law that
+ authorizes expenditures from a specifed source of public money for des-
+ ignated purposes. Pp. 424–435.
+       (1) The Bureau's funding is “drawn from the Treasury” and is
+ therefore subject to the requirements of the Appropriations Clause.
+ The issue is whether the Bureau's funding mechanism constitutes an
+ “Appropriatio[n] made by Law.” The Court concludes that the answer
+ is yes based on the Constitution's text, the history against which that
+ text was enacted, and congressional practice immediately following rati-
+ fcation. Pp. 425–434.
+          (i) The Constitution's use of the term “appropriation” provides
+ important insight into its meaning. The Appropriations Clause itself
+ specifes that an appropriation must authorize withdrawals from a
+ particular source, the “Treasury.” And, the proviso limiting Congress'
+                      Cite as: 601 U. S. 416 (2024)                    417
+
+                                Syllabus
+
+ power to “raise and support Armies”—that “no Appropriation of Money
+ to that Use shall be for a longer Term than two Years”—indicates that
+ appropriations assign funds for specifc uses. Contemporary dictionary
+ defnitions support this conclusion as well. The evidence suggests that,
+ at a minimum, appropriations were understood as a legislative means
+ of authorizing expenditures from public funds for designated purposes.
+ Pp. 426–427.
+         (ii) Pre-founding history supports the conclusion that an identi-
+ fed source and purpose are all that is required for a valid appropriation.
+ The concept of legislative appropriations grew out of the broader strug-
+ gle between Parliament and the Crown for popular control of the purse
+ in England. Parliament had little claim to direct how the Crown's he-
+ reditary revenues were spent, but “extraordinary revenues” required
+ parliamentary authorization because they were fnanced through vari-
+ ous forms of taxation. In granting these revenues, Parliament began
+ exercising an attendant power to specify how the Crown used the funds.
+ The ensuing power struggle culminated in Parliament stripping away
+ the remnants of the Crown's hereditary revenues. Subsequently, Par-
+ liament's usual practice was to appropriate government revenue to par-
+ ticular purposes and to limit the duration of its revenue grants. But,
+ not all appropriations were time limited. Some statutes granting
+Page Proof Pending Publication
+ money gave the Crown broad discretion regarding how much to spend
+ within an appropriated sum.
+      The appropriations practice in the Colonies and early state legisla-
+ tures was much the same. Many early state constitutions vested the
+ legislative body with power over appropriations, and state legislative
+ bodies often opted for open-ended, discretionary appropriations. By
+ the time of the Constitutional Convention, it was uncontroversial that
+ the powers to raise and disburse public money would reside in the Leg-
+ islative Branch. The origins of the Appropriations Clause confrm that
+ appropriations needed to designate particular revenues for identifed
+ purposes, but beyond that limit, early legislative bodies exercised a wide
+ range of discretion. Pp. 427–432.
+         (iii) The practice of the First Congress also illustrates the
+ source-and-purpose understanding of appropriations. Many early ap-
+ propriations laws made annual lump-sum grants for the Government's
+ expenses. As in England, the appropriation of “sums not exceeding” a
+ specifed amount provided the Executive discretion over how much to
+ spend up to a cap. Congress took even more fexible approaches to
+ appropriations for several early executive agencies, allowing them to
+ indefnitely fund themselves from revenue collected. For example,
+ Congress adopted open-ended fee- and commission-based funding
+ schemes for the Customs Service and the Post Offce. Pp. 432–434.
+418 CONSUMER FINANCIAL PROTECTION BUREAU v. COMMU-
+     NITY FINANCIAL SERVICES ASSN. OF AMERICA, LTD.
+                       Syllabus
+
+        (2) The Bureau's funding statute satisfes the requirements of the
+ Appropriations Clause. The statute authorizes the Bureau to draw
+ public funds from a particular source—“the combined earnings of the
+ Federal Reserve System”—in an amount not exceeding an infation-ad-
+ justed cap. 12 U. S. C. §§ 5497(a)(1), (2)(A)–(B). And, it specifes the
+ objects for which the Bureau can use those funds—to “pay the expenses
+ of the Bureau in carrying out its duties and responsibilities.”
+ § 5497(c)(1). The Bureau's funding mechanism also fts comfortably
+ within the historical appropriations practice described above. P. 435.
+     (b) The associations' three principal arguments for why the Bureau's
+ funding mechanism violates the Appropriations Clause are unpersua-
+ sive. Pp. 435–438.
+        (1) The associations argue that the Bureau's funding is not “drawn
+ . . . in Consequence of Appropriations made by Law” because the agency
+ itself decides the amount of annual funding to draw from the Federal
+ Reserve System. But, appropriations of “sums not exceeding” a cer-
+ tain amount were commonplace immediately after the founding. Con-
+ gress did not violate the Appropriations Clause by permitting the
+ Bureau to decide how much funding to draw up to a cap. Pp. 435–436.
+        (2) The associations suggest that the Appropriations Clause re-
+
+Page Proof Pending Publication
+ quires both Chambers of Congress to periodically agree on an agency's
+ funding, which ensures that each Chamber reserves the power to unilat-
+ erally block those funding measures through inaction. While the Con-
+ stitution expressly provides that “no Appropriation of Money” to sup-
+ port an army “shall be for a longer Term than two Years,” Art. I, § 8,
+ cl. 12, the Constitution does not explicitly limit the duration of appropri-
+ ations for other purposes. The First Congress' practice confrms this
+ understanding, as appropriations that supplied funding to the Customs
+ Service and the Post Offce were not time limited. The associations
+ resist the analogy to the Post Offce and other fee-based agencies, ar-
+ guing that such agencies do not enjoy the same level of fscal independ-
+ ence as the Bureau. But, the associations fail to explain the relevance
+ of that difference to the question whether a law complies with the con-
+ stitutional imperative of an appropriation. Pp. 436–437.
+        (3) Finally, the associations contend that if the Bureau's funding
+ mechanism is consistent with the Appropriations Clause, then Congress
+ could do the same for any—or every—civilian agency, allowing the Ex-
+ ecutive to operate free of any meaningful fscal check. But, the Appro-
+ priations Clause is simply a limitation on Congress' power over the
+ purse, and the associations err by reducing the power of the purse to
+ only the principle expressed in the Appropriations Clause. They offer
+ no defensible argument that the Appropriations Clause requires more
+                       Cite as: 601 U. S. 416 (2024)                   419
+
+                                 Syllabus
+
+  than a law that authorizes the disbursement of specifed funds for identi-
+  fed purposes. Pp. 437–438.
+51 F. 4th 616, reversed and remanded.
+
+  Thomas, J., delivered the opinion of the Court, in which Roberts, C. J.,
+and Sotomayor, Kagan, Kavanaugh, Barrett, and Jackson, JJ., joined.
+Kagan, J., fled a concurring opinion, in which Sotomayor, Kavanaugh,
+and Barrett, JJ., joined, post, p. 441. Jackson, J., fled a concurring
+opinion, post, p. 445. Alito, J., fled a dissenting opinion, in which Gor-
+such, J., joined, post, p. 447.
+
+  Solicitor General Prelogar argued the cause for petition-
+ers. With her on the briefs were Principal Deputy Assist-
+ant Attorney General Boynton, Deputy Solicitor General
+Fletcher, Benjamin W. Snyder, Ephraim A. McDowell,
+Mark R. Freeman, Melissa N. Patterson, and Steven Y.
+Bressler.
+  Noel J. Francisco argued the cause for respondents.
+With him on the brief were Christian G. Vergonis, Hashim
+Page Proof Pending Publication
+M. Mooppan, and Yaakov M. Roth.*
+
+   *Briefs of amici curiae urging reversal were fled for the State of New
+York et al. by Letitia James, Attorney General of New York, Barbara
+D. Underwood, Solicitor General, Ester Murdukhayeva, Deputy Solicitor
+General, and Dennis Fan, Senior Assistant Solicitor General, and by the
+Attorneys General for their respective jurisdictions as follows: Kris Mayes
+of Arizona, Rob Bonta of California, Philip J. Weiser of Colorado, William
+Tong of Connecticut, Kathleen Jennings of Delaware, Brian L. Schwalb
+of the District of Columbia, Anne E. Lopez of Hawaii, Kwame Raoul of
+Illinois, Aaron M. Frey of Maine, Anthony G. Brown of Maryland, Andrea
+Joy Campbell of Massachusetts, Dana Nessel of Michigan, Keith Ellison
+of Minnesota, Aaron D. Ford of Nevada, Matthew J. Platkin of New Jer-
+sey, Raúl Torrez of New Mexico, Joshua H. Stein of North Carolina, Ellen
+F. Rosenblum of Oregon, Michelle A. Henry of Pennsylvania, Peter F.
+Neronha of Rhode Island, Charity R. Clark of Vermont, Robert W. Fergu-
+son of Washington, and Joshua L. Kaul of Wisconsin; for AARP et al. by
+Maame Gyamf, William Alvarado Rivera, and Julie Nepveu; for Com-
+munity Development Financial Institutions et al. by Richard A. Koffman;
+for Current and Former Members of Congress by Hyland Hunt and Ruth-
+anne M. Deutsch; for Farm Action et al. by Rachel L. Fried and Jeffrey
+B. Dubner; for Financial Regulation Scholars by Gregory M. Lipper and
+420 CONSUMER FINANCIAL PROTECTION BUREAU v. COMMU-
+     NITY FINANCIAL SERVICES ASSN. OF AMERICA, LTD.
+                   Opinion of the Court
+
+  Justice Thomas delivered the opinion of the Court.
+  Our Constitution gives Congress control over the public
+fsc, but it specifes that its control must be exercised in a
+
+Adam J. Levitin, pro se; for the Lawyers' Committee for Civil Rights
+Under Law et al. by Damon Hewitt, Jon Greenbaum, Thomas Silverstein,
+and Jeffrey Gentes; for Military and Veterans Organizations by Carolyn
+E. Shapiro and John Paul Schnapper-Casteras; for the National Treasury
+Employees Union by Julie M. Wilson, Paras N. Shah, and Allison C.
+Giles; for Professors of History et al. by Elizabeth B. Wydra, Brianne J.
+Gorod, and Brian R. Frazelle; for Ten Consumer Advocacy Organizations
+by Scott L. Nelson and Allison M. Zieve; and for 90 State and Local Non-
+proft Organizations by Seth E. Mermin.
+  Briefs of amici curiae urging affrmance were fled for the State of West
+Virginia et al. by Patrick Morrisey, Attorney General of West Virginia,
+Lindsay S. See, Solicitor General, and Michael R. Williams, Principal
+Deputy Solicitor General, by John Scott, Provisional Attorney General of
+Texas, and by the Attorneys General for their respective States as follows:
+Steve Marshall of Alabama, Treg Taylor of Alaska, Tim Griffn of Arkan-
+sas, Ashley Moody of Florida, Chris Carr of Georgia, Raúl Labrador of
+Page Proof Pending Publication
+Idaho, Todd Rokita of Indiana, Brenna Bird of Iowa, Kris Kobach of Kan-
+sas, Daniel Cameron of Kentucky, Jeff Landry of Louisiana, Lynn Fitch
+of Mississippi, Andrew Bailey of Missouri, Austin Knudsen of Montana,
+Michael T. Hilgers of Nebraska, John M. Formella of New Hampshire,
+Drew Wrigley of North Dakota, Dave Yost of Ohio, Gentner Drummond
+of Oklahoma, Alan Wilson of South Carolina, Marty Jackley of South
+Dakota, Jonathan Skrmetti of Tennessee, Sean D. Reyes of Utah, Jason
+Miyares of Virginia, and Bridget Hill of Wyoming; for ACA International
+by Christopher O. Murray; for the Americans for Prosperity Foundation
+by Michael Pepson; for America's Future et al. by William J. Olson and
+Jeremiah L. Morgan; for the Atlantic Legal Foundation by Lawrence S.
+Ebner and Herbert L. Fenster; for the Center for Constitutional Jurispru-
+dence by John C. Eastman and Anthony T. Caso; for the Chamber of
+Commerce of the United States of America et al. by Cameron T. Norris
+and Jennifer B. Dickey; for the Credit Union National Association, Inc.,
+et al. by Julian R. Ellis, Jr., and Leah C. Dempsey; for Former Members
+of Congress by Helgi C. Walker, Lucas C. Townsend, Russell Balikian,
+and Lochlan F. Shelfer; for the Foundation for Government Accountability
+by Stewart L. Whitson; for the Landmark Legal Foundation by Matthew
+C. Forys, Michael J. O'Neill, and Richard P. Hutchison; for the New Civil
+Liberties Alliance et al. by Richard A. Samp, Margaret A. Little, and
+Mark S. Chenoweth; for the New England Legal Foundation by Mark
+                      Cite as: 601 U. S. 416 (2024)                   421
+
+                          Opinion of the Court
+
+specifc manner. The Appropriations Clause commands that
+“[n]o Money shall be drawn from the Treasury, but in Conse-
+quence of Appropriations made by Law.” Art. I, § 9, cl. 7.
+For most federal agencies, Congress provides funding on an
+annual basis. This annual process forces them to regularly
+implore Congress to fund their operations for the next year.
+The Consumer Financial Protection Bureau is different.
+The Bureau does not have to petition for funds each year.
+Instead, Congress authorized the Bureau to draw from the
+Federal Reserve System the amount its Director deems
+“reasonably necessary to carry out” the Bureau's duties, sub-
+ject only to an infation-adjusted cap. 124 Stat. 1975, 12
+U. S. C. §§ 5497(a)(1), (2). In this case, we must decide the
+narrow question whether this funding mechanism complies
+with the Appropriations Clause. We hold that it does.
+
+                                    I
+                          A
+Page     Proof      Pending        Publication
+ Congress enacted the Dodd-Frank Wall Street Reform and
+Consumer Protection Act in response to the 2008 fnancial
+crisis. 124 Stat. 1376. The Act created an independent
+financial regulator within the Federal Reserve System
+known as the Bureau of Consumer Financial Protection. 12
+U. S. C. § 5491(a). Congress charged the Bureau with en-
+forcing consumer fnancial protection laws to ensure “that
+all consumers have access to markets for consumer fnancial
+products and services and that markets for consumer fnan-
+cial products and services are fair, transparent, and competi-
+tive.” § 5511(a). The Act consolidated in the Bureau the
+
+A. Perry, Joshua M. Wesneski, and Daniel B. Winslow; for the Third
+Party Payment Processors Association by Misha Tseytlin; for the Wash-
+ington Legal Foundation by John M. Masslon II and Cory L. Andrews; for
+John Michael Mulvaney by Brunn W. Roysden III; and for 132 Members
+of Congress by Jennifer L. Mascott and R. Trent McCotter.
+   Robert M. Loeb fled a brief for the Mortgage Bankers Association et al.
+as amici curiae.
+422 CONSUMER FINANCIAL PROTECTION BUREAU v. COMMU-
+     NITY FINANCIAL SERVICES ASSN. OF AMERICA, LTD.
+                   Opinion of the Court
+
+authority to administer 18 existing consumer protection stat-
+utes, among them the Fair Debt Collection Practices Act, the
+Fair Credit Reporting Act, and the Home Mortgage Disclo-
+sure Act of 1975. §§ 5512(a), 5481(12), (14). Additionally,
+the Act made it unlawful for those offering consumer fnan-
+cial products and services “to engage in any unfair, decep-
+tive, or abusive act or practice.” § 5536(a)(1)(B). Congress
+vested the Bureau with rulemaking, enforcement, and adju-
+dicatory authority over the statutes that it administers.
+See §§ 5531(a)–(b), 5581(a)(1)(A), (b) (rulemaking authority);
+§§ 5562–5565 (enforcement and adjudicatory authority).
+   In addition to vesting the Bureau with sweeping authority,
+Congress shielded the Bureau from the infuence of the polit-
+ical branches. To insulate the Bureau from the President's
+control, Congress put a single Director with a 5-year term
+at the Bureau's helm and made the Director removable only
+for ineffciency, neglect, or malfeasance. §§ 5491(b)–(c).
+Page Proof Pending Publication
+This Court held in Seila Law LLC v. Consumer Finan-
+cial Protection Bureau, 591 U. S. 197 (2020), that the
+combination of single-Director leadership and for-cause re-
+moval protection unconstitutionally circumscribed the Pres-
+ident's ability to oversee the Executive Branch. Id.,
+at 208.
+   This case involves another one of the Bureau's novel struc-
+tural features, one that limits Congress' control. Congress
+supplies most federal agencies with the funds necessary for
+their operations only on an annual basis, so those agencies
+must ask Congress for renewed funding each year. For the
+Bureau, however, Congress diminished this accountability by
+providing the Bureau a standing source of funding outside
+the ordinary annual appropriations process. Each year, the
+Bureau may requisition from the earnings of the Federal Re-
+serve System “the amount determined by the [Bureau's] Di-
+rector to be reasonably necessary to carry out” its duties,
+subject only to a statutory cap. § 5497(a)(1). The Bureau
+cannot request more than 12 percent of the Federal Reserve
+                  Cite as: 601 U. S. 416 (2024)           423
+
+                     Opinion of the Court
+
+System's total operating expenses as reported in fscal year
+2009 (adjusted for infation). §§ 5497(a)(2)(A)–(B). In fscal
+year 2022, that cap was about $734 million. See Consumer
+Financial Protection Bureau, Financial Report of the Con-
+sumer Financial Protection Bureau 7 (Fiscal year 2022).
+The Bureau can also retain and invest unused funds from
+year to year, though the Director must take into account
+any surplus when requesting additional funds. §§ 5497(a)(1),
+(b)(3), (c).
+                              B
+  In 2017, the Bureau promulgated a regulation focused on
+high-interest consumer loans. See Payday, Vehicle Title,
+and Certain High-Cost Installment Loans, 12 CFR pt. 1041
+(2018) (Payday Lending Rule). Among other things, the
+regulation restricts lenders' ability to obtain loan payments
+through preauthorized account access after two unsuccess-
+ful withdrawal attempts. Ibid. The Community Financial
+Page Proof Pending Publication
+Services Association of America and Consumer Service Alli-
+ance of Texas, trade associations that represent payday lend-
+ers and credit-access businesses, challenged the Payday
+Lending Rule on statutory and constitutional grounds. In
+the operative complaint, the associations argued, among
+other things, that the Bureau “takes federal government
+money without an appropriations act” in violation of the
+Appropriations Clause. Amended Complaint in No. 1:18–
+cv–00295 (WD Tex.), ECF Doc. 76, p. 30.
+  The District Court granted summary judgment to the Bu-
+reau. As relevant, the court explained that “[t]he Appropri-
+ations Clause `means simply that no money can be paid out
+of the Treasury unless it has been appropriated by an act of
+Congress.' ” 558 F. Supp. 3d 350, 364 (WD Tex. 2021) (quot-
+ing Offce of Personnel Management v. Richmond, 496 U. S.
+414, 424 (1990)). And, because “a statute authorizes” the
+disbursements from the Federal Reserve System's combined
+earnings to the Bureau “up to a certain cap,” the District
+Court concluded, “there is no Appropriations Clause issue.”
+424 CONSUMER FINANCIAL PROTECTION BUREAU v. COMMU-
+     NITY FINANCIAL SERVICES ASSN. OF AMERICA, LTD.
+                   Opinion of the Court
+
+558 F. Supp. 3d, at 364. On appeal, the associations renewed
+their argument that the “Bureau's funding mechanism
+usurps Congress's role in the appropriation of federal funds”
+by allowing it to take “federal money without an appropria-
+tions act.” Brief for Appellants in No. 21–50826 (CA5),
+p. 40.
+   The Court of Appeals agreed with this argument and re-
+versed. 51 F. 4th 616 (CA5 2022). Drawing on the Consti-
+tution's text and history, the court concluded that the Appro-
+priations Clause “does more than reinforce Congress's power
+over fscal matters; it affrmatively obligates Congress to use
+that authority `to maintain the boundaries between the
+branches and preserve individual liberty from the encroach-
+ments of executive power.' ” Id., at 637 (quoting Consumer
+Financial Protection Bureau v. All Am. Check Cashing,
+Inc., 33 F. 4th 218, 231 (CA5 2022) (en banc) (Jones, J., concur-
+ring)). By giving the Bureau a “self-actualizing, perpetual
+funding mechanism,” the court reasoned, Congress in effect
+Page Proof Pending Publication
+abandoned this obligation. 51 F. 4th, at 638–639. It was
+not enough that Congress enacted the law authorizing the
+Bureau's funding because a “law alone does not suffce—an
+appropriation is required.” Id., at 640. The court thus
+held that the Bureau's funding mechanism violates the
+Appropriations Clause. Id., at 642.
+   We granted certiorari to address the narrow question
+whether the statute that provides funding to the Bureau vio-
+lates the Appropriations Clause. 598 U. S. ––– (2023). We
+now reverse.
+                                II
+  Under the Appropriations Clause, an appropriation is sim-
+ply a law that authorizes expenditures from a specifed
+source of public money for designated purposes. The stat-
+ute that provides the Bureau's funding meets these require-
+ments. We therefore conclude that the Bureau's funding
+mechanism does not violate the Appropriations Clause.
+                   Cite as: 601 U. S. 416 (2024)            425
+
+                      Opinion of the Court
+
+                                A
+   The Appropriations Clause provides that “[n]o Money shall
+be drawn from the Treasury, but in Consequence of Appro-
+priations made by Law.” Art. I, § 9, cl. 7. Textually, the
+command is unmistakable—“no money can be paid out of the
+Treasury unless it has been appropriated by an act of Con-
+gress.” Cincinnati Soap Co. v. United States, 301 U. S. 308,
+321 (1937). Our decisions have long given the Appropria-
+tions Clause this straightforward reading. See, e. g., Offce
+of Personnel Management, 496 U. S., at 424 (“Money may be
+paid out only through an appropriation made by law; in other
+words, the payment of money from the Treasury must be
+authorized by a statute”); Reeside v. Walker, 11 How. 272,
+291 (1851) (“However much money may be in the Treasury
+at any one time, not a dollar of it can be used in the payment
+of any thing not . . . previously sanctioned” through an appro-
+priation made by Congress).
+Page Proof Pending Publication
+   As a threshold matter, the parties agree that the Bureau's
+funding must comply with the Appropriations Clause. The
+Appropriations Clause applies to money “drawn from the
+Treasury.” Art. I, § 9, cl. 7. The Bureau draws money from
+the Federal Reserve System. 12 U. S. C. § 5497(a)(1). And,
+surplus funds in the Federal Reserve System would other-
+wise be deposited into the general fund of the Treasury.
+§ 289(a)(3)(B). Whatever the scope of the term “Treasury”
+in the Appropriations Clause, money otherwise destined for
+the general fund of the Treasury qualifes. The Bureau's
+funding is therefore subject to the requirements of the Ap-
+propriations Clause.
+   The associations' challenge turns solely on whether the
+Bureau's funding mechanism constitutes an “Appropriatio[n]
+made by Law.” This question divided the courts below.
+The District Court concluded that a valid appropriation is
+nothing more than a statute that “authorizes an agency to
+receive funds up to a certain cap.” 558 F. Supp. 3d, at 364;
+426 CONSUMER FINANCIAL PROTECTION BUREAU v. COMMU-
+     NITY FINANCIAL SERVICES ASSN. OF AMERICA, LTD.
+                   Opinion of the Court
+
+see also Consumer Financial Protection Bureau v. Law Of-
+fces of Crystal Moroney P. C., 63 F. 4th 174, 181 (CA2 2023).
+The Court of Appeals, on the other hand, suggested that ap-
+propriations must also “meet the Framers' salutary aims of
+separating and checking powers and preserving accountabil-
+ity to the people.” 51 F. 4th, at 640. The associations de-
+fend this understanding and argue that the statute that pro-
+vides the Bureau's funding undermines these aims by
+allowing the agency to indefnitely choose its own level of
+annual funding, subject only to an illusory cap. That is, the
+associations contend that the Bureau's funding mechanism is
+too open-ended in duration and amount to satisfy the re-
+quirement that there be an “Appropriatio[n] made by Law.”
+   Based on the Constitution's text, the history against which
+that text was enacted, and congressional practice immedi-
+ately following ratifcation, we conclude that appropriations
+need only identify a source of public funds and authorize the
+expenditure of those funds for designated purposes to satisfy
+Page Proof Pending Publication
+the Appropriations Clause.
+                              1
+   The Constitution's text requires an “Appropriatio[n] made
+by Law.” Art. I, § 9, cl. 7. Our concern is principally with
+the meaning of the word “appropriation.” The Constitu-
+tion's use of the term “appropriation” in the Appropriations
+Clause and in other Clauses provides important contextual
+clues about its meaning. To state the obvious, the Appro-
+priations Clause itself makes clear that an appropriation
+must authorize withdrawals from a particular source—the
+public treasury. It provides that money may be “drawn
+from the Treasury” only “in Consequence of Appropriations
+made by Law.” Ibid. The section preceding the Appropri-
+ations Clause further suggests that appropriations assign
+funds for specifc uses: Congress has the power to “raise and
+support Armies,” but subject to the limitation that “no Ap-
+propriation of Money to that Use shall be for a longer Term
+than two Years.” § 8, cl. 12.
+                   Cite as: 601 U. S. 416 (2024)            427
+
+                      Opinion of the Court
+
+   At the time the Constitution was ratifed, “appropriation”
+meant “[t]he act of sequestering, or assigning to a particular
+use or person, in exclusion of all others.” 1 N. Webster, An
+American Dictionary of the English Language (1828); see
+also 1 J. Ash, The New and Complete Dictionary of the Eng-
+lish Language (2d ed. 1795) (“[t]he application of something
+to a particular use”); 1 S. Johnson, A Dictionary of the
+English Language (6th ed. 1785) (“[t]he application of some-
+thing to a particular purpose”); T. Dyche & W. Pardon, A
+New General English Dictionary (14th ed. 1771) (“the ap-
+pointing a thing to a particular use”). In ordinary usage,
+then, an appropriation of public money would be a law au-
+thorizing the expenditure of particular funds for specifed
+ends.
+   Taken as a whole, this evidence suggests that, at a mini-
+mum, appropriations were understood as a legislative means
+of authorizing expenditure from a source of public funds for
+designated purposes.
+Page Proof Pending Publication 2
+   Pre-founding history supports the conclusion that an iden-
+tifed source and purpose are all that is required for a valid
+appropriation. The concept of legislative “appropriations”
+grew out of the broader struggle for popular control of the
+purse in England. Throughout the Middle Ages, the King
+enjoyed near total fscal independence. At that time, the
+King's revenues came largely from hereditary sources, some-
+times called “ordinary” revenues. 1 W. Blackstone, Com-
+mentaries on the Laws of England 281 (1771) (Commentar-
+ies). These ordinary revenues fowed from many sources,
+including the “rents and profts of the demesne lands of the
+crown,” id., at 286, and the fnes, forfeitures, and fees “aris-
+ing from the king's ordinary courts of justice,” id., at 289.
+Because this revenue inhered in the King himself, Parlia-
+ment had little claim to direct how it was spent. See F.
+Maitland, The Constitutional History of England 430 (1908)
+(Maitland).
+428 CONSUMER FINANCIAL PROTECTION BUREAU v. COMMU-
+     NITY FINANCIAL SERVICES ASSN. OF AMERICA, LTD.
+                   Opinion of the Court
+
+   But, when these unencumbered ordinary revenues did not
+satisfy the demands of royal governance, most often during
+wartime, the King had to seek what Blackstone called “ex-
+traordinary revenue.” Commentaries 306. Extraordinary
+revenues were fnanced through various forms of taxation
+and therefore required parliamentary authorization. Id., at
+169, 307; see Magna Charta, ch. 12 (1215), in A. Howard,
+Magna Carta: Text and Commentary 40 (rev. ed. 1998). In
+granting extraordinary revenues, Parliament began exercis-
+ing an attendant power to specify how the Crown used these
+funds. Maitland 183–184; see also T. Taswell-Langmead,
+English Constitutional History: From the Teutonic Conquest
+to the Present Time 219, 229 (6th ed. 1905). That is, Parlia-
+ment “claimed the power to appropriate the supplies granted
+to the king.” Maitland 183–184.
+   Conditions in the 17th century shifted the balance of
+power toward Parliament. A combination of rising prices
+Page Proof Pending Publication
+and increasing demands made it so that the King's ordinary
+revenues could not satisfy the costs of royal governance,
+even in times of peace. D. Keir, The Constitutional History
+of Modern Britain Since 1485, pp. 180–181 (6th ed. 1960);
+P. Einzig, The Control of the Purse 57 (1959). The King's
+fnancial weakness, and Parliament's increasing assertive-
+ness in appropriating extraordinary revenues, led to intra-
+governmental strife. The ensuing power struggle culmi-
+nated in the Glorious Revolution, in which Parliament
+stripped away the remnants of the King's hereditary reve-
+nues and thereby secured supremacy in fscal matters.
+Commentaries 306, 333; Maitland 434.
+   Following the Glorious Revolution, Parliament's usual
+practice was to appropriate government revenue “to particu-
+lar purposes more or less narrowly defned.” Id., at 433.
+Additionally, Parliament began limiting the duration of its
+revenue grants. For example, the duties on tonnage and
+poundage were no longer granted to the King for life, but
+only for a term of years. See 2 Wm. & Mary, c. 4, § 1 (1690);
+                   Cite as: 601 U. S. 416 (2024)             429
+
+                      Opinion of the Court
+
+6 Wm. & Mary, c. 1, § 1 (1694); see also D. Gill, The Treasury,
+1660–1714, 46 Eng. Hist. Rev. 600, 610 (1931). Limiting the
+duration of these and other revenue grants ensured that the
+King could not rule without Parliament. As one historian
+described it, Parliament made sure “the Crown should be
+altogether unable to pay its way without an annual meeting
+of Parliament. . . . Every year he and his Ministers had to
+come, cap in hand, to the House of Commons, and more often
+than not the Commons drove a bargain and exacted a quid
+pro quo in return for supply.” G. Trevelyan, The English
+Revolution 1688–1689, pp. 180–181 (1939).
+   Even with this newfound fscal supremacy, Parliament did
+not micromanage every aspect of the King's fnances. Not
+all post-Glorious Revolution grants of supplies were time
+limited. A notable exception involved what came to be
+known as the civil list. Despite its established power to
+limit the duration of revenue grants, Parliament deemed it
+Page Proof Pending Publication
+proper to cover the expenses of the King's household and the
+civil government by appropriating revenue to that purpose
+for life. Maitland 435–436; see also E. Reitan, The Civil List
+in Eighteenth-Century British Politics, 9 Hist. J. 318, 319
+(1966) (Reitan) (explaining that the “Crown was to meet the
+costs of the civil government” out of the civil list, including
+“the fees and salaries of the ministers and many other public
+offcers, the salaries of many of the small fry in various gov-
+ernment departments, the salaries and pensions of judges,
+the salaries and allowances of ambassadors and consuls, and
+the maintenance of buildings for Parliament and the public
+offces”). And, parliamentary grants of supplies ordinarily
+gave the Crown broad discretion regarding how much to
+spend within an appropriated sum. Statutes granting
+money often stated that the Crown could spend “any Sum
+not exceeding” a particular amount. See, e. g., 13 Anne,
+c. 18, § 69 (1713); 1 Anne, c. 6, § 130 (1702). These grants
+were permissive. As Maitland explained, “Money is granted
+to the queen; it is placed at the disposal of her and her minis-
+430 CONSUMER FINANCIAL PROTECTION BUREAU v. COMMU-
+     NITY FINANCIAL SERVICES ASSN. OF AMERICA, LTD.
+                   Opinion of the Court
+
+ters. But she and they are not bound by law to spend it, at
+least not bound by the Appropriation Act.” Maitland 445.
+Other parliamentary appropriations acts, however, required
+that money be spent for particular purposes. See, e. g., 2
+Wm. & Mary, c. 1, §§ 35–36 (1690); 3 Wm. & Mary, c. 5, §§ 42–
+43 (1691); see also M. Rappaport, The Selective Nondelega-
+tion Doctrine and the Line Item Veto, 76 Tulane L. Rev. 265,
+327, n. 211 (2001) (Rappaport).
+   The appropriations practice in the Colonies and early state
+legislatures was much the same. “When called upon to
+grant supplies,” the lower houses in the colonial assemblies
+“insisted upon appropriating them in detail.” J. Greene,
+The Quest for Power: The Lower Houses of Assembly in the
+Southern Royal Colonies 1689–1776, p. 88 (1963). Many
+early state constitutions vested the legislative body with
+power over appropriations. Rappaport 332–333. And, in
+exercising that authority, state legislative bodies often opted
+Page Proof Pending Publication
+for open-ended, discretionary appropriations. See, e. g., Act
+of Mar. 31, 1788, 1787 Mass. Acts and Laws ch. 63, p. 657
+(“[T]he amount of all the duties collected by virtue of this
+Act, shall be, and is hereby appropriated to & for the support
+of the civil Government of this Commonwealth”); Act of Nov.
+17, 1786, 1786 Mass. Acts and Laws ch. 47, p. 117 (appropriat-
+ing one-third of revenue “for the exigencies of Government”);
+An act to amend and reduce the several acts for appropriat-
+ing the public revenue, into one act, 1784 Va. Acts ch. 46, § 1,
+reprinted in 11 W. Hening's Statutes at Large 434 (1823)
+(“The money arising [from certain taxes] shall form a general
+fund, ten thousand pounds of which per annum shall be at the
+disposal of the executive, to defray the contingent charges of
+government”); An act to amend the act for appropriating the
+public revenue, 1783 Va. Acts ch. 11, § 4, reprinted in id., at
+248 (Half of “all the revenue arising from the tax on free
+male tithables . . . shall be applied . . . to the support of civil
+government”); An act for the defence of the bay, and to
+                    Cite as: 601 U. S. 416 (2024)              431
+
+                       Opinion of the Court
+
+impose certain duties on imported articles, 1783 Md. Acts
+ch. 26, § 5, reprinted in 1 W. Kilty, The Laws of Maryland
+(1799) (“[A]ll the duties imposed by this act on the trade of
+this state shall be appropriated for the defence of the bay
+and the protection of trade”).
+   By the time of the Constitutional Convention, the principle
+of legislative supremacy over fscal matters engendered little
+debate and created no disagreement. It was uncontrover-
+sial that the powers to raise and disburse public money
+would reside in the Legislative Branch. The only disagree-
+ment was about whether the right to originate taxation and
+appropriations bills should rest in a legislative body with
+proportionate representation. Having reached a tentative
+agreement on that difference, the Committee of Detail re-
+ported a draft constitution giving the House of Representa-
+tives the power to originate all revenue and appropriations
+laws. This proposed draft contained the prototype of what
+Page Proof Pending Publication
+later became the Appropriations Clause. It provided that
+“[a]ll bills for raising or appropriating money . . . shall origi-
+nate in the House of Representatives, and shall not be al-
+tered or amended by the Senate. No money shall be drawn
+from the public Treasury, but in pursuance of appropriations
+that shall originate in the House of Representatives.” 2
+Records of the Federal Convention of 1787, p. 178 (M. Far-
+rand ed. 1911). Ultimately, the Convention agreed to grant
+the House an exclusive power to originate revenue laws but
+not for appropriations laws. Compare Art. I, § 7, cl. 1, with
+§ 9, cl. 7.
+   In short, the origins of the Appropriations Clause confrm
+that appropriations needed to designate particular revenues
+for identifed purposes. Beyond that, however, early legis-
+lative bodies exercised a wide range of discretion. Some ap-
+propriations required expenditure of a particular amount,
+while others allowed the recipient of the appropriated money
+to spend up to a cap. Some appropriations were time lim-
+432 CONSUMER FINANCIAL PROTECTION BUREAU v. COMMU-
+     NITY FINANCIAL SERVICES ASSN. OF AMERICA, LTD.
+                   Opinion of the Court
+
+ited, others were not. And, the specifcity with which ap-
+propriations designated the objects of the expenditures var-
+ied greatly.
+                             3
+   The practice of the First Congress also illustrates the
+source-and-purpose understanding of appropriations. This
+practice “provides contemporaneous and weighty evidence of
+the Constitution's meaning.” Bowsher v. Synar, 478 U. S.
+714, 723 (1986) (internal quotation marks omitted).
+   Many early appropriations laws made annual lump-sum
+grants for the Government's expenses. Congress' frst an-
+nual appropriations law, for instance, divided Government
+expenditures into four broad categories and authorized dis-
+bursements up to certain amounts for those purposes. For
+example, the law appropriated a “sum not exceeding two
+hundred and sixteen thousand dollars for defraying the ex-
+penses of the civil list,” which covered most nonmilitary ex-
+Page Proof Pending Publication
+ecutive offcers' salaries and expenses. Act of Sept. 29,
+1789, ch. 23, 1 Stat. 95; see 5 Papers of Alexander Hamilton
+381–388 (H. Syrett & J. Cooke eds. 1962) (reporting detailed
+line-item estimates for civil-list expenditures). And, it ap-
+propriated “a sum not exceeding one hundred and thirty-
+seven thousand dollars for defraying the expenses of the de-
+partment of war.” 1 Stat. 95. The law specifed that the
+disbursements would “be paid out of the monies which arise,
+either from the requisitions heretofore made upon the sev-
+eral states, or from the duties on impost and tonnage.”
+Ibid. Subsequent annual appropriations laws followed a
+similar pattern. See Act of Mar. 26, 1790, ch. 4, 1 Stat. 104;
+Act of Feb. 11, 1791, ch. 6, 1 Stat. 190; Act of Dec. 23, 1791,
+ch. 3, 1 Stat. 226.
+   The appropriation of “sums not exceeding” a specifed
+amount did not by itself mandate that the Executive spend
+that amount; as was the case in England, such appropriations
+instead provided the Executive discretion over how much to
+spend up to a cap. In 1803, for instance, Congress appro-
+                   Cite as: 601 U. S. 416 (2024)           433
+
+                      Opinion of the Court
+
+priated “a sum not exceeding ffty thousand dollars” to build
+up to “ffteen gun boats.” Act of Feb. 28, 1803, ch. 11, 2
+Stat. 206. President Jefferson subsequently reported, how-
+ever, that “[t]he sum of ffty thousand dollars appropriated
+by Congress for providing gun boats remains unexpended.
+The favorable and peaceable turn of affairs on the Mississippi
+rendered an immediate execution of that law unnecessary.”
+13 Annals of Cong. 14 (1803).
+   Congress took even more fexible approaches to appropria-
+tions for several early executive agencies and allowed the
+agencies to indefnitely fund themselves directly from reve-
+nue collected. Soon after convening, Congress enacted laws
+that imposed a detailed schedule of duties on imported goods
+and tonnage. See Act of July 4, 1789, ch. 2, 1 Stat. 24–27
+(imposing duties on imported goods, wares, and merchan-
+dises); Act of July 20, 1789, ch. 3, 1 Stat. 27–28 (imposing
+duties on tonnage). It then divided the Nation into customs
+Page Proof Pending Publication
+districts and established a vast federal bureaucracy to over-
+see the collection of those duties. Act of July 31, 1789,
+ch. 5, 1 Stat. 29–49. Rather than fund those customs off-
+cials through annual appropriations, Congress opted for a
+fee-based model. Customs collectors were compensated
+through tonnage- and transaction-based fees specifed by law,
+and through a commission on the amount of duties raised
+within their districts. For example, customs collectors were
+entitled to collect from merchants two-and-a-half dollars “for
+every entrance of any ship or vessel of one hundred tons
+burthen or upwards” and 20 cents “for every permit to land
+goods.” Id., at 44. And, collectors in the largest ports
+were paid “half a per centum on the amount of all monies by
+them respectively received and paid into the treasury of the
+United States.” Id., at 45. Other customs functionaries
+were also compensated on a fee basis. For instance, cus-
+toms collectors paid weighers 18 cents “out of the revenue”
+collected “for the measurement of every one hundred bushels
+of salt or grain.” Ibid.
+434 CONSUMER FINANCIAL PROTECTION BUREAU v. COMMU-
+     NITY FINANCIAL SERVICES ASSN. OF AMERICA, LTD.
+                   Opinion of the Court
+
+   Congress adopted a similarly open-ended funding scheme
+for the Post Offce. Instead of appropriating funds on an
+annual basis, Congress authorized the Postmaster General to
+“defray the expense” of carrying the mail of the United
+States with the revenues generated through postage assess-
+ments. Act of Feb. 20, 1792, § 3, 1 Stat. 234. The postal
+statute also provided the Postmaster General a $2,000 annual
+salary “to be paid . . . out of the revenues of the post-offce.”
+§ 8, id., at 235. And, it authorized the Postmaster General
+to pay deputy postmasters “such commission on the monies
+arising from the postage of letters and packets, as he shall
+think adequate to their respective services,” subject to an
+upper limit. § 23, id., at 238. These fee-based funding
+schemes continued year after year without Congress passing
+an annual appropriation for these agencies.
+   These fee- and commission-based funding schemes were
+not an American innovation; they emulated the colonial pre-
+Page Proof Pending Publication
+cursors to the Customs Service and Post Offce. Colonial
+customs offcers, for instance, “were paid a percentage of
+total receipts in their area, the proportion varying from col-
+ony to colony depending on the estimated potential yield.”
+T. Barrow, Trade and Empire: The British Customs Service
+in Colonial America 1660–1775, p. 14 (1967). Although the
+customs service in the Colonies later transitioned to a salary
+system, each customs “offcial was allowed certain fees for
+almost every transaction.” Id., at 78. And, as to the postal
+service, the Continental Congress allowed postmaster depu-
+ties 20 percent “on the sums they collect and pay into the
+General post offce annually,” up to $1,000, and 10 percent
+on sums over that amount. 2 Journals of the Continental
+Congress, 1774–1789, p. 208 (W. Ford ed. 1905).
+   Postratifcation practice therefore confrms our interpreta-
+tion of the Appropriations Clause. Early appropriations
+displayed signifcant variety in their structure. Each, how-
+ever, adhered to the minimum requirements of an identifable
+source of public funds and purpose.
+                   Cite as: 601 U. S. 416 (2024)             435
+
+                      Opinion of the Court
+
+                                B
+   The Bureau's funding statute contains the requisite fea-
+tures of a congressional appropriation. The statute author-
+izes the Bureau to draw public funds from a particular
+source—“the combined earnings of the Federal Reserve Sys-
+tem”—in an amount not exceeding an infation-adjusted cap.
+12 U. S. C. §§ 5497(a)(1), (2)(A)–(B). And, it specifes the ob-
+jects for which the Bureau can use those funds—to “pay the
+expenses of the Bureau in carrying out its duties and respon-
+sibilities.” § 5497(c)(1).
+   Further, the Bureau's funding mechanism fts comfortably
+with the First Congress' appropriations practice. In design,
+the Bureau's authorization to draw an amount that the Direc-
+tor deems reasonably necessary to carry out the agency's
+responsibilities, subject to a cap, is similar to the First Con-
+gress' lump-sum appropriations. And, the commission- and
+fee-based appropriations that supplied the Customs Service
+Page Proof Pending Publication
+and Post Offce provided standing authorizations to expend
+public money in the same way that the Bureau's funding
+mechanism does.
+   For these reasons, we conclude that the statute that au-
+thorizes the Bureau to draw funds from the combined earn-
+ings of the Federal Reserve System is an “Appropriatio[n]
+made by Law.” We therefore hold that the requirements of
+the Appropriations Clause are satisfed.
+
+                               III
+  The associations make three principal arguments for why
+the Bureau's funding mechanism violates the Appropriations
+Clause, each of which attempts to build additional require-
+ments into the meaning of an “Appropriatio[n] made by
+Law.” None is persuasive.
+
+                                A
+  At the outset, the associations argue that the Bureau's
+funding is not “drawn . . . in Consequence of Appropriations
+436 CONSUMER FINANCIAL PROTECTION BUREAU v. COMMU-
+     NITY FINANCIAL SERVICES ASSN. OF AMERICA, LTD.
+                   Opinion of the Court
+
+made by Law” because the agency, rather than Congress,
+decides the amount of annual funding that it draws from the
+Federal Reserve System. This argument proceeds from a
+mistaken premise. Congress determined the amount of the
+Bureau's annual funding by imposing a statutory cap. The
+Bureau's funding statute provides that “the amount that
+shall be transferred to the Bureau in each fscal year shall
+not exceed” 12 percent “of the total operating expenses of
+the Federal Reserve System” as reported in 2009 and ad-
+justed for infation. § 5497(a)(2). The only sense in which
+the Bureau decides its own funding, then, is by exercising its
+discretion to draw less than the statutory cap. But, as we
+have explained, “sums not exceeding” appropriations, which
+provided the Executive with the same discretion, were com-
+monplace immediately after the founding. Supra, at 432–
+433. Thus, we cannot conclude that Congress violated the
+Appropriations Clause by permitting the Bureau to decide
+how much funding to draw up to a cap.
+Page Proof Pending Publication
+                               B
+   Next, the associations suggest that the Bureau's funding
+statute is not a valid appropriation because it is not time
+limited. On their reading, the Appropriations Clause re-
+quires both Chambers of Congress to periodically agree on
+an agency's funding, which ensures that each Chamber re-
+serves the power to unilaterally block those funding meas-
+ures through inaction. The Bureau's funding mechanism,
+the associations insist, inverts this baseline by allowing it to
+draw funds—forever—unless both Chambers of Congress
+step in and affrmatively prevent the agency from doing so.
+   But, the Constitution's text suggests that, at least in some
+circumstances, Congress can make standing appropriations.
+The Constitution expressly provides that “no Appropriation
+of Money” to support an army “shall be for a longer Term
+than two Years.” Art. I, § 8, cl. 12. Hamilton explained
+that this restriction ensures that, for the army, Congress
+                   Cite as: 601 U. S. 416 (2024)             437
+
+                      Opinion of the Court
+
+cannot “vest in the Executive department . . . permanent
+funds” and must instead “once at least in every two years
+. . . deliberate upon the propriety of keeping a military force
+on foot,” “come to a new resolution on the point,” and “de-
+clare their sense of the matter, by a formal vote in the face
+of their constituents.” The Federalist No. 26, p. 143 (E.
+Scott ed. 1898). The Framers were thus aware of the dy-
+namic that the associations highlight, but they did not explic-
+itly limit the duration of appropriations for other purposes.
+    The First Congress' practice confrms this understanding.
+Recall that the appropriations that supplied funding to the
+Customs Service and the Post Offce were not time limited.
+Supra, at 433–434. The associations resist the analogy to
+the Post Offce and other fee-based agencies, arguing that
+such agencies do not enjoy the same level of fscal independ-
+ence as the Bureau. Fee-based agencies, the associations
+reason, “could not demand funds from the federal fsc, but
+rather needed to persuade the people they served to pay
+Page Proof Pending Publication
+them, and the public could refuse to purchase to infuence
+their conduct.” Brief for Respondents 35. The associa-
+tions, however, make no attempt to explain why the possibil-
+ity that the public's choices could restrain fee-based agencies'
+revenue is relevant to the question whether a law complies
+with the constitutional imperative that there be an
+appropriation.
+                                C
+   Finally, the associations contend that the Bureau's funding
+mechanism provides a blueprint for destroying the separa-
+tion of powers, and that it invites tyranny by allowing the
+Executive to operate free of any meaningful fscal check. If
+the Bureau's funding mechanism is consistent with the Ap-
+propriations Clause, the associations reason, then Congress
+could do the same for any—or every—civilian executive
+agency. And that, they conclude, would be the very unifca-
+tion of the sword and purse that the Appropriations Clause
+forbids.
+438 CONSUMER FINANCIAL PROTECTION BUREAU v. COMMU-
+     NITY FINANCIAL SERVICES ASSN. OF AMERICA, LTD.
+                   Opinion of the Court
+
+   The associations err by reducing the power of the purse to
+only the principle expressed in the Appropriations Clause.
+To be sure, the Appropriations Clause presupposes Con-
+gress' powers over the purse. But, its phrasing and location
+in the Constitution make clear that it is not itself the source
+of those powers. The Appropriations Clause is phrased as
+a limitation: “No Money shall be drawn from the Treasury,
+but in Consequence of Appropriations made by Law.” Art.
+I, § 9. And, it is placed within a section of other such limita-
+tions. Compare ibid. (“No Bill of Attainder or ex post facto
+Law shall be passed”) and ibid. (“No Tax or Duty shall be
+laid on Articles exported from any State”), with § 8 (“The
+Congress shall have Power To . . . ”). The associations offer
+no defensible argument that the Appropriations Clause re-
+quires more than a law that authorizes the disbursement of
+specifed funds for identifed purposes. Without such a the-
+ory, the associations' Appropriations Clause challenge must
+fail. See Haaland v. Brackeen, 599 U. S. 255, 277–278 (2023).
+Page Proof Pending Publication
+                              IV
+  The dissent's theory fares no better. The dissent accepts
+that the question in this case is ultimately about the meaning
+of “Appropriations.” Post, at 452. It faults us for consult-
+ing dictionaries to ascertain the original public meaning of
+that word, insisting instead that “Appropriations” is a “term
+of art whose meaning has been feshed out by centuries of
+history.” Ibid. But, as we have explained at length, both
+preratifcation and postratifcation appropriations practice
+support our source-and-purpose understanding. Supra, at
+427–434. What is more, the dissent never offers a compet-
+ing understanding of what the word “Appropriations” means.
+After winding its way through English, Colonial, and early
+American history about the struggle for popular control of
+the purse, the dissent declares that “the Appropriations
+Clause demands legislative control over the source and dis-
+position of the money used to fnance Government operations
+                   Cite as: 601 U. S. 416 (2024)             439
+
+                      Opinion of the Court
+
+and projects.” Post, at 463. The dissent never connects its
+summary of history back to the word “Appropriations.”
+And, even setting that problem aside, it is unclear why the
+dissent's theory leads to a different outcome: Congress con-
+trols the “source and disposition of the money used to fnance
+Government operations and projects” by enacting a law that
+identifes the source of public funds and authorizes the ex-
+penditure of those funds for designated purposes.
+   The dissent's rendition of history largely ignores the his-
+torical evidence that bears most directly on the meaning of
+“Appropriations” at the founding—preratifcation appropria-
+tions laws. For example, the dissent spends pages recount-
+ing how Parliament secured fscal supremacy and wielded
+that power to superintend the King. See post, at 453–458.
+Although that history is a helpful starting point, see supra,
+at 427–428, it at most explains why appropriations must be
+“made by Law”—not what it means for the legislature to
+Page Proof Pending Publication
+make an “Appropriation.” The dissent does not meaning-
+fully grapple with the many parliamentary appropriations
+laws that preserved a broad range of fscal discretion for the
+King. See supra, at 428–430. It makes no attempt to ex-
+plain “sums not exceeding” appropriations. See ibid. And,
+the dissent brushes aside the civil list, asserting that it
+“ `presented a constitutional problem in the confict between
+the principle of the independence of the Crown and the prin-
+ciple of parliamentary control of fnance.' ” Post, at 458
+(quoting Reitan 320). The problem was that the King
+claimed absolute power to use the sums granted in the civil
+list as he pleased and regularly spent in excess of the allotted
+amount. See id., at 320, 324–329. But, the dissent never
+explains why the reforms that Parliament adopted in re-
+sponse to these abuses bear on whether the law establishing
+the civil list was an “appropriation.”
+   The dissent's treatment of early American history does not
+advance its point either. It highlights the undisputed point
+that colonial and state legislative bodies exercised the
+440 CONSUMER FINANCIAL PROTECTION BUREAU v. COMMU-
+     NITY FINANCIAL SERVICES ASSN. OF AMERICA, LTD.
+                   Opinion of the Court
+
+power of the purse, post, at 459–460, while sidestepping the
+discretionary and open-ended appropriations they enacted,
+supra, at 430–431. The dissent quibbles with the open-
+ended appropriations laws that we rely on, speculating that
+state constitutions somehow constrained the breadth of those
+laws. Post, at 463, n. 13. But, the dissent never explains
+how these constitutional provisions informed what it meant
+for state legislative bodies to make an “appropriation” and,
+in any event, its critique misses the point: It was common-
+place for preratifcation appropriations laws to be open-
+ended in a way that is not consistent with the specifcity that
+the dissent's theory appears to require.
+   When the dissent turns to postratifcation history, it en-
+gages with several appropriations laws enacted by the First
+Congress. The dissent acknowledges, as it must, that the
+fee- and commission-based funding schemes for the Customs
+Service and Post Offce show that Congress exercised broad
+Page Proof Pending Publication
+discretion over how to appropriate money. Post, at 461–462.
+To square these funding schemes with its understanding of
+the Appropriations Clause, the dissent points out that Con-
+gress required “fees in excess of what was needed to defray
+the cost of providing services be turned over to the Treas-
+ury.” Post, at 462. This requirement, the dissent reasons,
+“ensured that Congress maintained control over the ways in
+which [the appropriated] money was spent.” Ibid. But, if
+what matters is that Congress controls how funds are spent,
+then we are all in agreement—appropriations must desig-
+nate the purposes for which money can be spent.
+   Even under the dissent's “legislative control” theory, its
+attempt to distinguish the Customs Service and the Post Of-
+fce from the Bureau is not convincing. The dissent points
+out that Congress had control over the Customs Service, for
+instance, because Customs had a “carefully delineated mis-
+sion” and “early tariff Acts spelled out in excruciating detail
+the various fees” customs offcers could collect, as well as the
+salaries the offcers could be paid from those receipts. Post,
+                   Cite as: 601 U. S. 416 (2024)             441
+
+                      Kagan, J., concurring
+
+at 466. According to the dissent, the Bureau is different be-
+cause “[i]ts powers are broad and vast,” “[i]t does not collect
+fees,” and “it is permitted to keep and invest surplus funds.”
+Ibid. But, it is unclear why these differences matter under
+the dissent's theory. After all, to make a valid appropria-
+tion, Congress must designate the objects for which the ap-
+propriated funds may be used—as it did here. See 12
+U. S. C. § 5497(c)(1). Although there may be other constitu-
+tional checks on Congress' authority to create and fund an
+administrative agency, specifying the source and purpose is
+all the control the Appropriations Clause requires.
+
+                                V
+  The statute that authorizes the Bureau to draw money
+from the combined earnings of the Federal Reserve System
+to carry out its duties satisfes the Appropriations Clause.
+Accordingly, we reverse the judgment of the Court of Ap-
+Page Proof Pending Publication
+peals and remand the case for further proceedings consistent
+with this opinion.
+                                            It is so ordered.
+
+  Justice Kagan, with whom Justice Sotomayor, Jus-
+tice Kavanaugh, and Justice Barrett join, concurring.
+   I join in full the Court's opinion holding that the funding
+mechanism for the Consumer Financial Protection Bureau
+complies with the Appropriations Clause. As the Court de-
+tails, that conclusion emerges from the Clause's “text, the his-
+tory against which that text was enacted, and congressional
+practice immediately following ratifcation.” Ante, at 426.
+At its inception, the Clause required only that Congress
+“identify a source of public funds and authorize the expendi-
+ture of those funds for designated purposes.” Ibid. The
+Clause otherwise granted Congress “a wide range of discre-
+tion.” Ante, at 431. The result was “signifcant variety” in
+appropriations—most notably, as to their specifcity, dura-
+tion, and funding source. Ante, at 434; see ante, at 432–434.
+442 CONSUMER FINANCIAL PROTECTION BUREAU v. COMMU-
+     NITY FINANCIAL SERVICES ASSN. OF AMERICA, LTD.
+                  Kagan, J., concurring
+
+The CFPB's funding scheme, if transplanted back to the late-
+18th century, would have ft right in.
+   I write separately to note that the same would have been
+true at any other time in our Nation's history. “ `Long set-
+tled and established practice' may have `great weight' ” in
+interpreting constitutional provisions about the operation of
+government. Chiafalo v. Washington, 591 U. S. 578, 592–
+593 (2020) (quoting The Pocket Veto Case, 279 U. S. 655, 689
+(1929)); see also The Federalist No. 37, p. 229 (C. Rossiter ed.
+1961). And here just such a tradition supports everything
+the Court says about the Appropriations Clause's meaning.
+The founding-era practice that the Court relates became the
+19th-century practice, which became the 20th-century prac-
+tice, which became today's. For over 200 years now, Con-
+gress has exercised broad discretion in crafting appropria-
+tions. Sometimes it has authorized the expenditure of a
+sum certain for an itemized purpose on an annual basis.
+Page Proof Pending Publication
+And sometimes it has departed from that model in one or
+more ways. All the fexibility and diversity evident in the
+founding period has thus continued unabated, making it ever
+more obvious that the CFPB's funding accords with the
+Constitution.
+   For one thing, Congress has never thought it necessary to
+designate specifc amounts for specifc items. Over the
+years, many appropriations have instead given the Execu-
+tive leeway to decide how to allocate funds, up to a ceiling,
+among a set of activities. As the Court shows, the First
+Congress made appropriations of “sums not exceeding ”
+ stated amounts for “broad categories” of purposes; the Ex-
+ecutive then decided the level of funding it would use for all
+things within a category. Ante, at 432–433. In instituting
+those “lump-sum grants,” the First Congress created a tem-
+plate for later ones to follow. Ante, at 432. Examples of
+such grants “abound in our history.” Clinton v. City of New
+York, 524 U. S. 417, 467 (1998) (Scalia, J., concurring in part and
+dissenting in part). During the Civil War, Congress author-
+                      Cite as: 601 U. S. 416 (2024)                 443
+
+                         Kagan, J., concurring
+
+ized the allocation of $76.5 million for various expenses “as
+the exigencies of the [Army] may require.” Act of Feb. 25,
+1862, ch. 32, 12 Stat. 344–345. In the Depression, Congress
+made $950 million available “for such projects and/or pur-
+poses” as the President “in his discretion may prescribe.”
+Act of Feb. 15, 1934, ch. 13, 48 Stat. 351. More recent exam-
+ples include an appropriation not to exceed $135 million for
+uses that the Secretaries of Defense and Energy determine
+are “necessary for Atomic Energy Defense Activities.” Act
+of Nov. 29, 1989, § 1605(a), 103 Stat. 1598. The constitution-
+ality of such measures, Justice Scalia observed, “has never
+seriously been questioned”—in part because of their preva-
+lence. Clinton, 524 U. S., at 467. Our government practice
+has been “replete with instances of general appropriations”
+to be “expended as directed by designated government agen-
+cies.” Cincinnati Soap Co. v. United States, 301 U. S. 308,
+322 (1937). The CFPB's authority to take and allocate mon-
+eys up to a statutory cap is just one more instance to add to
+Page Proof Pending Publication
+the list.
+   Similarly, Congress has never thought appropriations
+must be annual, or even time-limited. (Appropriations that
+are time-limited themselves show variety: Most are annual,
+but some last for longer periods—say, two or fve years.*)
+“Standing ” appropriations—those making funds “always
+available for specifed purposes” without “requir[ing] re-
+peated [legislative] action”—have a long history. GAO, Prin-
+ciples of Federal Appropriations Law, p. 2–10 (rev. 4th ed.
+2016). As the Court notes, the First Congress, by setting up
+fee-based schemes, provided the Customs Service and Post
+Offce with indefnite funding. See ante, at 433–434, 437.
+And in doing so, that Congress again inspired its succes-
+sors. Standing appropriations proliferated during the 19th
+
+  *See, e. g., Foreign Operations, Export Financing, and Related Pro-
+grams Appropriations Act, 2001, § 101(a), 114 Stat. 1900 et seq. (2-year
+appropriations); Military Construction Appropriations Act of 1986, 99
+Stat. 1024 (5-year appropriations).
+444 CONSUMER FINANCIAL PROTECTION BUREAU v. COMMU-
+     NITY FINANCIAL SERVICES ASSN. OF AMERICA, LTD.
+                  Kagan, J., concurring
+
+century; by 1880, 138 statutes making them were on the
+books. See S. Rep. No. 334, 46th Cong., 2d Sess., 4–7 (1880)
+(listing statutes). And the growth has not stopped: By Fis-
+cal Year 2022, spending that does not require periodic appro-
+priations (whether annual or longer) accounted for nearly
+two-thirds of the federal budget. See Congressional Budget
+Offce, The Accuracy of CBO's Budget Projections for Fiscal
+Year 2022, p. 3 (Jan. 2023). Frequently, too, standing ap-
+propriations do not designate specifc sums of money, thus
+combining one type of fexibility with another. They in-
+stead may provide the sums “necessary for purposes of ” a
+program—such as to provide unemployment assistance or
+give scholarships to veterans' dependents. 15 U. S. C.
+§ 9023(d)(3); see 20 U. S. C. § 1070h(f). So again, Congress's
+non-time-limited grant to the CFPB for amounts (up to a
+cap) “reasonably necessary to carry out” its duties falls
+within an established tradition. 12 U. S. C. § 5497(a).
+Page Proof Pending Publication
+   And “fexible approaches to appropriations” have been
+particularly common in the sphere of fnancial regulation.
+Ante, at 433. There, Congress's adoption of assessment-
+based funding mechanisms (similar to those the First Con-
+gress used for the Customs Service and Post Offce, see
+supra, at 443) has meant that regulators do not have to seek
+yearly legislative funding. And they generally may devote
+the funds they collect to any of a range of activities. For
+example, the Offce of the Comptroller of the Currency has
+authority to levy assessments on banks as “necessary or ap-
+propriate to carry out [its] responsibilities.” 12 U. S. C. § 16;
+see also Act of Feb. 19, 1875, ch. 89, 18 Stat. 329. Similarly,
+the Federal Reserve Board assesses Federal Reserve Banks
+for whatever amount is “suffcient to pay its estimated ex-
+penses.” 12 U. S. C. § 243; see also Federal Reserve Act, 38
+Stat. 261 (1913). Indeed, not a single federal bank regulator
+is currently, or has been for a long while, funded by standard
+congressional appropriations. The CFPB received from
+those regulators most of the powers it wields today. So it
+                   Cite as: 601 U. S. 416 (2024)            445
+
+                     Jackson, J., concurring
+
+is not surprising that the CFPB also inherited a bank-funded
+scheme enabling it to allocate moneys, at its own discretion,
+to carry out its responsibilities.
+   I would therefore add one more point to the Court's opin-
+ion. As the Court describes, the Appropriations Clause's
+text and founding-era history support the constitutionality
+of the CFPB's funding. See ante, at 426. And so too does a
+continuing tradition. Throughout our history, Congress has
+created a variety of mechanisms to pay for government oper-
+ations. Some schemes specifed amounts to go to designated
+items; others left greater discretion to the Executive. Some
+were limited in duration; others were permanent. Some re-
+lied on general Treasury moneys; others designated alterna-
+tive sources of funds. Whether or not the CFPB's mecha-
+nism has an exact replica, its essentials are nothing new.
+And it was devised more than two centuries into an unbro-
+ken congressional practice, beginning at the beginning, of
+innovation and adaptation in appropriating funds. The way
+Page Proof Pending Publication
+our Government has actually worked, over our entire experi-
+ence, thus provides another reason to uphold Congress's deci-
+sion about how to fund the CFPB.
+
+  Justice Jackson, concurring.
+   Today, the Court correctly concludes that, based on the
+plain meaning of the text of the Appropriations Clause, “an
+appropriation is simply a law that authorizes expenditures
+from a specifed source of public money for designated pur-
+poses.” Ante, at 424. The statute that Congress passed to
+fund the Consumer Financial Protection Bureau easily meets
+the Appropriations Clause's minimal requirements. See
+ante, at 435. It authorizes the Bureau to withdraw money
+from “the combined earnings of the Federal Reserve Sys-
+tem,” 12 U. S. C. § 5497(a)(1), in order “to pay the expenses
+of the Bureau in carrying out its duties and responsibilities,”
+§ 5497(c)(1). In my view, nothing more is needed to decide
+this case.
+446 CONSUMER FINANCIAL PROTECTION BUREAU v. COMMU-
+     NITY FINANCIAL SERVICES ASSN. OF AMERICA, LTD.
+                  Jackson, J., concurring
+
+   Indeed, there are good reasons to go no further. When
+the Constitution's text does not provide a limit to a coordi-
+nate branch's power, we should not lightly assume that Arti-
+cle III implicitly directs the Judiciary to fnd one. The Con-
+stitution was “intended to endure for ages to come, and,
+consequently, to be adapted to the various crises of human
+affairs.” McCulloch v. Maryland, 4 Wheat. 316, 415 (1819)
+(emphasis deleted). An essential aspect of the Constitu-
+tion's endurance is that it empowers the political branches to
+address new challenges by enacting new laws and policies—
+without undue interference by courts. To that end, we have
+made clear in cases too numerous to count that nothing in the
+Constitution gives federal courts “ `some amorphous general
+supervision of the operations of government.' ” Raines v.
+Byrd, 521 U. S. 811, 829 (1997) (quoting United States v.
+Richardson, 418 U. S. 166, 192 (1974) (Powell, J., concur-
+ring)). Put another way, the principle of separation of pow-
+Page Proof Pending Publication
+ers manifested in the Constitution's text applies with just as
+much force to the Judiciary as it does to Congress and the
+Executive. See Public Workers v. Mitchell, 330 U. S. 75,
+90–91 (1947).
+   This case illustrates why. As the Court explains, in re-
+sponse to the devastation wrought by the 2008 fnancial cri-
+sis, Congress passed and the President signed the Dodd-
+Frank Wall Street Reform and Consumer Protection Act.
+See ante, at 421. In that statute, Congress chose to fund the
+Bureau outside of the annual appropriations process. See
+ante, at 422. Drawing on its extensive experience in fnancial
+regulation, Congress designed the funding scheme to protect
+the Bureau from the risk that powerful regulated entities
+might capture the annual appropriations process. See, e. g.,
+S. Rep. No. 111–176, pp. 162–164 (2010); A. Levitin, The Poli-
+tics of Financial Regulation and the Regulation of Financial
+Politics, 127 Harv. L. Rev. 1991, 2056–2058 (2014); R. Barkow,
+Insulating Agencies, 89 Texas L. Rev. 15, 42–45, 67, 77 (2010);
+see also ante, at 444–445 (Kagan, J., concurring) (describing
+                   Cite as: 601 U. S. 416 (2024)           447
+
+                       Alito, J., dissenting
+
+long history of congressional fexibility in designing funding
+schemes for fnancial regulators).
+   Respondents, two associations of payday lenders, repre-
+sent exactly the type of entity the Bureau's progenitors
+sought to regulate and whose infuence Congress may have
+feared. See O. Bar-Gill & E. Warren, Making Credit Safer,
+157 U. Pa. L. Rev. 1, 44–45, 55–59, 68–70 (2008). In urging
+us to fnd the Bureau's funding scheme unconstitutional,
+then, respondents would not only have us fnd unstated limits
+in the Constitution's text, they would have us undercut the
+considered judgments of a coordinate branch about how to
+respond to a pressing national concern.
+   Of course, to say that Congress had reasons for designing
+the Bureau's funding scheme in the manner it did is not to
+endorse those policy choices. “With the wisdom of the pol-
+icy adopted, with the adequacy or practicability of the law
+enacted to forward it, the courts are both incompetent and
+unauthorized to deal.” Nebbia v. New York, 291 U. S. 502,
+Page Proof Pending Publication
+537 (1934). Instead, the Constitution places primary re-
+sponsibility for checking the political branches with the Peo-
+ple. See King v. Burwell, 576 U. S. 473, 498 (2015) (“In a
+democracy, the power to make the law rests with those cho-
+sen by the people”). It is to them that the Court rightly
+returns any remaining policy questions posed by today's
+case.
+
+  Justice Alito, with whom Justice Gorsuch joins,
+dissenting.
+  Since the earliest days of our Republic, Congress's “power
+over the purse” has been its “most complete and effectual
+weapon” to ensure that the other branches do not exceed
+or abuse their authority. The Federalist No. 58, p. 359
+(C. Rossiter ed. 1961) (J. Madison). The Appropriations
+Clause protects this power by providing that “[n]o Money
+shall be drawn from the Treasury, but in Consequence of
+Appropriations made by Law.” Art. I, § 9, cl. 7. This pro-
+448 CONSUMER FINANCIAL PROTECTION BUREAU v. COMMU-
+     NITY FINANCIAL SERVICES ASSN. OF AMERICA, LTD.
+                   Alito, J., dissenting
+
+vision has a rich history extending back centuries before the
+founding of our country. Its aim is to ensure that the peo-
+ple's elected representatives monitor and control the expend-
+iture of public funds and the projects they fnance, and it
+imposes on Congress an important duty that it cannot sign
+away. “Any other course” would give the Executive “a most
+dangerous discretion.” Reeside v. Walker, 11 How. 272,
+291 (1851).
+   Unfortunately, today's decision turns the Appropriations
+Clause into a minor vestige. The Court upholds a novel
+statutory scheme under which the powerful Consumer Fi-
+nancial Protection Bureau (CFPB) may bankroll its own
+agenda without any congressional control or oversight. Ac-
+cording to the Court, all that the Appropriations Clause de-
+mands is that Congress “identify a source of public funds
+and authorize the expenditure of those funds for designated
+purposes.” Ante, at 426. Under this interpretation, the
+Page Proof Pending Publication
+Clause imposes no temporal limit that would prevent Con-
+gress from authorizing the Executive to spend public funds
+in perpetuity. Contra, Montesquieu, The Spirit of the Laws,
+bk. XI, ch. VI, p. 160 (O. Piest ed., T. Nugent transl. 1949)
+(warning that a legislature will lose its power of the purse if
+it passes an appropriation that lasts “forever”). Nor does
+the Court's interpretation require Congress to set an upper
+limit on the amount of money that the Executive may take.
+Today's decision does not even demand that an agency's
+funds come from the Treasury. As the Solicitor General ad-
+mitted at argument, under this interpretation, the Appropri-
+ations Clause would permit an agency to be funded entirely
+by private sources. Tr. of Oral Arg. 34–35. In short, there
+is apparently nothing wrong with a law that empowers the
+Executive to draw as much money as it wants from any iden-
+tifed source for any permissible purpose until the end of
+time.
+   That is not what the Appropriations Clause was under-
+stood to mean when it was adopted. In England, Parlia-
+                   Cite as: 601 U. S. 416 (2024)           449
+
+                       Alito, J., dissenting
+
+ment had won the power over the purse only after centuries
+of struggle with the Crown. Steeped in English constitu-
+tional history, the Framers placed the Appropriations Clause
+in the Constitution to protect this hard-won legislative
+power.
+                              I
+   In the 2010 Dodd-Frank Wall Street Reform and Con-
+sumer Protection Act, Congress created the CFPB, an inde-
+pendent regulatory agency with “vast rulemaking, enforce-
+ment, and adjudicatory authority over a signifcant portion of
+the U. S. economy.” Seila Law LLC v. Consumer Financial
+Protection Bureau, 591 U. S. 197, 203 (2020); see id., at 222,
+n. 8. And in designing the CFPB, “Congress deviated from
+the structure of nearly every other independent administra-
+tive agency in our history.” Id., at 203. At every turn, the
+statute attempted to insulate the CFPB from control by any
+offcial answerable to the people. First, “Congress provided
+Page Proof Pending Publication
+that the CFPB would be led by a single Director, who serves
+for a longer term than the President,” and Congress at-
+tempted to protect the Director from removal by the Presi-
+dent “except for ineffciency, neglect, or malfeasance.” Ibid.
+In Seila Law, we struck down this restriction because it
+placed “potent” power in the hands of an offcial who was
+“neither elected by the people nor meaningfully controlled
+. . . by someone who is.” Id., at 206, 224–225.
+   Elected in the atmosphere that followed the fnancial crisis
+of 2008, the Congress that created the CFPB also sought to
+free the CFPB from supervision by subsequent Congresses
+that might wish to superintend the Bureau's exercise of its
+vast powers. To achieve that end, the CFPB was given an
+unprecedented way of obtaining funds that was expressly
+designed to make it totally “independent of the Congres-
+sional appropriations process.” S. Rep. No. 111–176, p. 163
+(2010).
+   Under that scheme, the CFPB is not funded by appropria-
+tions enacted by Congress. Instead, each year, the CFPB
+450 CONSUMER FINANCIAL PROTECTION BUREAU v. COMMU-
+     NITY FINANCIAL SERVICES ASSN. OF AMERICA, LTD.
+                   Alito, J., dissenting
+
+Director tells the Federal Reserve Board of Governors how
+much money it thinks is “reasonably necessary” to carry out
+the CFPB's operations. 12 U. S. C. § 5497(a)(1). So long as
+this amount does not exceed 12% of the Federal Reserve
+System's total operating expenses, the Board of Governors
+must comply with that demand and hand over the specifed
+sum “from the combined earnings of the Federal Reserve
+System.” §§ 5497(a)(1), (2)(A). These earnings come from
+the Federal Reserve Banks, which are federally chartered
+corporations that are “not departments of the Government.”
+Emergency Fleet Corp. v. Western Union Telegraph Co., 275
+U. S. 415, 426 (1928); see § 341.1 The Federal Reserve
+Banks' earnings represent interest on and gains derived
+from the purchase and sale of securities, as well as fees they
+receive for services provided to depository institutions,
+“such as check clearing, funds transfers, and automated
+clearinghouse operations.” United States Federal Reserve
+System, The Fed Explained: What the Central Bank Does 4
+Page Proof Pending Publication
+(11th ed. 2021); see also Brief for Petitioners 23. At present,
+the CFPB's maximum annual draw is nearly $750 million.2
+   In addition, the CFPB, unlike most agencies, does not have
+to return any unspent funds to the Treasury. 12 U. S. C.
+§ 5497(b). Instead, the CFPB may invest or roll over any
+unspent money into a separate fund, which it may use in the
+future “to pay the expenses of the [CFPB] in carrying out
+its duties and responsibilities.” §§ 5497(b)–(c).3 As of Sep-
+  1
+     Each Federal Reserve Bank has a Board of nine Directors—six are
+elected by private member banks, and three are appointed by the Federal
+Reserve System's Board of Governors. 12 U. S. C. §§ 302, 304.
+   2
+     In the most recent fscal year, the Bureau requested $641.5 million of
+its then-applicable $734 million limit. Financial Report of the Consumer
+Financial Protection Bureau: Fiscal Year 2022, pp. 44–45 (Nov. 15, 2022)
+(2022 Report) (online source archived at https://www.supremecourt.gov).
+   3
+     The CFPB invests these funds in 3-month Treasury bills, from which
+it receives an annualized return of 5%. See Board of Governors of the
+Federal Reserve System, 3-Month Treasury Bill Secondary Market Rate,
+                       Cite as: 601 U. S. 416 (2024)                   451
+
+                           Alito, J., dissenting
+
+tember 30, 2022, the CFPB had built up an endowment worth
+nearly $340 million. See 2022 Report, at 86.
+   In devising this novel scheme, Congress appears to have
+anticipated that it might be challenged under the Appropria-
+tions Clause, and Congress therefore attempted to shield
+its new creation by providing that “[f]unds obtained by or
+transferred to the [CFPB] shall not be construed to be
+Government funds or appropriated monies.” 4 § 5497(c)(2).
+And to impede congressional oversight of the CFPB's use of
+this money, the Act added that the Bureau's funds are not
+“subject to review by the Committees on Appropriations.”
+§ 5497(a)(2)(C).
+   The Framers would be shocked, even horrifed, by this
+scheme. Beginning with the First Congress, agencies 5
+were generally funded by annual appropriations from the
+Treasury. K. Stith, Congress' Power of the Purse, 97 Yale
+L. J. 1343, 1354, n. 53 (1988) (Stith). While there have been
+Page Proof Pending Publication
+departures from this dominant model, nothing like the
+CFPB's funding scheme has previously been seen. In the
+decision below, the Fifth Circuit held that the CFPB's unpar-
+alleled fnancial independence violates the Appropriations
+Clause and “the constitutional separation of powers.” 51 F.
+4th 616, 642 (2022). Because I agree that the CFPB's fund-
+ing structure is unconstitutional, I would affrm the Fifth
+Circuit's judgment.
+
+Discount Basis, Economic Research: Federal Reserve Bank of St. Louis
+(Mar. 13, 2024), https://fred.stlouisfed.org/series/DTB3.
+  4
+    Congress obviously cannot evade the Appropriations Clause simply by
+placing a different label on an authorization to obtain and spend money
+that falls within the meaning of an “Appropriatio[n]” under that provision.
+And here, the Government argues that the statutory provision cited in the
+text was not meant to have that effect, but was adopted for other pur-
+poses. See Tr. of Oral Arg. 20.
+  5
+    For want of a better term, I use the term “agency” to refer to any
+component of the Executive Branch.
+452 CONSUMER FINANCIAL PROTECTION BUREAU v. COMMU-
+     NITY FINANCIAL SERVICES ASSN. OF AMERICA, LTD.
+                   Alito, J., dissenting
+
+                              II
+                              A
+   The Appropriations Clause is found in Article I, § 9, clause
+7, of the Constitution, which provides:
+     “No Money shall be drawn from the Treasury, but in
+     Consequence of Appropriations made by Law; and a reg-
+     ular Statement and Account of the Receipts and Ex-
+     penditures of all public Money shall be published from
+     time to time.”
+The frst part of this provision is customarily called the Ap-
+propriations Clause, and the second is referred to as the
+Statement and Account Clause.
+    The Appropriations Clause contains two key terms—
+“Money . . . drawn from the Treasury” and “Appropria-
+tions”—both of which require a little explanation. As the
+Government acknowledges, “Money . . . drawn from the
+Treasury” is synonymous with the term “public Money,” 6
+Page Proof Pending Publication
+which appears in the Statement and Account Clause. And
+in this case, it is undisputed that the funds requisitioned by
+the CFPB constitute “public Money.” 7 Thus, the only re-
+maining textual question is whether the CFPB gets its fund-
+ing from “Appropriations” in the sense in which the Consti-
+tution uses that term.
+    The Court answers that question by consulting a few old
+dictionaries, which it says establish that “[i]n ordinary usage,
+. . . an appropriation of public money would be a law author-
+izing the expenditure of particular funds for specifed ends.”
+Ante, at 427. It accordingly concludes that the Appropria-
+tions Clause requires no more than a law, a fund, and a pur-
+pose. Ante, at 426–427.
+    This analysis overlooks the fact that the term “Appropria-
+tions,” as used in the Constitution, is a term of art whose
+meaning has been feshed out by centuries of history. To
+ 6
+     See, e. g., Tr. of Oral Arg. 34; Stith 1357.
+ 7
+     See, e. g., Tr. of Oral Arg. 19, 34.
+                   Cite as: 601 U. S. 416 (2024)            453
+
+                       Alito, J., dissenting
+
+be sure, in interpreting the Constitution, we start with the
+presumption that “ `its words and phrases' ” carry their
+“ `normal and ordinary' ” meaning. District of Columbia v.
+Heller, 554 U. S. 570, 576 (2008) (quoting United States v.
+Sprague, 282 U. S. 716, 731 (1931)). But our analysis cannot
+end there. Some provisions use terms with specialized and
+well-established meanings that we cannot use dictionaries to
+brush aside. “ `[I]f a word is obviously transplanted from
+another legal source, whether the common law or other legis-
+lation, it brings the old soil with it.' ” Sekhar v. United
+States, 570 U. S. 729, 733 (2013); see also A. Scalia & B. Gar-
+ner, Reading Law: The Interpretation of Legal Texts 73–77
+(2012). Applied here, this rule means that the term “Appro-
+priatio[n]” should be interpreted in light of “legal tradition
+and . . . centuries of practice.” Morissette v. United States,
+342 U. S. 246, 263 (1952). I therefore turn to that history.
+
+                                B
+Page Proof Pending
+              1    Publication
+   The delegates to the Constitutional Convention did not in-
+vent the appropriations requirement. Rather, that impor-
+tant safeguard arose from centuries of “British experience.”
+Consumer Financial Protection Bureau v. All Am. Check
+Cashing, Inc., 33 F. 4th 218, 224 (CA5 2022) (en banc) (Jones,
+J., concurring). The Framers were aware of the require-
+ment's deep roots and the critical role it had played in “the
+history of the British Constitution.” The Federalist No. 58,
+at 359. By steadily asserting the power to condition appro-
+priations, the House of Commons, originally “an infant and
+humble representation of the people[,] gradually enlarg[ed]
+the sphere of its activity and importance, and fnally re-
+duc[ed], as far as it seems to have wished, all the overgrown
+prerogatives of the other branches of the government.”
+Ibid.
+   A short summary of this process illustrates the important
+role of the appropriations requirement. During the Middle
+454 CONSUMER FINANCIAL PROTECTION BUREAU v. COMMU-
+     NITY FINANCIAL SERVICES ASSN. OF AMERICA, LTD.
+                   Alito, J., dissenting
+
+Ages, kings relied almost entirely on what was called “ordi-
+nary” revenue. F. Maitland, The Constitutional History of
+England 433 (1908) (reprint 1993) (Maitland). This included
+income from lands owned by the Crown, customs duties, and
+feudal dues. See 1 W. Blackstone, Commentaries on the
+Laws of England 281–306 (2d ed. 1766). Consequently,
+there was little meaningful difference “between the national
+revenue and the king's private pocket-money.” Maitland
+433.
+   The Crown's fnancial independence gave it the ability to
+govern with little parliamentary interference. As Maitland
+puts it, “throughout the Middle Ages the king's revenue had
+been in a very true sense the king's revenue, and parliament
+had but seldom attempted to give him orders as to what he
+should do with it.” Id., at 309. “Under the Tudors, parlia-
+ment hardly dared to meddle with such matters.” Ibid.
+   In the 17th century, however, this pattern began to change.
+Page Proof Pending Publication
+Id., at 309–310. By that time, “the king's ordinary revenues
+were no longer even remotely suffcient to cover the normal
+costs of royal governance,” and the heavy expenditures of
+James I and Charles I exacerbated the problem. J. Chafetz,
+Congress's Constitution 47 (2017) (Chafetz). Rather than
+seeking appropriations from Parliament, the early Stuart
+kings engaged in controversial efforts to obtain additional
+ordinary income through the use of various royal “preroga-
+tive[s].” G. Smith, A Constitutional and Legal History of
+England 315 (1955) (Smith). Among other things, they uni-
+laterally imposed duties on imports, stepped up the collec-
+tion of feudal dues, sold monopolies, and forced individuals
+to loan money on pain of imprisonment. See id., at 315, 318.
+   These measures aroused opposition and, in any event, did
+not yield suffcient funds. As a result, James I and Charles
+I periodically found it necessary to ask Parliament to impose
+new taxes in order to obtain the funds they wanted. When
+they did so, the Commons began to fex the power of the
+purse and to demand a measure of royal accountability. Dis-
+                   Cite as: 601 U. S. 416 (2024)            455
+
+                       Alito, J., dissenting
+
+putes between the Commons and the Stuart kings about the
+power of the purse played a pivotal role in the transition
+from royal to parliamentary fnancial supremacy.
+   A few incidents illustrate this dynamic. In 1621, the
+power of the purse played a central role in disputes between
+the Crown and Parliament over religious, geopolitical, and
+judicial authority. For some months, Parliament ignored re-
+quests from James I for more tax revenue. T. Taswell-
+Langmead, English Constitutional History From the Teu-
+tonic Conquest to the Present Time 532 (3d ed. 1886)
+(Taswell-Langmead). Though Parliament fnally expressed
+“willing[ness] to grant a moderate subsidy,” it insisted “frst”
+on redress for “grievances.” Id., at 533; see also Smith 315–
+316. Parliament's petition infuriated James I, who ulti-
+mately dissolved Parliament and sent several of its leaders—
+including Sir Matthew Hale—to the Tower of London.
+Taswell-Langmead 534, 536.
+Page Proof Pending Publication
+   Under Charles I, the situation worsened. At the begin-
+ning of his reign, the Commons refused to grant him the
+life-time power to impose tonnage and poundage duties, i. e.,
+duties on imports and exports, as had been the custom, but
+instead granted the power for only one year. Id., at 539.
+The members of Commons “had no intention of refusing a
+further supply, but were resolved to avail themselves of their
+Constitutional right to make it dependent upon redress of
+grievances.” Ibid. Indignant about this temerity, the King
+hastily dissolved Parliament before the Lords passed the bill.
+Id., at 540; Smith 318. But as a consequence, the King once
+again then found himself without suffcient funds. So he
+took matters into his own hands by resorting to the mon-
+archy's “old illegal methods of raising money.” Taswell-
+Langmead 543.
+   This reignited a power struggle between the two
+branches. As a result, when Charles I again turned to Par-
+liament in 1628, the Commons refused to grant funds until
+he agreed to the Petition of Right, which demanded that he
+456 CONSUMER FINANCIAL PROTECTION BUREAU v. COMMU-
+     NITY FINANCIAL SERVICES ASSN. OF AMERICA, LTD.
+                   Alito, J., dissenting
+
+cease efforts to obtain more “ordinary income” by objection-
+able means, such as compulsory loans and the payment of
+“any tax, tallage,8 aid, or other like charge not set by com-
+mon consent, in parliament.” 3 Car. I., c. 1 (1628). The
+King, of course, did not like this. So when the Commons
+continued to challenge royal prerogatives, Charles I pro-
+rogued Parliament. And during the long period that ensued
+in which Parliament did not meet (1629–1640), the King
+sought new sources of “ordinary income,” including the impo-
+sition of “Ship-money,” that is, fees imposed on both mari-
+time and inland counties to pay for the construction of ships.
+Taswell-Langmead 566–569. These practices “further en-
+raged an already alienated Parliament, reinforcing a vicious
+cycle that led to the Civil War and, ultimately, to Charles's
+beheading.” Chafetz 47.
+   This constitutional crisis restored the English Govern-
+ment's fnancial separation of powers for a season. During
+the Commonwealth, the Commons exercised “complete au-
+Page Proof Pending Publication
+thority . . . over the whole receipts and expenditure of the
+national treasury.” Taswell-Langmead 626. But shortly
+after the Restoration, the war for the supremacy of the purse
+reignited. Starting in 1665, “Parliament was largely unwill-
+ing to grant [the King] additional money without specifying
+in some measure how it was to be used.” Chafetz 50.
+“This precedent was followed in some, but not all . . . cases
+under Charles II.” Maitland 310. Charles II, “fed up with
+parliamentary interference, ruled without Parliament, and
+therefore without any parliamentary taxation, for the rest of
+his reign.” Chafetz 50.
+   After the Revolution of 1688, Parliament took strong
+measures to curb the Crown's fnancial independence. The
+1689 Bill of Rights declared “[t]hat levying Money for or to
+the Use of the Crowne by pretence of Prerogative, without
+  8
+   A tallage is “[a]n arbitrary tax levied by the monarch on towns and
+lands belonging to the crown.” Black's Law Dictionary 1756 (11th ed.
+2019).
+                    Cite as: 601 U. S. 416 (2024)             457
+
+                        Alito, J., dissenting
+
+Grant of Parlyament for longer time or in other manner than
+the same is or shall be granted is Illegall.” 1 Wm. & Mary
+2, c. 2 (1688). In other words, to ensure “that it was
+supreme in directing the use of [all] public funds,” Parlia-
+ment “asserted that any use of funds by the monarch that
+lacked Parliament's authorization was unlawful.” Congres-
+sional Research Service, S. Stiff, Congress's Power Over
+Appropriations: Constitutional and Statutory Provisions 8
+(2020).
+   These steps, however, did not cement Parliament's power
+of the purse. Royal offcers continued to collect revenue and
+to evade the appropriations requirement by exaggerating
+collection costs, giving very little in “net receipts” to Parlia-
+ment, and keeping the rest for the use of the Crown. P. Ein-
+zig, The Control of the Purse 164, 188 (1959) (Einzig). So
+Parliament took steps to crack down on this practice. Id.,
+at 188. In 1711, for example, Parliament passed a resolution
+Page Proof Pending Publication
+declaring that “ `applying any sum of un-appropriated money,
+or surplusages of funds to usages not voted, or addressed
+for by parliament, hath been a misapplication of the public
+money.' ” 6 Cobbett's Parliamentary History of England
+1025 (1810).
+   Parliament also appointed a commission to prevent the
+Crown from defying the appropriations requirement. In
+that commission's very frst report, it recommended that
+“[r]evenue should come from the Pocket of the Subject di-
+rectly into the Exchequer.” Report Relative to the Bal-
+ances in the Hands of the Receivers General of the Land
+Tax, Nov. 27, 1780 (First Report), reprinted in 1 Reports of
+the Commissioners Appointed To Examine, Take, and State
+the Public Accounts of the Kingdom 14 (W. Molleson ed.
+1783). Permitting revenue departments to retain or divert
+any public funds, the Commissioners concluded, would create
+a “private Interest . . . in direct Opposition to that of the
+Public.” Ibid. Finally, Parliament took an increasingly
+“frmer line . . . against virement, that is, the transfer of
+458 CONSUMER FINANCIAL PROTECTION BUREAU v. COMMU-
+     NITY FINANCIAL SERVICES ASSN. OF AMERICA, LTD.
+                   Alito, J., dissenting
+
+funds appropriated for one department for the use of another
+department.” Einzig 144.
+                             2
+   The Court's treatment of this history begins by conceding
+most of what I have recounted. The Court notes that after
+the Revolution of 1688, “Parliament's usual practice was to
+appropriate government revenue `to particular purposes
+more or less narrowly defned,' ” and “Parliament began lim-
+iting the duration of its revenue grants.” Ante, at 428 (quot-
+ing Maitland 433). “ `Every year,' ” the Court continues, the
+King and his ministers “ `had to come, cap in hand, to the
+House of Commons, and more often than not the Commons
+drove a bargain and exacted a quid pro quo in return for
+supply.' ” Ante, at 429 (quoting G. Trevelyan, The English
+Revolution of 1688–1689, pp. 180–181 (1939)).
+   In an effort to fnd a trace of helpful precedent in pre-
+founding British constitutional history, the Court turns to
+Page Proof Pending Publication
+laws appropriating funds for the “civil list,” which it touts
+as a particularly “notable exception” to the centuries-long
+understanding of appropriations. Ante, at 429, 432, 439. In
+truth, however, Parliament's treatment of the civil list actu-
+ally undermines the Court's position. The civil list, al-
+though renamed in 2012, remains to this day, and it consists
+of the money needed to cover the expenses of the royal fam-
+ily.9 By the end of the 17th century, “the Civil List was a
+relatively small share of the total public expenditure,” but
+the independence it afforded the Crown “presented a consti-
+tutional problem in the confict between the principle of the
+independence of the Crown and the principle of parlia-
+mentary control of fnance.” E. Reitan, The Civil List in
+Eighteenth-Century British Politics: Parliamentary Suprem-
+acy Versus the Independence of the Crown, 9 Hist. J. 318,
+320, 322 (1966) (Reitan).
+
+  9
+   See Royal Finances, https://www.royal.uk/royal-finances (Apr. 22,
+2024).
+                   Cite as: 601 U. S. 416 (2024)             459
+
+                       Alito, J., dissenting
+
+   To prevent the Crown from using the civil list to erode
+Parliament's hard-fought supremacy over the purse, eminent
+statesmen like Edmund Burke and Charles James Fox began
+pushing for substantial reforms. Id., at 328–337. Begin-
+ning in 1760, Parliament enacted a series of laws that altered
+the appropriation of civil list funds. Id., at 324; see, e. g.,
+1 H. Cavendish, Debates of the House of Commons 267–307
+(1841). And by 1782, Parliament fnally secured its “right
+. . . to interfere at its discretion in the affairs of the Civil
+List.” Reitan 336–337. “The eighteenth-century tension
+between the conficting principles of parliamentary suprem-
+acy and an independent fnancial provision for the Crown had
+been resolved—as it had to be—in favour of parliamentary
+supremacy.” Id., at 337.
+                                C
+                                1
+  “The conficts between Parliament and the Crown over the
+Page       Proof Pending Publication
+power of the purse . . . were replayed in the American colo-
+nies in struggles between the royal governors and provincial
+assemblies.” R. Rosen, Funding “Non-Traditional” Military
+Operations: The Alluring Myth of a Presidential Power of
+the Purse, 155 Mil. L. Rev. 1, 44 (1998); see also P. Wolfson,
+Is a Presidential Item Veto Constitutional? 96 Yale L. J.
+838, 841–842 (1987). But learning from Parliament's experi-
+ences with the monarchy, some of the American Colonies as-
+sumed appropriations authority “greater even than that of
+the British House of Commons,” exercising signifcant audit-
+ing powers and legislative oversight. J. Greene, The Quest
+for Power: The Lower Houses of Assembly in the Southern
+Royal Colonies 106 (1963). Indeed, by 1787, all but one of
+the 11 State Constitutions provided their respective legisla-
+tures with some control over appropriations; and no State
+allowed the executive to draw money from the state treasury
+without legislative approval. Chafetz 55, and nn. 119–120
+(citing provisions); see also The Federalist No. 48, at 310
+460 CONSUMER FINANCIAL PROTECTION BUREAU v. COMMU-
+     NITY FINANCIAL SERVICES ASSN. OF AMERICA, LTD.
+                   Alito, J., dissenting
+
+(J. Madison) (noting that, under many state constitutions,
+“the legislative department alone has access to the pockets
+of the people”).
+   The Framers built on this legacy at the Constitutional
+Convention when they adopted the Appropriations Clause,
+which they “well understood” would “complet[e] the power
+vested in Congress over money.” 7 Annals of Cong. 1124
+(1798) (statement of Rep. Albert Gallatin). The Clause not
+only “gives to the Legislature an exclusive authority of rais-
+ing and granting money,” but it also obligates Congress to
+keep that authority from “the hands of the Executive” at all
+times thereafter. Ibid. It makes the President “depen[d]
+on the will of [Congress] for supplies of money” in the frst
+instance and puts him continually “in a state of subordinate
+dependence” to the people's elected representatives. 3 De-
+bates on the Constitution 17 (J. Elliot ed. 1836) (statement of
+Wilson Nicholas). The Appropriations Clause enables Con-
+Page Proof Pending Publication
+gress, “without the concurrence of the other branches, to
+check, by refusing money, any mischief in the operations car-
+rying on in any department of the Government.” 5 Annals
+of Cong. 509 (1796) (statement of Rep. William Branch Giles)
+(emphasis added).
+   Early budgets illustrate how the appropriations power
+was understood. Although the Constitution does not re-
+quire that appropriations be limited to a single year, that
+was the dominant practice in the years immediately follow-
+ing the adoption of the Constitution. See ante, at 432. And
+while the frst few appropriations laws were brief and lacked
+details about how the money was to be spent, the amounts
+approved closely tracked the estimates submitted by Secre-
+tary of the Treasury Alexander Hamilton. See Chafetz
+58–59. Indeed, the second appropriations act expressly in-
+corporated the estimates of specifc expenses contained in
+Hamilton's report to Congress. Compare Appropriations
+Act, § 1, 1 Stat. 104, with 5 American State Papers: Finance
+                        Cite as: 601 U. S. 416 (2024)                      461
+
+                            Alito, J., dissenting
+
+33 (1832). As a result, Congress clearly contemplated that
+the money would be devoted toward particular purposes.
+   In the mid-1790s, appropriations laws became even more
+specifc. Chafetz 59. And when Thomas Jefferson became
+President, he urged Congress “to multiply barriers against”
+the “dissipation” of public funds by “appropriating specifc
+sums to every specifc purpose susceptible of defnition,” and
+“by disallowing applications of money varying from the ap-
+propriation in object, or transcending it in amount.” First
+Annual Message (Dec. 8, 1801), reprinted in 9 The Works of
+Thomas Jefferson 336 (P. Ford ed. 1905); see also Letter from
+Albert Gallatin to Thomas Jefferson (Nov. 1801), reprinted
+in 1 The Writings of Albert Gallatin 68 (H. Adams ed. 1879)
+(“Congress should adopt such measures as will effectually
+guard against misapplication of public moneys”).
+   To be sure, not all early funding laws followed the domi-
+nant model of specifed short-term appropriations. Agen-
+cies that provided services to a particular segment of the
+Page Proof Pending Publication
+public were funded by fees that were paid by the recipients
+of those services. See, e. g., Act of Feb. 20, 1792, §§ 2–3, 1
+Stat. 233–234 (funding the Post Offce through collection of
+postage rates); Act of Apr. 2, 1792, ch. 16, §§ 1, 14, 1 Stat. 246,
+249 (funding the National Mint in part through collection of
+fees); Act of July 31, 1789, § 29, 1 Stat. 44–45 (funding cus-
+toms collection through tonnage fees). If these fees ex-
+ceeded the costs of providing the services, however, these
+agencies were required to send the surplus to the Treasury,
+which oversaw the collection and use of such fees.10
+   10
+      At the founding, it was well understood that “the unexpended balance
+of any appropriation after a given period passes to the surplus fund.” 16
+Annals of Cong. 393 (1807) (statement of Rep. David Thomas). See, e. g.,
+Act of Feb. 11, 1791, ch. 6, 1 Stat. 190 (recognizing default rule that surplus
+funds return to the Treasury); see also Act of Feb. 20, 1792, §§ 3–4, 1 Stat.
+234 (requiring the Postmaster General to “pay, quarterly, into the treasury
+of the United States, the balance” of any receipts after using them to
+“defray the expense” of services provided); Act of July 31, 1789, § 38, 1
+462 CONSUMER FINANCIAL PROTECTION BUREAU v. COMMU-
+     NITY FINANCIAL SERVICES ASSN. OF AMERICA, LTD.
+                   Alito, J., dissenting
+
+   As the Government notes, Brief for Petitioners 21–22, this
+practice had deep historical roots, see N. Parrillo, Against
+the Proft Motive 65 (2013) (Parrillo),11 and was presumably
+based on the idea that the cost of providing certain services
+should be borne by the recipients of those services rather
+than the general public. At the same time, the requirement
+that fees in excess of what was needed to defray the cost of
+providing services be turned over to the Treasury ensured
+that Congress maintained control over the ways in which
+this money was spent. Under these arrangements, there-
+fore, Congress exercised close control over both the amount
+of money that the agencies in question obtained and the way
+in which that money was used. The agencies received and
+were allowed to use the amount of money necessary to pro-
+vide their narrowly prescribed services. All the rest was
+sent to the Treasury and could then be used only as author-
+ized by a congressional appropriation.
+
+Page Proof Pending
+              2    Publication
+   In discussing this early American history, the Court be-
+gins by essentially conceding the principal lesson outlined
+above. As the Court candidly puts it, “ `[w]hen called upon
+to grant supplies,' the lower houses in the colonial assemblies
+`insisted upon appropriating them in detail.' ” Ante, at 430.12
+The best the Court can muster to support its assertion that
+“state legislative bodies often opted for open-ended, discre-
+tionary appropriations” are a few minor state laws that,
+when understood in relation to the Constitutions of the
+
+Stat. 48 (providing that an unexpended portion of all customs and fnes
+shall be “paid into the treasury” thereof); Act of Sept. 2, 1789, ch. 12, § 2,
+1 Stat. 65 (“[I]t shall be the duty of the Secretary of the Treasury to . . .
+superintend the collection of the revenue”).
+   11
+      Parliament and “nearly all the American colonial legislatures” used
+such fees “to cover many and sometimes all of the offces within their
+respective bounds.” Parrillo 65.
+   12
+      Many sources document this general approach. See, e. g., P. Figley &
+J. Tidmarsh, The Appropriations Power and Sovereign Immunity, 107
+Mich. L. Rev. 1207, 1244 (2009).
+                       Cite as: 601 U. S. 416 (2024)                    463
+
+                           Alito, J., dissenting
+
+States in question, provide no support for the Court's argu-
+ment. Ibid.13
+                        *    *     *
+  In sum, centuries of historical practice show that the Ap-
+propriations Clause demands legislative control over the
+source and disposition of the money used to fnance Govern-
+ment operations and projects.14
+
+  13
+      Citing two Massachusetts laws directing that certain revenue be used
+for broadly defned purposes, the Court infers that the executive enjoyed
+wide discretion to decide how this money would be spent, see ante, at 430,
+but this inference is unwarranted. One of the two Massachusetts laws
+cited by the Court, Act of Nov. 17, 1786, 1786 Mass. Acts and Laws ch. 47,
+p. 117, clearly illustrates this point. That law stated expressly that the
+revenue in question was to be paid “into the Treasury of this Common-
+wealth, for the exigencies of Government.” Ibid. Under the State Con-
+stitution, this money could not be taken from the treasury without the
+approval of the legislature. See Mass. Const. of 1780, ch. 2, § 1, Art. XI.
+And to fortify legislative control, the state treasurer was elected annually
+Page Proof Pending Publication
+by the legislature. Id., ch. 2, § 4.
+   As another supposed example of a state law giving the executive wide
+discretion to decide how funds could be spent, the Court cites a Maryland
+law specifying that certain revenue was to be used for the general purpose
+of defending the Chesapeake Bay and protecting trade. 1783 Md. Acts
+ch. 26, § 5, reprinted in 1 W. Kilty, The Laws of Maryland (1799). The
+Court overlooks the fact that under the State's Constitution, the two state
+treasurers were appointed by and served at the pleasure of the legislature,
+Maryland Constitution of 1776, Art. XIII, and the legislature was specif-
+cally authorized to “examine and pass all accounts of the State, relating
+either to the collection or expenditure of the revenue, or appoint auditors,
+to state and adjust the same,” Art. X.
+   Finally, the Court points to a Virginia law, ante, at 430, but again the
+Court overlooks the structure of the Virginia government. Under the
+Virginia Constitution of 1776, the treasurer was elected annually by the
+legislature, and this obviously gave the legislature extensive power over
+expenditures. Virginia Constitution of 1776, ¶17; see Chafetz 55 (refer-
+ring to the Virginia Legislature's authority over the state treasurer as an
+“explicit mechanism of legislative control over appropriations”).
+   14
+      Not content to rest on the Court's argument, which relies on the
+Court's understanding of the original meaning of the Appropriations
+Clause, four Justices advance an entirely different rationale, namely, that
+congressional practice in the ensuing centuries supports the constitution-
+464 CONSUMER FINANCIAL PROTECTION BUREAU v. COMMU-
+     NITY FINANCIAL SERVICES ASSN. OF AMERICA, LTD.
+                   Alito, J., dissenting
+
+                                    III
+                                     A
+   As the previous discussion shows, today's case turns on
+a simple question: Is the CFPB fnancially accountable to
+Congress in the way the Appropriations Clause demands?
+History tells us it is not. As we said in Seila Law, “ `[p]er-
+haps the most telling indication of [a] severe constitutional
+problem' with an executive entity `is [a] lack of historical
+precedent' to support it.” 591 U. S., at 220 (quoting Free
+Enterprise Fund v. Public Company Accounting Oversight
+Bd., 561 U. S. 477, 505 (2010)). And the Government agrees
+with this principle. In its briefng and at argument, the
+Government admitted that an utterly unprecedented funding
+scheme would raise a serious constitutional problem. Reply
+Brief 18; Tr. of Oral Arg. 11, 26. The Government therefore
+attempts to show that there is ample precedent for the
+CFPB scheme, but that effort fails.
+Page Proof Pending Publication
+   The CFPB's funding scheme contains the following fea-
+tures: (1) it applies in perpetuity; (2) the CFPB has discre-
+tion to select the amount of funding that it receives, up to a
+statutory cap; (3) the funds taken by the CFPB come from
+other entities; (4) those entities are self-funded corporations
+that obtain their funding from fees on private parties, “not
+departments of the Government,” Emergency Fleet Corp.,
+275 U. S., at 426; (5) the CFPB is not required to return un-
+
+ality of the CFPB's scheme. Ante, at 441 (Kagan, J., concurring). This
+argument is doubly fawed. First, the concurrence cannot point to any
+other law that created a funding scheme like the CFPB's. Second, as
+explained by Justice Scalia, the separation of powers mandated by the
+Constitution cannot be altered by a course of practice at odds with our
+national charter. See NLRB v. Noel Canning, 573 U. S. 513, 571–572
+(2014) (opinion concurring in judgment). “[P]olicing the `enduring struc-
+ture' of constitutional government when the political branches fail to do
+so is `one of the most vital functions of this Court.' ” Id., at 572 (quoting
+Public Citizen v. Department of Justice, 491 U. S. 440, 468 (1989) (Ken-
+nedy, J., concurring in judgment)).
+                   Cite as: 601 U. S. 416 (2024)            465
+
+                       Alito, J., dissenting
+
+spent funds or transfer them to the Treasury; and (6) those
+funds may be placed in a separate fund that earns interest
+and may be used to pay the CFPB's expenses in the future.
+At argument, the Government was unable to cite any other
+agency with a funding scheme like this, see Tr. of Oral Arg.
+31–33, 39–41, and thus no other agency—old or new—has
+enjoyed so many layers of insulation from accountability to
+Congress.
+   The Government points to the Post Offce and the Customs
+Service as founding-era precedents for the CFPB, but the
+analogy is fawed. As noted, funding Government agencies
+with fees charged to the benefciaries of their services has
+long been viewed as consistent with the appropriations re-
+quirement. And both the Post Offce and the Customs Serv-
+ice fell comfortably into that category.
+   A quick look at the laws that set up the Post Offce and
+the Customs Service shows that they were nothing like the
+Page Proof Pending Publication
+CFPB. In the Act establishing the Post Offce, Congress
+gave that agency a narrow and specifc mission: to “provide
+for carrying the mail of the United States.” See, e. g., Act
+of Feb. 20, 1792, § 3, 1 Stat. 234. The Postmaster's discre-
+tionary authority was modest. (He could, for example, de-
+cide whether mail should be carried on particular routes “by
+stage carriages or horses.” Ibid.) The Act specifed in min-
+ute detail the fees that could be collected from those who
+used the Post Offce's services. § 9, id., at 235. And it re-
+quired the Postmaster to “render to the secretary of the
+treasury, a quarterly account of all the receipts and expendi-
+tures” and to “pay, quarterly, into the treasury . . . , the
+balance in his hands.” § 4, id., at 234. Under this arrange-
+ment, Congress controlled the amount that the Post Offce
+took in (i. e., the sum total of the fees specifed by law) and
+how those fees were to be spent (i. e., to provide for carrying
+the mail).
+   Much the same is true with respect to the Customs Serv-
+ice, which the Government claims “best” resembles the
+466 CONSUMER FINANCIAL PROTECTION BUREAU v. COMMU-
+     NITY FINANCIAL SERVICES ASSN. OF AMERICA, LTD.
+                   Alito, J., dissenting
+
+CFPB. Tr. of Oral Arg. 31. Like the Post Offce, the Cus-
+toms Service had a carefully delineated mission—basically,
+to control imports and exports, and to collect duties and
+other payments from those engaged in those activities. To
+maintain accountability, the early tariff Acts spelled out in
+excruciating detail the various fees, fnes, and forfeitures
+that offcers were to collect, as well as the salaries and com-
+missions that were to be paid out of those receipts. Act of
+July 31, 1789, ch. 5, 1 Stat. 29–49; L. Schmeckebier, The Cus-
+toms Service: Its History, Activities and Organization 3–6
+(1924). Surplus funds had to be sent to the Treasury, Act of
+July 31, 1789, §§ 9, 38, 1 Stat. 38, 48, and for many years,
+these funds were the lifeblood of the Federal Government.
+From 1789 to 1862, “[n]early all of federal revenue was de-
+rived from customs duties.” A. Reamer, Before the U. S.
+Tariff Commission: Congressional Efforts To Obtain Statis-
+tics and Analysis for Tariff-setting, 1789–1916, in A Cen-
+tennial History of the United States International Trade
+Page Proof Pending Publication
+Commission 35 (2017).15
+   The CFPB, by contrast, is an entirely different creature.
+Its powers are broad and vast. It enjoys substantial discre-
+tionary authority. It does not collect fees from persons and
+entities to which it provides services or persons and entities
+that are subject to its authority. And it is permitted to keep
+and invest surplus funds. In short, the Government's “best”
+argument fails.
+   The Government's next-best analogs fare no better. Mov-
+ing to modern agencies, the Government claims that the
+CFPB's funding scheme is not materially different from the
+funding schemes of a list of other currently existing agencies.
+See Brief for Petitioners 22–23, 29–36 (comparing the CFPB
+to the Offce of the Comptroller of the Currency (OCC), the
+Federal Deposit Insurance Corporation (FDIC), the National
+  15
+    “In 1792, for example, customs duties . . . accounted for $3.4 million of
+the $3.7 million of total government receipts.” Founding Choices: Ameri-
+can Economic Policy in the 1790s, p. 101 (D. Irwin & R. Sylla eds. 2010).
+                       Cite as: 601 U. S. 416 (2024)                     467
+
+                           Alito, J., dissenting
+
+Credit Union Administration (NCUA), the Farm Credit Ad-
+ministration (FCA), the Federal Housing Finance Agency
+(FHFA), and others).
+   But unlike the CFPB, the agencies cited by the Govern-
+ment are funded in whole or in part by fees charged to those
+who make use of their services or are subject to their regula-
+tion. This is true for the OCC, see 12 U. S. C. § 16; the
+FDIC, see § 1815; the NCUA, see § 1755; the FCA, § 2250;
+and the FHFA, see § 4516.16
+   For these reasons, it is undeniable that the combination of
+features in the CFPB funding scheme is unprecedented.
+And it is likewise clear that this assemblage was no accident.
+Rather, it was carefully designed to give the Bureau maxi-
+mum unaccountability. Our decision in Seila Law ad-
+dressed part of the problem posed by this arrangement. It
+made the CFPB accountable to the President, but that deci-
+sion did nothing to protect Congress's power of the purse.
+Indeed, standing alone, Seila Law worsens the appropria-
+Page Proof Pending Publication
+tions problem. The appropriations requirement developed
+to ensure that the Executive (in England, the monarch)
+would be accountable to the people's elected representatives.
+  16
+     The Government also suggested that the Federal Reserve Board is a
+close historical analog for the CFPB. Brief for Petitioners 23; Tr. of Oral
+Arg. 41. But that setup should not be seen as a model for other Govern-
+ment bodies. The Board, which is funded by the earnings of the Federal
+Reserve Banks, 12 U. S. C. §§ 243, 244, is a unique institution with a unique
+historical background. It includes the creation and demise of the First
+and Second Banks of the United States, as well as the string of fnancial
+panics (in 1873, 1893, and 1907) that were widely attributed to the coun-
+try's lack of a national bank. See generally O. Sprague, History of Crises
+Under the National Banking System, S. Doc. No. 538, 61st Cong., 2d Sess.
+(1910). The structure adopted in the Federal Reserve Act of 1913 repre-
+sented an intensely-bargained compromise between two insistent and in-
+fuential camps: those who wanted a largely private system, and those who
+favored a Government-controlled national bank. See, e. g., R. Lowenstein,
+America's Bank 5–8, 113–116, 265 (2015). For Appropriations Clause pur-
+poses, the funding of the Federal Reserve Board should be regarded as a
+special arrangement sanctioned by history.
+468 CONSUMER FINANCIAL PROTECTION BUREAU v. COMMU-
+     NITY FINANCIAL SERVICES ASSN. OF AMERICA, LTD.
+                   Alito, J., dissenting
+
+Seila Law, however, increased the power of the Executive
+over appropriations. By brandishing or wielding the threat
+of removal, a President may push the CFPB director to req-
+uisition the amount of money that the President thinks is
+appropriate and to spend that money as the President
+wishes. I joined the decision in Seila Law and continue to
+believe that it was correctly decided, but it solved only half
+the accountability problem that inheres in the CFPB's
+structure.
+                              B
+   Left with no analog in history, the Government employs a
+divide-and-conquer strategy to defend the CFPB's funding
+scheme. It argues that even if no prior agency had a fund-
+ing scheme with all the features of the CFPB's, the funding
+schemes of other presumptively constitutional agencies con-
+tain one or more of the features found in the CFPB's scheme.
+It then reasons that the combination of these features in the
+Page Proof Pending Publication
+CFPB's scheme must be constitutional as well.
+   This argument founders for two reasons. First, the
+CFPB's scheme includes an important feature never before
+seen. As explained, the CFPB's money does not come from
+Congress, from private recipients of its services, or from pri-
+vate entities that it regulates. It does not even originate
+with another Government agency. Instead, the CFPB gets
+its money via a three-step process: The Federal Reserve
+Banks earn money from the purchase and sale of securities,
+as well as from the fees they charge for providing services
+to depository institutions. The Federal Reserve Banks
+then deliver these earnings to the Federal Reserve System.
+Finally, the CFPB requests an amount from the Federal Re-
+serve Board. That feature of the CFPB scheme is entirely
+new.
+   Second, the Government's argument fails “to engage with
+the Dodd-Frank Act as a whole.” Seila Law, 591 U. S., at
+230. By addressing the individual elements of the CFPB's
+setup one-by-one, the Government seeks to divert attention
+                   Cite as: 601 U. S. 416 (2024)            469
+
+                       Alito, J., dissenting
+
+from the combined layers that insulate the CFPB from ac-
+countability to Congress. Elements that are safe or tolera-
+ble in isolation may be unsafe when combined. In the case
+of the CFPB, the combination is deadly. The whole point of
+the appropriations requirement is to protect “the right of
+the people,” through their elected representatives in Con-
+gress, to “be actually consulted” about the expenditure of
+public money. St. George Tucker, View of the Constitution
+of the United States 297 (1803) (C. Wilson ed. 1999). The
+CFPB's design strips the people of this power.
+   The Federal Reserve's earnings represent “specific
+charges for specifc services to specifc individuals or compa-
+nies.” FPC v. New England Power Co., 415 U. S. 345, 349
+(1974). It would be “a sharp break with our traditions” to
+allow the CFPB to use these earnings to fund a broader
+array of governmental activities that have little-to-no rela-
+tionship with those specifc charges, services, and regulated
+Page Proof Pending Publication
+entities. National Cable Television Assn., Inc. v. United
+States, 415 U. S. 336, 341 (1974). By allowing the CFPB to
+use the Federal Reserve's earnings to enforce and implement
+broader consumer protection laws, Congress impermissibly
+removed the CFPB “from its customary orbit” as an agency,
+authorizing the Bureau to appropriate funds obtained from
+private sources “in the manner of an Appropriations Com-
+mittee.” Ibid. In other words, Congress abdicated its ap-
+propriations authority, an exclusively legislative prerogative.
+Knote v. United States, 95 U. S. 149, 156 (1877). But Con-
+gress lacks the authority to “transfer to another branch pow-
+ers which are strictly and exclusively legislative.” Gundy
+v. United States, 588 U. S. 128, 135 (2019) (plurality opinion)
+(internal quotation marks omitted).
+   In sum, the CFPB's unprecedented combination of funding
+features affords it the very kind of fnancial independence
+that the Appropriations Clause was designed to prevent. It
+is not an exaggeration to say that the CFPB enjoys a degree
+of fnancial autonomy that a Stuart king would envy.
+470 CONSUMER FINANCIAL PROTECTION BUREAU v. COMMU-
+     NITY FINANCIAL SERVICES ASSN. OF AMERICA, LTD.
+                   Alito, J., dissenting
+
+                                   C
+   This autonomy has real-world consequences. The CFPB
+is a powerful agency with the authority to impose “substan-
+tive rules [on] a wide swath of industries” and “lev[y] knee-
+buckling penalties against private citizens.” Seila Law, 591
+U. S., at 222, n. 8. In the last several months alone, the Bu-
+reau has announced plans to effectuate not one, but three
+major changes in consumer protection law. The CFPB has
+issued guidance cautioning fnancial institutions from “deny-
+ing credit to individuals based on their [illegal] immigration
+status, regardless of their personal circumstances and dem-
+onstrated ability to repay.” 17 It has also begun “a rule-
+making process to remove medical bills from Americans'
+credit reports” 18 and to cap overdraft fees “at an established
+benchmark—as low as $3.” 19 These may or may not be wise
+policies, but Congress did not specifcally authorize any of
+them, and if the CFPB's fnancing scheme is sustained, Con-
+Page Proof Pending Publication
+gress cannot control or monitor the CFPB's use of funds to
+implement such changes. That is precisely what the Appro-
+priations Clause was meant to prevent.
+
+                            *      *     *
+  The Court holds that the Appropriations Clause is satisfed
+by any law that authorizes the Executive to take any amount
+of money from any source for any period of time for any
+lawful purpose. That holding has the virtue of clarity, but
+
+  17
+      Press Release, Consumer Financial Protection Bureau, CFPB and Jus-
+tice Department Issue Joint Statement Cautioning That Financial Institu-
+tions May Not Use Immigration Status To Illegally Discriminate Against
+Credit Applicants (Oct. 12, 2023).
+   18
+      Press Release, Consumer Financial Protection Bureau, CFPB Kicks
+Off Rulemaking To Remove Medical Bills From Credit Reports (Sept.
+21, 2023).
+   19
+      Press Release, Consumer Financial Protection Bureau, CFPB Pro-
+poses Rule To Close Bank Overdraft Loophole That Costs Americans Bil-
+lions Each Year in Junk Fees (Jan. 17, 2024).
+                       Cite as: 601 U. S. 416 (2024)                     471
+
+                           Alito, J., dissenting
+
+such clarity comes at too high a price. There are times
+when it is our duty to say simply that a law that blatantly
+attempts to circumvent the Constitution goes too far. This
+is such a case. Today's decision is not faithful to the original
+understanding of the Appropriations Clause and the centu-
+ries of history that gave birth to the appropriations require-
+ment,20 and I therefore respectfully dissent.
+
+
+
+
+Page Proof Pending Publication
+
+
+
+
+   20
+      At the end of its opinion, the Court suggests that broad separation of
+powers principles may provide more protection for Congress's power of
+the purse than does the Appropriations Clause. Ante, at 437–438. But
+we do not generally resort to broad principles when a provision of the
+Constitution specifcally addresses the question at hand. See County of
+Sacramento v. Lewis, 523 U. S. 833, 843 (1998). At any rate, since the
+decision below relied on both the Appropriations Clause and broad separa-
+tion of powers principles, 51 F. 4th 616, 635 (CA5 2022), it is not clear why
+the Court does not proceed to apply those principles.
+                           Reporter’s Note
+
+  The attached opinion has been revised to refect the usual publication
+and citation style of the United States Reports. The revised pagination
+makes available the offcial United States Reports citation in advance of
+publication. The syllabus has been prepared by the Reporter of Decisions
+for the convenience of the reader and constitutes no part of the opinion of
+the Court. A list of counsel who argued or fled briefs in this case, and
+who were members of the bar of this Court at the time this case was
+Page Proof Pending Publication
+argued, has been inserted following the syllabus. Other revisions may
+include adjustments to formatting, captions, citation form, and any errant
+punctuation. The following additional edits were made:
+
+p. 417, last line: “the” is inserted before “Customs”
+p. 430, line 16 from bottom: “the” is inserted before “duties”
+p. 440, lines 12 and 13 from bottom: “purposes for” is replaced with
+   “ways in”
+p. 463, n. 13, line 9: the frst instance of “be” is deleted
+p. 467, line 5: “to” is inserted before “those”

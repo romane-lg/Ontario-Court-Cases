@@ -1,0 +1,295 @@
+Cite as: 601 U. S. ____ (2024)            1
+
+                   SOTOMAYOR, J., dissenting
+
+SUPREME COURT OF THE UNITED STATES
+          DILLION GAGE COMPTON v. TEXAS
+  ON PETITION FOR WRIT OF CERTIORARI TO THE COURT OF
+              CRIMINAL APPEALS OF TEXAS
+              No. 23–5682. Decided April 15, 2024
+
+   The petition for a writ of certiorari is denied.
+   JUSTICE SOTOMAYOR, with whom JUSTICE JACKSON joins,
+dissenting from the denial of certiorari.
+   “The Constitution forbids striking even a single prospec-
+tive juror for a discriminatory purpose.” Flowers v. Missis-
+sippi, 588 U. S. 284, 303 (2019). A pattern of strikes against
+jurors with the same race or sex suggests that a prosecutor
+is striking jurors based on impermissible stereotypes about
+those protected characteristics rather than the juror’s indi-
+vidual views. “More powerful than these bare statistics,
+however, are side-by-side comparisons of [jurors with cer-
+tain protected characteristics] who were struck and [jurors
+without those characteristics] allowed to serve.” Miller-El
+v. Dretke, 545 U. S. 231, 241 (2005). “If a prosecutor’s prof-
+fered reason for striking a [female] panelist applies just as
+well to an otherwise-similar [male] who is permitted to
+serve, that is evidence tending to prove purposeful discrim-
+ination.” Ibid. A prosecutor may claim that he is striking
+a woman based on her hesitation to impose the death pen-
+alty. When the prosecutor fails to strike a man who has
+expressed even greater hesitancy, however, it indicates that
+the woman was struck based on unconstitutional stereo-
+types about women rather than objective facts.
+   In this capital case, prosecutors used 13 of their 15 per-
+emptory strikes on women. They offered only one justifica-
+tion in each case: the woman’s views on the death penalty.
+In reviewing the challenged jurors, the Texas Court of
+Criminal Appeals (TCCA) failed to conduct a side-by-side
+2                   COMPTON v. TEXAS
+
+                   SOTOMAYOR, J., dissenting
+
+comparison. Instead, it tested the prosecution’s justifica-
+tion in the aggregate, looking to the women’s views on cap-
+ital punishment as a group instead of individually. That
+legal error hid the best indication of discriminatory pur-
+pose. Under a side-by-side comparison, it is clear that at
+least one woman struck by the State had more favorable
+views on the death penalty than at least one man the State
+did not strike. I would summarily vacate the decision below
+and remand for the TCCA to apply the proper comparative
+analysis.
+                               I
+                               A
+  Dillion Gage Compton was charged with capital murder
+for the death of a prison guard. After voir dire, there were
+42 qualified venirepersons for a 12-person jury. Of those 42
+potential jurors, 23 were women and 19 were men, making
+the initial pool 55% women. The State used 13 of its 15
+strikes on women. After both sides submitted their strikes,
+the 12-person jury consisted of only four women and eight
+men, or 33% women.
+  Compton challenged the State’s peremptory strikes based
+on J. E. B. v. Alabama ex rel. T. B., 511 U. S. 127 (1994),
+arguing that the State had discriminated based on gender.
+In response, the prosecutor explained he was “certainly fo-
+cused almost single-han[dedly] on the issue of the death
+penalty.” 21 Tr. 16 (Sept. 25, 2018). The defense objected
+that the “gender basis has not been explained to the Court
+sufficiently.” Id., at 18. The trial court denied the chal-
+lenge.
+  After trial, the jury convicted Compton of capital murder.
+The trial court sentenced him to death.
+                           B
+    On appeal, Compton again challenged the State’s per-
+                  Cite as: 601 U. S. ____ (2024)            3
+
+                   SOTOMAYOR, J., dissenting
+
+emptory strikes under J. E. B. Compton identified four fe-
+male potential jurors struck by the State for whom the rec-
+ord allegedly did not support the State’s rationale. He iden-
+tified three male potential jurors who expressed views on
+the death penalty as or less favorable than the struck
+women. The State defended its views-on-the-death-penalty
+rationale for each struck woman but never compared their
+views with those of the men it did not strike. Thus, it did
+not respond to Compton’s comparative argument that the
+State had retained men with similar views on the death
+penalty to the struck women.
+   In evaluating the J. E. B. challenge, the TCCA deter-
+mined that Compton had made a prima facie showing of
+bias under the first step of Batson v. Kentucky, 476 U. S. 79
+(1986). Under the second step, the court reasoned that the
+State had provided a gender-neutral reason for the strikes:
+that “each individual . . . expressed more concern, hesita-
+tion, or opposition to imposing the death penalty than those
+venirepersons the State chose not to strike.” 666 S. W. 3d
+685, 711 (Tex. Crim. App. 2023).
+   In examining whether that reason was pretextual under
+the third step, the TCCA found the “statistical evidence . . .
+concerning.” Ibid. It noted that the State’s use of 13 of 15
+peremptory strikes against women combined with “the fact
+that only four women made it onto the jury despite the
+panel having more women than men does raise concerns.”
+Ibid.
+   The court then purported to examine “[s]ide-by-side com-
+parisons of stricken and accepted venirepersons.” Ibid. It
+declined to “engag[e] in an exhaustive comparative analysis
+of each prospective juror.” Ibid. Despite claiming to “[c]om-
+par[e] [the male] venirepersons to the female venirepersons
+struck by the State,” id., at 712, the TCCA failed to examine
+individually the four female potential jurors identified by
+4                        COMPTON v. TEXAS
+
+                       SOTOMAYOR, J., dissenting
+
+Compton as having favorable views on the death penalty.1
+Instead, it conducted its analysis entirely in the aggregate.
+It concluded that “the State was, in fact, focused on death-
+penalty issues and struck most of the female venirepersons
+based on their responses” that indicated reservations about
+the death penalty. Id., at 711 (emphasis added). The TCCA
+reasoned by bullet point that:
+       “Most of the State-stricken female venirepersons rated
+        themselves a three or four on a scale of one-to-six when
+        asked about their support for the death penalty;
+       “Most said they were generally opposed to the death
+        penalty except in a few cases, or that they were neutral
+        on the appropriateness of the death penalty;
+       “Nearly all disagreed that the death penalty ‘gives the
+        criminal what they deserve;’
+       “Nearly all expressed some favorable views about the
+        option of life without parole, the possibility of rehabili-
+        tation, religious redemption, and/or the fact that life
+        without parole forces offenders to live with the conse-
+        quences of their crimes;
+       “Nearly all agreed that life without parole could be an
+        adequate punishment for capital murder;
+       “Some, but not all, emphasized a defendant’s back-
+        ground and upbringing as relevant factors in assessing
+        whether the death penalty versus life without parole
+        was appropriate.” Id., at 711–712 (emphasis added).
+
+——————
+   1 The TCCA knew how to conduct a side-by-side comparison. Compton
+
+also challenged three strikes based on Batson v. Kentucky, 476 U. S. 79
+(1986), arguing that the State discriminated based on race. The State
+struck one Black man, one Black woman, and one Hispanic man. The
+resulting 12-person jury included 1 Hispanic man and 11 white people.
+The TCCA conducted side-by-side comparisons of the struck jurors and
+three unstruck white male comparators. See 666 S. W. 3d, at 700–710.
+It inexplicably failed to do so for the J. E. B. challenge, which required
+equally scrupulous consideration.
+                  Cite as: 601 U. S. ____ (2024)             5
+
+                    SOTOMAYOR, J., dissenting
+
+The TCCA held that “[c]omparatively speaking, the veni-
+repersons—men and women—who were not struck by the
+State generally expressed more favorable views towards the
+death penalty and less favorable views towards the life-
+without-parole option and mitigating evidence than did the
+female venirepersons described above.” Id., at 712 (empha-
+sis added). It distinguished the three male comparators not
+struck by the State as “overall favorable for the State’s pre-
+ferred punishment.” Ibid. (emphasis added). It rejected
+Compton’s J. E. B. claim and affirmed the trial court’s judg-
+ment of conviction and sentence of death.
+                               II
+   This Court has repeatedly emphasized that the “Consti-
+tution forbids striking even a single prospective juror for a
+discriminatory purpose.” Flowers, 588 U. S., at 303; Foster
+v. Chatman, 578 U. S. 488, 499 (2016); Snyder v. Louisiana,
+552 U. S. 472, 478 (2008). Challenges to jury selection
+based on unconstitutional proxies like race, see Batson, 476
+U. S., at 96, or gender, see J. E. B., 511 U. S., at 128, exist
+to protect the equal protection rights of “potential jurors, as
+well as [defendants], . . . to jury selection procedures that
+are free from state-sponsored group stereotypes,” ibid.
+These challenges guard against prosecutorial bias: not only
+the perception that a prospective juror might favor a de-
+fendant because they share a protected characteristic, but
+that a prospective juror might hold a particular view be-
+cause of a stereotype based on race or gender. See id., at
+141–142; Batson, 476 U. S., at 104–105 (Marshall, J., con-
+curring).
+   The third step of this Court’s test in particular protects
+against impermissible stereotypes by checking the State’s
+proffered reason against its other decisions. “If a prosecu-
+tor’s proffered reason for striking a [female] panelist applies
+just as well to an otherwise-similar [male] who is permitted
+6                    COMPTON v. TEXAS
+
+                   SOTOMAYOR, J., dissenting
+
+to serve, that is evidence tending to prove purposeful dis-
+crimination to be considered at Batson’s third step.” Dretke,
+545 U. S., at 241.
+   Here, the TCCA failed to conduct that important side-by-
+side comparison of struck female jurors against male jurors
+permitted to serve. Before the trial court, the TCCA, and
+this Court, the State offered only one reason for striking
+these women: their hesitations about imposing the death
+penalty. If a struck female panelist’s views on the death
+penalty were more favorable than an otherwise-similar
+man permitted to serve, that would be strong evidence of
+invidious discrimination under Batson’s third step. Yet the
+TCCA evaluated the strikes only in the aggregate, reason-
+ing that “most” or “nearly all” struck women expressed
+views less favorable toward the death penalty than the men
+permitted to serve. That analysis directly contradicts the
+principle that striking even one prospective juror for a dis-
+criminatory reason violates the Constitution.
+   Considering only one example in this record suggests that
+the prosecutor’s proffered reason was pretextual. V. P., a
+female juror struck by the prosecutors, strongly supported
+capital punishment. V. P. rated herself a five out of six in
+terms of her support for the death penalty. She endorsed
+punishment as more important than rehabilitation and
+agreed that capital punishment was “absolutely justified”
+and “just and necessary.” 14 Record 5912. She was “con-
+cern[ed]” about life in prison instead of the death penalty
+because sometimes the prisoner could “continu[e] to do
+harm to others while in prison.” Id., at 5914. When ques-
+tioned about mitigation during voir dire, she said that read-
+ing the mitigation special issues made her angry, because
+“some people use just whatever—you know, they blame—I
+don’t like the blame game.” 17 Tr. 180 (Sept. 17, 2018).
+   In contrast, the State did not strike a male prospective
+juror who expressed less favorable views of the death pen-
+                      Cite as: 601 U. S. ____ (2024)                     7
+
+                       SOTOMAYOR, J., dissenting
+
+alty. That prospective juror, P. K., wrote that he was op-
+posed to the death penalty except in some cases, and that
+he would be “very conflicted” about returning a verdict of
+death, underlining “very” for emphasis. 12 Record 5252,
+5256. He agreed that “[c]apital punishment is not neces-
+sary in modern civilization” and embraced the idea that
+“[e]xecution of criminals is a disgrace to civilized society.”
+Id., at 5257. He thought that Texas used the death penalty
+“too often.” Id., at 5261.
+   This case illustrates the hazards of analysis by aggregate.
+The TCCA may have been right that most of the struck
+women expressed less favorable views on the death penalty
+than most of the men permitted to serve. When the State,
+however, extends a reason true of many female potential
+jurors to another female potential juror not based on what
+she says, but based on the fact that she is a woman, it
+crosses the line into invidious discrimination. Just because
+most female potential jurors had hesitations about the
+death penalty does not mean that V. P. did.
+   The State never offered any justification other than fe-
+male potential jurors’ views on the death penalty for its
+strikes.2 The TCCA erred when it allowed the views of
+other female prospective jurors to infect its assessment of
+the State’s justification for V. P.’s strike.
+
+——————
+   2 In the State’s brief before the TCCA, it emphasized that V. P. “was
+
+struck by the State and the defense.” Brief for Appellee in No. AP–
+77,087, p. 47. A strike by the defense, however, is irrelevant to a Batson
+or J. E. B. inquiry, which focuses “solely on evidence concerning the pros-
+ecutor’s exercise of peremptory challenges.” Batson, 476 U. S., at 96; see
+also Miller-El v. Dretke, 545 U. S. 231, 255, n. 14 (2005) (“[Defendant’s]
+shuffles are flatly irrelevant to the question whether prosecutors’ shuf-
+fles revealed a desire to exclude blacks”). Indeed, it makes sense that
+Compton sought to exclude a juror like V. P. who expressed such pro-
+death penalty views. Moreover, this evidence of potential bias against
+V. P. could have informed the challenges against the three other struck
+women Compton identified.
+8                    COMPTON v. TEXAS
+
+                    SOTOMAYOR, J., dissenting
+
+                         *      *    *
+  “America’s trial judges operate at the front lines of Amer-
+ican justice.” Flowers, 588 U. S., at 302. They bear “the
+primary responsibility to enforce Batson and prevent . . .
+discrimination from seeping into the jury selection process.”
+Ibid. That responsibility requires scrutinizing the prosecu-
+tor’s proffered reason for a peremptory strike by comparing
+any struck juror challenged by the defense with a retained
+juror who does not share the same protected characteristic.
+When a court conducts a Batson or J. E. B. inquiry not
+based on individual comparisons but by aggregate, it too
+runs the risk of generalizing based on impermissible stere-
+otypes. I would summarily vacate the decision below and
+remand for the TCCA to correct its legally erroneous anal-
+ysis with respect to the J. E. B.-challenged jurors. I respect-
+fully dissent.

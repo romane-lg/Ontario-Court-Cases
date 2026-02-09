@@ -1,0 +1,209 @@
+Cite as: 604 U. S. ____ (2024)            1
+
+                  Statement of SOTOMAYOR, J.
+
+SUPREME COURT OF THE UNITED STATES
+     VICKI BAKER v. CITY OF MCKINNEY, TEXAS
+   ON PETITION FOR WRIT OF CERTIORARI TO THE UNITED
+    STATES COURT OF APPEALS FOR THE FIFTH CIRCUIT
+            No. 23–1363. Decided November 25, 2024
+
+   The petition for a writ of certiorari is denied.
+   Statement of JUSTICE SOTOMAYOR, with whom JUSTICE
+GORSUCH joins, respecting the denial of certiorari.
+   The Takings Clause of the Fifth Amendment provides
+that private property shall not “be taken for public use,
+without just compensation.” This case raises an important
+question that has divided the courts of appeals: whether the
+Takings Clause requires compensation when the govern-
+ment damages private property pursuant to its police
+power.
+   On July 25, 2020, in McKinney, Texas, a fugitive named
+Wesley Little kidnapped a 15-year-old girl. After evading
+the police in a high-speed car chase, Little found his way to
+petitioner Vicki Baker’s home with his victim in tow. Little
+was familiar with the home because he had previously
+worked there as a handyman. Baker had recently retired
+and moved to Montana, so her daughter Deanna Cook was
+at the house that day, preparing to put it up for sale. When
+Cook answered the door, she recognized Little and the child
+with him: Earlier that day, Cook saw on Facebook that Lit-
+tle was on the run with a teenage girl. Cook feigned igno-
+rance and let them into the house, but told Little, falsely,
+that she had to go to the supermarket. Once outside, Cook
+called Baker, who called the police.
+   McKinney police arrived soon after and set up a perime-
+ter around Baker’s home. Eventually, Little released the
+girl and she exited the house. The girl told the police that
+Little was hiding in the attic, that he was armed, and that
+2                   BAKER v. CITY OF MCKINNEY
+
+                      Statement of SOTOMAYOR, J.
+
+he was high on methamphetamine. Later, while still in the
+attic, Little told the police that he was not going back to
+prison, that he knew he was going to die, and that he
+planned to shoot it out with the police. To resolve the stand-
+off and protect the surrounding community, the police tried
+to draw Little out by launching dozens of tear gas grenades
+into the home. When that did not work, the officers deto-
+nated explosives to break down the front and garage doors
+and used a tank-like vehicle to bulldoze the home’s back-
+yard fence. By the time the officers gained entry, Little had
+taken his own life. All agree that the McKinney police acted
+properly that day and that their actions were necessary to
+prevent harm to themselves and the public.
+  The actions of the police also caused extensive damage to
+Baker’s home and personal belongings, however. As the
+District Court explained:
+     “‘The explosions left Baker’s dog permanently blind
+     and deaf. The toxic gas that permeated the House re-
+     quired the services of a HAZMAT remediation team.
+     Appliances and fabrics were irreparable. Ceiling fans,
+     plumbing, floors (hard surfaces as well as carpet), and
+     bricks needed to be replaced—in addition to the win-
+     dows, blinds, fence, front door, and garage door. Essen-
+     tially all of the personal property in the House was de-
+     stroyed, including an antique doll collection left to
+     Baker by her mother.’”
+84 F. 4th 378, 380–381 (CA5 2023). In total, the damage
+amounted to approximately $50,000. Id., at 381. Baker’s
+insurance refused to cover any damage caused by the
+McKinney police.* Baker, who bore no responsibility for
+——————
+   *Homeowners’ insurance policies generally do not provide coverage for
+damage caused by the government. See 10A., J. Plitt, D. Maldonado, &
+J. Rogers, Couch on Insurance §152:22 (3d ed. Supp. 2024) (explaining
+that “losses [that] occur because of the actions of a civil authority func-
+tioning in its ordinary governing capacity” are “typically excluded from
+                     Cite as: 604 U. S. ____ (2024)         3
+
+                      Statement of SOTOMAYOR, J.
+
+what had occurred at her home, then filed a claim for prop-
+erty damage with the city. The city denied the claim in its
+entirety. Baker thereafter sued the city, alleging a violation
+of the Takings Clause. At the summary judgment stage,
+the District Court held that the City’s destruction of Baker’s
+property was a compensable taking under the Fifth Amend-
+ment. Baker v. McKinney, 601 F. Supp. 3d 124, 144 (E. D.
+Tex. 2022). Following trial, a jury awarded Baker nearly
+$60,000 in damages.
+   On appeal, the Fifth Circuit reversed. The court declined
+to adopt the city’s broad assertion that the Takings Clause
+never requires compensation when a government agent de-
+stroys property pursuant to its police power. Such a broad
+categorical rule, the Fifth Circuit reasoned, was at odds
+with its own precedent and this Court’s Takings Clause ju-
+risprudence. Baker, 84 F. 4th, at 383–384. Instead, the
+Fifth Circuit adopted a narrower rule that it understood to
+be compelled by history and precedent: The Takings Clause
+does not require compensation for damaged property when
+it was “objectively necessary” for officers to damage the
+property in an active emergency to prevent imminent harm
+to persons. Id., at 385–388. Because the parties agreed
+that the McKinney police’s actions were objectively neces-
+sary, the Fifth Circuit concluded that Baker was not enti-
+tled to compensation. Id., at 388. Baker now petitions for
+certiorari and asks this Court to reverse the Fifth Circuit’s
+judgment.
+   The Court’s denial of certiorari expresses no view on the
+merits of the decision below. I write separately to empha-
+size that petitioner raises a serious question: whether the
+Takings Clause permits the government to destroy private
+property without paying just compensation, as long as the
+government had no choice but to do so. Had McKinney
+
+——————
+most property insurance policies”).
+4               BAKER v. CITY OF MCKINNEY
+
+                  Statement of SOTOMAYOR, J.
+
+razed Baker’s home to build a public park, Baker undoubt-
+edly would be entitled to compensation. Here, the McKin-
+ney police destroyed Baker’s home for a different public
+benefit: to protect local residents and themselves from an
+armed and dangerous individual. Under the Fifth Circuit’s
+decision, Baker alone must bear the cost of that public ben-
+efit.
+   The text of the Takings Clause states that private prop-
+erty may not “be taken for public use, without just compen-
+sation.” The Takings Clause was “designed to bar Govern-
+ment from forcing some people alone to bear public burdens
+which, in all fairness and justice, should be borne by the
+public as a whole.” Armstrong v. United States, 364 U. S.
+40, 49 (1960). This Court has yet to squarely address
+whether the government can, pursuant to its police power,
+require some individuals to bear such a public burden.
+   This Court’s precedents suggest that there may be, at a
+minimum, a necessity exception to the Takings Clause
+when the destruction of property is inevitable. Consider
+Bowditch v. Boston, 101 U. S. 16 (1879), in which the Court
+held that a building owner was not entitled to compensation
+after firefighters destroyed his building to stop a fire from
+spreading. Id., at 18 (“At the common law every one had
+the right to destroy real and personal property, in cases of
+actual necessity, to prevent the spreading of a fire, and
+there was no responsibility on the part of such destroyer,
+and no remedy for the owner”). Bowditch interpreted Mas-
+sachusetts state law, but subsequent cases have relied on
+Bowditch in the Takings Clause context. Similarly, in
+United States v. Caltex (Philippines), Inc., 344 U. S. 149
+(1952), this Court held that the Takings Clause did not re-
+quire the Government to pay compensation for its destruc-
+tion of oil companies’ terminal facilities amid a military in-
+vasion. The destruction of that property during wartime
+was necessary, the Court explained, “to prevent the enemy
+from realizing any strategic value from an area which he
+                  Cite as: 604 U. S. ____ (2024)             5
+
+                   Statement of SOTOMAYOR, J.
+
+was soon to capture.” Id., at 155. That holding accorded
+with the common-law principle “that in times of imminent
+peril—such as when fire threatened a whole community—
+the sovereign could, with immunity, destroy the property of
+a few that the property of many and the lives of many more
+could be saved.” Id., at 154. These cases do not resolve
+Baker’s claim, however, because the destruction of her
+property was necessary, but not inevitable. Whether the
+inevitable-destruction cases should extend to this distinct
+context remains an open question.
+   Only a few Courts of Appeals have weighed in on the ex-
+tent to which the Takings Clause applies to exercises of the
+police power. Unlike the Fifth Circuit, the Seventh Circuit
+and Federal Circuit have held that “the Takings Clause
+does not apply when property is retained or damaged as the
+result of the government’s exercise of its authority pursuant
+to some power other than the power of eminent domain.”
+Johnson v. Manitowoc County, 635 F. 3d 331, 336 (CA7
+2011); AmeriSource Corp. v. United States, 525 F. 3d 1149,
+1154 (CA Fed 2008). The Sixth Circuit rejected a takings
+claim similar to the one here, without addressing any pur-
+ported exceptions to the Takings Clause, because the plain-
+tiffs “failed to identify any history or precedent establishing
+that the police have ‘taken’ their ‘property’ within the
+meaning of the Fifth Amendment when the police damaged
+the property while conducting a lawful arrest.” Slaybaugh
+v. Rutherford County, 114 F. 4th 593, 603 (2024); see also
+Lech v. Jackson, 791 Fed. Appx. 711, 717 (CA10 2019)
+(“[W]hen the state acts pursuant to its police power, rather
+than the power of eminent domain, its actions do not con-
+stitute a taking for purposes of the Takings Clause”). The
+Fourth Circuit, meanwhile, has held “[t]hat Government
+actions taken pursuant to the police power are not per se
+exempt from the Takings Clause.” Yawn v. Dorchester
+County, 1 F. 4th 191, 195 (2021). All those decisions, save
+6               BAKER v. CITY OF MCKINNEY
+
+                  Statement of SOTOMAYOR, J.
+
+the Sixth Circuit’s, however, predate the Fifth Circuit’s de-
+termination that there is an “objectively necessary” excep-
+tion to the Takings Clause. Whether any such exception
+exists (and how the Takings Clause applies when the gov-
+ernment destroys property pursuant to its police power) is
+an important and complex question that would benefit from
+further percolation in the lower courts prior to this Court’s
+intervention.

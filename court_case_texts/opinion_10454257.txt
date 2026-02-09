@@ -1,0 +1,96 @@
+Cite as: 603 U. S. ____ (2024)            1
+
+                     THOMAS, J., dissenting
+
+SUPREME COURT OF THE UNITED STATES
+  ALLSTATES REFRACTORY CONTRACTORS, LLC v.
+   JULIE A. SU, ACTING SECRETARY OF LABOR,
+                     ET AL.
+
+   ON PETITION FOR WRIT OF CERTIORARI TO THE UNITED
+    STATES COURT OF APPEALS FOR THE SIXTH CIRCUIT
+                No. 23–819.   Decided July 2, 2024
+
+   The petition for a writ of certiorari is denied. JUSTICE
+GORSUCH would grant the petition for a writ of certiorari.
+   JUSTICE THOMAS, dissenting from the denial of certiorari.
+   Congress gave the Occupational Safety and Health Ad-
+ministration the power to enact and enforce any workplace-
+safety standard that it deems “reasonably necessary or ap-
+propriate.” 29 U. S. C. §§652(8), 655(b). This petition asks
+us to consider whether that grant of authority is an uncon-
+stitutional delegation of legislative power. Because the
+standard this Court currently applies to determine whether
+Congress has impermissibly delegated legislative power
+“largely abdicates our duty to enforce that prohibition,” I
+would grant the petition. Department of Transportation v.
+Association of American Railroads, 575 U. S. 43, 77 (2015)
+(THOMAS, J., concurring in judgment).
+   The Constitution vests “[a]ll legislative Powers herein
+granted . . . in a Congress of the United States.” Art. I, §1.
+And, “[w]e have held that the Constitution categorically for-
+bids Congress to delegate its legislative power to any other
+body,” including to an administrative agency. Association
+of American Railroads, 575 U. S., at 77 (opinion of THOMAS,
+J.); see also Whitman v. American Trucking Assns., Inc.,
+531 U. S. 457, 472 (2001). But, under our precedents, a del-
+egation of authority is constitutional so long as the relevant
+statute sets out an “ ‘intelligible principle’ ” to guide the
+agency’s exercise of authority. Id., at 472. The Court of
+2    ALLSTATES REFRACTORY CONTRACTORS, LLC v. SU
+
+                     THOMAS, J., dissenting
+
+Appeals for the Sixth Circuit upheld the delegation of au-
+thority to the Occupational Safety and Health Administra-
+tion under this “intelligible principle” test, over Judge Nal-
+bandian’s dissent. 79 F. 4th 755, 760 (2023).
+   I continue to adhere to my view that the intelligible prin-
+ciple test “does not adequately reinforce the Constitution’s
+allocation of legislative power.” Association of American
+Railroads, 575 U. S., at 77 (opinion of THOMAS, J.); see also
+Gundy v. United States, 588 U. S. 128, 164 (2019)
+(GORSUCH, J., dissenting) (explaining that our current in-
+telligible principle test “has no basis in the original mean-
+ing of the Constitution, in history, or even in [our prece-
+dents]”). This case exemplifies the problem. Congress
+purported to empower an administrative agency to impose
+whatever workplace-safety standards it deems “appropri-
+ate.” That power extends to virtually every business in the
+United States. See §654(a)(2); §652(5) (defining the regu-
+lated “employer[s]” as any “person engaged in a business
+affecting commerce who has employees”). The agency
+claims authority to regulate everything from a power
+lawnmower’s design, 29 CFR §1910.243(e) (2023), to the
+level of “contact between trainers and whales at SeaWorld,”
+SeaWorld of Florida, LLC v. Perez, 748 F. 3d 1202, 1220
+(CADC 2014) (Kavanaugh, J., dissenting).
+   The Occupational Safety and Health Act may be the
+broadest delegation of power to an administrative agency
+found in the United States Code. See C. Sunstein, Is OSHA
+Unconstitutional? 94 Va. L. Rev. 1407, 1448 (2008) (“No
+other federal regulatory statute confers so much discretion
+on federal administrators, at least in any area with such
+broad scope”). If this far-reaching grant of authority does
+not impermissibly confer legislative power on an agency, it
+is hard to imagine what would. It would be no less objec-
+tionable if Congress gave the Internal Revenue Service au-
+thority to impose any tax on a particular person that it
+deems “appropriate,” and I doubt any jurist would sustain
+                  Cite as: 603 U. S. ____ (2024)            3
+
+                     THOMAS, J., dissenting
+
+such a delegation.
+   The question whether the Occupational Health and
+Safety Administration’s broad authority is consistent with
+our constitutional structure is undeniably important. At
+least five Justices have already expressed an interest in re-
+considering this Court’s approach to Congress’s delegations
+of legislative power. See Paul v. United States, 589 U. S.
+___, ___ (2019) (statement of KAVANAUGH, J., respecting de-
+nial of certiorari) (slip op., at 2); Gundy, 588 U. S., at 149
+(ALITO, J., concurring in judgment); id., at 164 (GORSUCH,
+J., joined by ROBERTS, C. J., and THOMAS, J., dissenting).
+Because this petition is an excellent vehicle to do exactly
+that, I would grant review.

@@ -1,0 +1,356 @@
+Cite as: 600 U. S. ____ (2023)             1
+
+                      ALITO, J., dissenting
+
+SUPREME COURT OF THE UNITED STATES
+ STACEY A. KINCAID, SHERIFF, FAIRFAX COUNTY,
+        VIRGINIA v. KESHA T. WILLIAMS
+   ON PETITION FOR WRIT OF CERTIORARI TO THE UNITED
+   STATES COURT OF APPEALS FOR THE FOURTH CIRCUIT
+               No. 22–633.   Decided June 30, 2023
+
+   The petition for a writ of certiorari is denied.
+   JUSTICE ALITO, with whom JUSTICE THOMAS joins, dis-
+senting from the denial of certiorari.
+   This case presents a question of great national im-
+portance that calls out for prompt review. The Fourth Cir-
+cuit has effectively invalidated a major provision of the
+Americans with Disabilities Act (ADA), and that decision is
+certain to have far-reaching and highly controversial ef-
+fects. The ADA provides that “transvestism,” “transsexual-
+ism,” “gender identity disorders not resulting from physical
+impairments,” and “other sexual behavior disorders” are
+not “ ‘disabilit[ies]’ ” within the meaning of its terms. 42
+U. S. C. §12211(b). Nevertheless, the Fourth Circuit held
+that because “gender identity disorder” is a “now-obsolete”
+term in the field of psychiatry, that statutory category “no
+longer exists” and has therefore ceased to have any effect.
+45 F. 4th 759, 768–769, and n. 5 (2022) (emphasis in origi-
+nal). As a result, all entities covered by the ADA must make
+“accommodations” for any “feeling[s] of stress and discom-
+fort” that result from a person’s “assigned sex.” Id., at 768
+(internal     quotation      marks     omitted);    see,  e.g.,
+§§12112(b)(5)(A), 12182(b)(2)(A)(ii).
+   This decision will raise a host of important and sensitive
+questions regarding such matters as participation in
+women’s and girls’ sports, access to single-sex restrooms
+and housing, the use of traditional pronouns, and the ad-
+2                   KINCAID v. WILLIAMS
+
+                      ALITO, J., dissenting
+
+ministration of sex reassignment therapy (both the perfor-
+mance of surgery and the administration of hormones) by
+physicians and at hospitals that object to such treatment on
+religious or moral grounds.
+  If the Fourth Circuit’s decision is correct, there should be
+no delay in providing the protection of the ADA to all Amer-
+icans who suffer from “feeling[s] of stress and discomfort”
+resulting from their “assigned sex.” But if the Fourth Cir-
+cuit’s decision is wrong—and there is certainly a reasonable
+argument to that effect—then the 32 million residents of
+the Fourth Circuit should not have to bear the conse-
+quences while other courts wrestle with the same legal is-
+sue.
+  There are times when it is prudent for this Court to deny
+review of a questionable court of appeals decision because
+we may learn from the way in which other courts of appeals
+and district courts handle the same question, but in this
+case that prudential consideration is not sufficient to justify
+the denial of prompt review. The majority and dissenting
+opinions below lay out the opposing arguments, and if we
+granted review, we would undoubtedly receive thorough
+briefing from the parties and in amicus briefs filed by ex-
+perts and other interested parties, including in all likeli-
+hood the Federal Government. Under these circumstances,
+in my judgment, there is no good reason for delay.
+                               I
+   The ADA was landmark legislation that resulted from a
+bipartisan effort to “eliminate unwarranted discrimination
+against disabled individuals in order both to guarantee
+those individuals equal opportunity and to provide the Na-
+tion with the benefit of their consequently increased
+productivity.” Cleveland v. Policy Management Systems
+Corp., 526 U. S. 795, 801 (1999). In light of its bold ambi-
+tions, the ADA sweeps across nearly every facet of public
+life. It binds all employers of meaningful size and demands
+                  Cite as: 600 U. S. ____ (2023)             3
+
+                      ALITO, J., dissenting
+
+that they refrain from various forms of discrimination and,
+in certain circumstances, requires that they offer needed
+accommodations. 42 U. S. C. §§12111(5), 12112(a), (b). It
+requires all state and local government entities to ensure
+that no one is “excluded from participation in or . . . denied
+the benefits of ” public programs and services “by reason of
+[a] disability.” §12132. It requires a wide variety of private
+entities, including numerous businesses and private
+schools, to ensure that persons with disabilities receive “the
+full and equal enjoyment” of those entities’ “goods, services,
+facilities, privileges, advantages, [and] accommodations” in
+a variety of ways. §§12181(7), 12182.
+   The ADA is far-reaching, but like all other statutes, it has
+its limits. It expressly excludes coverage for a disparate
+group of traits, habits, and mental conditions, including
+sexual orientation, conditions arising from drug use, and
+gambling addiction. §12211. And relevant here, the ADA
+also excludes mental dispositions and conditions that relate
+to gender expression or gender identity. See §12211(b)(1)
+(referring to “transvestism, transsexualism, . . . gender
+identity disorders not resulting from physical impairments,
+or other sexual behavior disorders”); accord, §12208.
+   In this case, the plaintiff, Kesha Williams, brought suit
+against Stacey Kincaid, the sheriff of Fairfax County, Vir-
+ginia, based on alleged mistreatment during a stay in a
+county detention center. Some of Williams’s claims arose
+under state tort law–for example, a gross negligence claim
+based on injuries allegedly inflicted during a body search–
+and Kincaid does not ask us to consider any of those claims.
+Rather, she contends only that she cannot be sued under
+the ADA for failing to accommodate Williams’s “gender dys-
+phoria,” by, among other things, placing Williams in men’s
+housing, failing to offer hormone therapy, and permitting
+“persistent and intentional misgendering and harassment.”
+45 F. 4th, at 763.
+   The Fourth Circuit panel majority found that Williams
+4                   KINCAID v. WILLIAMS
+
+                      ALITO, J., dissenting
+
+had pleaded a covered disability, notwithstanding the ex-
+clusions noted above, and it relied on two separate ration-
+ales.
+   First, the majority found that the condition alleged by
+Williams, i.e., “gender dysphoria,” does not constitute what
+the ADA calls a “gender identity disorder.” The panel ma-
+jority concluded that the term “gender identity disorders”
+in the ADA refers only to a so-named psychological condi-
+tion that was used in the American Psychiatric Associa-
+tion’s Diagnostic and Statistical Manual at the time of the
+ADA’s enactment, and because leading organizations in
+that field no longer recognize that concept, the panel major-
+ity held that the term is now “obsolete.” Id., at 769. In the
+panel majority’s view, the concept of gender identity disor-
+der encompassed all “cross-gender identification,” while the
+now-accepted concept of “gender dysphoria” is defined by
+stress that goes beyond “being trans alone.” Id., at 768–769
+(internal quotation marks omitted). As a result, the panel
+majority reasoned that “gender identity disorder” as a cat-
+egory “no longer exists,” and thus the statutory exclusion is
+without any effect. Id., at 769, n. 5 (emphasis in original).
+   Second, the majority found that Williams had adequately
+pleaded an ADA claim by alleging gender dysphoria result-
+ing from a physical impairment. As noted, the ADA’s defi-
+nition of disability excludes “gender identity disorders not
+resulting from physical impairments,” §12211(b)(1), and
+therefore, if a person’s “gender dysphoria” results from a
+physical impairment, that condition may qualify as a disa-
+bility. The ground on which the majority concluded that
+Williams’s complaint sufficiently alleged a physical impair-
+ment is not entirely clear, but the majority’s reasoning ap-
+pears to be that Williams has a physical need for hormonal
+treatment because, without it, Williams experiences “ ‘phys-
+ical distress.’ ” 45 F. 4th, at 771 (emphasis deleted). In ad-
+dition, the majority noted “medical and scientific research
+identifying possible physical bases of gender dysphoria.”
+                  Cite as: 600 U. S. ____ (2023)             5
+
+                      ALITO, J., dissenting
+
+Ibid.
+   The panel majority sought to bolster its interpretation of
+the ADA by invoking the doctrine of constitutional avoid-
+ance. The majority argued that even if the ADA’s text did
+not require this interpretation, it would nevertheless be
+necessary in order “to avoid a serious constitutional ques-
+tion” under the Equal Protection Clause. Id., at 772. Citing
+Circuit precedent, the majority found that “the ADA’s ex-
+clusion of ‘gender identity disorders’ ” from the definition of
+disability was “evidence of . . . discriminatory animus” by
+Congress, and to support this conclusion, the majority
+pointed to “moral judgment[s]” expressed by legislators who
+backed the exclusion for “gender identity disorders.” Id., at
+773.
+   This ground-breaking interpretation of the ADA is re-
+markable in itself, but the Fourth Circuit panel majority
+went even further and noted that its reasoning applied
+equally to Williams’s claim under the Rehabilitation Act of
+1973, which extends disability-accommodation require-
+ments to a different set of entities that benefit from various
+forms of federal financial assistance. 45 F. 4th, at 765, n. 1;
+see 29 U. S. C. §794.
+   Judge Quattlebaum dissented in relevant part, and set
+out a reasonable contrary argument. Looking to the diag-
+nostic criteria for gender identity disorder in 1990, he con-
+cluded that “when the ADA was signed into law, gender
+identity disorder was understood to include what Williams
+alleges to be gender dysphoria,” that is, “distress and dis-
+comfort from identifying as a gender different from the gen-
+der assigned at birth.” 45 F. 4th, at 782–783. He also ar-
+gued that the majority’s interpretation of the ADA
+provision excluding gender-identity conditions causes that
+provision to nullify itself. His understanding of the claim
+that the majority accepted was that gender dysphoria re-
+sults from a physical impairment whenever a person has
+the “physical characteristics” of a gender with which that
+6                   KINCAID v. WILLIAMS
+
+                      ALITO, J., dissenting
+
+person does not identify and suffers distress and discomfort
+as a result. Id., at 788. But that interpretation, he wrote,
+“would read ‘not resulting from physical impairments’ out
+of the statute.” Ibid.
+   By a narrow 8-to-6 vote, the Fourth Circuit denied en
+banc review. 50 F. 4th 429 (2022).
+                               II
+   Without full briefing and argument, I would not take a
+firm view on the proper interpretation of the ADA, let alone
+on the merits of Williams’s particular case. But several as-
+pects of the Fourth Circuit’s reasoning are troubling.
+   First, as Judge Quattlebaum noted in dissent, both gen-
+der identity disorder and gender dysphoria have long been
+identified by “ ‘persistent or recurrent discomfort’ ” in con-
+nection with “ ‘one’s assigned sex.’ ” 45 F. 4th, at 782 (quot-
+ing American Psychiatric Assn., Diagnostic and Statistical
+Manual of Mental Disorders 77 (rev. 3d ed. 1987)). So the
+change in the field’s terminology does not obviously place
+gender dysphoria outside the category of gender identity
+disorders. But even setting aside Judge Quattlebaum’s im-
+portant point, the Fourth Circuit’s narrow focus on the
+phrase “gender dysphoria” does not engage with the broad
+brush used by Congress, which barred application of the
+ADA not only to “transsexualism” and “gender identity dis-
+orders not resulting from physical impairments,” but also
+to “other sexual behavior disorders.” §12211(b)(1) (empha-
+sis added). This final catch-all category suggests that Con-
+gress sought to prohibit the ADA’s application to conditions
+that are sufficiently similar to the more specific categories
+of conditions that precede. At a minimum, the Fourth Cir-
+cuit should have explained why the catch-all provision was
+insufficient to encompass gender dysphoria.
+   Second, the Fourth Circuit’s understanding of when a
+gender identity disorder “result[s] from physical impair-
+                     Cite as: 600 U. S. ____ (2023)                     7
+
+                          ALITO, J., dissenting
+
+ments” does not meaningfully distinguish physical impair-
+ments from “mental impairment[s],” which the ADA recog-
+nizes as a distinct category. §§12102(1)(A), 12211(b)(1).
+Many common mental impairments, such as depression
+and anxiety disorders, cause real and sometimes powerful
+physical distress and are treated by chemical interventions.
+That does not mean, however, that those mental impair-
+ments are caused by an independent physical trait that it-
+self qualifies as an impairment.1 Significantly more analy-
+sis would be needed to accept an interpretation of the
+exception to the exclusion that swallows the exclusion
+whole.
+  Finally, the Fourth Circuit’s animus analysis relies too
+heavily on statements made by a few Members of Congress
+and does not sufficiently take into account the many con-
+siderations that Congress may have had in mind in adopt-
+ing a piece of major legislation like the ADA. A legislative
+body “need not address all aspects of a problem in one fell
+swoop; policymakers may focus on their most pressing con-
+cerns.” Williams-Yulee v. Florida Bar, 575 U. S. 433, 449
+(2015). Congress may also have thought that coverage of
+gender-identity-related conditions would raise special free
+speech and free exercise concerns. It seems more than un-
+charitable to say, as the Fourth Circuit did, that “[t]he only
+reason we can glean” for excluding gender identity disor-
+ders is “ ‘a bare . . . desire to harm a politically unpopular
+group.’ ” 45 F. 4th, at 773.
+                            III
+  The potential impact of the Fourth Circuit’s decision is
+difficult to overstate. Consider, first, the claims that the
+——————
+  1 The Fourth Circuit’s reasoning is also unneeded to give meaning to
+
+the “physical impairments” exception, as gender identity disorders do
+arise in connection with physical traits that clearly qualify as independ-
+ent impairments. See 45 F. 4th 759, 788, n. 7 (2022) (Quattlebaum, J.,
+dissenting) (discussing “ ‘physical intersexuality’ ” of the sex organs).
+8                       KINCAID v. WILLIAMS
+
+                          ALITO, J., dissenting
+
+panel majority allowed to go forward in this particular case.
+Those claims sought relief for the distress caused by sex-
+specific housing, the failure to provide or facilitate hormone
+treatment, and the use in relation to Williams of the pro-
+noun “he,” forms of address like “mister” and “sir,” and the
+term “gentleman.” Id., at 764 (internal quotation marks
+omitted). Permitting such claims suggests numerous fur-
+ther consequences. If the ADA requires that a person be
+given access to facilities reserved for the sex with which
+that person identifies whenever that is needed to avoid sub-
+stantial distress, then such a claim may be brought against
+any “place of lodging,” “service establishment,” “elemen-
+tary, secondary, undergraduate, or postgraduate private
+school,” or “homeless shelter” with sex-specific bathrooms
+or dormitories. See §§12181(7)(A), (F), (J), (K).2 Educa-
+tional institutions that sponsor girls’ or women’s athletic
+competitions, and facilities that host such events, may be
+sued if they exclude any individual who identifies as female.
+§§12181(7)(C), (J), (L), 12182(b)(1)(A)(iii). If the ADA al-
+lows a cause of action for not facilitating hormone treat-
+ment, an ADA claim may presumably be filed against any
+“hospital” or “health care provider” that declines to provide
+hormone treatment or surgical procedures as part of a pro-
+cess of gender transition, at least where it would provide
+such hormones or similar surgery for other medical reasons.
+§12181(7)(F). If the ADA allows a cause of action against
+an institution whose employees decline to refer to a co-
+worker using the pronoun or form of address that this co-
+worker prefers, then any of the above institutions or any
+other (broadly defined) place of public accommodation is put
+——————
+   2 Of course, the uniquely dangerous context of prison presents dangers
+
+well beyond personal distress, and such dangers may trigger numerous
+legal obligations apart from the ADA. In light of the possibility that Wil-
+liams was actually endangered by being housed with men, the Fourth
+Circuit allowed a state tort claim to proceed; that holding is not chal-
+lenged, and I do not question it here.
+                     Cite as: 600 U. S. ____ (2023)                     9
+
+                          ALITO, J., dissenting
+
+to the choice between, on the one hand, firing all employees
+who refuse (perhaps for religious reasons) to speak contrary
+to their beliefs on gender transition or, on the other hand,
+risking ruinous lawsuits.
+   In short, the Fourth Circuit’s ruling leaves a great many
+people and institutions under the looming threat of liabil-
+ity, forcing them to change their behavior—behavior that
+may be deeply rooted in moral or religious principles—or
+face an unending stream of lawsuits. If it is at least possible
+that the ADA does not require these results, we should be
+willing to resolve the question now rather than later.
+                         *    *     *
+   The Fourth Circuit’s decision makes an important provi-
+sion of a federal law inoperative and, given the broad reach
+of the ADA and the Rehabilitation Act, will have far-reach-
+ing and important effects across much of civil society in that
+Circuit. Voters in the affected States and the legislators
+they elect will lose the authority to decide how best to ad-
+dress the needs of transgender persons in single-sex facili-
+ties, dormitory housing, college sports, and the like. Given
+that impact, and with the legal issues well aired below and
+in a variety of prior federal court decisions, I would grant
+certiorari now.3 Because the Court declines to do so, I re-
+spectfully dissent.
+
+
+
+
+——————
+   3 See, e.g., Parker v. Strawser Constr., Inc., 307 F. Supp. 3d 744, 754
+
+(SD Ohio 2018) (surveying case law as of 2018 and concluding that “[t]he
+majority of federal cases have concluded” that the ADA excludes even
+those gender identity disorders that “substantially limit a major life ac-
+tivity”).

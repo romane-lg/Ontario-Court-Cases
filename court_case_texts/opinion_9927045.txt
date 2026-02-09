@@ -1,0 +1,229 @@
+Cite as: 601 U. S. ____ (2024)            1
+
+                   SOTOMAYOR, J., dissenting
+
+SUPREME COURT OF THE UNITED STATES
+                         _________________
+
+                     No. 23–6562 (23A688)
+                         _________________
+
+
+    KENNETH EUGENE SMITH v. JOHN Q. HAMM,
+     COMMISSIONER, ALABAMA DEPARTMENT
+           OF CORRECTIONS, ET AL.
+ON APPLICATION FOR STAY AND ON PETITION FOR A WRIT OF
+ CERTIORARI TO THE UNITED STATES COURT OF APPEALS
+             FOR THE ELEVENTH CIRCUIT
+                      [January 25, 2024]
+
+   The application for stay of execution of sentence of death
+presented to JUSTICE THOMAS and by him referred to the
+Court is denied. The petition for a writ of certiorari is de-
+nied.
+   JUSTICE SOTOMAYOR, dissenting from the denial of appli-
+cation for stay and denial of certiorari.
+   Alabama plans to execute Kenneth Eugene Smith tonight
+by nitrogen hypoxia. That method is untested. Smith is the
+first person in this country ever to be executed in this way.
+The details are hazy because Alabama released its heavily
+redacted protocol under five months ago. What Smith
+knows is that he will be strapped to a gurney. He will wear
+a nitrogen-supplying, off-the-rack mask for which the State
+has not fitted him or even tried on him. Once the nitrogen
+is flowing into the mask, his executioners will not intervene
+and will not remove the mask, even if Smith vomits into it
+and chokes on his own vomit.
+   Smith is a surprising candidate to test this novel method.
+Alabama tried and failed to execute him before. In Novem-
+ber 2022, Alabama botched Smith’s execution by lethal in-
+jection. It was Alabama’s third failed execution in a row in
+five months. See Barber v. Ivey, 600 U. S. ___ (2023)
+(SOTOMAYOR, J., dissenting from denial of application for
+2                      SMITH v. HAMM
+
+                    SOTOMAYOR, J., dissenting
+
+stay). Smith had warned repeatedly that Alabama would
+struggle and likely fail to complete its lethal injection in
+light of a “pattern of the State’s difficulties in establishing
+venous access.” 2023 WL 4353143, *7 (MD Ala., July 5,
+2023). This Court did not listen. It instead vacated a stay
+of execution without explanation, over three noted dissents.
+As a result, Smith’s arms were strapped over his head and
+he watched as his executioners repeatedly stabbed needles
+into his hands, arms, and collarbone, trying to access his
+veins. It took an hour and half after this Court vacated the
+stay before Alabama called off the execution.
+   Since that day, Smith has suffered from posttraumatic
+stress. Reliving those hours strapped to the gurney, his
+medical records confirm worsening bouts of nausea and
+vomiting over the past few weeks. See Second Supp. Decl.
+of Katherine Porterfield in No. 2:23–cv–00656 (MD Ala.,
+Jan. 23, 2024), ECF Doc. 87–5, p. 3, ¶¶5–6. Those symp-
+toms have been resistant to prescribed medications. He is
+therefore likely to vomit during the execution as a combined
+result of this posttraumatic stress and oxygen deprivation.
+   Smith asks this Court to stay his execution. He argues
+that Alabama’s untested execution protocol will likely sub-
+ject him to an unconstitutional risk of cruel and unusual
+punishment. According to one of Smith’s experts, “there is
+a substantial and serious risk that Mr. Smith will experi-
+ence nausea and vomiting during his execution,” thus “as-
+phyxiating—that is, choking to death—on his own vomit”
+before he eventually passes out from hypoxia. Id., at 3–4,
+¶7. Further, Alabama believes that an air-tight seal is not
+needed on the mask. Smith therefore has raised the sub-
+stantial risk that oxygen will infiltrate the mask and lead
+to a persistent vegetative state, stroke, or suffocation, su-
+peradding pain and prolonging Smith’s death. See Applica-
+tion 6.
+   In denying Smith’s motion for preliminary injunction, the
+District Court held that Smith failed to make the showing
+                   Cite as: 601 U. S. ____ (2024)                3
+
+                     SOTOMAYOR, J., dissenting
+
+required for a method-of-execution claim under the Eighth
+Amendment. Such a claim requires that “the risk of pain
+associated with the State’s method is substantial when
+compared to a known and available alternative.” Bucklew
+v. Precythe, 587 U. S. ___, ___ (2019) (internal quotation
+marks omitted). The District Court found that the risk of
+substantial harm, including the risk of asphyxiation, was
+overly speculative because it required “a cascade of unlikely
+events.” 2024 WL 262867, *2 (MD Ala., Jan. 24, 2024). On
+the known-and-available-alternative requirement, the Dis-
+trict Court faulted Smith for failing to provide “a feasible,
+readily implemented alternative” with his “list of proposed
+to amendments to the Protocol.” 2024 WL 116303, *21 (MD
+Ala., Jan. 10, 2024).
+   Smith appealed the denial of his motion for preliminary
+injunction and asked the Eleventh Circuit for a stay of exe-
+cution. The panel unanimously concluded that the District
+Court legally erred in requiring Smith to provide a “ ‘verita-
+ble blueprint’ ” for an alternative method of execution, a re-
+quirement with no basis in this Court’s precedent. No. 24–
+10095 (CA11, Jan. 24, 2024), p. 22, n. 7 (per curiam). Two
+judges, however, upheld the District Court’s determination
+that Smith had failed to establish a risk of substantial harm
+and concluded that the court’s findings of facts were not
+clearly erroneous. The panel affirmed the denial of Smith’s
+preliminary injunction and denied his stay request.1 I view
+the case like Judge Jill Pryor, who dissented. For the rea-
+sons given in her dissent, I would not let this decision stand.
+See id., at 33–35.
+   Courts considering a stay must weigh the applicant’s
+likelihood of success on the merits, potential for irreparable
+injury, and the public interest. See Nken v. Holder, 556
+U. S. 418, 434 (2009). Smith has established a substantial
+——————
+  1 Judge Wilson wrote a concurring opinion expressing his concerns
+
+with Alabama’s untested plan to execute Smith.
+4                          SMITH v. HAMM
+
+                       SOTOMAYOR, J., dissenting
+
+likelihood of success on the merits of his claim challenging
+Alabama’s undeterred implementation of its heavily re-
+dacted, 5-month-old protocol. The equities here, as in
+nearly all capital cases where the prisoner has shown a rea-
+sonable probability of success on the merits, favor Smith.
+See Bucklew, 587 U. S., at ___, (SOTOMAYOR, J., dissenting).
+While I would grant the petition for a writ of certiorari and
+summarily reverse the Eleventh Circuit’s order affirming
+the denial of Smith’s preliminary-injunction motion, at a
+minimum, I would grant Smith’s request for a stay of exe-
+cution.
+                          *    *     *
+  Having failed to kill Smith on its first attempt, Alabama
+has selected him as its “guinea pig” to test a method of exe-
+cution never attempted before. Barber, 600 U. S., at ___.
+The world is watching.2 This Court yet again permits Ala-
+bama to “experiment . . . with a human life,” while depriv-
+ing Smith of “meaningful discovery” on meritorious consti-
+tutional claims. Id., at ___. This time around, Alabama has
+adopted a new protocol concerning a never-before-used
+method of execution. Consistent with Alabama’s “familiar
+veil of secrecy over its capital punishment procedures,” it
+has released only a “heavily redacted” version of that proto-
+col. 2024 WL 116303, *3. Smith should be allowed to com-
+plete discovery and litigate the merits of his claims chal-
+lenging this new protocol in the ordinary course. That
+information is important not only to Smith, who has an ex-
+tra reason to fear the gurney, but to anyone the State seeks
+
+——————
+  2 See, e.g., US: Alarm Over Imminent Execution in Alabama, United
+
+Nations (Jan. 16, 2024), https://www.ohchr.org/en/press-briefing-notes/
+2024/01/us-alarm-over-imminent-execution-alabama; United States: UN
+Experts Alarmed at Prospect of First-Ever Untested Execution by Nitro-
+gen Hypoxia in Alabama, United Nations (Jan. 3, 2024), https://www.
+ohchr.org / en / press-releases /2024/01/united-states-un-experts-alarmed-
+prospect-first-ever-untested-execution.
+                 Cite as: 601 U. S. ____ (2024)            5
+
+                   SOTOMAYOR, J., dissenting
+
+to execute after him using this novel method.
+  Not long ago, this Court remarked that “[t]he Eighth
+Amendment’s protection of dignity reflects the Nation we
+have been, the Nation we are, and the Nation we aspire to
+be.” Hall v. Florida, 572 U. S. 701, 708 (2014). This case
+shows how that protection can be all too fragile. Twice now
+this Court has ignored Smith’s warning that Alabama will
+subject him to an unconstitutional risk of pain. The first
+time, Smith’s predictions came true. He “survived to de-
+scribe the intense fear and pain [he] experienced during Al-
+abama’s tortuous attempts to execute [him].” Barber, 600
+U. S., at ___ (SOTOMAYOR, J., dissenting from denial of ap-
+plication for stay). This time, he predicts that Alabama’s
+protocol will cause him to suffocate and choke to death on
+his own vomit. I sincerely hope that he is not proven correct
+a second time.
+  With deep sadness, but commitment to the Eighth
+Amendment’s protection against cruel and unusual punish-
+ment, I respectfully dissent.
+                  Cite as: 601 U. S. ____ (2024)            1
+
+                      KAGAN, J., dissenting
+
+SUPREME COURT OF THE UNITED STATES
+                          _________________
+
+                     No. 23–6562 (23A688)
+                          _________________
+
+
+    KENNETH EUGENE SMITH v. JOHN Q. HAMM,
+     COMMISSIONER, ALABAMA DEPARTMENT
+           OF CORRECTIONS, ET AL.
+ON APPLICATION FOR STAY AND ON PETITION FOR A WRIT OF
+ CERTIORARI TO THE UNITED STATES COURT OF APPEALS
+             FOR THE ELEVENTH CIRCUIT
+                       [January 25, 2024]
+
+   JUSTICE KAGAN, with whom JUSTICE JACKSON joins, dis-
+senting from the denial of application for stay and denial of
+certiorari.
+   As JUSTICE SOTOMAYOR explains, the method Alabama
+will use to execute Kenneth Eugene Smith—the use of ni-
+trogen hypoxia—is entirely novel. The State’s protocol was
+developed only recently, and is even now under revision to
+prevent Smith from choking on his own vomit. The State
+has declined to provide Smith with all the discovery re-
+specting its protocol which he has requested. And Smith
+has a well-documented medical condition posing special
+risks from the State’s newly chosen method of execution.
+   I would grant Smith’s petition for a writ of certiorari to
+consider whether, in those exceptional circumstances, the
+extremely demanding standard this Court established in
+Glossip v. Gross, 576 U. S. 863 (2015), properly applies. See
+id., at 877 (requiring a prisoner to show that serious pain is
+“sure or very likely” to occur). Arguably, that standard can
+work fairly only when more is capable of being known about
+an execution method. To allow this Court to address that
+important issue, I would also grant Smith’s application for
+a stay of execution.

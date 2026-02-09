@@ -1,0 +1,484 @@
+PRELIMINARY PRINT
+
+              Volume 603 U. S. Part 1
+                             Pages 866–876
+
+
+
+
+       OFFICIAL REPORTS
+                                     OF
+
+
+   THE SUPREME COURT
+                              August 16, 2024
+
+
+Page Proof Pending Publication
+
+
+                    REBECCA A. WOMELDORF
+                           reporter of decisions
+
+
+
+
+    NOTICE: This preliminary print is subject to formal revision before
+  the bound volume is published. Users are requested to notify the Reporter
+  of Decisions, Supreme Court of the United States, Washington, D. C. 20543,
+  pio@supremecourt.gov, of any typographical or other formal errors.
+866                     OCTOBER TERM, 2024
+
+
+
+
+DEPARTMENT OF EDUCATION et al. v. LOUISIANA
+                 et al.
+                     on application for stay
+                 No. 24A78.      Decided August 16, 20241
+Several States and other parties obtained preliminary injunctions against
+  the enforcement of the Department of Education's new rule implement-
+  ing Title IX of the Education Amendments of 1972. The Fifth and
+  Sixth Circuits declined to stay the injunctions at the Government's re-
+  quest. The Government then fled emergency applications in this Court
+  seeking partial stays of the preliminary injunctions pending appellate
+  proceedings. The Government argues that three provisions in the new
+  rule on which the courts below based plaintiffs' entitlement to prelimi-
+  nary injunctive relief should be severed and that the other provisions
+  of the new rule should be permitted to take effect.
+Held: All Members of the Court accept that plaintiffs were entitled to
+ preliminary injunctive relief as to three provisions of the new rule, in-
+ cluding the central provision that newly defnes sex discrimination to
+Page Proof Pending Publication
+ include discrimination on the basis of sexual orientation and gender
+ identity. The Government has neither provided a suffcient basis to dis-
+ turb the lower courts' interim conclusions that the three provisions
+ found likely to be unlawful are intertwined with other provisions of the
+ rule, nor has it adequately identifed which particular provisions, if any,
+ might be able to remain in effect.
+Applications for stays denied.
+
+  Per Curiam.
+  The application for a partial stay presented to Justice
+Alito in No. 24A78 and by him referred to the Court is de-
+nied. The application for a partial stay presented to Jus-
+tice Kavanaugh in No. 24A79 and by him referred to the
+Court is denied.
+  The Department of Education recently issued a new rule
+implementing Title IX of the Education Amendments of
+  1
+   Together with No. 24A79, Cardona, Secretary of Education, et al. v.
+Tennessee et al., also on application for stay.
+                   Cite as: 603 U. S. 866 (2024)             867
+
+                           Per Curiam
+
+1972. The rule newly defned sex discrimination to “in-
+clud[e] discrimination on the basis of sex stereotypes,
+sex characteristics, pregnancy or related conditions, sexual
+orientation, and gender identity. ” 89 Fed. Reg. 33886
+(2024).
+   Several States and other parties sought preliminary in-
+junctions against the new rule, arguing among other things
+that the rule exceeded the bounds of the statutory text
+enacted by Congress. District Courts in Louisiana and
+Kentucky agreed with the plaintiffs and preliminarily en-
+joined enforcement of the rule in the plaintiff States. The
+Courts of Appeals for the Fifth and Sixth Circuits then de-
+clined to stay the injunctions in the interim period while
+those courts consider the Government's appeals of the pre-
+liminary injunctions.
+   The Government has now fled emergency applications in
+this Court seeking partial stays of the preliminary injunc-
+Page Proof Pending Publication
+tions pending resolution of the appeals in the Fifth and Sixth
+Circuits. The Court denies the Government's applications.
+   Importantly, all Members of the Court today accept that
+the plaintiffs were entitled to preliminary injunctive relief
+as to three provisions of the rule, including the central provi-
+sion that newly defnes sex discrimination to include discrim-
+ination on the basis of sexual orientation and gender identity.
+But the Government argues (and the dissent agrees) that
+those provisions should be severed and that the other provi-
+sions of the new rule should still be permitted to take effect
+in the interim period while the Government's appeals of the
+preliminary injunctions are pending in the Courts of Ap-
+peals. The lower courts concluded otherwise because the
+new defnition of sex discrimination is intertwined with and
+affects many other provisions of the new rule. Those courts
+therefore concluded, at least at this preliminary stage, that
+the allegedly unlawful provisions are not readily severable
+from the remaining provisions. The lower courts also
+868      DEPARTMENT OF EDUCATION v. LOUISIANA
+
+                 Sotomayor, J., dissenting in part
+
+pointed out the diffculty that schools would face in deter-
+mining how to apply the rule for a temporary period with
+some provisions in effect and some enjoined.
+   In this emergency posture in this Court, the burden is on
+the Government as applicant to show, among other things, a
+likelihood of success on its severability argument and that
+the equities favor a stay. On this limited record and in its
+emergency applications, the Government has not provided
+this Court a suffcient basis to disturb the lower courts' in-
+terim conclusions that the three provisions found likely to be
+unlawful are intertwined with and affect other provisions of
+the rule. Nor has the Government adequately identifed
+which particular provisions, if any, are suffciently independ-
+ent of the enjoined defnitional provision and thus might be
+able to remain in effect. Moreover, related to the equities,
+the Sixth Circuit has already expedited its consideration of
+the case and scheduled oral argument for October. The
+Page Proof Pending Publication
+Court expects that the Courts of Appeals will render their
+decisions with appropriate dispatch. In light of all of the
+circumstances, the Court denies the Government's applica-
+tions for partial stays.
+                                              It is so ordered.
+
+  Justice Sotomayor, with whom Justice Kagan, Jus-
+tice Gorsuch, and Justice Jackson join, dissenting in
+part.
+  Respondents challenged a Department of Education rule
+implementing Title IX of the Education Amendments of 1972.
+Respondents contend that the rule unlawfully redefnes sex
+discrimination; that it violates students' and employees' rights
+to bodily privacy and safety; and that its defnition of hostile
+environment harassment is inconsistent with the statute and
+violates the First Amendment. Every Member of the Court
+agrees respondents are entitled to interim relief as to three
+provisions of that Rule: 34 CFR § 106.10 (2024) (defning sex
+                   Cite as: 603 U. S. 866 (2024)             869
+
+                 Sotomayor, J., dissenting in part
+
+discrimination), § 106.31(a)(2) (prohibiting schools from pre-
+venting individuals from accessing certain sex-separated
+spaces consistent with their gender identity), and § 106.2's
+defnition of hostile environment harassment. Respondents'
+alleged injuries fow from those three provisions.
+   Today, however, a majority of this Court leaves in place
+preliminary injunctions that bar the Government from en-
+forcing the entire rule—including provisions that bear no ap-
+parent relationship to respondents' alleged injuries. Those
+injunctions are overbroad. To be sure, this litigation is still
+unfolding, and respondents might eventually show injuries
+from the other portions of the rule. If so, those injuries
+might merit further relief. For now, on the briefng and rec-
+ord currently before us, I would stay the preliminary injunc-
+tions except as to the three provisions above, in keeping with
+the traditional principle of equitable remedies that “relief af-
+forded [to] the plaintiffs” must not “be more burdensome
+than necessary to redress the complaining parties.” Cali-
+Page Proof Pending Publication
+fano v. Yamasaki, 442 U. S. 682, 702 (1979); see Madsen v.
+Women's Health Center, Inc., 512 U. S. 753, 765 (1994) (“[An]
+injunction [should be] no broader than necessary to achieve
+its desired goals”).
+                                I
+   Title IX provides that “[n]o person in the United States
+shall, on the basis of sex, be excluded from participation in,
+be denied the benefts of, or be subjected to discrimination
+under any education program or activity receiving Federal
+fnancial assistance.” 86 Stat. 373, 20 U. S. C. § 1681(a).
+Congress charged the Department of Education with “issu-
+ing rules, regulations, or orders of general applicability” to
+“effectuate” Title IX's antidiscrimination mandate. § 1682.
+Pursuant to that authority, in April 2024, the Department
+issued an omnibus rule amending Title IX's regulations, set
+to take effect nationwide on August 1, 2024. See 89 Fed.
+Reg. 33474 (2024) (Rule). The amended provisions of the
+870        DEPARTMENT OF EDUCATION v. LOUISIANA
+
+                      Sotomayor, J., dissenting in part
+
+Rule cover a range of matters, most of which do not refer-
+ence gender identity discrimination and went unmentioned
+by respondents.1
+  Respondents claim they are harmed by three provisions of
+the Rule. First, at 34 CFR § 106.10, the Rule defnes “[d]is-
+crimination on the basis of sex” to “includ[e] discrimination
+on the basis of sex stereotypes, sex characteristics, preg-
+nancy or related conditions, sexual orientation, and gender
+identity.” 89 Fed. Reg. 33886. Second, at § 106.31(a)(2),
+the Rule addresses Title IX's application in sex-separated
+spaces. 89 Fed. Reg. 33887. The Rule leaves untouched
+Title IX's explicit recognition that schools may differentiate
+between students on the basis of sex in some contexts, such
+as in assigning dormitories and creating athletic teams.2
+
+  1
+     Those provisions include: a provision requiring access to lactation
+spaces and “reasonable modifcations” for pregnant students, such as rest-
+room breaks, 89 Fed. Reg. 33888, 33895–33896 (to be codifed in 34 CFR
+Page Proof Pending Publication
+§§ 106.40(b)(3)(v), 106.57); a provision affrming the legal rights of parents
+and guardians to act on behalf of complainants and respondents, 89 Fed.
+Reg. 33885 (to be codifed in 34 CFR § 106.6(g)); three provisions address-
+ing schools' obligations in responding to claims implicating Title IX, in-
+cluding measures to assist impacted parties, employee-notifcation require-
+ments, Title IX coordinator duties, applicable grievance procedures, and
+protection of personally identifable information, 89 Fed. Reg. 33888–33895
+(to be codifed in 34 CFR §§ 106.44, 106.45, 106.46); a provision addressing
+schools' obligations to designate Title IX coordinators, and adopt and im-
+plement a nondiscrimination policy and grievance procedures, 89 Fed. Reg.
+33885–33886 (to be codifed in 34 CFR § 106.8); a provision clarifying
+schools' obligations with respect to retaliation, 89 Fed. Reg. 33896 (to be
+codifed in 34 CFR § 106.71); a provision clarifying that the Department of
+Education's Assistant Secretary of Civil Rights will not deem a recipient
+to have violated the Title IX regulations solely because the Assistant Sec-
+retary would have reached a different decision in a particular complaint
+alleging sex-based harassment, 89 Fed. Reg. 33895 (to be codifed in 34
+CFR § 106.47); and a provision addressing what preemployment inquiries
+a school may make regarding an individual's marital status and sex, 89
+Fed. Reg. 33896 (to be codifed in 34 CFR § 106.60).
+   2
+     Specifcally, those contexts include membership in fraternities or soror-
+ities, 20 U. S. C. § 1681(a)(6), separate living facilities, § 1686, and athletic
+teams, Education Amendments of 1974, 88 Stat. 612. The Department
+                       Cite as: 603 U. S. 866 (2024)                   871
+
+                    Sotomayor, J., dissenting in part
+
+Outside those statutory exceptions, however, § 106.31(a)(2)
+states that Title IX generally permits “different treatment
+or separation on the basis of sex” only to the extent that
+such differential treatment or separation does not “discrimi-
+nat[e]. . . by subjecting a person to more than de minimis
+harm.” Section 106.31(a)(2) further provides that a policy
+or practice that “prevents a person from participating in an
+education program or activity consistent with the person's
+gender identity subjects a person to more than de minimis
+harm on the basis of sex.” (Emphasis added.) Sections
+106.10 and 106.31(a)(2) are the only provisions in the entire
+Rule that reference “gender identity.”
+   Third, at 34 CFR § 106.2, the Rule defnes several terms,
+including “hostile environment harassment.” 89 Fed. Reg.
+33884. “Hostile environment harassment” is a prohibited
+form of sex discrimination that, as defned by the Rule, in-
+volves “[u]nwelcome sex-based conduct that, based on the
+totality of the circumstances, is subjectively and objectively
+Page Proof Pending Publication
+offensive and is so severe or pervasive that it limits or denies
+a person's ability to participate in or beneft from the recipi-
+ent's education program or activity (i.e., creates a hostile en-
+vironment).” Ibid. Respondents do not object to § 106.2's
+defnitions of other terms within the Rule, such as “com-
+plaint,” “disciplinary sanctions,” “elementary school,” and
+“student.”
+   Two groups of States fled suits in two District Courts
+challenging the new Rule as unlawful.3 They contend that
+
+explained in the Rule that neither § 106.31(a)(2) nor anything else in the
+Rule addresses or alters existing requirements governing sex separation
+in athletics, which is the subject of a separate rulemaking. 89 Fed. Reg.
+33816–33817.
+   3
+     One suit was brought by the States of Louisiana, Mississippi, Montana,
+and Idaho, joined by the Louisiana Department of Education and 18 Louisi-
+ana school boards. Another suit was brought by the states of Tennessee,
+Kentucky, Ohio, Indiana, Virginia, and West Virginia, joined by an associa-
+tion of Christian teachers and a 15-year-old girl from West Virginia. Sev-
+eral other States and parties have fled similar suits challenging the Rule
+and requesting preliminary injunctions within the plaintiff States. See
+872        DEPARTMENT OF EDUCATION v. LOUISIANA
+
+                    Sotomayor, J., dissenting in part
+
+the Rule unlawfully rewrites Title IX's prohibition on sex
+discrimination to include discrimination based on students'
+gender identity. Respondents further argue that § 106.2's
+defnition of “hostile environment harassment” is unlawful
+under Davis v. Monroe County Bd. of Ed., 526 U. S. 629
+(1999), because it waters down the standard for what consti-
+tutes actionable sex-based harassment: Title IX complain-
+ants can prevail under the Rule by showing the alleged har-
+assment was severe or pervasive (as opposed to both) and do
+not need to prove that the offending conduct denied them
+access to educational benefts. Respondents separately as-
+sert that § 106.2's defnition of “hostile environment harass-
+ment” violates the First Amendment by chilling or compel-
+ling speech, including on issues of gender identity.
+   Accordingly, when respondents asked the District Courts
+to preliminarily enjoin enforcement of the Rule, they focused
+on the two provisions concerning gender identity—§§ 106.10
+and 106.31(a)(2)—and § 106.2's defnition of “hostile environ-
+Page Proof Pending Publication
+ment harassment.” Respondents alleged that those three
+provisions would cause them irreparable harm if the Rule
+went into effect. Specifcally, they asserted that they would
+incur unrecoverable costs in complying with those provisions
+(and a loss of Title IX funding if they failed to do so), that
+they would lose the right to speak freely on issues such as
+gender identity, and that they would be unable to enforce
+existing state laws that confict with the Rule's prohibition
+of gender identity discrimination. Although respondents'
+alleged irreparable harm apparently traces back to just three
+of the Rule's provisions, the District Courts preliminarily
+
+Kansas v. United States Dept. of Ed., ––– F. Supp. 3d –––, 2024 WL
+3273285 (D Kan., July 2, 2024); Texas v. United States, ––– F. Supp. 3d –––,
+2024 WL 3405342 (ND Tex., July 11, 2024); Carroll Independent School
+Dist. v. United States Dept. of Ed., ––– F. Supp. 3d –––, 2024 WL 3381901
+(ND Tex., July 11, 2024); Arkansas v. United States Dept. of Ed., No. 4:24–
+CV–636 (ED Mo., July 24, 2024), ECF Doc. 54; Alabama v. Cardona, 2024
+WL 3607492 (ND Ala., July 30, 2024).
+                       Cite as: 603 U. S. 866 (2024)                   873
+
+                    Sotomayor, J., dissenting in part
+
+enjoined the Government from enforcing the entire Rule in
+all the respondent States.
+   After unsuccessful efforts to seek relief from these over-
+broad injunctions in the lower courts, the Government asks
+this Court to stay the injunctions in part. The Government
+does not contest the continued injunction as to § 106.31(a)(2)
+(regulating access to sex-separated spaces) or § 106.2's def-
+nition of hostile environment harassment as applied to gen-
+der identity discrimination. Instead, it asks this Court to
+stay the injunction as to § 106.2's defnition of hostile environ-
+ment harassment as applied to other forms of sex discrimina-
+tion, § 106.2's other defnitions, § 106.10, and the remainder of
+the Rule's unchallenged provisions.
+
+                                    II
+   I would grant most of the Government's stay requests and
+leave enjoined only its enforcement of the three challenged
+provisions.4 A preliminary injunction is an “extraordinary”
+Page Proof Pending Publication
+exercise of equitable authority, appropriate only “upon a
+clear showing” that a party is “entitled to such relief.”
+Winter v. Natural Resources Defense Council, Inc., 555 U. S.
+7, 22 (2008). To obtain a preliminary injunction, a party
+must establish, among other things, that it would likely suf-
+fer irreparable harm without equitable relief. Ibid. Even
+when a party makes that showing, though, a court must tai-
+lor equitable relief to redress the party's alleged injuries
+without burdening the defendant more than necessary. See
+Madsen, 512 U. S., at 765 (“[An] injunction [should be] no
+broader than necessary to achieve its desired goals”); Yama-
+saki, 442 U. S., at 702 (explaining that “relief afforded [to] the
+plaintiffs” must not “be more burdensome than necessary to
+redress the complaining parties”).
+   Here, respondents' alleged injuries fow from the chal-
+lenged provisions. Even assuming respondents established
+  4
+   For § 106.2, I would leave enjoined only its defnition of “hostile envi-
+ronment harassment.”
+874     DEPARTMENT OF EDUCATION v. LOUISIANA
+
+                Sotomayor, J., dissenting in part
+
+that those provisions subject them to a threat of irreparable
+harm, enjoining enforcement of the entire Rule appears to
+go beyond what was necessary to redress those injuries.
+   Consider some of the unchallenged provisions. The Rule
+requires schools to provide “reasonable modifcations” to
+pregnant students, including but not limited to “breaks dur-
+ing class to express breast milk, breastfeed, or attend to
+health needs associated with pregnancy or related condi-
+tions.” 89 Fed. Reg. 33887. A separate provision prohibits
+schools from making a preemployment inquiry as to an appli-
+cant's marital status and limits the circumstances under
+which a school may make a preemployment inquiry as to an
+applicant's sex. Id., at 33896. The Rule also mandates that
+schools prohibit staff and students from retaliating against
+students who fle Title IX complaints, and provides the pro-
+cedure a school must follow upon receiving a complaint of
+retaliation. Ibid. Those provisions (like many others in
+Page Proof Pending Publication
+the Rule) do not reference gender identity discrimination or
+hostile environment harassment and bear no apparent rela-
+tionship to respondents' alleged injuries. As litigation over
+the Rule proceeds, respondents might be able to show those
+other portions of the Rule will irreparably harm them in a
+manner justifying further equitable relief. At this juncture,
+however, enjoining the application of any other part of the
+Rule needlessly impairs the Government from enforcing
+Title IX and deprives potential claimants of protections
+against forms of sex discrimination not at issue in respond-
+ents' suit.
+   Respondents maintain that the Government must remain
+enjoined from enforcing the entire Rule because the chal-
+lenged provisions “permeate” it. Respondents fail to ex-
+plain, however, why enjoining enforcement of the entire Rule
+at this stage is necessary to redress their alleged injuries.
+As an initial matter, many unchallenged provisions (such as
+those governing preemployment inquiries about an appli-
+cant's marital status or sex and prohibiting pregnancy dis-
+                   Cite as: 603 U. S. 866 (2024)           875
+
+                Sotomayor, J., dissenting in part
+
+crimination) include no reference to gender identity discrimi-
+nation or hostile environment harassment. Respondents
+offer nothing to justify preventing the Government from en-
+forcing those parts of the Rule. As for the provisions that
+do incorporate the Department's allegedly unlawful defni-
+tions of sex-based discrimination and harassment, respond-
+ents do not explain how those provisions would injure them
+while the Government is enjoined from enforcing the dis-
+puted defnitions. Take the Rule's requirement that em-
+ployees be trained on “[t]he scope of conduct that constitutes
+sex discrimination under Title IX and this part, includ-
+ing the defnition of sex-based harassment.” 89 Fed. Reg.
+33886. Even respondents do not argue that the training re-
+quirement is itself unlawful. With the challenged provisions
+out of the picture, the “scope of conduct” under that training
+provision would exclude gender identity discrimination and
+hostile environment harassment, the sources of respondents'
+alleged injuries. If there were any doubt on this score,
+Page Proof Pending Publication
+moreover, the Court could simply have excluded the provi-
+sion from its stay order.
+   Respondents further assert that the Rule would be un-
+workable with the Government enjoined from applying its
+defnition of sex discrimination. For 50 years, however,
+Title IX regulations have not defned sex discrimination, and
+respondents offer no evidence that schools cannot comply
+with their Title IX obligations without such a defnition.
+
+                         *      *      *
+  By blocking the Government from enforcing scores of reg-
+ulations that respondents never challenged and that bear no
+apparent relationship to respondents' alleged injuries, the
+lower courts went beyond their authority to remedy the dis-
+crete harms alleged here. The injunctions this Court leaves
+in place will burden the Government more than necessary.
+The injunctions will also affect the public. Individuals in
+the respondent States will be deprived of guidance related
+876     DEPARTMENT OF EDUCATION v. LOUISIANA
+
+                Sotomayor, J., dissenting in part
+
+to their rights under Title IX, of updates to the processes
+schools must follow in investigating their complaints of sex
+discrimination, of protections from retaliation should they
+fle a complaint, and of much more. On the present record,
+more tailored relief focused on the three challenged provi-
+sions would have redressed respondents' alleged injuries
+without depriving the public of the Rule's other provisions.
+Because the majority of this Court nonetheless leaves the
+overly broad injunctions in place, I respectfully dissent in
+part.
+
+
+
+
+Page Proof Pending Publication
+                           Reporter’s Note
+
+  The attached opinion has been revised to refect the usual publication
+and citation style of the United States Reports. The revised pagination
+makes available the offcial United States Reports citation in advance of
+publication. The syllabus has been prepared by the Reporter of Decisions
+Page Proof Pending Publication
+for the convenience of the reader and constitutes no part of the opinion of
+the Court. A list of counsel who argued or fled briefs in this case, and
+who were members of the bar of this Court at the time this case was
+argued, has been inserted following the syllabus. Other revisions may
+include adjustments to formatting, captions, citation form, and any errant
+punctuation. The following additional edits were made:
+
+None

@@ -1,0 +1,1312 @@
+Cite as: 601 U. S. ____ (2024)            1
+
+                    GORSUCH, J., concurring
+
+SUPREME COURT OF THE UNITED STATES
+                          _________________
+
+                           No. 23A763
+                          _________________
+
+
+ RAUL LABRADOR, ATTORNEY GENERAL OF IDAHO
+  v. PAM POE, BY AND THROUGH HER PARENTS AND NEXT
+       FRIENDS, PENNY AND PETER POE, ET AL.
+
+                 ON APPLICATION FOR STAY
+                         [April 15, 2024]
+
+   The application for stay presented to JUSTICE KAGAN and
+by her referred to the Court is granted. The December 26,
+2023 order of the United States District Court for the Dis-
+trict of Idaho, case No. 1:23–cv–269, is stayed, except as to
+the provision to the plaintiffs of the treatments they sought
+below, pending the disposition of the appeal in the United
+States Court of Appeals for the Ninth Circuit and disposi-
+tion of a petition for a writ of certiorari, if such a writ is
+timely sought. Should certiorari be denied, this stay shall
+terminate automatically. In the event certiorari is granted,
+the stay shall terminate upon the sending down of the judg-
+ment of this Court.
+   JUSTICE KAGAN would deny the application for stay.
+   JUSTICE GORSUCH, with whom JUSTICE THOMAS and
+JUSTICE ALITO join, concurring in the grant of stay.
+   Early in the litigation below, the district court issued a
+preliminary injunction. Ordinarily, injunctions like these
+may go no further than necessary to provide interim relief
+to the parties. In this case, however, the district court went
+much further, prohibiting a State from enforcing any aspect
+of its duly enacted law against anyone. Today, the Court
+stays the district court’s injunction to the extent it applies
+to nonparties, which is to say to the extent it provides “uni-
+versal” relief. That is a welcome development.
+2                     LABRADOR v. POE
+
+                    GORSUCH, J., concurring
+
+                                 I
+   To appreciate the significance of the Court’s ruling, some
+background helps. In 2023, Idaho adopted the Vulnerable
+Child Protection Act. The law sought to regulate a number
+of “ ‘practices upon a child for the purpose of attempting to
+alter the . . . child’s sex.’ ” ___ F. Supp. 3d ___, ___ (Idaho
+2023), App. A to Application for Stay 5. Those practices
+range from “surgeries that sterilize or mutilate” a child’s
+genitals to the supply of “[p]uberty-blocking medication.”
+Ibid. Idaho claimed that its law aimed to protect children
+from treatments that can cause “lasting harm and irreversi-
+ble damage.” Id., at 51 (internal quotation marks omitted).
+The law’s provisions were scheduled to take effect January
+1, 2024.
+   Before that could happen, two children and their parents
+sued Idaho’s attorney general and a local prosecutor in fed-
+eral district court. The children and their parents alleged
+that, without access to puberty blockers and estrogen, the
+two minor plaintiffs would likely suffer serious mental
+health problems. Decl. of P. Poe in No. 1:23–cv–269 (D
+Idaho), ECF Doc. 32–2, ¶¶14, 19, 22; Decl. of J. Doe, ECF
+Doc. 32–4, ¶¶14, 16, 23–24. Shortly after filing suit, the
+plaintiffs asked the district court to issue a preliminary in-
+junction.
+   The district court agreed to do so. But instead of enjoin-
+ing state officials from enforcing the law with respect to the
+plaintiffs and the drug treatments they sought, the district
+court entered a universal injunction. App. A to Application
+for Stay 52–54. That is, the court prohibited the defendants
+from enforcing “any provision” of the law under any circum-
+stances during the life of the parties’ litigation. Id., at 54.
+Among other things, this meant Idaho could not enforce its
+prohibition against surgeries to remove or alter children’s
+genitals, even though no party before the court had sought
+access to those surgeries or demonstrated that Idaho’s pro-
+hibition of them offended federal law. The court’s order
+                  Cite as: 601 U. S. ____ (2024)             3
+
+                    GORSUCH, J., concurring
+
+promised to suspend Idaho’s law indefinitely, too, as this
+litigation (like many today) may take years to reach final
+judgment.
+   Idaho responded by appealing the district court’s prelim-
+inary injunction decision to the Ninth Circuit. The State
+also asked the Ninth Circuit to stay the preliminary injunc-
+tion during the pendency of the appeal. At the least, the
+State argued, the court of appeals should stay the universal
+aspect of the district court’s injunction so that at least some
+portions of its duly enacted law might finally take effect.
+   After the Ninth Circuit denied Idaho’s stay request in a
+brief unreasoned order, the State proceeded here. Before
+us, the State does not challenge the preliminary injunction
+to the extent it ensures the two minor plaintiffs in this case
+continued access to their drug treatments. That aspect of
+the district court’s order will remain in place pending ap-
+peal. The State asks us to stay the preliminary injunction
+only to the extent it bars Idaho from enforcing any aspect
+of its law against any person anywhere in the State.
+                               II
+   Stay motions and other requests for interlocutory relief
+are nothing new or particularly remarkable. In truth, they
+are perhaps “as old as the judicial system of the [N]ation.”
+Scripps-Howard Radio, Inc. v. FCC, 316 U. S. 4, 17 (1942).
+Every federal court in this country has within its “tradi-
+tional” toolkit the power to pause temporarily its own order
+or one of a lower court or issue other forms of interim relief.
+Id., at 9; see 28 U. S. C. §1651(a); this Court’s Rule 23.1;
+Fed. Rule App. Proc. 8(a). Often, judges at all levels of the
+federal judiciary resolve motions for interlocutory relief in
+brief orders like the one the Court issues today and the
+Ninth Circuit did below. Judges have proceeded this way
+throughout the Nation’s history. Indeed, many courts could
+not efficiently manage their dockets otherwise. Cf. Wilson
+4                      LABRADOR v. POE
+
+                     GORSUCH, J., concurring
+
+v. Sellers, 584 U. S. 122, 139 (2018) (GORSUCH, J., dissent-
+ing) (“[A] busy appellate court may sometimes not see the
+profit in devoting its limited resources to explaining the er-
+ror [or] alternative basis for affirming . . . so it issues a sum-
+mary affirmance instead”).
+   Just as familiar are the rules that govern stay applica-
+tions. This Court, like every other federal court, is “guided”
+by the same “sound . . . principles.” Nken v. Holder, 556
+U. S. 418, 434 (2009) (internal quotation marks omitted);
+see Trump v. International Refugee Assistance Project, 582
+U. S. 571, 580 (2017) (per curiam); id., at 584 (THOMAS, J.,
+concurring in part and dissenting in part). We ask (1)
+whether the stay applicant has made a strong showing that
+it is likely to succeed on the merits, (2) whether it will suffer
+irreparable injury without a stay, (3) whether the stay will
+substantially injure other parties interested in the proceed-
+ings, and (4) where the public interest lies. Nken, 556 U. S.,
+at 434. A court’s “ ‘ “discretion” ’ ” to enter a stay is thus not
+left up to its mere “ ‘ “inclination, but to its judgment” ’ ” re-
+garding each of these time-tested considerations. Ibid.
+(quoting Martin v. Franklin Capital Corp., 546 U. S. 132,
+139 (2005), in turn quoting United States v. Burr, 25 F. Cas.
+30, 35 (No. 14,692d) (CC Va. 1807) (Marshall, C. J.)).
+   Applying that traditional stay test here yields a ready an-
+swer. Start with the first question: whether Idaho has
+shown it is likely to succeed on the merits. This Court has
+long held that a federal court’s authority to fashion equita-
+ble relief is ordinarily constrained by the rules of equity
+known “ ‘at the time of the separation of ’ ” this country from
+Great Britain. Grupo Mexicano de Desarrollo, S. A. v. Alli-
+ance Bond Fund, Inc., 527 U. S. 308, 318 (1999); see Guar-
+anty Trust Co. v. York, 326 U. S. 99, 105 (1945); Boyle v.
+Zacharie & Turner, 6 Pet. 648, 658 (1832). Under those
+rules, this Court has said, a federal court may not issue an
+equitable remedy “more burdensome to the defendant than
+necessary to [redress]” the plaintiff ’s injuries. Califano v.
+                  Cite as: 601 U. S. ____ (2024)             5
+
+                    GORSUCH, J., concurring
+
+Yamasaki, 442 U. S. 682, 702 (1979); see Gill v. Whitford,
+585 U. S. 48, 68 (2018) (“[A] ‘remedy must . . . be limited to
+the inadequacy that produced the injury in fact that the
+plaintiff has established’ ”); Rhode Island v. Massachusetts,
+12 Pet. 657, 718 (1838); Department of Homeland Security
+v. New York, 589 U. S. ___, ___ (2020) (DHS) (GORSUCH, J.,
+concurring in grant of stay) (slip op., at 3); United States v.
+Texas, 599 U. S. 670, 693 (2023) (GORSUCH, J., concurring
+in judgment); S. Bray, Multiple Chancellors: Reforming the
+National Injunction, 131 Harv. L. Rev. 417, 425–428 (2017).
+   The district court’s universal injunction defied these
+foundational principles. It did not just vindicate the plain-
+tiffs’ access to the drug treatments they sought. It pur-
+ported to bar the enforcement of “any provision” of the law
+against anyone. App. A to Application for Stay 54. The dis-
+trict court issued this sweeping relief even though, by its
+own admission, the plaintiffs had failed to “engage” with
+other provisions of Idaho’s law that don’t presently affect
+them—including the law’s provisions prohibiting the surgi-
+cal removal of children’s genitals. Id., at 52. In choosing
+such an extraordinary remedy, the district court clearly
+strayed from equity’s traditional bounds.
+   The remaining stay factors—the relative harms to the
+parties and the public interest—point to the same conclu-
+sion. Members of this Court have long held that, “ ‘[a]ny
+time a State is enjoined by a court from effectuating stat-
+utes enacted by representatives of its people, it suffers a
+form of irreparable injury.’ ” Maryland v. King, 567 U. S.
+1301, 1303 (2012) (ROBERTS, C. J., in chambers) (quoting
+New Motor Vehicle Bd. of Cal. v. Orrin W. Fox Co., 434 U. S.
+1345, 1351 (1977) (Rehnquist, J., in chambers)). Likewise,
+this Court has held that “[t]here is always a public interest
+in prompt execution” of the law, absent a showing of its un-
+constitutionality. Nken, 556 U. S., at 436.
+   Both considerations favor Idaho. The district court pur-
+ported to bar the State from bringing into effect portions of
+6                     LABRADOR v. POE
+
+                    GORSUCH, J., concurring
+
+a statute that no party has shown, and no court has held,
+likely offensive to federal law. The district court’s order
+promised to run for the life of this lawsuit, thus preventing
+Idaho from executing any aspect of its law for years. Mean-
+while, the plaintiffs face no harm from the partial stay the
+State requests. Even with it, the district court’s prelimi-
+nary injunction will operate to prevent state authorities
+from taking any action to interfere with their ability to ac-
+cess the particular drug treatments they seek.
+                               III
+  The dissent disputes none of this. It does not question
+that Idaho is entitled to relief under this Court’s traditional
+stay test. Instead, it laments the number of requests for
+interim relief this Court has recently faced in “high-profile”
+cases. Post, at 1 (JACKSON, J., dissenting from the grant of
+stay). To deter future applications of that sort, the dissent
+proposes adding to our traditional stay test new factors al-
+ien to our precedents and historic equitable practice. Re-
+spectfully, however, the dissent’s proposals miss the mark.
+  First, the dissent suggests that we should refuse to inter-
+vene when both a district court and a court of appeals have
+refused a party’s request for interim relief. Post, at 2. But
+the dissent does not explain how this system of upside-down
+precedent works, where the Supreme Court is somehow
+bound to follow lower court decisions. Of course, no one
+questions that the Court should (as it does) afford due re-
+spect to the work of our lower court colleagues. See, e.g.,
+Little v. Reclaim Idaho, 591 U. S. ___, ___ (2020) (ROBERTS,
+C. J., concurring in grant of stay) (slip op., at 5). But the
+dissent does not explain why due respect should be replaced
+with abject deference, or how the rule it proposes would al-
+low us to discharge faithfully our own obligation to assess
+fairly and independently the cases that come to us. Nor, for
+that matter, does the dissent attempt to reconcile its pro-
+posed new rule with the fact that, over the last 12 months,
+                      Cite as: 601 U. S. ____ (2024)                     7
+
+                        GORSUCH, J., concurring
+
+this Court has (repeatedly) granted interim relief to the fed-
+eral government in the face of contrary lower court rulings.1
+   Perhaps sensing these problems and convinced of the cor-
+rectness of this Court’s recent interventions, the dissent ul-
+timately fashions itself an escape hatch. Tucked away in a
+footnote, the dissent adds that it does not mean to suggest
+that the “burden” of overcoming adverse lower court deci-
+sions “can never be carried.” Post, at 3, n. 1. But if that’s
+true, when does the dissent believe we should intervene,
+and when not? And why was it appropriate for this Court
+to override lower court decisions in so many other recent
+cases but it is inappropriate to do the same here? The dis-
+sent never says. So much for the added clarity and “re-
+straint” it hopes to bring to our law. Post, at 7.
+   Second, the dissent suggests that, before granting relief,
+we should ask whether a case is “certworthy.” Post, at 4.
+But it isn’t clear how that would help matters either. In the
+past, various individual Justices faced with requests for in-
+terlocutory relief in chambers, sometimes while the Court
+stood in recess, considered whether four Justices would
+likely agree to take up the dispute. That practice may be
+understandable. But when hearing many stay requests,
+this one included, we sit as a full Court. And here, a major-
+ity has decided that this case is worthy of the Court’s atten-
+tion.
+   It has done so, too, for good reason. This case poses a
+question about the propriety of universal injunctive relief—
+a question of great significance that has been in need of the
+
+——————
+  1 See, e.g., Murthy v. Missouri, 601 U. S. ___ (2023) (overriding a lower
+
+court order prohibiting the government from coercing or encouraging so-
+cial media companies to censor private speech); Garland v. Blackhawk
+Mfg. Group, Inc., 601 U. S. ___ (2023) (setting aside a lower court order
+prohibiting the government from enforcing its regulation restricting the
+sale of ghost guns); FDA v. Alliance for Hippocratic Medicine, 598 U. S.
+___ (2023) (countermanding a lower court order staying the Food and
+Drug Administration’s approval of mifepristone, an abortion drug).
+8                          LABRADOR v. POE
+
+                         GORSUCH, J., concurring
+
+Court’s attention for some time. DHS, 589 U. S., at ___
+(opinion of GORSUCH, J.) (slip op., at 3); Griffin v. HM Flor-
+ida-ORL, LLC, 601 U. S. ___, ___ (2023) (statement of
+KAVANAUGH, J.) (slip op., at 3). This case also implicates an
+apparent circuit split, as courts of appeals have disagreed
+about whether district courts may issue the sort of sweep-
+ing relief the district court issued here when faced with
+laws very much like Idaho’s. See, e.g., Brandt v. Rutledge,
+47 F. 4th 661, 672 (CA8 2022); L. W. v. Skrmetti, 83 F. 4th
+460, 489–490 (CA6 2023). Even applying the dissent’s pro-
+posed standard for relief, then, this case would seem to sat-
+isfy it.2
+   Third, the dissent suggests that the Court should exer-
+cise more “caution” and “restraint” in cases like this one,
+where a party does not challenge the entry of a preliminary
+injunction but asks us to address only the scope of the rem-
+edy it provides. Post, at 2, 4–5. But if “caution” and “re-
+straint” are our watchwords, why would a party’s request
+——————
+   2 The dissent seeks to downplay the “certworthiness” of this case by
+
+recasting the universal aspect of the district court’s order as an “inci-
+denta[l]” feature designed to protect the plaintiffs’ anonymity. See post,
+at 3, n. 2, 4, and n. 3. But labeling universal relief incidental does not
+make it so. The district court faced two plaintiffs seeking access to cer-
+tain specific treatments, yet it issued an order applicable to all potential
+nonparties and all regulated treatments. There was nothing incidental
+about it. Tellingly, too, the district court nowhere paused to address the
+adequacy of less intrusive (and truly incidental) measures to protect the
+plaintiffs’ anonymity—for example, a sealed order, shared with pertinent
+state authorities and the plaintiffs’ physicians, guaranteeing them ac-
+cess to the particular treatments they seek. Today, the Court supplies a
+much-needed reminder that courts cannot so easily sidestep the tradi-
+tional equitable rule that the relief a federal court may issue “must . . .
+be limited to the inadequacy that produced the injury in fact that the
+plaintiff has established.” Gill v. Whitford, 585 U. S. 48, 68 (2018) (in-
+ternal quotation marks omitted). In doing so, the Court does not, as the
+dissent suggests, “ignor[e]” the district court’s reason for granting uni-
+versal relief. Post, at 4, n. 3. Rather, the Court recognizes that “aspect
+of the District Court’s decision” for what it is—an unpersuasive depar-
+ture from our precedents. Ibid.
+                  Cite as: 601 U. S. ____ (2024)            9
+
+                    GORSUCH, J., concurring
+
+for narrower rather than broader relief “counsel against our
+intervention”? Post, at 2. Do we really want to incentivize
+parties to seek more sweeping relief in order to enhance
+their chances of success in this Court? And how does it
+serve “caution” and “restraint” for this Court to allow lower
+courts to transgress foundational remedial principles more
+readily than foundational liability principles? Especially
+when pursuing that course would mean (as it does here)
+that a single federal judge may erroneously suspend the op-
+eration of a law adopted by the people’s elected representa-
+tives for years on end? Once more, the dissent offers no an-
+swers.
+   Fourth, the dissent contends that we should exercise spe-
+cial “caution” when considering whether to intervene in
+“high-profile cases.” Post, at 1. But by any measure, a great
+deal of caution is already baked into the Nken analysis. To
+warrant this Court’s intervention, an applicant seeking a
+stay must make a “ ‘strong showing’ ” on the merits, demon-
+strate an “ ‘irreparable’ ” harm, and persuade the Court that
+the public interest warrants intervention. Nken, 556 U. S.,
+at 434. The dissent does not explain why these traditional
+cautionary notes are insufficient.
+   Nor does it explain why we should reserve an added new
+measure of caution for “high profile” matters alone. I would
+have thought that, as judges, we should neither deliber-
+ately seek out nor evade “high-profile” disputes, but afford
+all litigants who come before us their lawful due. Even tak-
+ing the dissent’s test on its own terms, too, my colleagues
+fail to explain why this case qualifies for special caution as
+“high profile” but so many others in the last 12 months did
+not. Does anyone really think that this Court’s recent in-
+terventions—in cases involving ghost guns, allegations of
+government censorship, and abortion access—were war-
+10                         LABRADOR v. POE
+
+                         GORSUCH, J., concurring
+
+ranted because the laws at issue there were less “high-pro-
+file” than Idaho’s? See n. 1, supra.3
+                               IV
+   None of this is to suggest the dissent is without a point.
+Perhaps the Court has seen a rise in the number of applica-
+tions for interim relief. But if so, it seems to me that this
+trend is not the result of (nor does it justify tinkering with)
+this Court’s precedents and traditional equitable stand-
+ards. Instead, at least part of the problem may be attribut-
+able to a departure from those precedents and standards in
+the lower courts. In recent years, certain district courts
+across the country have not contented themselves with is-
+suing equitable orders that redress the injuries of the plain-
+tiffs before them, but have sought instead to govern an en-
+tire State or even the whole Nation from their courtrooms.
+Today, Idaho is on the receiving end of one of these univer-
+sal injunctions, but lately it has often been the federal gov-
+ernment.4
+——————
+   3 The dissent chides me for neglecting to mention that the State
+
+stamped the word “EMERGENCY” on the front cover of its stay applica-
+tion. Post, at 5. But it is not obvious what point the dissent is trying to
+make. Post, at 6, n. 4. In its recent stay applications, the federal gov-
+ernment hasn’t always affixed a similar stamp on its papers. See, e.g.,
+Application in No. 23A302, Garland v. Blackhawk Mfg. Group, Inc. (Oct.
+5, 2023); Application in No. 23A243, Murthy v. Missouri (Sept. 14, 2023);
+Application in No. 22A902, FDA v. Alliance for Hippocratic Medicine
+(Apr. 14, 2023). Should we have denied those applications on that basis?
+In truth, every applicant for interim relief believes its case qualifies as
+an “emergency.” Our traditional stay test helps us evaluate those asser-
+tions by focusing our attention on factors such as irreparable harm, the
+balance of equities, and the public interest. The dissent does not explain
+what additional value an “emergency” test would provide or what neutral
+principle would guide our analysis. Nor, for that matter, does the dissent
+square its proposed new “emergency” test with its other proposals. Take
+the dissent’s preference for avoiding high-profile cases. See post, at 1, 5.
+Does the dissent mean to suggest that we should grant relief only in
+“emergencies,” but only so long as they also keep a low profile?
+   4 Many of this Court’s recent orders granting interim relief were the
+                      Cite as: 601 U. S. ____ (2024)                    11
+
+                        GORSUCH, J., concurring
+
+   As best I can tell, universal injunctions are a relatively
+new phenomenon. By some accounts, universal injunctions
+against the federal government during President Franklin
+D. Roosevelt’s tenure—those 12 eventful years covering the
+Great Depression, the New Deal, and most of World War
+II—were virtually unknown. See Bray, 131 Harv. L. Rev.,
+at 434–435. Others have pointed to a single example of a
+“nation-wide” decree during that period, but there the
+Court reversed the lower court’s “sweeping” ruling for lack
+of standing. Perkins v. Lukens Steel Co., 310 U. S. 113, 117,
+120–121 (1940). Even as late as President Barack Obama’s
+administration, some estimate that lower courts issued
+only about 19 universal injunctions against the federal gov-
+ernment over the course of eight years. See Dept. of Justice,
+J. Rosen, Opening Remarks at Forum on Nationwide In-
+junctions and Federal Regulatory Programs (Feb. 12, 2020).
+Since then, however, universal injunctions have prolifer-
+ated. By one count, lower courts issued 55 universal injunc-
+tions during the first three years of President Donald
+Trump’s administration. Ibid. And if the last 12 months
+are any indication, it seems that trend has continued apace
+during the administration of President Joseph R. Biden, Jr.
+See, e.g., n. 1, supra (citing examples).
+   A rising number of universal injunctions virtually guar-
+antees that a rising number of “high-profile” cases will find
+their way to this Court. Just consider this case. Idaho does
+not challenge the district court’s injunction to the extent it
+addresses the plaintiffs’ asserted injuries. The State seeks
+relief here only because and to the extent the district court
+prevented it from enforcing any aspect of its duly enacted
+——————
+product of a different and unrelated problem: the profound “intrusions
+on civil liberties” governments attempted in response to COVID–19. Ar-
+izona v. Mayorkas, 598 U. S. ___, ___ (2023) (statement of GORSUCH, J.)
+(slip op., at 4). And, “[n]ot surprisingly,” the number of requests for in-
+terim relief in this Court “has shrunk in the years since COVID–19.”
+Post, at 11, n. 5 (KAVANAUGH, J., concurring in the grant of stay).
+12                    LABRADOR v. POE
+
+                    GORSUCH, J., concurring
+
+law against anyone—all without any showing that other
+provisions in the statute violate federal law or the rights of
+any current party. As in so many other recent cases, the
+district court’s universal injunction effectively transformed
+a limited dispute between a small number of parties focused
+on one feature of a law into a far more consequential refer-
+endum on the law’s every provision as applied to anyone.
+   What’s worse, universal injunction practice is almost by
+design a fast and furious business. Normally, parties spend
+“their time methodically developing arguments and evi-
+dence” before proceeding to a trial and final judgment lim-
+ited to the persons and claims at hand. DHS, 589 U. S., at
+___ (opinion of GORSUCH, J.) (slip op., at 3). If they seek
+relief for a larger group of persons, they must join those in-
+dividuals to the suit or win class certification. In universal-
+injunction practice, none of that is necessary. Just do a lit-
+tle forum shopping for a willing judge and, at the outset of
+the case, you can win a decree barring the enforcement of a
+duly enacted law against anyone. Once that happens, the
+affected government (state or federal) will often under-
+standably feel bound to seek immediate relief from one
+court and then the next, with the finish line in this Court.
+After all, if the government does not act promptly, it can
+expect a law that the people’s elected representatives have
+adopted as necessary and appropriate to their present cir-
+cumstances will remain ineffectual for years on end. In all
+these ways, universal injunctions circumvent normal judi-
+cial processes and “tend to force judges into making rushed,
+high-stakes, low-information decisions” at all levels. Id., at
+___ (opinion of GORSUCH, J.) (slip op., at 4).
+   Today, the Court takes a significant step toward address-
+ing the problem. It does so not by reworking our precedents
+and traditional equitable practices, but by enforcing them.
+It focuses directly on a root cause of the recent proliferation
+of interlocutory litigation in “high profile” matters, sets
+                  Cite as: 601 U. S. ____ (2024)             13
+
+                     GORSUCH, J., concurring
+
+aside a district court’s universal injunction, and in the pro-
+cess reminds lower courts of the foundational rule that any
+equitable remedy they issue must not be “more burdensome
+to the defendant than necessary to [redress]” the plaintiff ’s
+injuries. Califano, 442 U. S., at 702.
+   Lower courts would be wise to take heed. Retiring the
+universal injunction may not be the answer to everything
+that ails us. But it will lead federal courts to become a little
+truer to the historic limits of their office; promote more
+carefully reasoned judicial decisions attuned to the facts,
+parties, and claims at hand; allow for the gradual accretion
+of thoughtful precedent at the circuit level; and reduce the
+pressure on governments to seek interlocutory relief in this
+Court. A return to a more piecemeal and deliberative judi-
+cial process may strike some as inefficient. It may promise
+less power for the judge and less drama and excitement for
+the parties and public. But if any of that makes today’s de-
+cision wrong, it makes it wrong in the best possible ways,
+for “good judicial decisions are usually tempered by older
+virtues.” DHS, 589 U. S., at ___ (slip op., at 4).
+                  Cite as: 601 U. S. ____ (2024)            1
+
+                   KAVANAUGH, J., concurring
+
+SUPREME COURT OF THE UNITED STATES
+                          _________________
+
+                           No. 23A763
+                          _________________
+
+
+ RAUL LABRADOR, ATTORNEY GENERAL OF IDAHO
+  v. PAM POE, BY AND THROUGH HER PARENTS AND NEXT
+       FRIENDS, PENNY AND PETER POE, ET AL.
+
+                 ON APPLICATION FOR STAY
+                         [April 15, 2024]
+
+   JUSTICE KAVANAUGH, with whom JUSTICE BARRETT
+joins, concurring in the grant of stay.
+   A Federal District Court in Idaho preliminarily enjoined
+Idaho from enforcing its new Vulnerable Child Protection
+Act. The U. S. Court of Appeals for the Ninth Circuit
+declined to stay the injunction. Idaho then filed an
+emergency application in this Court for a partial stay of the
+injunction. The Court today grants Idaho’s emergency
+application. I agree with the Court’s decision.
+   I add this concurring opinion to explain how this Court
+typically resolves emergency applications in cases like
+this—namely, in cases where a party has sought to enjoin
+enforcement of a new state or federal law in the often years-
+long period until a final decision on the merits.
+   Traditionally, one important factor when this Court
+decides an emergency application involving a new law is
+likelihood of success on the merits. The likelihood of
+success on the merits factor can pose difficulty, however,
+because it can require the Court to assess the merits of
+important cases earlier and more quickly than is ordinarily
+preferable, and to do so without the benefit of full merits
+briefing and oral argument. But when resolving emergency
+applications involving significant new laws, this Court
+often cannot avoid that difficulty. It is not ideal, but it is
+reality. Given that reality, the Court must then determine
+2                     LABRADOR v. POE
+
+                   KAVANAUGH, J., concurring
+
+the best processes for analyzing likelihood of success on the
+merits in emergency cases.
+                                I
+  Here is how the issue typically arises. After a new federal
+statute, federal regulation, or state law has been enacted,
+an adversely affected party who contends that the new law
+violates the Constitution or federal law may seek a pre-
+enforcement preliminary injunction in federal district
+court. A preliminary injunction prevents the government
+from enforcing its new law pending the eventual decision
+on the merits. If the district court grants a preliminary
+injunction, the government may promptly seek a stay in the
+court of appeals.       Or if the district court denies a
+preliminary injunction, the plaintiff may promptly seek an
+injunction in the court of appeals.
+  The party that loses in the court of appeals may then seek
+emergency relief in this Court. The losing party may argue,
+for example, that a consequential new law has been
+mistakenly enjoined or mistakenly green-lighted by the
+lower courts, and ask this Court to grant relief.
+  When an emergency application comes to this Court, we
+must decide it—grant or deny. The Court has no authority
+to reject or turn away emergency filings without deciding
+them.
+  It is critical to appreciate the significance of the decision
+that this Court is being asked to make in emergency cases
+involving new laws. Keep in mind how much time it takes
+for the litigation process to run its course and reach a final
+merits ruling in the district court, court of appeals, and
+potentially this Court—often one to three years or even
+longer. The final merits decision, when it occurs, will of
+course be important. But the interim status of the law—
+that is, whether the law is enforceable during the several
+years while the parties wait for a final merits ruling—itself
+raises a separate question of extraordinary significance to
+                     Cite as: 601 U. S. ____ (2024)                    3
+
+                      KAVANAUGH, J., concurring
+
+the parties and the American people. And that is the
+question this Court often must address when deciding
+emergency applications involving new laws.1
+  Consider a few examples. Suppose that a State enacts a
+new online defamation law. Do communications and media
+companies have to alter their editorial policies and posting
+practices to comply with that new speech law during the
+several years while its constitutionality under the First
+Amendment is being litigated on the merits? Or suppose
+that EPA issues major new environmental regulations. Do
+businesses have to restructure their operations or build
+new facilities to comply with the new regulations during the
+multiyear period while the legality of the regulations is
+being challenged in court? Cf. West Virginia v. EPA, 577
+U. S. 1126 (2016) (enjoining Clean Power Plan pending
+review by the Court of Appeals and Supreme Court).
+  In those emergency cases, the plaintiffs—including
+individuals and businesses—often will suffer irreparable
+harm if the relevant government officials are not enjoined
+from enforcing the law during that multiyear period. But
+on the flip side, other parties—including the Federal
+Government, the States, or other individuals and
+businesses—often will suffer irreparable harm if the
+relevant government officials are enjoined from enforcing
+the law during that multiyear period.
+  If the moving party has not demonstrated irreparable
+harm, then this Court can avoid delving into the merits.
+But not infrequently—especially with important new
+laws—the harms and equities are very weighty on both
+sides. In those cases, this Court has little choice but to
+——————
+  1 The Court also receives emergency applications in other contexts,
+
+such as capital cases, election-law cases, and a smorgasbord of other
+matters. But a distinct difficulty arises when we consider emergency
+applications involving the enforcement of new federal or state laws. This
+opinion uses “laws” as shorthand to include regulations and executive
+policies as well.
+4                          LABRADOR v. POE
+
+                       KAVANAUGH, J., concurring
+
+decide the emergency application by assessing likelihood of
+success on the merits. Courts historically have relied on
+likelihood of success as a factor because, if the harms and
+equities are sufficiently weighty on both sides, the best and
+fairest way to decide whether to temporarily enjoin a law
+pending the final decision is to evaluate which party is most
+likely to prevail in the end.2
+   The merits issues raised in emergency applications
+involving new laws can be consequential and difficult. And
+those applications can require this Court to assess the
+merits on a tight timeline—without the benefit of many
+reasoned lower-court opinions, full merits briefing, and oral
+argument. It is worth noting that this difficulty is not
+unique to this Court—lower courts must also deal with
+applications for interim relief that can require them to
+assess the merits on a tight timeline.
+   That scenario is not always optimal for orderly judicial
+decisionmaking. So various suggestions have been made to
+eliminate or reduce the need for this Court to address
+likelihood of success on the merits when resolving
+emergency applications involving new laws.              Some
+suggestions have force; others are questionable. As I see it,
+none completely eliminates the need for this Court to make
+those calls.
+   First, some suggest that this Court, when receiving an
+emergency application involving a new law, should adopt a
+default posture of deference to the court of appeals’ ruling
+on a stay or injunction, especially when the court of appeals
+——————
+   2 This Court has used different formulations of the factors for granting
+
+emergency relief. All formulations basically encompass (1) likelihood of
+success on the merits (or a fair prospect of success); (2) certworthiness;
+(3) the harms to the parties; and (4) the equities and public interest. See,
+e.g., Hollingsworth v. Perry, 558 U. S. 183, 190 (2010) (per curiam). For
+present purposes, I will treat likelihood of success as equivalent to a fair
+prospect of success. If there is any meaningful difference among the
+common formulations of the emergency-relief factors (which I tend to
+doubt), those distinctions can be explored if necessary in a future case.
+                 Cite as: 601 U. S. ____ (2024)            5
+
+                   KAVANAUGH, J., concurring
+
+has not disturbed the district court’s ruling on whether to
+grant or deny an injunction. See, e.g., post, p. 1 (JACKSON,
+J., dissenting from grant of stay). Under that view, this
+Court should deny most emergency applications in cases
+involving new laws, regardless of whether an injunction
+against enforcement of the law was ultimately upheld or
+denied by the court of appeals.
+   I respectfully disagree with that suggestion. Again,
+whether a new federal or state law can be enforced during
+the several years before a final ruling on the merits can
+itself be an important national question. And this Court
+has a responsibility to resolve major questions of national
+importance. So a default policy of off-loading to lower
+courts the final word on whether to green-light or block
+major new laws for the several years until a final ruling on
+the merits would amount to an abdication of this Court’s
+proper role. Moreover, given the possibility that different
+courts of appeals might reach different conclusions on
+whether to enjoin the enforcement of a new law for the
+several years pending final review, a deferential approach
+could lead to substantial uncertainty and disuniformity
+that become untenable in cases involving nationwide
+government programs or national businesses.
+   I would therefore not adopt a default position where the
+Court always (or almost always) denies emergency
+applications involving new laws. Rather, the Court needs
+some way to evaluate when to grant relief. And one of the
+traditional, tried-and-true factors has been likelihood of
+success on the merits.
+   Second, one might reasonably think that this Court,
+when dealing with an emergency application, should simply
+try to “preserve the status quo.” Sounds attractive in
+theory. But in practice, difficulties emerge when trying to
+define the status quo. Is the status quo the situation on the
+ground before enactment of the new law? Or is the status
+quo the situation after enactment of the new law, but before
+6                     LABRADOR v. POE
+
+                   KAVANAUGH, J., concurring
+
+any judicial injunction? Or is the status quo the situation
+after any district court ruling on a preliminary injunction?
+Or is the status quo the situation after a court of appeals
+ruling on a stay or injunction?
+   There is no good blanket answer to the question of what
+the status quo is. Each conception of the status quo is
+defensible, but there is no sound or principled reason to pick
+one over another as a rule to apply in all cases involving
+new laws.
+   And even if we could settle on one definition of the status
+quo, applying that one definition consistently across the
+range of emergency applications would lead to very
+troubling results. Suppose, for example, that the status quo
+is defined to mean the status before enactment of the new
+law. If courts applied that rule across the board, some
+plainly constitutional and democratically enacted laws
+would effectively be blocked for several years pending the
+final decision on the merits. Or suppose instead that the
+status quo is defined as the status after the new law is in
+place. In that case, some plainly unconstitutional or
+otherwise illegal laws would nonetheless remain in effect
+and be enforced against individuals and businesses for
+several years pending the final decision on the merits.
+   I doubt that anyone would tolerate such an inequitable
+and scattershot approach. So even if we could define the
+status quo in theory in a principled way across all cases, a
+blanket rule of “preserving the status quo” in application
+would not be suitable for this Court’s emergency docket.
+That is yet another reason why the Court throughout its
+history has relied on likelihood of success on the merits as
+an essential factor in determining when to grant emergency
+relief in individual cases.
+   Third, JUSTICE BARRETT has emphasized that the Court
+can and should take care to focus on certworthiness when
+considering emergency applications. Does 1–3 v. Mills, 595
+U. S. ___ (2021) (BARRETT, J., concurring in denial of
+                  Cite as: 601 U. S. ____ (2024)            7
+
+                   KAVANAUGH, J., concurring
+
+application for injunctive relief ). If the underlying merits
+issue would not warrant this Court’s review when the case
+returned to the Court on the merits docket, then we should
+deny the application and leave the question of interim relief
+to the court of appeals. I fully agree with JUSTICE
+BARRETT’s important insight. Emphasizing certworthiness
+as a threshold consideration helps to prevent parties from
+using “the emergency docket to force the Court to give a
+merits preview in cases that it would be unlikely to take.”
+Id., at ___ (slip op., at 1).
+  Of course, the certworthiness factor is, by definition, only
+a partial cure for the issue here: Although emphasizing
+that factor reduces the number of emergency applications
+involving new laws where we have to assess the merits,
+some of the most significant and difficult emergency
+applications will readily clear the certworthiness bar. And
+in those cases, we may still have to assess likelihood of
+success on the merits.
+  Fourth, some suggest that the Court should prohibit so-
+called nationwide and statewide injunctions—injunctions
+that prevent enforcement of a law against persons other
+than the plaintiffs.        The theory is that eliminating
+nationwide and statewide injunctions by district courts will
+in turn reduce the number of emergency applications
+involving new laws that make it to this Court, or at least
+reduce the number of applications where this Court needs
+to assess the merits.
+  As I see it, prohibiting nationwide or statewide
+injunctions may turn out to be the right rule as a matter of
+law regardless of its impact on this Court’s emergency
+docket. See ante, at 4–5, 13 (GORSUCH, J., concurring in
+grant of stay). More to the point for present purposes, I
+agree that such a rule could somewhat reduce the number
+of emergency applications that make it to this Court and
+require the Court to assess the merits.
+  To begin with, the government party might not seek
+8                       LABRADOR v. POE
+
+                     KAVANAUGH, J., concurring
+
+immediate appellate (or Supreme Court) review of a
+preliminary injunction that is confined to one or a few
+individual parties. And an emergency application to this
+Court where the issue concerns only a few individual
+parties may not clear the certworthiness bar.3
+   That said, a rule prohibiting nationwide or statewide
+injunctions would not eliminate the need for this Court to
+assess the merits of some emergency applications involving
+new laws. For one, there is ongoing debate about whether
+any such rule would apply to Administrative Procedure Act
+cases involving new federal regulations, given the text of
+the APA. See Griffin v. HM Florida-ORL, LLC, 601 U. S.
+___, ___, n. 1 (2023) (statement of KAVANAUGH, J.,
+respecting denial of application for stay) (slip op., at 3, n. 1);
+5 U. S. C. §706(2). But put that caveat aside for now.
+   Even if a district court enjoins a new federal statute or
+state law only as to the particular plaintiffs, that injunction
+could still have widespread effect. For example, the
+plaintiff might be a State, or the plaintiff might be an
+association that has many members, or the plaintiffs might
+file a class action for classwide injunctive relief under Rule
+23(b) of the Federal Rules of Civil Procedure. So even if
+district court injunctions are confined to the plaintiffs,
+there still will be emergency applications with nationally
+important effects that come to this Court and clear the
+certworthiness bar, thereby still requiring this Court to
+assess the merits.
+   Moreover, the effects of a rule prohibiting nationwide or
+statewide injunctions on this Court’s emergency docket can
+be diminished by vertical stare decisis. The general
+discussion of the scope of district court injunctions often
+overlooks the important role of the court of appeals. Even
+
+——————
+  3 The scope of the injunction may affect evaluation not only of
+
+certworthiness but also of the harms to the government defendant and
+other affected parties.
+                  Cite as: 601 U. S. ____ (2024)            9
+
+                   KAVANAUGH, J., concurring
+
+when district court injunctions are limited to the plaintiffs,
+the losing party in the district court’s preliminary
+injunction proceeding may promptly seek an injunction or
+stay in the court of appeals. And any ensuing decision by
+the court of appeals to grant or deny injunctive relief could
+then have precedential effect—formally, when there is a
+precedential opinion, or perhaps informally, when there is
+not—on other district courts in that circuit when other
+parties seek similar injunctive relief. After all, with any
+consequential new law, many different parties may seek
+preliminary injunctions in separate proceedings in the
+district courts within a circuit.
+   As a result, the ruling by the court of appeals on an
+emergency application for a stay or injunction in a discrete
+case (or cases) can often determine whether the new law
+continues to be enforced across the entire circuit. And in
+those circumstances, the losing party in the court of appeals
+may seek relief in this Court and point out that the court of
+appeals decision may have broader circuitwide impact—
+and is therefore different from just a single district court
+ruling involving a few plaintiffs. Put simply, when a court
+of appeals ruling on an emergency stay or injunction could
+affect enforcement of a significant new law throughout the
+circuit, that broader impact may sometimes make the case
+significant enough to clear the certworthiness bar in this
+Court.
+   With any consequential new federal law, moreover, it is
+likely that different parties will seek preliminary
+injunctions in multiple circuits. And what happens if
+different courts of appeals reach different results? For
+example, what if a major new federal law regulating social
+media companies, or immigration, or energy producers, or
+healthcare, or securities markets is enforceable in one
+circuit but not in another for the several years pending final
+review on the merits? That disuniformity could often be
+highly problematic. Again, an emergency application to
+10                         LABRADOR v. POE
+
+                       KAVANAUGH, J., concurring
+
+this Court in those circumstances could clear the
+certworthiness bar, meaning that we may still have to
+consider likelihood of success when deciding it.
+  In short, a rule limiting the scope of district court
+injunctions may be correct as a matter of law, even apart
+from its effects on this Court’s emergency docket. And the
+result of a rule against nationwide or statewide injunctions
+may be to somewhat reduce the number of emergency
+applications involving new laws where this Court must
+assess likelihood of success on the merits. But that rule
+would not eliminate the need for this Court to sometimes
+decide important emergency applications involving new
+laws by assessing likelihood of success on the merits.4
+                              II
+  As the discussion so far has sought to illustrate, this
+Court cannot avoid evaluation of the merits in at least some
+emergency applications involving consequential new laws.
+  If I am correct about that basic reality, another important
+question concerns this Court’s processes. What process
+should this Court employ for assessing likelihood of success
+on the merits with respect to an emergency application,
+particularly in cases involving important new federal or
+state laws? Given the extraordinary significance of the
+question whether a consequential new law can be enforced
+during the several years while merits litigation is ongoing,
+the Court should use as many tools as feasible and
+appropriate to make the most informed and best decision.
+Sometimes that might mean taking more time (if available),
+ordering supplemental briefing, or inviting amicus briefs.
+In certain circumstances, moreover, the Court might
+benefit from oral argument or may even grant certiorari
+before judgment.
+——————
+  4 Here, the State’s application seeks a stay primarily because of the
+
+scope of the injunction. That issue is itself certworthy, and I believe that
+the State has a likelihood of success on that issue.
+                     Cite as: 601 U. S. ____ (2024)                  11
+
+                      KAVANAUGH, J., concurring
+
+  Especially in recent years, the Court has employed many
+of those tools to help the Court better decide important
+emergency applications. See, e.g., Biden v. Nebraska, 600
+U. S. 477 (2023) (Court granted certiorari before judgment
+and expedited oral argument after receiving emergency
+application involving federal student loan forgiveness
+program); National Federation of Independent Business v.
+OSHA, 595 U. S. 109 (2022) (per curiam) (Court granted
+expedited oral argument after receiving emergency
+application involving OSHA vaccine mandate); Biden v.
+Missouri, 595 U. S. 87 (2022) (per curiam) (same, for
+emergency application involving CMS vaccine mandate).
+And I believe that the Court should continue to be flexible
+in employing appropriate procedures so as to best decide
+important emergency applications.
+  A related question is whether the Court should issue
+opinions—that is, opinions for the Court as distinct from
+separate concurring or dissenting opinions—to publicly
+explain our grounds for granting or denying an emergency
+application involving an important new law. Opinions for
+the Court can sometimes be appropriate in order to explain
+our reasoning, as in the vaccine mandate cases, for
+example. See ibid.5 That said, an opinion for the Court
+addressing likelihood of success on the merits for an
+emergency application can sometimes come at a cost. A
+written opinion by this Court assessing likelihood of success
+on the merits at a preliminary stage can create a lock-in
+effect because of the opinion’s potential vertical
+
+——————
+  5 During the COVID–19 pandemic, the Court sometimes found it
+
+important to issue opinions on COVID–19-related legal questions, in part
+because of the widespread assumption that the pandemic would largely
+be over before any final ruling on the merits in the court system.
+Therefore, the emergency docket during the COVID–19 pandemic in
+essence was the merits docket as to certain COVID–19-related issues.
+Not surprisingly, this Court’s emergency docket, while still robust, has
+shrunk in the years since COVID–19.
+12                    LABRADOR v. POE
+
+                   KAVANAUGH, J., concurring
+
+precedential effect (de jure or de facto), which can thereby
+predetermine the case’s outcome in the proceedings in the
+lower courts and hamper percolation across other lower
+courts on the underlying merits question. (Of course, that
+can happen to a lesser degree even when the Court simply
+issues a bare-bones order granting or denying relief.) So in
+my view, issuing opinions for the Court with respect to
+emergency applications may sometimes be appropriate, but
+we should exercise appropriate caution before doing so.
+                        *    *    *
+   Although the volume of cases challenging new laws and
+coming to this Court on the emergency docket is a relatively
+recent development, this Court’s emergency docket—and
+the difficulties associated with it—are not new. The
+emergency docket has always existed, and both the Court
+and even individual Justices acting in chambers have made
+a plethora of important decisions for the Nation in an
+emergency posture. See, e.g., West Virginia v. EPA, 577
+U. S. 1126 (2016) (temporarily enjoining Clean Power
+Plan); Purcell v. Gonzalez, 549 U. S. 1 (2006) (per curiam)
+(vacating injunction pending appeal regarding state voter
+ID law); Rubin v. United States, 524 U. S. 1301 (1998)
+(Rehnquist, C. J., in chambers) (denying stay pending
+certiorari of order enforcing subpoenas to Secret Service
+agents regarding observations of the President);
+Schlesinger v. Holtzman, 414 U. S. 1321 (1973) (Marshall,
+J., in chambers) (staying District Court’s injunction that
+ordered a halt to bombing in Cambodia); Youngstown Sheet
+& Tube Co. v. Sawyer, 343 U. S. 579, 584, 589 (1952) (after
+expedited oral argument, affirming District Court’s
+preliminary injunction that proscribed seizure of steel mills
+by government); cf. Rosenberg v. United States, 346 U. S.
+273, 283–285 (1953) (vacating stay of execution of the
+Rosenbergs).
+   In my view, the Court can potentially reduce the number
+                 Cite as: 601 U. S. ____ (2024)           13
+
+                   KAVANAUGH, J., concurring
+
+of emergency applications involving new laws where the
+Court has to assess likelihood of success on the merits. But
+this Court is responsible for resolving questions of national
+importance, even when they arise on the emergency docket.
+Fulfilling that responsibility will sometimes require us to
+assess likelihood of success on the merits in emergency
+cases involving new laws, as the Court has in the past.
+                   Cite as: 601 U. S. ____ (2024)               1
+
+                      JACKSON, J., dissenting
+
+SUPREME COURT OF THE UNITED STATES
+                           _________________
+
+                            No. 23A763
+                           _________________
+
+
+ RAUL LABRADOR, ATTORNEY GENERAL OF IDAHO
+  v. PAM POE, BY AND THROUGH HER PARENTS AND NEXT
+       FRIENDS, PENNY AND PETER POE, ET AL.
+
+                  ON APPLICATION FOR STAY
+                          [April 15, 2024]
+
+   JUSTICE JACKSON, with whom JUSTICE SOTOMAYOR joins,
+dissenting from grant of stay.
+   When a party asks this Court to “sideste[p] the ordinary
+judicial process” and intervene at an atypical juncture, our
+default should be “restraint.” Barr v. East Bay Sanctuary
+Covenant, 588 U. S. ___, ___ (2019) (SOTOMAYOR, J., dis-
+senting from grant of stay) (slip op., at 5). We do not have
+to address every high-profile case percolating in lower
+courts, and there are usually many good reasons not to do
+so. Few applicants can meet our threshold requirement of
+“an exceptional need for immediate relief,” by showing that
+they will suffer not just substantial harm but an “irreversi-
+ble injury . . . occurring during the appeals process that can-
+not be later redressed.” Louisiana v. American Rivers, 596
+U. S. ___, ___ (2022) (KAGAN, J., dissenting) (slip op., at 2).
+Even when an applicant establishes that highly unusual
+line-jumping justification, we still must weigh the serious
+dangers of making consequential decisions “on a short fuse
+without benefit of full briefing and oral argument.” Does 1–
+3 v. Mills, 595 U. S. ___, ___ (2021) (BARRETT, J., concurring
+in denial of application for injunctive relief ) (slip op., at 1).
+Without adequate caution, our decisions risk being not only
+“unreasoned,” but unreasonable. Whole Woman’s Health v.
+Jackson, 594 U. S. ___, ___ (2021) (KAGAN, J., dissenting
+from denial of application for injunctive relief ) (slip op., at
+2                     LABRADOR v. POE
+
+                     JACKSON, J., dissenting
+
+1–2).
+   This case presents numerous reasons for exercising re-
+straint. As explained in Part I below, the State of Idaho’s
+emergency application asks us to override the decisions of
+two lower courts based on an issue not clearly implicated
+and under circumstances where the State does not contest
+that its law should remain enjoined as likely unconstitu-
+tional, at least as applied to the plaintiffs. As described in
+Part II, even if today’s application actually involved a “uni-
+versal injunction,” the emergency docket would not be the
+place to address the open and challenging questions that
+that issue raises. I respectfully dissent.
+                              I
+  Three interdependent reasons counsel against our inter-
+vention. First of all, the applicant seeks displacement of
+the decisions of both “the District Court and . . . a unani-
+mous panel of the Court of Appeals.” Beame v. Friends of
+the Earth, 434 U. S. 1310, 1312 (1977) (Marshall, J., in
+chambers). A Federal District Court determined that a
+never-before-in-effect Idaho law is likely unconstitutional,
+and that court issued a preliminary injunction that tempo-
+rarily blocks the law’s enforcement while it considers the
+merits of the challengers’ legal claims. Wishing to enforce
+the challenged law during the course of the litigation, the
+State asked for a stay pending appeal. But both the District
+Court and the Ninth Circuit denied that request. Our re-
+spect for lower court judges—no less committed to fulfilling
+their constitutional duties than we are and much more fa-
+miliar with the particulars of the case—normally requires
+an applicant seeking an emergency stay from this Court af-
+ter two prior denials to carry “an especially heavy burden.”
+See Edwards v. Hope Medical Group for Women, 512 U. S.
+                      Cite as: 601 U. S. ____ (2024)                        3
+
+                          JACKSON, J., dissenting
+
+1301, 1302 (1994) (Scalia, J., in chambers) (internal quota-
+tion marks omitted).1
+   Second, the State has not come close to carrying its heavy
+burden in this case. No party disputes that, assuming all
+of the other stay factors were met, Idaho needs to show “a
+reasonable probability that this Court will grant certiorari”
+in order to obtain an emergency stay. Maryland v. King,
+567 U. S. 1301, 1302 (2012) (ROBERTS, C. J., in chambers)
+(internal quotation marks omitted); see also Emergency Ap-
+plication for Stay 29–32; Response in Opposition 19–24; Re-
+ply Brief 14–15.2 Idaho maintains that this case is certwor-
+thy because it raises the question of whether a district court
+can issue an injunction that grants relief directed to all po-
+tentially impacted nonparties—a so-called “universal in-
+junction.” The only problem: That’s not what the District
+Court did here. Far from attempting to grant relief to par-
+ties not before it, the District Court expressly stated that,
+——————
+   1 The concurrence seems perplexed by the idea that lower court deci-
+
+sions about interim relief deserve our respect. See ante, at 6–7 (opinion
+of GORSUCH, J.) (hereinafter concurrence). In its telling, that “upside-
+down” suggestion leaves this Court either powerless to correct mistakes
+or hopelessly inconsistent when we do. Ante, at 6. But to say that a party
+bears an especially heavy burden is not to say that burden can never be
+carried. See Little v. Reclaim Idaho, 591 U. S. ___, ___ (2020) (ROBERTS,
+C. J., joined by, inter alios, GORSUCH, J., concurring in grant of stay) (slip
+op., at 5) (“No one has overlooked that the State bears an ‘especially
+heavy burden’ in justifying a stay pending its appeal to the Ninth Cir-
+cuit[,] . . . [b]ut in my view that burden has been met”). Even when two
+lower courts deny relief, an applicant can still prevail in this Court under
+our traditional emergency stay factors. The heavier burden, though, has
+long served as a sobering reminder that, after two prior levels of review,
+interim relief has consistently been deemed unwarranted.
+   2 While the concurrence appears to attribute the certworthiness con-
+
+sideration to this dissent, see ante, at 7–8, it is standard practice for this
+Court to assess certworthiness when evaluating an emergency applica-
+tion. See, e.g., Does 1–3 v. Mills, 595 U. S. ___, ___ (2021) (BARRETT, J.,
+concurring in denial of application for injunctive relief ) (slip op., at 1);
+Little, 591 U. S., at ___ (slip op., at 2); Hollingsworth v. Perry, 558 U. S.
+183, 190 (2010) (per curiam).
+4                          LABRADOR v. POE
+
+                         JACKSON, J., dissenting
+
+“[i]n the absence of class certification, injunctive relief gen-
+erally should be limited to the named plaintiffs.” ___
+F. Supp. 3d ___, ___ (Idaho 2023), App. A to Application for
+Stay 52. Then, ultimately, the District Court settled on is-
+suing a statewide preliminary injunction for a party-cen-
+tered, fact-specific reason: because it found that doing so
+was necessary to protect the particular plaintiffs before the
+court, including two minors proceeding under pseudonyms,
+against action by the State it deemed likely unconstitu-
+tional. Id., at 53. Any error by the District Court as to the
+necessity of the preliminary relief it has chosen raises, at
+best, a factbound question, not a certworthy issue.3
+   Third, and finally, Idaho seeks emergency relief without
+contesting that its law should be preliminarily enjoined as
+likely unconstitutional, at least as applied to the plaintiffs
+before the District Court. See ante, at 3 (opinion of
+GORSUCH, J.). The State takes this litigating position while
+defending a statute that regulates access to gender-affirm-
+ing medical care for transgender children. That is a serious
+and consequential matter, which, indeed, raises the profile
+of this case and the stakes of our intervention, for the law
+at issue here will have a significant practical impact on eve-
+ryone it affects. The constitutional questions around this
+law are significant as well because statutes like this one
+raise new and complex issues. Unlike in myriad other
+emergency cases, however, the State is not seeking interim
+——————
+   3 The concurrence all but ignores this key aspect of the District Court’s
+
+decision. See ante, at 2–3. But even the most ardent critics of “universal
+injunctions” acknowledge that, in providing relief to the parties before a
+court, an injunction may incidentally benefit nonparties. See, e.g.,
+United States v. Texas, 599 U. S. 670, 693 (2023) (GORSUCH, J., concur-
+ring in judgment); Trump v. Hawaii, 585 U. S. 667, 717 (2018) (THOMAS,
+J., concurring). We might ultimately disagree in this case about whether
+the District Court’s determination about the necessary scope of relief to
+protect the plaintiffs qualifies as an abuse of discretion. See ante, at 8,
+n. 2. But any such debate would not transform the State’s case-specific,
+fact-intensive request for error correction into a certworthy issue.
+                     Cite as: 601 U. S. ____ (2024)                     5
+
+                         JACKSON, J., dissenting
+
+relief based on any errors by the lower courts with respect
+to consequential merits questions. Contra, ante, at 8–10.
+   Instead, in a troubling bid for this Court’s early interven-
+tion, the State asks us to wade into the middle of ongoing
+lower court proceedings to weigh in on a single query con-
+cerning only one aspect of a preliminary determination by
+the District Court: whether the temporary relief that the
+District Court has afforded pending its review of the merits
+sweeps too broadly. In my view, we should resist being con-
+scripted into service when our involvement amounts to mi-
+cromanaging the lower courts’ exercise of their discretion-
+ary authority in the midst of active litigation. This Court is
+not compelled to rise and respond every time an applicant
+rushes to us with an alleged emergency, and it is especially
+important for us to refrain from doing so in novel, highly
+charged, and unsettled circumstances. Here, where the
+State does not even seek relief from the District Court’s de-
+termination that the law is likely unconstitutional as to at
+least some of the individuals it will impact, caution is espe-
+cially warranted.
+                               II
+   JUSTICE GORSUCH’s concurrence demonstrates the perils
+of treating this application any other way. Conspicuously
+minimized in that opinion is the word that appears, bolded
+and capitalized, on the cover of the State’s application:
+“EMERGENCY.” The concurrence proceeds, instead, to
+treat the State’s application as a run-of-the-mill motion for
+interim relief, just as any court might dispose of such a mo-
+tion on its regular docket. See ante, at 3. From the stand-
+point of an interest in taming our emergency docket, that is
+folly.4
+
+——————
+  4 This is not to say that the traditional stay factors do not matter, or
+
+that this Court can only entertain an application that is labeled as an
+“emergency.” See ante, at 10, n. 3. Rather, my point is that not every
+6                         LABRADOR v. POE
+
+                         JACKSON, J., dissenting
+
+   What is more, in resolving this particular application, the
+concurrence reaches out to address an unsettled remedial
+issue that, by the concurrence’s own assessment, is of pro-
+found significance for the functioning of our government.
+See ante, at 11. It appears, then, that if the concurrence is
+right that “universal injunctions . . . ‘tend to force judges
+into making rushed, high-stakes, low-information deci-
+sions,’ ” the majority has taken the bait. Ante, at 12.
+   To be clear, though, the Court has not decided the propri-
+ety of “universal injunctions.” Whether federal courts have
+the power to issue “universal injunctions” is “an important
+question that could warrant our review in the future,” not
+a foregone conclusion dictated by our precedent. Griffin v.
+HM Florida-ORL, LLC, 601 U. S. ___, ___ (2023)
+(KAVANAUGH, J., statement respecting denial of application
+for stay) (slip op., at 3); see also, e.g., Department of Home-
+land Security v. New York, 589 U. S. ___, ___ (2020)
+(GORSUCH, J., concurring in grant of stay) (slip op., at 5)
+(framing “underlying equitable and constitutional ques-
+tions raised by . . . nationwide injunctions” as ones “we
+might at an appropriate juncture take up”). After today,
+that question remains.
+   Nor does history offer an easily discernible answer. As
+one leading scholar candidly admits, “traditional equity
+lacked the sharply defined rule” that the concurrence would
+claim the Court adopted today. S. Bray, Multiple Chancel-
+lors: Reforming the National Injunction, 131 Harv. L. Rev.
+417, 421 (2017). And other leading scholars are actively de-
+bating what lessons can be gleaned from the historical rec-
+ord. See A. Frost, In Defense of Nationwide Injunctions, 93
+N. Y. U. L. Rev. 1065, 1080–1090 (2018) (offering an ac-
+count of “universal injunctions” consistent with Article III
+
+——————
+alleged error made by a lower court judge warrants this Court’s immedi-
+ate intervention and correction in real time, while the lower court’s pro-
+ceedings are pending.
+                  Cite as: 601 U. S. ____ (2024)            7
+
+                     JACKSON, J., dissenting
+
+and American courts’ traditional equitable powers); see also
+M. Sohoni, The Lost History of the “Universal” Injunction,
+133 Harv. L. Rev. 920, 1008 (2020) (expressing concern
+that, in debate over the limits of federal courts’ equitable
+powers, “we risk allowing selectively crafted conceptions of
+historical tradition to run away with us”).
+   Simply put, the questions raised by “universal injunc-
+tions” are contested and difficult. I would not attempt to
+take them on in this emergency posture, even in a case that
+actually raised the issue. We do not have full adversarial
+briefing, the benefits of oral argument, or even a final opin-
+ion from the Court of Appeals. To the extent we can draw
+any lesson from the lower courts at this point, it is that,
+“when faced with laws very much like Idaho’s,” determining
+the appropriate bounds of equitable relief and the propriety
+of “universal injunctions” is not straightforward. Ante, at 8
+(citing Brandt v. Rutledge, 47 F. 4th 661, 672 (CA8 2022);
+L. W. v. Skrmetti, 83 F. 4th 460, 489–490 (CA6 2023)).
+                         *    *     *
+  All that said, I see some common ground. I agree that our
+emergency docket seems to have become increasingly un-
+workable. See ante, at 10. I share the concern that courts
+heed the limits of their power. See ante, at 12–13. And
+surely all could benefit from “more carefully reasoned judi-
+cial decisions attuned to the facts, parties, and claims at
+hand,” not to mention “a more . . . deliberative judicial pro-
+cess.” Ante, at 13. With respect, though, I worry that we
+may be too eager to find fault in everyone but ourselves.
+  This Court will almost certainly have a chance to consider
+the entirety of this case soon, whoever prevails below. In
+the meantime, it is far better for all concerned to let the
+lower courts proceed unfettered by our intervention. We
+can, and usually should, wait to provide our assessment in
+the ordinary course—when it is our turn to do so. Put dif-
+ferently, whenever this Court must determine whether to
+8                   LABRADOR v. POE
+
+                   JACKSON, J., dissenting
+
+exercise its discretionary power to intervene in pending
+cases on an emergency basis, I firmly believe we must pro-
+ceed with both reason and restraint. Because the majority
+demonstrates neither today, I respectfully dissent.

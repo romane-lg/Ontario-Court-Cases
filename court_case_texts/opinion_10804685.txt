@@ -1,0 +1,334 @@
+Cite as: 604 U. S. ____ (2025)           1
+
+                  Statement of SOTOMAYOR, J.
+
+SUPREME COURT OF THE UNITED STATES
+  VICTOR JAVIER GRANDIA GONZALEZ v. UNITED
+                   STATES
+   ON PETITION FOR WRIT OF CERTIORARI TO THE UNITED
+  STATES COURT OF APPEALS FOR THE ELEVENTH CIRCUIT
+            No. 24–5577. Decided February 24, 2025
+
+   The petition for a writ of certiorari is denied.
+   Statement of JUSTICE SOTOMAYOR, with whom JUSTICE
+GORSUCH joins, respecting the denial of certiorari.
+   Founding-era common law gave officers no authority to
+make an “arrest without a warrant, for a mere misde-
+meanor not committed in [their] presence.” Bad Elk v.
+United States, 177 U. S. 529, 534–535 (1900) (collecting
+sources). This petition asks the Court to decide whether the
+Fourth Amendment incorporates that “in-the-presence”
+limitation on warrantless misdemeanor arrests. There is
+reason to think it might. After all, the in-the-presence re-
+quirement existed in some form at the founding. Ibid. This
+Court has often held, moreover, that the Fourth Amend-
+ment “ ‘must provide at a minimum the degree of protec-
+tion’ ” the common law afforded at the time of its adoption.
+Lange v. California, 594 U. S. 295, 309 (2021) (quoting
+United States v. Jones, 565 U. S. 400, 411 (2012)).
+   Important questions about the in-the-presence rule and
+its scope remain, and in this case they impede the Court’s
+review of the question presented. In an appropriate case,
+however, the Court should grant review to consider
+whether and to what extent the Fourth Amendment incor-
+porates the in-the-presence rule.
+                             I
+ On an early July morning, around 5 o’clock, two Miami
+Dade police officers encountered petitioner Victor Gonzalez
+2                GONZALEZ v. UNITED STATES
+
+                   Statement of SOTOMAYOR, J.
+
+“ ‘walking in the middle of the street’ ” in a residential neigh-
+borhood. 107 F. 4th 1304, 1306 (CA11 2024). The officers,
+who had received a 911 call reporting a “ ‘white male casing
+the area,’ ” ibid., engaged Gonzalez in brief conversation
+and arrested him for the Florida misdemeanor of “loitering
+and prowling,” id., at 1307; see Fla. Stat. Ann. §856.021
+(2014). They performed a search incident to the arrest,
+which revealed several pieces of mail addressed to neigh-
+borhood residents. 107 F.4th, at 1307. A grand jury there-
+after charged Gonzalez with possessing stolen mail, a fed-
+eral felony. See 18 U. S. C. §1708.
+   Gonzalez moved to suppress the evidence against him,
+appealing to the in-the-presence rule. Because he did not
+commit any misdemeanor in the officers’ presence, he ar-
+gued, they lacked probable cause to arrest him, and thus to
+conduct the search. When the District Court rejected that
+argument, Gonzalez pleaded guilty but reserved his right to
+appeal.
+   The Eleventh Circuit affirmed. It acknowledged that the
+common law permitted warrantless arrests for misdemean-
+ors “in narrower circumstances than warrantless arrests
+for felonies,” because, unlike in the case of misdemeanors,
+“an officer [could] conduct warrantless arrests for felonies
+committed outside of their presence.” 107 F. 4th, at 1308
+(citing 1 M. Hale, History of the Pleas of the Crown 587–
+590 (1736); 2 id., at 86–90; 4 W. Blackstone, Commentaries
+on the Laws of England 288–292 (1772)). The court none-
+theless held that “the Fourth Amendment does not require
+a misdemeanor to occur in an officer’s presence to conduct
+a warrantless arrest.” 107 F. 4th, at 1310. As the Eleventh
+Circuit saw things, the Fourth Amendment does not incor-
+porate the in-the-presence rule because (1) the rule was
+subject to exceptions at common law, (2) “the technicalities
+of distinguishing between misdemeanors and felonies ap-
+pears impracticable in today’s legal environment,” and (3)
+                     Cite as: 604 U. S. ____ (2025)                   3
+
+                      Statement of SOTOMAYOR, J.
+
+the Fourth Amendment is “properly protect[ive]” even “ab-
+sent a presence criterion.” Ibid.
+                                II
+                                A
+   “By the common law of England, neither a civil officer nor
+a private citizen had the right, without a warrant, to make
+an arrest for a crime not committed in his presence, except
+in the case of felony.” Kurtz v. Moffitt, 115 U. S. 487, 498–
+499 (1885) (collecting authorities); see also Bad Elk, 177
+U. S., at 534 (same). Instead, as Sir Matthew Hale summa-
+rized the rule, a warrantless arrest could be made only “[i]f
+an affray be made in the presence of a justice of peace, or if
+a felon be in his presence,” and was prohibited “if there be
+only an affray . . . not in view of the constable.” 1 History
+of the Pleas of the Crown, at 587; see also 4 Blackstone,
+Commentaries, at 289 (justice of the peace could arrest fel-
+ons “upon probable suspicion,” but could arrest for breach
+of the peace only if committed “in his presence”); W.
+Schroeder, Warrantless Misdemeanor Arrests and the
+Fourth Amendment, 58 Mo. L. Rev. 771, 787–789 (1993)
+(reviewing English jurisprudence establishing the in-the-
+presence rule).*
+   After the founding, American States continued to abide
+by the in-the-presence rule almost without exception. See,
+e.g., id., at 847–848; 1 J. Archbold & T. Waterman, Criminal
+Procedure, Pleading and Evidence, in Indictable Cases
+103–104 (7th ed. 1860) (summarizing state of the English
+common law and the law in the American States). Indeed,
+during the 19th and 20th centuries, state courts repeatedly
+
+
+——————
+  *Some of these authorities can be read more narrowly as authorizing
+warrantless misdemeanor arrests only for breaches of the peace, but this
+Court declined to adopt that more limiting reading in Atwater v. Lago
+Vista, 532 U. S. 318 (2001) because of disagreement among common-law
+authorities.
+4               GONZALEZ v. UNITED STATES
+
+                  Statement of SOTOMAYOR, J.
+
+reaffirmed the rule’s continued vitality in the face of at-
+tempts to expand warrantless arrest powers. See, e.g.,
+Commonwealth v. Carey, 66 Mass. 246 (1853) (“A constable
+cannot, without a warrant, arrest a person guilty of a past
+offence, unless such offence amounts to a felony”); In re
+Way, 41 Mich. 299, 304, 1. N. W. 1021, 1024 (1879) (“An ar-
+rest without warrant has never been lawful except . . . in
+felony and in breaches of the peace committed in presence
+of the officer”); In re Kellam, 55 Kan. 700, 41 P. 960 (1895)
+(invalidating as unconstitutional a law permitting warrant-
+less arrest on mere suspicion of misdemeanor); Ex parte
+Rhodes, 202 Ala. 68, 73, 79 So. 462, 467 (1918) (“[N]o mu-
+nicipal ordinance could authorize . . . or make . . . reasona-
+ble” warrantless arrest for a misdemeanor not committed
+in the presence); Hughes v. State, 145 Tenn. 544, 569, 238
+S. W. 588, 595 (1922) (“An officer cannot lawfully arrest a
+person without a warrant . . . where the facts constituting
+the offense are incapable of being observed or are not ob-
+served by the officer”); Orick v. State, 140 Miss. 184, 200,
+105 So. 465, 469 (1925) (“[T]he statement that an officer at
+common law could not arrest a person for a misdemeanor
+not committed in his presence without a warrant is sus-
+tained by the overwhelming weight of authority”). Today,
+most States continue to “hold to the view that a warrantless
+misdemeanor arrest may be made only for an offense com-
+mitted ‘in the presence’ ” of the arresting officer. 3 W.
+LaFave, Search and Seizure §5.1(c) (6th ed. 2024).
+   Florida, too, retains an in-the-presence rule. See Fla.
+Stat. Ann. §901.15(1) (“A law enforcement officer may ar-
+rest a person without a warrant when . . . [t]he person has
+committed a felony or misdemeanor or violated [an ordi-
+nance] in the presence of an officer”). Its loitering and
+prowling statute, however, provides that officers “may ar-
+rest any suspected loiterer or prowler without a warrant in
+case delay in procuring one would probably enable [the loi-
+                  Cite as: 604 U. S. ____ (2025)             5
+
+                   Statement of SOTOMAYOR, J.
+
+terer] to escape arrest.” §856.031. That provision appar-
+ently allowed the officers here to arrest Gonzalez as a “sus-
+pected loiterer or prowler,” ibid., despite the fact that “all
+[they] saw was a man walking down a neighborhood street
+in the early morning,” 107 F. 4th, at 1312.
+
+                              B
+   The Eleventh Circuit thought Gonzalez’s arrest permis-
+sible because, in its view, the Fourth Amendment does not
+incorporate the in-the-presence rule in any form. There is
+a serious question about whether that categorical holding
+is consistent with this Court’s precedent. To be sure, this
+Court left open “whether the Fourth Amendment entails an
+‘in the presence’ requirement for purposes of misdemeanor
+arrests” in Atwater v. Lago Vista, 532 U. S. 318, 340, n. 11
+(2001), where that question was not presented. Since then,
+however, the Court has several times said that the Fourth
+Amendment “ ‘must provide at a minimum the degree of
+protection it afforded when it was adopted.’ ” Lange, 594
+U. S., at 309 (quoting Jones, 565 U. S., at 441); Torres v.
+Madrid, 592 U. S. 306, 316–317 (2021) (“[o]ur precedent
+protects ‘that degree of privacy against government that ex-
+isted when the Fourth Amendment was adopted’ ”) (quoting
+Kyllo v. United States, 533 U. S. 27, 34 (2001))); Virginia v.
+Moore, 553 U. S 164, 168 (2008) (“We look to the statutes
+and common law of the founding era to determine the
+norms that the Fourth Amendment was meant to pre-
+serve”). Precedent and historical evidence suggest, moreo-
+ver, that the common law included at least some form of in-
+the-presence requirement for warrantless misdemeanor ar-
+rests. See supra, at 3–4. If that is right, it follows that the
+Fourth Amendment likely does as well. Lange, 594 U. S.,
+at 309.
+   The federal and state courts have reached diverging con-
+clusions about the continued vitality of the in-the-presence
+rule. As explained earlier, most States continue to abide by
+6               GONZALEZ v. UNITED STATES
+
+                  Statement of SOTOMAYOR, J.
+
+the in-the-presence rule, see supra, at 4, and several state
+courts have continued to accord it constitutional weight.
+See, e.g., State v. Barton, 669 S. W. 3d 661, 665 (Mo. 2023)
+(this Court’s precedent leaves “no doubt” that the Fourth
+Amendment incorporates the in-the-presence requirement
+for warrantless misdemeanor arrests); Pacheco v. State, 465
+Md. 311, 330–331, 214 A. 3d 505, 516–517 (2019) (reaffirm-
+ing in-the-presence rule); Ewing v. State, 300 So. 2d 916,
+919 (Miss. 1974) (similar); see also State v. Ochoa, 2008–
+NMSC–023, 143 N. M. 749, 182 P. 3d 130 (discussing scope
+of in-the-presence rule). By contrast, “every circuit to face
+[the] issue has held that the Fourth Amendment does not
+include an in-the-presence requirement for warrantless
+misdemeanor arrests.” 107 F. 4th, at 1309 (internal quota-
+tion marks omitted).
+   As the Eleventh Circuit recognized, each Circuit to have
+considered the issue relied on Street v. Surdyka, 492 F. 2d
+368 (1974), a case out of the Fourth Circuit that rejected the
+in-the-presence rule as “impractical and illogical.” Id., at
+371–373. Surdyka, however, crucially rested on the prem-
+ise that this Court had not given “constitutional force” to
+the common-law rule. Id., at 371. That may have been true
+at the time. This Court’s intervening decisions in Kyllo,
+Madrid, Jones, Moore, and Lange all say, however, that the
+Fourth Amendment must protect at minimum those rights
+recognized by the founding-era common law. Because the
+Fourth Circuit did not consider that possibility in Surdyka,
+it is unclear whether that decision remains good law today.
+   The Eleventh Circuit decision, too, failed adequately to
+address this Court’s recent Fourth Amendment precedents.
+Two of its three reasons for rejecting Gonzalez’s arguments
+relied on its independent assessment of reasonableness and
+practicality. 107 F. 4th, at 1310. For example, the Court
+simply asserted that “Fourth Amendment rights are
+properly protected absent a presence criterion.” Ibid. Yet
+Fourth Amendment questions cannot be resolved simply by
+                  Cite as: 604 U. S. ____ (2025)              7
+
+                   Statement of SOTOMAYOR, J.
+
+asking whether, in the courts’ view, a criterion is necessary
+to protect one’s privacy interests. To be sure, courts today
+may have to confront questions about “how to apply the
+Fourth Amendment to a new phenomenon.” Carpenter v.
+United States, 585 U. S. 296, 309 (2018). As explained,
+however, this Court has said that the Fourth Amendment
+must at minimum provide those protections that the com-
+mon law guaranteed. Lange, 594 U. S., at 309.
+   In rejecting the in-the-presence rule altogether, the Elev-
+enth Circuit also remarked that the misdemeanor-felony
+distinction has shifted dramatically since the founding. 107
+F. 4th, at 1310. That is true, but it cuts in favor of Gonzalez,
+not against him. Even very serious crimes that are now
+felonies were misdemeanors at common law. “For example,
+all attempt crimes were only misdemeanors . . . as were as-
+saults, batteries, woundings, and even kidnappings.” T.
+Davies, Recovering the Original Fourth Amendment, 98
+Mich. L. Rev. 547, 630, n. 220 (1999) (citing 4 W. Black-
+stone, Commentaries on the Laws of England 216 (1769)).
+In light of the modern expansion of the class of felony
+crimes, even a categorical in-the-presence rule would be
+substantially less protective than it was at the founding.
+That a majority of States retain the in-the-presence re-
+quirement for misdemeanor arrests, moreover, is in tension
+with the Eleventh Circuit’s concern that “[i]ncorporating a
+presence requirement for misdemeanor arrests would likely
+muddy the waters more than it would protect any addi-
+tional privacy interests.” 107 F. 4th, at 1310.
+
+                              C
+  The Eleventh Circuit correctly recognized that the in-the-
+presence requirement does not appear to have been abso-
+lute. Ibid. Most notably, “[f]rom the enactment of the Stat-
+ute of Winchester in 1285, through its various readoptions
+and until its repeal in 1827, night watchmen were author-
+8               GONZALEZ v. UNITED STATES
+
+                  Statement of SOTOMAYOR, J.
+
+ized and charged” to arrest suspicious “ ‘nightwalkers.’ ” At-
+water, 532 U. S., at 333 (footnote omitted).
+  The degree to which that exception made it to the early
+American States is unclear, and it complicates Gonzalez’s
+case. After all, the Florida statute at issue here arguably
+resembles the old nightwalker statutes. It makes it a mis-
+demeanor for:
+    “any person to loiter or prowl in a place, at a time or in
+    a manner not usual for law-abiding individuals, under
+    circumstances that warrant a justifiable and reasona-
+    ble alarm or immediate concern for the safety of per-
+    sons or property in the vicinity.” Fla. Stat. Ann.
+    §856.021(1).
+Whether a warrantless arrest under such a provision is con-
+sistent with a historical “nightwalker” exception, and
+whether founding-era common law incorporated that excep-
+tion, are difficult questions. On the one hand, English law
+permitted the arrest of “ ‘any suspicious night-walker’ ” who
+could be detained “ ‘till he give good account of himself.’ ”
+Atwater, 532 U. S., at 333. On the other, by the 19th cen-
+tury some American state courts had rejected as unlawful
+warrantless arrests even under circumstances where the
+nightwalker statutes might have permitted them. See, e.g.,
+In re Way, 41 Mich., at 301, 1 N. W., at 1021 (granting ha-
+beas relief to one arrested on suspicion of “loitering and
+rambling about . . . and not giving a good account of her-
+self ”); In re Kellam, 55 Kan., at 701, 41 P., at 961 (invali-
+dating statute authorizing arrest of “ ‘persons found under
+suspicious circumstances, who cannot give a good account
+of themselves’ ”); Pinkerton v. Verberg, 78 Mich. 573, 584–
+585, 44 N. W. 579, 583 (1889) (invalidating nighttime arrest
+of a woman found under circumstances raising a suspicion
+of prostitution who “failed to take account of herself”).
+   Because it is an open question whether Gonzalez’s arrest
+                  Cite as: 604 U. S. ____ (2025)            9
+
+                  Statement of SOTOMAYOR, J.
+
+falls within a historical exception to the in-the-presence re-
+quirement, this is an unsuitable case to consider the gen-
+eral rule. This case is complicated for another reason, too:
+the police may have had probable cause to arrest Gonzalez
+for felony trespass, and all agree that the in-the-presence
+rule does not apply to felonies. The petition nonetheless il-
+lustrates the need for percolation on the in-the-presence
+rule’s scope. As some of the courts of appeal have recog-
+nized, it remains an open question whether and to what ex-
+tent the Fourth Amendment incorporates the in-the-pres-
+ence rule. See, e.g., Graves v. Mahoning, 821 F. 3d 772, 780
+(CA6 2016); Gilmore v. City of Minneapolis, 837 F. 3d 827,
+834 (CA8 2016). This Court would benefit from further con-
+sideration of that question by the lower courts. In consid-
+ering the issue, courts should give due regard to the full
+scope of the common-law rights now secured by the Fourth
+Amendment.

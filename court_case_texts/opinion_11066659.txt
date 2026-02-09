@@ -1,0 +1,1162 @@
+PRELIMINARY PRINT
+
+             Volume 602 U. S. Part 1
+                             Pages 653–679
+
+
+
+
+       OFFICIAL REPORTS
+                                    OF
+
+
+   THE SUPREME COURT
+                               June 20, 2024
+
+
+Page Proof Pending Publication
+
+
+                   REBECCA A. WOMELDORF
+                           reporter of decisions
+
+
+
+
+    NOTICE: This preliminary print is subject to formal revision before
+  the bound volume is published. Users are requested to notify the Reporter
+  of Decisions, Supreme Court of the United States, Washington, D.C. 20543,
+  pio@supremecourt.gov, of any typographical or other formal errors.
+                         OCTOBER TERM, 2023                               653
+
+                                  Syllabus
+
+
+                GONZALEZ v. TREVINO et al.
+
+certiorari to the united states court of appeals for
+                  the fth circuit
+      No. 22–1025. Argued March 20, 2024—Decided June 20, 2024
+In Nieves v. Bartlett, the Court held that a plaintiff bringing a retaliatory-
+  arrest claim “must plead and prove the absence of probable cause for
+  the arrest.” 587 U. S. 391, 402. Nieves recognized an exception to that
+  rule, namely, that the existence of probable cause does not defeat a plain-
+  tiff's claim if he produces “objective evidence that he was arrested when
+  otherwise similarly situated individuals not engaged in the same sort
+  of protected speech had not been.” Id., at 407. The Court granted
+  certiorari to consider whether the Fifth Circuit properly applied these
+  principles to petitioner Sylvia Gonzalez's retaliatory-arrest claim.
+     Gonzalez claims that her arrest for violating a Texas anti-tampering
+  statute was in retaliation for gathering signatures on a petition seeking
+  the removal of the city manager of Castle Hills, Texas. To bolster her
+  claim, Gonzalez alleges that the past decade's misdemeanor and felony
+Page Proof Pending Publication
+  data for Bexar County (where Castle Hills is located) shows that the
+  Texas anti-tampering statute has never been used in the county to crim-
+  inally charge someone for the sort of conduct Gonzalez had engaged in.
+  The District Court denied the defendants' motion to dismiss, but the
+  Fifth Circuit reversed, concluding that because Gonzalez could not pro-
+  vide “comparative evidence” of “otherwise similarly situated individuals
+  who engaged in the same criminal conduct but were not arrested,” Gon-
+  zalez could not qualify for the Nieves exception, 42 F. 4th 487, 493.
+Held: In requiring petitioner Gonzalez to provide specifc comparator evi-
+ dence to support her retaliatory-arrest claim, the Fifth Circuit took
+ an overly cramped view of Nieves. The Court recognized the Nieves
+ exception to account for “circumstances where offcers have probable
+ cause to make arrests, but typically exercise their discretion not to do
+ so.” 587 U. S., at 406. The only express limit the Court placed on the
+ sort of evidence a plaintiff may present to show their arrest occurred
+ under such circumstances is that it must be objective. Id., at 407.
+ Gonzalez provided a permissible type of evidence because the fact that
+ no one has ever been arrested for engaging in a certain kind of conduct
+ makes it more likely that an offcer has declined to arrest someone for
+ engaging in such conduct in the past. Gonzalez's survey is objective
+ evidence tending to show that she “was arrested when otherwise simi-
+654                    GONZALEZ v. TREVINO
+
+                                Syllabus
+
+  larly situated individuals not engaged in the same sort of protected
+  speech had not been.” Ibid.
+42 F. 4th 487, vacated and remanded.
+
+  Anya Bidwell argued the cause for petitioner. With her
+on the briefs were Patr ick Jaicomo, Will Aronin, and
+Marie Miller.
+  Nicole Frazer Reaves argued the cause for the United
+States as amicus curiae supporting neither party. With her
+on the brief were Solicitor General Prelogar, Assistant At-
+torney General Clarke, Deputy Solicitor General Feigin,
+Tovah R. Calderón, and Jessica Merry Samuels.
+  Lisa S. Blatt argued the cause for respondents. With her
+on the brief were Sarah M. Harris, Aaron Z. Roper, Scott
+M. Tschirhart, and Lowell F. Denton.*
+
+   *Briefs of amici curiae urging reversal were fled for the American
+Civil Liberties Union et al. by Vera Eidelman, Esha Bhandari, David D.
+Cole, Cecillia D. Wang, Barbara E. Bergman, J. T. Morris, Darpana
+Page Proof Pending Publication
+Sheth, Clark M. Neily III, and Anastasia P. Boden; for the Constitutional
+Accountability Center et al. by Elizabeth B. Wydra, Brianne J. Gorod,
+Brian R. Frazelle, Mary B. McCord, Kelsi Brown Corkran, and Shelby
+Calambokidis; for the Institute for Free Speech by Easha Anand, Pamela
+S. Karlan, Jeffrey L. Fisher, and Alan Gura; for the Law Enforcement
+Action Partnership by David Debold; for the National Police Accountabil-
+ity Project by Charles A. Rothfeld, Eugene R. Fidell, Paul W. Hughes,
+and Michael B. Kimberly; for the Reporters Committee for Freedom of
+the Press by Bruce D. Brown; for the Roderick & Solange MacArthur
+Justice Center by Devi M. Rao; for the Thomas More Society by Thomas
+Brejcha, B. Tyler Brooks, and Joan M. Mannix; and for Fane Lozman by
+Anton Metlitsky and Kerri L. Barsh.
+   Briefs of amici curiae urging affrmance were fled for the State of
+Alaska et al. by Treg Taylor, Attorney General of Alaska, and Kimberly
+D. Rodgers, Assistant Attorney General, and by the Attorneys General for
+their respective States as follows: Ashley Moody of Florida, Lynn Fitch
+of Mississippi, Austin Knudsen of Montana, Michael T. Hilgers of Ne-
+braska, Drew H. Wrigley of North Dakota, Dave Yost of Ohio, Alan Wil-
+son of South Carolina, Marty Jackley of South Dakota, and Sean D. Reyes
+of Utah; for the State of Texas by Ken Paxton, Attorney General of Texas,
+Aaron L. Nielson, Solicitor General, Brent Webster, First Assistant Attor-
+ney General, Lanora C. Pettit, Principal Deputy Solicitor General, and
+                     Cite as: 602 U. S. 653 (2024)                 655
+
+                             Per Curiam
+
+  Per Curiam.
+   In Nieves v. Bartlett, 587 U. S. 391, 402 (2019), this Court
+held that, as a general rule, a plaintiff bringing a retaliatory-
+arrest claim “must plead and prove the absence of probable
+cause for the arrest.” At the same time, we recognized a
+narrow exception to that rule. The existence of probable
+cause does not defeat a plaintiff's claim if he produces “objec-
+tive evidence that he was arrested when otherwise similarly
+situated individuals not engaged in the same sort of pro-
+tected speech had not been.” Id., at 407. We granted cer-
+tiorari in this case to consider whether the Fifth Circuit
+properly applied these principles. It did not. We therefore
+vacate that court's judgment and remand for proceedings
+consistent with this opinion.
+
+                                  I
+  In 2019, Sylvia Gonzalez ran for a seat on the city council
+Page       Proof
+of Castle Hills, a smallPending
+                        town in southernPublication
+                                          Texas. While she
+was on the campaign trail, Gonzalez heard multiple com-
+plaints about the city manager, Ryan Rapelye. As city man-
+ager, Rapelye was responsible for, among other things, en-
+forcing the city's laws and managing its budget.
+   Gonzalez was elected in May 2019. Her frst act in offce
+was to help gather signatures for a petition seeking Ra-
+pelye's removal. Eventually, over 300 residents signed the
+petition. The petition was introduced at the next city coun-
+cil meeting, where discussions grew heated after various res-
+idents rose to Rapelye's defense and spoke against Gonzalez.
+The discussion over the petition continued the next day.
+
+Kathryn M. Cherry, Assistant Solicitor General; for the Local Govern-
+ment Legal Center et al. by C. Harker Rhodes IV; for the National Sher-
+iffs' Association by Gregory C. Champagne and Maurice E. Bostick; and
+for the Texas Association of Counties et al. by Cameron T. Norris and
+Mike Thompson, Jr.
+   Michel Paradis fled a brief for Law Professors as amici curiae.
+656                     GONZALEZ v. TREVINO
+
+                                 Per Curiam
+
+   At the end of the second day, Gonzalez was packing up her
+belongings when the mayor, Edward Trevino, II, asked her
+for the petition. Gonzalez indicated that the petition was in
+Trevino's possession, which he denied. He then asked Gon-
+zalez to check her binder, where she found the petition.
+Gonzalez claims that she “did not intentionally put the peti-
+tion in her binder,” and that she was “surprise[d]” to fnd it
+there. Complaint and Jury Demand in No. 5:20–cv–01151
+(WD Tex., Sept. 29, 2020), ECF Doc. 1, p. 11.
+   Trevino brought this incident to the city police's attention,
+and an investigation into these events soon began. Within
+a month, a private attorney tasked with leading the investi-
+gation concluded that Gonzalez had likely violated a Texas
+anti-tampering statute that, among other things, prohibits a
+person from intentionally “remov[ing] . . . a governmental
+record.” Tex. Penal Code Ann. §§ 37.10(a)(3), (c)(1) (West
+Cum. Supp. 2023).1
+   On the private attorney's request, a local Magistrate
+Page Proof Pending Publication
+granted a warrant for Gonzalez's arrest. When she heard
+the news, Gonzalez turned herself in and spent an evening in
+jail. The district attorney ultimately dismissed the charges.
+Gonzalez claims that this episode has convinced her to step
+away from political life.
+   Gonzalez brought suit under 42 U. S. C. § 1983 in Federal
+District Court against Trevino, along with the police chief
+and the private attorney in their individual capacities.2 Her
+complaint alleged that she was arrested in retaliation for
+her role in organizing the petition for Rapelye's removal and
+that the defendants therefore violated her First Amend-
+ment rights.
+
+   1
+     The statute also prohibits a person from intentionally “destroy[ing],”
+“conceal[ing],” or “otherwise impair[ing] the verity, legibility, or availabil-
+ity” of a governmental record.
+   2
+     She also pressed a claim in this action against Castle Hills. That claim
+is not before us.
+                   Cite as: 602 U. S. 653 (2024)           657
+
+                           Per Curiam
+
+   To bolster her claim, Gonzalez alleged that she had re-
+viewed the past decade's misdemeanor and felony data for
+Bexar County (where Castle Hills is located) and that her
+review had found that the Texas anti-tampering statute had
+never been used in the county “to criminally charge someone
+for trying to steal a nonbinding or expressive document.”
+ECF Doc. 1, at 17. Gonzalez's search turned up 215 felony
+indictments, and she characterized the typical indictment as
+involving “accusations of either using or making fake govern-
+ment identifcation documents.” Ibid. Other felony indict-
+ments included ones for fake checks, hiding murder evidence,
+or cheating on government exams. Every misdemeanor
+case, according to Gonzalez, involved “fake social security
+numbers, driver's licenses, [or] green cards.” Ibid. Gonza-
+lez pointed to this research as evidence that the defendants
+had engaged in a political vendetta by bringing a “sham
+charge” against her. Id., at 27.
+Page Proof Pending Publication
+   The defendants moved to dismiss the complaint. They ar-
+gued that the presence of probable cause defeated Gonzalez's
+retaliatory-arrest claims against the individual defendants.
+The District Court denied the defendants' motion. Al-
+though Gonzalez conceded that probable cause supported her
+arrest, the court allowed her claim to advance after fnding
+that it fell within an exception to the no-probable-cause rule
+that we recognized in Nieves. Gonzalez v. Castle Hills,
+2021 WL 4046758, *5, n. 7 (WD Tex., Mar. 12, 2021).
+   The Fifth Circuit reversed that decision on appeal. The
+court thought that a plaintiff's claim could fall within the
+Nieves exception only if the plaintiff proffered “comparative
+evidence” of “otherwise similarly situated individuals who
+engaged in the same criminal conduct but were not ar-
+rested.” 42 F. 4th 487, 493 (2022) (internal quotation marks
+omitted). Gonzalez's claim failed because she did not pro-
+vide such evidence.
+   We granted certiorari. 601 U. S. ––– (2023).
+658                GONZALEZ v. TREVINO
+
+                          Per Curiam
+
+                             II
+   Gonzalez seeks reversal on two grounds. First, she asks
+us to reject the Fifth Circuit's rule that plaintiffs must use
+specifc comparator evidence to demonstrate that they fall
+within the Nieves exception. Second, Gonzalez contends
+that the Nieves no-probable-cause rule applies only to claims
+predicated on split-second arrests, rather than deliberative
+ones.
+   We agree with Gonzalez that the Fifth Circuit took an
+overly cramped view of Nieves. That court thought Gonza-
+lez had to provide very specifc comparator evidence—that
+is, examples of identifable people who “mishandled a govern-
+ment petition” in the same way Gonzalez did but were not
+arrested. 42 F. 4th, at 492. Although the Nieves exception
+is slim, the demand for virtually identical and identifable
+comparators goes too far.
+   We recognized the Nieves exception to account for “cir-
+Page Proof Pending Publication
+cumstances where offcers have probable cause to make ar-
+rests, but typically exercise their discretion not to do so.”
+587 U. S., at 406. To fall within the exception, a plaintiff
+must produce evidence to prove that his arrest occurred in
+such circumstances. The only express limit we placed on
+the sort of evidence a plaintiff may present for that purpose
+is that it must be objective in order to avoid “the signifcant
+problems that would arise from reviewing police conduct
+under a purely subjective standard.” Id., at 407.
+   Here, Gonzalez provided that sort of evidence. She was
+charged with intentionally “remov[ing] . . . a governmental
+record.” Tex. Penal Code Ann. § 37.10(a)(3). Gonzalez's
+survey is a permissible type of evidence because the fact that
+no one has ever been arrested for engaging in a certain kind
+of conduct—especially when the criminal prohibition is long-
+standing and the conduct at issue is not novel—makes it
+more likely that an offcer has declined to arrest someone for
+engaging in such conduct in the past.
+                   Cite as: 602 U. S. 653 (2024)            659
+
+                      Alito, J., concurring
+
+  Because we agree with Gonzalez's frst argument, we do
+not need to reach her second. We vacate the judgment
+below and remand the case for the lower courts to assess
+whether Gonzalez's evidence suffces to satisfy the Nieves
+exception.
+                                          It is so ordered.
+  Justice Alito, concurring.
+  The per curiam opinion correctly decides that the Fifth
+Circuit took an unduly narrow view of the exception we rec-
+ognized in Nieves v. Bartlett, 587 U. S. 391 (2019). I write
+separately to provide further guidance on the scope of that
+decision.
+                              I
+   Because the District Court dismissed Sylvia Gonzalez's
+complaint for failure to state a claim, the per curiam opinion
+properly takes its facts solely from the complaint. But I
+Page Proof Pending Publication
+provide a fuller account of the events leading up to her arrest
+because they may typify the messy quarrels that courts will
+have to sift through if we accept Gonzalez's reading of our
+case law.
+   Upon her election to the city council, Gonzalez launched
+a campaign to oust Ryan Rapelye from his position as city
+manager. As part of her efforts, Gonzalez paid personal vis-
+its to Castle Hills residents, requesting their signatures and
+support. According to some accounts, her efforts were ag-
+gressive. Chalene Martinez averred that Gonzalez solicited
+her signature “ `under false pretenses' ”—specifcally by mis-
+leading her about the nature of the petitions and by lying
+about Rapelye's performance in offce. Record in No. 5:20–
+cv–01151 (WD Tex., Sept. 29, 2020), ECF Doc. 1, p. 9; App.
+45, 52. Another resident, Jesus Quilantan, reported that
+Gonzalez had asked to see his parents. When she learned
+that they were not home, Gonzalez cajoled him into signing
+the petition on their behalf. Id., at 57. Her efforts paid off.
+660                    GONZALEZ v. TREVINO
+
+                          Alito, J., concurring
+
+In a town of roughly 4,000 inhabitants, she helped garner
+over 300 signatures for her petition seeking Rapelye's
+removal.
+  At the next city council meeting, just over two weeks after
+Gonzalez's election, one resident submitted a stack of docu-
+ments representing the petition to remove Rapelye. As the
+presiding offcer of the meeting, Mayor Edward Trevino as-
+sumed control of the petition. And as the Court's opinion
+notes, the meeting grew contentious. Multiple residents
+spoke out in support of Rapelye. Martinez, for instance,
+accused Gonzalez of misleading residents into signing the
+petition based on false representations about Rapelye and
+the campaign for his removal. These allegations disturbed
+Trevino. The next morning, he arrived before the meeting
+resumed to see if the petition contained any anomalies.
+When he was fnished, he fastened the documents together
+with a large black binder clip and placed the stack on top of
+his other papers on the dais.
+Page Proof Pending Publication
+  What happened next was captured by surveillance videos.1
+Shortly before the meeting began, Trevino was engaged in
+conversation with two constituents. While he turned away
+from his papers, Gonzalez approached the dais and took the
+petition from his pile. After quickly fipping through its
+pages, Gonzalez placed the petition inside her binder.
+  During the meeting, Trevino could not fnd the petition
+among his papers. He also noticed that Gonzalez's binder
+contained a familiar stack of documents held together with a
+black binder clip. But Trevino chalked this up to a coinci-
+dence, and he assumed that the city secretary had already
+collected the petition.
+  Trevino dropped this assumption when the city secretary
+asked him for the petition after the meeting. At this point,
+Trevino suspected that Gonzalez had taken the petition. He
+  1
+   These videos are publicly available, and they can be viewed at https://
+www.youtube.com/watch?v=VGXht6ARK_4 and https://www.youtube
+.com/watch?v=GGLIrFiso1c.
+                   Cite as: 602 U. S. 653 (2024)             661
+
+                      Alito, J., concurring
+
+relayed those suspicions to Captain Esteban Zuniga, a police
+offcer who was present at the meeting. Zuniga walked over
+to Gonzalez and asked her if she had taken the petition.
+After Gonzalez denied his accusation, Trevino suggested she
+check her binder.
+   This, too, was captured on tape. At Trevino's prompting,
+Gonzalez slowly fipped through her binder. Before she
+reached the binder-clipped stack, however, she stopped and
+once again denied possessing the petition. Trevino and
+Zuniga simultaneously pointed to the visible black binder
+clip. Forced to produce the petition, Gonzalez told Zuniga
+that she thought it was an extra copy.
+   Trevino fled a criminal complaint against Gonzalez, alleg-
+ing that she had stolen the petition. See ante, at 656. On
+account of Gonzalez's political post, the police chief tasked
+Alex Wright—a peace offcer and special detective—with
+leading the investigation. As a special detective, Wright is
+Page Proof Pending Publication
+assigned cases “which might otherwise be considered sensi-
+tive . . . or delicate, either due to the nature of the crime or
+. . . the parties involved.” App. 43.
+   Wright conducted a thorough investigation. He inter-
+viewed Trevino, Zuniga, and Martinez, each of whom gave
+him their version of these events. Zuniga said that he found
+it “odd” that Gonzalez claimed that she thought the petition
+in her binder was an “extr[a],” given that she had strenu-
+ously denied having the petition in her possession. Id., at
+48. After meeting with Martinez, Wright suspected that
+Gonzalez took the petition to avoid further scrutiny. Wright
+contacted Gonzalez several times to hear her side of the
+story, but she refused to speak with him.
+   The surveillance videos, moreover, confrmed Trevino and
+Zuniga's account of Gonzalez's evasiveness. From this evi-
+dence, Wright concluded that Gonzalez had likely violated
+Texas's anti-tampering statute, which makes it a crime for
+someone to “remov[e]” a government document intentionally,
+Tex. Penal Code Ann. § 37.10(a)(3) (West Cum. Supp. 2023),
+662                GONZALEZ v. TREVINO
+
+                      Alito, J., concurring
+
+and he sought an arrest warrant from the local Magistrate.
+Wright's warrant affdavit included details from his inter-
+views with the witnesses and his review of the surveillance
+videos. The Magistrate agreed that probable cause sup-
+ported Gonzalez's arrest, and he granted Wright's request.
+   The Court's opinion completes the story. After the war-
+rant was issued, Gonzalez spent an evening in jail. A month
+later, the district attorney dropped all charges against her.
+But Gonzalez's suit against Trevino, Wright, and the police
+chief is still ongoing fve years later. And Gonzalez has
+never disputed—at any point of the litigation—that probable
+cause supported her arrest.
+
+                               II
+   Gonzalez attacks the Fifth Circuit's judgment on two
+fronts. First, she contends that the Fifth Circuit took an
+unduly restrictive view of the Nieves exception. Second,
+she asks us to cabin the no-probable-cause requirement to
+Page Proof Pending Publication
+on-the-spot arrests. The Court briskly dispatches this case
+on the frst question, but I think lower courts and litigants
+deserve additional guidance. I therefore divide my analysis
+into three parts. First, I provide the relevant legal back-
+ground for retaliatory-arrest and retaliatory-prosecution
+claims. Second, I elaborate on the scope of the Nieves ex-
+ception. Third, I explain why Nieves is not limited to split-
+second arrests.
+                             A
+  “[T]he law is settled that as a general matter the First
+Amendment prohibits government offcials from subjecting
+an individual to retaliatory actions, including criminal prose-
+cutions, for speaking out.” Hartman v. Moore, 547 U. S.
+250, 256 (2006). We ordinarily analyze First Amendment re-
+taliation claims under the two-step framework set out in Mt.
+Healthy City Bd. of Ed. v. Doyle, 429 U. S. 274, 287 (1977).
+At the frst step, the plaintiff must demonstrate that he en-
+gaged in protected speech and that his speech was a “ `sub-
+                    Cite as: 602 U. S. 653 (2024)             663
+
+                       Alito, J., concurring
+
+stantial' ” or “ `motivating' ” factor in the defendant's decision
+to take action against him. Ibid. Once the plaintiff makes
+this showing, the burden shifts to the defendant at the sec-
+ond step to show that he would have taken the same adverse
+action even in the absence of the protected speech. Ibid.
+To carry these burdens, parties operating within the Mt.
+Healthy framework may present a wide range of evidence—
+both objective and subjective. See, e.g., id., at 282–283 (dis-
+cussing the plaintiff's behavioral history in the years leading
+up to the litigation); Texas v. Lesage, 528 U. S. 18, 19 (1999)
+(per curiam) (the defendants produced an affdavit to explain
+that the plaintiff's application to graduate school was re-
+jected because of his poor personal statement).
+   Our cases have admitted, however, that this framework
+fts uneasily with First Amendment retaliatory-arrest and
+retaliatory-prosecution claims for at least three reasons.
+First, it is all too easy for a plaintiff to subject a law-
+Page Proof Pending Publication
+enforcement offcer to the crucible of litigation based on alle-
+gations about an offcer's state of mind that are easy to make
+and diffcult to disprove. For example, a driver with an
+anti-police bumper sticker on his car could claim that any
+traffc stop was due to his protected speech. Any person
+who carries a sign while trespassing, blocking traffc, or dis-
+turbing the peace could similarly allege that an arrest for
+these offenses was motivated by the sign's message. We are
+loath to undertake such inquiries into subjective intent in
+the law-enforcement context. Cf. Ashcroft v. al-Kidd, 563
+U. S. 731, 737 (2011); see also Kentucky v. King, 563 U. S. 452,
+464 (2011); Whren v. United States, 517 U. S. 806, 812 (1996).
+   Second, protected speech is often a “wholly legitimate con-
+sideration” for offcers when deciding whether to fle charges
+or to make an arrest. Reichle v. Howards, 566 U. S. 658,
+668 (2012). An “offcer may decide to arrest [a] suspect be-
+cause his speech provides evidence of a crime or suggests a
+potential threat.” Ibid. The facts of Nieves itself illustrate
+this point. In that case, the police offcers decided to arrest
+664                 GONZALEZ v. TREVINO
+
+                      Alito, J., concurring
+
+the plaintiff for disorderly conduct and resisting arrest be-
+cause “they perceived [the plaintiff] to be a threat” based in
+part on the combative tone and content of his speech. 587
+U. S., at 401. And no one suggested that an individual's
+speech is off-limits in this respect. Ibid. (explaining that
+“the content and manner of a suspect's speech” may provide
+important information for law enforcement).
+   Third, the machinery of criminal justice of ten works
+ through multiple government offcers. An offcer who makes
+an arrest may do so based on his own judgment, orders from
+a superior, or as in this case, a warrant issued by a magis-
+trate. Thus, it is often challenging to draw a straight line
+between the plaintiff's protected speech and the defendant
+from whom he seeks recovery. In such circumstances, it
+may be diffcult to discern whether the offcer acted improp-
+erly. Cf. Messerschmidt v. Millender, 565 U. S. 535, 546
+(2012) (noting that “the fact that a neutral magistrate has
+Page Proof Pending Publication
+issued a warrant is the clearest indication that the [arresting]
+offcers acted in an objectively reasonable manner”); Bilida
+v. McCleod, 211 F. 3d 166, 174–175 (CA1 2000) (Boudin, J.)
+(“Plausible instructions from a superior or fellow offcer sup-
+port qualifed immunity where, viewed objectively in light of
+the surrounding circumstances, they could lead a reasonable
+offcer to conclude that the necessary legal justifcation for
+his actions exists”).
+   For these reasons, we have required plaintiffs pressing
+such claims to prove the absence of probable cause as a
+threshold requirement before they can advance their claims
+under the Mt. Healthy framework. We defended this re-
+quirement on the assumption that the “existence of probable
+cause will be at issue in practically all” retaliatory-arrest or
+retaliatory-prosecution cases given its obvious evidentiary
+value. Nieves, 587 U. S., at 400 (internal quotation marks
+omitted). Thus, we reasoned that this requirement, which
+imposes “little or no added cost” on the parties or the court,
+was a small price to pay for a plaintiff seeking to discard
+                     Cite as: 602 U. S. 653 (2024)                665
+
+                         Alito, J., concurring
+
+the presumption of good faith we afford to law-enforcement
+offcials. Ibid. (internal quotation marks omitted).
+   In Nieves, however, we recognized a narrow exception to
+the no-probable-cause rule. While a showing of probable
+cause generally defeats a retaliatory-arrest claim, we ob-
+served that this requirement should be relaxed “where off-
+cers have probable cause to make arrests, but typically exer-
+cise their discretion not to do so.” Id., at 406. Concerned
+that some police offcers might exploit the arrest power as a
+means of suppressing disfavored speech, we explained that
+the no-probable-cause requirement may be set aside “when
+a plaintiff presents objective evidence that he was arrested
+when otherwise similarly situated individuals not engaged in
+the same sort of protected speech had not been.” Id., at
+407; cf. United States v. Armstrong, 517 U. S. 456, 470 (1996).
+   In recognizing this exception, we emphasized that it is
+merely a “narrow qualifcation” to the general rule. Nieves,
+587 U. S., at 406. And to illustrate the thinness of this ex-
+Page Proof Pending Publication
+ception, Nieves offered the example of a vocal critic of the
+police who is arrested for jaywalking. Id., at 407. The un-
+yielding enforcement of a no-probable-cause requirement in
+this context would be insuffciently protective of the plain-
+tiff's First Amendment rights because the defendant's ani-
+mus is a much likelier explanation for such an arrest than the
+mere existence of probable cause. We chose this example
+because jaywalking represents the type of relatively benign
+offense that is “endemic but rarely results in arrest.” Ibid.
+                                  B
+   Because Gonzalez concedes that her arrest was supported
+by probable cause, her claim can proceed only if she falls
+within Nieves's exception.2 Under this exception, a plain-
+tiff's inability to prove the absence of probable cause is ex-
+cused only if the plaintiff presents “objective evidence that
+  2
+   For this reason, I assume for the sake of argument that her alleged
+conduct constituted a violation of Texas's anti-tampering statute.
+666                GONZALEZ v. TREVINO
+
+                     Alito, J., concurring
+
+he was arrested when otherwise similarly situated individu-
+als not engaged in the same sort of protected speech had not
+been.” Ibid.
+   The Court is correct to note that a plaintiff must provide
+objective evidence to fall within the Nieves exception. We
+enforce this requirement to avoid “the signifcant problems
+that would arise from reviewing police conduct under a
+purely subjective standard.” Ibid.; see also Horton v. Cali-
+fornia, 496 U. S. 128, 138 (1990) (“[E]venhanded law enforce-
+ment is best achieved by the application of objective stand-
+ards of conduct, rather than standards that depend upon the
+subjective state of mind of the offcer”). For that reason,
+evidence regarding an offcer's state of mind—e. g., evidence
+of bad blood between the offcer and the plaintiff or allega-
+tions that the offcer harbored animus—does not qualify.
+   The defendants argue that permitting anything other than
+the kind of strict comparator evidence demanded by the
+Page Proof Pending Publication
+Fif th Circuit will defeat the whole purpose of the no-
+probable-cause rule. Our decisions refect our sensitivity to
+these concerns, see Lozman v. Riviera Beach, 585 U. S. 87,
+98 (2018), but a proper application of the Nieves exception
+will not produce this result for at least two reasons.
+   First, courts must remember that the exception is just
+that—an exception, and a narrow one at that. Judges
+should not confate the question whether certain evidence
+can be considered under the Nieves exception with the en-
+tirely distinct question whether the evidence suffces to sat-
+isfy this threshold inquiry. We have long recognized “[t]he
+deep-rooted nature of law-enforcement discretion,” Castle
+Rock v. Gonzales, 545 U. S. 748, 761 (2005), and a plaintiff
+therefore must surmount a very high bar when the offcial
+can point to the existence of probable cause underpinning an
+arrest. The example in Nieves of a police offcer arresting
+a vocal critic for jaywalking serves as a helpful benchmark
+for courts and litigants. A plaintiff may satisfy the Nieves
+exception only by providing comparably powerful evidence.
+                   Cite as: 602 U. S. 653 (2024)            667
+
+                      Alito, J., concurring
+
+   Second, evidence that tends to show only that the plain-
+tiff's constitutionally protected speech was a “substantial or
+motivating factor” behind the adverse action should not be
+considered unless and until the plaintiff can provide other
+evidence to satisfy the Nieves exception. Lozman, 585
+U. S., at 97. This requirement fows from the recognition
+that the Nieves exception serves only as a gateway to the
+Mt. Healthy framework. The Ni eves exception asks
+whether the plaintiff engaged in the type of conduct that is
+unlikely to result in arrest or prosecution. By contrast, the
+Mt. Healthy inquiry is keyed toward whether the defendant's
+adverse decision was infuenced by the plaintiff's constitu-
+tionally protected speech.
+   To see how these principles operate in practice, consider
+the following hypothetical. Suppose a plaintiff charged with
+a particular crime brings three pieces of evidence. First, he
+proffers an affdavit from an offcer testifying that no one has
+Page Proof Pending Publication
+been prosecuted in the jurisdiction for engaging in similar
+conduct. Second, he produces a statistical study corroborat-
+ing the affdavit. And third, the plaintiff testifes that a po-
+lice offcer has been surveilling his house for several weeks.
+The frst two pieces of evidence count toward the Nieves
+exception, but the third piece of evidence does not. Instead,
+the third piece of evidence can be considered only after his
+claim advances to the Mt. Healthy framework. Any other
+approach would render the Mt. Healthy framework redun-
+dant in most, if not all, cases.
+   In Nieves, three Justices dissented at least in part and
+would have permitted plaintiffs in cases with probable cause
+to proceed to trial if they were able to survive summary
+judgment under Mt. Healthy. They argued their positions
+forcefully and well, but it is not faithful to our precedent to
+use the “narrow” Nieves exception as a crowbar for over-
+turning the core of that decision's holding, supported by six
+Justices—namely, that the existence of probable cause either
+always or nearly always precludes a suit like this one.
+668                GONZALEZ v. TREVINO
+
+                     Alito, J., concurring
+
+   I now turn to the facts of Gonzalez's case. Here, her evi-
+dence is of the type that plaintiffs can use in making out
+their case under the Nieves exception. I agree with the
+Court that a plaintiff does not need to identify another per-
+son who was not arrested under the same law for engaging
+in a carbon-copy course of conduct. Our jaywalking exam-
+ple in Nieves plainly proves this point. We did not suggest
+that a vocal critic of the police charged with jaywalking had
+to produce evidence that police offcers knowingly refused to
+arrest other specifc jaywalkers. And we certainly did not
+suggest that this jaywalker had to fnd others who com-
+mitted the offense under the same conditions as those in his
+case—for example, on a street with the same amount of traf-
+fc traveling at the same speed within a certain distance from
+a crosswalk at the same time of day.
+   On remand, the Fifth Circuit must determine whether
+Gonzalez's survey is enough for her claim to advance to the
+Page Proof Pending Publication
+Mt. Healthy framework. The Nieves exception is most
+easily satisfed by strong affrmative evidence that the de-
+fendant let other individuals off the hook for comparable be-
+havior. But when a plaintiff's claim hinges on negative evi-
+dence, like what Gonzalez offers here, context is key for
+determining the strength of his case. When a plaintiff's al-
+leged criminal conduct is egregious or novel, for instance,
+the lack of similar arrests might warrant little weight.
+Courts must also ensure that they are assessing the plain-
+tiff's conduct at the appropriate level of generality because
+every arrest, if defned too specifcally, can be described as
+the first of its kind. If a plaintiff could evade the no-
+probable-cause requirement simply by submitting evidence
+that no one who engaged in an exact duplicate of his behavior
+had been arrested, courts will be “fooded with dubious re-
+taliatory arrest suits,” Lozman, 585 U. S., at 98, and the
+Nieves's exception would drain the no-probable-cause re-
+quirement of all force.
+                      Cite as: 602 U. S. 653 (2024)                 669
+
+                         Alito, J., concurring
+
+                                   C
+   We also granted certiorari on whether the Nieves no-
+probable-cause rule applies beyond split-second arrests.
+The parties vigorously contested this question in briefng
+and at oral argument, yet the Court today reserves judg-
+ment on this issue. I disagree with this course. In my
+view, Nieves already answered this question in the affrma-
+tive after faithfully applying our precedents.
+   Nothing about Nieves's rationale depends on whether the
+offcer made a split-second arrest of the plaintiff.3 That de-
+cision expressly borrowed the no-probable-cause rule and its
+underlying justifcations from Hartman, the seminal case
+governing retaliatory-prosecution claims. Nieves self-
+consciously emulated Hartman because both types of retali-
+ation claims share the same critical characteristics.
+   Three features stand out. For one thing, courts ad-
+judicating either claim face the “ultimate problem” of
+Page Proof Pending Publication
+determining “whether the adverse government action was
+caused by the offcer's malice or the plaintiff's potentially
+criminal conduct.” Nieves, 587 U. S., at 402; see also Hart-
+man, 547 U. S., at 265. The causal challenge is similarly
+complex in both contexts because “protected speech is often
+a `wholly legitimate consideration' ” for offcers deciding
+whether to launch a prosecution or to make an arrest.
+Nieves, 587 U. S., at 401. For another, with or without the
+no-probable-cause rule, the presence or absence of probable
+cause plays a similarly vital role in both retaliatory-arrest
+and retaliatory-prosecution cases. That is because “ `evi-
+dence of the presence or absence of probable cause . . . will
+be available in virtually every' ” retaliatory-prosecution or
+retaliatory-arrest case and because such evidence speaks vol-
+
+  3
+   Indeed, the plaintiff in Nieves implied that the offcer held a grudge
+against him before he even had an opportunity to take the plaintiff into
+custody. See 587 U. S., at 396–397.
+670                    GONZALEZ v. TREVINO
+
+                          Alito, J., concurring
+
+umes about the objective reasonableness of a defendant's ac-
+tion. Ibid.; see also Hartman, 547 U. S., at 265. Lastly, by
+focusing the inquiry on objective indicia of reasonableness,
+a no-probable-cause rule refects our general reluctance
+to probe the subjective intent of law-enforcement offcers.
+Nieves, 587 U. S., at 403; see also Hartman, 547 U. S., at
+263–265.
+   This analysis—none of which turns on whether an arrest
+was made in a split-second context—is plainly incompatible
+with Gonzalez's theory. And it would be bizarre to think
+Nieves silently limited itself to split-second decisions when
+the reasoning it imported came from the retaliatory-
+prosecution context, which by defnition involves only delib-
+erative government acts.4
+   Gonzalez argues that we should limit Nieves to split-
+second cases because, in her view, a retaliatory-arrest claim
+is analogous to the common-law tort of abuse of process,
+which lacks a no-probable-cause requirement. Tr. of Oral
+Page Proof Pending Publication
+Arg. 5–6. She urges us to rely on the abuse-of-process anal-
+ogy to draw a line between split-second arrests with no proc-
+ess and arrests pursuant to process that can be likened to
+the common-law tort. Ibid.
+   Gonzalez's appeal to the common law is wrong twice over.
+To start, she is wrong to suggest that the abuse-of-process
+tort was somehow not before us when we decided Nieves.
+Our prior decision in Hartman gave full consideration to
+whether abuse of process was the appropriate analog for a
+retaliatory-prosecution claim. See 547 U. S., at 258 (noting
+  4
+    It is certainly true that we made a feeting reference to split-second
+arrests in Nieves. Specifcally, we mentioned that offcers often must
+make quick, diffcult assessments of a potential arrestee's conduct and
+speech to determine whether the subject poses a threat. 587 U. S., at 401.
+But we offered that observation as an additional justifcation for the no-
+probable-cause rule rather than as a limit on the rule's applicability. The
+“ultimate problem” remains the diffculty of fguring out whether the ar-
+rest was motivated by “the offcer's malice or the plaintiff's potentially
+criminal conduct.” Id., at 402 (emphasis added).
+                    Cite as: 602 U. S. 653 (2024)             671
+
+                       Alito, J., concurring
+
+that “we could debate whether the closer common-law analog
+to retaliatory prosecution is malicious prosecution (with its
+no-probable-cause element) or abuse of process (without it)”).
+By holding that such a claim requires a plaintiff to prove
+there was no probable cause for the charge, Hartman neces-
+sarily rejected the force of any analogy to abuse of process.
+In Nieves, the core dispute was whether we should ex-
+tend the same no-probable-cause requirement to retaliatory-
+arrest claims. Once we decided to do so, we copied Hart-
+man's reasoning. It is therefore quite clear that the Nieves
+Court was aware of the abuse-of-process tort, as well as the
+argument that this tort should govern our decision. And if
+we needed any reminding, the United States argued in Nieves
+that “[a] retaliatory-arrest claim is not analogous to the tort of
+abuse of process.” Brief for United States as Amicus Cu-
+riae in Nieves v. Bartlett, O. T. 2018, No. 17–1174, p. 10, n. 2.
+   Gonzalez's common-law argument suffers from another
+Page Proof Pending Publication
+defect. It is well settled that common-law principles are
+meant to serve as helpful guides rather than prefabricated
+components of a 42 U. S. C. § 1983 claim. Manuel v. Joliet,
+580 U. S. 357, 370 (2017); see also Rehberg v. Paulk, 566 U. S.
+356, 366 (2012) (“[T]he Court has not suggested that § 1983
+is simply a federalized amalgamation of pre-existing
+common-law claims”). At the end of the day, none of our
+decisions in this area has unthinkingly outsourced our analy-
+sis to the common law of torts. In Hartman, for instance,
+we expressly declined the parties' “invitation to rely on
+common-law parallels,” and never took a position on whether
+malicious prosecution or abuse of process was the better ana-
+log to retaliatory prosecution. 547 U. S., at 258. And in
+Nieves, we looked to the common law only to “confr[m]”
+what we had already concluded: that the same no-probable-
+cause requirement we established in Hartman should also
+apply to retaliatory-arrest claims. 587 U. S., at 405.
+Common-law torts can assist our analysis, but they do not
+dictate every dimension of a § 1983 claim.
+672                   GONZALEZ v. TREVINO
+
+                         Alito, J., concurring
+
+   And that is for good reason. Many § 1983 claims “can be
+favorably analogized to more than one of the ancient
+common-law forms of action.” Wilson v. Garcia, 471 U. S.
+261, 272–273 (1985). Because any analogy to a common-law
+cause of action is thus “bound to be imperfect,” id., at 272,
+we necessarily deal in generalities when we look to the com-
+mon law to defne § 1983 claims.5 The specifc facts of a
+given case might align more or less well with the chosen
+common-law analog, but until today no one has suggested
+that our jurisprudence requires courts to toggle between dif-
+ferent tort analogies within the same class of § 1983 claims.
+Consider the parties' arguments in Hartman. The defend-
+ants urged us to analogize retaliatory-prosecution claims to
+the malicious-prosecution tort, while the plaintiff suggested
+that abuse of process might be the more apt analog. Brief
+for Petitioners 25–30 and Brief for Respondent 41–42 in
+Hartman v. Moore, O. T. 2005, No. 04–1495. But neither
+party asked us to adopt the malicious-prosecution analogy
+Page Proof Pending Publication
+for some § 1983 retaliatory-prosecution claims while relying
+on the abuse-of-process analogy for others.
+   Gonzalez, by contrast, invites us to slice and dice every
+complaint alleging a retaliatory-arrest claim based on a quick
+skim of the facts at the motion-to-dismiss stage. Under her
+view, the elements of a plaintiff's meritorious § 1983 claim
+may evolve throughout the lawsuit as more facts are dis-
+covered and verifed. I see little value in endorsing this
+awkward and predictably ineffcient innovation.
+   Gonzalez's proposed limit on Nieves would also be unwork-
+able in practice because it raises thorny line-drawing ques-
+tions about the meaning of a “split-second” decision to arrest.
+Consider an offcer who surveils a political dissident for many
+months with the plan of arresting him the moment he broke
+
+  5
+    First Amendment retaliation claims offer a particularly good example
+of this point. Justice Thomas's dissent in this case shows, at a mini-
+mum, that there are strong reasons to suspect that the abuse-of-process
+tort is an inferior analog compared to the torts of false imprisonment,
+malicious arrest, and malicious prosecution. See post, at 676–679.
+                   Cite as: 602 U. S. 653 (2024)            673
+
+                   Kavanaugh, J., concurring
+
+the law. Would that arrest be considered a split-second de-
+cision under Gonzalez's view? Or suppose that an arresting
+offcer takes several minutes to confer with another offcer on
+the scene. Would the no-probable-cause requirement apply?
+What if an offcer takes time to ensure that everyone at a
+crime scene is safe before completing an arrest? These hy-
+potheticals illustrate the vast practical diffculties with Gon-
+zalez's theory, and there is no principled basis for drawing
+such fnely grained lines in any event.
+   A “split-second” rule would also create a perverse incen-
+tive for police offcers to make quick arrest decisions rather
+than proceeding in a deliberative manner. Gonzalez's test
+punishes the city offcials for seeking a warrant from a neu-
+tral magistrate before arresting her. Under her approach,
+the defendants would have been better off if they had ar-
+rested her immediately. I see no good reason to switch out
+Nieves for a novel doctrinal dichotomy that generates such
+Page Proof Pending Publication
+counterintuitive results.
+   In sum, Nieves applies to all retaliatory-arrest claims
+brought under § 1983. And that decision means what it
+says. “[P]robable cause should generally defeat a retalia-
+tory arrest claim,” and a plaintiff bringing such a claim
+“must plead and prove the absence of probable cause for the
+arrest” unless he can ft within its narrow exception. 587
+U. S., at 402, 406. Nothing in the Court's decision today
+should be understood as casting doubt on this holding.
+
+                               III
+  With these observations, I join the Court's opinion.
+
+  Justice Kavanaugh, concurring.
+   Sylvia Gonzalez was arrested for intentionally stealing a
+government record. See Tex. Penal Code Ann. § 37.10(a)(3)
+(West Cum. Supp. 2023). Gonzalez sued city offcials under
+42 U. S. C. § 1983, alleging that she was arrested in retalia-
+tion for First Amendment-protected activity.
+674                GONZALEZ v. TREVINO
+
+                   Kavanaugh, J., concurring
+
+   But Gonzalez conceded that city offcials had probable
+cause to arrest her for intentionally removing the govern-
+ment record. (A video shows Gonzalez putting the govern-
+ment record into her binder at a city council meeting. See
+ante, at 659–662 (Alito, J., concurring).) An arrestee ordi-
+narily cannot sue a public offcial under § 1983 for retaliatory
+arrest if the offcial had probable cause to make the arrest.
+See Nieves v. Bartlett, 587 U. S. 391, 404 (2019). To somehow
+maintain her § 1983 suit, Gonzalez invoked what is known
+as the Nieves exception. That exception applies when an
+individual is arrested for minor criminal conduct where off-
+cers “typically exercise their discretion not” to arrest. Id.,
+at 406. The prime example is jaywalking. Id., at 407.
+   To come within the Nieves exception, Gonzalez was re-
+quired to present “objective evidence” that she was arrested
+when “similarly situated individuals” who engaged in the
+same conduct would not have been arrested. Ibid. Of
+Page Proof Pending Publication
+course, Gonzalez could not plausibly claim that people in
+Texas who steal things (or more precisely here, who steal
+government records) do not get arrested. Instead, she says
+that she took the government record accidentally, not inten-
+tionally, and that people who accidentally remove govern-
+ment documents are not arrested.
+   Properly understood, that is not a Nieves-exception claim
+at all. The Nieves exception is a conduct-based comparison.
+Only if the conduct does not usually trigger an arrest under
+any statute can you have a Nieves-exception claim—like jay-
+walking. Gonzalez's argument turns not on her conduct
+(taking government records) but rather on her mens rea.
+She essentially argues that an objectively reasonable offcer
+would have known that Gonzalez accidentally rather than in-
+tentionally took the government record.
+   When Gonzalez conceded that the offcials had probable
+cause to arrest her, however, she necessarily conceded that
+the offcers had probable cause to conclude that she “in-
+tentionally” removed the document. Tex. Penal Code Ann.
+                   Cite as: 602 U. S. 653 (2024)            675
+
+                     Jackson, J., concurring
+
+§ 37.10(a)(3). That may have been an unwise concession.
+But it should have foreclosed Gonzalez's attempt to contest
+her mens rea for purposes of her § 1983 retaliatory arrest
+claim. And even if Gonzalez had not made the concession,
+the question here would be whether an objectively reason-
+able offcer would have known that Gonzalez accidentally
+(rather than intentionally) took the document. In short, this
+is (at most) a case about probable cause as to mens rea, not
+about conduct-based comparisons. This case has nothing to
+do with the Nieves exception.
+   At this point, the Court's grant of certiorari looks ill-
+advised given that the question presented about the Nieves
+exception bears no relation to the issue on which Gonzalez's
+suit actually turns. In any event, we are where we are. I
+concur in the per curiam because the per curiam does not
+seem to say anything that is harmful to the law, even though
+the per curiam (in my view) does not really have anything
+to do with Gonzalez's case.
+Page Proof Pending Publication
+  Justice Jackson, with whom Justice Sotomayor joins,
+concurring.
+  Today, the Court rightly recognizes that petitioner Sylvia
+Gonzalez's survey—showing that, in the last decade, no one
+charged with the crime for which she was arrested had en-
+gaged in conduct similar to hers—is objective evidence ad-
+missible to prove that she “was arrested when otherwise
+similarly situated individuals not engaged in the same sort
+of protected speech had not been.” Nieves v. Bartlett, 587
+U. S. 391, 407 (2019); see ante, at 658.
+  That recognition, however, should not be taken to suggest
+that plaintiffs cannot use other types of objective evidence
+to make this showing. The Nieves exception is satisfed in
+“circumstances where offcers have probable cause to make
+arrests, but typically exercise their discretion not to do so.”
+587 U. S., at 406. “The only express limit we placed on the
+sort of evidence a plaintiff may present for that purpose is
+676                     GONZALEZ v. TREVINO
+
+                          Thomas, J., dissenting
+
+that it must be objective.” Ante, at 658. As the United
+States explains, such objective evidence could “include off-
+cers' employment of an unusual, irregular, or unnecessarily
+onerous arrest procedure,” as well as “[t]he timing of and
+events leading up to a plaintiff's arrest.” Brief for United
+States as Amicus Curiae 20.* Similarly, “if offcers falsely
+document the arrest or include other indicia of retaliatory
+motive in arrest-related documents, that too might suggest
+meaningfully differential treatment.” Id., at 21.
+   Here, in addition to her survey, Gonzalez presented this
+other kind of evidence as well. Before the District Court,
+Gonzalez pointed to, among other things, details about the
+anomalous procedures used for her arrest and statements in
+the arresting offcer's warrant affdavit suggesting a retalia-
+tory motive. See Brief for Petitioner 43–44. Those catego-
+ries of evidence, too, can support the conclusion that Gon-
+zalez “was arrested when otherwise similarly situated
+individuals not engaged in the same sort of protected speech
+Page Proof Pending Publication
+had not been.” Nieves, 587 U. S., at 407. On remand, the
+lower courts may consider the full scope of objective evi-
+dence that Gonzalez has offered to establish differential
+treatment. See ante, at 658.
+   With this understanding, I join the Court's per curiam
+opinion.
+  Justice Thomas, dissenting.
+  I continue to believe that “plaintiffs bringing a First
+Amendment retaliatory-arrest claim under § 1983 should
+have to plead and prove a lack of probable cause.” Lozman
+   *Justice Alito suggests that evidence of this sort—such as the fact
+that “a police offcer has been surveilling [a plaintiff's] house for several
+weeks”—would not “count toward the Nieves exception.” Ante, at 667
+(concurring opinion). He does not explain, however, why such evidence
+would not be objective, or why such evidence would not be relevant to
+proving that a plaintiff “was arrested when otherwise similarly situated
+individuals not engaged in the same sort of protected speech had not
+been.” Nieves, 587 U. S., at 407.
+                       Cite as: 602 U. S. 653 (2024)                    677
+
+                          Thomas, J., dissenting
+
+v. Riviera Beach, 585 U. S. 87, 107 (2018) (Thomas, J., dis-
+senting).* Under the Court's precedents, 42 U. S. C. § 1983
+is “construed in light of common-law principles that were
+well settled at the time of its enactment.” Kalina v. Flet-
+cher, 522 U. S. 118, 123 (1997). “Because no common-law
+tort for retaliatory arrest in violation of the freedom of
+speech existed when § 1983 was enacted, we look to the
+common-law torts that provide the closest analogy to this
+claim.” Nieves v. Bartlett, 587 U. S. 391, 409 (2019)
+(Thomas, J., concurring in part and concurring in judgment)
+(internal quotation marks and alteration omitted). As I
+have previously explained, the common-law torts most analo-
+gous to retaliatory-arrest claims are false imprisonment, ma-
+licious arrest, and malicious prosecution—all of which re-
+quired a plaintiff to prove “the absence of probable cause.”
+Id., at 409–410. Gonzalez concedes that there was probable
+cause for her arrest. Brief for Petitioner 30. Her
+retaliatory-arrest claim therefore cannot proceed.
+Page Proof Pending Publication
+   Resisting that conclusion, Gonzalez contends that there is
+still another common-law analogue for a retaliatory-arrest
+claim: abuse of process. Although the exact contours of that
+tort are unclear, abuse of process generally addressed the
+“extortionate perversion of lawfully initiated process to ille-
+gitimate ends.” Heck v. Humphrey, 512 U. S. 477, 486, n. 5
+(1994). Critically for Gonzalez's argument, an abuse-of-
+process claim did not require a plaintiff to establish the ab-
+sence of probable cause. See C. Addison, Wrongs and Their
+Remedies 601–602 (3d ed. 1870) (Addison); 1 T. Cooley, Law
+of Torts 356 (3d ed. 1906) (Cooley).
+
+   *I also remain “skeptical that 42 U. S. C. § 1983 recognizes a claim for
+retaliatory arrests under the First Amendment.” Lozman, 585 U. S., at
+104, n. 2 (Thomas, J., dissenting). “Because no party questions whether
+§ 1983 claims for retaliatory arrests under the First Amendment are ac-
+tionable, I assume that § 1983 permits such claims.” Nieves v. Bartlett,
+587 U. S. 391, 409, n. (2019) (Thomas, J., concurring in part and concurring
+in judgment).
+678                 GONZALEZ v. TREVINO
+
+                      Thomas, J., dissenting
+
+   I am not persuaded that an abuse-of-process claim is analo-
+gous to Gonzalez's retaliatory-arrest claim. Gonzalez's cen-
+tral argument is that her arrest was invalid because the de-
+fendants had an improper motive. As she sees it, even
+though the defendants had probable cause to arrest her, they
+did so only in retaliation for her constitutionally protected
+speech. See App. to Pet. for Cert. 126a, 129a. Abuse of
+process, however, appeared to be less concerned with why
+process was initiated and more with whether process was
+ultimately used as “intended by the law.” Mayer v. Walter,
+64 Pa. 283, 285–286 (1870); see Addison 602 (abuse-of-process
+tort applies where process has been “prostituted to an illegal
+purpose”). An abuse of process occurred when an ordinary
+process was distorted “for a purpose not justifed by the
+law,” and the tort required “ `an act in the use of the process
+not proper in the regular prosecution of the proceeding.' ”
+Cooley 354–356. For example, a plaintiff could assert an
+Page Proof Pending Publication
+abuse-of-process claim if an offcer arrested and detained him
+in an oppressive manner as a means of extortion. See id.,
+at 354–355 (providing as an example “causing an arrest . . .
+and keeping [the plaintiff] imprisoned until, by stress
+thereof, he is compelled to surrender property to which the
+other is not entitled”). Or, a plaintiff could bring an abuse-
+of-process claim if an offcer deprived him of food while he
+was detained. Wood v. Graves, 144 Mass. 365, 366, 11 N. E.
+567, 576 (1887) (describing where a person “arrested . . . is
+treated with cruelty, is deprived of proper food, or is other-
+wise treated with oppression and undue hardship”). Either
+way, the essential question appears to have been how the
+process was used—not whether the process was initiated
+with an improper motive. See Glidewell v. Murray-Lacy &
+Co., 124 Va. 563, 569, 98 S. E. 665, 667 (1919) (explaining that
+the “distinctive nature of an action for abuse of process . . .
+lies for the improper use of a regularly issued process, not
+for maliciously causing process to issue”); Cooley 356 (“ `Reg-
+ular and legitimate use of process, though with a bad inten-
+                   Cite as: 602 U. S. 653 (2024)           679
+
+                     Thomas, J., dissenting
+
+tion, is not a malicious abuse of process' ”). Because Gonza-
+lez's retaliatory-arrest claim focuses on the motives behind
+her arrest and not the process itself, the abuse-of-process
+tort is a poor ft.
+   The Court takes an even more dubious route in its at-
+tempt to salvage Gonzalez's case. In Nieves v. Bartlett, the
+Court correctly recognized that probable cause precludes a
+retaliatory-arrest claim. 587 U. S., at 406. But, it intro-
+duced one purportedly “narrow qualifcation.” Ibid.; see
+Lund v. Rockford, 956 F. 3d 938, 944 (CA7 2020) (considering
+whether a plaintiff's “case squeeze[d] through the crack of an
+opening that Nieves left ajar”). The Nieves Court con-
+cluded that a plaintiff need not show a lack of probable cause
+if he “presents objective evidence that he was arrested when
+otherwise similarly situated individuals not engaged in the
+same sort of protected speech had not been.” 587 U. S.,
+at 407.
+   Today, the Court expands that qualifcation. Nieves's ex-
+Page Proof Pending Publication
+ception can now apply if a plaintiff presents evidence of any
+objective fact that “makes it more likely that an offcer has
+declined to arrest someone for engaging in such conduct
+in the past.” Ante, at 658 (emphasis deleted). Accordingly,
+even though Gonzalez's proffered evidence does not point to
+a single “similarly situated individua[l],” the Court none-
+theless concludes she may satisfy the Nieves exception.
+Nieves, 587 U. S., at 407.
+   There is “no basis in either the common law or our First
+Amendment precedents” for the exception created in Nieves
+and expanded upon today. Id., at 409 (opinion of Thomas,
+J.). And, the Court should not craft § 1983 rules “as a mat-
+ter of policy.” Id., at 411. I would adhere to the only rule
+grounded in history: Probable cause defeats a retaliatory-
+arrest claim. I respectfully dissent.
+                           Reporter’s Note
+
+  The attached opinion has been revised to refect the usual publication
+and citation style of the United States Reports. The revised pagination
+makes available the offcial United States Reports citation in advance of
+publication. The syllabus has been prepared by the Reporter of Decisions
+Page Proof Pending Publication
+for the convenience of the reader and constitutes no part of the opinion of
+the Court. A list of counsel who argued or fled briefs in this case, and
+who were members of the bar of this Court at the time this case was
+argued, has been inserted following the syllabus. Other revisions may
+include adjustments to formatting, captions, citation form, and any errant
+punctuation. The following additional edits were made:
+
+None

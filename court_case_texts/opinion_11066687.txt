@@ -1,0 +1,707 @@
+PRELIMINARY PRINT
+
+             Volume 601 U. S. Part 2
+                             Pages 330–345
+
+
+
+
+       OFFICIAL REPORTS
+                                    OF
+
+
+   THE SUPREME COURT
+                               April 17, 2024
+
+
+Page Proof Pending Publication
+
+
+                   REBECCA A. WOMELDORF
+                           reporter of decisions
+
+
+
+
+    NOTICE: This preliminary print is subject to formal revision before
+  the bound volume is published. Users are requested to notify the Reporter
+  of Decisions, Supreme Court of the United States, Washington, D.C. 20543,
+  pio@supremecourt.gov, of any typographical or other formal errors.
+330                      OCTOBER TERM, 2023
+
+                                  Syllabus
+
+
+                McINTOSH v. UNITED STATES
+certiorari to the united states court of appeals for
+                 the second circuit
+      No. 22–7386. Argued February 27, 2024—Decided April 17, 2024
+Petitioner Louis McIntosh was indicted on multiple counts of Hobbs Act
+  robbery and frearm offenses. The indictment set forth the demand
+  that McIntosh “shall forfeit . . . all property . . . derived from proceeds
+  traceable to the commission of the [Hobbs Act] offenses.” The Govern-
+  ment also later provided McIntosh with a pretrial bill of particulars that
+  included as property subject to forfeiture $75,000 in cash and a BMW
+  that McIntosh purchased just fve days after one of the robberies.
+  After a jury convicted McIntosh, the District Court imposed a forfeiture
+  of $75,000 and the BMW at the sentencing hearing. Although the Dis-
+  trict Court also ordered the Government to submit an order of forfeiture
+  for the court's signature within a week from the hearing, the Govern-
+  ment failed to do so. On appeal, the Government moved for a limited
+  remand to supplement the record with a written order of forfeiture.
+
+Page Proof Pending Publication
+  The Second Circuit granted the unopposed motion. Back in District
+  Court, McIntosh argued that the failure to comply with Federal Rule of
+  Criminal Procedure 32.2(b)(2)(B)—which provides that “[u]nless doing
+  so is impractical,” a federal district court “must enter the preliminary
+  order [of forfeiture] suffciently in advance of sentencing to allow the
+  parties to suggest revisions or modifcations before the order becomes
+  fnal as to the defendant”—meant that the District Court could not pro-
+  ceed with forfeiture at all. The District Court overruled McIntosh's
+  objections, fnding that the Rule is a time-related directive, and that the
+  failure to enter a preliminary order of forfeiture before sentencing did
+  not prevent the court from ordering forfeiture because the missed dead-
+  line did not prejudice McIntosh. The Second Circuit affrmed in rele-
+  vant part.
+Held: A district court's failure to comply with Rule 32.2(b)(2)(B)'s require-
+ ment to enter a preliminary order before sentencing does not bar a
+ judge from ordering forfeiture at sentencing subject to harmless-error
+ principles on appellate review. Pp. 336–345.
+    (a) Although the District Court did not comply with Rule 32.2(b)(2)(B)
+ when it failed to enter a preliminary order of forfeiture before McIn-
+ tosh's initial sentencing, the District Court retained its power to order
+ forfeiture against McIntosh. Pp. 336–342.
+                       Cite as: 601 U. S. 330 (2024)                      331
+
+                                 Syllabus
+
+      (1) This Court has identifed three types of time limits: (i) jurisdic-
+ tional deadlines; (ii) mandatory claim-processing rules, and (iii) time-
+ related directives. See Dolan v. United States, 560 U. S. 605, 610–611.
+ McIntosh claims that Rule 32.2(b)(2)(B) is a claim-processing rule—a
+ mandatory deadline that regulates the timing of motions or claims be-
+ fore the court and that, unlike jurisdictional deadlines, is subject to
+ waiver and forfeiture by the litigant. Id., at 610. The Government, on
+ the other hand, argues that Rule 32.2(b)(2)(B) is a fexible time-related
+ directive—a deadline that seeks speed by directing a public offcial to
+ act by a certain time and that, if missed, does not deprive the offcial of
+ “the power to take the action to which the deadline applies.” Id., at 611.
+ Noncompliance with a mandatory claim-processing rule is presumed to
+ be prejudicial, Manrique v. United States, 581 U. S. 116, 125 (2017), but
+ noncompliance with a time-related directive is, in this context, subject
+ to harmless-error principles on appellate review, Fed. Rule Crim. Proc.
+ 52(a). The Court agrees with the Second Circuit and the Government
+ that Rule 32.2(b)(2)(B) establishes a time-related directive. Pp. 337–338.
+      (2) The Court in Dolan addressed the proper remedy when a dis-
+ trict court misses a statutory deadline to take action related to criminal
+ sentencing imposed by a statute that “ `d[id] not specify a consequence
+ for noncompliance.' ” 560 U. S., at 611. The Court held that the provi-
+Page Proof Pending Publication
+ sion at issue was a time-related directive, such that, if “a sentencing
+ court misses the . . . deadline,” it retains the power to act in that circum-
+ stance. Ibid. Other cases similarly have recognized that certain dead-
+ lines, if missed, do not deprive a public offcial of the power to take the
+ action to which the deadline applies. See, e. g., Barnhart v. Peabody
+ Coal Co., 537 U. S. 149, 171–172; Regions Hospital v. Shalala, 522 U. S.
+ 448, 459, n. 3; United States v. James Daniel Good Real Property, 510
+ U. S. 43, 63–65. These cases involved timing provisions that did not
+ specify a consequence for the public offcials' noncompliance with the
+ prescribed deadlines. Pp. 338–340.
+      (3) Several features of Rule 32.2(b)(2)(B) lead to the conclusion that
+ the Rule is best understood as a time-related directive. First, its plain
+ language contemplates fexibility regarding the timing of a preliminary
+ order's entry, providing the indeterminate command that a preliminary
+ order be entered “suffciently in advance of sentencing” “[u]nless doing
+ so is impractical.” This fexibility takes the Rule further away from
+ the category of “rigid” and “ `infexible claim-processing rule[s].' ” Eb-
+ erhart v. United States, 546 U. S. 12, 13 (per curiam). Second, Rule
+ 32.2(b)(2)(B) does not impose a specifc consequence for noncompliance,
+ in contrast to other parts of Rule 32.2. See, e. g., 32.2(a). In the ab-
+ sence of such specifcation, courts typically “will not in the ordinary
+332                 McINTOSH v. UNITED STATES
+
+                                 Syllabus
+
+  course impose their own coercive sanction” for noncompliance with a
+  timing directive. James Daniel Good, 510 U. S., at 63. Third, Rule
+  32.2(b)(2)(B) governs the conduct of the district court, not the litigants.
+  Mandatory claim-processing rules ordinarily “requir[e] that the parties
+  take certain procedural steps at certain specifed times,” Henderson v.
+  Shinseki, 562 U. S. 428, 435 (emphasis added), and time-related direc-
+  tives typically spur public offcials to act within a specifed time. That
+  distinction holds even in the examples that McIntosh identifes, and he
+  has not identifed a mandatory claim-processing rule that is analogous
+  to Rule 32.2(b)(2)(B). Pp. 340–342.
+     (b) McIntosh's contrary arguments are unpersuasive. He points to
+  the Rule's use of the word “must” to highlight its mandatory character,
+  but such language standing “alone has not always led this Court to in-
+  terpret statutes to bar judges . . . from taking action to which a missed
+  statutory deadline refers.” Dolan, 560 U. S., at 611–612. Construed
+  in context, the Rule contemplates some fexibility with its impracticality
+  exception and indeterminate command that a preliminary order be en-
+  tered “suffciently in advance of sentencing.” Nor does it “mak[e]
+  sense,” as McIntosh claims, to classify Rule 32.2(b)(2)(B) as a mandatory
+  claim-processing rule because the Government must move the process
+  forward. Although the Government plays an indispensable role in the
+Page Proof Pending Publication
+  criminal-forfeiture process, the Rule is directed exclusively to the sen-
+  tencing court. McIntosh also contends that an affrmance here would
+  deprive the Rule of any effect, but a timely objection likely will prompt
+  the district court to enter the preliminary order and, if appropriate,
+  postpone sentencing. A timely objection would, at the very least, re-
+  sult in harmless-error review of the Rule's violation. Finally, because
+  McIntosh has not shown that reading the requirement as a time-related
+  directive would frustrate signifcantly Rule 32.2's effectiveness, McIn-
+  tosh's invocation of the Rule's purpose—to ensure due process and pro-
+  mote judicial economy—falls fat. Pp. 342–344.
+     (c) Noncompliance with Rule 32.2(b)(2)(B) is a procedural error sub-
+  ject to harmlessness review. Because McIntosh did not challenge the
+  lower courts' harmlessness analysis in either his certiorari petition or
+  his opening brief, this Court need not revisit it. Pp. 344–345.
+58 F. 4th 606, affrmed.
+
+  Sotomayor, J., delivered the opinion for a unanimous Court.
+
+ Steven Y. Yurowitz argued the cause for petitioner.
+With him on the briefs were William J. Dobie and Devi M.
+Rao.
+                       Cite as: 601 U. S. 330 (2024)                   333
+
+                          Opinion of the Court
+
+  Matthew Guarnieri argued the cause for the United
+States. With him on the brief were Solicitor General Pre-
+logar, Acting Assistant Attorney General Argentieri, Dep-
+uty Solicitor General Gannon, and Katherine T. Allen.*
+   Justice Sotomayor delivered the opinion of the Court.
+   In certain criminal cases, Congress has authorized the
+Government to seek forfeiture of a defendant's ill-gotten
+gains as part of the defendant's sentence. Federal Rule of
+Criminal Procedure 32.2 sets forth specifc procedures for
+imposing criminal forfeiture in such cases. In particular,
+Rule 32.2(b)(2)(B) provides that, “[u]nless doing so is imprac-
+tical,” a federal district court “must enter the preliminary
+order [of forfeiture] suffciently in advance of sentencing to
+allow the parties to suggest revisions or modifcations before
+the order becomes fnal as to the defendant.”
+   The question presented in this case is whether a district
+court that fails to comply with Rule 32.2(b)(2)(B)'s require-
+Page Proof Pending Publication
+ment to enter a preliminary order before sentencing is pow-
+erless to order forfeiture against the defendant. In light of
+the Rule's text and relevant precedents, this Court holds that
+the failure to enter a preliminary order does not bar a judge
+from ordering forfeiture at sentencing subject to harmless-
+error principles on appellate review.
+
+                                    I
+   Between 2009 and 2011, Louis McIntosh committed a se-
+ries of violent robberies and attempted robberies in New
+York. In one such robbery, McIntosh and two others held a
+man at gunpoint, bound and gagged him in his basement, and
+then took $70,000 in cash from the man's house. Five days
+later, McIntosh bought a BMW for approximately $10,000
+
+   *Briefs of amici curiae urging reversal were fled for the National Asso-
+ciation of Criminal Defense Lawyers by Steven L. Kessler and David
+M. Porter; and for the New York Council of Defense Lawyers by Noam
+Biale.
+334               McINTOSH v. UNITED STATES
+
+                         Opinion of the Court
+
+with cash and money orders and listed his mother as the
+buyer.
+   In June 2011, McIntosh was indicted along with fve others
+on multiple counts of Hobbs Act robbery and frearm of-
+fenses. The indictment set forth that, for the Hobbs Act
+robbery counts, the defendants “shall forfeit to the United
+States . . . all property . . . that constitutes or is derived
+from proceeds traceable to the commission of the offenses,
+including but not limited to a sum in United States currency
+representing the amount of proceeds obtained as a result of
+the offenses.” App. 10–11. The Government provided Mc-
+Intosh with a pretrial bill of particulars the next month that
+listed the BMW as “property subject to forfeiture.” Id., at
+12, 14.
+   A jury convicted McIntosh on all counts.1 On May 23,
+2014, the District Court held the sentencing hearing. The
+Government had not mentioned the forfeiture in its sentenc-
+ing memorandum, and the District Court did not enter a pre-
+Page Proof Pending Publication
+liminary order of forfeiture prior to the hearing. At the
+hearing, however, the Government stated that it was seeking
+forfeiture for “$75,000 in a money judgment, as well as the
+BMW.” Id., at 54. The Government offered to submit a
+proposed order “within the next week.” Ibid. McIntosh
+objected to the forfeiture. He argued that there was no
+“dispositive” evidence connecting the BMW to any robbery
+proceeds, insisting that a family member had purchased the
+car. Id., at 54–55. It is not clear from the record whether
+McIntosh's objection to the forfeiture was also based on the
+absence of a preliminary order.
+   The District Court overruled McIntosh's objection to the
+forfeiture based on the trial evidence that the Government
+presented. As part of the sentence, the District Court im-
+posed a forfeiture of “$75,000 and the BMW” as “fruits of the
+crime[s],” and ordered the Government to “submit an order
+  1
+   The District Court subsequently directed a judgment of acquittal on
+two counts of attempted robbery.
+                      Cite as: 601 U. S. 330 (2024)                 335
+
+                         Opinion of the Court
+
+of forfeiture for signature by the Court within a week.” Id.,
+at 62. The written judgment memorialized these instruc-
+tions.2 Notwithstanding the District Court's order, the
+Government failed to submit a proposed order of forfeiture.
+   On appeal, the Government moved for a limited remand to
+the District Court to “supplement the record by entering the
+formal orde[r] of . . . forfeiture.” Id., at 68. The Govern-
+ment conceded that McIntosh could then “contes[t] the time-
+liness of [a formal forfeiture] order,” and the District Court
+could “make whatever fndings it deem[ed] appropriate.”
+Id., at 71. The Second Circuit granted the Government's
+unopposed motion and remanded the case.
+   Back in the District Court, McIntosh objected to the Gov-
+ernment's newly proposed order. McIntosh argued that the
+District Court failed to comply with Rule 32.2(b)(2)(B) when
+it did not enter a preliminary order prior to his original sen-
+tencing, and thus it could not proceed with forfeiture at all.
+In McIntosh's view, the delay prejudiced him because the
+Page Proof Pending Publication
+BMW lost value while the forfeiture issue was litigated,
+which meant he would be credited less money against his
+money judgment.
+   The District Court again overruled McIntosh's objections.
+It concluded that Rule 32.2(b)(2)(B) is a time-related direc-
+tive, rather than a jurisdictional deadline or a mandatory
+claim-processing rule, and thus the court retained the power
+to order forfeiture. The failure to comply with the time-
+related directive, the court found, did not prejudice McIn-
+tosh. Accordingly, the District Court entered the proposed
+order of forfeiture and entered an amended judgment re-
+fecting the order.
+   The Second Circuit affrmed in relevant part. Like the
+District Court, the Court of Appeals concluded that Rule
+32.2(b)(2)(B) is a “ `time-related directiv[e],' ” which does
+  2
+    The judgment instructed McIntosh to forfeit “$95,000” instead of
+“$75,000,” App. 50, but the District Court later corrected this conceded
+clerical error in the amended judgment.
+336                 McINTOSH v. UNITED STATES
+
+                           Opinion of the Court
+
+“ `not deprive a judge . . . of the power to take the action to
+which the deadline applies if the deadline is missed.' ” 58 F.
+4th 606, 609 (2023) (quoting Dolan v. United States, 560 U. S.
+605, 611 (2010)). The Second Circuit also rejected McIn-
+tosh's prejudice argument. In an accompanying summary
+order, the Second Circuit vacated the judgment in part and
+remanded for recalculation of the forfeiture amount because
+the $75,000 fgure refected the total proceeds of the robber-
+ies rather than the amount McIntosh personally received.
+See 2023 WL 382945, *2 (Jan. 25, 2023).
+   McIntosh fled a petition for a writ of certiorari, alleging
+a split among the Courts of Appeals on the consequences of
+failing to adhere to Rule 32.2(b)'s requirements.3 During
+the second remand, while the petition was pending, the Dis-
+trict Court entered an agreed-upon preliminary order of for-
+feiture for $28,000 and the BMW. On September 20, 2023,
+the District Court entered its fnal forfeiture order. Days
+later, this Court granted McIntosh's petition limited to the
+Page Proof Pending Publication
+question “[w]hether a district court may enter a criminal for-
+feiture order outside the time limitations set forth in Rule
+32.2.” Pet. for Cert. i. See 600 U. S. ––– (2023).
+
+                                     II
+  Rule 32.2(b)(2)(B) provides: “Unless doing so is impracti-
+cal, the court must enter the preliminary order [of forfeiture]
+suffciently in advance of sentencing to allow the parties to
+suggest revisions or modifcations before the order becomes
+  3
+    According to McIntosh's petition, the Eighth Circuit treats Rule
+32.2(b)'s deadline as jurisdictional, see United States v. Shakur, 691 F. 3d
+979 (2012); the Sixth Circuit treats it as a mandatory claim-processing rule,
+see United States v. Maddux, 37 F. 4th 1170 (2022); and the Fourth Circuit,
+like the Second Circuit below, treats it as a time-related directive, see
+United States v. Martin, 662 F. 3d 301 (2011). See Pet. for Cert. i; but
+see United States v. Lee, 77 F. 4th 565, 577 (CA7 2023) (explaining that,
+while it “appears at frst glance that there is confict . . . , a closer look
+at the decisions suggests that there may be less difference than meets
+the eye”).
+                   Cite as: 601 U. S. 330 (2024)             337
+
+                      Opinion of the Court
+
+fnal as to the defendant.” The order becomes fnal either
+at sentencing or before then if the defendant consents. See
+Fed. Rule Crim. Proc. 32.2(b)(4)(A). It is undisputed that
+the District Court did not comply with Rule 32.2(b)(2)(B)
+when it failed to enter a preliminary order of forfeiture
+before McIntosh's initial sentencing. Despite that error,
+the District Court retained its power to order forfeiture
+against McIntosh.
+                              A
+   This Court has identifed three types of time limits: (1) ju-
+risdictional deadlines; (2) mandatory claim-processing rules;
+and (3) time-related directives. See Dolan, 560 U. S., at
+610–611. Jurisdictional deadlines are rare. See United
+States v. Kwai Fun Wong, 575 U. S. 402, 410 (2015) (“[M]ost
+time bars are nonjurisdictional”). If the court misses a ju-
+risdictional deadline, it is completely powerless to take any
+relevant action, and the “parties cannot waive” the deadline.
+Page Proof Pending Publication
+Dolan, 560 U. S., at 610. Put differently, noncompliance
+with a jurisdictional deadline cannot be excused. No one
+contends that Rule 32.2(b)(2)(B) is jurisdictional because it
+“does not expressly refer to subject-matter jurisdiction or
+speak in jurisdictional terms.” Musacchio v. United States,
+577 U. S. 237, 246 (2016). Instead, the parties' dispute re-
+volves around the other two types of time limits.
+   Mandatory claim-processing rules “regulate the timing of
+motions or claims brought before the court.” Dolan, 560
+U. S., at 610. That is why, generally speaking, “fling dead-
+lines” are the “ `quintessential claim-processing rules.' ” Seb-
+elius v. Auburn Regional Medical Center, 568 U. S. 145, 154
+(2013). If the affected party alerts the court to the deadline
+and invokes its protection, the relevant action cannot be taken
+after the deadline has passed. Unlike jurisdictional limits,
+though, mandatory claim-processing rules are subject to
+waiver and forfeiture by a litigant. Dolan, 560 U. S., at 610.
+   Time-related directives “see[k] speed” by directing “a
+judge or other public offcial” to act by a certain time. Id.,
+338                McINTOSH v. UNITED STATES
+
+                          Opinion of the Court
+
+at 611. Missing that kind of deadline does not deprive the
+offcial of “the power to take the action to which the deadline
+applies.” Ibid. Moreover, whereas noncompliance with a
+mandatory claim-processing rule is presumed to be prejudi-
+cial, Manrique v. United States, 581 U. S. 116, 125 (2017), the
+failure to follow a time-related directive is, in this context,
+subject to harmless-error principles on appellate review,
+Fed. Rule Crim. Proc. 52(a).
+   McIntosh contends that Rule 32.2(b)(2)(B) is a mandatory
+claim-processing rule, and thus the District Court could not
+order forfeiture once McIntosh objected to the absence of a
+preliminary order prior to his initial sentencing. The Gov-
+ernment, on the other hand, argues that Rule 32.2(b)(2)(B) is
+a fexible time-related directive, and thus the absence of a
+preliminary order did not bar the District Court from order-
+ing forfeiture at sentencing.4
+   This Court agrees with the Second Circuit and the Gov-
+ernment that Rule 32.2(b)(2)(B) establishes a time-related di-
+Page Proof Pending Publication
+rective. Accordingly, a district judge's failure to enter a
+preliminary order prior to sentencing does not deprive a
+judge of the power to order forfeiture.
+
+                                    B
+   In Dolan v. United States, this Court similarly addressed
+the proper remedy for when a district court misses a dead-
+line to take action related to criminal sentencing. That case
+  4
+    The parties disagree on whether McIntosh timely objected to the lack
+of a preliminary order at the initial sentencing and whether he relin-
+quished any objection by agreeing to the entry of the revised, now-
+operative order of forfeiture during the second remand. The Government
+argues that, if this Court agrees with McIntosh that Rule 32.2(b)(2)(B) is
+a mandatory claim-processing rule, the case should be remanded to deter-
+mine whether McIntosh forfeited such an objection “under the particular
+circumstances of this case.” Brief for United States 17. Because this
+Court, however, agrees with the Government's view of Rule 32.2(b)(2)(B),
+a remand is not warranted.
+                   Cite as: 601 U. S. 330 (2024)             339
+
+                      Opinion of the Court
+
+involved a provision in the Mandatory Victims Restitution
+Act of 1996, which states that,“[i]f the victim's losses are not
+ascertainable by the date that is 10 days prior to sentencing,
+. . . the court shall set a date for the fnal determination of
+the victim's losses, not to exceed 90 days after sentencing.”
+18 U. S. C. § 3664(d)(5). This Court noted that the statute
+“ `d[id] not specify a consequence for noncompliance with' ”
+the deadline. Dolan, 560 U. S., at 611 (quoting United
+States v. James Daniel Good Real Property, 510 U. S. 43, 63
+(1993)). It then held that the provision was a time-related
+directive, such that, if “a sentencing court misses the stat-
+ute's 90-day deadline, even through its own fault or that
+of the Government,” the sentencing court retains “the
+power to order restitution” in that circumstance. 560 U. S.,
+at 611.
+   Dolan was just the latest in a line of cases recognizing that
+certain deadlines, if missed, do not deprive a public offcial
+Page Proof Pending Publication
+of the power to take the action to which the deadline applies.
+See, e.g., Barnhart v. Peabody Coal Co., 537 U. S. 149, 171–
+172 (2003) (missed deadline for assigning industry retiree
+benefts did not prevent later award of benefts); Regions
+Hospital v. Shalala, 522 U. S. 448, 459, n. 3 (1998) (missed
+deadline to submit agency report did not deprive offcial of
+“power to act beyond it”); James Daniel Good, 510 U. S., at
+63–65 (missed deadline for civil-forfeiture proceedings did
+not prevent federal offcers from seeking forfeiture of prop-
+erty used to commit a federal drug offense); United States
+v. Montalvo-Murillo, 495 U. S. 711, 717–718 (1990) (missed
+deadline to hold bail hearing did not require the release of
+pretrial detainee); Brock v. Pierce County, 476 U. S. 253, 266
+(1986) (missed deadline to determine misuse of federal grant
+funds did not “divest [public offcial] of jurisdiction to act
+after that time”).
+   Each of these cases involved timing provisions that did not
+specify a consequence for the public offcials' noncompliance
+340              McINTOSH v. UNITED STATES
+
+                      Opinion of the Court
+
+with the prescribed deadlines. Those provisions are exam-
+ples of “ `requisitions intended for the guide of offcers in the
+conduct of business devolved upon them [that] do not limit
+their power or render its exercise in disregard of the requisi-
+tions ineffectual.' ” James Daniel Good, 510 U. S., at 63
+(quoting French v. Edwards, 13 Wall. 506, 511 (1872)). In
+such circumstances, “courts will not in the ordinary course
+impose their own coercive sanction,” 510 U. S., at 63, nor typ-
+ically attribute “intent to limit an [offcial's] power to get a
+mandatory job done merely from a specifcation to act by a
+certain time,” Barnhart, 537 U. S., at 160.
+
+                               C
+   In this Court's taxonomy of time limits, Rule 32.2(b)(2)(B)
+is best understood as a time-related directive. It functions
+“as a spur to prompt action, not as a bar to tardy completion
+of . . . business.” Id., at 172. Several features of the Rule
+Page Proof Pending Publication
+guide this Court's analysis.
+   First, far from imposing “rigid” constraints characteristic
+of mandatory claim-processing rules, the plain language of
+the Rule contemplates fexibility regarding the timing of a
+preliminary order's entry. Eberhart v. United States, 546
+U. S. 12, 13 (2005) (per curiam). It requires that a prelimi-
+nary order of forfeiture be entered before sentencing, “[u]n-
+less doing so is impractical.” Rule 32.2(b)(2)(B). As such,
+the Rule anticipates that, in some circumstances, it may be
+“impractical” to enter a preliminary order of forfeiture be-
+fore sentencing. Similarly, the Rule contains the indetermi-
+nate command that a preliminary order be entered “suff-
+ciently in advance of sentencing to allow the parties to
+suggest revisions or modifcations before the order becomes
+fnal as to the defendant.” Ibid. (emphasis added). Of
+course, what is suffcient in one case may not be in another.
+Both the impracticality exception and the suffciently-in-
+advance condition take the Rule further away from the cate-
+                       Cite as: 601 U. S. 330 (2024)                    341
+
+                           Opinion of the Court
+
+gory of “rigid” and “ `infexible claim-processing rule[s].' ”
+Eberhart, 546 U. S., at 13.5
+   Second, Rule 32.2(b)(2)(B) “ `does not specify a conse-
+quence for noncompliance with its timing provisions.' ” 58
+F. 4th, at 610 (quoting Dolan, 560 U. S., at 611). In the ab-
+sence of such specifcation, courts “will not in the ordinary
+course impose their own coercive sanction” for noncompli-
+ance with a timing directive. James Daniel Good, 510 U. S.,
+at 63. Indeed, it would be especially strange to prohibit a
+sentencing court from ordering forfeiture for not complying
+with Rule 32.2(b)(2)(B) where other parts of Rule 32.2 spec-
+ify that consequence for noncompliance. Rule 32.2(a), for
+example, provides that the Government's failure to include a
+forfeiture allegation in the indictment means that the “court
+must not enter a judgment of forfeiture.” The use of “ `ex-
+plicit language' ” specifying a sanction in Rule 32.2(a) but not
+in Rule 32.2(b)(2)(B) “ `cautions against inferring' the same
+limitation” in Rule 32.2(b)(2)(B). State Farm Fire & Cas-
+Page Proof Pending Publication
+ualty Co. v. United States ex rel. Rigsby, 580 U. S. 26, 34
+(2016).
+   Third, “Rule 32.2(b)(2)(B) governs the conduct of the dis-
+trict court, not the litigants.” 58 F. 4th, at 611. Recall that
+time-related directives typically spur public offcials to act
+within a specifed time. Mandatory claim-processing rules,
+by contrast, ordinarily “requir[e] that the parties take cer-
+tain procedural steps at certain specifed times.” Hender-
+son v. Shinseki, 562 U. S. 428, 435 (2011) (emphasis added).
+   5
+     Because the District Court ordered the forfeiture at McIntosh's initial
+sentencing, this case does not implicate Rule 32.2(b)(4)(B)'s requirement
+that forfeiture be imposed at sentencing. Cf. Lee, 77 F. 4th, at 582–583
+(explaining that, although “the requirement of a preliminary order is a
+time-related directive, . . . [t]he requirement that [a fnal order] must be
+included in the oral judgment of the court has the character of a claims-
+processing rule”); Tr. of Oral Arg. 34–36 (Government counsel stating that
+the requirements relating to the fnal order's entry raise “a harder set of
+issues” for the Government, which are not implicated in this case).
+342              McINTOSH v. UNITED STATES
+
+                       Opinion of the Court
+
+That distinction holds even in the examples that McIntosh
+identifed of claim-processing rules addressed to courts.
+Take Santos-Zacaria v. Garland, 598 U. S. 411 (2023), and
+Gonzalez v. Thaler, 565 U. S. 134 (2012), for example. See
+Brief for Petitioner 34–35; Tr. of Oral Arg. 13. The claim-
+processing rules in those cases conditioned the court's au-
+thority to act on the parties' adherence to a certain proce-
+dure, and not on the court's compliance with a deadline. See
+Santos-Zacaria, 598 U. S., at 416 (analyzing provision stating
+that “ `[a] court may review a fnal order of removal only if
+. . . the alien has exhausted all administrative remedies avail-
+able to the alien as of right' ”); Gonzalez, 565 U. S., at 140
+(analyzing provision stating that a court of appeals “ `may
+issue' ” a certifcate of appealability “ `only if the applicant
+has made a substantial showing of the denial of a constitu-
+tional right' ”). McIntosh has not identifed a mandatory
+claim-processing rule that is analogous to Rule 32.2(b)(2)(B).
+    In sum, Rule 32.2(b)(2)(B) is a time-related directive that,
+Page Proof Pending Publication
+if missed, does not deprive the judge of her power to order
+forfeiture against the defendant.
+
+                               III
+  McIntosh's arguments to the contrary are unpersuasive.
+He frst points to Rule 32.2(b)(2)(B)'s use of the word “must”
+to highlight its mandatory character. Yet this kind of man-
+datory language standing “alone has not always led this
+Court to interpret statutes to bar judges (or other offcials)
+from taking action to which a missed statutory deadline
+refers.” Dolan, 560 U. S., at 611–612; see also id., at 607–
+608 (concluding that statute providing that a sentencing
+court “ `shall set a date' ” within a specifed time period to
+determine restitution amount was a time-related directive);
+Barnhart, 537 U. S., at 152 (“ `shall' . . . assign”); Regions
+Hospital, 522 U. S., at 459, n. 3 (“ `shall report' ”); Montalvo-
+Murillo, 495 U. S., at 717 (“ `shall hold a hearing' ”); Brock,
+476 U. S., at 256 (“ `shall' determine”). Additionally, Rule
+                      Cite as: 601 U. S. 330 (2024)                   343
+
+                          Opinion of the Court
+
+32.2(b)(2)(B)'s use of “must” has to be construed in context
+to determine whether its time limit is a mandatory claim-
+processing rule or a time-related directive. That context, as
+discussed above, demonstrates that the Rule contemplates
+some fexibility by specifying that the preliminary order be
+entered “suffciently in advance of sentencing,” “[u]nless
+doing so is impractical.” Rule 32.2(b)(2)(B); see supra,
+at 340–341.
+   McIntosh also argues that it “makes sense” to classify
+Rule 32.2(b)(2)(B) as a mandatory claim-processing rule be-
+cause Rule 32.2 requires the Government to take specifc
+steps “to move the criminal forfeiture process forward.”
+Brief for Petitioner 11. For example, the Government must
+provide notice in the indictment that it “will seek the forfeit-
+ure of property as part of any sentence,” “establis[h] the req-
+uisite nexus between the property and the offense,” and
+“publish . . . and send notice” of the forfeiture order to poten-
+tial claimants. Fed. Rules Crim. Proc. 32.2(a), (b)(1)(A),
+Page Proof Pending Publication
+(b)(6)(A). Although McIntosh is correct that the Govern-
+ment plays an indispensable role in the criminal forfeiture
+process, Rule 32.2(b)(2)(B) is directed exclusively to the sen-
+tencing court. It does not even mention the Government.
+That the instruction to the court may in turn push the Gov-
+ernment to take certain steps as a practical matter does not
+change the Rule's addressee.6
+
+   6
+     The Government explains that the Department of Justice instructs its
+prosecutors to recommend a preliminary order of forfeiture prior to sen-
+tencing to assist judges at sentencing. See Brief for United States 26
+(citing Dept. of Justice, Money Laundering and Asset Recovery Section,
+Asset Forfeiture Policy Manual 5–22 (2023)). Here, in circumstances that
+this Court expects are a rare occurrence, the Government admits that
+McIntosh's prosecutors failed to adhere to this guidance multiple times
+over. The prosecutors failed to: (1) remind the court of its Rule 32.2(b)
+(2)(B) obligation; (2) prepare a proposed preliminary order prior to sen-
+tencing; (3) comply with the District Court's instruction at sentencing to
+submit a proposed order of forfeiture within a week from the hearing; and
+(4) comply with the District Court's instruction in the judgment to submit
+344                 McINTOSH v. UNITED STATES
+
+                           Opinion of the Court
+
+   McIntosh further contends that an affrmance here would
+deprive Rule 32.2(b)(2)(B) of any effect such that it “might
+as well not exist.” Brief for Petitioner 3. Not so. In most
+cases, a timely objection required to preserve a claim of error
+likely will prompt the district court to enter the preliminary
+order and, if appropriate, postpone sentencing. As counsel
+for McIntosh conceded at argument, defendants receive the
+beneft of the Rule in that situation. See Tr. of Oral Arg.
+11–12. If a timely objection is raised and no preliminary
+order is entered, at the very least, the violation of Rule
+32.2(b)(2)(B) would be reviewed for harmlessness. See Fed.
+Rule Crim. Proc. 52(a); see also United States v. Lee, 77
+F. 4th 565, 583 (CA7 2023) (reviewing a Rule 32.2(b)(2)(B)
+violation for harmless error); United States v. Farias, 836
+F. 3d 1315, 1330 (CA11 2016) (same).
+   Finally, McIntosh falls back on the general purpose of Rule
+32.2, which he describes as “ensur[ing] criminal defendants
+receive due process before their property is permanently
+Page Proof Pending Publication
+taken by the government” and “promot[ing] judicial econ-
+omy.” Brief for Petitioner 11. That is all true. McIntosh
+does not explain, though, how it promotes judicial economy
+to treat Rule 32.2(b)(2)(B) as an infexible claim-processing
+rule. If anything, judicial economy is better served by
+allowing courts some fexibility to ensure the accuracy and
+completeness of the fnal forfeiture order and address an in-
+advertent failure to enter a preliminary order in advance of
+sentencing. Because McIntosh has not shown that reading
+the requirement as a time-related directive would frustrate
+signifcantly Rule 32.2's effectiveness, McIntosh's invocation
+of purpose falls fat.
+                              IV
+   Noncompliance with Rule 32.2(b)(2)(B)'s timing require-
+ment is a procedural error subject to harmlessness review.
+a written order within one week of issuance of the judgment. Notwith-
+standing these failures, Rule 32.2(b)(2)(B)'s plain terms require a district
+court, and not the prosecutors, to enter a preliminary order.
+                   Cite as: 601 U. S. 330 (2024)             345
+
+                      Opinion of the Court
+
+Here, the Second Circuit agreed with the District Court that
+McIntosh failed to show “prejudice suffcient to void the for-
+feiture order.” 58 F. 4th, at 611. Both courts noted McIn-
+tosh knew from the time of his indictment in 2011 and from
+the pretrial bill of particulars that the Government sought
+forfeiture. Both courts also rejected the argument that the
+absence of a timely preliminary order prejudiced McIntosh
+by causing the BMW to lose value. They explained that Mc-
+Intosh “could have sought an interlocutory sale of the car if
+he had wished to preserve its value” and could have done so
+without a preliminary order. Ibid.
+   McIntosh did not challenge the lower courts' harmlessness
+analysis in either his certiorari petition or his opening brief,
+so this Court need not revisit it.
+                         *      *      *
+   Because Rule 32.2(b)(2)(B) is a time-related directive that,
+if missed, does not deprive a district court of its power to
+Page Proof Pending Publication
+order forfeiture, the judgment of the Court of Appeals for
+the Second Circuit is
+                                                    Affrmed.
+                           Reporter’s Note
+
+  The attached opinion has been revised to refect the usual publication
+and citation style of the United States Reports. The revised pagination
+makes available the offcial United States Reports citation in advance of
+publication. The syllabus has been prepared by the Reporter of Decisions
+Page Proof Pending Publication
+for the convenience of the reader and constitutes no part of the opinion of
+the Court. A list of counsel who argued or fled briefs in this case, and
+who were members of the bar of this Court at the time this case was
+argued, has been inserted following the syllabus. Other revisions may
+include adjustments to formatting, captions, citation form, and any errant
+punctuation. The following additional edits were made:
+
+None

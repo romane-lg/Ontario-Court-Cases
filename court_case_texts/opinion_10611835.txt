@@ -1,0 +1,393 @@
+Cite as: 604 U. S. ____ (2024)            1
+
+                  Statement of SOTOMAYOR, J.
+
+SUPREME COURT OF THE UNITED STATES
+                          _________________
+
+                     No. 24–5753 (24A349)
+                          _________________
+
+
+       ROBERT LESLIE ROBERSON III v. TEXAS
+ON APPLICATION FOR STAY AND ON PETITION FOR A WRIT OF
+ CERTIORARI TO THE TEXAS COURT OF CRIMINAL APPEALS
+                       [October 17, 2024]
+
+   The application for stay of execution of sentence of death
+presented to JUSTICE ALITO and by him referred to the
+Court is denied. The petition for a writ of certiorari is de-
+nied.
+   Statement of JUSTICE SOTOMAYOR respecting the denial
+of the application for stay of execution and denial of certio-
+rari.
+   In 2003, a Texas jury convicted Robert Leslie Roberson of
+murdering his chronically ill infant daughter, Nikki, and
+sentenced him to death. At trial, the State relied heavily
+on expert testimony to show that “child physical abuse con-
+sistent with the picture of what they call shaken impact
+syndrome,” or shaken baby syndrome, had caused Nikki’s
+death. Tr. 55 (Feb. 3, 2003). At the time, infants exhibiting
+a triad of symptoms—subdural bleeding, brain swelling,
+and retinal hemorrhages—were presumed to be victims of
+child abuse, absent evidence of a major traumatic event
+such as a car crash. This view went so unquestioned that
+Roberson’s own defense counsel told the jury in his opening
+statement that this was “unfortunately a shaken baby
+case,” that the evidence would “show that Nikki did suffer
+injuries that are totally consistent with those applied by ro-
+tational forces more commonly known as shaken baby syn-
+drome,” and that he would not “tell you that there is just no
+responsibility here at all.” Id., at 57–58.
+   As the Texas Court of Criminal Appeals (TCCA) has itself
+2                   ROBERSON v. TEXAS
+
+                  Statement of SOTOMAYOR, J.
+
+confirmed, the scientific basis for shaken baby syndrome
+has since been called into significant question. Were the
+experts at Roberson’s trial to testify to the same theory
+again today, they “would be confronted with twenty years
+of reputable scientific evidence that contradicts their trial
+testimony.” Ex parte Andrew Wayne Roark, No. WR–
+56,380–03, 2024 WL 4446858, at *26 (Tex. Ct. Crim. App.,
+Oct. 9, 2024). For that reason, the TCCA just this week
+granted a new trial to Andrew Wayne Roark, a non-capital
+defendant whose child-abuse conviction rested on the same
+shaken-baby-syndrome testimony, from the same expert
+witness, that led to Roberson’s conviction. When Roberson
+sought a stay of execution based on the argument the TCCA
+credited in Roark, the TCCA summarily denied relief.
+   Roberson now seeks a stay of execution from this Court,
+but he presents no cognizable federal claim. Meanwhile,
+mounting evidence suggests that Nikki died from a combi-
+nation of pneumonia and improperly prescribed medica-
+tion, that Nikki’s severe bruising could well have occurred,
+at least in part, as a result of her extensive medical proce-
+dures at the hospital, and that Roberson (who repeatedly
+sought emergency medical care for his daughter in the days
+and hours leading up to her death) committed no crime at
+all. Because this Court is powerless to act without a color-
+able federal claim, and because the Texas Board of Pardons
+and Paroles declined to recommend clemency, only one rem-
+edy remains: an executive grant of a reprieve delaying Rob-
+erson’s execution by thirty days.
+
+                            I
+                           A
+  In January 2002, Roberson discovered that he was the fa-
+ther of a young child, who had then just turned two and
+resided with her maternal grandparents. Roberson took
+custody of Nikki and cared for her together with his par-
+                     Cite as: 604 U. S. ____ (2024)                    3
+
+                      Statement of SOTOMAYOR, J.
+
+ents. Nikki suffered from several serious illnesses, includ-
+ing chronic antibiotic-resistant infections and unexplained
+“breathing apnea.” Pet. App. 208a–210a, 285a, 312a. On
+January 28, 2002, Roberson and his mother took Nikki to
+the hospital following five days of vomiting, coughing, and
+diarrhea; an attending physician prescribed Phenergan, a
+potent anti-nausea medication, and sent Nikki back home.
+As Nikki’s fever continued to rise, Roberson brought her
+back to the hospital the next morning. Although Nikki now
+had a 104.5 degree fever, the attending physicians pre-
+scribed Phenergan with Codeine (a cough medication), and
+again sent Nikki home. The FDA has since warned against
+prescribing these medications to young children. Phener-
+gan, the FDA warns, “should not be used in pediatric pa-
+tients less than 2 years of age because of the potential for
+fatal respiratory depression.” Codeine, too, “carr[ies] seri-
+ous risks, including slowed or difficult breathing and death,
+which appear to be a greater risk in children younger than
+12 years.”*
+   When Roberson woke up the next morning, he found
+Nikki turning blue and unable to breathe. After attempting
+to revive her, Roberson called emergency services. He told
+police that Nikki had fallen out of bed earlier that night,
+that he had comforted her and sat with her for two hours
+before falling back asleep, and that he had found her unre-
+sponsive when he next woke up. Tr. 170 (Feb. 3, 2003).
+Over the course of two days, doctors made extensive efforts
+to treat Nikki, including by surgically affixing a pressure
+
+——————
+  *FDA, FDA-Approved Drugs, Phenergan, online at https://www.
+accessdata.fda.gov/drugsatfda_docs/label/ 2004/07935s030lbl.pdf (last
+accessed Oct. 17, 2024); FDA, FDA Drug Safety Communication: FDA
+requires labeling changes for prescription opioid cough and cold medi-
+cines to limit their use to adults 18 years and older (Apr. 20, 2017),
+https://www.fda.gov / drugs/drug-safety-and-availability/fda-drug-safety-
+communication-fda-restricts - use -prescription-codeine-pain-and-cough-
+medicines-and (last accessed Oct. 17, 2024).
+4                   ROBERSON v. TEXAS
+
+                  Statement of SOTOMAYOR, J.
+
+monitor to the top of her skull. Tragically, these efforts
+could not save Nikki’s life.
+   Medical personnel diagnosed Nikki with shaken baby
+syndrome based on the “triad” of symptoms: subdural bleed-
+ing, brain swelling, and retinal hemorrhages. An autopsy
+revealed evidence of internal bleeding near Nikki’s brain,
+as well as extensive bruising on her head, face, and shoul-
+ders, leading the doctor who conducted the autopsy to con-
+clude that Nikki had died of “blunt force head injuries.” Tr.
+55 (Feb. 3, 2003).
+   Texas charged Roberson with capital murder. At trial,
+the State repeatedly argued that “Nikki died or . . . was the
+victim of child physical abuse consistent with the picture of
+what they call shaken impact syndrome” or shaken baby
+syndrome. Id., at 54–55. Notwithstanding Roberson’s in-
+sistence that he was innocent and the abundant evidence
+that Nikki had been severely ill prior to her death, Rob-
+erson’s trial counsel conceded that his client had abused
+Nikki and argued only that Roberson had not intended to
+kill her. Id., at 60–61.
+   The State called Dr. Janet Squires as an expert witness
+to substantiate its theory that Nikki had died of shaken
+baby syndrome. Dr. Squires testified that Nikki’s extensive
+brain injuries could not have been “explained by a simple
+impact.” Tr. 107 (Feb. 4, 2003). Instead, she said, it was
+her opinion “that there was some component of shaking
+that happened to explain all the deep brain injury out of
+proportion, I would say, to the injury to the skull and the
+back of the head.” Id., at 107–108. Dr. Squires further tes-
+tified that children can “stop breathing immediately” if “you
+shake them hard enough and you hurt them bad enough.”
+Id., at 108. Both Dr. Squires and Dr. Urban (the physician
+who had conducted the autopsy) also testified to the bruis-
+ing on Nikki’s body. Because they examined Nikki only af-
+ter her treatment at the hospital, however, their testimony
+left unclear precisely when Nikki sustained these injuries.
+                  Cite as: 604 U. S. ____ (2024)             5
+
+                   Statement of SOTOMAYOR, J.
+
+See e.g., Tr. 72 (Feb. 5, 2003) (Dr. Urban acknowledging
+medical treatment could have caused some of the bruising);
+id., at 96 (similar); id., at 79 (Dr. Urban noting that she was
+“not prepared to say” bruises on Nikki’s arm and foot had
+been caused by Roberson). In closing, the prosecution relied
+on this expert testimony to argue again that Nikki died of
+“shaken baby syndrome” and “shaken impact syndrome.”
+Tr. 25 (Feb. 11, 2003). The jury convicted Roberson and
+sentenced him to death.
+                              B
+   In 2016, Roberson filed a habeas petition under a Texas
+statute that allows a court to grant habeas relief when new
+scientific evidence casts doubt on a conviction. Tex. Code.
+Crim. Proc. art. 11.073. In his petition, Roberson presented
+extensive evidence, including in the form of expert testi-
+mony, that the medical community no longer recognized the
+“triad” as presumptive evidence of child abuse. Expert
+opinion, rather, supported the conclusion that Nikki’s only
+external injuries were consistent with a short fall from her
+bed, and that the extensive subdural bleeding found at the
+autopsy (which led to the conclusion that Nikki had died
+from blunt force impacts to her head) had in fact been a re-
+sult of her surgical treatment in the hospital. Further sup-
+porting that theory, Roberson presented CAT scans taken
+of Nikki’s head soon after she initially arrived at the hospi-
+tal, which showed only a very small amount of subdural
+bleeding.
+   At an evidentiary hearing, multiple specialists further
+testified that Nikki’s lungs showed severe pneumonia and
+that she had a toxic level of respiratory-suppressing pre-
+scription drugs in her system at the time of her death. Rob-
+erson also pointed to the FDA’s urgent warnings against
+the use of Phenergan and Codeine in young children “be-
+cause of the potential for fatal respiratory depression”
+(Phenergan) and the serious risk of “slowed or difficult
+6                    ROBERSON v. TEXAS
+
+                  Statement of SOTOMAYOR, J.
+
+breathing and death” (Codeine). In an order that adopted
+large portions of the State’s proposed findings of fact verba-
+tim, the trial court denied Roberson relief. It found that no
+“false evidence was presented in regards to” shaken-baby
+syndrome, and that in any event “no evidence was pre-
+sented to the jury that shaking alone” had caused Nikki’s
+death. Pet. App. 177a, 181a. The trial court’s findings did
+not address the other evidence presented at the evidentiary
+hearings. The TCCA summarily affirmed. App. 4a.
+  In the years that followed, Roberson retained additional
+experts who each concluded that Nikki had died of pneumo-
+nia and toxic levels of anti-respiratory drugs. Based on that
+additional evidence, Roberson filed another state habeas
+petition, which the TCCA declined to consider on proce-
+dural grounds. This Court denied certiorari. See 144 S. Ct.
+129 (mem.) (Oct. 2, 2023).
+                             C
+   As Roberson sought to prove his innocence, the parallel
+case of Andrew Wayne Roark made its way through the
+Texas courts. Roark’s case involved claims nearly identical
+to Roberson’s, raised under the same provisions of Texas
+law. There, as here, the State had argued at trial that
+Roark “caused the infant victim serious bodily injury by vi-
+olently shaking her and possibly striking her with or
+against something, respectively referred to as Shaken Baby
+Syndrome and Shaken Impact Syndrome.” Ex parte Roark,
+2024 WL 4446858, at *2. There, as here, the State had re-
+lied on expert testimony from Dr. Janet Squires about
+shaken baby syndrome to secure a conviction. Id., at *3.
+There, as here, the defendant challenged his conviction on
+the ground that the science underlying the shaken baby
+syndrome diagnosis had since been discredited.
+   In a landmark opinion, the TCCA held that, based on cur-
+rent medical science, “there would be a marked shift in tes-
+timony today concerning the effect of a short-distance fall
+                  Cite as: 604 U. S. ____ (2024)            7
+
+                  Statement of SOTOMAYOR, J.
+
+to a child, the effect of shaking a child . . . retinal hemor-
+rhaging, and [shaken baby syndrome] in general as applied
+to [the victim’s] injuries.” Id., at *23. Had Roark been tried
+on the same theory today, the TCCA explained:
+    The [State’s] experts would be confronted with twenty
+    years of reputable scientific studies and publications
+    that, if graphed, continually point away from their
+    stated positions. If the expert were to experience the
+    ostrich effect and wish to bury his or her head in the
+    sand, then that expert would have to bear the brunt of
+    a grueling cross-examination. One in which they would
+    be confronted with twenty years of reputable scientific
+    evidence that contradicts their trial testimony.
+Id., at *26. The TCCA thus granted Roark a new trial. Ibid.
+   While Roark was pending before the TCCA, Roberson
+filed a “suggestion for rehearing” with that court seeking
+reconsideration of its prior decision on his habeas petition,
+based on the proceedings in Roark and on a statement of
+support from 86 members of the Texas House of Represent-
+atives. Pet. App. 492–546a, 547–550a. In that statement,
+the bipartisan House Criminal Justice Caucus urged the
+Board of Pardons and Paroles to recommend clemency in
+light of the “strong evidence of [Roberson’s] innocence. Id.,
+at 548a. The representatives further explained that the
+House had unanimously passed Article 11.073 specifically
+to allow “challenges to convictions that were based on dis-
+proven or incomplete science,” and that they were “dis-
+mayed to learn that this law has not been applied as in-
+tended and has not been a pathway to relief—or even a new
+trial—for people like Mr. Roberson.” Ibid. Brian Wharton,
+the lead detective on Roberson’s case, likewise stated that
+he believed Roberson to be innocent and that clemency
+would be appropriate. Id., at 549a. Notwithstanding these
+statements, the Board of Pardons and Paroles declined to
+recommend clemency.
+8                   ROBERSON v. TEXAS
+
+                  Statement of SOTOMAYOR, J.
+
+  Before issuing its opinion in Roark, the TCCA again de-
+nied relief to Roberson without opinion. In a concurrence,
+Justice Yeary maintained that Roberson’s case had not de-
+pended exclusively on shaken-baby syndrome evidence be-
+cause it had also involved evidence of blunt force impacts,
+suggesting Roberson could have beaten Nikki to death. Ex
+parte Roberson, Nos. WR–63,081–03, 04 (Tex. Crim. App.
+Oct. 10, 2024) (Yeary, J., concurring in denial of suggestion
+for reconsideration).
+  After the TCCA issued Roark, Roberson filed a fourth
+post-conviction petition in light of the TCCA’s decision, il-
+lustrating in detail that the testimony as to shaken-baby
+syndrome in Roark had been nearly indistinguishable from
+the testimony in his case. Addressing Justice Yeary’s con-
+currence, Roberson pointed out that the CAT scans taken
+directly after Nikki’s admission to the emergency room
+showed only minimal subdural bleeding, suggesting that
+the blunt impact evidence on which Justice Yeary relied
+could well have been caused by Nikki’s subsequent brain
+surgery, rather than by any injuries she suffered at home.
+By a 5-4 vote, the TCCA again denied relief.
+                              II
+   Current postconviction remedies often fail to correct con-
+victions “secured by what we now know was faulty science.”
+McCrory v. Alabama, 603 U. S. ___, slip. op., at 1 (2024)
+(statement of JUSTICE SOTOMAYOR respecting the denial of
+certiorari). This case is emblematic of that problem. To its
+credit, Texas has “led the way in forensic science reform in
+criminal procedure,” including by passing the statute that
+allowed Roberson to challenge his conviction based on
+changes in forensic science that seriously undermined the
+integrity of his criminal trial. Id., at 11. Tragically, that
+statute did not help Roberson in this case.
+   Roberson now seeks a stay of execution with this Court.
+Few cases more urgently call for such a remedy than one
+                  Cite as: 604 U. S. ____ (2024)              9
+
+                   Statement of SOTOMAYOR, J.
+
+where the accused has made a serious showing of actual in-
+nocence, as Roberson has here. Yet this Court can grant a
+stay only if Roberson can show a “significant possibility of
+success on the merits” of a federal claim.              Hill v.
+McDonough, 547 U. S. 573, 584 (2006). Roberson did not
+bring federal claims before the TCCA. Instead, he relied
+exclusively on Texas’s Article 11.073. Before this Court,
+Roberson’s only federal challenge is to the TCCA’s practice
+of issuing “boilerplate opinions dismissing subsequent ha-
+beas petitions for purported failure to satisfy” Texas’s pro-
+cedural requirements in habeas cases. Appl. 6. This Court
+has held, however, that it has “no power to tell state courts
+how they must write their opinions.” Coleman v. Thomp-
+son, 501 U. S. 722, 739 (1991).
+   Nevertheless, it is notable that the TCCA’s decisions in
+this case do not address the whole of Roberson’s evidence of
+actual innocence. Justice Yeary stated that shaken-baby
+syndrome was not dispositive at Roberson’s trial because
+the State introduced evidence of bruising and “multiple im-
+pacts to Nikki’s head.” Ex parte Roberson, Nos. WR–
+63,081–03, 04, at 2 (Yeary, J., concurring in denial of sug-
+gestion for reconsideration). Yet as Roberson explained to
+the TCCA, the record reveals that shaken-baby syndrome
+was the prosecution’s core theory throughout the trial. The
+evidence of bruising to Nikki’s head does not change that,
+for two reasons. First, no court has yet considered the evi-
+dence suggesting that the “areas of dense hemorrhage” dis-
+covered during Nikki’s autopsy, which the examiner took to
+be signs of blunt force impact, in fact resulted from Nikki’s
+subsequent brain surgery. As already explained, several
+experts concluded that CAT scans taken shortly after
+Nikki’s admission to the hospital showed only minimal sub-
+dural bleeding. Second, the TCCA previously affirmed the
+habeas court’s factual finding that “Dr. Janet Squires . . .
+clearly stated [at trial] that Nikki’s injuries were unlikely to
+have been caused by an impact alone,” but rather were
+10                   ROBERSON v. TEXAS
+
+                  Statement of SOTOMAYOR, J.
+
+caused by shaking and a subsequent impact on a surface
+such as a mattress. App. 173a (emphases added). Thus,
+the Texas courts themselves determined that the State’s ex-
+pert had disavowed a beating or impact-only theory of death
+at trial.
+   Under these circumstances, a stay permitting examina-
+tion of Roberson’s credible claims of actual innocence is im-
+perative; yet this Court is unable to grant it. That means
+only one avenue for relief remains open: an executive re-
+prieve. In Texas, as in virtually every other State and the
+federal government, “[t]he Executive has the power to exer-
+cise discretion to grant clemency and affect sentences at
+any stage after an individual is convicted[.]” Vandyke v.
+State, 538 S. W. 3d 561, 581 (Tex. Ct. Crim. App. 2017).
+Preventing the execution of one who is actually innocent by
+means of a review “unhampered by legal technicalities” is
+a core historical purpose of the executive power to grant
+pardons or reprieves. Christen Jensen, The Pardoning
+Power in the American States 49 (1922); see also Herrera v.
+Collins, 506 U. S. 390, 417 (1993) (“History shows that the
+traditional remedy for claims of innocence based on new ev-
+idence, discovered too late in the day to file a new trial mo-
+tion, has been executive clemency”); Graham v. Texas Bd.
+of Pardons and Paroles, 913 S. W. 2d 745, 748 (Tex. Ct.
+Crim. App. 1996) (same). An executive reprieve of thirty
+days would provide the Texas Board of Pardons and Paroles
+with an opportunity to reconsider the evidence of Rob-
+erson’s actual innocence. That could prevent a miscarriage
+of justice from occurring: executing a man who has raised
+credible evidence of actual innocence.

@@ -1,0 +1,208 @@
+Cite as: 598 U. S. ____ (2023)            1
+
+                     THOMAS, J., dissenting
+
+SUPREME COURT OF THE UNITED STATES
+    JOHN Q. HAMM, COMMISSIONER, ALABAMA
+        DEPARTMENT OF CORRECTIONS
+          v. KENNETH EUGENE SMITH
+   ON PETITION FOR WRIT OF CERTIORARI TO THE UNITED
+  STATES COURT OF APPEALS FOR THE ELEVENTH CIRCUIT
+               No. 22–580.   Decided May 15, 2023
+
+   The petition for a writ of certiorari is denied.
+   JUSTICE THOMAS, with whom JUSTICE ALITO joins, dis-
+senting from the denial of certiorari.
+   In 1988, Kenneth Eugene Smith and an accomplice mur-
+dered Elizabeth Sennett for $1,000 apiece. The State of Al-
+abama sentenced Smith to death. Last year, it scheduled
+Smith’s execution for November 17, 2022, and Smith
+brought an Eighth Amendment challenge to the State’s
+plan to execute him by lethal injection. On the afternoon of
+November 17, a divided Eleventh Circuit panel held that
+Smith had pleaded a viable method-of-execution claim, re-
+versing the District Court’s contrary ruling. Later that
+evening, the Eleventh Circuit granted Smith a stay of exe-
+cution. The State applied to this Court to dissolve the Elev-
+enth Circuit’s stay, and we granted the application. But,
+after this last-minute litigation, the State was unable to ex-
+ecute Smith before its death warrant expired. Smith’s law-
+suit thus remains pending in the District Court.
+   In this petition, the State now asks this Court to sum-
+marily reverse the Eleventh Circuit’s holding that Smith
+pleaded a viable Eighth Amendment claim. I would do so.
+The judgment below rests on flawed Circuit precedent that
+is irreconcilable with our method-of-execution case law.
+   “The Constitution allows capital punishment” and “does
+not guarantee a prisoner a painless death.” Bucklew v.
+Precythe, 587 U. S. ___, ___, ___ (2019) (slip op., at 8, 12).
+2                       HAMM v. SMITH
+
+                      THOMAS, J., dissenting
+
+Nonetheless, in defined circumstances, our cases counte-
+nance a claim that “the State’s chosen method of execution
+cruelly superadds pain to the death sentence,” thus violat-
+ing the Eighth Amendment. Id., at ___ (slip op., at 13). To
+plead and prove such a claim, “a prisoner must show a fea-
+sible and readily implemented alternative method of execu-
+tion that would significantly reduce a substantial risk of se-
+vere pain and that the State has refused to adopt without a
+legitimate penological reason.” Ibid. Only with such a
+showing can “a State’s refusal to change its method . . . be
+viewed as ‘cruel and unusual’ under the Eighth Amend-
+ment.” Baze v. Rees, 553 U. S. 35, 52 (2008) (plurality opin-
+ion).
+   Our cases further provide guidance on what a prisoner
+must show to prove that his proposed alternative method is
+“feasible and readily implemented.” In Bucklew, we ex-
+plained that “the inmate’s proposal must be sufficiently de-
+tailed to permit a finding that the State could carry it out
+relatively easily and reasonably quickly.” 587 U. S., at ___
+(slip op., at 21) (internal quotation marks omitted). And,
+just last Term, the Court underscored that the prisoner
+“must make the case that the State really can put him to
+death, though in a different way than it plans,” by “provid-
+ing the State with a veritable blueprint for carrying the
+death sentence out.” Nance v. Ward, 597 U. S. ___, ___
+(2022) (slip op., at 8); see also ibid. (“If the inmate obtains
+his requested relief, it is because he has persuaded a court
+that the State could readily use his proposal to execute
+him”).
+   These precedents unmistakably establish two proposi-
+tions. First, it is the prisoner’s burden to “plead and prove
+a known and available alternative.” Glossip v. Gross, 576
+U. S. 863, 880 (2015). Second, the focus of the “feasible and
+readily implemented” element is practical availability,
+which is ultimately a question of fact. See Nance, 597 U. S.,
+at ___ (slip op., at 8); Bucklew, 587 U. S., at ___ (slip op., at
+21).
+                  Cite as: 598 U. S. ____ (2023)             3
+
+                     THOMAS, J., dissenting
+
+   Here, Smith challenged the State’s chosen method of le-
+thal injection based on the proposed alternative of execu-
+tion by nitrogen hypoxia. As the plaintiff, Smith was re-
+quired to “plea[d] factual content” making it plausible that
+he could establish the availability element of his claim.
+Ashcroft v. Iqbal, 556 U. S. 662, 678 (2009); see Fed. Rule
+Civ. Proc. 8(a). Smith, however, did not even attempt to
+plead facts indicating that Alabama “could readily use [ni-
+trogen hypoxia] to execute him.” Nance, 597 U. S., at ___
+(slip op., at 8). Instead, he alleged only that, “[a]s a matter
+of law, nitrogen hypoxia is an available and feasible alter-
+native method of execution,” citing Price v. Commissioner,
+Ala. Dept. of Corrections, 920 F. 3d 1317, 1328–1329 (CA11
+2019), as support. Motion To Alter or Amend Judgt. in No.
+2:22–cv–00497 (MD Ala., Oct. 19, 2022), ECF Doc. 24–1,
+Exh. A, p. 19, ¶74 (emphasis added). And the Eleventh Cir-
+cuit considered this threadbare allegation sufficient to sat-
+isfy Smith’s pleading burden on the availability element.
+   Understanding the court’s reasoning below requires some
+background about Alabama law and the Eleventh Circuit’s
+Price decision. In 2018, Alabama enacted a statute author-
+izing execution by nitrogen hypoxia for inmates who elected
+that method within 30 days of their sentences becoming fi-
+nal or, for those whose sentences were already final before
+June 1, 2018, within 30 days of that date. Ala. Code §15–
+18–82.1(b)(2). (Smith did not elect nitrogen hypoxia, so le-
+thal injection remains the only method of execution author-
+ized by state law in his case. §15–18–82.1(a).) Nearly five
+years later, Alabama has yet to carry out any execution by
+nitrogen hypoxia or to finalize a protocol for implementing
+that method—which “ha[s] never been used to carry out an
+execution and ha[s] no track record of successful use” in any
+jurisdiction. Bucklew, 587 U. S., at ___ (slip op., at 22) (in-
+ternal quotation marks omitted).
+   Since Price, however, the Eleventh Circuit has treated
+the existence of this Alabama statute as relieving inmates
+4                      HAMM v. SMITH
+
+                     THOMAS, J., dissenting
+
+like Smith of their burden to plead and prove that nitrogen
+hypoxia is feasible and readily implemented in fact. “If a
+State adopts a particular method of execution,” Price rea-
+soned, “it thereby concedes that the method of execution is
+available to its inmates.” 920 F. 3d, at 1327–1328. Thus,
+“an inmate may satisfy his burden to demonstrate that [a]
+method of execution is feasible and readily implemented by”
+simply “pointing to the executing state’s official adoption of
+that method of execution.” Id., at 1328. Here, that is ex-
+actly what Smith did, and the Eleventh Circuit, applying
+Price, held that nothing more was required.
+   However, Price’s reasoning rests on a fundamental mis-
+understanding of the inquiry marked out by Baze, Glossip,
+and Bucklew. Those cases set forth the circumstances in
+which a State’s use of one method of execution, rather than
+an identified “ ‘known and available alternative,’ ” consti-
+tutes cruel and unusual punishment under the Eighth
+Amendment. Bucklew, 587 U. S., at ___ (slip op., at 13)
+(quoting Glossip, 576 U. S., at 878); see Baze, 553 U. S., at
+52. The gravamen of the constitutional wrong is the State’s
+unjustified “refus[al] to adopt” that proffered alternative
+despite its “documented advantages,” including its ready
+availability. Ibid. Accordingly, whether the State has au-
+thorized the proffered alternative as a matter of state stat-
+utory law has no relevance to the plaintiff ’s burden of show-
+ing a constitutional violation.       Bucklew has already
+explained why: “[T]he Eighth Amendment is the supreme
+law of the land, and the comparative assessment it requires
+can’t be controlled by the State’s choice of which methods to
+authorize in its statutes.” 587 U. S., at ___–___ (slip op., at
+19–20).
+   The Bucklew Court made that statement in the context of
+explaining that “[a]n inmate seeking to identify an alterna-
+tive method of execution is not limited to choosing among
+those presently authorized by a particular State’s law,” id.,
+at ___ (slip op., at 19), but the underlying logic cuts both
+                  Cite as: 598 U. S. ____ (2023)            5
+
+                     THOMAS, J., dissenting
+
+ways. See Heffernan v. City of Paterson, 578 U. S. 266, 272
+(2016) (“[I]n the law, what is sauce for the goose is normally
+sauce for the gander”). When the question is whether the
+Eighth Amendment requires a State to replace its chosen
+method with an alternative method in executing the plain-
+tiff, it is simply irrelevant, without more, that the State’s
+statutes authorize the use of the alternative method in
+other executions that are to take place sometime in the in-
+definite future. Here, Smith alleged only that, and nothing
+more. He therefore failed to state a claim, and the Eleventh
+Circuit erred by holding otherwise.
+   The Eleventh Circuit’s error is not only plain but also se-
+rious enough to warrant correction. Even if “the burden of
+the alternative-method requirement ‘can be overstated,’ ”
+Bucklew, 587 U. S., at ___ (KAVANAUGH, J., concurring)
+(slip op., at 1), it remains an essential element of an Eighth
+Amendment method-of-execution claim, and it must be ap-
+propriately policed lest it become an instrument of dilatory
+litigation tactics. The comparative analysis set forth in
+Baze, Glossip, and Bucklew contains an inherent risk of in-
+centivizing “an inmate intent on dragging out litigation . . .
+to identify only a method of execution on the boundary of
+what’s practically available to the state.” Middlebrooks v.
+Parker, 22 F. 4th 621, 625 (CA6 2022) (Thapar, J., state-
+ment respecting denial of rehearing en banc). The Eleventh
+Circuit’s approach of treating any statutorily authorized
+method as available as a matter of law—even an entirely
+novel method that may not be readily implementable in re-
+ality—only heightens that danger. In turn, and as a result,
+it “perversely incentivize[s] States to delay or even refrain
+from approving even the most humane methods of execu-
+tion” any earlier than the moment they are prepared to put
+them into practice. Price v. Dunn, 587 U. S. ___, ___ (2019)
+(THOMAS, J., concurring in denial of certiorari) (slip op., at
+11).
+   The Eleventh Circuit’s flawed logic in Price has already
+6                     HAMM v. SMITH
+
+                    THOMAS, J., dissenting
+
+forced us to intervene in one last-minute capital emergency.
+This petition offered an opportunity, which may well prove
+unique, to consider and correct Price’s faulty reasoning out-
+side of that posture. Because the Court declines that oppor-
+tunity, I respectfully dissent.

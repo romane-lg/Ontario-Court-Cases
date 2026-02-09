@@ -1,0 +1,1678 @@
+PRELIMINARY PRINT
+
+              Volume 606 U. S. Part 1
+                             Pages 146–184
+
+
+
+
+       OFFICIAL REPORTS
+                                     OF
+
+
+   THE SUPREME COURT
+                                June 20, 2025
+
+
+Page Proof Pending Publication
+
+
+                    REBECCA A. WOMELDORF
+                           reporter of decisions
+
+
+
+
+    NOTICE: This preliminary print is subject to formal revision before
+  the bound volume is published. Users are requested to notify the Reporter
+  of Decisions, Supreme Court of the United States, Washington, D. C. 20543,
+  pio@supremecourt.gov, of any typographical or other formal errors.
+146                     OCTOBER TERM, 2024
+
+                                Syllabus
+
+
+McLAUGHLIN CHIROPRACTIC ASSOCIATES, INC. v.
+          McKESSON CORP. et al.
+certiorari to the united states court of appeals for
+                  the ninth circuit
+      No. 23–1226. Argued January 21, 2025—Decided June 20, 2025
+The Telephone Consumer Protection Act (TCPA) protects businesses and
+  consumers from intrusive telemarketing by prohibiting unsolicited fax
+  advertisements to “telephone facsimile machines” absent an opt-out no-
+  tice informing recipients that they can choose not to receive future
+  faxes. 47 U. S. C. § 227. The Act provides a private right of action
+  with statutory minimum damages of $500 per violation.
+     McKesson Corporation, a healthcare company, sent unsolicited fax ad-
+  vertisements through a subsidiary in 2009 and 2010 to medical practices,
+  including McLaughlin Chiropractic Associates. McLaughlin sued Mc-
+  Kesson in the U. S. District Court for the Northern District of Califor-
+  nia in 2014 for damages and an injunction, alleging TCPA violations for
+  faxing unsolicited advertisements without the required opt-out notices.
+Page Proof Pending Publication
+  McLaughlin also sought to represent a class of fax recipients who re-
+  ceived the advertisements either on traditional fax machines or through
+  online fax services. The District Court certifed the class without dis-
+  tinguishing between those two methods of receipt.
+     While McLaughlin's lawsuit was pending, a company petitioned the
+  Federal Communications Commission for a declaratory ruling about
+  whether the TCPA applies to faxes received through online fax services.
+  Months after class certifcation, the FCC issued the Amerifactors order,
+  interpreting “telephone facsimile machine” in the TCPA to exclude on-
+  line fax services. Following Ninth Circuit precedent that FCC fnal
+  orders are reviewable exclusively in the courts of appeals under the
+  Hobbs Act, the District Court deemed the Amerifactors order binding
+  and granted summary judgment to McKesson on claims involving online
+  fax services. The court then decertifed the class, leaving McLaughlin
+  with claims for only 12 faxes received on a traditional machine and dam-
+  ages of $6,000. The Ninth Circuit affrmed.
+Held: The Hobbs Act does not bind district courts in civil enforcement
+ proceedings to an agency's interpretation of a statute. District courts
+ must independently determine the law's meaning under ordinary princi-
+ ples of statutory interpretation while affording appropriate respect to
+ the agency's interpretation. Pp. 151–169.
+    (a) Pre-enforcement review statutes fall into three categories. First,
+ statutes like the Clean Water Act, CERCLA, and the Clean Air Act
+                      Cite as: 606 U. S. 146 (2025)                    147
+
+                                Syllabus
+
+ expressly preclude judicial review in enforcement proceedings. Sec-
+ ond, statutes like the Toxic Substances Control Act expressly authorize
+ or contemplate review in both pre-enforcement and enforcement pro-
+ ceedings. Third, statutes like the Hobbs Act are silent about judicial
+ review in enforcement proceedings. For this third category, fundamen-
+ tal principles of administrative law establish the proper default rule:
+ In enforcement proceedings, district courts must independently deter-
+ mine whether an agency's statutory interpretation is correct, rather
+ than being bound by the agency's interpretation. This presumption of
+ judicial review is codifed in the Administrative Procedure Act, which
+ provides that agency action is subject to judicial review in enforcement
+ proceedings except where there is prior, adequate, and exclusive oppor-
+ tunity for review. 5 U. S. C. § 703. The availability of pre-enforcement
+ review does not ordinarily preclude judicial review in enforcement pro-
+ ceedings. Pp. 151–159.
+    (b) Unlike statutes that expressly preclude judicial review in enforce-
+ ment proceedings, the Hobbs Act does not override the default rule.
+ The Hobbs Act's grant of “exclusive jurisdiction” to courts of appeals to
+ “determine the validity” of agency orders refers to entering declaratory
+ judgments in pre-enforcement proceedings. 28 U. S. C. § 2342. When
+
+Page Proof Pending Publication
+ a district court disagrees with an agency's statutory interpretation in
+ an enforcement proceeding, it determines the defendant's liability under
+ the correct interpretation of the statute but does not issue a declaratory
+ judgment “determining the validity” of the agency order. The phrase
+ “determine the validity” should be read consistently with the other
+ listed forms of relief—“enjoin,” “set aside,” and “suspend”—all of which
+ are forms of relief rather than descriptions of decisional processes.
+ Section 2349 of the Hobbs Act confrms this interpretation by referring
+ to a “judgment determining the validity,” establishing that “determine
+ the validity” refers to declaratory relief. Pp. 159–162.
+    (c) The Emergency Price Control Act precedent in Yakus v. United
+ States, 321 U. S. 414, does not control because that Act contained two
+ key provisions working in tandem: “exclusive jurisdiction to determine
+ the validity” (similar to the Hobbs Act) and an express prohibition stat-
+ ing that no other court “shall have jurisdiction or power to consider the
+ validity” of covered regulations (not included in the Hobbs Act). 56
+ Stat. 33 (emphasis added). When Congress enacted the Hobbs Act in
+ 1950, six years after Yakus, it chose not to include the second provision
+ that would have clearly precluded judicial review in enforcement pro-
+ ceedings. Other Hobbs Act cases like Port of Boston Marine Terminal
+ Assn. v. Rederiaktiebolaget Transatlantic, 400 U. S. 62, and FCC v.
+ ITT World Communications, Inc., 466 U. S. 463, involved estoppel and
+ preclusion principles where parties lost before the agency and then
+148     McLAUGHLIN CHIROPRACTIC ASSOCIATES, INC.
+                   v. McKESSON CORP.
+                         Syllabus
+
+ sought to relitigate the same issues, which did not occur here.
+ Pp. 162–165.
+    (d) Policy concerns about potential disagreement between courts do
+ not override statutory text and traditional administrative law princi-
+ ples. Circuit splits followed by Supreme Court review are common and
+ do not justify denying judicial review in enforcement proceedings. The
+ alternative of petitioning agencies for new rulemakings or declaratory
+ orders provides largely illusory review that cannot substitute for mean-
+ ingful judicial review, as agencies retain discretion to decline petitions
+ and any judicial review of denied petitions would be subject to deferen-
+ tial standards. Blindsiding all potentially affected parties by requiring
+ them to bring pre-enforcement challenges within 60 days or lose their
+ right to contest an agency's interpretation in a later enforcement pro-
+ ceeding would be impractical and unfair. The Court sees no good ra-
+ tionale for reading the Hobbs Act to require the District Court to afford
+ absolute deference to the agency. Pp. 166–168.
+Reversed and remanded.
+
+   Kavanaugh, J., delivered the opinion of the Court, in which Roberts,
+C. J., and Thomas, Alito, Gorsuch, and Barrett, JJ., joined. Kagan,
+J., fled a dissenting opinion, in which Sotomayor and Jackson, JJ., joined,
+Page Proof Pending Publication
+post, p. 169.
+
+  Matthew W. H. Wessler argued the cause for petitioner.
+With him on the briefs were Jonathan E. Taylor, Gregory
+A. Beck, and Glenn L. Hara.
+  Joseph R. Palmore argued the cause for respondents. On
+the brief were Deanne E. Maynard, Diana L. Kim, Aileen
+M. McGrath, Tiffany Cheung, and Zach ZhenHe Tan.
+  Matthew Guarnieri argued the cause for the United
+States as amicus curiae urging affrmance. With him on
+the brief were Solicitor General Prelogar, Principal Deputy
+Assistant Attorney General Boynton, Deputy Solicitor Gen-
+eral Stewart, Mark B. Stern, Jacob M. Lewis, and Scott M.
+Noveck.*
+
+  *Briefs of amici curiae urging reversal were fled for the Local Govern-
+ment Legal Center by Bryan Weir; and for Public Citizen by Scott L.
+Nelson and Allison M. Zieve.
+  Thomas M. Johnson, Jr., and Joshua S. Turner fled a brief for CTIA–
+The Wireless Association et al. as amici curiae urging affrmance.
+                   Cite as: 606 U. S. 146 (2025)            149
+
+                      Opinion of the Court
+
+   Justice Kavanaugh delivered the opinion of the Court.
+   In civil enforcement proceedings under the Telephone
+Consumer Protection Act, are district courts bound by the
+Federal Communications Commission's interpretation of the
+Act? The answer is no.
+                               I
+   This case involves an FCC order that interprets the Tele-
+phone Consumer Protection Act of 1991, or TCPA. The
+TCPA protects businesses and consumers from intrusive tel-
+emarketing communications. Among other restrictions, the
+TCPA prohibits a business from sending an “unsolicited
+advertisement” by fax to a “telephone facsimile machine” ab-
+sent an opt-out notice informing recipients that they can
+choose not to receive future faxes. 105 Stat. 2395, as
+amended, 47 U. S. C. §§ 227(b)(1)(C), (2)(D).
+   The TCPA provides a private right of action. § 227(b)(3).
+Private parties may sue the sender of an unlawful fax—an
+Page Proof Pending Publication
+unsolicited fax that lacks an opt-out notice—for damages or
+injunctive relief in federal or state court. Ibid.; 28 U. S. C.
+§ 1331; see Mims v. Arrow Financial Services, LLC, 565
+U. S. 368, 372 (2012). For monetary damages, the TCPA
+sets a floor of $500 for each unlawful fax. 47 U. S. C.
+§ 227(b)(3)(B). A court may order treble damages if it fnds
+a violation willful or knowing. § 227(b)(3).
+   A combination of factors—namely, the private right of ac-
+tion, the statutory minimum damages for each violation, the
+number of violations that a business can quickly rack up
+when sending mass fax advertisements, and the class-action
+device—has spawned substantial TCPA litigation over un-
+wanted faxes. Plaintiffs have sought signifcant damages
+against businesses that sent fax advertisements without opt-
+out notices.
+   McKesson Corporation is, among other things, a health-
+care company. In 2009 and 2010, in an effort to promote
+McKesson's products, a McKesson subsidiary sent unsolicited
+fax advertisements to various medical practices. McLaugh-
+150    McLAUGHLIN CHIROPRACTIC ASSOCIATES, INC.
+                  v. McKESSON CORP.
+                   Opinion of the Court
+
+lin Chiropractic Associates received some of those faxes. In
+2014, McLaughlin sued McKesson in the U. S. District Court
+for the Northern District of California. McLaughlin alleged
+that McKesson violated the TCPA by faxing unsolicited ad-
+vertisements without the opt-out notice that the statute
+requires.
+   McLaughlin requested damages and an injunction, and it
+also sought to represent a class of other recipients of McKes-
+son's faxes. Some recipients (including McLaughlin) re-
+ceived the faxes on a traditional fax machine—the stand-
+alone device dedicated to receiving and printing faxes. But
+others received the faxes through online fax services, either
+by email or through an online portal.
+   The District Court certifed a class of fax recipients, draw-
+ing no distinction between faxes received on traditional fax
+machines and faxes received through online fax services.
+   As McLaughlin's lawsuit progressed, another company
+Page Proof Pending Publication
+with no connection to the litigation petitioned the FCC for a
+declaratory ruling about whether the TCPA applies to faxes
+received through online fax services. Months after the Dis-
+trict Court certifed the class in McLaughlin's suit, the FCC
+issued an order—known as the Amerifactors order—inter-
+preting the term “telephone facsimile machine” in the TCPA.
+In re Amerifactors Financial Group, LLC, 34 FCC Rcd.
+11950 (2019) (declaratory ruling). The FCC ruled that “an
+online fax service is not a `telephone facsimile machine.' ”
+Id., at 11953, ¶11. Under that interpretation, the TCPA
+would not prohibit faxes received through online fax
+services.
+   As the parties here recognized, if the FCC's Amerifactors
+order were binding on the District Court, it would under-
+mine McLaughlin's class-action lawsuit because McLaughlin
+defned the class to include plaintiffs who received unsolic-
+ited faxes through online fax services.
+   After receiving briefng on the issue, the District Court
+deemed the Amerifactors order “a fnal, binding order” that
+                   Cite as: 606 U. S. 146 (2025)           151
+
+                      Opinion of the Court
+
+dictated the court's interpretation of the TCPA. True
+Health Chiropractic, Inc. v. McKesson Corp., No. 13–cv–2219
+(ND Cal., Dec. 24, 2020), App. to Pet. for Cert. 38a. In line
+with Ninth Circuit precedent, the court reasoned that it
+lacked the authority “to question the validity of FCC fnal
+orders” such as the Amerifactors order. App. to Pet. for
+Cert. 37a. Under the judicial review provisions of the
+Hobbs Act, according to the District Court, those FCC or-
+ders are “ `subject to the exclusive review of the court
+of appeals' ” in pre-enforcement suits. Id., at 36a (quoting
+Wilson v. A. H. Belo Corp., 87 F. 3d 393, 398 (CA9 1996)).
+   After the District Court determined that the Amerifac-
+tors order was binding, the court granted summary judg-
+ment to McKesson and against McLaughlin on the claims
+involving faxes received through online fax services. The
+District Court then decertifed the class. That left Mc-
+Laughlin with winnowed-down claims based on 12 unsolic-
+ited faxes that McLaughlin received on a traditional fax
+Page Proof Pending Publication
+machine. So McLaughlin obtained a damages award of
+only $6,000.
+   On appeal, the U. S. Court of Appeals for the Ninth Circuit
+affrmed, agreeing that the District Court was “bound” by
+the Amerifactors order. True Health Chiropractic, Inc. v.
+McKesson Corp., No. 22–15710 etc. (Oct. 25, 2023), App. to
+Pet. for Cert. 6a–7a.
+   This Court granted certiorari to decide whether the Hobbs
+Act required the District Court to follow the FCC's legal
+interpretation of the TCPA. 603 U. S. 949 (2024). The
+Court previously considered that question but ultimately did
+not decide it in PDR Network, LLC v. Carlton & Harris
+Chiropractic, Inc., 588 U. S. 1 (2019).
+
+                                II
+  In 1950, Congress passed and President Truman signed
+the Administrative Orders Review Act, commonly known as
+the Hobbs Act. 64 Stat. 1129. The Hobbs Act provides for
+152    McLAUGHLIN CHIROPRACTIC ASSOCIATES, INC.
+                  v. McKESSON CORP.
+                   Opinion of the Court
+
+pre-enforcement judicial review of FCC orders. To obtain
+pre-enforcement review, a party must fle a petition in a fed-
+eral court of appeals within 60 days of the FCC order.
+   In McKesson's view, which is supported here by the
+United States as amicus curiae, the Hobbs Act's provision
+for pre-enforcement review in the courts of appeals bars dis-
+trict courts in enforcement proceedings from disagreeing
+with an agency's interpretation of a statute. According to
+McKesson and the Government, the District Court in this
+case was absolutely bound by the FCC's interpretation of
+the TCPA.
+   We disagree. The Hobbs Act does not preclude district
+courts in enforcement proceedings from independently as-
+sessing whether an agency's interpretation of the relevant
+statute is correct. Here, therefore, the District Court
+should interpret the TCPA under ordinary principles of stat-
+utory interpretation, affording appropriate respect to the
+agency's interpretation.
+Page Proof Pending PublicationA
+    The Hobbs Act provides in relevant part: “The court of
+appeals . . . has exclusive jurisdiction to enjoin, set aside,
+suspend (in whole or in part), or to determine the validity of
+. . . all fnal orders of the Federal Communication[s] Commis-
+sion made reviewable by section 402(a) of title 47.” 28
+U. S. C. § 2342(1). Under the Hobbs Act, when the FCC is-
+sues certain orders, any “party aggrieved” has 60 days to fle
+a petition in a court of appeals seeking review of the order
+and declaratory or injunctive relief against the enforcement
+of the order. §§ 2342, 2344, 2349. If more than one petition
+for review is fled within that 60-day period, the petitions
+are then consolidated in a single court of appeals. § 2112(a).
+The Hobbs Act also governs review of certain actions of the
+Department of Agriculture, Department of Transportation,
+Federal Maritime Commission, Nuclear Regulatory Commis-
+sion, Surface Transportation Board, and Department of
+Housing and Urban Development. See §§ 2342(2)–(7).
+                       Cite as: 606 U. S. 146 (2025)                   153
+
+                          Opinion of the Court
+
+   Pre-enforcement review under the Hobbs Act allows regu-
+lated and affected parties to obtain greater clarity about
+their legal rights and obligations—rather than taking their
+chances and hoping to prevail in later enforcement proceed-
+ings. The Hobbs Act requires parties who want to challenge
+the legality of agency rules or orders in a pre-enforcement
+proceeding to do so both promptly and in a court of appeals.
+That pre-enforcement review process avoids the delays and
+uncertainty that otherwise could ensue from multiple pre-
+enforcement suits fled across time in multiple district courts
+and from subsequent appeals in the courts of appeals.
+   Suppose, however, that no one fles a pre-enforcement suit
+challenging an agency rule or order. Or suppose that a
+court of appeals upholds the agency's statutory interpreta-
+tion in a pre-enforcement challenge. Either way, a critical
+follow-on question is whether the Hobbs Act bars different
+parties in subsequent enforcement proceedings from ar-
+guing—and district courts from concluding—that the agency
+Page Proof Pending Publication
+incorrectly interpreted the statute. The answer is no.1
+   To understand why, we frst must distinguish the three
+categories of statutes that authorize pre-enforcement review
+of agency rules and orders.
+   Statutes in the frst category authorize pre-enforcement
+judicial review and expressly preclude judicial review in sub-
+sequent enforcement proceedings. Examples include the
+Clean Water Act, the Comprehensive Environmental Re-
+sponse, Compensation, and Liability Act of 1980 (CERCLA),
+and the Clean Air Act. The Clean Water Act provides for
+pre-enforcement review of certain agency actions in a court
+of appeals and generally requires parties to seek review
+
+  1
+   We use the term “enforcement proceedings” in this opinion as short-
+hand for what the Administrative Procedure Act calls “civil or criminal
+proceedings for judicial enforcement.” 5 U. S. C. § 703. As we use the
+term here, it includes both (i) enforcement actions brought by the Govern-
+ment and (ii) civil suits brought by private parties alleging a defendant's
+violation of a statute, regulation, or order.
+154    McLAUGHLIN CHIROPRACTIC ASSOCIATES, INC.
+                  v. McKESSON CORP.
+                   Opinion of the Court
+
+within 120 days. See 33 U. S. C. § 1369(b)(1). Importantly,
+the Act also states that those agency actions “shall not be
+subject to judicial review in any civil or criminal proceeding
+for enforcement.” § 1369(b)(2). CERCLA likewise allows
+parties to seek pre-enforcement review of any covered regu-
+lation in the D. C. Circuit within 90 days. See 42 U. S. C.
+§ 9613(a). Like the Clean Water Act, CERCLA specifes
+that those regulations “shall not be subject to judicial review
+in any civil or criminal proceeding for enforcement.” Ibid.
+Similarly, the Clean Air Act generally authorizes parties to
+fle pre-enforcement petitions for review in the appropriate
+court of appeals within 60 days. See § 7607(b)(1). The
+Clean Air Act, too, states that those agency actions “shall
+not be subject to judicial review in civil or criminal proceed-
+ings for enforcement.” § 7607(b)(2).
+   The second category lies at the opposite pole—it consists
+of pre-enforcement judicial review statutes that also ex-
+Page Proof Pending Publication
+pressly authorize (or at least expressly contemplate) judicial
+review in subsequent enforcement proceedings. For in-
+stance, the Toxic Substances Control Act states that courts
+of appeals “shall have exclusive jurisdiction of any action to
+obtain judicial review (other than in an enforcement pro-
+ceeding).” 15 U. S. C. §§ 2618(a)(1)(A), (a)(1)(B) (emphasis
+added). A similar provision authorizes review of certain
+Federal Trade Commission rules. § 57a(e)(5)(B). Those
+statutes recognize judicial review in pre-enforcement suits
+and enforcement proceedings alike.
+   Statutes in the third category fall between the frst two
+categories. Those statutes provide for pre-enforcement re-
+view but are silent on the question of whether a party may
+contest the agency's legal interpretation in subsequent en-
+forcement proceedings. The Hobbs Act is one example.
+Others include statutes that authorize review of certain
+Securities and Exchange Commission and Department of
+Labor rules and orders. See §§ 77i(a), 80a–42(a), 80b–13(a);
+29 U. S. C. § 655(f).
+                        Cite as: 606 U. S. 146 (2025)                      155
+
+                            Opinion of the Court
+
+   That third category raises the key question here: What
+is the default rule for pre-enforcement review statutes that
+neither expressly preclude nor expressly authorize judicial
+review in subsequent enforcement proceedings? As rele-
+vant here, is the proper default rule in enforcement proceed-
+ings (i) to preclude district courts from reviewing an
+agency's statutory interpretation or (ii) to allow district
+courts to review an agency's statutory interpretation? 2
+   Fundamental principles of administrative law establish the
+proper default rule: In an enforcement proceeding, a dis-
+trict court must independently determine for itself whether
+the agency's interpretation of a statute is correct. District
+courts are not bound by the agency's interpretation, but in-
+stead must determine the meaning of the law under ordinary
+principles of statutory interpretation, affording appropriate
+respect to the agency's interpretation. See Loper Bright
+Enterprises v. Raimondo, 603 U. S. 369, 402 (2024).3
+   That is the proper default rule for a variety of reasons.
+Page Proof Pending Publication
+To begin, this Court has long recognized a “ `basic presump-
+tion of judicial review' ” of agency action. Weyerhaeuser Co.
+v. United States Fish and Wildlife Serv., 586 U. S. 9, 22
+(2018) (quoting Abbott Laboratories v. Gardner, 387 U. S.
+136, 140 (1967)). As a general matter, “unless there is per-
+   2
+     Judicial review in enforcement proceedings of course may also include
+review of whether the rule or order was arbitrary and capricious under
+the APA or otherwise was unlawful. Because this case involves interpre-
+tation of a statute, we focus here on that scenario.
+   3
+     To be clear, if a party challenges an agency action in a pre-enforcement
+suit in a court of appeals and loses, that specifc party may be barred by
+ordinary estoppel or preclusion principles from relitigating the same ques-
+tion in a future enforcement proceeding. See Abbott Laboratories v.
+Gardner, 387 U. S. 136, 154 (1967). Moreover, if the district court in the
+enforcement proceeding sits in the same circuit as the court of appeals
+that decided a pre-enforcement suit, the district court may be bound under
+principles of vertical stare decisis to adhere to the court of appeals holding.
+Neither of those scenarios is present here because neither McLaughlin nor
+any other party brought a pre-enforcement suit regarding the Amerifac-
+tors order.
+156     McLAUGHLIN CHIROPRACTIC ASSOCIATES, INC.
+                   v. McKESSON CORP.
+                    Opinion of the Court
+
+suasive reason to believe” that Congress intended to pre-
+clude judicial review, this Court will not preclude review.
+Bowen v. Michigan Academy of Family Physicians, 476
+U. S. 667, 670 (1986) (quotation marks omitted); see Bouarfa
+v. Mayorkas, 604 U. S. 6, 19 (2024); Cuozzo Speed Technolo-
+gies, LLC v. Lee, 579 U. S. 261, 273 (2016).
+   In this enforcement-proceeding context, that presumption
+is codifed in the Administrative Procedure Act, 5 U. S. C.
+§ 703. Section 703 provides: “Except to the extent that
+prior, adequate, and exclusive opportunity for judicial review
+is provided by law, agency action is subject to judicial re-
+view in civil or criminal proceedings for judicial enforce-
+ment.” (Emphasis added.) Therefore, § 703 itself articu-
+lates the default principle that parties in enforcement
+proceedings can challenge an agency's interpretation of a
+statute. Indeed, in 1947, the year after the APA was
+enacted, the Attorney General's Manual on the Administra-
+tive Procedure Act explained that in “many situations,” “an
+Page Proof Pending Publication
+appropriate method of attacking the validity of agency action
+is to set up the alleged invalidity as a defense in a civil or
+criminal enforcement proceeding.” Dept. of Justice, Attor-
+ney General's Manual on the Administrative Procedure Act
+99 (1947).
+   Consistent with the background presumption of judicial re-
+view and § 703, this Court's precedents have held that a
+party usually may seek judicial review of an agency's rule or
+order in an enforcement proceeding. Courts presume that
+“parties may always assail a regulation as exceeding the
+agency's statutory authority in enforcement proceedings
+against them.” Corner Post, Inc. v. Board of Governors,
+603 U. S. 799, 823 (2024) (quotation marks omitted).4
+
+   4
+     The dissent, relying on Thunder Basin Coal Co. v. Reich, objects that
+the presumption of judicial review does not apply unless a statute would
+preclude all judicial review. Post, at 178–179 (citing 510 U. S. 200, 207,
+n. 8 (1994)). That objection is misplaced for two reasons. First, the pre-
+sumption of judicial review applies to “statutes that may limit or preclude
+                       Cite as: 606 U. S. 146 (2025)                     157
+
+                           Opinion of the Court
+
+   To be sure, in 1967, this Court's decision in Abbott Labora-
+tories v. Gardner revolutionized administrative law by more
+regularly allowing pre-enforcement challenges to agency
+rules and orders under the APA, at least absent statutory
+preclusion of such pre-enforcement review. 387 U. S., at
+139–141. But Abbott Laboratories did not purport to elimi-
+nate judicial review in enforcement proceedings. Indeed,
+eliminating such review would have thwarted a key aim of
+the Abbott Laboratories decision, which was to expand the
+opportunities for judicial review by allowing challenges to
+agency action in either pre-enforcement suits or enforcement
+proceedings. See id., at 140–141.
+   In short, the background presumption of judicial review,
+the text of § 703 of the APA, and the tradition and precedents
+allowing parties in enforcement proceedings to contest an
+agency's interpretation combine to establish a clear default
+rule: In enforcement proceedings, district courts independ-
+ently determine whether an agency's interpretation of a stat-
+Page Proof Pending Publication
+ute is correct.
+   To be clear, the default rule is only a default, meaning that
+it applies only absent congressional indication otherwise.
+When Congress wants to preclude judicial review in enforce-
+ment proceedings, it can easily say so. The Clean Water
+Act, CERCLA, and the Clean Air Act all expressly preclude
+
+review.” Cuozzo Speed Technologies, LLC v. Lee, 579 U. S. 261, 273 (2016)
+(emphasis added). The presumption can apply with varying degrees of
+strength. Compare Thunder Basin, 510 U. S., at 207, n. 8 (not applying
+“the strong presumption that Congress did not mean to prohibit all judicial
+review” because “court of appeals review is available” (quotation marks
+omitted)), with id., at 207, 216 (nonetheless applying a presumption of judi-
+cial review and determining that it was overcome by “fairly discernible”
+intent (quotation marks omitted)); see also Elgin v. Department of Treas-
+ury, 567 U. S. 1, 9–10 (2012). Second, this case raises a different issue
+than Thunder Basin. This case concerns the availability of judicial re-
+view in enforcement proceedings, and as we have explained, the relevant
+presumption for purposes of judicial review in enforcement proceedings is
+codifed in § 703 of the APA.
+158     McLAUGHLIN CHIROPRACTIC ASSOCIATES, INC.
+                   v. McKESSON CORP.
+                    Opinion of the Court
+
+judicial review in enforcement proceedings. But absent
+such congressional preclusion, judicial review should be
+available.
+   The default rule also avoids unnecessary litigation and un-
+fairness. It would be impractical—and an enormous waste
+of resources—to demand that every potentially affected
+party bring or join pre-enforcement Hobbs Act challenges
+against every agency rule or order that might possibly affect
+them at some point in the future. As Justice Powell spelled
+out in a similar context, it “is totally unrealistic to assume
+that more than a fraction of the persons and entities affected
+by a regulation—especially small contractors scattered
+across the country—would have knowledge of its promulga-
+tion or familiarity with or access to the Federal Register.”
+Adamo Wrecking Co. v. United States, 434 U. S. 275, 290
+(1978) (concurring opinion).
+   On some occasions, moreover, the entities in an enforce-
+ment proceeding may not have existed when the relevant
+Page Proof Pending Publication
+agency rule or order was frst issued. Or at that time, they
+may have had no reason to suspect that they could be en-
+snared in future enforcement proceedings involving that
+agency action.
+   Requiring all those potentially affected parties to some-
+how predict the future and bring a pre-enforcement chal-
+lenge within 60 days or otherwise lose their right to chal-
+lenge an agency's interpretation of a statute down the road
+in an enforcement proceeding would be highly unusual—and
+would rightly strike many affected parties as grossly unfair.
+That no doubt explains why Congress rarely enacts such
+statutes.5
+
+  5
+    Indeed, the unfairness that would otherwise ensue could potentially
+rise to the level of a constitutional due process problem. Barring defend-
+ants in enforcement actions from raising arguments about the legality of
+agency rules or orders enforced against them raises signifcant questions
+under the Due Process Clause—especially for parties that did not exist or
+had no good or reasonably foreseeable reason to sue when the agency rule
+                       Cite as: 606 U. S. 146 (2025)                    159
+
+                           Opinion of the Court
+
+  All of those considerations taken together lead to a very
+straightforward principle: When Congress wants to bar a
+district court in an enforcement proceeding from reviewing
+an agency's interpretation of a statute, Congress can and
+must say so. We do not presume that Congress silently in-
+tended to preclude judicial review in enforcement proceed-
+ings. Rather, the default rule is that district courts in
+enforcement proceedings may conclude that an agency's in-
+terpretation of a statute is incorrect.
+                                B
+   Unlike the Clean Water Act, CERCLA, and the Clean Air
+Act, the Hobbs Act does not expressly preclude review in
+enforcement proceedings. So the default rule applies,
+meaning that judicial review of the FCC's statutory interpre-
+tation is available in this enforcement proceeding unless the
+Hobbs Act provides otherwise. McKesson and the Govern-
+ment advance several arguments that the Hobbs Act should
+Page Proof Pending Publication
+be interpreted to preclude judicial review of an agency's
+interpretation in an enforcement proceeding. None is
+persuasive.
+   First, McKesson and the Government say that the text of
+the Hobbs Act overrides the default rule. They point to the
+language in the Hobbs Act stating that the court of appeals
+in a pre-enforcement challenge possesses “exclusive jurisdic-
+tion” to “enjoin, set aside, suspend (in whole or in part), or
+to determine the validity” of the agency order. 28 U. S. C.
+§ 2342. They seize on the language “exclusive jurisdiction
+
+or order was frst issued. In Adamo Wrecking Co. v. United States, Jus-
+tice Powell warned that the preclusion-of-review provision of the Clean
+Air Act raised constitutional issues that “merited serious consideration.”
+434 U. S. 275, 289 (1978) (concurring opinion). The D. C. Circuit likewise
+has cautioned that provisions of that sort raise a “substantial due process
+question.” Chrysler Corp. v. EPA, 600 F. 2d 904, 913 (1979). We avoid
+those due process concerns in Hobbs Act cases by adhering to the default
+rule of allowing judicial review of agency legal interpretations in enforce-
+ment proceedings.
+160    McLAUGHLIN CHIROPRACTIC ASSOCIATES, INC.
+                  v. McKESSON CORP.
+                   Opinion of the Court
+
+. . . to determine the validity.” They argue that if the
+district court in an enforcement proceeding could disagree
+with an agency's statutory interpretation, the district court
+would in essence “determine the validity” of the order—
+thereby contravening the Hobbs Act's grant of exclusive juris-
+diction to the court of appeals to do so in a pre-enforcement
+suit.
+   That argument is mistaken. In this context, a court of
+appeals determines the validity of the agency order by enter-
+ing a declaratory judgment that declares the order valid or
+invalid. Critically, if a district court in an enforcement pro-
+ceeding disagrees with the agency's interpretation of a stat-
+ute, the district court does not issue such a declaratory judg-
+ment. Rather, the district court simply determines the
+liability of the defendant under the correct interpretation of
+the statute. In other words, when exercising judicial review
+in an enforcement proceeding, a district court may consider
+Page Proof Pending Publication
+the validity of the agency order, but the court does not “de-
+termine the validity” of that order in the sense of entering
+a declaratory judgment, which is how that phrase is used in
+§ 2342. Therefore, district court review does not confict
+with the Hobbs Act.
+   Notably, moreover, the statutory phrase “determine the
+validity” is preceded by the terms “enjoin,” “set aside,” and
+“suspend.” Here, McKesson claims that “determine the va-
+lidity” goes beyond a form of relief (that is, beyond a declara-
+tory judgment) and extends to “a court's decisional process
+in evaluating an order's merits.” Brief for Respondents 9.
+But the noscitur a sociis canon counsels against reading the
+term “determine the validity” to be different in kind and
+broader than the other three terms, which are all forms of
+relief. See, e. g., Fischer v. United States, 603 U. S. 480, 487–
+488 (2024); Freeman v. Quicken Loans, Inc., 566 U. S. 624,
+634–635 (2012).
+   In addition, a variation of the phrase “determine the valid-
+ity” appears in another provision of the Hobbs Act, § 2349.
+                       Cite as: 606 U. S. 146 (2025)                    161
+
+                           Opinion of the Court
+
+That provision states that the court of appeals in a pre-
+enforcement proceeding “has exclusive jurisdiction” to enter
+“a judgment determining the validity of, and enjoining, set-
+ting aside, or suspending, in whole or in part, the order of
+the agency.” § 2349(a).
+   The phrase “judgment determining the validity” in § 2349
+further confrms that the phrase “determine the validity” in
+§ 2342 refers to a declaratory judgment. The two provisions
+work in tandem, not at odds, and they have a consistent
+meaning. The main point of § 2342 is to identify the relevant
+courts that may hear pre-enforcement challenges—namely,
+the courts of appeals—and to list the agency actions that the
+Hobbs Act covers. Section 2349 specifes in more proce-
+dural detail that a court of appeals exercises jurisdiction
+upon “the fling and service of a petition,” and it authorizes
+the court of appeals to enter a judgment upon review of “the
+petition, evidence, and proceedings set forth” in the adminis-
+trative record. Ibid. So the language in § 2349 further
+Page Proof Pending Publication
+supports our conclusion about the meaning of § 2342: In an
+enforcement proceeding, a district court is not bound by an
+agency's statutory interpretation.6
+   As the dissent notes, the Hobbs Act provides “exclusive
+jurisdiction” to the courts of appeals. § 2342. But the
+question is: “exclusive jurisdiction” to do what? Under the
+Hobbs Act, the courts of appeals have exclusive jurisdiction
+to hear pre-enforcement challenges, meaning that district
+courts may not entertain those pre-enforcement suits. That
+language does not bar district courts in enforcement pro-
+ceedings from independently interpreting the meaning of the
+statute at issue.
+
+  6
+   The dissent says that we have erred in our analysis of the Hobbs Act's
+text by “adding words”—specifcally, by reading the phrase “determine
+the validity” in the Hobbs Act to mean “issue a declaratory judgment
+determining the validity.” Post, at 172. We are not adding words; we are
+simply interpreting the phrases “judgment determining the validity” and
+“determine the validity” in this statute to refer to a declaratory judgment.
+162    McLAUGHLIN CHIROPRACTIC ASSOCIATES, INC.
+                  v. McKESSON CORP.
+                   Opinion of the Court
+
+   In short, the Hobbs Act does not bar McLaughlin from
+arguing in the district court enforcement proceeding that the
+FCC's interpretation of the TCPA is incorrect. The Hobbs
+Act dictates how, when, and in what court a party can chal-
+lenge a new agency order before enforcement. The Act does
+not purport to address, much less preclude, district court
+review in enforcement proceedings. So the District Court
+in this enforcement proceeding can decide what the statute
+means under ordinary principles of statutory interpretation,
+affording appropriate respect to the FCC's interpretation.
+By doing so, the District Court will not “determine the valid-
+ity” of the FCC's Amerifactors order and thus will not con-
+travene the Hobbs Act.
+   One additional note: Even if the text of the Hobbs Act
+were ambiguous as to whether it precludes judicial review of
+an agency interpretation in enforcement proceedings, ambi-
+guity does not suffce to deprive a party of that judicial re-
+view. See, e. g., Guerrero-Lasprilla v. Barr, 589 U. S. 221,
+Page Proof Pending Publication
+229 (2020); Cuozzo Speed Technologies, 579 U. S., at 273. To
+deny a party like McLaughlin the opportunity to contest the
+agency's interpretation in an enforcement proceeding, Con-
+gress must clearly preclude such review. The Hobbs Act
+does not do so.
+   Second, McKesson and the Government turn to precedent
+and say that one of this Court's cases—Yakus v. United
+States, 321 U. S. 414 (1944)—already construed a statute sim-
+ilar to the Hobbs Act to bar judicial review in enforcement
+proceedings. That argument, too, is misplaced.
+   In Yakus, the Court considered pre-enforcement suits au-
+thorized by the Emergency Price Control Act of 1942. The
+question was whether the Act's authorization of pre-
+enforcement suits for adjudicating the validity of World War
+II pricing regulations and orders precluded judicial review
+in subsequent enforcement proceedings. See id., at 418.
+   The Emergency Price Control Act contained two key sen-
+tences governing judicial review. The frst sentence said
+that a specially created federal court possessed “exclusive
+                    Cite as: 606 U. S. 146 (2025)             163
+
+                       Opinion of the Court
+
+jurisdiction to determine the validity of any regulation or
+order” covered by the Act. 56 Stat. 33 (emphasis added).
+That frst sentence is similar to § 2342 of the Hobbs Act.
+The second sentence said: “Except as provided in this sec-
+tion, no court, Federal, State, or Territorial, shall have juris-
+diction or power to consider the validity of any such regu-
+lation, order, or price schedule.” Ibid. (emphasis added).
+That second sentence is not replicated in the Hobbs Act, but
+is similar to the preclusion-of-review provisions in the Clean
+Water Act, CERCLA, and the Clean Air Act.
+   According to the Court in Yakus, the frst sentence of the
+Emergency Price Control Act, which gave a specifc court
+the exclusive jurisdiction to determine the validity of certain
+regulations, “coupled with the provision” that explicitly pro-
+vided that no other court had jurisdiction to “consider” the
+validity of those same regulations, deprived the District
+Court in the later enforcement proceeding of authority to
+consider the legality of the relevant price regulation. 321
+Page Proof Pending Publication
+U. S., at 429–430 (emphasis added).
+   By using the phrase “coupled with,” the Yakus Court rea-
+soned that those two sentences of the Emergency Price Con-
+trol Act together barred district court review. The frst sen-
+tence alone did not suffce. Importantly, moreover, Yakus
+did not treat the second sentence of the Emergency Price
+Control Act—which barred all other courts from even consid-
+ering the validity of the regulations—as redundant or a re-
+statement of the frst. On the contrary, the Court recog-
+nized that the two provisions achieved separate objectives.
+The frst sentence afforded a particular court “exclusive” ju-
+risdiction “to determine the validity” of a pricing regulation
+in a pre-enforcement challenge. Id., at 443. The second
+sentence, in turn, foreclosed “any further or other consider-
+ation of the validity of a regulation” in enforcement proceed-
+ings. Ibid. The word “exclusive” in the frst sentence did
+not itself bar any subsequent review in enforcement proceed-
+ings. If it had, then the second sentence of the Emergency
+Price Control Act—barring any other consideration of the
+164    McLAUGHLIN CHIROPRACTIC ASSOCIATES, INC.
+                  v. McKESSON CORP.
+                   Opinion of the Court
+
+validity of the regulations—would have been unnecessary.
+Yet the Act included the second sentence and, importantly,
+the Yakus Court then expressly relied on that second sen-
+tence in deciding that review was precluded in subsequent
+enforcement proceedings.
+   In 1950, six years after Yakus, Congress enacted the
+Hobbs Act. According to McKesson and the Government,
+Congress replicated relevant provisions of the Emergency
+Price Control Act in the Hobbs Act. Not so. In enacting
+§ 2342 of the Hobbs Act, Congress incorporated language re-
+sembling the frst sentence of the Emergency Price Control
+Act that granted the courts of appeals exclusive jurisdiction
+to entertain pre-enforcement challenges to determine the va-
+lidity of agency rules and orders. But Congress did not
+carry forward the second sentence of the Emergency Price
+Control Act, which provided that no other court had jurisdic-
+tion even to “consider the validity” of those same agency
+rules and orders. In the Hobbs Act, in other words, Con-
+Page Proof Pending Publication
+gress did not include the language from the Emergency Price
+Control Act that, as interpreted in Yakus, would have ex-
+pressly communicated Congress's decision to preclude dis-
+trict courts from considering the validity of certain rules
+and orders.
+   In relying on Yakus, McKesson and the Government also
+disregard a critical contextual difference between the Emer-
+gency Price Control Act and the Hobbs Act. Congress de-
+signed the Emergency Price Control Act for the wartime
+context, where the need for quick and defnitive judicial rul-
+ings was at its zenith. By contrast, the Hobbs Act is an
+omnibus administrative review statute that covers a variety
+of agency rules and orders, without an exigency of that kind.
+   Because the Emergency Price Control Act differs in im-
+portant textual and contextual ways from the Hobbs Act,
+Yakus does not control here.
+   McKesson and the Government also rely on two Hobbs Act
+cases, Port of Boston Marine Terminal Assn. v. Rederiak-
+tiebolaget Transatlantic, 400 U. S. 62 (1970), and FCC v. ITT
+                      Cite as: 606 U. S. 146 (2025)                  165
+
+                          Opinion of the Court
+
+World Communications, Inc., 466 U. S. 463 (1984). But
+those cases likewise do not advance their cause. In Port of
+Boston, two private parties had been opposed to one another
+in an agency's adjudicative proceeding. 400 U. S., at 65–66.
+Then, the losing party in the adjudicative proceeding inter-
+vened in an ongoing District Court suit against the other
+party, seeking to relitigate the agency's decision. Id., at 64–
+67. ITT World similarly involved a party who lost before
+the agency and then turned around and sued the agency in
+District Court. 466 U. S., at 465–466, 468. In both cases,
+this Court held that the Hobbs Act barred the suit. See
+Port of Boston, 400 U. S., at 72; ITT World, 466 U. S., at
+468. Those decisions mean only that a form of estoppel or
+preclusion applies when two parties are opposed in an
+agency's adjudicative proceeding—and the losing party then
+seeks to upset the result of that adjudicative proceeding in
+an ordinary district court suit rather than in the court of
+appeals venue provided by statute. See also n. 3, supra.
+Page Proof Pending Publication
+The litigation between McLaughlin and McKesson at issue in
+this case does not implicate those concerns about “collateral
+redetermination of the same issue” involving the same par-
+ties “in a different and inappropriate forum.” Port of Bos-
+ton, 400 U. S., at 72.
+   To be sure, as McKesson and the Government note, one
+paragraph near the end of the Port of Boston opinion could
+be read more broadly than simply relying on estoppel or pre-
+clusion principles. See ibid. But that paragraph was
+styled as alternative reasoning and, if read broadly, would
+be inconsistent with fundamental principles of administra-
+tive law and judicial review that this Court has emphasized
+in the years since. So we decline to adopt that broader
+reading and instead confne Port of Boston to the estoppel
+and preclusion principles that formed the primary basis for
+the decision.7
+  7
+    On a related tack, McKesson and the Government point to century-old
+precedents interpreting the Urgent Defciencies Act of 1913, a predecessor
+to the Hobbs Act. 38 Stat. 208; see Venner v. Michigan Central R. Co.,
+166     McLAUGHLIN CHIROPRACTIC ASSOCIATES, INC.
+                   v. McKESSON CORP.
+                    Opinion of the Court
+
+   Third, McKesson and the Government argue that practical
+problems could ensue if the Hobbs Act did not bar judicial
+review of agency legal interpretations in enforcement
+proceedings.
+   They raise concern about the potential disagreement and
+ineffciency that could crop up if courts in enforcement pro-
+ceedings independently interpret statutes instead of follow-
+ing an agency's interpretation. That policy-laden argument
+does not overcome the text of the statute and traditional
+administrative law principles. Moreover, the argument is
+unpersuasive even on its own terms. If an agency order is
+upheld in a pre-enforcement challenge by a court of appeals,
+it is true that a different court of appeals (upon review of
+a district court's decision) might disagree with the agency's
+interpretation in an appeal from a subsequent enforcement
+proceeding. But that inter-circuit disagreement would sim-
+ply create a circuit split on the interpretation of the law and
+Page Proof Pending Publication
+likely trigger review in this Court. Circuit splits followed
+by this Court's review are commonplace. There is no reason
+to think that Congress wanted to short-circuit that ordinary
+system of judicial review for the multiplicity of agency rules
+and orders encompassed by the Hobbs Act.
+
+271 U. S. 127 (1926); Lambert Run Coal Co. v. Baltimore & Ohio R. Co.,
+258 U. S. 377 (1922). In those cases, the plaintiffs sued private defendants
+and challenged agency decisions that had specifcally authorized those de-
+fendants to engage in the disputed conduct—by granting what in essence
+was a license or waiver to the defendants. In the District Courts, the
+plaintiffs sought injunctions that would negate the agency's license or
+waiver and prevent the defendants “from doing what the order specifcally
+authorizes.” Venner, 271 U. S., at 130; see Lambert, 258 U. S., at 379–382.
+This Court held that the proper avenue for that kind of challenge was pre-
+enforcement review in the court designated by the Urgent Defciencies
+Act. In the Court's view, the plaintiffs' requested relief was “equivalent
+to asking that the order be adjudged invalid and set aside.” Venner, 271
+U. S., at 130; see Lambert, 258 U. S., at 381–382. Those cases therefore
+do not shed light on the broader issue in this case—namely, the general
+availability of judicial review in enforcement proceedings.
+                   Cite as: 606 U. S. 146 (2025)             167
+
+                      Opinion of the Court
+
+   The Government separately suggests that judicial review
+is not necessary in any event because an affected party who
+did not bring a pre-enforcement challenge can always peti-
+tion the agency for a new rulemaking or declaratory order.
+That is a largely empty promise. To begin, if the Govern-
+ment actually supports judicial review after the initial 60-
+day Hobbs Act period, it makes little sense to squeeze review
+into that convoluted route rather than recognizing judicial
+review in enforcement proceedings. More fundamentally,
+judicial review may not always be available under that route,
+or it may take many years for the agency to act on a petition
+for a new rulemaking or declaratory order. And even if ju-
+dicial review of a denied petition is available, “the ability to
+petition” an agency for a new rulemaking or declaratory
+order is not “a suffcient substitute for de novo judicial re-
+view of its lawfulness” because the “agency's discretionary
+decision to decline to take new action would be subject only
+Page Proof Pending Publication
+to deferential judicial review.” Corner Post, 603 U. S., at
+825, n. 9 (quotation marks omitted). In short, the Govern-
+ment's suggestion of an alternative path of judicial review
+is largely illusory in practice and does not supply a basis
+for denying judicial review in district court enforcement
+proceedings.
+   The dissent expresses concern about how our decision will
+affect the incentives of regulated parties. See post, at 169,
+183. Invoking plutonium shippers and nuclear reactor oper-
+ators, the dissent says that regulated parties like those will
+be emboldened to violate agency rules and orders, all be-
+cause those regulated parties may challenge the validity of
+agency rules and orders in subsequent enforcement proceed-
+ings. But the APA itself makes judicial review available in
+both pre-enforcement proceedings and enforcement proceed-
+ings, so our decision today does not create some unusual pro-
+cedure. See Abbott Laboratories, 387 U. S., at 140–141.
+Indeed, as is true under the APA, many regulated parties
+will prefer to challenge a rule or order in a pre-enforcement
+168    McLAUGHLIN CHIROPRACTIC ASSOCIATES, INC.
+                  v. McKESSON CORP.
+                   Opinion of the Court
+
+proceeding—that is, before running the risk of ruinous liabil-
+ity in an enforcement proceeding. Avoiding exposure to lia-
+bility in an enforcement proceeding is a core purpose of pre-
+enforcement review. See id., at 153–154. We do not think
+that the availability of judicial review in district court en-
+forcement proceedings will create the negative incentives
+that the dissent is concerned about.
+   As it has done with the Clean Water Act, CERCLA, and
+the Clean Air Act, Congress can choose to expressly preclude
+judicial review in enforcement proceedings (subject to consti-
+tutional constraints). But we should not lightly conclude
+that Congress wants to simultaneously deny judicial review
+in enforcement proceedings whenever it grants particular
+courts “exclusive jurisdiction” over pre-enforcement chal-
+lenges. That would blindside parties who would not neces-
+sarily have anticipated that they should have fled a pre-
+enforcement challenge, insulate agencies from circuit splits,
+and thereby render this Court's review of signifcant agency
+Page Proof Pending Publication
+rules and orders less likely. Such an interpretation would
+read far too much into a few oblique words in the Hobbs Act.
+   To the extent we consider real-world effects, moreover,
+they cut against McKesson and the Government. As Mc-
+Kesson and the Government see things, when the initial win-
+dow for pre-enforcement review closes, no one can argue in
+court that the agency's interpretation of a statute is incor-
+rect—no matter how wrong the agency's interpretation
+might be. In other words, their argument would require the
+District Court to afford absolute deference to the agency.
+We see no good rationale for reading the Hobbs Act to em-
+body such an absolute-deference rule.
+
+                        *     *     *
+   The District Court is not bound by the FCC's interpreta-
+tion of the TCPA. The District Court should interpret the
+statute as courts traditionally do under ordinary principles
+of statutory interpretation, affording appropriate respect to
+the agency's interpretation.
+                    Cite as: 606 U. S. 146 (2025)             169
+
+                       Kagan, J., dissenting
+
+  McKesson separately contends that we should affrm any-
+way because, in its view, the FCC's interpretation of the
+TCPA is correct. Consistent with our usual practice, we
+leave that issue for remand. We reverse the judgment of
+the Court of Appeals and remand the case for further pro-
+ceedings consistent with this opinion.
+                                         It is so ordered.
+
+  Justice Kagan, with whom Justice Sotomayor and
+Justice Jackson join, dissenting.
+   Imagine the Nuclear Regulatory Commission (NRC) is-
+sues a rule to ensure the safe handling of nuclear material—
+for example, by prohibiting the shipment of (radioactive) plu-
+tonium by air. See 10 CFR § 71.88 (2024). And imagine,
+too, that a regulated party thinks the rule exceeds the
+NRC's statutory authority. Must the party challenge the
+rule right away—before putting plutonium on a plane—by
+bringing its arguments to a court of appeals? Or can the
+Page Proof Pending Publication
+party send plutonium through the skies without regard to
+the rule, and contest its validity only when (really, if) the
+NRC initiates an enforcement action?
+   Today, the Court picks the second option: ship frst, litigate
+later. The Hobbs Act provides for prompt pre-enforcement
+judicial review of much agency action, including most of the
+NRC's rules and orders. See 28 U. S. C. § 2342(4). But as
+the majority sees things, the Act “does not preclude district
+courts” from declaring a rule or order invalid years after it
+issued, at the behest of a party who declined to seek judicial
+review in the frst instance. Ante, at 152. So a regulated
+party, as in my plutonium example, can violate an agency's
+rule, wait for the agency to discover the offense and bring
+an enforcement action, and only then challenge the rule as
+going beyond statutory authority. And the same is true in
+private litigation (as here), for either a plaintiff or a defend-
+ant. If, for example, a defendant raises an agency's rule or
+order in a civil suit (as McKesson did to defeat McLaughlin's
+class action), the plaintiff can always respond by challenging
+170    McLAUGHLIN CHIROPRACTIC ASSOCIATES, INC.
+                  v. McKESSON CORP.
+                   Kagan, J., dissenting
+
+the agency action's validity. And that is so, in both the ad-
+ministrative and the private contexts, even if appellate
+courts have previously approved the agency rule or order,
+so long as those judicial decisions are not somehow binding
+(which they often will not be).
+   But the Court's conclusion is wrong, as a matter of ordi-
+nary statutory interpretation. The text of the Hobbs Act
+makes clear that litigants who have declined to seek pre-
+enforcement judicial review may not contest the statutory
+validity of agency action in later district-court enforcement
+proceedings. And this Court's prior decisions have said just
+that. Today's majority evades the Hobbs Act's most natural
+meaning by relying on a novel “default rule,” which demands
+that Congress use a certain form of words—really, that Con-
+gress create statutory redundancy—to preclude parties from
+bringing down-the-road challenges to agency action. That
+rule has no foundation in our law; it emerges fully formed
+today from the majority's head. And it prevents the Hobbs
+Page Proof Pending Publication
+Act from functioning as Congress wanted—by allowing regu-
+lated parties to end-run the Act's pre-enforcement judicial
+review scheme, and thereby undermine the stability and ef-
+fcacy of administrative programs.
+
+                               I
+  Under the Hobbs Act, the federal courts of appeals have
+“exclusive jurisdiction to enjoin, set aside, suspend (in whole
+or in part), or to determine the validity of ” specifed agency
+rules and orders. § 2342. The question here is whether the
+Act—despite vesting that “exclusive jurisdiction” in the
+courts of appeals—still allows a litigant to attack the validity
+of a covered agency action in a district-court enforcement
+proceeding. Or otherwise asked: May a party in a district-
+court suit challenge a covered agency action, many years
+after the action issued and underwent judicial review, as part
+of his claim or defense?
+  The Hobbs Act's text provides the answer. By its terms,
+the Hobbs Act gives courts of appeals exclusive authority to
+                       Cite as: 606 U. S. 146 (2025)                     171
+
+                           Kagan, J., dissenting
+
+“determine the validity” of specifed agency actions. “Ex-
+clusive,” of course, means courts of appeals alone, not district
+courts. And there lies the problem for a party challenging
+agency action in a district court, not a court of appeals.
+When he objects to an order because it misconstrues a stat-
+ute, he asks the district court to “determine the [order's]
+validity.” The court, to address the claim, has to settle or
+decide (“determine”) whether the challenged agency action
+is lawful (“valid”). See, e. g., Black's Law Dictionary 536,
+1719 (4th ed. 1951) (defning “determine” to mean “settle” or
+“decide,” and “validity” to mean “[l]egal suffciency”); see
+also id., at 1719 (defning “valid” to mean “legally suffcient”
+or “authorized by law”). So the party's request is for the
+district court to do exactly what the Hobbs Act says it can-
+not. This case could be Exhibit A. McLaughlin wants
+a district court to disregard the Federal Communications
+Commission's (FCC's) Amerifactors order, 34 FCC Rcd.
+Page Proof Pending Publication
+11950 (2019), on the ground that it conficts with the Tele-
+phone Consumer Protection Act. See ante, at 150–151.
+But to do that, the district court would need to decide (or
+“determine”) that Amerifactors is legally wrong (or “in-
+valid”). And the Hobbs Act reserves such determinations
+for the federal courts of appeals. As the statute says, their
+jurisdiction is “exclusive.” 1
+
+  1
+    One exception bears mention: Under § 703 of the Administrative Proce-
+dure Act (APA), a litigant may challenge agency action in a district court
+when he lacked an “adequate . . . opportunity” to obtain pre-enforcement
+review of the action in a court of appeals by way of the Hobbs Act. See
+5 U. S. C. § 703 (“Except to the extent that prior, adequate, and exclusive
+opportunity for judicial review is provided by law, agency action is subject
+to judicial review in civil or criminal proceedings for judicial enforcement”
+(emphasis added)). So if a specifc litigant did not have a practical way to
+seek pre-enforcement review under the Hobbs Act—as, for example, a new
+business would not—then that litigant can use an enforcement proceeding
+to challenge an agency action. Contra, ante, at 158. But that beneft does
+not extend to a party that has intentionally or negligently forgone Hobbs
+Act review. That kind of party had, but passed up, an “adequate opportu-
+nity.” And there is no dispute here that McLaughlin is such a party: It
+172     McLAUGHLIN CHIROPRACTIC ASSOCIATES, INC.
+                   v. McKESSON CORP.
+                    Kagan, J., dissenting
+
+   The majority's contrary reading of “determine the valid-
+ity” has nothing to recommend it. In the majority's view, a
+court determines the validity of an agency order only when
+it “enter[s] a declaratory judgment” holding the order valid
+or invalid. See ante, at 160. And because (the majority
+continues) a district court in an enforcement proceeding does
+not enter a declaratory judgment, its ruling on validity does
+not collide with the Hobbs Act. But why read “determine
+the validity” to mean “issue a declaratory judgment de-
+termining the validity”? By adding words to the phrase—
+usually considered bad practice in statutory interpretation—
+the majority narrows its meaning. See, e. g., Lomax v.
+Ortiz-Marquez, 590 U. S. 595, 600 (2020) (“[T]his Court may
+not narrow a provision's reach by inserting words Congress
+chose to omit”). As Congress drafted the phrase, it refers
+to any method of, or mechanism for, determining an order's
+validity; as the majority reads the phrase, it reduces to only
+one. Had Congress meant to refer to only that one, it had
+Page Proof Pending Publication
+a perfectly easy way to do so—just insert language, along
+the lines of the italics above, mentioning declaratory judg-
+ments. Congress of course knows how to do that when it
+wants to. See, e. g., 5 U. S. C. § 703 (referring to “actions for
+declaratory judgments”). It did not want to here. It gave
+exclusive jurisdiction to the courts of appeals to “determine
+the validity of ” specifed agency orders and rules—by what-
+ever means, not just by entering declaratory judgments.2
+
+knew about, but decided not to participate in, consideration of the Ameri-
+factors order. See Pet. for Cert. 20.
+   2
+     The noscitur a sociis canon does not come to the majority's aid. Ac-
+cording to the majority, the phrase preceding “to determine the valid-
+ity”—“to enjoin, set aside, suspend”—refers to awarding “forms of relief.”
+Ante, at 160. And because a declaratory judgment is also a form of relief,
+the majority claims that the general language of the “validity” phrase
+should be narrowed to that particular. See ibid. But there are at least
+three things wrong with that idea. First, there is just not enough ambi-
+guity in the words “determine the validity” to resort to the highly nuanced
+and often unreliable noscitur canon. See, e. g., United States v. Stevens,
+                        Cite as: 606 U. S. 146 (2025)                     173
+
+                           Kagan, J., dissenting
+
+   History and precedent confrm that view. At the time
+Congress drafted the Hobbs Act, this Court had held that
+two statutes like it applied whenever a litigant's claim or
+defense called agency action into question. See Venner v.
+Michigan Central R. Co., 271 U. S. 127 (1926); Yakus v.
+United States, 321 U. S. 414 (1944). Congress enacted the
+Hobbs Act against the backdrop of those decisions, presum-
+ably intending to replicate their results. See, e. g., Parker
+Drilling Management Services, Ltd. v. Newton, 587 U. S.
+601, 611 (2019) (“It is a commonplace of statutory interpreta-
+tion that `Congress legislates against the backdrop of exist-
+ing law' ”). And this Court has previously read the Hobbs
+Act as doing exactly that—as preventing later, collateral at-
+tacks on agency orders that could have been challenged at
+the time they issued.
+   Begin with Venner, which involved a Hobbs Act predeces-
+sor called the Urgent Defciencies Act. The case arose from
+an Interstate Commerce Commission (ICC) order permitting
+Page Proof Pending Publication
+a railroad to participate in a joint venture with two others.
+See 271 U. S., at 128–129. A minority shareholder of the
+railroad sued to enjoin the venture, arguing that the ICC
+had no statutory authority to approve it. But we decided
+the District Court lacked jurisdiction. The suit, we ex-
+plained, “assail[ed] the validity” of an ICC order by asking
+that the railroad “be enjoined from doing what the order
+
+559 U. S. 460, 474 (2010). Second, a careful reader will note that Congress
+did not, as the majority does, run the two phrases together as one. Con-
+gress's language goes: A court of appeals has exclusive jurisdiction “to
+enjoin, set aside, suspend (in whole or in part), or to determine the validity
+of ” an agency order. § 2342. The addition of the second “to” in that pro-
+vision marks the “validity” phrase as slightly different from what precedes
+it, thus making use of the canon still more inappropriate. And third, the
+majority's argument fails even on its own terms, because a court awards
+relief as much when it dismisses a suit based on an order's invalidity as
+when it issues a declaratory judgment announcing the invalidity. Nothing
+in the Hobbs Act suggests that Congress saw a difference in those alterna-
+tive ways of providing relief from an illegal order.
+174      McLAUGHLIN CHIROPRACTIC ASSOCIATES, INC.
+                    v. McKESSON CORP.
+                     Kagan, J., dissenting
+
+specifcally authorize[d].” Id., at 130. And such an attack
+on an agency order's validity had to be brought in the court,
+and according to the procedures, the Urgent Defciencies Act
+directed. See ibid.; see also Lambert Run Coal Co. v. Balti-
+more & Ohio R. Co., 258 U. S. 377, 381–382 (1922) (similarly
+dismissing a civil suit because it was “in effect” an attack
+on an agency rule). So Venner precluded, under an earlier
+Hobbs-Act-type statute, just what today's majority allows: a
+collateral attack on agency action brought as a claim or de-
+fense in a later civil suit. If the majority were to apply the
+Venner rule today, it would hold that McLaughlin could not
+“assail the validity” of the FCC's Amerifactors order except
+in the way the Hobbs Act specifes.3
+   And Venner is no one-off: Yakus understood another
+Hobbs Act precursor—the jurisdictional provision of the
+Emergency Price Control Act of 1942 (EPCA)—in the identi-
+cal way. That Act created an agency to issue regulations
+and orders involving wartime prices. Relevant here, it also
+Page Proof Pending Publication
+gave a special court “exclusive jurisdiction to determine the
+validity” of those orders, and barred other courts from “con-
+sider[ing]” their “validity.” See 321 U. S., at 429 (quoting
+§ 204(d), 56 Stat. 33). The Court understood that lan-
+  3
+    The majority's response, relegated to a footnote, is hard to make out.
+It appears to limit the Venner holding to cases where the agency has
+issued a party-specifc order—there, a “license or waiver”—which a later
+legal action seeks to undo. See ante, at 166, n. 7. But to begin with,
+another decision taking the Venner line—which the majority also cites—
+involved a general ICC rule, rather than a party-specifc license or waiver.
+See Lambert Run Coal Co., 258 U. S., at 381–382. And anyway, the ma-
+jority offers neither authority nor reason for treating the two kinds of
+agency action differently—for varying judicial review based on whether
+an agency regulates in gross or instead party-by-party. Why, for exam-
+ple, reach a different result in this case because the FCC, instead of licens-
+ing a particular company to transmit faxes to an online fax service, created
+a regulatory safe-harbor for any entity to do so? The idea is, at a mini-
+mum, in tension with usual administrative law principles. See, e. g.,
+NLRB v. Bell Aerospace Co., 416 U. S. 267, 291–294 (1974) (leaving to
+agency discretion the choice between general rules and individualized
+proceedings).
+                   Cite as: 606 U. S. 146 (2025)           175
+
+                      Kagan, J., dissenting
+
+guage—some ending up verbatim in the Hobbs Act—to pre-
+clude a district court from ruling on the “validity” of the
+agency's orders in a later enforcement proceeding (including,
+as there, a criminal prosecution for violating the Act). 321
+U. S., at 430. That holding follows straightforwardly from
+Venner—and likewise points to a different result today.
+   The majority thinks Yakus is different because the EPCA
+included a surfeit of exclusivity language. See ante, at 162–
+164. In one sentence (as in the Hobbs Act), the statute
+made clear that the special court had “exclusive jurisdiction”
+to “determine the validity” of the agency's orders; in the
+next, the law provided that no other court had jurisdiction
+to consider such an order's validity. See 321 U. S., at 429.
+Because the Yakus Court noted both, the majority argues, it
+must have thought the frst sentence insuffcient alone. See
+ante, at 163–164. But the majority's conclusion hardly fol-
+lows from its observation. Sure, the Yakus Court men-
+tioned both sentences, because both were there. (I would
+Page Proof Pending Publication
+have too.) But if only the frst were there, would the Court
+have reached a different conclusion? No, because the sec-
+ond sentence is just the negative of the frst: If Court X has
+“exclusive jurisdiction” over a matter (here, “determining
+the validity” of agency action), Courts Y and Z have no au-
+thority over that matter—just by dint of what “exclusive”
+means. And indeed, in a later case involving the EPCA (de-
+cided just two years before Congress enacted the Hobbs
+Act), we relied only on the language in the frst sentence to
+hold that the special court's “exclusive jurisdiction” to “de-
+termin[e an order's] validity” precluded a district court from
+entertaining a collateral attack on the order. See Woods v.
+Hills, 334 U. S. 210, 213–214 (1948). The second sentence,
+we recognized then, was just the opposite side of the coin,
+not worth mentioning. Or, to switch to a more common
+statutory interpretation metaphor, the second sentence was
+the “lamentably common” suspenders on top of the already
+suffcient belt. A. Scalia & B. Garner, Reading Law 177
+(2012).
+176    McLAUGHLIN CHIROPRACTIC ASSOCIATES, INC.
+                  v. McKESSON CORP.
+                   Kagan, J., dissenting
+
+   It is thus not surprising that when this Court previously
+encountered the Hobbs Act, it reached the same result—once
+again foreclosing a district court's “collateral redetermina-
+tion” of the validity of an agency order. Port of Boston Ma-
+rine Terminal Assn. v. Rederiaktiebolaget Transatlantic,
+400 U. S. 62, 72 (1970). And make no mistake: That is Port
+of Boston's holding, however much the majority tries to veil
+it. See ante, at 164–165. The case got its start when the
+Federal Maritime Commission (FMC) issued an order in a
+ratemaking proceeding authorizing a port operator to impose
+certain fees on shipowners using the port. Later, a ship-
+owner intervened in an ongoing district-court suit to collect
+the fees, and sought to argue that the FMC order allowing
+them was in error. This Court held that the Hobbs Act
+barred consideration of that issue. The Act, we explained,
+was “explicit” in giving the courts of appeals “exclusive ju-
+risdiction” to “determine the validity” of the FMC's orders.
+Page Proof Pending Publication
+400 U. S., at 69. And that meant the district court could not
+entertain a “collateral attack” on what the FMC had done.
+Id., at 71. In the last part of the opinion, the Court re-
+sponded to the shipowner's contention that such an attack
+was “justif[ied]” because it had not participated in the
+FMC's ratemaking. The Court began by noting—in the sin-
+gle paragraph the majority pretends is the crux of the deci-
+sion—that the shipowner really had taken part through an
+agent. See ibid. And then the hammer came down: The
+shipowner's participation—or lack thereof—simply did not
+matter. See id., at 72. Even if the shipowner had not
+taken part in the ratemaking, “it had every opportunity” to
+do so and “then to seek timely review in the Court of Ap-
+peals.” Ibid. As long as that was true, the shipowner was
+stuck. Echoing its earlier holding about the Act's “explicit”
+command, the Court again made clear: The shipowner “can-
+not force collateral redetermination” of the FMC's decision
+“in a different and inappropriate forum.” Ibid.
+                       Cite as: 606 U. S. 146 (2025)                   177
+
+                          Kagan, J., dissenting
+
+   So the majority today is wrong as a matter of text: The
+Hobbs Act gives the courts of appeals exclusive jurisdiction
+to determine the validity of agency action, meaning that dis-
+trict courts have no jurisdiction to do so. The majority
+today is wrong as a matter of history: Congress knew about
+that judicial review regime when it enacted the Hobbs Act,
+and would have expected the language it used (cribbed as it
+was from the EPCA) to produce the same result. And the
+majority today is wrong as a matter of precedent: This Court
+has held that the Hobbs Act, like its precursors, sets up a
+single judicial review mechanism for agency rules and or-
+ders, and prevents later collateral attacks on them in other
+courts. Small wonder, then, that every court of appeals to
+address the question before us has rejected the position the
+majority takes.4 There is simply nothing in the law to sup-
+port today's result.
+                              II
+
+Page       Proof
+  How, then,  does the Pending
+                       majority justify Publication
+                                        its position? All of
+the work is done through the creation of a so-called “default
+rule.” Ante, at 155. According to the majority, Congress's
+decision to give the courts of appeals “exclusive” jurisdiction
+to “determine the validity” of agency action is not enough to
+prevent district courts in later proceedings from doing the
+same thing. That is because, the majority says, Congress
+did not “expressly preclude” those district-court determina-
+tions. Ibid. And what Congress did not “expressly pre-
+clude,” we should understand it to have permitted. The
+
+  4
+    See, e. g., CE Design, Ltd. v. Prism Bus. Media, Inc., 606 F. 3d 443,
+447–448 (CA7 2010) (suit between private parties); Nack v. Walburg, 715
+F. 3d 680, 686–687 (CA8 2013) (same); Mais v. Gulf Coast Collection Bu-
+reau, Inc., 768 F. 3d 1110, 1119–1121 (CA11 2014) (same); Daniels v. Union
+Pac. R. Co., 530 F. 3d 936, 940–941 (CADC 2008) (same); United States v.
+Any & All Radio Station Transmission Equip., 207 F. 3d 458, 463 (CA8
+2000) (agency enforcement action in district court); United States v. Duni-
+fer, 219 F. 3d 1004, 1007 (CA9 2000) (same).
+178    McLAUGHLIN CHIROPRACTIC ASSOCIATES, INC.
+                  v. McKESSON CORP.
+                   Kagan, J., dissenting
+
+idea is closely related to the majority's view of Yakus. See
+supra, at 175; ante, at 162–164. Recall that the EPCA's frst
+sentence gave exclusive jurisdiction to the special appellate
+court to review an agency action's “validity,” and its second
+sentence affrmed that other courts had no jurisdiction over
+the identical matters. See 321 U. S., at 429. The majority
+insists on Congress always taking that double-barreled, belt-
+and-suspenders approach. Where Congress has not, courts
+cannot ask, as a matter of ordinary statutory interpretation,
+whether an exclusivity provision alone expresses Congress's
+intent to have court-of-appeals review be, well, exclusive.
+Congress always has to add a second, “we mean it too”
+sentence.
+  But why? The majority offers only two reasons—the pre-
+sumption of judicial review of agency action and the APA.
+See ante, at 155–156. Neither provides support for the ma-
+jority's novel default rule.
+Page Proof Pending Publication
+  The presumption of judicial review of agency action is in-
+deed “basic,” ante, at 155, but it does not stretch as wide as
+the majority claims. The principal case the majority cites
+puts it this way: We presume that “Congress did not mean
+to prohibit all judicial review” of an agency's decision.
+Bowen v. Michigan Academy of Family Physicians, 476
+U. S. 667, 672 (1986) (quoting Dunlop v. Bachowski, 421 U. S.
+560, 567 (1975); emphasis added); see Thunder Basin Coal
+Co. v. Reich, 510 U. S. 200, 207, n. 8 (1994). “All” is a small
+word, but it means something. The presumption does not
+operate when Congress, rather than eliminating judicial re-
+view, has channeled it in one direction or another. So, for
+example, this Court has approved many congressional
+schemes lodging pre-enforcement review of agency action in
+the courts of appeals alone, even though parties may wish to
+proceed, in the ordinary way, frst to district court. See id.,
+at 207–208, 218; Axon Enterprise, Inc. v. FTC, 598 U. S. 175,
+185–186 (2023). “Because court of appeals review is avail-
+able,” we have explained, those schemes “do[ ] not implicate”
+                        Cite as: 606 U. S. 146 (2025)                       179
+
+                            Kagan, J., dissenting
+
+the presumption favoring judicial review of agency action.
+Thunder Basin, 510 U. S., at 207, n. 8.5 Similarly here.
+The Hobbs Act simply favors a centralized way of providing
+judicial review of covered actions—at a particular time, in a
+particular court. And as noted earlier, it does not apply
+when a person lacks an adequate opportunity to avail himself
+of that mechanism; in that event, he can obtain judicial re-
+view in a later proceeding. See supra, at 171, n. 1. So the
+Hobbs Act does not implicate the presumption in favor of
+judicial review.
+   Neither does the APA support the majority's default rule.
+The majority relies on Section 703, which it presents as
+follows:
+     “Except to the extent that prior, adequate, and exclusive
+     opportunity for judicial review is provided by law,
+     agency action is subject to judicial review in civil or
+     criminal proceedings for judicial enforcement.” Ante,
+Page Proof Pending Publication
+     at 156 (emphasis supplied by majority).
+But what if we instead present Section 703 like this:
+     “Except to the extent that prior, adequate, and exclusive
+     opportunity for judicial review is provided by law,
+     agency action is subject to judicial review in civil or
+     criminal proceedings for judicial enforcement.”
+   5
+     The majority's allegedly contrary authorities, see ante, at 156, n. 4, do
+not say otherwise: None applies the presumption of judicial review to a
+statute that merely channels review to one court rather than another.
+The “limits” the Court spoke of in Cuozzo Speed Technologies, LLC v. Lee,
+579 U. S. 261, 273 (2016), operated to cut off all judicial review of particular
+issues, rather than to place that review in a single court; hence, the pre-
+sumption kicked in (although it was there overcome). And in both Thun-
+der Basin, 510 U. S. 200, and Elgin v. Department of Treasury, 567 U. S.
+1 (2012)—which did involve channeling—no presumption operated. The
+Court did ordinary statutory interpretation to fgure out what Congress
+wanted. See Thunder Basin, 510 U. S., at 207, 216 (counseling an inquiry
+into “language,” “structure,” “purpose,” and “legislative history”); Elgin,
+567 U. S., at 10 (similar).
+180    McLAUGHLIN CHIROPRACTIC ASSOCIATES, INC.
+                  v. McKESSON CORP.
+                   Kagan, J., dissenting
+
+The point, of course, is that under Section 703 the majority's
+preferred kind of judicial review is subject to an exception:
+Congress may replace it with a “prior, adequate, and exclu-
+sive opportunity for judicial review.” To me, that phrase
+reads like a description of the Hobbs Act. I imagine to the
+majority it does not (though, if not the Hobbs Act, what?).
+But on neither view can one fnd in Section 703 the demand
+for an interpretive fst on the scales, of the sort the majority
+devises. To the contrary, a court treats Section 703 respect-
+fully when it addresses straight up the issue that the prefa-
+tory clause makes decisive: Does some statute provide for
+a “prior, adequate, and exclusive opportunity for judicial
+review”?
+   The Attorney General's Manual on the Administrative Pro-
+cedure Act, which the majority also cites, in fact endorses
+that straight-up (not pre-jiggered) interpretive approach.
+The majority quotes the following from the Manual: “[I]n
+Page Proof Pending Publication
+many situations” “an appropriate method of attacking the
+validity of agency action is to set up the alleged invalidity
+as a defense in a civil or criminal enforcement proceeding.”
+Ante, at 156; Dept. of Justice, Attorney General's Manual on
+the Administrative Procedure Act 99 (1947). True enough.
+But the Manual also makes clear that sometimes that will
+not be an appropriate method—because Congress has de-
+cided otherwise. A statute, the Manual explains, may “ex-
+pressly provide for an exclusive method of judicial review
+which precludes challenge of agency action in enforcement
+proceedings.” Ibid., and n. 13 (citing the EPCA). Or, the
+Manual continues, “a court may conclude from the statutory
+context that such was the legislative intention.” Ibid. So
+the directive the Manual gives is to do ordinary statutory
+interpretation—not to avoid it, as the majority does. “In
+brief,” the Manual summarizes, “courts must determine in
+each case” whether Congress “intended to preclude or to
+permit judicial review of agency action in enforcement pro-
+                   Cite as: 606 U. S. 146 (2025)             181
+
+                      Kagan, J., dissenting
+
+ceedings.” Id., at 100–101. Quite right—someone should
+tell the majority.
+   Finally, note what the majority does not have to support
+its interpretive method—any on-point precedent. No Ven-
+ner or Yakus or Port of Boston. See supra, at 173–176.
+No Lambert or Woods. See supra, at 174, 175. There is a
+lone quotation from Corner Post, Inc. v. Board of Governors,
+603 U. S. 799, 817 (2024). See ante, at 156. But that state-
+ment merely notes the general rule that a person can attack
+a regulation in enforcement proceedings; it does not say any-
+thing about how to determine whether a statute like the
+Hobbs Act provides an exception to that rule. On that ques-
+tion, as shown above, all the Court's precedent goes against
+the majority's view.
+                             III
+   The majority's misreading of the Hobbs Act prevents the
+statute from serving its intended function. Today's holding
+Page Proof Pending Publication
+undermines the certainty and fnality Congress sought in de-
+signing a mechanism for judicial review; it subjects all ad-
+ministrative schemes, and the many businesses and individu-
+als relying on them, to the ever-present risk of disruption.
+On a more technical—but still quite important—level, the
+holding allows parties to put agency action in jeopardy with-
+out suing, or even notifying, the Government. And the
+holding makes more likely that regulated parties will put off
+submitting to lawful agency action, including in areas where
+Congress would have most valued sure and immediate com-
+pliance. In all, the majority's misreading frustrates the
+point of the Act, which is to prevent collateral attacks, possi-
+bly years down the line, on even the most settled administra-
+tive frameworks.
+   First and foremost, the majority's position guts Congress's
+scheme—centered on a 60-day time limit—for ensuring quick
+resolution of challenges to agency action, and repose after
+that. See Corner Post, 603 U. S., at 817 (describing the
+182    McLAUGHLIN CHIROPRACTIC ASSOCIATES, INC.
+                  v. McKESSON CORP.
+                   Kagan, J., dissenting
+
+Hobbs Act's time limit as a “repose provisio[n]”). Under the
+Act, a single circuit court is to resolve all challenges to a
+covered action's validity that are brought within 60 days.
+See §§ 2344, 2112(a). On the 61st day, a challenge is un-
+timely. The idea is to rule on the legal disputes at the be-
+ginning, often with the full range of stakeholders present.
+Once the court of appeals resolves the challenges—up or
+down, valid or invalid—the rules of the road are set. Regu-
+lated parties know what they have to comply with, and also
+what they can rely on. Except that the majority's decision
+today blows all that up. The fnality and certainty of the
+Hobbs Act system will largely evaporate under the constant
+pressure of later enforcement actions. Any party at any
+time in the future—ad infnitum, so to speak—will now be
+able to disrupt even the most solid-seeming regulatory re-
+gimes. Those who complied with the old rules (for example,
+who took advantage of the FCC's safe harbor for certain
+faxes) may become in a moment exposed to liability. No one
+Page Proof Pending Publication
+will know what they can rely on. And so the majority today
+subverts Congress's object. A strict 60-day time limit,
+meant to give stability to the administrative sphere, now be-
+comes a forever-provision, putting everything always up for
+grabs.
+   The majority's holding also will deprive the Government
+of the opportunity to defend agency action. Under the
+Hobbs Act, a person challenging an agency order must sue
+the United States and serve its petition on both the agency
+and the Attorney General. § 2344. Those requirements
+have an obvious purpose: They enable the Government to
+protect its interests by standing up for the order under at-
+tack. See Port of Boston, 400 U. S., at 70; cf. 28 U. S. C.
+§ 2403(a) (similarly requiring notice and an opportunity to
+intervene for the United States in any action challenging a
+statute's constitutionality). But under the majority's re-
+gime, a district court may declare an order invalid in a pri-
+vate suit (or a suit involving a State) that the Government
+has no role in—maybe does not even know about. Here, for
+                   Cite as: 606 U. S. 146 (2025)            183
+
+                      Kagan, J., dissenting
+
+example, McLaughlin's challenge to the Amerifactors order
+arose in a class action not involving the Government. After
+today—and contra the Hobbs Act—a court could sustain such
+a challenge without the FCC having so much as a chance
+to object.
+   Finally, I return to where I started, with a party—let's
+say again, a plutonium shipper—who would prefer to ignore
+an agency order and contest it later (if the Government
+brings an enforcement action). The Hobbs Act, read rightly,
+checks that kind of conduct, by providing for a defnitive rul-
+ing on the order's legality soon after it issues. And it is not
+hard to see why Congress favored that approach. Among
+the agency actions covered are rules governing the NRC's
+licensees—like plutonium shippers or nuclear reactor opera-
+tors. See 42 U. S. C. § 2239. And similarly, orders issued
+by the Secretary of Transportation to address railway safety
+emergencies. 49 U. S. C. §§ 20104(a), 20114(c). In other
+words, agency actions that (assuming they clear judicial re-
+Page Proof Pending Publication
+view) Congress would have wanted regulated parties to com-
+ply with now. But the majority decides today that prompt
+compliance is really just an option. The plutonium ship-
+per can disobey an agency order, knowing that, even in the
+face of a court of appeals decision upholding it, he can later
+seek a different result. The majority responds: No wor-
+ries, because many or most regulated parties will prefer pre-
+enforcement review anyway. See ante, at 167–168. And
+that is right—many or most will. But Congress was enti-
+tled to decide that even a few parties out of compliance with
+an NRC order (until a later enforcement proceeding) were a
+few too many—so that parties should not be given that
+choice. In allowing parties to end-run early judicial review,
+the majority thus fouts the Hobbs Act's design.
+
+                         *      *      *
+  The Hobbs Act gives the courts of appeals “exclusive juris-
+diction” to “determine the validity” of covered agency action.
+Those words mean what they say, or anyway should. They
+184    McLAUGHLIN CHIROPRACTIC ASSOCIATES, INC.
+                  v. McKESSON CORP.
+                   Kagan, J., dissenting
+
+mean that, because the appellate courts' jurisdiction is exclu-
+sive, district courts have no power to make the determina-
+tion anew. Once an agency action has gone through the
+Act's judicial review scheme, the question of the action's va-
+lidity is over. Because the majority today rejects that
+straightforward reading and thereby subverts the Act's op-
+eration, I respectfully dissent.
+
+
+
+
+Page Proof Pending Publication
+                           Reporter’s Note
+
+  The attached opinion has been revised to refect the usual publication
+and citation style of the United States Reports. The revised pagination
+makes available the offcial United States Reports citation in advance of
+publication. The syllabus has been prepared by the Reporter of Decisions
+Page Proof Pending Publication
+for the convenience of the reader and constitutes no part of the opinion of
+the Court. A list of counsel who argued or fled briefs in this case, and
+who were members of the bar of this Court at the time this case was
+argued, has been inserted following the syllabus. Other revisions may
+include adjustments to formatting, captions, citation form, and any errant
+punctuation. The following additional edits were made:
+
+None

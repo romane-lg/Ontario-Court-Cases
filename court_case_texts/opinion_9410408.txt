@@ -1,0 +1,419 @@
+Cite as: 600 U. S. ____ (2023)            1
+
+                   SOTOMAYOR, J., dissenting
+
+SUPREME COURT OF THE UNITED STATES
+                          _________________
+
+                      No. 23–5145 (23A51)
+                          _________________
+
+
+ JAMES EDWARD BARBER v. KAY IVEY, GOVERNOR
+            OF ALABAMA, ET AL.
+ON APPLICATION FOR STAY AND ON PETITION FOR A WRIT OF
+ CERTIORARI TO THE UNITED STATES COURT OF APPEALS
+             FOR THE ELEVENTH CIRCUIT
+                         [July 21, 2023]
+
+   The application for stay of execution of sentence of death
+presented to JUSTICE THOMAS and by him referred to the
+Court is denied. The petition for a writ of certiorari is de-
+nied.
+   JUSTICE SOTOMAYOR, with whom JUSTICE KAGAN and
+JUSTICE JACKSON join, dissenting from the denial of appli-
+cation for stay.
+   Just last year in Alabama, in three consecutive execu-
+tions by lethal injection, prison officials spent multiple
+hours digging for prisoners’ veins in an attempt to set IV
+lines. Two of the men survived and reported experiencing
+extreme pain, including, in one case, nerve pain equivalent
+to electrocution. After those executions failed, the State be-
+gan what it claimed would be a “top-to-bottom” review of its
+lethal injection process. Barber v. Governor of Ala., ___ F.
+4th ___, ___, 2023 WL 4622945, *13 (CA11, July 19, 2023)
+(Pryor, J., dissenting). During this review, conducted by
+the very agency that botched the executions, the State of-
+fered no explanations for the failures and reported “[n]o de-
+ficiencies” in its protocols. Id., at *15.
+   Now, the State seeks to execute James Edward Barber.
+Barber has timely raised an Eighth Amendment method of
+execution claim in federal court, arguing that he will be
+2                      BARBER v. IVEY
+
+                   SOTOMAYOR, J., dissenting
+
+subject to the same fate as last year’s prisoners. Yet Ala-
+bama plans to kill him by lethal injection in a matter of
+hours, without ever allowing him discovery into what went
+wrong in the three prior executions and whether the State
+has fixed those problems. The Eighth Amendment de-
+mands more than the State’s word that this time will be
+different. The Court should not allow Alabama to test the
+efficacy of its internal review by using Barber as its “guinea
+pig.” Id., at *11. It should grant Barber’s application for a
+stay of his execution.
+                                 I
+   Governor Kay Ivey paused executions in Alabama and or-
+dered a review of the State’s execution protocols after three
+lethal injections in a row went wrong. First, in July 2022,
+Joe Nathan James, Jr., was concealed behind a curtain for
+three hours as medical personnel struggled to establish IV
+access. There were no witnesses to what happened other
+than those personnel but a state autopsy revealed James
+had been punctured multiple times, including at both of his
+inner forearms, wrists, and hands, as well as his right foot.
+After the curtain between the execution chamber and the
+observation room finally lifted, observers reported that
+James was nonresponsive. He never spoke the last words
+he had allegedly planned.
+   Alabama next tried to execute Alan Eugene Miller in Sep-
+tember. Beforehand, in an affidavit, the commissioner of
+the Alabama Department of Corrections (ADOC) swore
+that, despite the evident problems with the James execu-
+tion, ADOC was “ ‘ready to carry out [Miller’s] sentence by
+lethal injection.’ ” ___ F. 4th, at ___, 2023 WL 4622945, *20
+(Pryor, J., dissenting). Nevertheless, medical personnel
+spent one and a half hours puncturing both of Miller’s el-
+bows, arms, and his right hand and foot in an attempt to
+establish IV access. Miller reported that a puncture in his
+foot “ ‘caused sudden and severe pain’ ” like he “ ‘had been
+                  Cite as: 600 U. S. ____ (2023)             3
+
+                    SOTOMAYOR, J., dissenting
+
+electrocuted,’ ” likely because attempts to access a vein in
+his foot hit a nerve. Id., at *19. His “ ‘entire body sh[ook]
+in the restraints.’ ” Ibid. Shortly before midnight, when his
+death warrant was set to expire, the execution was called
+off.
+   Just two months later, in November, Alabama tried to ex-
+ecute Kenneth Eugene Smith. Medical personnel spent an
+hour repeatedly puncturing Smith’s elbows, arms, and
+hands in their attempts to locate a vein. Eventually, they
+tilted him upside down, bringing his feet above his head.
+Smith reported that they began injecting an unknown clear
+substance into his neck area. Finally, medical personnel
+attempted a central line procedure, which involves trying
+to insert a longer catheter into a large vein in the torso be-
+fore it enters the heart. The IV team’s move from his ex-
+tremities to his collarbone to attempt the central line pro-
+cedure terrified Smith because he had no idea what was
+happening. The repeated needle insertions in that area felt
+like “ ‘stabbing.’ ” Id., at *13. After the central line proce-
+dure failed, the execution was called off.
+   Four days after Smith’s failed execution, in November
+2022, Governor Ivey paused all executions in Alabama, in-
+cluding Barber’s. Rather than convene an independent in-
+vestigation, as other States had done, see n. 1, infra, the
+Governor asked ADOC (the agency responsible for the
+faulty executions) to conduct a “ ‘top-to-bottom review’ ” of
+the state’s lethal-injection execution process. ___ F. 4th, at
+___, 2023 WL 4622945, *13. A little under three months
+later, ADOC reported that its review was complete. ADOC
+claimed that it was “ ‘as prepared as possible to carry out
+death sentences going forward, consistent with the Consti-
+tution.’ ” 1 App. to Pet. for Cert. 75a. There was no pub-
+lished report. Instead, the ADOC commissioner’s one-and-
+a-half page letter to the Governor, without reporting any
+flaws or explanations for the prior failures, reported
+4                       BARBER v. IVEY
+
+                    SOTOMAYOR, J., dissenting
+
+ADOC’s decision “ ‘to add to its pool of available medical per-
+sonnel for executions,’ ” and that it had “ ‘ordered and ob-
+tained new equipment.’ ” ___ F. 4th, at ___, 2023 WL
+4622945, *14. The commissioner also noted that ADOC
+now had more time to carry out executions. Under new
+rules from the Supreme Court of Alabama, death warrants
+no longer expire at midnight, but instead last as long as a
+“ ‘time frame’ ” set by the Governor permits. Id., at *14, n. 7.
+    On the same day ADOC concluded its review, Governor
+Ivey moved the Alabama Supreme Court for permission to
+set Barber’s execution date. Barber opposed the motion in
+state court and asked for discovery into ADOC’s internal
+review. After the Alabama Supreme Court denied Barber’s
+requests, he filed this case in federal court, alleging that his
+Eighth Amendment rights would be violated if Alabama at-
+tempted to execute him by lethal injection and requesting
+that he instead be executed using nitrogen hypoxia (a state-
+approved alternative), which would not require setting an
+IV line. Five days later, Governor Ivey set the date for Bar-
+ber’s execution on July 20, 2023, which was less than two
+months away.
+    Barber moved for a preliminary injunction and sought in-
+formation about ADOC’s review. He received little re-
+sponse other than assertions of privilege and a cursory
+statement that the review found “ ‘[n]o deficiencies.’ ” 1 App.
+to Pet. for Cert. 175a. The District Court denied Barber’s
+motion and he appealed to the Eleventh Circuit, requesting
+a stay of his execution. The Eleventh Circuit affirmed the
+District Court’s denial of Barber’s motion for a preliminary
+injunction and denied his request for a stay. Judge Jill
+Pryor dissented, arguing that Barber has “raised a serious
+and substantial Eighth Amendment claim that the pattern
+[of botched executions] will continue to repeat itself.” ___
+F. 4th, at ___, 2023 WL 4622945, *25. I agree with her con-
+cerns that ADOC has refused to provide discovery that
+could answer crucial questions about what caused past
+                  Cite as: 600 U. S. ____ (2023)              5
+
+                    SOTOMAYOR, J., dissenting
+
+problems with Alabama’s executions and how any changes
+would address those specific causes.
+                                 II
+   The Eighth Amendment prohibits the infliction of “cruel
+and unusual punishments.” It forbids “ ‘punishments of tor-
+ture, . . . and all others in the same line of unnecessary cru-
+elty,’ ” in which “ ‘terror, pain, or disgrace [are] superadded’
+to the sentence.” Baze v. Rees, 553 U. S. 35, 48 (2008) (plu-
+rality opinion) (quoting Wilkerson v. Utah, 99 U. S. 130,
+135–136 (1879)). A method of execution violates the Eighth
+Amendment when it causes “a ‘ “substantial risk of serious
+harm,” ’ an objectively intolerable risk of harm that pre-
+vents prison officials from pleading that they were ‘ “subjec-
+tively blameless for purposes of the Eighth Amendment.” ’ ”
+Glossip v. Gross, 576 U. S. 863, 877 (2015) (quoting Baze,
+553 U. S., at 50). For instance, “ ‘a series of abortive at-
+tempts [at execution]’ unlike an ‘innocent misadventure,’
+would demonstrate an ‘ “objectively intolerable risk of
+harm” ’ that officials may not ignore.” Id., at 50 (plurality
+opinion) (citation omitted).
+   Barber has alleged that ADOC’s attempt to insert an IV
+line to administer lethal injection presents him with a sub-
+stantial risk of serious harm based on its track record of
+faulty and failed executions. Clearly, something went
+wrong in Alabama in 2022. Although much about what
+happened is still mysterious, the State had “ ‘a series of
+abortive attempts’ ” at execution. Ibid. At the least, medi-
+cal personnel in three consecutive executions spent hours
+repeatedly puncturing prisoners in increasingly painful at-
+tempts to locate a vein for an IV line. They failed entirely
+in two of the three instances, despite likely puncturing at
+least one man’s nerve. Based on the testimony of the sur-
+viving prisoners, these attempts caused “ ‘great pain and
+fear,’ ” ___ F. 4th, at ___, 2023 WL 4622945, *19, over and
+above what anyone should experience from the setting of an
+6                          BARBER v. IVEY
+
+                       SOTOMAYOR, J., dissenting
+
+IV line.
+   Yet the State has never accounted for these issues. There
+is no evidence in the record explaining what may have
+caused such difficulties. Nor is there evidence that the
+State has addressed what went wrong. It has replaced its
+IV team with new members, but revealed nothing about
+how those members are different from or similar to its 2022
+team. It has obtained new medical equipment, which it de-
+scribed in its discovery responses as solely “ ‘[a]dditional
+straps for securing an inmate on the execution gurney.’ ”
+Id., at *14, n. 6. Finally, ADOC has secured several more
+hours in which to carry out its executions. These piecemeal
+changes appear designed only to ensure that ADOC has an
+even greater period of time in which to search the bodies of
+its prisoners for IV access. They do not address the unnec-
+essary pain those prisoners may experience. Indeed, the
+State represented to the District Court that it considered
+James’ execution “successful” solely because ultimately it
+succeeded in killing him. 2 App. to Pet. for Cert. 454a.
+Without any evidence about what went wrong and only the
+State’s word that it has been fixed, Barber’s allegations that
+he will experience the same “needless suffering” as James,
+Miller, and Smith are more than justified.
+   Barber is not to blame for the lack of factual development
+in his case. Alabama, unlike other States that have sought
+to address issues with their lethal injection protocols,1 has
+——————
+  1 In contrast to Alabama’s cursory and largely secret review, other
+
+States facing a similar history of issues with their executions have con-
+ducted thorough investigations resulting in public reports. For example,
+in October 2015, the Oklahoma Attorney General asked for a pause in
+executions. He convened a 77-county grand jury to investigate issues
+with two lethal injection attempts. The grand jury received evidence
+over eight months and issued an over 100-page report detailing specific
+failures with the execution attempts. See Oklahoma Office of the Attor-
+ney General, Press Release, AG Pruitt Announces Conclusion of MCGJ
+Investigation of DOC, Execution Protocol (May 19, 2016). Similarly, in
+May 2022, the Tennessee Governor appointed U. S. Attorney Ed Stanton
+                     Cite as: 600 U. S. ____ (2023)                     7
+
+                       SOTOMAYOR, J., dissenting
+
+conducted a secret, internal review with no published re-
+port or finding. The State has not only failed publicly to
+account for what went wrong, but also actively obstructed
+Barber’s attempts to find out what happened. Because Gov-
+ernor Ivey set Barber’s execution for a date only two months
+after he filed his complaint, discovery was necessarily
+abridged and the State, within that abridged discovery, pro-
+vided hardly any information about its investigation or its
+new process.
+   After an unbroken sequence of faulty executions, Ala-
+bama asks the Court to trust that this time will be different.
+If it takes hours to set Barber’s IV line, like Miller and
+Smith before him, the State may subject Barber to an intol-
+erable level of pain under the Eighth Amendment. If it suc-
+cessfully executes him anyway, like James, it will have
+mooted his claim. The Eighth Amendment does not tolerate
+playing such games with a man’s life. I, like Judge Pryor,
+would stay Barber’s execution for long enough to allow the
+district court to complete full discovery into what went
+wrong with the 2022 executions and what has been done to
+address it. Only then can it make an informed decision
+about the merits of Barber’s Eighth Amendment claim.
+                          III
+  Today’s decision is another troubling example of this
+
+——————
+to conduct an independent review of the State’s execution process. The
+review produced a 166-page independent report that detailed the inves-
+tigation’s methodology and scope, the issues with a specific scheduled
+execution, and detailed findings and recommendations. See Butler Snow
+LLP, Tennessee Lethal Injection Protocol Investigation: Report & Find-
+ings (Dec. 13, 2022). Most recently, in January 2023, the Arizona Gov-
+ernor established a Death Penalty Independent Review Commissioner
+tasked with reviewing the State’s execution protocols after alleged issues
+inserting an IV line during three recent executions. Arizona, Executive
+Order No. 2023–05, Establishing a Death Penalty Independent Review
+Commissioner; see J. Jenkins, States Under Scrutiny for Recent Lethal
+Injection Failures, Arizona Republic (Nov. 22, 2022).
+8                          BARBER v. IVEY
+
+                       SOTOMAYOR, J., dissenting
+
+Court stymying the development of Eighth Amendment law
+by pushing forward executions without complete infor-
+mation. In both Miller and Smith’s cases, this Court issued
+unreasoned orders vacating long, well-reasoned stays is-
+sued by the Eleventh Circuit.2 See Hamm v. Miller, 598
+U. S. ___ (2022); Hamm v. Smith, 598 U. S. ___ (2022). Both
+Miller and Smith argued that Alabama would likely botch
+their execution just as it had botched preceding executions.
+They were both right. Had this Court not vacated the Elev-
+enth Circuit’s stays, perhaps the State would have been
+forced to produce evidence in discovery that could explain
+what kept going wrong and avoided inflicting unnecessary
+pain on these two men.
+   This Court has so prioritized expeditious executions that
+it has disregarded well-reasoned lower court conclusions,
+preventing both the meaningful airing of prisoners’ chal-
+lenges and the development of Eighth Amendment law. Cf.
+United States v. Higgs, 592 U. S. ___ (2021) (SOTOMAYOR,
+J., dissenting) (slip op., at 2) (“The Court has . . . intervened
+to lift stays of execution that lower courts put in place,
+thereby ensuring those prisoners’ challenges [to a new fed-
+eral execution protocol] would never receive a meaningful
+airing”). Unfortunately, lower courts are receiving the mes-
+sage. The Eleventh Circuit here made both factual and le-
+
+——————
+   2 In Miller’s case, the District Court had issued a preliminary injunc-
+
+tion, which the Eleventh Circuit upheld in a 20-page opinion. Miller v.
+Comm’r, Ala. Dept. of Corrections, No. 22–13136, ECF Doc. 19–1, p. 20
+(CA11, Sept. 22, 2022) (per curiam). In Smith’s case, the Eleventh Cir-
+cuit reversed the District Court’s denial of his motion to amend his com-
+plaint in a long, well-reasoned opinion holding that he had stated a plau-
+sible Eighth Amendment claim to relief. Smith v. Comm’r, Alabama
+Dep’t of Corrections, No. 22–13781, 2022 WL 17069492 (CA11 Nov. 17,
+2022) (per curiam), cert. denied, 598 U. S. ___ (2023). Hours later, the
+Eleventh Circuit granted Smith a stay of his execution to allow him to
+pursue that claim. Smith v. Comm’r, Ala. Dept. of Corrections, No. 22–
+13846, ECF Doc. 10–1 (CA11, Nov. 17, 2022).
+                  Cite as: 600 U. S. ____ (2023)            9
+
+                   SOTOMAYOR, J., dissenting
+
+gal errors seemingly based on this Court’s unreasoned va-
+caturs.
+   First, in denying Barber’s request for a stay, the Eleventh
+Circuit emphasized that this Court had previously vacated
+its grant of Smith’s stay. “By vacating the stay,” the panel
+reasoned, “the Supreme Court implicitly told us that the
+balance of equities in Smith weighed in favor of the State’s
+and the victim’s strong interest.” ___ F. 4th, at ___, n. 19,
+2023 WL 4622945, *8, n. 19 (majority opinion). That is
+plainly wrong. Under well-established equitable principles,
+courts evaluating a stay must consider the applicant’s like-
+lihood of success on the merits and potential for irreparable
+injury, as well as other parties’ injury and the public inter-
+est. See Nken v. Holder, 556 U. S. 418, 434 (2009). Barber
+has established a substantial likelihood of success on the
+merits of his claim that he will suffer a substantial risk of
+harm when ADOC attempts to set his IV line. Barber sub-
+mitted evidence that Alabama has subjected three prison-
+ers to unnecessary pain and terror through its struggles to
+set their IV lines during lethal injection executions. The
+State has failed to produce any evidence that it has identi-
+fied or remedied these problems. Additionally, in a capital
+case like Barber’s, where a plaintiff has diligently pursued
+his method-of-execution claim and asked only for an injunc-
+tion that permits an alternative, available method of execu-
+tion, the equities of irreparable harm tip strongly in his fa-
+vor. See Bucklew v. Precythe, 587 U. S. ___, (2019)
+(SOTOMAYOR, J., dissenting) (slip op., at 3) (“[T]he equities
+in a death penalty case will almost always favor the pris-
+oner so long as he or she can show a reasonable probability
+of success on the merits”). For the State, the harm is using
+an alternative method of execution that it has already ap-
+proved. It can still vindicate its interest in enforcing the
+criminal judgment. Far more consequentially for the plain-
+tiff, the potential harm is experiencing excruciating and un-
+necessary pain.
+10                      BARBER v. IVEY
+
+                    SOTOMAYOR, J., dissenting
+
+   Second, the Eleventh Circuit appears to have concluded
+that “repeatedly and futilely pricking an inmate with a nee-
+dle does not rise to an unconstitutional level of pain.” ___
+F. 4th, at ___, n. 20, 2023 WL 4622945, *8, n. 20 (majority
+opinion); see id., at 19 (Pryor, J., dissenting). This Court’s
+precedent forecloses any such categorical rule. Whether a
+given method of execution creates a “substantial risk of se-
+rious harm” is a fact-intensive inquiry. A court must ana-
+lyze whether a given method “ ‘creates a demonstrated risk
+of severe pain’ ” to a particular plaintiff. Glossip, 576 U. S.,
+at 878 (quoting Baze, 553 U. S., at 61 (plurality opinion)).
+Evidence of past faulty or failed executions is relevant to
+that analysis. Id., at 50. So is the potential pain or suffer-
+ing caused by the suggested alternative. See Bucklew v.
+Precythe, 587 U. S. ___, ___ (2019) (slip op., at ___). Here,
+the District Court would have needed several kinds of in-
+formation to assess the risk of serious harm resulting from
+setting an IV line. At a minimum, it had to know ADOC’s
+standard process for setting IV lines, including the exper-
+tise of the team setting the line. For instance, if an IV team
+contains no one with meaningful experience setting hard-
+to-access IV lines, that would be relevant to the risk of se-
+rious harm if the team tries to insert one in any context.
+Only then could it know the impact and relevance of any of
+Barber’s additional risk factors on his potential to experi-
+ence unnecessary pain.
+   The Eleventh Circuit’s categorical rule ignores crucial
+Eighth Amendment questions. How much pain or psycho-
+logical torment amounts to serious harm? How long is too
+long to set an IV line? How many punctures with a needle,
+where, and how deeply, may cause superadded pain? These
+questions require a factual foundation, developed with the
+assistance of medical experts. The answers may be differ-
+ent in different cases, under different protocols, and with
+different people.
+                 Cite as: 600 U. S. ____ (2023)          11
+
+                  SOTOMAYOR, J., dissenting
+
+  If the Court continues to endorse state executions sched-
+uled before meaningful discovery, these questions may
+never be answered. The harm is not speculative. Miller
+and Smith survived to describe the intense fear and pain
+they experienced during Alabama’s tortuous attempts to ex-
+ecute them. This Court’s intervention lifting stays granted
+by the Eleventh Circuit permitted those attempts. This
+Court’s decision denying Barber’s request for a stay allows
+Alabama to experiment again with a human life. I respect-
+fully dissent.

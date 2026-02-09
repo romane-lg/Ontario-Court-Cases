@@ -1,0 +1,184 @@
+Cite as: 601 U. S. ____ (2023)              1
+
+                       ALITO, J., dissenting
+
+SUPREME COURT OF THE UNITED STATES
+                           _________________
+
+                      No. 23A243 (23–411)
+                           _________________
+
+
+  VIVEK H. MURTHY, SURGEON GENERAL, ET AL. v.
+               MISSOURI, ET AL.
+                 ON APPLICATION FOR STAY
+                        [October 20, 2023]
+
+   The application for stay presented to JUSTICE ALITO and
+by him referred to the Court is granted. The preliminary
+injunction issued on July 4, 2023, by the United States Dis-
+trict Court for the Western District of Louisiana, case
+No. 3:22–cv–01213, as modified by the United States Court
+of Appeals for the Fifth Circuit on October 3, 2023, case
+No. 23–30445, is stayed. The application for stay is also
+treated as a petition for a writ of certiorari, and the petition
+is granted on the questions presented in the applica-
+tion. The stay shall terminate upon the sending down of
+the judgment of this Court.
+   JUSTICE ALITO, with whom JUSTICE THOMAS and
+JUSTICE GORSUCH join, dissenting from grant of application
+for stay.
+   This case concerns what two lower courts found to be a
+“coordinated campaign” by high-level federal officials to
+suppress the expression of disfavored views on important
+public issues. Missouri v. Biden, ___ F. 4th ___, ___, 2023
+WL 6425697, *27 (CA5, Oct. 3, 2023). To prevent the con-
+tinuation of this campaign, these officials were enjoined
+from either “coerc[ing]” social media companies to engage
+in such censorship or “active[ly] control[ling]” those compa-
+nies’ decisions about the content posted on their platforms.
+Id., at *7, *15. Today, however, a majority of the Court,
+without undertaking a full review of the record and without
+2                   MURTHY v. MISSOURI
+
+                      ALITO, J., dissenting
+
+any explanation, suspends the effect of that injunction until
+the Court completes its review of this case, an event that
+may not occur until late in the spring of next year. Govern-
+ment censorship of private speech is antithetical to our
+democratic form of government, and therefore today’s deci-
+sion is highly disturbing.
+   This case began when two States, Missouri and Louisi-
+ana, and various private parties filed suit alleging that pop-
+ular social media companies had either blocked their use of
+the companies’ platforms or had downgraded their posts on
+a host of controversial subjects, including “the COVID–19
+lab leak theory, pandemic lockdowns, vaccine side effects,
+election fraud, and the Hunter Biden laptop story.” Id., at
+*1. According to the plaintiffs, Federal Government offi-
+cials “were the ones pulling the strings,” that is, these offi-
+cials “ ‘coerced, threatened, and pressured [the] social-me-
+dia platforms to censor [them].’ ” Ibid. (alteration in
+original). Based on extensive findings of fact that spanned
+82 pages, the District Court held that the plaintiffs were
+likely to be able to prove their claims and were threatened
+with irreparable harm, and it therefore issued a prelimi-
+nary injunction against a number of Executive Branch
+agencies and officials. Missouri v. Biden, ___ F. Supp. 3d
+___, 2023 WL 4335270 (WD La., July 4, 2023).
+   On appeal, the Court of Appeals agreed with the District
+Court’s assessment of the evidence, which, in its words,
+showed the existence of “a coordinated campaign” of un-
+precedented “magnitude orchestrated by federal officials
+that jeopardized a fundamental aspect of American life.”
+Missouri v. Biden, 2023 WL 6425697, *27. The Court of
+Appeals found that “the district court was correct in its as-
+sessment—‘unrelenting pressure’ from certain government
+officials likely ‘had the intended result of suppressing mil-
+lions of protected free speech postings by American citi-
+zens.’ ” Ibid.
+   To stop this “campaign,” the injunction, as it now stands,
+                  Cite as: 601 U. S. ____ (2023)              3
+
+                       ALITO, J., dissenting
+
+prohibits the covered officials from doing two things. First,
+they may not “coerce” social media platforms to make “con-
+tent-moderation decisions.” Id., at *32. Second, they may
+not “meaningfully contro[l]” social media platforms’ “con-
+tent-moderation” efforts. Ibid. Displeased with these re-
+strictions, the Government filed an emergency application
+asking us to stay the effect of this injunction pending certi-
+orari.
+   Under a straightforward application of the test we use in
+deciding whether to grant a stay, the Government’s appli-
+cation should be denied. To obtain a stay pending the dis-
+position of a petition for a writ of certiorari, an applicant
+must show, among other things, “a likelihood that irrepara-
+ble harm will result from the denial of a stay.” Hol-
+lingsworth v. Perry, 558 U. S. 183, 190 (2010) (per curiam).
+A stay is an “extraordinary remedy that may only be
+awarded upon a clear showing that the plaintiff is entitled
+to such relief.” Winter v. Natural Resources Defense Coun-
+cil, Inc., 555 U. S. 7, 22 (2008) (discussing the similar stand-
+ard for an injunction). Thus, the Government in this case
+must make a “clear showing” of irreparable harm. And to
+do that, it is not enough to “simply sho[w] some ‘possibility
+of irreparable injury.’ ” Nken v. Holder, 556 U. S. 418, 434
+(2009). A mere “ ‘possibility’ standard is too lenient.” Id.,
+at 435 (quoting Winter, 555 U. S., at 22). Instead, the Gov-
+ernment must prove that irreparable harm is “likel[y].”
+Hollingsworth, 558 U. S., at 190. Here, the Government’s
+attempts to demonstrate irreparable harm do not come
+close to clearing this high bar.
+   Instead of providing any concrete proof that “harm is im-
+minent,” White v. Florida, 458 U. S. 1301, 1302 (1982)
+(Powell, J., in chambers), the Government offers a series of
+hypothetical statements that a covered official might want
+to make in the future and that, it thinks, might be chilled.
+Application 36–38. But hypotheticals are just that—specu-
+lation that the Government “may suffer irreparable harm
+4                    MURTHY v. MISSOURI
+
+                      ALITO, J., dissenting
+
+at some point in the future,” not concrete proof. White, 458
+U. S., at 1302 (emphasis added). And such speculation does
+not establish irreparable harm. Nken, 556 U. S., at 434; see
+also Clapper v. Amnesty Int’l USA, 568 U. S. 398, 414, n. 5
+(2013) (rejecting similar speculation as insufficient to es-
+tablish an Article III standing injury).
+   Moreover, it does not appear that any of the Govern-
+ment’s hypothetical communications would actually be pro-
+hibited by the injunction. Nor is any such example provided
+by the Court’s unreasoned order. The Government claims
+that the injunction might prevent “the President and the
+senior officials who serve as his proxies” from “speak[ing] to
+the public on matters of public concern.” Application 36;
+accord, id., at 3 (suggesting that the Fifth Circuit’s decision
+implicates “the use of the Office’s bully pulpit to seek to per-
+suade Americans”). The President himself is not subject to
+the injunction, see Missouri v. Biden, 2023 WL 6425697,
+*33, and in any event, the injunction does not prevent any
+Government official from speaking on any matter or from
+urging any entity or person to act in accordance with the
+Government’s view of responsible conduct. The injunction
+applies only when the Government crosses the line and be-
+gins to coerce or control others’ exercise of their free-speech
+rights. Does the Government think that the First Amend-
+ment allows Executive Branch officials to engage in such
+conduct? Does it have plans for this to occur between now
+and the time when this case is decided?
+   Despite the Government’s conspicuous failure to estab-
+lish a threat of irreparable harm, the majority stays the in-
+junction and thus allows the defendants to persist in com-
+mitting the type of First Amendment violations that the
+lower courts identified. The majority takes this action in
+the face of the lower courts’ detailed findings of fact. But
+“[w]here an intermediate court reviews, and affirms, a trial
+court’s factual findings, this Court will not ‘lightly overturn’
+the concurrent findings of the two lower courts.” Easley v.
+                   Cite as: 601 U. S. ____ (2023)              5
+
+                       ALITO, J., dissenting
+
+Cromartie, 532 U. S. 234 (2001); see also Glossip v. Gross,
+576 U. S. 863, 882 (2015); Graver Tank & Mfg. Co. v. Linde
+Air Products Co., 336 U. S. 271, 275 (1949). And the major-
+ity suspends the relief afforded below without a word of ex-
+planation.
+   Applying our settled test for granting a stay, I would deny
+the Government’s application, but I would specify in the or-
+der that in the unlikely event that a concrete occurrence
+presents a risk of irreparable harm, the Government can
+apply for relief at that time, including, if necessary, by filing
+an emergency application here. Such an order would fully
+protect the ability of Executive Branch officials to speak out
+on matters of public concern.
+   At this time in the history of our country, what the Court
+has done, I fear, will be seen by some as giving the Govern-
+ment a green light to use heavy-handed tactics to skew the
+presentation of views on the medium that increasingly dom-
+inates the dissemination of news. That is most unfortu-
+nate.

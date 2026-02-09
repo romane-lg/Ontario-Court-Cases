@@ -1,0 +1,521 @@
+PRELIMINARY PRINT
+
+             Volume 598 U. S. Part 1
+                             Pages 218–229
+
+
+
+
+       OFFICIAL REPORTS
+                                    OF
+
+
+   THE SUPREME COURT
+                               April 18, 2023
+
+
+Page Proof Pending Publication
+
+
+                   REBECCA A. WOMELDORF
+                           reporter of decisions
+
+
+
+
+    NOTICE: This preliminary print is subject to formal revision before
+  the bound volume is published. Users are requested to notify the Reporter
+  of Decisions, Supreme Court of the United States, Washington, D.C. 20543,
+  pio@supremecourt.gov, of any typographical or other formal errors.
+218                       OCTOBER TERM, 2022
+
+                                   Syllabus
+
+
+                 NEW YORK v. NEW JERSEY
+
+   on cross-motions for judgment on the pleadings
+      No. 156, Orig. Argued March 1, 2023—Decided April 18, 2023
+In 1953, New York and New Jersey exercised their authority under Arti-
+  cle I, § 10, of the Constitution to enter into a compact to address corruption
+  at the Port of New York and New Jersey. The Waterfront Commission
+  Compact established a bistate agency known as the Waterfront Commis-
+  sion of New York Harbor, to which the States delegated their sovereign
+  authority to conduct regulatory and law-enforcement activities at the
+  Port. The Compact does not address each State's power to withdraw
+  from the Compact.
+     In 2018, New Jersey sought to unilaterally withdraw from the Com-
+  pact, over New York's opposition. New York fled a bill of complaint in
+  this Court, and the parties then fled cross-motions for judgment on the
+  pleadings, with the United States supporting New Jersey as amicus
+  curiae.
+Held: New Jersey may unilaterally withdraw from the Waterfront Com-
+Page        Proof
+ mission Compact           Pending
+                  notwithstanding               Publication
+                                    New York's opposition.  Pp. 223–229.
+   (a) The interpretation of an interstate compact approved by Congress
+  presents a federal question, see Cuyler v. Adams, 449 U. S. 433, 438, the
+  resolution of which begins with an examination of “the express terms
+  of the Compact,” Tarrant Regional Water Dist. v. Herrmann, 569 U. S.
+  614, 628. Unlike certain other compacts, the Compact here does not
+  address withdrawal.
+     Because the Compact is silent as to unilateral withdrawal, the Court
+  looks to background principles of law that would have informed the par-
+  ties' understanding when they entered the Compact. As relevant here,
+  interstate compacts “are construed as contracts under the principles of
+  contract law.” Ibid. Under the default contract-law rule at the time
+  of the Compact's formation, a contract that contemplates “continuing
+  performance for an indefnite time is to be interpreted as stipulating
+  only for performance terminable at the will of either party.” 1 R. Lord,
+  Williston on Contracts § 4:23, p. 570. Here, the States delegated their
+  sovereign authority to the Commission on an ongoing and indefnite
+  basis. The default contract-law rule therefore “speaks in the silence of
+  the Compact” and indicates that either State may unilaterally withdraw.
+  New Jersey v. New York, 523 U. S. 767, 784.
+     Principles of state sovereignty also support New Jersey's position.
+  “The background notion that a State does not easily cede its sovereignty
+                      Cite as: 598 U. S. 218 (2023)                  219
+
+                                Syllabus
+
+ has informed” this Court's “interpretation of interstate compacts.”
+ Tarrant, 569 U. S., at 631. The nature of the delegation at issue here—
+ delegation of a State's sovereign power to protect the people, property,
+ and economic activity within its borders—buttresses the conclusion that
+ New Jersey can unilaterally withdraw.
+    To be clear, the contract-law rule that governs the Compact here does
+ not apply to other kinds of compacts that do not exclusively call for
+ ongoing performance on an indefnite basis—such as compacts setting
+ boundaries, apportioning water rights, or otherwise conveying property
+ interests. Pp. 223–226.
+    (b) New York's additional arguments in support of its view that the
+ Compact should be read to prohibit unilateral withdrawal are unpersua-
+ sive. First, New York argues that the Court should interpret the 1953
+ Compact in light of pre-1953 compacts that were silent on unilateral
+ withdrawal but were understood to forbid it. But many of those com-
+ pacts concerned boundaries and water-rights allocation—the very kinds
+ of compacts that are not governed by the default contract-law rule au-
+ thorizing unilateral withdrawal. Second, New York invokes interna-
+ tional treaty law, which New York says generally prohibits a signatory
+ nation's unilateral withdrawal from a treaty absent express language
+ otherwise. But international treaty practice, to the extent it is rele-
+Page Proof Pending Publication
+ vant here, is equivocal. Third, New York points to the past practice of
+ the States' resolving Commission-related disputes. But that practice
+ says little about whether either State could unilaterally withdraw.
+ Fourth, New York maintains that the Court's decision will have sweep-
+ ing consequences for interstate compacts generally. But the Court's
+ decision does not address all compacts, and States may propose lan-
+ guage to compacts expressly allowing or prohibiting unilateral with-
+ drawal. Pp. 226–228.
+New Jersey's motion for judgment on the pleadings granted; New York's
+ cross-motion for judgment on the pleadings denied.
+
+  Kavanaugh, J., delivered the opinion for a unanimous Court.
+
+   Judith N. Vale, Deputy Solicitor General of New York, ar-
+gued the cause for plaintiff. With her on the briefs were
+Letitia James, Attorney General of New York, Barbara D.
+Underwood, Solicitor General, Grace X. Zhou and Stephen
+J. Yanni, Assistant Solicitors General, and Helena Lynch,
+Assistant Attorney General.
+   Jeremy M. Feigenbaum, Solicitor General of New Jersey,
+argued the cause for defendant. With him on the briefs
+220                 NEW YORK v. NEW JERSEY
+
+                         Opinion of the Court
+
+were Matthew J. Platkin, Attorney General of New Jersey,
+Sundeep Iyer and Jean P. Reilly, Assistant Attorneys Gen-
+eral, and Emily N. Bisnauth, Amy Chung, Patrick Jhoo, Na-
+thaniel Levy, Vivek N. Mehta, Kristina L. Miles, Daniel
+Resler, Jonathan W. Allen, and Sara M. Gregory, Deputy
+Attorneys General.
+  Austin L. Raynor argued the cause for the United States
+as amicus curiae in support of defendant. With him on
+the brief were Solicitor General Prelogar, Deputy Solicitor
+General Kneedler, Deputy Assistant Attorney General Har-
+rington, Mark B. Stern and Alisa B. Klein.*
+
+  Justice Kavanaugh delivered the opinion of the Court.
+  Under Article I, § 10, of the Constitution, each State pos-
+sesses the sovereign authority to enter into a compact with
+another State, subject to Congress's approval. In 1953,
+New York and New Jersey exercised that authority and en-
+tered into the Waterfront Commission Compact. The Com-
+Page Proof Pending Publication
+pact created a bistate agency to perform certain regulatory
+
+  *Briefs of amici curiae were fled for the State of Oregon by Ellen
+F. Rosenblum, Attorney General of Oregon, Benjamin Gutman, Solicitor
+General, and Peenesh Shah, Assistant Attorney General; for the State of
+Texas et al. by Ken Paxton, Attorney General of Texas, Brent Webster,
+First Assistant Attorney General, Judd E. Stone II, Solicitor General,
+Lanora C. Pettit, Principal Deputy Solicitor General, Benjamin Wallace
+Mendelson, Assistant Solicitor General, and Christopher J. F. Galiardo
+and Cody C. Coll, Assistant Attorneys General, and by the Attorneys Gen-
+eral for their respective States as follows: Treg Taylor of Alaska, Jeff
+Landry of Louisiana, Austin Knudsen of Montana, Aaron Ford of Nevada,
+Alan Wilson of South Carolina, Sean Reyes of Utah, and Jason Miyares
+of Virginia; for Compact Entities by Matthew S. Tripolitsiotis and Rich-
+ard L. Masters; for Law Professors by Jaynee LaVecchia and Michelle
+Pallak Movahed; for the Metropolitan Marine Maintenance Contractors'
+Association by Stephen B. Kinnaird, Igor V. Timofeyev, and Sean D.
+Unger; for Port Businesses et al. by A. Matthew Boxer and McKenzie
+A. Wilson; for the Waterfront Commission of New York Harbor by Seth
+P. Waxman, David M. Lehn, and Edward Williams; and for Jeffrey B.
+Litwak et al. by Scott A. Eisman and David Y. Livshiz.
+                   Cite as: 598 U. S. 218 (2023)           221
+
+                      Opinion of the Court
+
+and law-enforcement functions at the Port of New York and
+New Jersey. In 2018, after concluding that the decades-old
+Compact had outlived its usefulness, New Jersey sought
+to withdraw from the Compact. New York opposes New
+Jersey's withdrawal and contends that the Compact does
+not allow either State to unilaterally withdraw. We hold
+that New Jersey may unilaterally withdraw from the Wa-
+terfront Commission Compact notwithstanding New York's
+opposition.
+                            I
+   In 1951, New York and New Jersey began a joint investi-
+gation of organized crime at the Port of New York and New
+Jersey, a commercial port that spans the border of the two
+States. To address corruption within the labor force on
+both sides of the Port, each State enacted legislation to form
+the Waterfront Commission Compact. See 1953 N. J. Laws
+p. 1511; 1953 N. Y. Laws p. 2417. New York and New Jersey
+Page Proof Pending Publication
+obtained Congress's approval of the Compact in 1953, con-
+sistent with the Compact Clause of the Constitution. Presi-
+dent Eisenhower signed the Compact. See 67 Stat. 541;
+U. S. Const., Art. I, § 10, cl. 3.
+   The Compact established a bistate agency known as the
+Waterfront Commission of New York Harbor. The Commis-
+sion consists of two members, one appointed by the Governor
+of New York and the other by the Governor of New Jersey.
+Through the Compact, New York and New Jersey delegated
+to the Commission their sovereign authority to conduct reg-
+ulatory and law-enforcement activities at the Port. For ex-
+ample, the Compact authorizes the Commission to oversee
+mandatory employment licensing for waterfront workers and
+to conduct law-enforcement investigations at the Port.
+   Under the Compact, New York and New Jersey must
+agree if they want to make any “[a]mendments and supple-
+ments.” Art. XVI(1), 67 Stat. 557. The Compact also rec-
+ognizes Congress's authority to “alter, amend, or repeal” the
+Compact. Art. XVI, § 2, ibid. But the Compact does not
+222              NEW YORK v. NEW JERSEY
+
+                      Opinion of the Court
+
+address each State's power to unilaterally withdraw: It
+neither expressly allows nor expressly proscribes unilateral
+withdrawal.
+   The Compact and Commission have operated for 70 years.
+But as the decades have passed, circumstances at the Port
+have changed. In 1953, roughly 70% of waterfront employ-
+ees worked on the New York side of the Port. But by 2018,
+according to New Jersey, more than 80% of work hours oc-
+curred on the New Jersey side, and more than 80% of the
+Port's cargo fowed through the New Jersey side. New Jer-
+sey also came to view the Commission as ill-equipped to han-
+dle 21st-century security challenges and as a source of over-
+regulation that impedes job growth.
+   In 2018, the New Jersey Legislature passed and Governor
+Christie signed a law to withdraw New Jersey from the Wa-
+terfront Commission Compact. See 2017 N. J. Laws p. 2102.
+The statute required the New Jersey Governor to give 90
+Page Proof Pending Publication
+days' notice of the State's intention to withdraw. Upon
+withdrawal, the Commission would dissolve, and the New
+Jersey State Police would take over the Commission's law-
+enforcement functions on the New Jersey side of the Port.
+   The day after enactment of the withdrawal statute, the
+Commission sued in Federal District Court to stop New Jer-
+sey from unilaterally withdrawing from the Compact. The
+District Court ruled that New Jersey could not unilaterally
+withdraw. Waterfront Comm'n of N. Y. Harbor v. Murphy,
+429 F. Supp. 3d 1 (NJ 2019). But the U. S. Court of Appeals
+for the Third Circuit reversed and ruled in New Jersey's
+favor, determining that state sovereign immunity barred the
+Commission's lawsuit. Waterfront Comm'n of N. Y. Harbor
+v. Governor of New Jersey, 961 F. 3d 234 (2020).
+   In 2021, in the wake of the Third Circuit's decision, Acting
+Governor Oliver announced New Jersey's intent to unilater-
+ally withdraw from the Compact. Before the expected date
+of withdrawal, New York moved in this Court for leave to
+fle a bill of complaint and for a temporary order preventing
+                      Cite as: 598 U. S. 218 (2023)                   223
+
+                          Opinion of the Court
+
+New Jersey's withdrawal. This Court temporarily enjoined
+New Jersey from withdrawing from the Compact pending
+fnal disposition of this case. The Court later granted New
+York's motion for leave to fle a bill of complaint and allowed
+the parties to fle cross-motions for judgment on the plead-
+ings. In this Court, the United States also participated as
+amicus curiae in support of New Jersey's unilateral with-
+drawal from the Compact.
+                              II
+  The question presented is straightforward: Does the Wa-
+terfront Commission Compact allow New Jersey to unilat-
+erally withdraw from the Compact notwithstanding New
+York's opposition? The answer is yes.
+  The interpretation of the Waterfront Commission Com-
+pact—an interstate compact approved by Congress—pre-
+sents a federal question. See Cuyler v. Adams, 449 U. S.
+433, 438 (1981). To resolve the dispute over whether each
+Page Proof Pending Publication
+State may unilaterally withdraw, we “begin by examining
+the express terms of the Compact as the best indication of
+the intent of the parties.” Tarrant Regional Water Dist. v.
+Herrmann, 569 U. S. 614, 628 (2013).
+  Some interstate compacts expressly allow, prohibit, or
+limit unilateral withdrawal.1 But this Compact does not ad-
+dress withdrawal. The Compact mentions neither “with-
+drawal” nor “termination” in any relevant context. The
+Compact provides for amendments, which require both
+States to agree. See Art. XVI(1), 67 Stat. 557. But unilat-
+
+   1
+     See, e. g., Central Interstate Low-Level Radioactive Waste Compact,
+Art. VII(d), 99 Stat. 1870 (1986) (expressly allowing unilateral with-
+drawal); Snake River Compact, Art. XII, 64 Stat. 33 (1950) (expressly
+providing that the compact will remain in force unless terminated by both
+state legislatures and consented to by Congress); New York-New Jersey
+Port Authority Compact, Art. 21, 42 Stat. 179 (1921) (expressly allowing
+unilateral withdrawal within two years of the compact's formation); Dela-
+ware River Basin Compact, Art. 1, § 1.6(a), 75 Stat. 691 (1961) (expressly
+allowing unilateral termination only after 100 years).
+224               NEW YORK v. NEW JERSEY
+
+                      Opinion of the Court
+
+eral withdrawal does not constitute an amendment to the
+Compact and thus does not implicate the amendment provi-
+sion. The Compact also authorizes Congress to “alter,
+amend, or repeal” the Compact. See Art. XVI, § 2, ibid.
+But Congress did not retain an exclusive right to terminate
+the Compact.
+   Because the Compact's text does not address whether a
+State may unilaterally withdraw, we look to background
+principles of law that would have informed the parties' un-
+derstanding when they entered the Compact. This Court
+has long explained that interstate compacts “are construed
+as contracts under the principles of contract law.” Tarrant,
+569 U. S., at 628; see also Alabama v. North Carolina, 560
+U. S. 330, 359 (2010) (Kennedy, J., concurring in part and con-
+curring in judgment); Texas v. New Mexico, 482 U. S. 124,
+128–129 (1987); Green v. Biddle, 8 Wheat. 1, 92 (1823). To
+that end, the Court has looked to “background principles of
+Page Proof Pending Publication
+contract law” to interpret compacts that are silent on a par-
+ticular issue. Mississippi v. Tennessee, 595 U. S. –––, –––
+(2021); see Tarrant, 569 U. S., at 628, 633.
+   To be sure, background rules of contract interpretation
+may not override a compact's terms. Alabama, 560 U. S.,
+at 351–352. This Court has said that a compact “is not just
+a contract,” but also “a federal statute enacted by Congress”
+that preempts contrary state law. Id., at 351; see Tarrant,
+569 U. S., at 627, n. 8. But when the compact does not speak
+to a disputed issue, background contract-law principles have
+informed the Court's analysis.
+   Under the default contract-law rule at the time of the
+Compact's 1953 formation, as well as today, a contract (like
+this Compact) that contemplates “continuing performance
+for an indefnite time is to be interpreted as stipulating only
+for performance terminable at the will of either party.”
+1 R. Lord, Williston on Contracts § 4:23, p. 570 (4th ed. 2022);
+see also, e. g., Restatement (Second) of Contracts § 33, Com-
+                   Cite as: 598 U. S. 218 (2023)            225
+
+                      Opinion of the Court
+
+ment d, p. 94 (1979); 1 S. Williston, Law of Contracts § 38,
+p. 59 (1920); Compania Embotelladora Del Pacifco, S. A. v.
+Pepsi Cola Co., 976 F. 3d 239, 245 (CA2 2020); In re Miller's
+Estate, 90 N. J. 210, 219, 447 A. 2d 549, 554 (1982); Zimco
+Restaurants, Inc. v. Bartenders and Culinary Workers
+Union, Local 340, 165 Cal. App. 2d 235, 240 (1958); Fulghum
+v. Selma, 238 N. C. 100, 103–104, 76 S. E. 2d 368, 370–371
+(1953); Bailey v. S. S. Stafford, Inc., 178 App. Div. 811, 815,
+166 N. Y. S. 79, 82 (1917). Parties to a contract that calls
+for ongoing and indefnite performance generally need not
+continue performance after the contractual relationship has
+soured, or when the circumstances that originally motivated
+the agreement's formation have changed, for example. See
+Delta Servs. & Equip., Inc. v. Ryko Mfg. Co., 908 F. 2d 7, 11
+(CA5 1990); Jespersen v. Minnesota Min. & Mfg. Co., 183 Ill.
+2d 290, 295, 700 N. E. 2d 1014, 1017 (1998).
+   That default contract-law rule—that contracts calling for
+Page Proof Pending Publication
+ongoing and indefnite performance may be terminated by
+either party—supports New Jersey's position in this case.
+Through the Waterfront Commission Compact, New York
+and New Jersey delegated their sovereign authority to the
+Commission on an ongoing and indefnite basis. And the
+Compact contemplates the Commission's exercise of that au-
+thority on an ongoing and indefnite basis. The default
+contract-law rule therefore “speaks in the silence of the
+Compact” and indicates that either State may unilaterally
+withdraw. New Jersey v. New York, 523 U. S. 767, 784 (1998).
+   Principles of state sovereignty likewise support New Jer-
+sey's position. “The background notion that a State does
+not easily cede its sovereignty has informed our interpreta-
+tion of interstate compacts.” Tarrant, 569 U. S., at 631.
+Here, the Compact involves the delegation of a fundamental
+aspect of a State's sovereign power—its ability to protect
+the people, property, and economic activity within its bor-
+ders—to a bistate agency. The nature of that delegation
+226              NEW YORK v. NEW JERSEY
+
+                     Opinion of the Court
+
+buttresses our conclusion that New York and New Jersey did
+not permanently give up, absent the States' joint consent or
+congressional action to terminate the Compact, their author-
+ity to withdraw from the Compact and to exercise those sov-
+ereign police powers at the Port as each State sees ft.
+   We draw further guidance from the fact that, as is undis-
+puted, New York and New Jersey never intended for the
+Compact and Commission to operate forever. See Brief for
+New York 19, 26; Brief for New Jersey 33, n. 8; Tr. of Oral
+Arg. 69, 100–101. Given that the States did not intend for
+the agreement to be perpetual, it would not make much
+sense to conclude that each State implicitly conferred on the
+other a perpetual veto of withdrawal.
+   In sum, background principles of contract law, reinforced
+here by principles of state sovereignty and the fact that the
+States did not intend for the Compact to operate forever,
+indicate that New Jersey may unilaterally withdraw from
+the Waterfront Commission Compact. To be clear, the
+Page Proof Pending Publication
+contract-law rule that we apply today governs compacts (like
+this Compact) that are silent as to unilateral withdrawal and
+that exclusively call for ongoing performance on an indefnite
+basis. But that rule does not apply to other kinds of com-
+pacts that do not exclusively call for ongoing performance
+on an indefnite basis—such as compacts setting boundaries,
+apportioning water rights, or otherwise conveying property
+interests. Both New York and New Jersey agree that
+States may not unilaterally withdraw from compacts that are
+silent as to withdrawal and that set boundaries, apportion
+water rights, or otherwise convey property interests. See
+Brief for New York 3–4, 30, 38; Brief for New Jersey 27–29;
+Tr. of Oral Arg. 30, 44, 55.
+                               III
+  New York advances several additional arguments in sup-
+port of its view that the Compact nonetheless should be read
+to prohibit unilateral withdrawal. But none is persuasive.
+                   Cite as: 598 U. S. 218 (2023)           227
+
+                      Opinion of the Court
+
+   First, New York invokes the history of compacts before
+1953. In New York's view, many pre-1953 compacts were
+silent on unilateral withdrawal but nonetheless were under-
+stood to forbid it. New York says that when States at that
+time wanted to allow unilateral withdrawal, the compacts
+would expressly provide for it. And New York adds
+that we should interpret the 1953 Compact in light of that
+practice.
+   As New York acknowledges, however, many of those pre-
+1953 compacts concerned boundaries and water-rights alloca-
+tion. See Brief for New York 3–4, 30; Tr. of Oral Arg. 30, 33.
+Those compacts, as we have explained, are not governed by
+the default contract-law rule authorizing unilateral with-
+drawal. New York offers no persuasive evidence that the
+background understanding of withdrawal from boundary and
+water-rights compacts also applied to compacts that exclu-
+sively call for ongoing performance on an indefnite basis by
+Page Proof Pending Publication
+an interstate agency. Indeed, just three years before the
+Compact here was formed, the United States explained to
+this Court that a compacting State could unilaterally with-
+draw from a compact that was silent as to withdrawal and
+that required an ongoing and indefnite exercise of sovereign
+authority. See Brief for United States in West Virginia ex
+rel. Dyer v. Sims, O. T. 1950, No. 147, pp. 23–24, 26–27. In
+addition, New York overlooks that some compacts, including
+one formed three years before this Compact, expressly pro-
+hibited unilateral withdrawal. See Snake River Compact,
+Art. XII, 64 Stat. 33; see also, e. g., Goose Lake Basin Com-
+pact, Arts. V, VII(B), 98 Stat. 292 (1984). That language
+would have been unnecessary if New York were correct
+about the pre-1953 practice.
+   In short, New York identifes no clear historical practice
+in support of its view that compacts calling for ongoing and
+indefnite performance and that were silent on withdrawal
+were understood as of 1953 to prohibit unilateral withdrawal.
+228               NEW YORK v. NEW JERSEY
+
+                       Opinion of the Court
+
+   Second, New York invokes international treaty law. Ac-
+cording to New York, international law generally prohibits a
+signatory nation's unilateral withdrawal from a treaty absent
+express language otherwise. But to the extent that interna-
+tional treaty practice is relevant here, it is equivocal. Schol-
+ars have “long debated” whether nations may unilaterally
+withdraw from treaties that do not expressly authorize with-
+drawal. L. Helfer, Exiting Treaties, 91 Va. L. Rev. 1579,
+1592 (2005). And although the Vienna Convention on the
+Law of Treaties (to which the United States is not a party)
+provides that nations generally may not withdraw from a
+treaty absent express authorization, the Convention ac-
+knowledges that the nature of the treaty may nonetheless
+imply a right of withdrawal. Art. 56(1), May 23, 1969, 1155
+U. N. T. S. 331; see also J. Brierly, The Law of Nations 240
+(4th ed. 1949).
+   Third, New York points out that New York and New
+Jersey have resolved Commission-related disputes in the
+Page Proof Pending Publication
+decades since 1953. According to New York, that practice
+suggests that the Compact prohibits unilateral withdrawal.
+But the States' past success in resolving disputes says little
+about whether New York or New Jersey could unilaterally
+withdraw if and when either State wanted to do so.
+   Fourth, New York argues that allowing New Jersey to
+withdraw would have sweeping consequences for interstate
+compacts generally. But our decision today only addresses
+a compact that (i) is silent on unilateral withdrawal; (ii) calls
+for ongoing and indefnite performance; and (iii) does not
+set boundaries, apportion water rights, or otherwise convey
+property interests. Moreover, for any current and future
+compacts, States can propose language expressly allowing or
+prohibiting unilateral withdrawal if they wish to do so.
+
+                         *      *     *
+  New Jersey may unilaterally withdraw from the Water-
+front Commission Compact notwithstanding New York's op-
+                 Cite as: 598 U. S. 218 (2023)                 229
+
+                    Opinion of the Court
+
+position. We therefore grant New Jersey's motion for judg-
+ment on the pleadings and deny New York's cross-motion.
+                                                 It is so ordered.
+
+
+
+
+Page Proof Pending Publication
+                           Reporter’s Note
+
+  The attached opinion has been revised to refect the usual publication
+and citation style of the United States Reports. The revised pagination
+makes available the offcial United States Reports citation in advance of
+publication. The syllabus has been prepared by the Reporter of Decisions
+Page Proof Pending Publication
+for the convenience of the reader and constitutes no part of the opinion of
+the Court. A list of counsel who argued or fled briefs in this case, and
+who were members of the bar of this Court at the time this case was
+argued, has been inserted following the syllabus. Other revisions may
+include adjustments to formatting, captions, citation form, and any errant
+punctuation. The following additional edits were made:
+
+None

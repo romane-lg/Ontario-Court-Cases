@@ -1,0 +1,269 @@
+Cite as: 598 U. S. ____ (2023)            1
+
+                   SOTOMAYOR, J., dissenting
+
+SUPREME COURT OF THE UNITED STATES
+      KEVIN B. BURNS v. TONY MAYS, WARDEN
+   ON PETITION FOR WRIT OF CERTIORARI TO THE UNITED
+    STATES COURT OF APPEALS FOR THE SIXTH CIRCUIT
+              No. 22–5891. Decided April 24, 2023
+
+   The petition for a writ of certiorari is denied.
+   JUSTICE SOTOMAYOR, with whom JUSTICE KAGAN and
+JUSTICE JACKSON join, dissenting from the denial of certio-
+rari.
+   Petitioner Kevin Burns, a defendant sentenced to death
+for felony murder, brought a 28 U. S. C. §2254 petition
+claiming inadequate assistance of counsel at the penalty
+phase of his trial. Burns asserts that counsel failed to pre-
+sent mitigating evidence tending to show that he did not
+shoot either of the two victims killed during a robbery in
+which he participated. Such evidence does not bear on
+Burns’ guilt, since his participation in the underlying rob-
+bery suffices to render him guilty of felony murder. Evi-
+dence that Burns did not pull the trigger, however, was
+plainly relevant to the jury’s determination whether to sen-
+tence him to death. The Sixth Circuit avoided this obvious
+conclusion only by mischaracterizing Burns’ claim as being
+about counsel’s failure to introduce residual doubt evidence
+(i.e., evidence that Burns was not, in fact, guilty of felony
+murder). From there, the Sixth Circuit concluded that the
+claim must fail because this Court has never established a
+right to introduce residual doubt evidence at sentencing.
+   Burns argues, and the State does not contest, that the
+Sixth Circuit’s analysis turned on two erroneous legal as-
+sumptions and clearly conflicts with several decisions of
+this Court. Burns asks this Court to take summary action
+to correct these fundamental legal errors so that his claim
+may be fairly considered before the State executes him. The
+2                      BURNS v. MAYS
+
+                   SOTOMAYOR, J., dissenting
+
+Court, however, declines to intervene. I would summarily
+vacate the error-laden (and precedential) decision below
+and remand for further consideration of Burns’ claim. I re-
+spectfully dissent from the Court’s failure to do so.
+   When Burns was 22 years old, he was part of a group of
+six young men that confronted and robbed another group of
+four young men sitting in a car. During the conflict, shots
+were fired into the car, killing two and severely injuring a
+third. No definitive narrative emerged regarding who had
+shot the victims. Prosecutors eventually charged three of
+the six men, including Burns, with premeditated murder
+and felony murder. In separate trials, juries convicted
+Burns’ codefendants of felony murder only and sentenced
+both to life in prison. Burns’ trial followed.
+   The jury acquitted Burns of premeditated murder but
+convicted him of two counts of felony murder, one for each
+of the men killed. To convict Burns of felony murder, the
+jury had to find only that he participated in the robbery; the
+jury did not need to decide who shot the victims. See Tenn.
+Code Ann. §§39–11–402(2), 39–13–202(a)(2) (1991). Be-
+cause his felony-murder convictions made him eligible for a
+death sentence, §39–13–202(b), however, the jury had to de-
+cide at the penalty phase of trial whether to sentence Burns
+to death or life in prison.
+   At the penalty phase, capital defendants have a right to
+present any relevant mitigating evidence, including evi-
+dence regarding the “ ‘circumstances of the offense.’ ” Ed-
+dings v. Oklahoma, 455 U. S. 104, 110 (1982) (quoting Lock-
+ett v. Ohio, 438 U. S. 586, 604 (1978) (plurality opinion)).
+Such evidence may be particularly important for a defend-
+ant facing death for felony murder, because a jury’s penalty-
+phase assessment of culpability will often turn on the de-
+fendant’s particular role and mental state during the of-
+fense. See Tison v. Arizona, 481 U. S. 137, 156–158 (1987).
+   Here, the State argued, based on testimony from two eye-
+witnesses, that Burns had shot Damond Dawson, one of the
+                  Cite as: 598 U. S. ____ (2023)            3
+
+                   SOTOMAYOR, J., dissenting
+
+two men killed. While the jury did not convict Burns of pre-
+meditated murder, this evidence was doubtless salient at
+the penalty phase. For it is self-evident that concerns that
+Burns killed someone would weigh heavily on the jurors’
+evaluation of what punishment was warranted. This is es-
+pecially obvious here, as the only evidence in aggravation
+that the State introduced was related to the two deaths.
+   Yet penalty-phase counsel did nothing to challenge the
+State’s narrative on this life-or-death question. This failure
+was particularly egregious, as Burns, in state postconvic-
+tion proceedings, demonstrated that counsel could have
+done so by offering powerful impeachment evidence of the
+two eyewitnesses and introducing evidence that Burns did
+not shoot Dawson. One of the eyewitnesses was the person
+who was shot, but survived. He had earlier testified at the
+trial of one of the codefendants that it was the codefendant
+who shot both him and Dawson, saying nothing about
+Burns. When he instead identified Burns as the shooter at
+Burns’ trial, counsel did not impeach him with his prior tes-
+timony, despite being aware of it. The other eyewitness, a
+neighbor, was prompted by defense counsel’s cross-exami-
+nation to make a courtroom identification of Burns based
+on his appearance and the Jheri curl hairstyle he had at the
+time of trial. Defense counsel could have, but did not, call
+witnesses to testify to a critical fact: While some of the six
+men had Jheri curls at the time of the crime, Burns, who
+had very short hair then, did not. Nor did counsel present
+testimony that Burns looked similar to (and had the same
+first name as) another member of the group of six, who was
+actually the one to instigate the conflict, with a key differ-
+ence being that, unlike Burns, the instigator had a Jheri
+curl at the time of the crime. In fact, counsel failed to ob-
+serve that police statements taken from members of the six
+indicated that it was this other man, and not Burns, who
+had initially approached the vehicle.
+   In case there was any doubt about the role the eyewitness
+4                      BURNS v. MAYS
+
+                   SOTOMAYOR, J., dissenting
+
+testimony played, the jury’s decision should put it to rest.
+The jury sentenced Burns to death on the count connected
+to Dawson. It sentenced him to life in prison for the other
+count related to the victim he was not alleged to have shot.
+The Tennessee Court of Criminal Appeals (TCCA) affirmed
+the convictions and death sentence on appeal.
+   In his state postconviction petition, Burns asserted that
+his penalty-phase counsel was ineffective for the reasons
+above. In just one paragraph, the TCCA rejected the claim
+for lack of prejudice, concluding that Burns “cannot estab-
+lish that his sentence would have been different.” App. to
+Pet. for Cert. 197. The court reasoned there could be no
+prejudice because, even if Burns did not shoot Dawson, the
+record supported an alternative basis for the State’s alleged
+aggravating factor “of creating a great risk of death to two
+or more persons.” Ibid. That reasoning completely over-
+looks, however, that Burns had a right to introduce mitigat-
+ing factors. Evidence that he did not shoot Dawson would
+have been vital in this regard.
+   Burns then raised his claim in a federal §2254 petition.
+Applying the Antiterrorism and Effective Death Penalty
+Act of 1996 (AEDPA), the District Court denied the claim
+after determining that the TCCA’s prejudice determination
+was entitled to deference. Id., at 114. The District Court,
+recognizing that reasonable jurists could disagree on this
+point, granted a certificate of appealability. Id., at 154.
+   The Sixth Circuit affirmed. 31 F. 4th 497 (2022). Unlike
+the District Court, the Sixth Circuit did not rely on the
+TCCA’s prejudice decision. Instead, the Sixth Circuit held
+that Burns’ claim failed because he could not show that pen-
+alty-phase counsel acted deficiently in the first place.
+   The Sixth Circuit’s deficiency analysis rested on two fun-
+damental errors of law. The first occurred when the Sixth
+Circuit sua sponte recharacterized Burns’ claim as being
+about nothing more than “ ‘residual doubt’ ” evidence. Id.,
+at 503 (quoting Oregon v. Guzek, 546 U. S. 517, 525 (2006)).
+                  Cite as: 598 U. S. ____ (2023)             5
+
+                    SOTOMAYOR, J., dissenting
+
+That term refers to evidence that is “introduce[d] at sen-
+tencing” with the purpose of “cast[ing] ‘residual doubt’ on
+[the defendant’s] guilt of the basic crime of conviction.” Id.,
+at 525. The second occurred when the Sixth Circuit con-
+cluded that Burns’ claim, so understood, “necessarily fails”
+because this Court has not established a “right to present
+residual doubt evidence at sentencing.” 31 F. 4th, at 503.
+   The error in the Sixth Circuit’s decision leaps off the
+page. Evidence that Burns did not shoot the victim is not,
+of course, mere residual doubt evidence. Because Burns
+was convicted of felony murder, the jury did not have to find
+that he shot anyone in order to convict him. Thus, evidence
+that he was not the shooter goes to the circumstances of the
+felony murder and his level of culpability, rather than guilt.
+In other words, such evidence concerns “how, not whether,
+[Burns] committed the crime,” a typical focus of sentencing.
+Guzek, 546 U. S., at 524. This glaring mistake, confusing
+evidence about the circumstances of the offense with resid-
+ual doubt evidence, deprived Burns of his last chance to de-
+fend his constitutional right to introduce mitigation evi-
+dence that could have spared his life. See Eddings, 455
+U. S., at 110.
+   Further, even holding fixed the Sixth Circuit’s erroneous
+“residual doubt” characterization, the decision below rests
+on yet another fundamental error. The Sixth Circuit rea-
+soned that because this Court has not recognized a right to
+introduce residual doubt evidence at the penalty phase, the
+failure to do so could not be deficient performance under
+Strickland v. Washington, 466 U. S. 668 (1984). This rea-
+soning assumes, incorrectly, that only failures to advance
+or protect federally recognized rights can be deficient. Be-
+cause deficiency for purposes of Strickland is measured by
+“an objective standard of reasonableness,” id., at 688, fed-
+eral ineffective-assistance-of-counsel claims can also be
+based on failures under state law. See, e.g., Hinton v. Ala-
+6                       BURNS v. MAYS
+
+                    SOTOMAYOR, J., dissenting
+
+bama, 571 U. S. 263, 275 (2014) (per curiam) (counsel’s fail-
+ure to “understand the resources that state law made avail-
+able to him” was deficient); Kimmelman v. Morrison, 477
+U. S. 365, 385 (1986) (counsel was deficient for failing to re-
+quest discovery permitted under state law).
+  Because the Sixth Circuit overlooked this fact, it never
+considered whether Tennessee law might guarantee a right
+to introduce residual doubt evidence at the penalty phase.
+This is a critical omission because, as Burns made the Sixth
+Circuit aware, Tennessee allows for introduction of residual
+doubt evidence at sentencing and such a right was recog-
+nized at the time of his trial. See, e.g., State v. Teague, 897
+S. W. 2d 248, 256 (1995) (“Evidence otherwise admissible
+under the pleadings and applicable rules of evidence, is not
+rendered inadmissible because it may show that the defend-
+ant did not kill the victim, so long as it is probative on the
+issue of the defendant’s punishment”).
+  In his petition for certiorari, Burns asks this Court for
+summary action to correct the serious legal errors below.
+The State, tellingly, does not defend the indefensible. In-
+stead, essentially conceding that the Sixth Circuit erred,
+the State tries to shift attention away from the actual rul-
+ing on review by arguing that any action would be “futile”
+because, on remand, Burns “would not be able to overcome
+the heavy deference that must be paid to the state court’s
+prejudice findings.” Brief in Opposition 2.
+  Burns argued before the Sixth Circuit, however, that the
+TCCA itself committed two clear errors of law in its preju-
+dice analysis, such that no AEDPA deference is owed under
+§2254(d)(1). First, Burns argued that because the TCCA
+considered only whether evidence that he did not shoot
+Dawson would have impacted the jury’s finding of the stat-
+utory aggravating factor, without considering how it would
+have impacted the jury’s assessment of mitigation, its deci-
+sion is contrary to clearly established law, which also re-
+quires asking whether “the available mitigating evidence,
+                  Cite as: 598 U. S. ____ (2023)            7
+
+                   SOTOMAYOR, J., dissenting
+
+taken as a whole, ‘might well have influenced the jury’s ap-
+praisal’ of [his] moral culpability.” Wiggins v. Smith, 539
+U. S. 510, 538 (2003) (emphasis added). Second, Burns ar-
+gued that the TCCA applied an overly demanding prejudice
+standard, ignoring that prejudice requires only “ ‘a reason-
+able probability that, but for counsel’s unprofessional er-
+rors, the result of the proceeding would have been differ-
+ent.’ ” Rompilla v. Beard, 545 U. S. 374, 390 (2005); Cf.
+Vasquez v. Bradshaw, 345 Fed. Appx. 104, 112 (CA6 2009)
+(no AEDPA deference owed because the state court “actu-
+ally describe[d] and appl[ied] a different [prejudice] stand-
+ard”). The Sixth Circuit never considered these arguments
+because of its erroneous deficiency analysis.
+  The Court’s decision to deny certiorari means that Burns
+now faces execution despite a very robust possibility that
+he did not shoot Dawson but that the jurors, acting on in-
+complete information, sentenced him to death because they
+thought he had. The Court’s failure to act is disheartening
+because this case reflects the kind of situation where the
+Court has previously found summary action appropriate:
+The relevant facts are not in dispute, and the decision below
+clearly conflicts with settled law of this Court on an im-
+portant matter. The need for action is great because Burns
+faces the ultimate and irrevocable penalty of death. With
+so much at stake, I would vacate the decision below and re-
+mand. Because the Court refuses to do so, the indefensible
+decision below will be the last for Burns. I respectfully dis-
+sent.

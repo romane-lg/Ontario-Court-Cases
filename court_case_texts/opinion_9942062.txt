@@ -1,0 +1,168 @@
+Cite as: 601 U. S. ____ (2024)            1
+
+                     Statement of ALITO, J.
+
+SUPREME COURT OF THE UNITED STATES
+   MISSOURI DEPARTMENT OF CORRECTIONS v.
+                JEAN FINNEY
+  ON PETITION FOR WRIT OF CERTIORARI TO THE COURT OF
+        APPEALS OF MISSOURI, WESTERN DISTRICT
+             No. 23–203.   Decided February 20, 2024
+
+   The petition for a writ of certiorari is denied.
+   Statement of JUSTICE ALITO respecting the denial of cer-
+tiorari.
+   I agree that we should not grant certiorari in this case,
+which is complicated by a state-law procedural issue. But I
+write because I am concerned that the lower court’s reason-
+ing may spread and may be a foretaste of things to come.
+   In this case, the court below reasoned that a person who
+still holds traditional religious views on questions of sexual
+morality is presumptively unfit to serve on a jury in a case
+involving a party who is a lesbian. That holding exemplifies
+the danger that I anticipated in Obergefell v. Hodges, 576
+U. S. 644 (2015), namely, that Americans who do not hide
+their adherence to traditional religious beliefs about homo-
+sexual conduct will be “labeled as bigots and treated as
+such” by the government. Id., at 741 (dissenting opinion).
+The opinion of the Court in that case made it clear that the
+decision should not be used in that way, but I am afraid that
+this admonition is not being heeded by our society.
+   This case is about Missouri’s for-cause dismissal of two
+jurors based on their religious beliefs.      Jean     Finney
+sued her employer, the Missouri Department of Correc-
+tions, in state court under the Missouri Human Rights Act,
+which prohibits employment discrimination on the basis of
+sex. See Mo. Rev. Stat. §213.055 (Cum. Supp. 2022). “Fin-
+ney alleged that she is a lesbian who presents masculine”
+2        MISSOURI DEPARTMENT OF CORRECTIONS v.
+                          FINNEY
+                    Statement of ALITO, J.
+
+and that “she was improperly stereotyped and discrimi-
+nated against based on sex.” App. to Pet. for Cert. 67a.
+   At the beginning of voir dire, Finney’s attorney asked all
+the jurors what he characterized as “a tricky question,”
+namely, whether any of them “went to a conservative Chris-
+tian church” where “it was taught that people [who] are ho-
+mosexua[l] shouldn’t have the same rights as everyone else”
+because “what they did” was “a sin.” Id., at 29a–30a. The
+question was indeed “tricky” because it conflated two sepa-
+rate issues: whether the prospective jurors believed that ho-
+mosexual conduct is sinful and whether they believed that
+gays and lesbians should not enjoy the legal rights pos-
+sessed by others. In response to this question, some poten-
+tial jurors raised their hands, and Finney’s lawyer then
+questioned them individually.
+   During this phase of voir dire, Juror 4, a pastor’s wife,
+stated that “homosexuality, according to the Bible, is a sin.”
+Id., at 38a. But she quickly added: “So is gossiping, so is
+lying.” Ibid. “[N]one of us can be perfect. And so I’m here
+because it’s an honor to sit in here and to perhaps be a part
+of, you know, a civic duty.” Ibid.
+   Juror 13 similarly stated that he believes homosexuality
+is a sin because “it’s in the Bible.” Id., at 33a. But he fol-
+lowed by noting that “every one of us here sins. . . . It’s just
+part of our nature. And it’s something we struggle with,
+hopefully throughout our life.” Id., at 33a–34a. And the
+fact that it is a sin “has really nothing to do with—in a neg-
+ative way with whatever this case is going to be about.” Id.,
+at 34a.
+   Finney’s counsel moved to strike these jurors for cause,
+arguing that “there’s no way . . . somebody [who] looks at a
+gay person and says . . . you are a sinner” could ever fairly
+consider a case involving a lesbian plaintiff. Id., at 43a.
+The trial judge granted that motion. She noted that both
+jurors said “that they could follow the law,” id., at 45a, and
+                    Cite as: 601 U. S. ____ (2024)                  3
+
+                        Statement of ALITO, J.
+
+she did not suggest that she disbelieved them. Neverthe-
+less, she concluded that she should “err on the side of cau-
+tion,” and she therefore dismissed Jurors 4 and 13 because
+there were “enough jurors left” without them. Ibid.
+   The Missouri Court of Appeals affirmed the dismissals
+for two reasons. First, it reasoned that the jurors’ belief
+“that Finney’s conduct was sinful (meaning immoral and
+wrong)” provided a sustainable ground for “concluding that
+they could not impartially and fairly decide her claim that
+she was unlawfully harassed due to her homosexuality—
+even if those veniremembers claimed that their religious
+beliefs would not prevent them from serving.” Id., at 78a.
+   Second, the court concluded that the jurors had been dis-
+missed, not on the basis of their religious status, but on the
+basis of their religious beliefs. And this distinction, it said,
+made all the difference because, in its view, while dismis-
+sals based on a juror’s “status as Christians” must comport
+with strict scrutiny, dismissals based on a juror’s “views”
+need not. Id., at 81a.
+   Before us, the Department of Corrections argues that
+these for-cause dismissals were unconstitutional, and I
+agree that the Court of Appeals’ reasoning raises a very se-
+rious and important question that we should address in an
+appropriate case. The judiciary, no less than the other
+branches of State and Federal Government, must respect
+people’s fundamental rights, and among these are the right
+to the free exercise of religion and the right to the equal
+protection of the laws. When a court, a quintessential state
+actor, finds that a person is ineligible to serve on a jury be-
+cause of his or her religious beliefs, that decision implicates
+fundamental rights.
+   Under the Free Exercise Clause, state actions that “sin-
+gle out the religious for disfavored treatment” must survive
+“the ‘most rigorous’ scrutiny.”* Trinity Lutheran Church of
+——————
+ *The Department of Corrections relies on the Equal Protection Clause,
+4         MISSOURI DEPARTMENT OF CORRECTIONS v.
+                           FINNEY
+                     Statement of ALITO, J.
+
+Columbia, Inc. v. Comer, 582 U. S. 449, 460, 466 (2017)
+(quoting Church of Lukumi Babalu Aye, Inc. v. Hialeah, 508
+U. S. 520, 546 (1993)). And that is true regardless of
+whether the differential treatment is predicated on reli-
+gious status or religious belief. Cf. Carson v. Makin, 596
+U. S. 767, 786 (2022). Our precedents make it clear that
+distinctions based on “religious beliefs,” no less than distinc-
+tions based on religious status, must “advance ‘interests of
+the highest order’ and must be narrowly tailored in pursuit
+of those interests.” Lukumi, 508 U. S., at 532, 546 (empha-
+sis added).
+   Under Missouri law, “[t]he standard for determining
+whether a juror should be excused for cause is whether his
+or her views would ‘prevent or substantially impair’ the per-
+formance of duties as a juror.” State v. Ramsey, 864 S. W.
+2d 320, 336 (1993) (quoting State v. McMillin, 783 S. W. 2d
+82, 91 (1990)). If a court has a sound basis for concluding
+that a particular juror’s beliefs would “prevent or substan-
+tially impair” his or her ability to render impartial justice,
+dismissal for cause clears that high bar. “The Constitution
+guarantees both criminal and civil litigants a right to an
+impartial jury.” Warger v. Shauers, 574 U. S. 40, 50 (2014).
+So a court has an indisputably significant “interest in [seat-
+ing] a . . . jury that can properly and impartially apply the
+law to the facts of the case.” Lockhart v. McCree, 476 U. S.
+162, 175 (1986). Jurors are duty-bound to decide cases
+based on the law and the evidence, and a juror who cannot
+carry out that duty may properly be excused. But other-
+wise, I see no basis for dismissing a juror for cause based on
+religious beliefs.
+   I would vote to grant review in this case were it not for
+——————
+but as the Court has done in prior cases involving claims of religious dis-
+crimination, I would analyze the claim here under the Free Exercise
+Clause. See Locke v. Davey, 540 U. S. 712, 720, n. 3 (2004); Johnson v.
+Robison, 415 U. S. 361, 375, n. 14 (1974); McDaniel v. Paty, 435 U. S. 618
+(1978).
+                  Cite as: 601 U. S. ____ (2024)            5
+
+                     Statement of ALITO, J.
+
+the fact that the Court of Appeals concluded that the De-
+partment of Corrections did not properly preserve an objec-
+tion to dismissal of the two potential jurors and, thus, that
+their dismissal was reviewable under state law only for
+plain error. Because this state-law question would compli-
+cate our review, I reluctantly concur in the denial of certio-
+rari.
