@@ -1,0 +1,2068 @@
+ontario court of justice
+citation:
+r. v. kikiantonis
+, 2025 oncj 399
+date:
+2025 07 28
+court
+file no.:  toronto
+24-48110427
+between:
+his
+majesty the king
+— and
+—
+john kikiantonis
+charter
+of rights and freedoms
+application
+sections
+7, 8, 9, 10(b), and 12
+appropriate
+remedy
+sections
+24(1) and (2)
+before
+justice brock jones
+heard
+on may 26 – 30, june 2 – 3, 6, and july 15, 2025
+reasons
+for judgment released on july 28, 2025
+s. andersen......................................................................................... counsel
+for the crown
+d. paradkar.................................................................................... counsel
+for j. kikiantonis
+jones j.:
+introduction
+john kikiantonis was arrested on may 8, 2023, and charged with
+four firearms-related offences. acting on information received from two
+confidential sources (“cs”), toronto police service (“tps”) officers arrested
+him in the backseat of a vehicle after he left his apartment building. he was
+searched, and a loaded prohibited firearm was found in his possession along
+with a digital scale containing white residue and some plastic baggies.
+mr. paradkar filed an application alleging that mr. kikiantonis'
+section
+7
+,
+8
+,
+9
+, and
+12
+charter
+rights were violated during his arrest, search
+incident to the arrest, and a series of strip searches that occurred at the
+scene and while being processed at 11 division. mr. kikiantonis seeks a stay of
+proceedings pursuant to
+charter
+section 24(1) or the exclusion of
+evidence in accordance with
+section 24(2)
+. the crown opposes the application. the
+trial proper and this
+charter
+motion were heard together.
+the arrest and searches of mr. kikiantonis were warrantless, and
+thus the crown bears the onus of establishing that they were lawful.
+after mr. kikiantonis’ arrest, the police obtained a search
+warrant for his apartment. the information to obtain (“ito”) the search warrant
+was almost entirely based on conversations an officer had with two confidential
+sources. to protect the identities of confidential sources while meeting its
+disclosure obligations, the crown released redacted copies of the officers’
+notes, the search warrant, and ito to the defence. one of the investigating officers,
+dc sgroi, testified that he relied on the same confidential source information contained
+in the ito when determining whether there were grounds to arrest mr. kikiantonis,
+as he was privy to that information beforehand.
+when an arrest is made based on a tip from a confidential source,
+the reliability of the information provided to the investigating police force must
+be carefully examined. the trial judge must assess whether the information was
+compelling, credible, and corroborated by the police: see
+r. v. debot
+,
+1989 canlii 13 (scc)
+. the crown chose to invoke the step 6 procedure from
+r.
+v. garofoli,
+1990 canlii 52 (scc)
+, to permit me to consider the information
+provided by the confidential sources that lay behind the redactions, in support
+of its argument that the arrest was lawful. ms. andersen also offered a draft
+judicial summary of the contents of the redacted material, in an attempt to
+comply with the requirements established by the court of appeal in
+r. v.
+crevier,
+2015 onca 619
+.
+following a hearing, i issued an unpublished ruling in which i determined
+that the requirements of step 6 were not met. i would not consider the redacted
+portions of the ito addressing confidential source information unless
+additional details were disclosed to comply with
+crevier
+. i will not
+comment further on that ruling in this reported decision, except to state that
+a second judicial summary that the crown proposed was also deemed inadequate.
+ms. andersen chose to continue with the prosecution. she
+maintained that she could still demonstrate the lawfulness of the arrest and
+search of mr. kikiantonis based on the totality of the admissible evidence that
+remained, including the available portions of the ito that i could consider. therefore,
+she relied on the information available to the court at step 5 of the
+garofoli
+process. mr. paradkar argued the
+charter
+motions on this basis.
+on july 11, 2025, the ontario court of appeal released its
+decision in
+r. v. thompson,
+2025 onca 500
+. the court held that a
+detainee should be provided with an opportunity to re-consult with counsel once
+an officer has decided to authorize a strip-search. i alerted counsel to this
+decision and its potential implications on july 15, 2025.  mr. paradkar sought
+to amend his
+charter
+application accordingly to include an alleged
+violation of mr. kikiantonis'
+section 10(b)
+charter
+right.
+if the
+charter
+applications are dismissed and the firearm
+ruled admissible, mr. paradkar does not dispute that the crown will have proven
+its case beyond a reasonable doubt on the merits. conversely, if the firearm is
+ruled inadmissible, the crown cannot prove its case, and mr. kikiantonis must
+be acquitted.
+overview of the crown’s case
+i.
+dc james dunlop
+dc dunlop has been employed by the tps for over
+20 years and has been part of the guns and gangs unit since 2017. on may 8,
+2023, he was part of the centralized shooting response team. he received a
+request from dc mckenzie to assist with surveillance on a person of interest
+(“poi”).
+he arrived at 2655 bloor st. west at 11:48 p.m. the
+poi – later determined to be mr. kikiantonis – had entered a motor vehicle,
+believed to be an uber. after about two to three minutes of following the
+vehicle, the takedown was ordered by another officer. the vehicle was pinned.
+dc dunlop arrested mr. kikiantonis.
+the grounds for the arrest were based on
+information provided to him by other officers. an officer informed him that an
+information package was associated with the investigation of mr. kikiantonis.
+that package included details indicating that he had a firearm. in addition to
+that information, before mr. kikiantonis entered the uber, dc sgroi communicated
+over the radio that mr. kikiantonis was displaying “characteristics of being
+armed with a firearm.”  dc dunlop had not personally made any such observations
+however.
+when he located mr. kikiantonis in the uber, dc dunlop
+informed him that he was under arrest for possession of a firearm. he was
+handcuffed. dc dunlop escorted him away from the vehicle and led him towards
+the hood of one of the other police surveillance cars. he conducted a pat-down
+search on mr. kikiantonis and felt something heavy in his jacket pocket. he
+reached into the front right pocket of the jacket and discovered a black
+handgun.
+ii.
+dc shawn mckenize
+dc mckenzie played a limited role in the
+investigation. at approximately 10:40 pm, he arrived at 2655 bloor st. west. at
+11:07 p.m., dc storey informed him that an uber was parked on bloor st. west
+outside the poi’s address. they planned to follow the vehicle and initiate a
+takedown when it was safe to do so. after two or three minutes, other police
+vehicles stopped the uber.
+at this point, he noticed mr. kikiantonis standing
+on the street. he removed a satchel from mr. kikiantonis’ shoulder. inside the
+satchel, he found baggies he believed were for drugs, a digital scale with an
+unknown white residue on it, airpods, and a pack of gum.
+iii.
+dc matthew vukovic
+dc vukovic was also part of the centralized
+shooting response team with guns and gangs. he had been an officer with the tps
+since 2006. on may 8, 2023, he participated in surveillance on mr. kikiantonis.
+his supervisor was dc mckenzie.
+while conducting surveillance at 11:07 p.m., he
+received information over the radio that mr. kikiantonis was exhibiting the
+characteristics of an armed individual. det. storey instructed officers to
+proceed with a takedown of the suspect if it was safe to do so.
+dc vukovic was driving an unmarked police vehicle
+and assisted in stopping the uber that was carrying mr. kikiantonis. he could
+not recall which other officers were present at the scene of the arrest, aside
+from dc mckenzie and dc dunlop. while he recalled that a field search of mr.
+kikiantonis had occurred, his attention was diverted elsewhere at the time, and
+he was unable to provide any details about it.
+iv.
+dc steve sgroi
+dc sgroi was engaged in surveillance of mr. kikiantonis on may 8,
+2023. he was positioned 20 to 100 yards away from the apartment building at
+2655 bloor st. west.
+his plan for the day was to continue the investigation. he did not intend to
+arrest mr. kikiantonis.
+at 11:07 pm, he observed mr. kikiantonis exit his building. he
+had a black satchel slung across his torso, from his right shoulder to the left
+side of his waist. initially, he suspected that mr. kikiantonis might have a
+firearm in that satchel.
+as he continued watching mr. kikiantonis, he noticed that he was
+walking in an “unnatural” manner. his gait seemed “off.” he was pushing his
+right hand against his right jacket pocket while also looking back over his
+shoulder. he could not tell what, if anything, was in the jacket pocket or
+underneath mr. kikiantonis’ clothing, nor did he see mr. kikiantonis place his
+hand inside his jacket pocket.
+he communicated over the radio that he believed mr. kikiantonis
+possessed a firearm. his prior investigative experience helped form this
+opinion. dc storey decided to order mr. kikiantonis’ arrest as a result.
+v.
+det. todd storey
+detective storey has been an officer for 29 years. he oversaw the
+street team involved in this investigation.
+on may 8, 2023, he was present to continue surveillance of mr.
+kikiantonis. he was positioned outside mr. kikiantonis’ address at 2655 bloor
+st. west. he observed mr. kikiantonis leave the building and approach a waiting
+uber. after dc sgroi expressed his belief that mr. kikiantonis was armed, he
+ordered that a takedown would take place as soon as it was safe. he and his team
+followed the uber for a short distance before stopping it near jane and dundas,
+where mr. kikiantonis was removed from the vehicle and taken into custody.
+det. storey observed mr. kikiantonis leaning over the hood of
+another officer’s vehicle while dc dunlop conducted a pat-down search. he heard
+dc dunlop yell “gun,” and then he was handed a black handgun. he verified that the
+firearm was safe and then placed it in a secure lockbox. he instructed other
+officers to obtain a search warrant for mr. kikiantonis’ address and arranged
+for a transport vehicle to take him to 11 division.
+he explained that he trusted dc sgroi’s judgment, having known
+and worked with him for many years. when dc sgroi stated that he believed mr.
+kikiantonis had a gun, that was sufficient for him to conclude there were
+adequate grounds to order the arrest.
+vi.
+dc michael moorcroft
+dc moorcroft is a 20-year veteran with the tps.
+on may 8, 2023, he was present for the arrest of mr. kikiantonis outside of
+3425 dundas street west in toronto. other officers informed det. moorcroft that
+after the arrest, mr. kikiantonis was found in possession of a digital scale
+with white residue, plastic baggies, $500 in cash, and a handgun. these items
+are all commonly associated with drug dealing based on his experience.
+before the arrest, dc moorcroft participated in
+a briefing regarding the investigation. in that briefing, he learned mr.
+kikiantonis was known to sell drugs at a local bar.
+he remained with mr. kikiantonis at the location
+of his arrest for 18 minutes. he then accompanied mr. kikiantonis to 11
+division, where he was frisked and strip-searched. throughout this process, mr.
+kikiantonis was calm and cooperative. he did not observe mr. kikiantonis
+engaging in any behaviour that indicated he was attempting to hide or conceal
+any drugs.
+nevertheless, drug dealers, he testified, often
+conceal drugs on their person, such as in their underwear or buttocks.
+therefore, he requested a strip search of mr. kikiantonis from sgt. raspberry
+at 11 division. his primary concern was the safety of mr. kikiantonis and
+anyone he might encounter while in custody. if someone consumed drugs, it could
+jeopardize their health.
+the strip search occurred in a private room. it
+was “by the book.” mr. kikiantonis was never fully naked. nothing was located.
+in cross-examination, detr. moorcroft explained
+that he had been trained in strip searches. he understood that he required
+“case-specific” information to justify a strip search. he agreed that he had a
+duty to document both the grounds for the search and the manner in which it was
+conducted. yet, his notes, admittedly, lacked any details regarding how the
+search was performed. he thought the search was being audio recorded, but it was
+the responsibility of the booking officer to ensure that was done, and he did
+not independently verify that it occurred.
+vii.
+testimony of det. jason raspberry
+detective raspberry has been employed by the tps since 2007. on
+may 9, 2023, he was the acting staff sergeant at 11 division. he was tasked
+with being the booking officer for the evening.
+mr. kikiantonis was paraded before him. a video of this process
+was shown and filed as an exhibit. the officer who presented him, dc moorcroft,
+requested a level 3 (strip) search. he articulated his reasons on the video,
+which i reproduce here, alongside sgt. raspberry’s response:
+officer moorcroft:
+at
+this time, i’m requesting a level three, or i guess a strip search now… at the
+time of the arrest, he was found in possession of drug packaging, a scale with
+powder residue and the powder residue was also located inside a fanny pack that
+held all that property. he was found in possession of a loaded firearm in his
+jacket pocket, and he was also known to deal drugs out of a local bar.
+so, on that grounds, i’m
+requesting a level three or strip search.
+…
+sgt. raspberry:
+what the
+officer’s requested is what’s called a strip search…
+i understand there was
+packaging that appeared to have drug residue, a scale, and a satchel that had
+some residue in it as well. ok, i’m going to read you a notice i have to read
+here. i have reasonable and probable grounds to conduct a strip search. the
+search will be conducted in a private area, and not video recorded. however, the
+area will be audio recorded…
+additionally, the booking video reveals that while sgt. raspberry
+provided mr. kikiantonis with the right to speak to counsel
+before
+he
+was informed he would be strip-searched, he was not read his right to consult
+with counsel anew
+after
+that decision was made and articulated to him.
+in cross-examination, det. raspberry agreed that he based his
+decision to authorize a strip search on the items located on mr. kikiantonis
+during his arrest, the information that he was allegedly dealing drugs, and his
+experience as an officer in drug investigations. he explained that while the
+arresting officers found “all the trapping of drugs" during their initial
+search of mr. kikiantonis, they did not find “actual drugs,” which heightened
+his concern that mr. kikiantonis may have hidden some on his body.
+he agreed that his training taught him that an individualized
+assessment of the accused and the charges he was facing was necessary to
+authorize a strip search. he understood the importance of creating a proper
+record of the grounds for the search and the manner in which it was executed.
+he believed the search would be audio recorded. on the audio record, one would
+expect to hear when the detainee was removing and replacing certain items of
+clothing. however, he did not know if mr. kikiantonis’ search was audio
+recorded, as he never tested the audio recording equipment.
+det. raspberry did not dispute that a strip search is highly
+intrusive and demeaning. it should only be conducted in private and never
+videotaped. mr. paradkar questioned him about written tps policies regarding
+searches, and he acknowledged that there were significant differences between
+“frisk” and “strip” searches. these differences include that a frisk search
+does not involve the removal of underwear or the inspection of genitalia or
+anal areas.
+viii.
+special constable peter walker
+special constable walker has been an officer for 25 years. he was
+working at 11 division on may 8, 2023.
+he performed both a frisk search and a strip search of mr.
+kikiantonis. the frisk search was recorded on the booking hall video, which was
+submitted as an exhibit. he did not dispute the video’s accuracy. after
+completing the frisk search, he and dc moorcroft escorted mr. kikiantonis into
+a small room for the strip search. upon entering the room, he pushed a button
+intended to activate the audio recording equipment. however, he was unfamiliar
+with how the equipment functioned and had not received training on its
+technical aspects.
+he acknowledged that his memo book was lacking any notes
+regarding the manner of the search. his practice was to only document something
+if it were out of the ordinary, such as a medical complaint. if a search
+proceeded normally and nothing was found, there was no need to keep notes in
+his mind. he did complete a level 3 template form, but conceded in
+cross-examination that this form does not capture details of how the search was
+conducted. instead, it focused on the time of the search, the authorization received
+to proceed, and whether anything was found.
+he was not familiar with
+r. v. golden
+. although he was
+aware of the police policies concerning strip searches, he had not read them in
+detail. he concurred with mr. paradkar that the policies require an officer to
+document complete information of all searches in a memo book. he acknowledged
+that his notes contained “no details” of the strip search.
+during the “frisk search”, between 11:18 and 11:26 on the booking
+hall video, he can be seen searching the torso of mr. kikiantonis. he then
+proceeds to pull back mr. kikiantonis’ jeans and look down his pants. mr.
+paradkar suggested that he was pulling back mr. kikiantonis’ underwear as well
+and looking into his buttocks. the officer did not dispute this
+characterization. he agreed that his head was positioned to stare down into mr.
+kikiantonis’ pants. he described his frisk search approach as “thorough.”
+ix.
+dc andrew pak
+dc pak was responsible for the audiovisual
+recordings as part of the disclosure process. he did not request the audio
+recording of the strip search at 11 division until august 22, 2024, when he
+received an email request from ms. anderesen. he learned that 11 division
+upgraded its audio-video system and all existing recordings were purged on or
+about may 10, 2024, a year after mr. kikiantonis’ arrest.
+x.
+tps policy – “search of persons” – issued 2024.09.17
+while this policy was not in place at the time of mr.
+kikiantonis’ arrest and detention, the officers each agreed that the policy’s
+definitions respecting “frisk” and “strip” searches accurately represented
+their understanding of those distinctions as of may 8, 2023. those definitions
+are found on page 13 (my emphasis added):
+definition of frisk search
+(formerly level 2)
+“this is used generally for
+search incident to arrest and means a more thorough search that may include
+emptying and searching pockets as well as removal of clothing,
+which does
+not expose a person’s undergarments, or the areas of the body normally covered
+by undergarments
+. the removal of clothing such as belts, footwear, socks,
+shoes, sweaters, extra layers of clothing, or the shit of a male would all be
+included in a frisk search. a frisk search may be commenced in the field and
+concluded at the station.
+definition of strip search
+(formerly level 3)
+r v golden,
+2001 scc 83
+established that which constitutes a strip search and what types of
+circumstances may justify one. a strip search includes all steps in protective
+and frisk searches as well as a thorough search of a person’s clothing and
+non-physical search of the body. that will often require
+removal or
+rearrangement of some, or all, of the person’s clothing to permit a visual
+inspection of a person’s private areas: namely the genitals, buttocks,
+breasts or chest, body cavity,
+and/or undergarments
+; the mouth was
+excluded from this definition despite being a bodily cavity.
+the document also instructs that officers “shall not conduct
+strip searches in any location other than a private area of a secure police
+facility” (see page 8).
+defence evidence
+i.
+affidavit and testimony of mr. kikiantonis
+mr. kikiantonis filed an affidavit in support of his claim that
+his rights were violated during the strip searches. he was arrested at gunpoint
+by tps officers when he was seated in the back of an uber. the officers pulled
+him out of the vehicle and slammed him on the hood of the car. they handcuffed
+him. they located a firearm in his front right jacket pocket.
+a police officer then brought him onto the sidewalk, in public,
+and searched him. during this search, an officer pulled back his jeans and
+underwear while looking down his pants. the officer was able to view his bare
+buttocks and genitals. he identified the officer responsible as dc dunlop.
+at 11 division, he described special constable walker pulling his
+jeans and underwear back, while the officer looked down at his lower body. this
+incident was captured on video in the booking hall. in the room designated for
+the formal strip search, he described in detail how he had to remove pieces of
+his clothing and adjust his body to comply with the officers’ demands.
+mr. kikiantonis felt disgusted, embarrassed and ashamed by each
+of these searches. he described it as a degrading experience that cost him his
+dignity.
+positions of the parties
+mr. paradkar submits that the investigating officers lacked
+reasonable and probable grounds to arrest his client and thus violated his
+section 8
+and
+9
+charter
+rights. he cited
+r. v. chehil,
+2013 scc
+49
+, in which the supreme court clarified the distinction between reasonable
+suspicion and reasonable and probable grounds. at most, the officers had a
+reasonable suspicion that mr. kikiantonis might have been engaged in criminal
+activity. the information available to them fell far short of establishing reasonable
+and probable grounds.
+in particular, he points to dc sgroi admitting in
+cross-examination that “absent ci information”, he did not have a “strong
+belief” that mr. kikiantonis possessed a firearm, but instead accepted it was a
+“possibility.” dc sgroi’s evidence was presented as the foundation of the justification
+for his client’s arrest.  dc sgroi’s observations were brief, and from a
+considerable distance. he agreed that he did not see mr. kikiantonis put his
+hand inside his jacket to hold an item, but was merely holding his hand against
+his jacket. nor did he see anything akin to the outline of a firearm anywhere
+on mr. kikiantonis’ clothing. he came to a highly speculative conclusion that mr.
+kikiantonis had a gun and then broadcast that belief to the other officers which
+led to his client’s arrest. his subjective determination was hastily made and,
+therefore, not reliable.
+regarding the cs information lawfully available for consideration
+on this application, mr. paradkar submits that, as a result of my earlier
+ruling, it is entitled to minimal weight. the investigating team had at most
+vague, uncorroborated information that mr. kikiantonis had a firearm at some
+unknown date in the past. there were no specific details to support that claim.
+the reliability of the sources was unclear. and little to no independent
+evidence existed to support the cs’ assertions, beyond dc sgroi’s untrustworthy
+observations on the day of mr. kikiantonis’ arrest.
+mr. paradkar further submits that det. storrey testified he did
+not observe any suspicious behaviour on behalf of mr. kikiantonis prior to his
+arrest, which contradicts dc sgroi’s testimony. he was also able to make direct
+observations of mr. kikiantonis. as the lead investigator, he had a heightened
+responsibility to ensure sufficient grounds existed before an arrest was
+authorized. he seemed to place blind faith in dc sgroi’s subjective assessment
+without independently reviewing and considering the totality of the information
+available to him.
+if i agree with his position, the officers would have made an
+unlawful arrest, and the search conducted incident to that arrest would also
+have been unlawful, violating his client’s
+section 8
+and
+9
+charter
+rights.
+following the arrest, mr. paradkar argued that his client was
+unlawfully strip-searched multiple times that evening. each one was an
+independent violation of his client’s rights under
+sections 7
+and
+8
+of the
+charter
+.
+first, he was subject to a field strip search that was unjustified. second,
+officer raspberry lacked the necessary grounds to order a formal strip search
+at 11 division. third, special constable walker converted a frisk search into a
+strip search in the hallway of 11 division. as well, the lack of a proper
+record associated with these strip searches (in particular, the formal strip
+search at 11 division) violated his client’s section 8 rights. i may also find
+violations of
+section 12
+of the
+charter
+as a result of this conduct,
+subject to my findings of fact.
+while the field strip search and the excessive frisk search
+conducted at 11 division did not involve the complete removal of mr.
+kikiantonis’ clothing, that is not necessary for the searches to be considered
+strip searches. the definition of strip search established in
+golden
+is
+broad enough to include an officer peering into an accused person’s
+undergarments and viewing their genitals or buttocks.
+relying on
+thompson
+,
+mr. paradkar submits that mr.
+kikiantonis should have been provided with an opportunity to re-consult with
+counsel after sgt. raspberry authorized a strip search at 11 division. that was
+denied to mr. kikiantonis, which constitutes a violation of
+section 10(b)
+of
+the
+charter
+.
+as a remedy, he requests that the evidence be excluded under
+section 24(2)
+of the
+charter
+or that i issue a stay of proceedings
+pursuant to
+section 24(1)
+. the
+charter
+violations, he submits, are particularly
+serious because they involved systemic failures by experienced officers. the serious
+nature of these violations, combined with their impact on his client’s
+charter
+-protected
+interests, at a minimum, demands exclusion of the evidence. in addition, depending
+on my findings, he urges me to conclude that no other remedy can address the
+prejudice resulting from the sum total of these
+charter
+breaches, other
+than a stay of proceedings.
+ms. andersen argues that the officers collectively had reasonable
+and probable grounds to arrest mr. kikiantonis. in particular, i should accept
+the testimony of dc sgroi. he was an experienced and reliable officer who had
+the best vantage point of mr. kikiantonis outside his apartment building. he
+observed mr. kikiantonis walking in a manner that, based on his extensive
+experience investigating firearm-related offences, indicated to him that mr.
+kikiantonis possessed a firearm at that time. it was a reasonable conclusion
+for him to reach, and he explained it clearly during his testimony.
+each of the officers was entitled to rely on the information
+provided by the other officers involved in the investigation. ms. andersen
+described them as a “seasoned team” that regularly handles these types of
+offences. she argued they had an enhanced awareness of what body movements,
+mannerisms, and scenarios suggest a reasonable belief that a suspect has a
+firearm.
+regarding the strip searches, ms. andersen argues that mr.
+kikiantonis was not a credible witness and urges the rejection of his testimony
+about the alleged field strip search. she recommends accepting the accounts of
+all police officers present, particularly dc dunlop's. consequently, i should
+determine that this search did not take place. although a formal strip search
+at 11 division was authorized by sgt. raspberry, it was a lawful decision as
+the officer had reasonable and probable grounds. sgt. raspberry was justified
+in relying on the digital scales and baggies found on mr. kikiantonis at the
+time of his arrest, as well as the information that he was involved in drug
+trafficking at a local bar, to support this decision.
+ms. andersen further argues that a review of the video of the
+strip search at 11 division should lead me to conclude that special constable
+walker did not cross any boundaries during his frisk search, including the act
+of pulling back his pants and peering into the individual's genital area during
+a strip search. i should dismiss this part of the defence application
+accordingly.
+she further argues that there was no breach of
+section 10(b)
+of
+the
+charter
+. sgt. raspberry offered mr. kikiantonis the opportunity to
+consult with counsel just before the decision to conduct a strip search was
+made. he explicitly refused, asking, “what’s the point?” there is no reason to
+believe his response would have been any different if he had been informed of
+his right to counsel a moment later, after being told a strip search was
+imminent. he had already dismissed, in his mind, the value of consulting with
+counsel at that early stage of the process.
+i should dispense with the
+charter
+applications
+accordingly. if i find any breaches, she argues that the loaded firearm should
+be considered admissible under the
+grant
+test associated with
+section
+24(2)
+of the
+charter
+. the officers found a loaded firearm on a man
+involved in drug dealing who was heading to an unknown destination. they needed
+to act quickly to protect public safety. this should weigh heavily, if not
+overwhelmingly, in favour of including the evidence.
+reasonable and probable grounds for an arrest
+section 495(1)
+(a) of the
+criminal code
+allows a peace
+officer to arrest a person without a warrant if, on reasonable grounds, they
+believe the person has committed or is about to commit an indictable offence.
+in
+r. v. beaver
+,
+2022 scc 54
+, at para.
+72
+, the supreme
+court of canada summarized the essential legal principles governing warrantless
+arrests. i reproduce that summary here, with the citations removed for brevity:
+1.
+a warrantless
+arrest requires subjective and objective grounds to arrest. the arresting
+officer must subjectively have reasonable and probable grounds for the arrest,
+and those grounds must be justifiable from an objective viewpoint.
+2.
+in assessing the
+subjective grounds for arrest, the question is whether the arresting officer
+honestly believed that the suspect committed the offence. subjective grounds
+for arrest are often established through the police officer’s testimony. this
+requires the trial judge to evaluate the officer’s credibility…
+3.
+the arresting
+officer’s subjective grounds for arrest must be justifiable from an objective
+viewpoint. this objective assessment is based on the totality of the
+circumstances known to the officer at the time of the arrest, including the
+dynamics of the situation, as seen from the perspective of a reasonable person
+with comparable knowledge, training, and experience as the arresting officer.
+4.
+evidence based
+on the arresting officer’s training and experience should not be uncritically
+accepted, but neither should it be approached with “undue scepticism”… although
+the analysis is conducted from the perspective of a reasonable person “standing
+in the shoes of the [arresting] officer”, deference is not necessarily owed to
+their view of the circumstances because of their training or experience... the
+arresting officer’s grounds for arrest must be more than a “hunc[h] or
+intuition”.
+5.
+in evaluating
+the objective grounds to arrest, courts must recognize that, “[o]ften, the
+officer’s decision to arrest must be made quickly in volatile and rapidly
+changing situations. judicial reflection is not a luxury the officer can
+afford. the officer must make his or her decision based on available
+information which is often less than exact or complete”... courts must also
+remember that “[d]etermining whether sufficient grounds exist to justify an
+exercise of police powers is not a ‘scientific or metaphysical exercise’, but
+one that calls for the application of ‘[c]ommon sense, flexibility, and
+practical everyday experience’”…
+6.
+“reasonable and
+probable grounds” is a higher standard than “reasonable suspicion”. reasonable
+suspicion requires a reasonable possibility of crime, while reasonable and
+probable grounds requires a reasonable probability of crime … at the same time,
+police do not require a prima facie case for conviction before making an
+arrest. nor do the police need to establish that the offence was committed on a
+balance of probabilities. instead, the reasonable and probable grounds standard
+requires “a reasonable belief that an individual is connected to the offence”…
+a reasonable belief exists when “there is an objective basis for the belief
+which is based on compelling and credible information”… the police are also not
+required to undertake further investigation to seek exculpatory facts or to
+rule out possible innocent explanations for the events before making an arrest.
+7.
+the police
+cannot rely on evidence discovered after the arrest to justify the subjective
+or objective grounds for arrest.
+8.
+when a police
+officer orders another officer to make an arrest, the police officer who
+directed the arrest must have had reasonable and probable grounds. it is
+immaterial whether the officer who makes the arrest personally had reasonable
+and probable grounds.
+a search incident to arrest may be conducted according to common
+law if (i) “the individual searched has been lawfully arrested”; (ii) “the
+search is truly incidental to the arrest in the sense that it is for a valid
+law enforcement purpose connected to the arrest”; and (iii) “the search is
+conducted reasonably”: see
+r. v. sureskumar
+,
+2023 onca 705
+, at para.
+10
+.
+mr. paradkar does not dispute that the officers were entitled to search his
+client if the arrest was lawful.
+based on the redacted material presented to the court under step
+5 of the
+garofoli
+application, i conclude the following information from
+the two confidential sources may be considered on the
+charter
+application:
+•
+a person of interest, subsequently determined to be mr.
+kikiantonis by the police, was identified by both sources;
+•
+one of the sources was tested;
+•
+the other was untested;
+•
+the tested source provided information that the person identified
+was known to sell drugs; and
+•
+both sources provided information that the person had been
+witnessed in possession of a gun.
+the further details, if any, provided by the confidential sources
+surrounding mr. kikiantonis’ alleged possession of a firearm may not be
+considered. even without these additional details, ms. andersen argued that the
+investigating officers could still have formed reasonable and probable grounds
+to believe that mr. kikiantonis would have had a firearm the day he was
+arrested. since two sources had identified him as having one at some unknown
+date in the past, an inference could be drawn that he was still in possession
+of the firearm on the day of the investigation.
+before analyzing this argument further, i emphasize that dc sgroi
+and det. storrey agreed that they were not preparing to arrest mr. kikiantonis
+when they first observed him on may 8, 2023. even armed with all the information
+provided by the confidential sources, some of which i may no longer consider,
+the officers did not subjectively believe they had reasonable and probable
+grounds to arrest mr. kikiantonis. they required additional information.
+in
+r. v. herta
+,
+2018 onca 927
+, the ontario court of appeal
+held that trial judges can draw an inference that those who possess guns may
+have them for long periods of time. but that inference drawing is subject to significant
+constraints. the court wrote at para. 48 (my emphasis added):
+relying upon delchev, the
+respondent emphasizes that the fact that the ci said that he saw callahan with
+the gun was enough, standing on its own, to pass the compelling threshold in
+debot and justify the search. i agree with the sentiment expressed in delchev,
+at paras. 73-75, that an inference can be drawn that "criminals who are
+illegally in possession of guns" may have them for long periods of time.
+i do not read delchev as saying, though, that the fact that a ci has seen
+someone with a gun at some point in the past, means that a search warrant can
+necessarily issue for any place attended by that person
+in the
+future
+.
+in
+herta
+, the investigating officers relied on information
+obtained from a confidential source. the source stated that the person of
+interest had a gun and that he “knew” that the person of interest would “not be
+anywhere without the gun”: see para. 10. nothing explained why the source
+believed that the person of interest would not be without the gun; rather, it
+was a conclusory statement without any foundation. as a result of this
+information, a search warrant was executed at the appellant’s home. the court
+of appeal found that the redacted ito did not contain sufficient grounds to
+support the search warrant. the evidence was excluded, and the appellant was
+acquitted.
+of importance, the crown did not resort to step 6 in
+herta
+during the garofoli hearing. it relied solely on the information available at
+step 5.
+similarly, in
+r. v. hibbert
+,
+2019 onsc 3219
+, police officers
+located a loaded gun behind the stereo of the accused’s motor vehicle while
+executing a search warrant. the warrant contained information provided by a
+confidential source. the crown did not rely upon that information, pursuant to
+step five of the
+garofoli
+application process. the crown argued that
+based on the unredacted ito, the issuing justice could have issued the
+warrants.
+part of that information included credible and reliable evidence
+that mr. hibbert was involved in a shooting three months earlier: see para. 52.
+however, justice dennison held it was not reasonable to infer that the gun
+would be found more than three months after the shooting in the accused’s
+possession in the absence of stronger evidence: see paras. 79-81. the warrant
+should not have been issued.
+the crown faces an even greater challenge in this case. the
+evidence that i may lawfully consider in support of mr. kikiantonis’ arrest provides
+no meaningful temporal connection to the confidential source information. i
+cannot ascertain the currency of that information. nor can i determine whether
+it was compelling. the reliability of the first source is limited to knowing
+that they were a “tested” source, but no basis for this claim was provided. the
+officers were aware if the sources had a criminal record, outstanding charges,
+or had been offered consideration, but nothing more. the details of all those
+factors remain redacted. the second source was entirely untested.
+a blanket accusation that someone has a firearm without any additional
+details is not enough to justify a warrantless arrest anywhere and at any time.
+the crown relies on the independent observations of dc sgroi to
+corroborate certain aspects of the information provided in the tips. when mr.
+kikiantonis was located, dc sgroi believed he exhibited signs of being armed
+based on his training and experience. this strengthens the foundation for
+reasonable and probable grounds, according to ms. andersen. i agree that this
+is a pertinent factor to consider, as discussed in
+beaver
+and the
+authorities cited therein, such as
+chehil
+and
+mackenzie
+. however,
+it should not be given undue weight without careful consideration.
+in
+r. v. dene
+,
+2010 onca 796
+, the court of appeal held
+that “posture and body movements” which indicated someone “could be carrying
+weapons or drugs” may lawfully be considered in the context of justifying an
+investigative detention: see para. 4. similarly, in
+r. v. plummer,
+2011
+onca 350
+, the appellant’s “reaction to seeing the police” and his movements
+that were “consistent with attempting to conceal something” were held to be relevant:
+see para. 23. a “blading” movement, which involves turning a side of the body
+away from another person (in this case, an officer who indicated he was going
+to conduct a pat-down search) was considered in
+r. v. amofa
+,
+2011 onca
+368
+, at para.
+9
+. these factors may also be considered by a court when determining
+if there was a lawful basis for an arrest. another example is
+r. v. muller
+,
+2014 onca 780
+, where an officer’s visual observation of a suspect’s body
+movements formed part of the evidence required to establish reasonable and
+probable grounds: see para. 42. each case, of course, is fact-specific.
+an interesting analogous case to this one is
+r. v. williams
+,
+2013 onca 772
+. a police officer at 23 division in toronto received an anonymous
+tip indicating that a suspect matching the appellant’s description had a
+firearm while walking south near a specific address. within minutes,
+plainclothes officers arrived at the location. two police officers approached
+the appellant and identified themselves. one asked him if he was armed. the
+appellant “bladed” his body by turning to his side, and one of the officers
+noticed he made a movement towards the area of his waist: see paras. 7-14.
+the court of appeal held that the appellant’s detention was
+lawful. while a detention based on an anonymous tip alone could not provide
+sufficient grounds, “the combination of the anonymous tip and what occurred
+when the appellant encountered the police was capable of supporting a
+reasonable belief that the appellant might be connected to a gun crime as
+reported by the anonymous caller”: para. 27. the search that followed, based on
+this lawful detention, did not violate the
+charter
+either. i note,
+however, that the tip in
+williams
+was provided only minutes before the
+officers located the appellant, and they were able to make direct observations
+of him prior to forming their grounds.
+importantly, by themselves, even when viewed through the lens of
+officer experience, observations that a suspect’s body movements are suspicious
+are typically inadequate to justify either an arrest or an investigative
+detention. in
+r. v. mohamed aden
+,
+2019 onsc 4890
+, the accused was found
+in the company of another man who was the target of a police investigation. an
+officer observed mr. aden repeatedly touch his waistband and the front of his
+hoodie while standing outside a mcdonald’s restaurant. based on this
+observation, the officer believed mr. aden possessed a firearm. the officer
+alerted his team, and mr. aden was detained. a firearm was discovered near mr.
+aden. justice forestell held that this was insufficient to form a lawful basis
+for either an arrest or a detention: see para. 8.
+the case for the crown regarding the officers’ grounds for
+arresting mr. kikiantonis is considerably weaker than in these other reported decisions
+where a detention or arrest was deemed lawful. in addition to the concerns i
+have already identified, the evidence from the two confidential sources was not
+corroborated in a meaningful manner. the surveillance of mr. kikiantonis did
+not reveal anything notable. finding him outside his residence, not engaged in any
+criminal activity, confirmed nothing of significance that was provided by the
+confidential sources. he was not seen involved in any behaviour consistent with
+drug dealing, nor was he observed possessing a firearm. this falls far short of
+the
+debot
+criteria.
+it was only when dc sgroi saw mr. kikiantonis with a satchel that
+he believed he might have a firearm. based on his prior experience, he thought
+that suspects often kept firearms in satchels. of course, it should go without
+saying that one can use a satchel for entirely lawful purposes as well. dc
+sgroi’s attention shifted when mr. kikiantonis walked “unnaturally” and used
+his right hand to push his right jacket pocket against his body constantly.
+this caused dc sgroi to conclude that mr. kikiantonis had a firearm in his
+jacket instead.
+i do not find this compelling. i emphasize that when the crown
+cites officer experience and training to justify detaining or arresting an
+individual, certain principles must be taken into consideration. an officer’s suspicion
+of criminal behaviour must be based on specific, verifiable observations. and the
+court must still “be prepared to look carefully at what is held out to be
+experience or training”, especially when that forms the tipping-point for state
+action, lest the integrity of our constitutional standards be compromised: see
+r.
+v. yeh
+,
+2009 skca 112
+, at para.
+53
+.
+dc sgroi testified that his training included a course on the
+characteristics of an armed person in 2008 and stated that “not much had
+changed” since then. he had furthermore taken part in hundreds of arrests of
+suspects for illegal firearm possession. through that professional experience
+and conversations he’s had with informants about gun and drug culture, he has
+come to believe that someone walking unnaturally can often indicate they are
+carrying a firearm. however, in cross-examination, he conceded that his
+observations, on their own, did not support a “strong” belief that mr.
+kikiantonis had a firearm, but only suggested a “possibility.”
+considering the entirety of the evidence available to dc sgroi, even
+when viewed through the lens of his training and experience, this still fell
+short of the standard required for a lawful arrest. at most, mr. kikiantonis
+acted somewhat unusually for a few seconds while pressing his hand against his
+jacket pocket. i note that det. storey, who was also observing mr. kikiantonis
+as he approached the uber, noticed “nothing out of the ordinary” about how he
+walked. dc sgroi’s observations were thus highly subjective and contradicted by
+det. storey’s account of the same events. i conclude that dc sgroi saw what he
+wanted to see, having been predisposed to believe that a firearm would be found
+on mr. kikiantonis due to his prior knowledge of the confidential source material.
+the caselaw makes clear that while observations made by police
+officers of an accused person’s unnatural body movements may be considered, it
+is only “when these factors tie in with something more concrete that an
+officer’s grounds become more secure”: see justice d. garg and a. kapoor,
+detention,
+arrest and right to counsel
+(toronto: emond publishing, 2024) at p. 271.
+that “something more” was absent here.  fundamentally, dc sgroi relied on
+uncorroborated information, provided at an unknown time, that mr. kikiantonis
+had a gun, combined with observations of what can only be described as entirely
+innocuous behaviour: see
+r. v. nicholls
+,
+2022 onca 133
+, at paras.
+4-8
+.
+i recognize that officers often encounter, as they did here,
+fast-moving situations involving the possibility that the person under
+investigation had a firearm in a busy area of the city. officers must sometimes
+act quickly without the benefit of hindsight. i am also mindful of the court of
+appeal’s recent caution in
+asante, supra,
+at para. 57 that judges “must
+remember that the reasonable and probable grounds standard depends upon
+probabilities, not certainties. it does not require proof beyond a reasonable
+doubt, nor even proof on a balance of probabilities:
+beave
+r, at para.
+72
+. reasonable probabilities can co-exist with competing reasonable
+probabilities.”
+nevertheless, i find a breach of
+sections 9
+and
+8
+of the
+charter
+.
+the arrest was unlawful, and a search incident to arrest is unreasonable if
+the underlying arrest was unlawful: see
+r. v. sabiston
+,
+2023 skca 105
+,
+at paras.
+4 and 93
+(this conclusion accepted by the majority of the supreme
+court of canada in
+r. v. sabiston
+,
+2024 scc 33
+);
+r. v. gilliland
+,
+2025 bcsc 568
+, at para.
+42
+.
+strip searches and section 8 of the
+charter
+strip searches were recognized by the supreme court of canada in
+r.
+v. golden
+,
+2001 scc 83
+, to involve a “significant and direct interference
+with personal privacy.” they often constitute a “humiliating, degrading and
+traumatic experience for individuals subjected to them”: see para. 83. the
+supreme court held that strip searches performed on a routine basis at a police
+station, and without defined standards associated with them, violated
+section 8
+of the
+charter
+.
+a strip search is defined as "the removal or rearrangement
+of some or all of the clothing of a person so as to permit a visual inspection
+of a person's private areas, namely genitals, buttocks, breasts (in the case of
+a female), or undergarments":
+golden
+, at para.
+47
+.
+in
+muller
+,
+supra,
+the ontario court of appeal
+summarized the law as it applies to the constitutional validity of strip
+searches at paras. 56 to 60 (my emphasis added):
+where a strip search is justified
+as an incident to arrest, the arrest itself must be lawful: golden, at para.
+91
+. the search must also be incident to the arrest. in other words, the search
+must be related to the purpose of the arrest: caslake, at para. 17; golden, at
+para.
+92
+. in this case, the arrest was for drug trafficking, more accurately,
+possession of drugs for the purpose of trafficking. it is to that purpose the
+strip search had to relate.
+the reasonableness of the search
+for evidence, including the reasonableness of the strip search, is governed by
+the need to preserve evidence and prevent its disposal by the arrested person.
+where arresting officers suspect the arrested person may have secreted evidence
+on areas of his or her body that can only be exposed by a strip search, the
+risk of disposal must be reasonably assessed in all the circumstances: golden,
+at para.
+93
+.
+the mere possibility that an
+individual may be concealing drugs on his or her person is not sufficient to
+justify a strip search of that person
+:
+golden, at para.
+94
+. further,
+strip searches conducted as a matter of routine policy, even if executed in a
+reasonable manner, are not reasonable within
+s. 8
+of the
+charter
+.
+compelling
+reasons, rooted in the circumstances of the arrest, are required to render a
+strip search reasonable, even where the execution is flawless
+:
+golden, at para.
+95
+. rote application of police policy is anathema to the
+case-specific, fact-sensitive consideration mandated by hunter v. southam inc.
+the fact that police have
+reasonable grounds to arrest a person without warrant under s. 495(1)(a) does
+not, on its own, clothe them with automatic authority to carry out a strip
+search. this is so even where the strip search qualifies as incidental to a
+lawful arrest: golden, at para.
+98
+. something further relating to the purpose
+of the strip search is required. that something further is that the
+police
+must have reasonable and probable grounds for concluding a strip search is
+necessary in the specific circumstances of the arrest:
+golden, at para.
+98
+.
+the serious infringements of
+privacy and personal dignity that are inevitable consequences of strip searches
+require that, to be constitutionally valid, the strip search must be:
+i.
+conducted as an incident to a lawful arrest;
+ii.
+conducted for the purpose of discovering weapons or evidence on the body
+of the arrested person related to the reason for the arrest;
+iii.
+based on reasonable and probable grounds for concluding a strip search
+is necessary in the circumstances of the arrest; and
+iv.
+conducted in a reasonable manner.
+in
+golden
+, at para.
+101
+, the supreme court of canada
+concluded the guidelines for strip searches contained in the
+police and
+criminal evidence act 1984
+(u.k.), 1984, c. 60 (pace), accorded with the
+constitutional requirements of
+section 8
+of the
+charter
+. the pace
+questions include the following:
+•
+will the strip search be carried out in a private area such that
+no one other than the individuals engaged in the search can observe the search?
+•
+will a proper record be kept of the reasons for and the manner in
+which the strip search was conducted?
+analysis
+i.
+frisk search in the booking hall
+i begin by considering the “frisk search” that occurred in the
+booking hall at 11 division, captured on video, before the subsequent formal
+strip search. it is not disputed that the officers were lawfully permitted to
+conduct a frisk search to check mr. kikiantonis’ clothing and body for drugs
+and possible weapons. however, mr. paradkar submits that the frisk search
+conducted by special constable walker crossed a line, even if only briefly. the
+search was, in fact, a strip search once he pulled back his client’s jeans and
+underwear and peered down into his genitalia and/or buttocks.
+notably, special constable walker did not dispute that this is
+what factually occurred. my own review of the video leads me to conclude that
+this is exactly what happened. officer walker can be seen pulling back mr.
+kikiantonis’ pants at the waist, along with any clothing found beneath them,
+and peering inside the pants towards his lower body. during his testimony, he
+appeared to take pride in the “thorough” frisk search he conducted, seemingly
+unaware that he may have proceeded into the domain of a strip search.
+the tps policy defining frisk and strip searches is clear. a
+frisk search is one which, despite any removal of a detainee’s clothing, “does
+not expose a person’s undergarments, or the areas of the body normally covered
+by undergarments.” special constable walker’s excessive search techniques
+produced just that result. though it may have only lasted a few seconds, it was
+not a frisk search – it was properly characterized as a strip search: see
+r.
+v. bootsma
+,
+2022 abqb 45
+, at paras.
+62-70
+;
+r. v. ali
+,
+2011 onsc 424
+,
+at para.
+61
+.
+it was also recorded on video, and in plain view of the other
+officers present at the time. none of the other officers objected or voiced any
+concern. in
+golden
+, the supreme court held that strip searches must be
+conducted in private to minimize the invasion of privacy and the threat to the
+detainee’s bodily integrity: see para. 102. yet the search of mr. kikianontis
+was carried out by an experienced officer, unaware of his mistake, while mr.
+kikiantonis was in plain view in the hallway of the division.
+if
+frisk searches are permitted to effectively become strip searches due to
+inadequate judicial oversight, the
+charter
+rights of every detainee in
+police custody risk permanent erosion. special constable walker did not seem to
+grasp the significance of where the line is drawn between the two. he was
+unaware of
+golden
+, the leading authority from the supreme court of
+canada, which was decided over 20 years ago. he testified that, while he was
+familiar with the tps policy on searching detainees in custody, he had not
+thoroughly read it and was not fully aware of its details. he simply did not
+seem to care.
+his
+apparent indifference to the policies he is expected to faithfully execute as a
+police officer, as well as the decisions of the courts that developed those
+policies, is deeply disappointing. police officers should both understand and
+appreciate the fundamental importance of the rights of those in their custody
+and their responsibilities to adhere to the law. while det. raspberry impressed
+me with his testimony and seemed genuinely committed to following the letter of
+the law, he still allowed special constable walker to cross the line into a
+strip search, making no effort to intervene or voicing any concern. both he and
+dc moorcroft came across as blissfully unaware that what was happening right
+before their eyes was wrong.
+i
+find a violation of mr. kikiantonis’ rights under
+section 8
+of the
+charter
+.
+ii.
+grounds to authorize the strip search at 11
+division
+the
+articulated justification for the strip search by det. raspberry was that the
+scale, drug packaging, and satchel had some drug residue in them. no further
+grounds were provided; rather, the officer relied on his experience with the
+drug trade in his testimony to further justify his decision. on the booking
+video, curiously, he did not mention mr. kikiantonis’ arrest for possession of
+a loaded firearm as a factor he considered.
+officers
+are also entitled to rely on their own experience when forming grounds: see
+chehil
+at paras.
+45-7
+. det. raspberry testified he had considerable experience
+with suspects and detainees hiding drugs in parts of their bodies, and that
+those drugs might be located after a frisk search, even if that frisk search
+did not reveal any drugs.
+in
+muller
+, the ontario court of appeal was explicit that the “mere
+possibility” a detainee may be concealing drugs on his person is insufficient.
+the police must have reasonable and probable grounds that conducting a strip
+search is necessary in the specific circumstances of the arrest: see
+golden
+at para.
+98
+.
+the
+appellant was arrested for possession of crack cocaine for the purpose of
+trafficking. the police had received information from two confidential sources
+indicating that the appellant was trafficking drugs in an apartment. the information
+provided to the police was quite recent – the alleged drug dealing had occurred
+only hours prior. one of the sources had been proven reliable in the past,
+while the other was untested: see paras. 8 and 40. upon the officers' arrival
+outside the apartment building where the drug trafficking was taking place,
+they found the suspect exiting through a side door: see para. 26. after
+arresting the appellant, the officers conducted a frisk search and discovered
+three cellphones and some cash. they did not find any drugs or other typical
+indicators of drug trafficking. however, the officers did locate a digital
+scale that the appellant had discarded just prior to his arrest, which had a
+residue of white powder on its surface.
+the
+court of appeal held that the officers had sufficient grounds for a strip
+search based on the cumulative effect of those factors. while the evidence
+linking mr. kikiantonis to drug dealing was much weaker than what was
+considered by the court in
+muller
+,
+det. raspberry also noted on the
+booking video that mr. kikiantonis had been arrested for possession of a loaded
+firearm, even if he did not cite that fact specifically when explaining his
+grounds to authorize a strip search. in
+r. v. hassan
+,
+2023 onsc 1300
+,
+justice nakatsuru ruled that the grounds for a strip search were established
+when the accused was arrested for possession of a loaded firearm and had
+outstanding drug-trafficking charges: see para. 60.
+when
+assessing the objective reasonableness of an officer’s grounds, i must consider
+the totality of the circumstances known to the officer at the time, even if some
+of the individual factors were not specifically articulated: see
+r. v.
+asante,
+2025 onca 387
+, at para.
+30
+. i find that, objectively, although this
+was a close call, there were reasonable and probable grounds to justify a strip
+search. this portion of the
+charter
+application is therefore dismissed.
+iii.
+lack of an adequate record
+not
+a single officer checked whether the audio recording equipment was functioning
+properly in the room designated for strip searches at 11 division. det. raspberry,
+who was responsible for authorizing strip searches on the night in question,
+did not ensure that any strip search he authorized would be properly recorded
+and documented. this was inconsistent with both tps policy and the requirements
+of the
+charter
+.
+this
+was a glaring example of unacceptable police negligence. in
+r. v. janeiro,
+2022
+onca 118
+, justice paciocco explained the duty of the police to preserve
+relevant evidence at paras. 107-8:
+where a
+charter
+applicant
+has shown that disclosable evidence has been lost, a
+charter
+breach
+contrary to
+s. 7
+will be found unless the crown has provided a satisfactory
+explanation for that loss, thereby demonstrating that an abuse of process has
+not occurred. the crown may do so by establishing that the evidence has not
+been destroyed or lost by unacceptable negligence, that is, negligence that
+goes beyond mere negligence. this can be accomplished by showing that
+reasonable steps were taken in the circumstances to preserve the evidence,
+bearing in mind the relevance that the evidence was perceived to have at the
+time it was lost or destroyed:
+r. v. la
+,
+1997 canlii 309 (scc)
+, 2
+s.c.r. 680, at paras.
+20-22
+;
+r. v. hersi
+,
+2019 onca 94
+, 373
+c.c.c. (3d) 229, at para.
+30
+.
+indeed, the relevance or
+importance of the evidence is an important consideration in setting the degree
+of care expected. as the relevance of the evidence increases, so too does the
+degree of care required in preserving the evidence:
+la
+,
+at para. 21;
+hersi
+, at para.
+30
+. similarly, as the relevance
+decreases, the required degree of care is reduced…
+i
+agree with mr. paradkar that the police have a high duty of care to preserve a
+recording of a strip search. there is a heightened obligation to safeguard such
+essential evidence, which will be crucial in determining how a detainee has
+been treated while they are at their most vulnerable and subjected to a
+degrading search. sgt. raspberry and dc moorcroft testified that strip searches
+have rarely been authorized in recent years, highlighting the importance of
+ensuring that the recording equipment functions properly when such an uncommon
+procedure is utilized. i did not hear of any reasonable steps taken by the tps
+to preserve this audio recording.
+dc pak did not explain why the audio recording wasn’t requested
+from 11 division during the standard disclosure process following mr.
+kikiantonis’ arrest. it was only on august 22, 2024, when he looked into ms.
+andersen's request for the recording that he discovered it was lost. had he
+requested the recording before may 2024, which was still a year after mr.
+kikiantonis’ arrest, it would have been preserved. the other case materials
+available to him documented that a strip search on mr. kikiantonis had been
+authorized and that 11 division used audio equipment to record these searches.
+he did not dispute that he had a legal obligation to preserve relevant
+evidence.
+of
+equal concern is that officers walker and moorcroft did not make any notes
+regarding the search procedure involving mr. kikiantonis. dc moorcroft
+acknowledged during his testimony that he had a duty to take detailed notes on
+how the search was conducted, yet he failed to uphold his professional
+standards in this case. in contrast, special constable walker seemed shocked at
+mr. paradkar’s suggestion that his duty to create comprehensive notes of his
+involvement in this case as an officer would include documenting the manner in
+which a strip search was carried out. when confronted with the tps policy
+requiring that level of notetaking, he denied understanding that it meant he
+should personally create these notes. that was not credible.
+the
+policy was crystal clear. while i appreciate dc moorcroft’s candour regarding
+his error of omission, this represents a severe failure on the part of both
+officers. i was particularly taken aback by special constable walker’s
+testimony that he has never taken notes during possibly thousands of strip
+searches. in his view, it seems pointless to do so unless something unusual
+occurs.
+in
+muller
+, the court of appeal found that the police officer's failure to
+create an adequate record of the strip search constituted a breach of
+section 8
+of the
+charter
+: see para. 83. however, in the later decision of
+hassan
+,
+justice nakatsuru of the superior court of justice cautioned that the
+“adequacy of the record required for a strip search will depend on the context
+of the strip search. greater notation of the reasons for, and how, a strip
+search is conducted is necessary for a strip search done in the field than for
+a strip search in a police station”: see para. 62. in that case, while the
+officers could have prepared “better notes”, justice nakatsuru found the record
+adequate and concluded there was no breach of the accused’s section 8 rights. see
+also
+r. v. sitladeen
+,
+2024 onsc 582
+, at paras.
+90-91
+, where justice charney
+reached the same conclusion on similar facts.
+in
+this case, there are no notes on how the strip search at the 11 division was
+conducted. none at all, because the officers did not understand they had a duty
+to prepare them. this is qualitatively very different from the insufficient
+notes that existed in other cases, where at least some notes were prepared. the
+total absence of officer notes in this case is a significant concern. the audio
+recording failed, and the officers have no meaningful recollection of this
+specific strip search. an accurate record could have been easily created at the
+time of the search or shortly thereafter, when the details of that search would
+have been fresh in the officers’ memories.
+i
+find that the failure to create and preserve a proper record of mr. kikiantonis’
+strip search constitutes a breach of
+section 8
+of the
+charter
+:
+see also
+r.
+v. browne
+,
+2012 onsc 3862
+, at para.
+19
+;
+r. v. inyat
+,
+o.j. no.
+551 (s.c.j.), at paras 185-6
+.
+iv.
+the search of mr. kikiantonis at the roadside
+whether
+mr. kikiantonis was subjected to a strip search at the roadside was a matter of
+dispute between the parties. a strip search conducted in the field will only be
+permitted in exigent circumstances. in
+golden
+, at para.
+102
+, justices
+iacobucci and arbour wrote the following:
+such exigent circumstances will
+only be established where the police have reasonable and probable grounds to
+believe that it is necessary to conduct the search in the field rather than at
+the police station.  strip searches conducted in the field could only be
+justified where there is a demonstrated necessity and urgency to search for
+weapons or objects that could be used to threaten the safety of the accused,
+the arresting officers or other individuals.  the police would also have to
+show why it would have been unsafe to wait and conduct the strip search at the
+police station rather than in the field.  strip searches conducted in the field
+represent a much greater invasion of privacy and pose a greater threat to the
+detainee’s bodily integrity and, for this reason, field strip searches can only
+be justified in exigent circumstances.
+in
+golden
+,
+the crown attempted to justify the field search on the basis
+"that exigency arose from the risk that this evidence might be lost or
+destroyed if police waited to conduct the strip search until the appellant was
+transported to a police station": see para. 107. an officer had observed
+the appellant crushing what appeared to be crack cocaine between his fingers
+just after his arrest. the supreme court rejected the crown’s argument, noting
+that the police station was only a short distance away, as was 11 division in
+the case of mr. kikiantonis. there was no reasonable prospect that the appellant,
+who was handcuffed, would have been able to discard the drugs hidden on his
+person surreptitiously.
+in
+r. v. pilon
+,
+2018 onca 959
+, the appellant was arrested in a motel room
+and placed in handcuffs. officers observed him attempting to put his hands in
+the front and back of the shorts he was wearing. following a search incident to
+the arrest, the officers noted that the appellant was wearing two pairs of
+athletic shorts and continued their search, looking inside the second pair. an
+officer was able to observe the top of the appellant’s buttocks and an elastic
+band attached to his penis.
+the
+officer who conducted the search testified that, based on previous
+investigations, he was concerned the appellant might have drugs in his groin
+area. the court of appeal held that the crown failed to provide sufficient
+evidence of exigent circumstances related to safety or the need to preserve
+evidence to justify a field search. there was a violation of the appellant’s
+section 8 rights: see paras. 31-32.
+similarly,
+in
+bootsma
+,
+supra
+, rcmp officers investigating the accused
+noticed a bulge in his pants near the waistband. the officers were concerned
+that he might be concealing something, such as a weapon. they also had
+information that he was travelling to sell drugs. an officer pulled mr.
+bootsma’s underwear waistband away from his body and looked down to see what
+was there. justice funk held that the search constituted an unlawful field
+strip search, breaching
+section 8
+of the
+charter
+: see paras. 82-86.
+assessing
+the evidence relevant to this issue, i find dc dunlop’s testimony to be unreliable.
+he repeated during his testimony that he had memory issues and was often “not
+sure” of a detail, lacking a strong, independent recollection of how he
+searched mr. kikiantonis. additionally, he was not wearing a body-worn camera
+at the time, and he acknowledged that his notes contained errors and were
+missing details. there were also notable inconsistencies in his testimony, such
+as whether dc storey or dc kapitany ordered the takedown of mr. kikiantonis. his
+failure to take comprehensive notes of his role in the investigation, combined
+with his poor memory, significantly diminishes the weight i can attach to this
+testimony.
+he
+denied strip searching mr. kikiantonis specifically but agreed that he
+conducted a “thorough” search at the roadside. he remembered that he checked
+mr. kikiantonis’ waistband to ensure nothing was “hidden in there.” he agreed
+he was searching with both his hands and eyes and explained that the purpose of
+the waistband portion of his search was to see if anything might be “down
+there,” referring to mr. kikiantonis’ lower body inside his pants. how he
+distinguished a frisk search from a strip search in his mind was not clarified.
+the
+other officers present at the time were not helpful. dc vukovic testified that
+he was not paying attention to what transpired between dc dunlop and mr.
+kikiantonis. dc mckenzie was “not focused” on the manner of search conducted by
+dc dunlop. dc sgroi did not believe he witnessed a strip search but was “not
+sure” if he ever saw mr. kikiantonis’ underwear exposed and was not personally
+inspecting the search. he did see mr. kikiantonis leaning over the hood of one
+of the other officers’ undercover police cars. det. storey witnessed this as
+well but, similarly, was not paying attention to the search conducted by dc
+dunlop and only observed a “small part” of it.
+by
+contrast, mr. kikiantonis’ testimony was credible and reliable. he provided detailed
+information about how dc dunlop searched him. he was adamant that there was a
+pat-down search followed by a frisk search that involved his clothing being
+manipulated. unsurprisingly, the events stood out in his mind. he was looking
+directly at dc dunlop when the officer pulled back his jeans and underwear
+while looking down into his pants. he was honest about his inability to provide
+some details, such as which officers were immediately present or precisely
+where he was standing on the sidewalk. he explained that his mind was focused
+on how he was being treated and how he felt. on the body-worn camera footage of
+the two transporting officers, which recorded mr. kikiantonis shortly after his
+arrest, he appears distraught, as if something had happened to him out of the
+ordinary earlier that evening. i find this lends support to his testimony, which
+i accept.
+on a balance of probabilities, i conclude that mr. kikiantonis
+was subjected to a brief field strip search by dc dunlop.
+the
+crown has not demonstrated any exigent circumstances to justify this search.
+mr. kikiantonis was cooperative and passive. he was handcuffed almost
+immediately after his arrest. not a single officer observed him attempting to
+conceal anything. he was going to be transported to 11 division, a short
+distance away. the mere possibility of something unsafe being located elsewhere
+on his person after the frisk search was completed does not justify a strip
+search done in public view.
+i
+therefore find another breach of
+section 8
+of the
+charter
+. there was no
+record created of this field strip search whatsoever by dc dunlop. the
+importance of properly documenting such a search is well established, and the
+failure of the officer to do so significantly elevates the seriousness of the
+breach: see
+hassan
+,
+at para.
+62
+.
+charter
+section 7
+i
+am satisfied that
+section 7
+of the
+charter
+was also violated in each of these
+occasions. in
+r. v.
+s.c.
+,
+2025 onsc 1887
+, justice campbell found
+that an unlawful strip search can constitute a violation of a detainee’s
+“security of the person”: see para. 144.
+however,
+i find, as justice campbell did, that the violations in this case under section
+7 essentially mirror those that occurred under section 8: see para. 148. in
+r.
+v. j.f.,
+2025 oncj 54
+, justice rose held that “[w]hen the constitutional
+standard under parallel
+charter
+sections is engaged it is not necessary
+to make findings under both, or all particularly where the remedy would be the
+same”: see para. 67. justice campbell endorsed this analysis at para. 151 of
+his decision, and i do as well.
+charter
+section
+12
+in
+s.c.,
+campbell j. held that a strip search would not normally constitute
+a violation of
+section 12
+of the
+charter
+: see para. 159.  that decision
+is binding upon me. i dismiss this component of the application.
+charter
+section
+10(b)
+sgt. raspberry did not provide mr. kikiantonis with an opportunity
+to consult with counsel after he was informed he would be strip-searched at 11
+division. according to
+thompson
+, this constitutes a violation of
+section
+10(b)
+of the
+charter
+.
+remedy –
+charter
+section 24(2)
+section
+24(2)
+of the
+charter
+requires the court to determine whether the
+admission of evidence obtained in breach of an accused person’s
+charter
+rights could bring the administration of justice into disrepute. the supreme
+court of canada summarized the applicable law in
+r. v. tim,
+2022 scc 12
+,
+at paras.
+74-5
+:
+section 24(2)
+of
+the
+charter
+is triggered where evidence is “obtained in a manner”
+that violates an accused’s
+charter
+rights. a
+s. 24(2)
+inquiry examines the
+impact of admitting evidence obtained in breach of the
+charter
+on
+public confidence in the justice system over the long term, based on three
+lines of inquiry: (1) the seriousness of the
+charter
+-infringing state conduct;
+(2) the impact of the breach on the accused’s
+charter
+-protected interests; and
+(3) society’s interest in the adjudication of the case on the merits.
+a court’s task is to balance the assessments under these three lines of inquiry
+“to determine whether, considering all the circumstances, admission of the evidence
+would bring the administration of justice into disrepute” (
+grant
+, at
+para. 71; see also
+le
+, at paras. 139-42).
+section 24(2) does not create
+an automatic exclusionary rule when evidence is obtained in breach of
+a
+charter
+right. the accused bears the onus of establishing that,
+having regard to all the circumstances, the admission of the evidence would
+bring the administration of justice into disrepute (see
+collins
+, at
+p. 280;
+fearon
+,
+at para. 89; see also s. c. hill, d. m. tanovich and l. p.
+strezos,
+mcwilliams’ canadian criminal evidence
+(5th ed.
+(loose-leaf)), at § 19:12).
+the
+supreme court in
+tim
+reiterated how a trial court should assess whether
+evidence was “obtained in a manner” that breached an accused person’s
+charter
+rights at para. 78. courts should take a “purposive and generous approach”,
+considering the “entire chain of events” involving the
+charter
+breaches and
+the impugned evidence. the connection between the breaches and evidence can be
+“temporal, contextual, causal or a combination of the three.” a strict causal
+connection is not required, however: see also
+r. v. mian
+,
+2014 scc 54
+,
+at para.
+83
+. at the same time, too remote or tenuous a connection is not
+sufficient:
+r. v. wittwer,
+2008 scc 33
+, at para.
+21
+.
+mr.
+kikiantonis’ arrest and the search that occurred incident to that arrest
+directly led to the discovery of the firearm. but the strip searches, in my
+view, must also be considered. he should not be denied potential
+charter
+relief
+under
+section 24(2)
+for these breaches of
+section 8
+rights because the strip
+searches occurred after the firearm was already located. in this case, the
+events “wove a single tapestry of investigative activity”: see
+thompson
+at
+para.
+90
+.
+i.
+seriousness of the
+charter
+-infringing
+conduct
+under the first branch of the
+grant
+test
+,
+i must situate
+the police conduct on the scale of blameworthiness. the more blameworthy the
+conduct, the stronger the argument for excluding the evidence:
+r. v.
+paterson
+,
+2017 scc 15
+, at para.
+43
+.
+the officers agreed they did not have sufficient grounds to justify
+mr. kikiantonis’ arrest when they first observed him. various officers
+indicated that they were tasked with investigating and conducting surveillance.
+they did not have a warrant for him. it was only when dc sgroi communicated
+that he had made observations leading him to conclude that the accused was in
+possession of a firearm that a decision was made to initiate a takedown. that
+was the inflection point.
+as i have concluded, this was insufficient to establish reasonable
+and probable grounds. far more was required. mr. kikiantonis was arrested based
+on little more than mere suspicion that he possessed a firearm. additionally,
+there was no urgency that would have justified their conduct: see
+hassan
+,
+at para.
+113
+.
+i do not, for a moment, suggest that police officers should refrain
+from acting on information provided to them about illegal firearm ownership. i
+recognize that they must make rapid decisions in often volatile situations
+where serious, if not overwhelming, public safety concerns may be present: see
+r.
+v. golub
+,
+1997 canlii 6316
+(ont. c.a.). but this was not a case involving
+exigent circumstances. the officers acted without sufficient grounds. the fact
+that their suspicion, in this case, turned out to be correct does not lessen
+their blameworthiness: see
+beaver
+at para.
+72
+.
+i acknowledge this was not a case of blatant disregard for
+charter
+rights either. the officers, at the time, had access to more information than i
+may lawfully consider, due to my ruling on the
+garofoli
+application.
+nevertheless, even with access to that information, they still did not believe
+they could arrest mr. kikiantonis when they first located him. undue reliance
+on dc sgroi’s observations that mr. kikiantonis was grasping at his jacket
+pocket constituted an error in judgment. however, i accept that dc sgroi
+genuinely believed mr. kikiantonis likely had a firearm. i find that the
+decision to make an arrest therefore falls at the less severe end of the scale
+of culpability and moderately favours exclusion: see
+tim
+at paras.
+76-80
+.
+the same cannot be said for the level of state misconduct regarding
+the various strip searches that occurred. dc dunlop and special constable
+walker appeared to be unaware of the limits of their authority to search mr.
+kikiantonis, despite unambiguous instructions from tps policy and 20 years
+since the supreme court’s decision in
+golden
+. both officers showed
+carelessness in their duties and disregard for mr. kikiantonis’ constitutional
+rights. furthermore, the fact that no officer that night attempted to ensure
+that a proper record was created of the formal strip search that was
+authorized, including det. raspberry, demonstrates significant police
+negligence.
+worse, dc dunlop conducted a field strip search without justification,
+and i rejected his testimony that it did not occur. there was a pattern of
+charter
+infringing state misconduct that began with mr. kikiantonis’ arrest.
+i acknowledge that sgt. raspberry cannot be faulted for failing to
+provide mr. kikiantonis with a further opportunity to consult with counsel after
+the decision was made to authorize a strip search.
+thompson
+had not yet
+been decided, and the state of the law at the time did not yet create such a
+constitutional obligation: see para. 103.
+nevertheless, overall, there was a pattern of careless police work
+in this case, and courts should disassociate themselves from such conduct, even
+in the absence of a finding of bad faith: see
+r. v. grant and scott
+,
+2025 onsc 3513
+, at para.
+156
+. this factor weighs heavily against the inclusion
+of the evidence when considering these multiple, serious breaches.
+ii.
+the impact of the breach on the
+charter
+-protected
+interests of the accused
+the second part of the
+grant
+test considers the seriousness
+of the impact of
+charter
+breaches on the
+charter
+-protected
+interests of the accused. the "more serious the impact on the accused's
+constitutional rights, the more the admission of the evidence is likely to
+bring the administration of justice into disrepute": see
+r. v. côté
+,
+2011 scc 46 (canlii)
+, at para.
+47
+.
+section 9 protects against arbitrary arrest or
+detention. it safeguards the very liberty interests of all canadians. mr. kikiantonis’
+section 8 and 9 rights were significantly affected by being arrested, handcuffed,
+searched, and transported to 11 division:
+r. v. stevenson
+,
+2014 onca 842
+,
+at paras.
+70-71
+.
+moreover, an unlawful arrest that leads to unjustified searches
+inevitably impacts the arrested person’s privacy interests and human dignity.
+strip searches are humiliating and degrading. in this case, two strip searches
+occurred without justification. one took place in public view on a street
+corner. another was recorded on video at the police division. the final strip
+search was authorized, but no record was kept of what transpired during the
+search. the police misconduct was serious and warrants the court's dissociation
+from these violations of mr. kikiantonis’ rights. each of these violations
+stemmed from the initial unlawful arrest, making them all interconnected.
+mr. kikiantonis was a compelling witness. i accept his testimony
+about the impact these searches had on him without reservation. he described in
+detail how he was searched, on each occasion, and the shame and embarrassment
+that he felt. he did not exaggerate or embellish his testimony and was
+exceedingly fair. he acknowledged that the officers who pulled back his
+underwear and jeans during the “frisk” searches did so only for a few seconds. he
+also agreed officers moorcroft and walker were polite when they completed the
+formal strip search at 11 division and he never touched his body directly.
+but he was not shaken during cross-examination about the humiliation
+that accompanied each of these searches. he was particularly concerned that
+other people, including civilians, could see him being searched while on street
+at the time of his arrest. he directly observed dc dunlop looking down into his
+pants, which was very unsettling. i accept these violations of his
+charter
+rights had a significant impact on him emotionally.
+it would be easy to dismiss the excessive frisk searches in this
+case as having happened relatively briefly and, therefore, deeming them unworthy
+of great weight. the unlawful portion of the search on camera at 11 division
+only lasted two or three seconds, and the search at the roadside was also brief
+in duration. taking such an approach would be wrong. each infraction of mr.
+kikiantonis’ rights violated his dignity and harmed the repute of the
+administration of justice. they formed a pattern of conduct by the police that
+showed disregard for well-established constitutional practices. they matter.
+as
+stated by the ontario court of appeal in
+thompson
+at para.
+54
+:
+it is difficult to quarrel with
+these observations. within the hierarchy of interests protected by
+s. 8
+of the
+charter
+, bodily searches rank among the most intrusive. the removal of clothing
+and inspection of the body, including intimate areas of the body, falls at the
+most serious end of the invasiveness spectrum. the impact of a strip search
+goes beyond the physical. it has the potential to induce anxiety, uncertainty,
+distress, and embarrassment. and as noted in
+fearon
+, it has the
+potential to undermine human dignity.
+with respect to the violation of
+section 10(b)
+of the
+charter
+,
+i
+cannot speculate as to whether mr. kikiantonis would have consulted counsel
+once informed of sgt. raspberry’s decision to authorize a strip search. i agree
+with ms. andersen that mr. kikiantonis had rejected the offer of consulting
+counsel only moments before, as can be seen in the booking video. but he was
+still entitled to the “psychological assurance” that he could have received
+from counsel, when faced with this new jeopardy: see
+thompson
+at para.
+108
+. as noted by the court of appeal, “the call to counsel can serve a
+number of tangible and intangible benefits for the detainee, while imposing a
+relatively minimal burden on police investigators”: see para. 74.
+overall, i must consider the impact of all of the breaches i have
+found and consider them cumulatively:
+thompson
+at para.
+109
+. this factor
+weighs heavily against the inclusion of the evidence.
+iii.
+society’s interest in the adjudication of the
+case on its merits
+the administration of justice may be brought into disrepute due to
+the exclusion of relevant and reliable evidence: see
+grant
+,
+supra
+,
+at para. 81. the firearm serves as reliable evidence that is essential to the
+crown’s case. firearms offences are undoubtedly among the most serious that
+regularly come before the courts in toronto.
+but, as explained by justice akbarali in
+grant and scott
+,
+even
+with that consideration in mind, there is another side to the coin: “society
+has an interest in ensuring that the state acts in a manner that respects
+charter
+rights when investigating people for offences that carry significant penalties
+and the potential for a lengthy term of imprisonment”: see para. 173. i agree
+with this observation, and note that the supreme court has been clear that the
+administration of justice may be brought into disrepute by admitting evidence obtained
+in circumstances, that, if approved of by the courts, would be seen as
+tantamount to “judicial condonation of unacceptable conduct”: see
+r. v. le
+,
+2019 scc 34
+, at para.
+158
+.
+this factor favours admission of the evidence, but not strongly.
+iv.
+balancing
+in
+tim
+, at para.
+82
+, the supreme court described the
+balancing required under section 24(2):
+the final step in
+the s. 24(2) analysis involves balancing the factors under the three lines of
+inquiry to assess the impact of admission or exclusion of the evidence on the
+long-term repute of the administration of justice. such balancing involves a
+qualitative exercise, one that is not capable of mathematical precision (see
+grant, at paras. 86 and 140; harrison, at para. 36). each factor must be
+assessed and weighed in the balance, focussing on the long-term integrity of,
+and public confidence in, the administration of justice (see grant, at para.
+68). the balancing is prospective: it aims to ensure that evidence obtained
+through a
+charter
+breach “does not do further damage to the repute of the
+justice system” (grant, at para. 69). the balancing is also societal: the goal
+is not to punish the police, but rather to address systemic concerns by
+analyzing “the broad impact of admission of the evidence on the long-term
+repute of the justice system” (grant, at para. 70; see also le, at para. 139).
+where officers made an arrest without reasonable and probable
+grounds, but nearly met that standard, an unlawfully seized firearm may still
+be admitted: see
+r. v nicholls
+,
+2022 onca 133
+, at para.
+14
+. however,
+when an officer’s conduct was far from justifying an arrest and indicated bad
+faith, firearms have been excluded: see, for example,
+hassan
+, at paras.
+133-136
+. even in the absence of bad faith or improper motives by the police,
+where they were simply considerably off the mark from what was required for a
+lawful detention or arrest and search, reliable evidence including firearms may
+be excluded: see, for example, justice mcarthur’s recent decision in
+r. v.
+dean,
+2025 onsc 3446
+.
+although i have not found that the officers in this case acted in
+bad faith, the arrest and search that followed were unjustified. the repeated
+strip searches were carried out with indifference to mr. kikiantonis' dignity
+and well-established law. the failure to properly document them was grossly
+negligent. mr. kikiantonis should also have been allowed to consult with
+counsel after being informed by sgt. raspberry that he would be subject to a
+strip search at 11 division.
+the series of
+charter
+breaches that occurred in this case
+were all undertaken by a single police service, within a relatively short
+timeframe, establishing a pattern which demands denunciation from the court:
+see
+thompson
+at
+para.
+122
+.
+if the first and second inquiries strongly favour exclusion, the
+third inquiry will rarely, if ever, tip the balance the other way:
+le
+,
+at para. 142;
+r. v. lafrance
+,
+2022 scc 32
+, at para.
+90
+. in my final
+assessment, the combined force of the first two lines of inquiry in this case
+outweighs the third factor, and the balance therefore demands the exclusion of
+the firearm:
+beaver
+at para.
+134
+.
+charter section 24(1)
+due to my conclusion under section 24(2), i decline to address mr.
+paradkar’s alternative written submission that a stay of proceedings was an
+appropriate remedy.
+conclusion
+as the firearm and ammunition have been excluded from evidence, i
+find mr. kikiantonis not guilty of all charges.
+released: july 28, 2025
+signed:
+justice brock jones
+i permitted the officer to provide an estimate of his location after the crown
+raised public-interest privilege regarding the precise investigative techniques
+employed that evening: see, for example,
+r. v. hernandez
+,
+2010 bcca 514
+,
+at para.
+23
+.
+during final arguments, ms. andersen suggested the officers could have lawfully
+detained mr. kikiantonis even if they lacked the grounds to arrest him. without
+deciding the matter, i note that the officers did not invoke the common law
+power of investigatory detention in their testimony. as stated by the british columbia
+court of appeal in
+r. v. whitaker
+,
+2008 bcca 174
+, “when the police have
+wrongfully arrested someone, their actions cannot be defended on the basis that
+they could have detained this person on some other basis. in deciding whether
+the police infringed
+charter
+rights, they are to be judged on what they did,
+not what they could have done”: see para. 65;
+r. v. sabiston
+, sask.
+c.a., reasons of tholl j.a. at para. 93, adopted by the supreme court of
+canada: see
+r. v. sabiston,
+2024 scc 33
+.

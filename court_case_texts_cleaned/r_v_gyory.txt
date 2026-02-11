@@ -1,0 +1,440 @@
+ontario court of justice
+citation:
+r. v. gyory
+, 2025 oncj 536
+date:
+2025 10 10
+court
+file no.:  central east 4911-998-24-91110634-00
+between:
+his
+majesty the king
+— and
+—
+peter gyory
+before
+justice peter d. tetley
+heard
+on september 2 and 22, 2025
+reasons
+for judgment released on october 10, 2025
+naime sayde........................................................................................ counsel
+for the crown
+the defendant peter gyory.....................................................................
+on his own behalf
+tetley j.:
+background
+peter gyory, a self-represented defendant, is
+charged with the offence of operating a motor vehicle with more than the
+lawfully permissible amount of alcohol in his blood, contrary to
+s. 320.14(1)
+(b)
+of the
+criminal code
+, the “80+” offence.
+the charge arises from a york regional police
+service investigation on november 19, 2024.  on that day, the defendant was
+stopped by constable ryan knight, shortly after 12:18 p.m., while operating a
+commercial vehicle northbound on highway 27 in the township of king.
+the officer’s attention was initially attracted
+by the fact the vehicle did not have a front licence plate.  on speaking to the
+defendant, constable knight testified that an odour of alcohol could be
+detected on the defendant’s breath.  this prompted an approved screening device
+or asd demand at 12:20, with the defendant registering a “fail” at 12:23 p.m.
+the failed roadside test confirmed that the concentration of alcohol in the
+defendant’s blood (his blood alcohol concentration or b.a.c.) was at least “100
+milligrams or higher” according to the investigating officer.  constable knight
+then proceeded to arrest the defendant at 12:30 p.m. for the offence of “over
+80” or having “more than 80 milligrams of alcohol in the blood.”
+after the arrest, right to counsel, and caution,
+the defendant was taken to 1 district headquarters in newmarket where
+subsequent breath tests confirmed the concentration of alcohol in the
+defendant’s blood to be 109 milligrams of alcohol in 100 millilitres of blood
+at the time of the completion of the initial breath test and 95 milligrams of
+alcohol at the time of the completion of the second breath test.
+the samples of the defendant’s breath were secured
+pursuant to a roadside demand by the arresting officer.  the demand was issued
+at 12:31 p.m. and was confirmed as being understood by the defendant.  the
+demand was repeated by the qualified technician, police constable alexandra
+positano, prior to the defendant’s provision of further breath samples at the
+police station with the arresting officer advising that he had no further
+dealings with the matter once the defendant had been placed in the control of
+officer positano.
+the issues
+at the conclusion of the presentation of
+evidence by the prosecution, the defendant elected to call no evidence.  two issues
+were identified as having arisen in the prosecution’s case as follows:
+(i)
+the admissibility of the certificate of
+qualified technician in the absence of any direct evidence that the certificate
+had been served on the defendant in advance of trial; and
+(ii)
+whether the crown was able to rely on the
+testimony of the qualified technician, as to the defendant’s blood alcohol
+concentration readings, were the certificate to be deemed inadmissible.
+the law
+i am indebted to ms. sayde for her industry in
+addressing these concerns in a comprehensive and objective fashion.  in
+circumstances involving an unrepresented defendant, it falls to both the court
+and the crown to ensure all available defences are identified and addressed.
+the crown in such circumstances acts as a quasi-minister of justice in ensuring
+that the fair trial interests of the unrepresented defendant are protected.
+ms. sayde has discharged that obligation with distinction.
+analysis
+a.
+proof of service of the certificate
+leaving aside the arresting officer’s incomplete
+description of the results of the failed approved screening device test (confirmation
+of a blood/alcohol concentration of more than 100 milligrams of alcohol in
+100
+millilitres of blood
+), i am satisfied that a lawful basis existed for the
+breath demand that ensued.  the initial consideration here is whether the crown
+has proven service of the qualified technician’s certificate in the absence of
+direct evidence in relation to that issue and the seemingly erroneous factual
+assertion by the arresting officer that his involvement in the investigation
+ended once he turned the defendant over to the qualified technician.
+the crown references an alberta court of appeal
+decision,
+r. v. sirman
+,
+2020 abca 174
+, in support of the contention that
+proof of service can be established by both direct evidence or circumstantial
+evidence, or both.  on the trial record here, the crown asserts that
+confirmation of service of the certificate of qualified technician is
+established by the arresting officer’s signature attesting to service of the
+certificate on the defendant, who acknowledged service by his own endorsement
+on the certificate itself.
+even in the face of conflicting testimony on
+this point by the arresting officer, the signatures on the face of the
+certificate itself are submitted to establish proof of service on the balance
+of probabilities standard required by what was then s. 258(7) (now s.
+320.32(2)).  service of the certificate in advance is a pre-requisite to
+admissibility when the crown relies on certificate evidence to prove a 80+ offence.
+as noted in
+sirman
+, at para.
+2
+, “no certificate shall be received in
+evidence unless the party intending to produce it has, before the trial, given
+to the other party reasonable notice of their intention to produce it and a
+copy of the certificate.”  see also
+r. v. redford
+,
+2014 abca 336
+, at
+para.
+10
+.
+the issue was explored in greater detail, much “closer
+to home”, by b.p. o’marra j. of the ontario superior court of justice, in
+r.
+v. zorlescu
+,
+2015 onsc 3458
+, with extensive reference being made to
+paragraphs 31-36 of
+r. v. oslowski
+,
+2006 oncj 488
+, o.j. no. 5036,
+a decision of justice b. duncan of the ontario court of justice.  the jurisprudence
+relating to the requirement for reasonable notice under s. 258 of the
+code
+was summarized in
+“
+oslowski
+”
+as follows:
+31
+reasonable notice is a concept,
+not a document:
+r. v. spreen
+(1987)
+1987 abca 189 (canlii)
+,
+40 ccc (3d) 190
+alta ca
+.
+as a concept, it is capable of evolution and must be considered in the existing
+legal context. that context includes the advent of full pre-trial disclosure of
+all relevant evidence to the defence. such disclosure substantially if not
+wholly fulfills the purposes that this provision, rooted in the pre-disclosure
+era, was designed to serve: see
+r. v.
+balen
+(2003),
+30 m.v.r. (4th) 1
+aff'd
+39
+m.v.r. (4th) 94
+. a further legal development is the decision of the
+court appeal in
+r. v. mackinnon,
+2003 canlii 48350 (on ca)
+,
+o.j. no. 3896
+clarifying
+that reasonable notice is a question to be determined on the balance of
+probabilities, and not proven beyond a reasonable doubt
+10
+.
+it seems to me that these two developments render much of the earlier case law
+obsolete and certainly warrant a departure from the punctiliousness of former
+days.
+32
+having said that, there are a
+number of relevant principles from the decided cases under this and similar
+provisions in other statutes: notice need not be in writing:
+r. v. bowles
+(1974),
+1974 canlii 1442 (on ca)
+,
+16 c.c.c. (2d) 425
+(ont ca)
+. notice need not be formal in
+any way:
+r. v. penno
+(1977),
+1977 canlii 1626 (bc ca)
+,
+35 c.c.c. (2d) 266
+(bcca)
+. notice may be given to counsel
+or counsel's representative:
+r. v. meyer
+(1976),
+1973 canlii 1525 (bc ca)
+,
+29 c.c.c. (2d) 165
+(bcca)
+.
+notice is directed to alerting the other party as to the possibility, not the
+certainty, that a certificate will be used - it is notice that the
+certificate
+may
+be used in evidence;
+r. v. good et al
+(1983),
+1983 abca 141 (canlii)
+,
+6 c.c.c. (3d) 105
+(alta ca)
+.
+33
+further, there is a consistent
+line of authority holding that, where no notice at all has been given, the
+tendering of a certificate at a preliminary inquiry provides sufficient
+compliance with the notice requirement:
+r. v. kwok
+(2002),
+2002 bcca 177 (canlii)
+,
+164 c.c.c. (3d) 182
+(bcca)
+; r. v. chang
+(1996),
+1996 canlii 2996 (bc ca)
+,
+106 c.c.c. (3d) 87
+(bcca)
+; r.
+v. norris,
+1993 canlii 681 (bc ca)
+,
+b.c.j. no. 1900
+,
+57 w.a.c. 133 (bcca
+);
+r. v. penno
+supra r. v. cordes
+(1978),
+1978 altascad 94 (canlii)
+,
+40 c.c.c. (2d) 442
+(alta ca)
+and
+most recently
+r. v. dillon,
+o.j. no. 2516
+hill
+j
+. since no notice
+per se
+was
+given in any of those cases, it is apparent that those cases have interpreted
+the section as meaning "put on notice". in other words, nothing,
+written or verbal has to be specifically "given".
+34
+finally, whether reasonable notice
+has been given is a question of fact:
+r. v.
+morrison
+(1982)
+1982 canlii 3670 (nb ca)
+,
+70 c.c.c. (2d) 193
+(nbca
+per laforest j.a.)
+. this is important because, as a
+question of fact, its resolution is a matter of reason, logic, common sense and
+experience applied to evidence, and not a matter of precedent. further, like
+all facts, it can be established by direct evidence or inference.
+35
+accordingly, the issue
+becomes
+whether the court is satisfied on a balance of probabilities by
+direct evidence or by inference that, one way or another, the defendant or his
+counsel was reasonably put on notice that a certificate might be used at his
+trial
+. the short resolution of that issue in this case is
+that i am satisfied that, on the night of the breath testing, the arresting
+officer
+did
+provide notice of intention to the defendant
+at the same time that he served the certificate of analysis itself. while his
+notes were not specific, it is my view that it is more likely than not that the
+notice of intent given at that time was in relation to the concurrently served
+certificate and not in relation to the breach of probation charge.
+36
+further, quite apart from the
+above, it is my view that the service of the certificate itself on a defendant
+represented by counsel
+11
+satisfies the test as
+set out above. after all, in any other case where a defendant represented by
+counsel receives a package of disclosure, it goes without saying that it is
+understood that the material may be presented in evidence. why should the
+understanding be any different here? add to this understanding the fact that
+proof by certificate is a routine procedure and the certificate's admissibility
+as evidence is clearly set out in a well-known statutory provision, and the
+conclusion is inescapable that the test for notice has been satisfied.
+justice o’marra similarly concluded that proof
+of notice could be established on the balance of probability standard as
+previously concluded by the alberta court of appeal in
+redford
+and
+re-affirmed later in
+sirman
+.
+b.
+admissibility of the breath test results in the
+absence of the certificate of the qualified technician
+on this issue, ms. sayde makes reference to
+another decision of the ontario superior court of justice,
+r. v. yi wu
+,
+o.j. no. 5000
+, a decision of justice g. roberts, in support of the contention
+that the crown can rely on the “
+viva voce”
+or oral testimony offered by
+the breath technician to establish the breath test results and for those
+results to be admissible in evidence at common law.  preconditions for
+admissibility require that the court is satisfied that the instrument was capable
+of making the measurement in issue, was in good working order and was properly
+used at the material time.  see also
+r. v. mccarthy
+,
+2013 onsc 599
+, at
+paragraphs
+21-23
+.
+when the prosecution relies on the evidentiary
+shortcut in s. 320.31(1) of the
+code,
+the results of the breath tests
+are conclusive proof of the defendant’s blood alcohol concentration level at
+the time the analysis was made, if the referenced criteria are met.  section 320.31(1)
+provides as follows:
+breath samples
+320.31
+(1)
+if
+samples of a person’s breath have been received into an approved instrument
+operated by a qualified technician, the results of the analyses of the samples
+are conclusive proof of the person’s blood alcohol concentration at the time
+when the analyses were made if the results of the analyses are the same — or,
+if the results of the analyses are different, the lowest of the results is
+conclusive proof of the person’s blood alcohol concentration at the time when
+the analyses were made — if
+(a)
+before each sample was taken, the
+qualified technician conducted a system blank test the result of which is not
+more than 10 mg of alcohol in 100 ml of blood and a system calibration check
+the result of which is within 10% of the target value of an alcohol standard
+that is certified by an analyst;
+(b)
+there was an interval of at least 15
+minutes between the times when the samples were taken; and
+(c)
+the results of the analyses, rounded
+down to the nearest multiple of 10 mg, did not differ by more than 20 mg of
+alcohol in 100 ml of blood.
+the testimony offered by the qualified
+technician confirms that an approved instrument was employed (an intoxilyzer
+8000c), that the qualified technician was appropriately designated, that the
+breath samples were secured from the defendant directly into an approved
+instrument that was found to be in proper working order following a series of
+quality assurance checks.  the defendant’s breath samples were concluded to be
+“good” or “suitable”, with the analysis of the first breath sample revealing a truncated
+blood alcohol concentration of 100 milligrams of alcohol in 100 millilitres of
+blood and the second breath test disclosing a truncated blood alcohol
+concentration reading of 90 milligrams in 100 millilitres of blood.
+conclusion
+based on the foregoing considerations, i
+conclude the prosecution has established proof of the offence alleged on the
+basis of proof beyond a reasonable doubt, the standard of proof that applies in
+a criminal case.
+in reaching this conclusion the following
+findings of fact are warranted:
+(i)
+the defendant is concluded to have been
+operating a motor vehicle, on november 19, 2024, at the time of the traffic
+stop conducted by officer knight;
+(ii)
+a failed approved screening device, or roadside
+breath test, provided a lawful basis for the ensuing demand for further samples
+of the defendant’s breath for analysis by a qualified technician by means of an
+approved instrument, an intoxilyzer 8000c;
+(iii)
+analysis of the subsequently obtained samples of
+the defendant’s breath confirms that the defendant’s b.a.c. exceeded the legal
+limit, contrary to
+s. 320.14(1)
+(b) of the
+criminal code
+; and
+(iv)
+the prosecution may rely, at common law, on the
+trial testimony of the qualified technician to establish the defendant’s b.a.c.
+readings without reliance on the evidentiary shortcut referenced in s.
+320.31(1).  the point of the evidentiary shortcut, as discussed by justice
+roberts at page 3 of
+r. v. yi wu
+, is to avoid the need to call the
+qualified technician to give evidence in relation to the breath test process
+employed and the resulting analysis of the samples of breath provided by the
+defendant.  that testimony is concluded to establish the breath test results as
+admissible and reliable.
+(v)
+alternatively, the prosecution can rely on the
+certificate evidence confirming the breath test results, with the confirmation
+of service of the certificate being concluded as established, on a balance of
+probabilities standard, by the signatures on the certificate of both the arresting
+officer and the defendant.  the trial record is concluded to confirm that the
+defendant received a copy of the certificate of qualified technician before he
+left the police station. that certificate references the results of the breath
+test procedure and confirms that the concentration of alcohol in the
+defendant’s blood exceeded the legal limit within two hours after the defendant
+had ceased to operate a commercial vehicle.
+verdict
+based on the foregoing analysis, the defendant
+shall be found guilty of the
+s. 320.14(1)
+(b) offence.
+released:  october 10, 2025
+signed:
+justice peter d. tetley

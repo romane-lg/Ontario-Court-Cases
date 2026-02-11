@@ -1,0 +1,631 @@
+ontario court of justice
+citation:
+r.
+v. wilhelm
+, 2025 oncj 594
+date:  2025 11 13
+court file no.:  windsor
+22-81101040
+between:
+his majesty the
+king
+— and —
+nicholas
+wilhelm
+before justice s.
+g. pratt
+heard on 9
+september 2025
+reasons for
+judgment released on 13 november 2025
+andrea harris...................................................................................... counsel
+for the crown
+evan weber.................................................................................
+counsel for the defendant
+pratt j.:
+on
+5 september 2025, i found nicholas wilhelm (hereinafter “the offender”) guilty
+of possessing child pornography.  sentencing submissions were made on that
+date.  these are my reasons for sentence.
+facts
+the
+windsor police service was made aware by the national centre for missing and
+exploited children of a facebook user who was sharing child pornography.  the
+specific internet protocol (ip) address used for the sharing was investigated,
+as was the related facebook account.  the information gained in that
+investigation led police to the offender.  he was the facebook user, and the ip
+address was related to his residence.
+on
+arrest, police searched the offender’s phone.  a partial analysis was carried
+out.  the results of that analysis are summarized in the categorization report
+filed as an exhibit.  while there were 115,818 total images on the phone, only
+20,961 were reviewed.  of that number, police found 123 unique videos that met
+the definition of child pornography.  there were as well 100 images of child
+pornography, but police determined that all but one was a thumbnail image that
+corresponded to one of the found videos.  these thumbnails were in the phone’s
+cache file.  as the report noted, “this means the video files were
+viewed/accessed on the samsung galaxy s8, thereby creating the thumbnail images
+of the videos.”  i do not understand the crown to be arguing additional
+culpability as a result of these images specifically as it appears they were
+created without the input of the offender once the related videos were
+accessed.
+unlike
+the images, the videos were not found in a cache file.  rather, each was found
+in the phone’s facebook messenger folder.  they had been actively downloaded by
+the offender.
+the positions of the parties
+for
+the offender, counsel seeks a conditional sentence of 18 months.  he points to
+the offender’s taking of responsibility for his actions and also relies on
+caselaw that confirms conditional sentences are not unheard of for this
+offence.
+crown
+counsel seeks a sentence of 12 months jail, followed by probation, together
+with various ancillary orders.  while acknowledging that conditional sentences
+are available, counsel argues it would be inappropriate in this case.  the
+crown also filed caselaw in support of its position.
+the pre-sentence report
+the
+pre-sentence report (psr) in this case is mixed.  it sets out the offender’s background,
+which was largely positive.  he enjoyed a good relationship with his mother and
+had his needs met as a child.  he was in a relationship for 25 years, which
+produced three children.  the relationship ended in 2006 when the offender was
+charged with threatening his partner.  he maintains some contact with his two
+sons, but is closest to his daughter.  he said both he and his partner had
+issues with alcohol, which contributed to the demise of their marriage.
+since
+the end of the marriage, the offender has been in two other long-term
+relationships: one of ten years’ duration, and his current relationship, which
+began approximately five years ago.
+the
+offender has been employed for most of his adulthood.  he worked at an
+automotive company for 23 years and in roofing for 6 years.  for the past four
+years, he has worked as a process operator.  he continues to hold that job.  on
+retirement, he would like to move out of the city.
+regarding
+addictions, the offender has struggled with alcohol for a long time.  he
+attended rehab in 2009 and maintained sobriety for 18 months before relapsing.
+currently, he told the psr author he drinks two beers a night.  he doesn’t see
+his drinking as a problem currently, but agreed he could probably benefit from
+counselling just the same.
+at
+the time of the offence, the offender said he was drinking heavily.  this, he
+said, is no longer the case.
+generally,
+the above is positive.  the offender has support from his family and is
+employed.  he appears to have his alcohol consumption under control.  all of
+these facts reflect well on him.
+that
+being said, the psr also produces some concern.  this is from pages 4 and 5:
+the subject stated he was heavily drinking
+during this period of his life, and he was single during the time that he was
+part of the “adult discussion groups”. when questioned about the nature of the
+discussion groups, he remained vague and denied any pornographic content.
+it
+is curious that the offender would point to these adult discussion groups when
+discussing the offence, but then deny there was any pornographic content in
+them.  later on page 5, the psr author noted:
+…he demonstrated difficulty accepting
+responsibility, indicating he was not aware of the content of the videos he had
+saved.
+this
+issue was addressed in submissions.  after hearing from both counsel and from
+the offender himself, the following became clear: the offender downloaded adult
+pornography through facebook.  amongst the adult material, he also downloaded
+child pornography.  while that initial download may not have been intentional,
+he soon realized what he had and took no steps to delete it.  i am satisfied he
+had the requisite knowledge and control to establish possession of the
+material.  i note further there is no suggestion this material sat unseen in
+the messenger folder.  as the categorization report stated, the thumbnail
+images were only created after the videos were viewed.  this was not a case of
+a handful of child pornography files mixed unexpectedly into a long list of
+other downloads.  it was 123 unique videos of children and toddlers being
+abused by adults.  the offender saw what he had and intentionally kept it.  respectfully,
+his statement to me that “i was intending on removing it, i just hadn’t gotten
+around to it yet” does not ring true.  deleting a file from a cell phone is not
+an onerous process.  if he’d wanted to delete them, he would have.
+principles of sentencing
+parliament
+has enacted several sections of the
+criminal code
+that are relevant to the
+present case.
+to
+begin, s. 718 sets out the purpose and principles of sentencing.  a sentence
+should protect society and encourage respect for the law.  it must consider
+several objectives, like denunciation, deterrence, rehabilitation, and
+reparation.
+section
+718.01 requires a sentencing court to prioritize denunciation and deterrence
+when an offence involves the abuse of a person under 18 years old.  while the
+offence before me does not involve hands-on abuse of a child by the offender, it
+clearly involves child abuse.  i am mandated to emphasize denunciation and
+deterrence in fashioning an appropriate sentence.
+section
+718.2(a)(ii.1) makes the abuse of a person under the age of 18 an aggravating
+factor.  again, while there was no hands-on abuse in the present case, as
+stated by justice woolcombe in
+r.
+v.
+john
+2017 onsc 810 (canlii)
+,
+o.j. no. 651
+(s.c.j.)
+, “inherent in the possession of child pornography is the abuse of
+children” (see par. 26).
+further,
+a person should not be deprived of their liberty if other less restrictive
+sanctions may be appropriate in the circumstances, and any sentence imposed
+should be similar to those imposed in similar cases.
+finally,
+and fundamentally, a sentence must be proportionate to the gravity of the
+offence and the degree of responsibility of the offender.
+caselaw
+both
+counsel relied on several cases in support of their positions.  i begin by
+noting that after submissions were completed, the supreme court of canada
+released its decision in
+quebec (attorney general)
+v.
+senneville
+2025 scc 33
+.  this case officially struck down the mandatory minimum sentence
+of one year jail when the offence before me is prosecuted by indictment.  i say
+“officially”, as courts in ontario had been effectively functioning without
+that minimum since the decision of our court of appeal
+in
+r.
+v.
+john
+2018 onca 702
+.
+while
+senneville
+has come under significant public scrutiny, justice pardu in
+john
+explained why minimum sentences for the present offence are not required.  her
+honour said this at paragraph 41:
+the mandatory
+minimum is entirely unnecessary. this court has recently emphasized the
+importance of denunciation and deterrence for any offence involving abuse of a
+child, and that those principles are the primary principles of sentencing
+applicable for such offences involving child pornography: r. v. inksetter
+(2018),
+141 o.r. (3d) 161
+,
+o.j. no. 2702
+,
+2018 onca 474
+, at para.
+16
+. in
+another recent decision, r. v. s. (j.),
+o.j. no. 4095
+,
+2018 onca 675
+,
+this court upheld a sentence of 18 years for sexual abuse of young children,
+making child pornography depicting that abuse and distribution of that
+material.
+the
+removal of any mandatory minimum sentence in this case really has little effect
+on my decision.  the possession of child abuse material was a gravely serious
+offence before
+senneville
+and
+john
+, and it remains so today.
+the
+defence cases largely support the imposition of a conditional sentence, while
+the crown cases do not.
+as
+i have said elsewhere,
+r.
+v.
+friesen
+2020 scc 9 (canlii)
+,
+1 s.c.r. 424
+was a
+watershed moment in canadian criminal jurisprudence.  it stated clearly that
+sentences for child abuse in canada were too short and needed to be increased.
+it recognized the permanent, horrible damage abuse can inflict on children.
+that applies both to children who are abused by the offenders before the court,
+as well as those who are abused throughout the world to feed the demand for
+child pornography.  it must be further remembered that in the case of images or
+videos of child abuse, those files can live forever online.  each time they are
+viewed, the child is victimized again.  images and videos of abuse created
+today will still be available years from now.  thanks to the internet, the
+abuse and victimization is perpetual.
+all
+sentencing decisions for this offence must take
+friesen
+into account.
+r.
+v.
+pike
+2024 onca 608
+is a decision of chief justice tulloch.  in this lengthy and detailed
+ruling, the chief justice spoke powerfully of the effect this offence can have
+on its victims.  at paragraph 7, his honour said:
+these offences against children are
+abhorrent in nature and have lasting and widespread societal impact. by
+possessing recordings depicting the sexual abuse and exploitation of children
+over the course of three decades, mr. scott sexually abused children by
+invading their privacy, wounding their dignity, and causing them serious
+emotional harm. he shares culpability with those who produced the images
+depicting the victimization of children that he possessed on his digital
+devices. the offences for which he was charged normalize and increase the
+demand for further child abuse and exploitation. they increase the risk of
+sexual abuse of children and perpetuate demeaning messages that children are
+property or objects and not people. a child-centered approach to sentencing
+requires judges to consider child victims and the wrongs and harms that people
+who possess child pornography inflict on them, to reject myths that minimize
+the perpetrator’s responsibility and, finally, to apply a denunciatory
+sentencing range that reflects the abhorrent and harmful nature of these
+offences and their long-term negative impacts on children.
+at
+paragraphs 144 – 165, chief justice tulloch set out in detail the myriad ways
+in which the possession of child pornography is a gravely serious offence that
+harms victims and society.  i will not repeat those paragraphs here but i do
+rely on them in determining a fit sentence in the present case.
+his
+honour declined to set a lower end for sentencing ranges related to the
+possession of child pornography.  he did note the effect
+friesen
+had in
+raising the upper end of any such ranges.
+the
+case of
+r.
+v.
+rule
+2023 onca 31
+saw a 22-month jail sentence
+upheld by the court of appeal for an offender with a large collection of images
+and videos obtained over the course of several years.  this case included the
+rare circumstance of three victims being located by police and presenting
+victim impact statements.  despite the offender’s age and poor health, the
+trial judge’s sentence, and her determination that a conditional sentence was
+inappropriate, were both upheld.
+the
+offender
+relied on
+r.
+v.
+king
+2020 abpc 219
+.  in that case, king
+was in possession of 1,112 images and 79 videos, as well as 500 written stories
+of child pornography.  while the offender was ultimately sentenced to 18 months
+incarceration, justice fradsham did note that a conditional sentence was not
+unavailable.  his honour cited the manitoba provincial court
+decision of
+r.
+v.
+nepon
+2020 mbpc 48
+as an example of when it was found to be a proper
+sentence.
+in
+nepon
+, the offender was partially blind and had been diagnosed as being
+on the autism spectrum.  the trial judge had the benefit of two experts who
+testified that the offender’s physical and developmental limitations meant any
+sort of custodial environment would be inordinately difficult.  as one expert
+testified, “
+i
+cannot imagine any correctional setting being a suitable place for him. he will
+stand out significantly, be vulnerable and he would not even be able to
+self-isolate if he felt frightened.” (see paragraph 144).  justice devine found
+a custodial sentence would be grossly disproportionate for that offender.  as
+her honour stated at paragraph 109:
+this is a case where the circumstances of
+the offender make it the exception to the rule.
+in
+imposing a conditional sentence, the court stated the following at paragraph 154:
+the sentence will be a
+12-month conditional sentence order (cso) followed by two years of
+supervised probation. the length of the cso and the probation order are in
+recognition of the unintentional punitive effect of the release conditions which
+have been in place for over two years, of the over 18 months of effective sex
+offender treatment mr. nepon has already completed, and his low risk to
+reoffend.
+respectfully,
+i see none of the mitigating
+factors in
+nepon
+reflected in the present
+case.  nepon was on a bail condition prohibiting him from using a cell phone,
+but given his vision impairment, he needed his phone to zoom in on things like
+street signs.  he had already undergone significant treatment that the experts
+said was working.  it is not hard to agree with justice devine that
+nepon
+was an exceptional case.
+in
+the case of
+r.
+v.
+friesen
+2021 abpc 223
+(a different friesen from
+the supreme court case), a 21-year old offender who had 100 child pornography
+images on his phone was given a conditional sentence of two years less a day.
+he had no prior record.  his guilty plea was at an early stage of proceedings,
+and he’d taken extensive counselling prior to sentencing.  the sentencing judge
+also noted the publicity that surrounded the case, and the impact public
+knowledge of his offence had had on the offender.
+a
+conditional sentence was also imposed
+in the case of
+r.
+v.
+dutchession
+2021 oncj 480
+.  the offender in that case was 51 years old and had no prior
+record.  he was found to have 5,605 unique images of child pornography on his
+laptop.  justice mcleod found several mitigating factors to be present.  this
+is from paragraph 5:
+i find the
+following to be mitigating facts:
+(1)the
+plea of guilt;
+(2)the lack of
+prior criminal antecedents, which is enhanced by the defendant's age;
+(3)the otherwise
+good character and community involvement of the defendant, including service to
+his country and deployment to combat zones;
+(4)mr.
+dutchession's mental health issues, subsequent and on-going treatment for same;
+(5)mr.
+dutchession's genuine expression of remorse;
+(6)mr.
+dutchession's expression of insight into the damage caused by child
+pornography;
+(7)the
+images accessed were limited to images and not videos;
+(8)the
+collateral consequences suffered by mr. dutchession.
+even
+setting aside the question of whether a collection of images as opposed to
+videos is a mitigating factor (in my view it is not), there were several
+factors present for dutchession that are absent for the offender.  notable is
+the fact that he had been assessed by a psychologist and found to be motivated
+to understand his offence and presented a manageable risk in the community.  as
+well, the covid-19 pandemic was cited by her honour in finding that
+incarceration would be especially difficult.
+finally,
+the defence
+relies on
+r.
+v.
+jongsma
+2021 onsc 796
+, where a
+conditional sentence was imposed on an offender who had himself been the victim
+of sexual abuse in childhood.
+the
+crown relied on several cases that speak against the imposition of a
+conditional sentence.
+r.
+v.
+rousseau
+o.j. no. 877 (c.j.)
+involved a 66-year old offender who possessed 21 unique child pornography
+images.  these images were what has become known as modelling images; that is,
+the victims are posed but are not engaged in sexual activity.  this is not a
+mitigating factor, but the nature of the images means this offender did not
+bear the additional aggravation of depictions of active physical abuse.
+while
+finding a conditional sentence would not endanger the community, justice
+shandler nonetheless imposed 12 months jail, saying the offence required a
+denunciatory sentence.
+in
+r.
+v.
+snead
+2021 onsc 7017
+a conditional sentence was overturned
+on appeal.  the offender possessed six images of child pornography and had
+engaged in online video calls with groups of men where child abuse videos were
+shared.  the summary conviction appeal court found the eight-month conditional
+sentence to be manifestly unfit and replaced it with a 12-month jail sentence.
+the
+crown offered several other cases that all reiterated the same theme:
+possession of child pornography is a very serious offence that requires a harsh,
+denunciatory sentence.  while i will not summarize all of the cases provided, i
+have reviewed them.
+i
+will refer specifically to the court of appeal for ontario’s decision in
+r.
+v.
+m.m.
+2022 onca 441
+.  a unanimous court said this at paragraphs 15 and
+16:
+15  the supreme
+court's instructions from friesen could not be clearer: sentences for sexual
+offences against children must increase. there are no qualifications here.
+sentences have been too low for too long. denunciation and deterrence are of
+primary importance:
+r. v. inksetter
+,
+2018 onca 474
+,
+141 o.r. (3d) 161
+, at para.
+3
+. those who commit sexual offences against children must understand that
+carceral sentences will ordinarily follow.
+16  conditional
+sentences for sexual offences against children will only rarely be appropriate.
+their availability must be limited to exceptional circumstances that render incarceration
+inappropriate - for example, where it gives rise to a medical hardship that
+could not adequately be addressed within the correctional facility. it would
+not be appropriate to enumerate exceptional circumstances here and we make no
+attempt to do so. suffice it to say that no exceptional circumstances are
+present in this case. a sentence of imprisonment should have been imposed.
+the
+bottom line from all of these cases is this: while conditional sentences are
+legally available for this offence, they are to be the rare exception.  absent
+significant extenuating circumstances, they will generally be contrary to the
+purpose and principles of sentencing enacted by parliament and energized by appellate
+courts since  the 2020
+friesen
+decision.
+aggravating and mitigating factors
+in
+aggravation, i note the following factors:
+(1)
+the
+offender’s prior record;
+(2)
+the
+size of the offender’s collection, while not as large as some cases, is larger
+than several of the cited cases;
+(3)
+the
+nature of the material goes beyond modelling and includes children as young as
+two years old engaged in sexual activity with adults.  in one video, a girl
+approximately 9 – 10 years old can be heard crying and asking the adult male
+assaulting her to stop.  that video goes on for nearly three and a half minutes;
+and
+(4)
+the
+videos are of real children.  they are not animations or written stories that
+do not victimize actual people.
+in
+mitigation, i note the following factors:
+(1)
+the
+offender’s guilty plea;
+(2)
+the
+offender has the support of his partner and is gainfully employed;
+(3)
+the
+offender has taken steps to deal with his alcohol addiction, which he said was
+a contributing factor to his offending; and
+(4)
+the
+offender expressed at least limited insight into his offence.  to me directly,
+he expressed shame at his conduct.  to the psr author he said he was “sickened
+and disgusted” with himself.
+analysis
+i
+have already set out how appellate courts tell trial courts to deal with child
+pornography offences.  while each offender is an individual who must be treated
+as such, these offences are gravely serious and must attract meaningful
+sentences.
+the
+offender’s counsel seeks a conditional sentence of imprisonment.  i agree the
+sentence to be imposed here would be less than two years and that the offence
+is not otherwise excluded from the conditional sentence regime.  it is,
+therefore, available.
+would
+a conditional sentence in this case endanger the safety of the community?  taking
+the circumstances of the offence into account, i find the answer is no.  the
+offender has taken steps to bring his drinking under control and is in a
+long-term relationship.  i find it would be possible to address any public
+safety concerns through the imposition of an appropriately restrictive
+conditional sentence.
+a
+conditional sentence, however, would not be consistent with the purpose and
+principles of sentencing.  in every case cited to me where such a sentence was
+imposed, the offender enjoyed mitigating factors that are not present in this
+case.  the caselaw is very clear that conditional sentences for this offence
+should be the rare exception.  i see nothing in the case before me that brings
+it within that definition.  as i have stated elsewhere, a problem with
+conditional sentences for this offence is that they confine the offender to
+what are largely the circumstances under which the offence was committed: he
+must stay in his house at all times.  when a crime is committed by a person sitting
+alone in their home, sentencing them to remain in their home is not especially
+punitive.
+i
+say this recognizing that a conditional sentence can indeed achieve the goals
+of denunciation and deterrence.  i accept that as a principle of conditional
+sentences.  in the present case, however, it would not be sufficient.
+the
+offender possessed well over 100 videos of sickening child abuse.  his moral
+culpability is high.  to emphasize the court’s and society’s condemnation of
+his conduct, a jail sentence is necessary.
+the
+crown seeks a jail sentence of 12 months.  this reflects what had been the
+minimum mandatory sentence prior to
+john
+and
+senneville
+.  in my
+view, taking
+friesen
+,
+pike
+, and other cases
+into account, the
+crown could have reasonably sought a higher sentence.  courts should not be
+hesitant in imposing sentences that truly reflect the horror this material represents.
+that said, this is not a case where i will go above what the crown seeks.  i
+did not advise counsel i was considering that option and so in fairness to the
+offender i will not do so.
+result
+the
+offender will be sentenced as follows:
+(1)
+he
+will be imprisoned for a period of 12 months;
+(2)
+on
+release, he will be bound by a probation order for 24 months on the following
+terms, in addition to the statutory conditions:
+(a)
+report
+in person to a probation officer within two working days of your release from
+custody, and after that at all times and places as directed by your probation
+officer or any person authorized by your probation officer to assist in your
+supervision;
+(b)
+cooperate
+with your probation officer.  you must sign any releases necessary for your
+probation officer to monitor your compliance, and you must provide proof of
+compliance with any condition of this order to your probation officer on
+request;
+(c)
+attend
+and actively participate in all assessment, counselling or rehabilitative
+programs as directed by the probation officer, and complete them to the
+satisfaction of the probation officer, including but not limited to counselling
+for alcohol abuse and psychiatric or psychological issues
+(3)
+he
+will provide a sample of his dna to the windsor police service for inclusion in
+the national dna databank on or before 31 december 2025;
+(4)
+he
+will be bound by an order pursuant to
+s. 161
+of the
+criminal code
+.  the order
+will be pursuant to paragraphs (a) and (b) only, and will be for a period of
+five years;
+(5)
+he
+will register under the sex offenders information registry for a period of 20
+years;
+(6)
+there
+will be a $200 victim surcharge, payable within 90 days of today’s date.
+i
+have considered imposing a condition, either through the s. 161 order or the
+probation order, prohibiting or restricting the offender’s use of the
+internet.  in my view, given the ubiquity of the internet in 2025, this
+condition is largely unworkable and not warranted in this case.  further, an
+order prohibiting him from accessing child pornography would be redundant as
+such conduct is already illegal.  if these proceedings have not impressed on
+the offender the consequences of illegal online activity, i doubt an additional
+term on an order will either.
+released:
+13 november 2025
+signed: justice s.
+g. pratt

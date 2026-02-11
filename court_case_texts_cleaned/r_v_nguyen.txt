@@ -1,0 +1,331 @@
+ontario court of justice
+citation:
+r. v. nguyen
+, 2025 oncj 208
+date:
+2025 04 16
+court
+file no.:  hamilton 998 24 47102552
+between:
+his
+majesty the king
+— and
+—
+kevin
+nguyen
+ruling
+under
+s. 530
+of the
+criminal code
+before
+justice davin m.k. garg
+heard
+on march 21, 2025
+reasons
+released on april 16, 2025
+simon mcnaughton........................................................................... counsel
+for the crown
+kevin nguyen................................................................................ self-represented
+accused
+garg j.:
+overview
+canadian courts are bilingual. an accused person
+has the right to a trial in either english or french. the right gives equal
+access to the courts for people who speak one of canada’s official languages.
+it also helps preserve the linguistic and cultural identity of official language
+minorities. someone who requests a french trial is not being “accommodated”. in
+the context of institutional bilingualism, the governing principle is the
+equality of both official languages.
+while every accused enjoys an absolute right to
+access the courts in the official language of their choice, the crown can seek
+to displace an accused’s choice to proceed in a particular language. the onus
+is on the crown to establish that the accused cannot instruct counsel and
+follow the proceedings in their chosen language.
+in this case, i am satisfied that the crown has
+met its onus of showing that the accused, kevin nguyen, cannot have his trial
+in french. specifically, mr. nguyen cannot communicate in french and could not
+follow the proceedings in french. this conclusion is highlighted by mr.
+nguyen’s own recognition that a french trial would have required the court to
+provide interpreters to translate the proceedings from french to english (and
+then from english to vietnamese).
+language rights are fundamental to canadian
+society. i must be vigilant and proactive to protect them. the right to have
+one’s trial in french or english is distinctly canadian. but allowing this case
+to proceed in french would have undermined mr. nguyen’s right to a fair trial.
+mr. nguyen’s french capabilities are deficient. the purpose of the right to a french
+trial is not advanced by conducting the proceedings in french but then translating
+them into english and then vietnamese, as would have been required for mr.
+nguyen to participate.
+legal principles
+institutional judicial bilingualism ensures equal access to the courts
+for members of canada’s two official linguistic communities. “the inextricable
+link between institutional judicial bilingualism and the protection of
+linguistic minorities, as well as the importance of these two concepts, are
+reflected in canada’s constitutional fabric”:
+r. v. tayo tompouba
+,
+2024
+scc 16
+at para.
+28
+. “a court should not favour one language in order to give
+the impression that it is the only official language and that the second
+language must be accommodated”:
+r. v. dartiguenave
+,
+2025 onca 2
+at para.
+75
+. trial judges are the “ultimate guardians” of an accused’s fundamental right
+to be tried in the official language of their choice:
+tayo tompouba
+at
+para.
+48
+.
+there is no issue that mr. nguyen was informed of his right to have a
+trial in french and requested a french trial pursuant to
+s. 530(1)
+of the
+criminal
+code
+.
+section 530(4)
+thus plays no role in this case. in deciding how to
+proceed, it is irrelevant whether it would be in “the best interests of
+justice” to proceed in french. to exercise the right to a french trial, mr.
+nguyen only needed to “assert” that french is his “own language”:
+tayo
+tompouba
+at para.
+38
+. mr. nguyen made this assertion in a timely fashion.
+the issue is whether the crown has successfully challenged mr. nguyen’s
+assertion.
+section 530(1)
+begins: “on application by an accused
+whose
+language is one of the official languages
+of canada” [emphasis added]. an
+accused has the absolute right to a french trial if this statutory precondition
+is met. the analysis eschews any inquiry into mr. nguyen’s dominant cultural
+identity or personal language preferences. the question is whether mr. nguyen
+can “instruct counsel and follow the proceedings” in french:
+r. v. beaulac
+,
+1999 canlii 684 (scc)
+, 1 s.c.r. 768 at para.
+34
+. the onus is on the crown to lead evidence showing
+that the accused’s “proficiency in the chosen language is insufficient for them
+to exercise their right”:
+tayo tompouba
+at para.
+38
+.
+the ontario court of appeal’s decision in
+r. v. deutsch
+,
+2005
+canlii 47598
+at paras.
+44-53
+provides helpful direction on the applicable
+principles and procedures. in that case, the accused applied at the outset of
+trial to have the trial proceed in french. the crown opposed the application
+and filed materials to show that the accused lacked sufficient french proficiency.
+those materials included the ruling of an earlier judge who concluded that the
+accused’s comprehension and verbal skills were “quite limited”. the accused chose
+not to testify before the trial judge on the language issue. the trial judge
+concluded that the accused’s assertion of french being his language was
+“unfounded” and that “his inability to operate in the french language might
+seriously impair the trial process”. the court of appeal upheld the trial
+judge’s ruling.
+even though mr. nguyen requested a french trial during a set date
+appearance before a justice of the peace, i have jurisdiction as the trial
+judge to determine whether the trial will proceed in french:
+deutsch
+at
+paras.
+56-57, 65-66
+.
+analysis
+i am satisfied that the crown has shown that mr.
+nguyen could not follow the proceedings in french. mr. nguyen’s french
+proficiency is insufficient. i primarily base this conclusion on three facts.
+facts
+first, mr. nguyen himself recognized that a
+french trial would require the proceedings to be interpreted twice. mr. nguyen
+explained that he would need interpretation from french to english and then
+subsequent translation from english to vietnamese. mr. nguyen asserted this
+position in his representations before me and in emails with the crown that
+were filed as exhibits.
+second, i find that mr. nguyen’s french
+capabilities are very limited. when mr. nguyen testified, the crown put some
+questions to him in french.
+as a bilingual judge who presides in both french and english, i could assess
+mr. nguyen’s linguistic capabilities. the relevant portion of the transcript is
+reproduced below:
+me mcnaughton: dis quelque chose en
+français, s’il vous plaît.
+kevin h. nguyen: can you say again. could – répéter, s’il vous plaît.
+me mcnaughton: dis quelque chose en
+français, s’il vous plaît.
+kevin h. nguyen: je ne parle – je ne
+comprends pas.
+me mcnaughton: quand as-tu appris à parler
+en français?
+kevin h. nguyen: tu apprendre un peu
+[indiscernable...marmonnage].
+me mcnaughton: mais pas beaucoup?
+kevin h. nguyen: pas beaucoup.
+me mcnaughton: non. pourquoi demandes-tu un
+procès en français si tu ne parles pas – parlez pas en français?
+kevin h. nguyen: parce que à cause – le
+langue au canada on doit – on [
+indiscernable...marmonnage
+].
+et au [indiscernable...marmonnage].
+me mcnaughton: okay. et donc – you’d need
+an interpreter though, right?
+kevin h. nguyen: yes.
+the above excerpt is charitable to mr. nguyen. i
+took notes during mr. nguyen’s testimony and listened to the recording. the latter
+two notations of “indiscernable...marmonnage” are not there because mr. nguyen
+spoke with poor grammar or in broken french. the notations have nothing to do
+with the quality of the recording. rather, the extract as a whole, including the
+“indiscernable...marmonnage” portions, reveal that mr. nguyen cannot convey
+basic thoughts in french.
+third, i accept the testimony of luciana fenech,
+who is mr. nguyen’s tenant. ms. fenech speaks french. she told mr. nguyen that
+she spoke french when signing the lease. mr. nguyen laughed and responded, “i
+don’t speak french, ha, ha”. despite knowing that ms. fenech spoke french, mr.
+nguyen never expressed any interest in speaking to ms. fenech in french over
+the course of the tenancy. they always used english to communicate orally and
+in writing. ms. fenech was not shaken on her testimony that she had shared her
+french capabilities with mr. nguyen. she gave credible and reliable details on
+when and where that conversation occurred. i reject an argument that an ongoing
+landlord-tenant dispute motivated her to give dishonest or unreliable testimony.
+before moving on, i wish to address two pieces
+of evidence that play no role in my analysis. first, i put no weight on the
+testimony of joseph thomas, another tenant who testified that he only dealt
+with mr. nguyen in english. the fact that mr. nguyen is proficient in english
+is irrelevant to whether he can exercise his right to a french trial. someone can
+live day-to-day in english yet still maintain sufficient proficiency to proceed
+to trial in french. second, i put no weight on the affidavit of crown counsel
+because the assertions contained therein are hearsay. it is for this reason
+that i did not ask mr. nguyen if he wished to cross-examine the affiant.
+application
+i am satisfied that the crown has shown that mr.
+nguyen’s proficiency in french is insufficient for him to exercise his
+right to a french trial: see
+tayo tompouba
+at para.
+38
+. the facts lead
+me to conclude that mr. nguyen would be incapable of following the proceedings
+in french:
+beaulac
+at para.
+34
+.
+since mr. nguyen is self-represented, the requirement that he also
+be able to instruct counsel in french does not directly apply. perhaps this requirement
+should be adapted for self-represented accused, in the way it is adapted when determining
+an accused’s fitness to stand trial. as a self-represented accused, mr. nguyen is
+required to communicate directly with the court. it would thus be reasonable to
+consider whether he could communicate with the court in french: see
+r. v.
+bharwani
+,
+2023 onca 203
+at para.
+94
+.
+nevertheless, i need not resolve whether the test must be adapted
+for a self-represented accused. mr. nguyen’s french capabilities are wholly
+deficient to meet the requirement of following the proceedings in french. it is
+not sufficient that mr. nguyen can put together elementary phrases, like “je ne comprends pas” or “parce que à cause”: see
+deutsch
+at paras.
+46, 50, 52
+.
+even the simplest of criminal cases will involve some sophisticated
+phrases, no matter how much the trial judge decants and simplifies the
+proceedings. to proceed in french, mr. nguyen must have “proficiency” in
+the language:
+tayo tompouba
+at para.
+38
+. he must have “sufficient
+connection” to the language and “sufficient knowledge” of it:
+beaulac
+at
+para.
+34
+. even if the bar for proficiency or sufficiency is set very low, mr.
+nguyen does not pass it.
+whether he meant to or not, i took mr. nguyen to recognize that
+his french abilities were deficient. mr. nguyen asserted that he would require
+interpretation from french to english, and then from english to vietnamese.
+this recognition, in and of itself, goes a long way toward revealing that mr.
+nguyen could not follow the proceedings in french. mr. nguyen cannot opt out of
+the requirement to follow the proceedings in french. the proposed chain of
+interpretation also raises an additional problem. even with the best
+interpretation services available, there is always a risk that nuance or
+precision is lost when court proceedings are translated from one language to
+another. that risk is magnified if the proceedings are translated twice before
+reaching the accused. the court cannot risk a game of broken telephone when mr.
+nguyen’s liberty interests are at stake.
+i recognize that language rights are distinct from fair trial
+rights. appellate courts have emphasized that a breach of an accused’s language
+rights will not be remedied by the absence of prejudice to their ability to
+make full answer and defence:
+tayo tompouba
+at para.
+42
+. put another
+way, i would fall into error if i ruled that mr. nguyen will have an
+english trial because he is competent to defend himself in english:
+beaulac
+at para.
+41
+. but this erroneous line of reasoning is different from a concern that
+granting mr. nguyen a french trial would
+undermine
+his right to a fair
+trial. it necessarily follows that mr. nguyen’s ability to defend himself would
+be compromised if he could not follow the proceedings.
+finally, i emphasize that administrative
+convenience is irrelevant to my decision: see
+beaulac
+at para.
+39
+. from my perspective, there is no inconvenience to the
+administration of justice from running a trial in french. we have bilingual
+judges and court staff at the ready here in hamilton.
+conclusion
+the crown met its onus of challenging mr.
+nguyen’s assertion that his language is french. it is for this reason that mr.
+nguyen’s trial is proceeding in english.
+released:  april
+16, 2025
+signed: justice davin m.k. garg
+transcript at p. 7: “i would need an interpreter to be translated from french
+to english and another interpreter from english into vietnamese”.
+deutsch
+at paras.
+45, 48
+suggests it is
+appropriate for an accused to testify on the application and have their french
+proficiency “tested”.
+for example, mr. deutsch could say “moi je parle français”. the court of appeal
+affirmed the findings of the trial court that mr. deutsch’s french ability was
+“quite limited” and that “his inability to operate in the french language might
+seriously impair the trial process”.
+in view of this conclusion, it also follows that the circumstances do not
+warrant a bilingual trial pursuant to s. 530(1).
+i gave my bottom-line conclusion at the end of argument so
+that the trial could start. the crown’s case is now complete. the defence has
+not yet started calling its case.

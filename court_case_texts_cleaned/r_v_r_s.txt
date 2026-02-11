@@ -1,0 +1,1705 @@
+warning
+the court hearing this matter directs that the following notice be
+attached to the file:
+a
+non-publication and non-broadcast order in this proceeding has been issued
+under
+subsection 486.4(1)
+of the
+criminal code
+.
+this subsection and
+subsection 486.6(1)
+of the
+criminal code,
+which is concerned with the
+consequence of failure to comply with an order made under
+subsection 486.4(1)
+,
+read as follows:
+486.4  order
+restricting publication
+— sexual offences.
+— (1)  subject to subsection (2), the presiding judge or justice
+may make an order directing that any information that could identify the victim
+or a witness shall not be published in any document or broadcast or transmitted
+in any way, in proceedings in respect of
+(
+a
+)   any
+of the following offences:
+(i)   an
+offence under section 151, 152, 153, 153.1, 155, 160, 162, 162.1, 163.1, 170,
+171, 171.1, 172, 172.1, 172.2, 173, 213, 271, 272, 273, 279.01, 279.011,
+279.02, 279.03, 280, 281, 286.1, 286.2, 286.3, 346 or 347, or
+(ii)  any
+offence under this act, as it read from time to time before the day on which
+this subparagraph comes into force, if the conduct alleged would be an offence
+referred to in subparagraph (i) if it occurred on or after that day; or
+(
+b
+)   two
+or more offences being dealt with in the same proceeding, at least one of which
+is an offence referred to in paragraph
+(a)
+.
+(2)
+mandatory
+order on application
+— in proceedings in respect of the offences referred
+to in paragraph (1)(
+a
+) or (
+b
+), the presiding judge or justice
+shall
+(
+a
+)   at
+the first reasonable opportunity, inform any witness under the age of eighteen
+years and the victim of the right to make an application for the order; and
+(
+b
+)   on
+application made by the victim, the prosecutor or any such witness, make the
+order.
+.   .   .
+486.6  offence
+— (1)  every person who fails to comply with an order made under
+any of
+subsections 486.4(1)
+to (3) or subsection 486.5(1) or (2) is guilty of
+an offence punishable on summary conviction.
+ontario court of
+justice
+citation:
+r. v. r.s.,
+2025 oncj 432
+date:
+august 22, 2025
+court
+file no.:  22-2743-00 | peel region
+between:
+his
+majesty the king
+— and
+—
+r.s.
+before
+justice s. robichaud
+heard
+on august 7, 2025, courtroom 110
+reasons
+for judgment released on august 22, 2025
+eugene wong...................................................................................... counsel
+for the crown
+allison craig..........................................................................
+counsel for the accused r.s.
+contents
+contents
+.
+1
+the
+jordan
+framework:
+2
+a charted history of
+the proceedings:
+3
+attributable defence
+delay
+.
+7
+the silence of
+defence counsel on “above ceiling” trial dates
+.
+11
+a stay was warranted
+at the anticipated end of the first trial dates
+.
+14
+the
+trial-coordinator’s policy requiring the defence to schedule new dates.
+15
+the
+dsf
+application
+..
+17
+exceptional
+circumstances
+.
+24
+conclusion
+.
+25
+s. robichaud j.:
+the accused r.s. is charged with one count of
+sexual assault and one count of assault relating to an intimate partner. in
+compliance with the 486.4 made on a previous occasion, and as made above, i
+refer to the applicant on as his initials “r.s.” so as to not indirectly
+identify the complainant.
+timely justice is a cornerstone of a fair and
+democratic society.
+section 11(b)
+of the
+canadian charter of rights and
+freedoms
+guarantees every accused person the right to be tried within a
+reasonable time.
+this right protects not only the liberty and
+security of the accused, but also the integrity of the justice system itself.
+when trials are delayed, accused persons remain in legal limbo, victims are
+left without closure, and public confidence in the courts is eroded.
+as the supreme court emphasized in
+r. v.
+jordan
+,
+excessive delay has become a systemic issue—often tolerated through outdated
+practices and institutional inefficiencies. the framework established in
+jordan
+,
+and reaffirmed in
+r. v. cody
+,
+requires all participants in the justice system to take proactive steps to
+prevent delay and ensure that criminal proceedings are conducted fairly,
+efficiently, and within constitutionally acceptable timelines.
+at the core of the
+jordan
+framework is a
+presumptive ceiling on delay, beyond which the delay is considered
+prima
+facie
+unreasonable. this ceiling is set at 18 months for cases proceeding
+to trial in provincial court, and 30 months for cases in superior court.
+if the total delay from the date the charge is laid
+(i.e., when the information is sworn) to the actual or anticipated end of
+trial—excluding periods of defence delay—exceeds the applicable ceiling, the
+delay is presumptively unreasonable. the crown then bears the burden of
+rebutting this presumption by demonstrating the existence of exceptional
+circumstances. if the crown fails to do so, the delay is deemed unreasonable,
+and a stay of proceedings will follow. conversely, if the net delay falls below
+the ceiling, the onus shifts to the defence to establish that the delay is
+nevertheless unreasonable.
+in this case, the information was sworn on march
+9, 2022, and the trial is scheduled to end on october 8, 2025. inclusive of the
+end day,
+the total delay is therefore 1309 days, or
+approximately 43 months, or 3.6 years.
+the court is therefore asked to consider a stay
+of proceedings under section 24(1) of the
+charter of rights and freedoms
+,
+by applying the
+jordan
+framework in the provincial court context and the
+corresponding presumptive ceiling of 18 months.
+the
+jordan
+framework:
+in 2016 the supreme court of canada provided the
+framework to assess the merits of application to stay proceedings pursuant to
+section 11(b)
+of the
+charter
+along with the corresponding remedy of a
+stay of proceedings under section (24(1). the analysis, as refined and
+simplified by the ontario court of appeal in
+r v. coulter
+,
+is as follows:
+(i)
+calculate the
+total delay
+,
+which is the period from the charge to the actual or anticipated end of trial (
+jordan
+, at para.
+47
+).
+(ii)
+subtract
+defence delay
+from
+the total delay, which results in the "
+net delay
+"
+(
+jordan
+, at para.
+66
+)
+(iii)
+compare the net delay to the presumptive ceiling (
+jordan
+, at para.
+66
+).
+(iv)
+if the net delay exceeds the presumptive ceiling, it is
+presumptively unreasonable. to rebut the presumption, the crown must establish
+the presence of
+exceptional circumstances
+(
+jordan
+, para.
+47
+). if it cannot rebut the presumption, a
+stay will follow (
+jordan
+, para.
+47
+). in general, exceptional
+circumstances fall under two categories:
+discrete events
+and
+particularly complex
+cases
+(
+jordan
+, para.
+71
+).
+(v)
+subtract delay caused by discrete events from the net delay
+(leaving the "
+remaining delay
+") for the purpose of
+determining whether the presumptive ceiling has been reached (
+jordan
+,
+para.
+75
+).
+(vi)
+if the remaining delay exceeds the presumptive ceiling, the
+court must consider whether the case was particularly complex such that the
+time the case has taken is justified and the delay is reasonable (
+jordan
+, at para.
+80
+).
+(vii)
+if the
+remaining delay falls below the
+presumptive ceiling
+, the onus is on the defence to show that
+the delay is unreasonable (
+jordan
+, para.
+48
+).
+in addition to this framework, i am mindful
+that:
+(i)
+the “presumptive ceiling” for provincial
+courts, as is the case here, is 18 months.
+(ii)
+a stay of proceedings “below the ceiling”
+are rare and require proof of meaningful defence efforts and unreasonable delay.
+(iii)
+in setting the “ceilings”, the supreme court
+factored in tolerance for reasonable institutional delay.
+a charted history of
+the proceedings:
+referencing the materials filed by the applicant
+and respondent, including the transcripts of the proceedings, court documents,
+trial co-ordinator forms, correspondence, and the “agreed statement of facts”,
+the history of the matter is as follows:
+date
+total delay
+event
+august 3, 2019
+-
+date of count #1 on
+information
+august 3, 2020
+-
+date of count #2 on
+information
+february 28, 2022
+-
+arrest date of accused.
+march 1, 2022
+-
+accused released on
+undertaking.
+march 9, 2022
+-
+information sworn by jp
+kevin boothroyd. 2022.09.09 at 09:34:05
+march 11, 2022
+2 days
+application to vary
+undertaking filed by counsel r. christie and consented to by crown d. ida
+may 6, 2022
+58 days / 1.9 months
+first appearance. agent
+for counsel r. christie attends requesting disclosure. crown advises
+disclosure is not yet available. crown does not provide any estimate on when
+it might be ready. adjourned to july 8, 2022.
+july 2, 2022
+115 days / 3.8 months.
+disclosure provided to
+counsel r. christie.
+july 8, 2022
+121 days / 4.0 months
+a canada-wide rogers
+service outage resulted in adjournments of all matters before the court,
+including the applicant’s.
+at 12:18 p.m., all matters on the applicant’s docket were adjourned to
+september 16, 2022. the court was advised that the circumstances were
+unforeseen and rendered the courthouse inoperable. the outage took place from
+july 8-9, 2022.
+september 23, 2022
+198 days / 6.5 months
+counsel r. christie
+attends court and advises that a judicial pre-trial was scheduled for
+december 6, 2022. he therefore requested the matter return on december 9,
+2022. there is no indication of other, if any, available dates offered for
+the jpt. the crown offered no opposition or comment on delay. mr. christie
+advised the court he already had instructions to schedule a trial date and
+intended to do so once the jpt was completed. mr. christie notes the crown
+has elected by indictment. no mention of outstanding disclosure.
+december 6, 2022
+272 days / 8.9 months
+judicial pre-trial
+conducted. mcpherson j. trial estimates obtained.
+december 9, 2022
+275 days / 9.0 months
+agent for counsel r.
+christie attends and advises there is a trial scheduling conference scheduled
+for january 12, 202
+3,
+to
+schedule trial dates in accordance with the jpt held on december 6, 2022. agent
+for counsel requests the matter return on the first date past this conference
+meeting to confirm those dates on the record. matter adjourned to first date
+offered by the court, february 17, 2023.
+january 12, 2023
+309 days / 10.2 months
+trial scheduling
+conference with trial coordinator conducted via zoom. trial and motion dates
+agreed upon. offered dates, availability of crown and defence, and timelines
+for filing stage 1 and stage 2 motions noted on trial coordinator’s “trial
+time estimate form”.
+february 17, 2023
+345 days / 11.3 months
+trial dates of june
+10–13, 2024 confirmed on record; in addition, two motion dates confirmed on
+record. accused election formally pending but noted as “trial” on trial
+coordinator form (this “trial” would be held in ocj). counsel christie
+retained for trial and motions. adjourned to may 5, 2023
+,
+to ensure formal election to
+mode of trial filed with the court.
+may 5, 2023
+422 days / 13.9 months
+agent for new counsel a.
+craig appears. court advised that a crown resolution / pre-trial meeting is
+scheduled for june 23, 2023
+,
+at 09:00. agent advises that this was the first date offered to her for this
+purpose. agent also advise
+s
+that ms. craig would like to explore the possibility of reducing trial time
+estimates on that date. matter adjourned to july 7, 2023. the court requests
+on the next date, counsel is to provide clear instructions on who trial
+counsel will be, as well as a formal mode of election made as one is still
+pending. trial dates remained in place.
+july 7, 2023
+485 days / 15.9 months
+agent for counsel a.
+craig advises that a crown pre-trial is scheduled for august 15, 2023
+,
+and requests the matter return
+on august 25, 2023. agent for counsel advise trial dates are to remain in
+place for now.
+august 25, 2023
+534 days / 17.5 months
+a second jpt scheduled
+for september 28 by counsel a. craig. matter adjourned to nov 3, 2023. the
+crown advises counsel that if they are not available for the new trial dates,
+then an adjournment application should be brought as soon as possible.
+september 28, 2023
+568 days / 18.7 months
+trial estimate reduced
+from four to two days. stage 1 and 2 motions vacated. trial coordinator
+advised that previously scheduled trial dates (june 10–13, 2024) could not be
+used due to re-estimation.
+november 3, 2023
+604 days / 19.8 months
+agent for a. craig
+advises trial dates are already scheduled in this matter. information shows
+crown elects to proceed by indictment on this date. when asked by the court,
+agent advises they do not have any instructions on whether an 11b motion
+would be brought. adjourned to nov 17.
+november 17, 2023
+618 days / 20.3 months
+new trial dates set for
+august 1–2, 2024. no explanation provided in transcript for why original
+dates were vacated. adjourned to december 1, 2023
+,
+so the applicant can be put to his election of ocj
+trial.
+december 1, 2023
+632 days / 20.8 months
+trial dates confirmed and
+notice of election was confirmed as filed  on november 17, 2023.
+february 8, 2024
+701 days / 23.0 months
+stage 1 – 276 motion – 30-minute
+estimate (vacated)
+april 11, 2024
+764 days / 25.1 months
+stage 2 - 276 motion – 2-hour
+estimate (vacated)
+june 10-13, 2024
+827 days / 27.2 months
+trial dates #1 – 4-day
+estimate (vacated)
+august 1, 2024
+876 days / 28.8 months
+second set of trial
+dates set to commence. upon commencement, the court is informed the crown
+filed a
+dsf
+application the day prior. there was no mention of any
+application being pursued at any of the jpts or other appearances leading up
+to trial. the defence objects to this late filing and advises they cannot
+proceed in a responsible manner. the court attempts to start the trial with
+the examination in chief of the complainant, and then adjourn for subsequent
+dates for the continuation for counsel to properly prepare examination in
+contemplation of a pending
+dsf
+application and evidence. immediately
+prior to the commencement of this evidence, the trial judge informs counsel
+he is now in a position of conflict that appears unrelated to scheduling. new
+trial dates of november 20
+th
+to the 22
+nd
+(3 days) are
+scheduled.
+dsf
+application remains active.
+november 15, 2024
+982 days / 32.3 months
+crown application
+brought forward seeking adjournment of november 20-22, 2024
+,
+trial dates. counsel not present
+and may not have been advised of the application. counsel paged and does not
+attend. adjourned to the following monday of november 18, 2024, for crown
+motion to trial.
+november 18, 2024
+985 days / 32.4 months
+matter traversed
+administratively to courtroom 302.
+november 18, 2024
+985 days
+courtroom 302. crown
+motion to adjourn trial dates granted. new trial dates will be placed on
+record on return date in january 2025. new trial scheduled for october 7-8,
+2025.
+november 20-22, 2024
+989 days / 32.5 months
+third set of trial
+dates – vacated – injury of complainant – crown adjournment granted.
+january 15, 2025
+1043 days / 34.3 months
+trial dates of october
+7-8, 2025
+,
+confirmed on the
+record.
+january 28, 2025
+1056 days / 34.7 months
+transcripts ordered for
+the purpose of preparing the 11(b) application.
+february 12 to
+september 10, 2025
+multiple trial dates
+offered in 11(b) triage court. crown and witnesses were available; defence
+was unavailable for all dates prior to october 7, 2025.
+april 23, 2025
+1141 days / 37.5 months
+confirmation hearing
+for 11(b) application
+august 7, 2025
+1247 days / 41 months
+11b motion argued.
+october 7, 2025
+1308 days / 43.0 months
+anticipated trial
+commencement date
+october 8, 2025
+1309 days / 43.0 months
+anticipated trial completion
+date
+attributable defence
+delay
+through my own review of the record of
+proceedings, along with the review of the respondent’s factum, i have identified
+important ranges that are worthy of addressing as it relates to defence delay.
+those ranges are:
+•
+delay in scheduling the first judicial pre-trial
+(23 days)
+•
+february 13, 2023, to june 10, 2024 – first date
+offered for trial compared to the first date scheduled (499 days)
+•
+rescheduling of new trial dates as per
+trial-coordinator policy (52 days)
+i will address each in
+the order listed above:
+(i)
+delay in scheduling the first judicial
+pre-trial (23 days)
+the respondent notes in their factum:
+“disclosure was provided to mr. christie on
+july 2, 2022 (see tab 2 of this book). at the september 23, 2022, appearance,
+counsel advised that a judicial pre-trial (jpt) had been scheduled for december
+6, 2022, and that the accused had instructed him to set trial dates shortly
+thereafter. despite this, counsel took 32 days to schedule a trial scheduling
+conference (tsc) following the jpt. the crown submits that 14 days would have
+been a reasonable time to book the tsc. the remaining 23 days constitute
+defence delay.”
+i accept this as stated. counsel was able to
+schedule the next step in the proceedings after the judicial pre-trial was
+conducted. this delay was attributable to the defence as it exceeded a
+reasonable expected time to do so. considering the 272 days (nearly 9 months)
+had elapsed to the jpt, this should have drawn special attention to the defence
+to move the matter forward as expeditiously as possible.
+as justice b. jones found
+in similar circumstances
+surrounding the delayed filing of a trial confirmation form:
+[w]hen
+a defence application has merit, defence conduct that demonstrates marked
+inefficiency towards delay will be characterized properly as a form of defence
+delay for
+jordan
+purposes: see
+r. v. cody
+,
+2017 scc 31
+, at paras.
+33-36
+. phrased differently, “inaction may amount to defence conduct that is not
+legitimate.”
+in that case, justice jones found 65 of the 75
+days adding to the delay attributable to the defence for this reason where 10
+would be a reasonable amount of time to obtain instructions and file the
+required form to schedule the trial date.
+unlike issues addressed below, this was a
+positive choice or action by the defence that contributed to the overall delay.
+i agree with the respondent
+that 23 days of this delay is attributable to the defence
+.
+(ii)        scheduling
+of first trial dates: february 13, 2023, to june 10, 2024 – 499 days.
+in the trial scheduling form dated january 12,
+2023, prepared by the trial coordinator “m.a.” stated the following additional
+pertinent details to this application:
+(i)
+an unknown crown representative, and defence
+counsel r. christie appeared via zoom to schedule trial and pre-trial motion
+dates.
+(ii)
+the trial coordinator offered dates starting
+in january 23-26 of 2023. both the crown and the defence were not available.
+(iii)
+the first available dates to the crown were
+offered in february 13-16, 2023. the defence was not available for these, and
+other dates offered in february 2023.
+(iv)
+after february, the available dates offered
+by the trial coordinator jump to june 10-13, 2024 where both the crown and
+defence were available.
+the unavailability of the defence and the crown
+is not surprising considering the first sets of dates offered were within a
+couple of weeks of this trial scheduling zoom meeting (tsm).
+the dates of february 13-16, 2023, and february
+17, 21-23, 2023, offered by the trial coordinator and available to the crown
+would require the defence to:
+(i)
+be available within a month for, what was at
+the time, a three-day trial.
+(ii)
+prepare, file, and argue both stage 1 and
+stage 2 of a 276 motion.
+(iii)
+assuming stage 1 was granted, ensure counsel
+for the complainant is available within this time frame to properly prepare
+submissions and make themselves available for the stage 2 of the proceedings of
+the 276.
+this is not to conclude the completion of a
+trial within a month from a trial scheduling conference is not possible or
+preferred. highly expeditious timelines ought to be aimed for and achieved
+where possible. however, it cannot be ignored that such a timeline is generally
+unrealistic in trials of this nature and in reasonable consideration of defence
+counsel’s schedule.
+on the record before me, and in particular the
+“trial preliminary inquiry scheduling form”, (tsf), the trial coordinator did
+not offer
+any
+dates in 2023 outside of those january and february dates mentioned
+above. as noted above, the chart of availability then jumps to june of
+2024
+where both the crown and
+defence are available.
+as noted in
+r v godin
+,
+2009 scc 26
+, para
+23
+23 …
+scheduling requires reasonable availability and reasonable cooperation; it does
+not, for
+s. 11
+(b) purposes, require defence counsel to hold themselves in a
+state of perpetual availability.
+[…]
+to hold that
+the delay clock stops as soon as a single available date is offered to the
+defence and not accepted, in circumstances where the crown is responsible for
+the case having to be rescheduled, is not reasonable.
+while
+godin
+pre-dates
+jordan
+, in
+my view, these principle of fairness and reasonableness expressed in
+godin
+still
+applies in assessing a claim of attributable defence delay. a small window of
+dates, offered to commence within a month of the scheduling date does not
+immunize claims of 11(b) in perpetuity and particularly in these circumstances
+where the next available dates were offered over a year following those dates
+and past the presumptive ceiling.
+there is also an important, critical, and fatal factor
+in this case that was overlooked in scheduling the appropriate dates. in the
+trial time estimate form notes section, it states:
+“278.92 -
+stage 1, 1 1/2 hour
+(30 days before stage 2),
+stage 2, 2
+hours (30 days before trial)”
+in addition, the ontario court of justice
+rules
+require such applications are also required to be filed at least 30 days in
+advance of the trial date, before the trial judge, under section 2.5(1)(b)(ii).
+therefore, and despite the proposed january and february
+2023 dates notes on the form, trial-coordinator was not permitted to offer
+dates any sooner than 61 days from the trial scheduling to comply with the
+30+30 day filing requirements ordered by the jpt judge. this first available
+procedurally
+compliant
+date would therefore be march 13, 2023. this starting point also
+assumes perfect availability for the defence, crown, and counsel for the
+complainant on stage 2 if stage 1 was granted.
+the record before me does not indicate whether
+the defence or crown would be available at any time past march 12, 2023, to june
+2024 as no dates were offered.
+while it is speculative, it is reasonable to
+assume that both the defence, crown, and counsel for the complainant would be
+available at
+some
+point in this 13-month range. without a clear record,
+i can only conclude that this was part of the institutional delay when taken in
+context of the non-compliant and limited dates. the burden rests with the crown
+to prove otherwise. i also find that had the defence been offered other
+available dates during this 13-month span, the scheduling form and/or the
+comments of the crown on the subsequent date would have reflected that.
+if the record demonstrated that defence was not
+available during this 13-month period, i would not have any difficulty
+attributing defence delay relative to that unavailability. that is not the
+case. here, the record only demonstrates a small window of unreasonable and
+procedurally non-compliant dates were offered.
+from there, the next dates offered were well
+past the provincial court “ceiling” and presumptively unreasonable – 23 months
+for stage 1, and 27 months to the commencement of trial.
+i find from the record before me that the jpt
+judge imposed mandatory filing timelines, further deemed mandatory by the
+ontario court of justice
+rules
+. the trial coordinator was not in a
+position to offer compliant dates. defence unavailability was not the cause of
+delay—compliance with procedural fairness was.
+these timelines are set in place for the benefit
+of all parties and reasonable management of trials of this nature. while common
+in proceedings of this nature, 276 motions are complicated, take time to
+prepare, time to respond to, and require the assistance and availability of
+counsel for the complainant should the matter proceed to stage 2. this was all
+undoubtedly considered and factored into the ordered timelines by the jpt
+judge.
+from the trial estimate form, and my own
+awareness of the general local practice, it appears that the stage 1 (30-minute
+estimate) and stage 2 (1.5-hour estimate) motions were then scheduled in
+retrospect once the june 2024 trial dates were agreed upon.
+the first trial dates offered past the mandatory
+(30 day + 30 day) filing compliance timelines were those accepted by both crown
+and defence – june 10 to 13, 2024. at this time, total delay for trial now
+reached 824 days, or 27 months – a time well beyond the presumptive jordan
+ceiling for matters in the provincial court. there is no evidence of any
+defence waiver.
+the silence of defence
+counsel on “above ceiling” trial dates
+as noted, the trial dates scheduled for june of
+2024 already placed this case well above the
+jordan
+presumptive ceiling.
+from the swearing of the information on march 9, 2022, to the anticipated end
+of the trial date of june 13, 2024, would total 827 days / 27 months.
+notwithstanding, neither the defence nor crown counsel
+raised this issue when the dates were placed on the record.
+as justice monahan wrote in
+r. v.
+lokubalasuriya
+,
+2024 oncj 46
+:
+based on
+the supreme court of canada rulings in jordan and
+r. v. cody
+,
+2017 scc
+31
+and
+r. v. j.f.
+2022 scc 17
+, a considerable body of law is developing
+at the ontario court of justice (“ocj”) level to the effect that the failure of
+defence to proactively assert their client’s
+section 11
+(b) rights may lead to
+having some defence delay attributed to the defence. relying on
+jordan
+, cody
+and
+j.f.,
+a number of ocj courts have held that where a defendant sets a
+trial date above the
+jordan
+ceiling and says nothing about
+section 11
+(b)
+concerns, then some portion of time associated with the delay in raising these
+issues. in particular, a number of ocj judges have attributed as defence delay
+50% of the time from when the dates are set until the trial date, or in some
+cases, only until the crown is put on notice that the defence intends to bring
+a
+section 11
+(b) application: see
+r. v. nigro
+2023 oncj 41
+(per justice
+west);
+r. v. ahmed
+(unreported per justice caponecchia);
+r. v. a.d.
+(unreported per justice lai);
+r v. macdonald
+(unreported per justice
+daviau);
+r. v. kullab
+2023 oncj 458
+; and
+r. v. m.w
+.
+2023 oncj
+581
+. courts have in some cases allowed defence counsel 2 to 4 weeks after the
+trial dates are set for defence to order transcripts of past court attendances
+in order to finalize the defence’s position on
+section 11
+(b) (see
+ahmed and
+m.w.
+)
+[…]
+in order
+to determine whether any defence delay should be attributed to the defence in
+this case for a failure to clearly assert
+section 11
+(b) issues in a timely way,
+it is important to understand the legal theory behind why cases like
+ahmed,
+a.d., macdonald, kullab
+and
+m.w
+and other cases have found
+significant defence delay in these cases. in my view, before deducting any
+amount as defence delay for failing to raise
+section 11
+(b) concerns in a timely
+way, the court must be satisfied that had the defence acted promptly,
+the crown could have and would have prioritized the case and had it
+heard under the jordan ceiling
+: see
+ahmad
+at para 30;
+kullab
+at paras at 34 to 37 and
+m.w.
+at para
+38
+.
+formal evidence is not required in this regard and the court can rely upon its
+knowledge of local practice and the circumstances in the case before the court.
+further, as i observed in
+kullab
+, a finding of defence delay is not an
+“exact science” and is “highly discretionary”. the court can, among other
+things, have regard to the public record which discloses that the crown in
+brampton has regularly prioritized serious cases including those involving
+allegations of sexual assault and possession of firearms to give but two examples.
+[emphasis added]
+in applying justice monahan’s analysis, i do not
+find on the record before me that any defence delay deduction should take place
+as there is nothing to suggest that “had the defence acted promptly, the crown
+could, and would have prioritized the case and had it heard under the
+jordan
+ceiling.” to the contrary, i find that the “trial preliminary inquiry
+scheduling form” was exhaustive of this issue of what dates were available,
+offered, and could be set.
+the ontario court of appeal addressed the
+position in
+r. v. mengistu
+.
+there, the crown argued that failing to raise 11(b) concerns on a timely
+way may be attributable to the defence when a trial date is scheduled outside
+the presumptive ceiling. in dismissing the crown appeal and upholding the stay
+of proceeding, the court held:
+38
+the
+crown argues that defence counsel failed to raise
+s. 11
+(b) concerns in a timely
+way and the resulting delay ought to be deducted as defence-caused delay. the
+crown points out that defence counsel knew as of march 10, 2020, that mr.
+mengistu's trial was scheduled outside the presumptive
+jordan
+ceiling
+and yet did not raise
+s. 11
+(b) concerns until april 13, 2021, 27 days before
+the trial was initially scheduled to start. relying upon the supreme court's
+decision in
+r. v. j.f.
+2022 scc 17
+,
+413 c.c.c. (3d) 293
+, as well as a series of cases flowing
+from
+j.f.
+, the crown argues that the defence
+cannot wait to complain about the delay until it is locked in, and the crown
+can do nothing to mitigate it. the crown further argues that "it is a
+reasonable inference" that it would have found an earlier trial date had
+defence counsel raised concerns over delay in a more timely way.
+39
+[…]
+40
+in
+order for
+the crown to succeed on this ground of appeal, it must
+establish the following: (i) defence failed to raise
+s. 11
+(b) concerns in a
+timely way; and (ii) that failure contributed to the delay in bringing the
+matter to trial within the presumptive
+jordan
+ceilings
+.
+41
+in my view, there is an insufficient factual record upon which to
+determine the second of these issues and would therefore not permit the crown
+to raise it for the first time on appeal.
+42
+this absence of a sufficient factual record is underscored by the
+application judge's consideration of whether the period from april 20, 2020, to
+the initial trial date of may 10, 2021, should be deducted on account of the
+exceptional circumstance of the covid-19 pandemic. the application judge
+rejected the crown's argument on the basis that there was no evidence as to
+what steps the crown would have taken, "but for" the pandemic, to
+secure an earlier date. the crown does not appeal this aspect of the
+application judge's ruling. [emphasis added]
+like the trial judge in
+r. v. mengistu
+,
+there is no evidence before me of how the trajectory of this case would have
+changed if the 11(b) concerns were raised at an earlier stage.
+the trial coordinator’s scheduling form confirms
+that no earlier dates were offered or available, and there is no indication
+that the crown expressed any willingness to prioritize the matter had defence
+raised 11(b) concerns earlier. if such factors are to be considered in
+attributing delay to the defence, they ought to be clearly reflected in the
+record at the time trial dates are set.
+i also have trouble accepting that
+jordan
+places a positive obligation on the defence to take undefined active and
+sustained measures to seek earlier dates once trial dates are set – especially
+when a complete record is formed on how that unfolded and what was, and was not,
+available.
+while it is certainly open for the court or
+crown to take specific measures as a matter of practice or policy to have those
+cases with 11(b) concerns, or that are set above the presumptive ceiling to
+return to a practice or special court to consider reprioritization or other
+means to address the pending violation, that onus should not fall to the
+defence to do so on their own accord.
+the defence has no control over how the crown
+prioritizes cases, or over control of how the trial-coordinator may recalibrate
+other matters and therefore cannot be placed in a state of perpetual ambition
+for changing dates they have no control over and are already scheduled through
+a process that is presumed cognizant of 11(b) rights.
+i am mindful not to conflate the clear onus of
+the defence to take meaningful sustained efforts and steps required of the
+defence to succeed on a
+“below ceiling”
+11(b) application, into obligations imposed when a case is
+“above ceiling”.
+to the contrary,
+jordan
+makes it clear
+the burden rests upon the crown to rebut the presumption when the matter
+exceeds the threshold after subtracting delay
+caused
+by the defence, and
+waiver.
+such a requirement upon the defence would
+incentivize trial dates being purposely or indifferently set past the
+presumptive ceilings with below-ceiling dates only to be offered
+jordan
+-compliant
+dates once defence sufficiently and promptly protests and requests special
+administrative steps or priority to apply. while aspirational, i do not find it
+a requirement as a matter of law on “below ceiling” matters.
+if this was the intention of the supreme court
+in
+jordan
+,
+the supreme court could have easily added this positive
+obligation into the comprehensive “above ceiling” framework to nullify defence
+delay where the defence remains silent in the face of delayed dates. reading in
+such an obligation is inconsistent with the plain language of
+jordan
+and
+the principle that any waiver of delay must be informed and unequivocal.
+unless this silence of the defence can be
+categorized clearly into actions that
+caused
+delay (attributable to the
+defence), or clearly demonstrate waiver, i do not accept defence silence
+per
+se
+has any application to the
+jordan
+framework, either on a partial
+or complete attribution. for the sake of a
+jordan
+framework, the record
+must be assumed to be complete.
+while there may be occasions where silence may be seen as an
+intentional or deliberate act by the defence that
+causes
+delay, i do not
+find that to be the case in the applicant’s matter.
+further, introducing speculative 'but-for'
+scenarios based solely on defence silence does not advance a principled,
+predictable, or meaningful analysis or protection of an accused’s rights under
+section 11
+(b). as set out in
+r. v. mengistu
+,
+supra
+, at para 42,
+to evaluate the “but-for” impact, there must be some evidentiary record on how
+the trial dates would have changed.
+accordingly, i find that the defence’s silence
+in the face of trial dates scheduled beyond the
+jordan
+ceiling does not
+constitute waiver or delay attributable to the defence. in the absence of
+evidence that earlier assertion would have altered the scheduling trajectory,
+and given the completeness of the record, no deduction is warranted.
+a stay was warranted at
+the anticipated end of the first trial dates
+except for the 23 day defence delay relating to the
+scheduling of the trial scheduling conference mentioned above, i cannot
+attribute any other delay to the defence for other reasons. up to this point,
+the accused acted diligently by retaining counsel within days of the arrest as
+shown on the march 11, 2022, document “application for consent variation of
+police undertaking” where counsel r. christie is listed.
+to the contrary, i find several factors outside
+the exercised diligence of defence contributed to the delay and overall
+attitude of complacency the crown seemed to demonstrate leading up to the june
+2024 trial dates.
+(i)
+disclosure was not provided to the accused
+until july 2, 2022, or 115 days / 3.8 months after the swearing of the
+information. the disclosure relates to a one-complainant case presented
+primarily through a four-hour statement.
+(ii)
+the allegations date back to 2020. the dated
+nature of the allegations suggests there was not a pressing need to have the
+accused arrested, or information sworn, until disclosure would be available.
+while this is certainly not a requirement of any police investigation, such
+things cannot be overlooked when assessing the overall attitude of complacency
+towards delay and the ever-pressing importance of an accused 11(b) rights and
+strict
+jordan
+timelines.
+(iii)
+the “rogers outage” issue may offer some
+degree of “exceptional circumstance” that could be subtracted from the overall delay.
+however, and like the delay in disclosure, the crown must remain ever vigilant
+of the cumulative effect adjournments can have on these applications. while
+such outages can happen, the mass adjournment of all matters from the july 8, 2022
+docket to september were excessive and without explanation on the need for 2.5
+months to rectify this. while an adjournment was required, 1-2 weeks should
+have been more than enough time to recalibrate matters into court. the 2.5-month
+time seemed arbitrary and without any consideration of how it might later
+affect 11(b) constraints. power, internet, and other building management issues
+are bound to happen. when they do, the matter should return as soon as
+practicable and pick back up from where it was left off. i note that despite
+this inconvenience, it did not prevent other courts in ontario from standing
+matters down and addressing them later in the afternoon.
+whether that was possible in
+the present case, it was not reasonable or cognizant of 11(b) obligations on a
+matter that was already 4 months old and disclosure outstanding. while some of
+the outage itself may qualify as an exceptional circumstance, (i find 1-2 weeks
+would be sufficient), the length of the adjournment was excessive and not
+reasonably tailored to the nature of the disruption.
+(iv)
+in effect, the delayed disclosure and outage
+left the accused at 6.5 months before a judicial pre-trial was even
+scheduled.
+minus the defence delay of 23 days relating to
+the scheduling of the tsc, this was a total of 678 days (22.3 months to the
+stage 1 application,
+and 827 days (27.2 months) to
+the end of the first scheduled trial dates from june 10-13, 2024.
+therefore, and regardless of the analysis to
+follow, it is my conclusion that that the applicant was already deserving of a
+stay of proceedings under the
+jordan
+framework, pursuant to
+section
+11(b)
+and
+24(1)
+of the
+charter
+.
+notwithstanding, the delay and continued 11(b)
+violation of mr. r.s.’s right to be tried within a reasonable time only became
+worse as these first anticipated trial dates in june of 2024 approached.
+the trial-coordinator’s
+policy requiring the defence to schedule new dates.
+as noted above, from the transcripts, and the agreed
+statement of facts (“asf”), mr. “r.s.’s trial was originally scheduled for
+february 8, 2024, april 11, 2024, and june 10–13, 2024” by previous counsel r.
+christie.
+in the spirt of ensuring that the positions,
+admissions, and estimates taken at the first judicial pre-trial remained in
+place, the asf reads:
+“when ms.
+craig was retained, a further judicial pretrial was conducted on september 28, 2023,
+to narrow the issues. ultimately the trial estimate was reduced from four days
+to two days, and the pretrial motions were determined to no longer be
+necessary. ms. craig was advised that none of the previously scheduled dates
+could be used, and two new days would need to be scheduled.”
+the asf clarified this policy as:
+“the trial
+coordinator has advised that their policy is as follows:
+[w]hen a
+trial is re-estimated—for example, from four days to two—we offer the next
+available dates for a two-day trial, not for the originally scheduled four-day
+block. we also do not simply convert the original four-day courtroom into a
+two-day trial court, as that courtroom can now be reallocated for a matter that
+still requires the full four-day window.”
+the trial coordinator’s policy, which required
+reallocation of courtroom blocks following re-estimation, prevented the defence
+from preserving previously scheduled trial dates. while administratively practical,
+such policies cannot override constitutional rights under
+section 11
+(b).
+likewise, the imposition of new trial dates resulting from this
+policy cannot be construed as a valid waiver of delay, nor as consent by the
+accused. based on the evidentiary record before me—further clarified by oral
+submissions and concessions from both parties on august 7, 2025—the defence was
+not only prepared to proceed on the originally scheduled trial dates but was
+willing to significantly shorten the proceedings.
+the diligence and professionalism demonstrated
+by newly retained defence counsel, ms. craig, in narrowing the issues,
+conserving valuable court resources, and abandoning costly, complex, and
+intrusive motions under section 276 should be commended—not penalized. at
+paragraph 86 in
+jordan
+, the court wrote:
+86 […] encouraging the defence to be part of
+the solution will have positive ramifications not only for individual cases but
+for the entire justice system, thereby enhancing - rather than diminishing -
+timely justice.
+the practical effects of endorsing the trial
+coordinator’s policy would incentivize defence counsel to act in the very
+manner
+jordan
+cautions us against whereby parties fall into a culture of
+complacency towards valuable court resources and delay.
+in
+jordan
+,
+at paras
+40-41
+, and at para 43,
+the supreme court pointed out this very issue as it related to the previous
+morin
+framework and how it, and the entire attitude towards the prompt delivery
+of justice must change by all parties involved:
+40 … unnecessary procedures and adjournments,
+inefficient practices, and inadequate institutional resources are accepted as
+the norm and give rise to ever-increasing delay. this culture of delay
+"causes great harm to public confidence in the justice system" (lesage
+and code, at p. 16). it "rewards the wrong behaviour, frustrates the
+well-intentioned, makes frequent users of the system cynical and disillusioned,
+and frustrates the rehabilitative goals of the system" (cowper, at p. 48).
+41 the
+morin
+framework does not address
+this culture of complacency. delay is condemned or rationalized at the back
+end. as a result, participants in the justice system - police, crown counsel,
+defence counsel, courts, provincial legislatures, and parliament - are not
+encouraged to take preventative measures to address inefficient practices and
+resourcing problems. some courts, with the cooperation of counsel, have
+undertaken commendable efforts to change courtroom culture, maximize
+efficiency, and minimize delay, thereby showing that it is possible to do
+better.
+[…]
+43 complexity is sometimes unavoidable in order
+to achieve fairness or ensure that the state lives up to its constitutional
+obligations. but the quality of justice does not always increase proportionally
+to the length and complexity of a trial. unnecessary procedural steps and
+inefficient advocacy have the opposite effect, weighing down the entire system.
+a criminal proceeding does not take place in a vacuum. each procedural step or
+motion that is improperly taken, or takes longer than it should, along with
+each charge that should not have been laid or pursued, deprives other worthy
+litigants of timely access to the courts.
+if it were not for the
+lack
+of
+complacency of counsel, mr. r.s.’s trial would likely long be over, this motion
+would be unnecessary, and court time would have in the end been spared.
+while it would have been preferable for defence
+to state a clear objection to this policy on the record at the time, i find
+that they had no choice in the matter when factoring in the agreed statement of
+facts on this policy.
+the
+dsf
+application
+on the day of trial, defence attended prepared
+to defend the case to meet as scheduled.
+however, the court was informed of an
+application filed the day before by the crown. this application sought to
+introduce prior disreputable conduct of the accused as it relates to the
+relationship of an intimate partner. also known as a “
+dsf
+” application:
+the court: whenever you’re both
+ready.
+a. craig: all right. we can perhaps at least sort of canvass,
+procedurally, the issues that we've got, your honour, and take your guidance.
+i'm on my feet, so perhaps i'll just sort of brief you. so, this is a two-day
+trial set for today and tomorrow. it was set, i think, previously for june, and
+then was rescheduled. my friend, as you probably saw, filed a prior
+discreditable conduct application yesterday.
+the court: yes.
+a. craig:
+...at any of the prior judicial pretrials, and it wasn't my friend that
+conducted any of them, so it's certainly not on her; but it was never flagged.
+the complainant’s statement is about four hours long. and i would say maybe ten
+minutes of it relates to the matters that are actually outlined in the
+information, the rest is all sorts of other stuff. so, first of all, i don't
+think two days is going to be enough if we're getting into all of that. second,
+i prepared for a trial on the charges in the information. i'm going to need a
+lot more time if i'm going to be cross-examining her on a four-hour statement.
+i need a lot more time with mr. r.s., i need a lot more time preparing a cross
+because there's a big, big difference between, you know – i’m just - i haven't
+counted, 30 to 40 incidents that are discussed in a four-hour statement, and
+the two that are the subject matter of the court.”
+the crown’s “
+dsf”
+application, filed the day before trial,
+was not mentioned in any prior jpts or pre-trial discussions, despite 876 days
+having elapsed since the information was sworn. defence counsel, having
+prepared for the allegations as charged, and having confirmed admissions and
+refined the issues for trial at the second jpt, was unable to proceed
+responsibly. the late filing necessitated an adjournment, undermining trial
+readiness and procedural fairness.
+the
+ontario court of justice rules
+state:
+time
+for trial applications
+2.5
+(1) a trial application shall be heard at the start of the trial or during the trial
+unless the court orders otherwise.
+(2)
+for the purposes of subrule (1), trial applications include
+[…]
+(b)
+complex evidentiary applications, such as applications for the admission of
+(i)  similar act evidence,
+(ii)  evidence of a complainant’s prior sexual
+activity, or
+(iii)  hearsay evidence; and
+[…]
+times for service
+3.1
+(1)  an application in form 1 shall be
+served and filed with proof of service at least 30 days before the date of the
+hearing of the application unless the
+criminal code
+imposes a longer period.
+(2)  a
+response in form 2 shall be served and filed with proof of service at least 15
+days before the date of the hearing of the application unless the
+criminal code
+imposes a longer period.
+(2.1)
+unless otherwise ordered by the court, proof of service must be filed at the
+same time the application (form 1), or response (form 2) is filed.
+exceptions
+(3)  despite
+subrules (1) and (2), the time periods set out in those subrules may be
+shortened or lengthened
+(
+a
+)  by an order of the court; or
+(
+b
+)  with the consent of the parties,
+subject to approval by the court.
+such
+dsf
+applications are, by their very nature, rarely
+unforeseen as they seek to introduce prior disreputable conduct that was
+previously known to the police, as was the case here.
+r. v. d.s.f.,
+1999 canlii 3704 (on ca)
+, o.j. no. 688 affirms the principle
+that evidence of prior discreditable conduct may be admissible to assist the
+court in understanding the nature and dynamics of a domestic relationship.
+in cases involving allegations of sexual and physical abuse
+within an ongoing relationship, courts have permitted such evidence to
+contextualize the alleged conduct and illuminate the relational backdrop
+against which the central issue of consent must be assessed. if permitted the
+use of prior disreputable conduct may be admitted to:
+•
+explain and contextualize the narrative of the complainant’s
+account of her relationship with the accused.
+•
+demonstrating animus toward the domestic partner.
+•
+establish motive for the charged offence; and,
+•
+support the complainant’s credibility, particularly in explaining
+her delay in leaving the relationship or reporting the abuse.
+at paras. 20 and 23–25
+in ipv
+prosecutions, the potential for
+dsf
+applications is not only foreseeable
+but often central to the crown’s theory. their late introduction undermines
+trial readiness and procedural fairness.
+in attempting to simplify matters, the crown sought to narrow the
+dsf
+issue:
+t. kim: so, a, b, and c is the
+evidence i'm seeking to admit. and a refers to sort of a general description of
+the atmosphere of the relationship and the interactions between the two
+parties. and then, b is a specific incident which occurred december 28th of
+2021. and then, c would be the one-week sort of period, beginning on the family
+day long weekend...
+the court: i see.
+t. kim: ...of 2022, which then
+ultimately leads to the complainant reporting the incident to police a week
+later on 28th of february. so, it's - the incident that i refer to at paragraph
+c is essentially explaining how it is and why it is that, at that point in
+time, this came to the attention of the police, and what led her to call the
+police at that time. and then, the evidence relating to a and b is essentially
+explaining why she didn't report before that time period, without getting into
+all of the other incidents that she described, because that would be too
+prejudicial, in my view. i picked one incident that is remote - or close in
+time to the time that she did report, which is february of 2022, and - and kind
+of related to her biggest concern, which was sort of her - her children. so, i
+don't intend to – myself, in bringing this application, ask the complainant about
+all of the incidents that she described. i don't intend to go into specifics
+about it, other than to just kind of generally explain the – the nature of the
+marriage and the relationship. and i think if my friend wishes to go into the
+specifics of those incidents and cross for each – each event, i – certainly,
+that's her prerogative. but i don't know that – that i - i – i won't be asking
+to lead all of the evidence of the other incidents, your honour, because i – in
+my view, that would be prejudicial.
+…
+t. kim: so, i've narrowed it
+down to sort of a general description of the relationship, and then, one
+specific incident prior to the - the time of reporting, and then, the very
+events that lead to the reporting.
+the presiding trial judge at that time, pointed out correctly in
+my view:
+the court: i guess the concern
+that ms. craig has raised is quite apart from what you intend,
+it's
+difficult to predict what portions or what other events would be essential for
+the defence to respond to the crown's case. and she attended - prepared to deal
+with just the allegations before the court
+; a – a – a point i - i – i
+accept. i guess, attempting not to waste these days, what i'm asking is, would
+you be prepared to call the complainant in-chief? i imagine it's going to be a
+relatively lengthy examination in-chief, and we stand down from that point,
+assuming
+we can find more days that doesn't send this matter into - well into next year
+on my schedule
+. [emphasis added]
+as noted in the
+rules
+commentary under section 2.5,
+trial applications can take
+many forms. for example, an application to exclude evidence at an impaired
+driving trial for a breach of the
+charter
+is most commonly dealt with in a
+blended or combined charter voir dire and trial. however, there are other trial
+motions which would benefit from being dealt with by the trial judge in advance
+of hearing the evidence at the trial. for example, an application for the
+admission of similar act evidence may be better heard in advance of the other
+evidence in the proceeding, as the outcome may require the parties to consider
+calling additional witnesses or affect a party’s presentation of his or her
+case. rule 2.5 is designed to balance the benefits of certainty as to how a
+complex issue should be addressed with flexibility to ensure that the
+fundamental objective set out in rule 1.1 is properly respected. in general,
+where the applicant knows before the trial begins that a voir dire or
+admissibility hearing will be needed to tender certain evidence, there should
+be compliance with rule 2.5, unless otherwise ordered by a pre-trial or trial
+judge.
+just before the accused was arraigned, the presiding justice
+advised counsel that there was a conflict in this proceeding that prevented him
+from hearing the case further. this conflict was independent of scheduling as
+efforts were made prior to this declaration to preserve what dates he could.
+however, regardless of the conflict of the presiding justice, an
+adjournment was required in any event due to the change of the case to meet in
+the face of the
+dsf
+application. from the comments of the trial judge,
+even if the trial did commence before him, that adjournment would have been
+lengthy and “well into next year” (2025) on his schedule.
+traversing the matter to another judge was not pursued. even if
+that had occurred, it would not have alleviated the need for adjournment. at a
+minimum, the trial was to be adjourned for a bifurcation of the proceedings
+whereby an examination in-chief could commence, with sufficient time for
+counsel to prepare a properly prepared cross-examination recalibrated towards
+the
+dsf
+issues.
+filing a
+dsf
+application the day before trial, on ipv
+sexual assault, is almost certain to necessitate an adjournment in any case,
+unless the presiding justice refuses to permit it due to non-compliance with
+the
+rules
+and agreed upon timelines.
+the failure to exercise reasonable foresight, in the context
+where the trial dates are already well above the
+jordan
+presumptive ceilings
+shows an indifference towards the accused’s right to procedural fairness, legal
+fees, and the 11(b) consequences that may flow from that. this approach
+undermined not only the accused’s rights but also the integrity of the
+proceedings and the interests of all participants, including the complainant.
+as a comparison, had the defence filed a
+charter
+motion the
+day before trial, it is a near certainty the crown would be permitted an
+adjournment to properly prepare, investigate, research, and recalibrate. such a
+hypothetical defence adjournment, if granted, would have likely required a
+waiver of 11(b), or at a minimum a clear finding that the delay was entirely
+attribute to the defence. the crown must be held to the same standard. the
+happenstance of a judge being in conflict does not then turn an inevitable and
+lengthy adjournment (on this record) where the crown is clearly responsible,
+into “exceptional circumstances.”
+nor should the accused be placed in a situation where they are
+asked to choose between their right to a trial within a reasonable time or
+instructing their counsel to proceed unprepared. in adjourning the file, the
+crown stated:
+t. kim: thanks for the
+indulgence, your honour. counsel and i have discussed it, and we’ve come to the
+agreement that it would be – the best course of action would be to adjourn the
+trial and schedule a three – three new days.
+this “agreement” stated on the record created
+circumstances that compromised the voluntariness of the defence’s acquiescence
+to the adjournment and cannot be properly said to be a valid waiver of 11(b),
+or attributable to defence delay. as stated in
+r. v. cody
+,
+2017 scc 31 (canlii)
+, 1 scr
+659, at para
+27
+:
+“a
+waiver of delay by the defence may be explicit or implicit, but must be
+informed, clear and unequivocal (
+jordan
+, at para.
+61
+).”
+while
+dsf
+applications are easy to advance, they are
+difficult and complicated to prepare a defence and respond to.
+such applications can bring into issues that extend far beyond
+the allegations before the court, require further investigations, reviewing
+electronic communications, nuances and layers to cross-examination, legal
+research, subpoenaing potential witnesses (perhaps children), remote and/or
+cctv applications, and possible 276/278 issues depending on the prior
+disreputable conduct being advance.
+i find the adjournment of the august 2024 trial dates the fault
+of the crown.
+whatever conflict that arose from the trial judge is a
+distraction to a predictable collateral effect to this neglect in proper trial
+preparation and diligent case management that resulted in an application sought
+to pursue and did not reevaluate their pursuit in the face of a case in excess
+of the presumptive
+jordan
+ceiling. as indicated at paragraph 65 in
+jordan
+:
+to be clear, defence actions legitimately taken to
+respond to the charges fall outside the ambit of defence delay. for example,
+the defence must be allowed preparation time, even where the court and the
+crown are ready to proceed. in addition, defence applications and requests that
+are not frivolous will also generally not count against the defence. we have
+already accounted for procedural requirements in setting the ceiling. and such
+a deduction would run contrary to the accused’s right to make full answer and
+defence. while this is by no means an exact science, first instance judges are
+uniquely positioned to gauge the legitimacy of defence actions.
+this likely has little to do with the trial crown assigned to the
+matter; however, the crown is indivisible for these purposes, and it is a
+distinction without a difference for the purpose of an 11(b) analysis. i mention
+it only to avoid casting blame on any particular assistant crown attorney.
+regardless, this case is a good example of why the office of the
+crown attorney must reflect and reevaluate how cases of this nature are managed
+and prosecuted.
+sexual assault files, particularly those involving ipv and
+potential for
+dsf
+evidence, must be assigned to trial counsel early to
+provide:
+•
+informed and binding discussions at jpts and cpts.
+•
+ample opportunity to contemplate a variety of common motions including
+276/278 and
+dsf.
+•
+particularizing and reducing to writing any intended
+dsf
+application
+so that the defence can understand the case to meet and ensure they are
+properly prepared on these issues.
+•
+advice to the complainant on various rights they have, including the
+right to counsel on certain proceedings.
+•
+an awareness of pending disclosure that likely
+involves vulnerable witness vetting.
+•
+an awareness of pending 11(b) issues and
+ensuring dates are set well below the
+jordan
+presumptive ceilings.
+•
+compliance with filing timelines set by the
+court and the ontario court of justice
+rules.
+unlike an accused, the crown cannot waive delay
+under
+section 11(b)
+of the
+charter
+or assume responsibility for it in exchange
+for an adjournment. this distinction imposes a heightened duty on the crown to
+act with diligence and foresight in managing its case. that duty is especially
+pronounced in matters involving
+dsf
+applications, where the evidence
+sought to be admitted is often central to the crown’s theory and inherently
+complex. these applications frequently engage additional legal and evidentiary
+considerations, including potential motions under
+sections 276
+and
+278
+of the
+criminal code
+.
+given their complexity and potential impact on
+trial fairness,
+dsf
+applications must be addressed well in advance of
+trial and discussed at judicial pre-trials. their late introduction undermines
+trial readiness, compromises procedural fairness, and risks infringing the
+accused’s right to be tried within a reasonable time. in no uncertain terms,
+dsf applications cannot be left to the eve of trial or omitted from pre-trial
+planning.
+while a court may grant a crown adjournment,
+such a request will invariably trigger scrutiny under
+section 11
+(b). in this
+case, the late filing of the
+dsf
+application did not constitute an
+“exceptional circumstance” within the meaning of
+jordan
+. it was
+foreseeable, preventable, and optional. the crown could have proceeded without
+advancing the application, and had it done so, the record would be far clearer
+on whether the trial could have commenced before another judge. the adjournment
+was not compelled by necessity, but rather by a lack of timely preparation.
+this resulted in the scheduling of a third set
+of trial dates from november 20-22, 2024. subtracting the defence delay of 23
+days noted above, mr. r.s.’s matter now reached a net delay of (985 days) – 23
+days =
+962 days / 31.6 months.
+further to my findings above
+, this further justified a stay of proceedings as being
+presumptively above ceiling in the provincial (and superior) level of court
+.
+exceptional
+circumstances
+while redundant to the conclusion reached above, i do find there are
+two “exceptional circumstances” that do not contribute to the overall delay: 1)
+the rogers’ outage, and 2) the adjournment of the third set of trial dates due
+to an injury of the complainant.
+(a)
+rogers outage
+as noted above, a nation-wide rogers’ service outage affected millions
+of canadian across canada from in the early morning of july 8, 2022. within a day
+or two, all services were gradually restored. this was clearly an
+unforeseeable, unpreventable, and exceptional discrete event.
+while a significant disruption during those two days, it does not
+warrant a sweeping justification of the delay incurred as a result. i am
+willing to attribute two weeks, which i consider on the high end, to such
+circumstances. while considered as an exceptional circumstance and deductible
+from the overall delay, this has no material effect on the overall conclusions
+reached above as it does not bring the net delay below the ceiling – even with
+a full attribution of 2.5 months (which i do not find), the stay of proceedings
+still stands.
+(b)
+the injury of the complainant
+the third set of trial dates were scheduled for november 20-22. this
+was a result of a serious injury suffered by the complainant. this too, was an
+unforeseeable, unpreventable, and discrete exceptional event.
+like the rogers outage, such an exceptional event may be deducted
+from the overall delay but ultimately has no material effect on the conclusion
+i have reached to stay the proceedings considering this all happened a stay was
+already warranted.
+for the benefit of any reviewing court, i would have found that the
+unavailability of defence counsel for multiple trial dates was unfortunate but
+not reasonable.
+from february 12 to september 10, 2025, multiple trial dates
+offered in 11(b) triage court. crown and witnesses were available; defence was
+unavailable for all dates prior to october 7, 2025. i would have attributed
+five
+of these months to defence delay
+in subtracting from the overall delay.
+however, this all follows my conclusion that a stay was warranted well before
+this and becomes redundant in the overall calculation if it is categorized as a
+product of “exceptional circumstances” in any event.
+the total calculation is therefore as follows:
+•
+total delay: 1309 days.
+•
+defence delay
+: 23
+days for delayed filing of trial scheduling form.
+•
+exceptional circumstances:
+14 days for rogers’ outage + 322 days for adjournment of the third
+trial dates.
+= 950 days
+of net delay
+(31.2 months or 2.6 years)
+conclusion
+in sum, the net delay of 950 days far exceeds the 18-month ceiling.
+the crown has failed to establish exceptional circumstances
+sufficient to rebut the presumption of unreasonableness. defence delay is
+minimal and well-accounted for. the procedural history, administratively
+prioritized scheduling, and late
+dsf
+application all point to systemic
+issues beyond the control of the accused.
+in consideration of the violation of mr. r.s.’s right to be tried
+within a reasonable time pursuant to section 11(b) of the
+charter of rights
+and freedoms
+and having found no sufficient justification to rebut the
+presumption of unreasonableness,
+a stay of
+proceedings is hereby ordered pursuant to section 24(1).
+released: august 22, 2025
+justice
+s. robichaud
+r. v. jordan
+,
+2016 scc 27 (canlii)
+, 1 s.c.r. 631
+r. v .cody
+2017 scc 31 (canlii)
+, 1 s.c.r. 659
+r. v. coulter
+2016 onca 704
+at paras.
+34-41
+jordan
+,
+para
+83
+in calculating the total delay, the start date is excluded,
+and the end date is included in the sum.
+in the early morning of 8 july 2022, rogers communications inc. (rogers)
+experienced a major service outage in its internet protocol (ip) core network
+that affected its wireless and wireline services across canada (july 2022
+outage). the july 2022 outage lasted from 4:58 edt on 8 july 2022 to 7:00 edt
+on 9 july 2022 as services were gradually restored. more than 12 million
+customers lost wireless and wireline services, including mobile subscribers,
+home internet users, corporate customers, and institutional customers that
+provide critical services (e.g., interac e-transfer and electronic payment
+services).
+https://crtc.gc.ca/eng/publications/reports/xonarp2023.htm
+november 18, 2024 (transcript header conflict noted; delay
+calculated as 985 days).
+r. v. rodriguez
+2023 oncj 519
+, b. jones j.
+r. v. mengistu
+o.j. no. 3269, at paras 38-43
+morgan (power of attorney for property for) v. morgan
+,
+o.j. no.
+964, at para 48
+r v jordan
+, 1 scr 631,
+2016 scc 27
+, 1 rcs 631, scj
+no 27, acs no 27, 1 scr 631
+https://www.ontariocourts.ca/ocj/criminal-court/criminal-rules/
+“intimate partner violence”
+although categorized here as ‘exceptional circumstances,’ i would have equally
+considered five of these months as defence delay due to unreasonable
+unavailability. regardless of classification, the deduction does not alter the outcome.

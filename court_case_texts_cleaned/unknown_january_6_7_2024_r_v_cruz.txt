@@ -1,0 +1,738 @@
+ontario court of justice
+citation:
+r. v. taboada
+, 2025 oncj 192
+date:  2025 04 09
+court file no.:  toronto 21-45003981
+between:
+his
+majesty the king
+— and —
+silvia taboada
+before justice patrice f. band
+heard: december 9, 10, 2024 and
+march 3, 2025
+reasons released: april 9, 2025
+ms. m.
+kwak ............................................................................................. counsel
+for the crown
+mr. p.
+dotsikas........................................................ .…. counsel
+for the accused, ms. taboada
+band
+j.:
+i.
+background
+on the evening
+of november 6, 2021, the car ms. taboada was driving rear-ended another car on
+bathurst st. in toronto. police were called and attended. the arresting officer
+(pc zold) came to believe that ms. taboada’s ability to drive was impaired by drug
+and arrested her for that offence. he brought her to traffic services to be
+evaluated by a drug recognition expert (dre). the dre formed his own grounds to
+believe that ms. taboada’s ability to operate a motor vehicle was impaired by alcohol
+and demanded that she provide samples of her breath into an approved
+instrument. those tests showed that ms. taboada’s blood alcohol content (bac) was
+well over twice the legal limit. she was charged with impaired driving and
+“over 80.”
+at trial, mr.
+dotsikas alleged that pc zold violated ms. taboada’s s. 8 and 9
+charter
+rights to be free from unreasonable search and seizure and from arbitrary
+detention by arresting her without reasonable and probable grounds. the trial
+and
+voir-dire
+proceeded in blended fashion. the crown called pc zold,
+his partner, the dre and two civilians who had been in the car that ms. taboada
+struck. the defence called no evidence on the
+voir-dire
+or trial proper.
+ii. the
+issues
+the central
+issues at trial related to the s. 8 and 9
+charter
+application, namely:
+1.
+whether pc zold had reasonable and
+probable grounds to arrest ms. taboada and demand that she submit to testing;
+and
+2.
+if not, whether the bac results
+should be excluded pursuant to s. 24(2) of the
+charter
+.
+iii. summary of the facts
+a summary of
+the facts will place the issues and applicable legal principles in context.
+pc zold is now
+retired. at the time of this investigation, he had been a police officer for
+32-33 years. in that time, he had conducted more than 24 impaired/over 80 investigations.
+that evening,
+he received information from dispatch regarding a personal injury accident
+involving two motor vehicles
+and a possible impaired driver. one vehicle had rear-ended the
+other. the caller thought one of the drivers might be impaired; one of the
+drivers, a female approximately 45 years of age was non-responsive and thought
+to be “high.”
+when
+he arrived at the scene, pc zold interacted with ms. taboada once she had been
+cleared by ems. he asked her for her driver’s licence, insurance and ownership.
+she rummaged and fumbled through her car for some time before handing him a
+green visa card. she ultimately provided her driver’s license, but she did not
+provide all the documents he had asked for. according to him, her speech was a
+bit slurred. her eyes were not blinking normally; they would stay closed for
+longer than one would expect and they seemed tired or groggy. he found a bottle
+of prescription pills containing acetaminophen, codeine and caffeine in the
+car. he did not smell an odour of alcohol emanating from ms. taboada’s breath.
+in his examination in chief, he testified that it was based on this
+“constellation” that he formed the belief that ms. taboada’s ability to drive
+was impaired by drug.
+in
+cross-examination, pc zold agreed with defence counsel that rummaging was a more
+applicable description of what he observed ms. taboada doing in the car than
+fumbling. for what it is worth, having viewed his bwc footage in court and
+since, i find that both terms are apt. her car was very messy, and she spent
+almost two minutes looking around in various parts of the car for her
+documents. at one point, she had a hand full of cards and slips of paper and
+one slid out. that, it seems to me, is the very definition of fumbling. with
+respect to the visa card, mr. dotsikas put to pc zold that when he told her
+“that’s your visa card” she replied “i know” and that by doing so she could
+have been demonstrating that she had handed it to him to identify herself. he
+testified that he knew she had responded but that he had not made a note of it.
+he did not know why she had handed him her visa card. that makes sense to me,
+because in fact, ms. taboada did not say “i know.” she said “yeah, i’m gonna go
+to the other side” as she turned away and reached towards the passenger side of
+the car.
+when
+asked how the pills had factored into his belief, at first he explained that
+they had been in the back of his mind, but only “the smallest amount.” this is
+because he did not know what they were. he believed she was impaired by some
+sort of medication, but he did not know if it was that one. later, he explained
+that they were not a factor because, in the end, the case did not go down the
+dre route. while he acknowledged that he had not made notes of the medication,
+and agreed that he had not told the dre about them, he had taken a photo of
+them at the scene. he recalled having a conversation with ms. taboada about the
+medication, but could not recall its contents. he did not tell the dre about
+them because he did not know what they were and had some recollection that they
+were in someone else’s name. for this reason, i do not accept that the medication
+bottle factored into his grounds.
+it
+is difficult to understand how to reconcile pc zold’s testimony that the
+medication factored into his grounds – even “the smallest amount” – with the
+fact that he had no idea what it was, particularly when he did not mention it
+to the dre. i find that, on a fair reading of his evidence, he kept the
+medication in the back of his mind (and photographed it) so that it would be
+known if the dre concluded that ms. taboada’s ability to operate a motor
+vehicle was impaired by drug. in that case, it may have had evidentiary value.
+pc
+zold told ms. taboada that he thought she was either very tired or on some
+medication that was affecting her ability to drive. he told her it was drugs or
+medication or whatever else it might be. he also agreed that he did not know,
+and was not sure, if she was impaired by a drug. that said, he repeated that he
+believed that her ability was impaired by a drug or a combination of a drug and
+fatigue. he said that this was his
+opinion
+and his
+belief
+, and
+that he would not have arrested her if he had felt that only fatigue was at
+play. he also told his partner that he thought she was “high.”
+with
+respect to slurring and unsteadiness, he indicated that neither was significant
+or egregious. mr. dotsikas suggested that he expressed himself in that manner to
+distance himself from the bwc footage which, he argued, showed neither. that is
+not how i took his evidence. i must recall that i was not there and that while
+bwc footage can be extremely helpful, it is no substitute for being present at
+the scene. also, ms. taboada speaks with a slight accent, which can be mistaken
+for slur. his reference to unsteadiness related to a time after he placed ms. taboada
+under arrest and is therefore not relevant to his grounds. that said, in the
+circumstances, i do not find that his testimony is contradicted by the bwc
+footage.
+similarly,
+pc zold agreed that what he had noticed about ms. taboada’s eyes was “nothing
+egregious.” having reviewed the bwc footage, i too observed that ms. taboada’s
+eyes were blinking slowly, and it seemed as though her eyelids were heavy. pc
+zold’s description was fair.
+later,
+pc zold was pressed as to whether he had acted on nothing more than a hunch
+that ms. taboada’s ability was impaired by drug. he disagreed with the term
+“hunch”, responding that he “strongly suspected that’s what it came to after
+eliminating alcohol.”
+lastly,
+pc zold was not trained to perform standard field sobriety tests (sfsts), which
+s. 320.27
+of the
+criminal code
+makes available to officers, along with
+approved screening devices, to assist them in determining whether they have
+reasonable grounds. he also testified that not all officers were trained on
+sfsts and that it was not mandatory when he was still working.
+iv. applicable legal
+principles
+because the
+arrest and subsequent breath tests were done without a warrant, the crown bears
+the burden of demonstrating on a balance of probabilities that they were
+conducted in compliance with the
+charter
+. in this case, that means
+demonstrating that pc zold had reasonable and probable grounds to believe that ms.
+taboada had committed the offence of driving while impaired by drug. as the
+supreme court of canada explained
+in
+r. v. storrey
+,
+1990 canlii 125 (scc)
+,
+1 scr
+241
+at pp. 250-1
+,
+the
+criminal code
+requires
+that an arresting officer must subjectively have reasonable and
+probable grounds on which to base the arrest. those grounds must, in addition,
+be justifiable from an objective point of view. that is to say,
+a reasonable person placed in the position of the officer must be
+able to conclude that there were indeed reasonable and probable
+grounds for the arrest. on the other hand, the police need not demonstrate
+anything more than reasonable and probable grounds. specifically they
+are not required to establish a
+prima facie
+case for
+conviction before making the arrest.
+in
+a drinking and driving context, the reasonable and probable grounds standard is
+not an onerous one:
+see
+r. v. bush
+2010 onca 554
+at para
+46
+.
+in
+a drinking and driving case, the objective aspect of the reasonable and
+probable grounds standard requires that the officer’s belief be supported by
+objective facts such that a reasonable person in the place of the officer would
+conclude that there were indeed reasonable and probable grounds to believe that
+the suspect’s ability to drive was even slightly impaired by the consumption of
+alcohol:
+ibid
+,
+at paras. 38 and 48. the same must be true in
+cases involving drugs.
+in
+bush
+, the court also explained that
+60
+there is no
+minimum time period nor mandatory questioning that must occur before an officer
+can objectively have reasonable and probable grounds. there is no requirement
+that a roadside sample be taken. the asd provides evidence of the blood alcohol
+concentration in the suspect’s blood, not evidence of impairment. the trial
+judge correctly found that if the officer subjectively and objectively had
+reasonable and probable grounds that withstand judicial scrutiny, the failure
+to invoke the roadside screening provisions was irrelevant. if the officer’s
+belief failed to meet the requisite standard, there was a s. 8
+charter
+violation.
+61
+a trained
+police officer is entitled to draw inferences and make deductions drawing on
+experience. here, the investigating officer had 18 years’ experience. the trial
+judge was entitled to take into consideration that experience and training in
+assessing whether he objectively had reasonable and probable grounds…. in
+addition, in determining whether reasonable and probable grounds exist, the officer
+is entitled to rely on hearsay…. (internal citations omitted.)
+as
+such, the issue is not whether the officer could have conducted a more thorough
+investigation. the question is whether when he or she made the breath demand he
+or she “subjectively and objectively had reasonable and probable grounds to do
+so”:
+ibid,
+at para. 70.
+the
+law does not demand the same of the police officer in an arrest situation as
+that expected of a justice considering a search warrant. the police officer
+must make his or her decision in a volatile environment with incomplete
+information:
+ibid,
+at para. 43.
+an
+officer must take into account all the information he or she has and can only
+disregard unreliable information. in doing so,
+the officer is entitled to rely on hearsay:
+ibid,
+at paras. 48 and
+61.
+the
+issue of whether there were reasonable and probable grounds involves an
+examination of the totality of the circumstances, not a dissection of each one
+of the individual
+indicia
+which may or may not exist; there is no
+mathematical formula:
+ibid,
+at paras.  55-56.
+in
+a case involving a motor vehicle collision, “[
+t]hat an accident occurred, including the
+circumstances under which it occurred and the possible effects of it, must be
+taken into account by the officer along with the other evidence in determining
+whether there are reasonable and probable grounds to arrest for impaired
+driving. consumption plus an unexplained accident may generate reasonable and
+probable grounds although that may not always be the case”:
+ibid,
+at para. 54.
+when
+testifying in court about the reasons for which they take certain steps in an
+investigation, such as making an asd demand, an arrest or a breath demand,
+officers are not required to say
+magic words
+.
+in
+r. v. hall
+,
+(1995),
+1995 canlii 647 (on ca)
+,
+22 o.r. (3d) 289
+at para.
+36
+, the
+court of appeal held that a trial judge can infer that an officer had the requisite
+subjective grounds to arrest based on a fair reading of their evidence. in
+r.
+v.
+clarke
+,
+o.j. no. 804
+at para. 13 (s.c.j.)
+, justice durno
+explained:
+there
+are authorities which support the crown's contention the officer does not have
+to say the “magic words.” in some cases this is related to whether the officer
+had to state the reasonable and probable grounds for a breathalyzer demand ...
+in all of cases it was determined that a court could infer from circumstantial
+evidence the officer had the requisite belief without having said the “magic
+words.” (internal citations omitted.)
+what
+is more, in relation to the requisite objective grounds, the reviewing court is
+not limited to what the officer articulated in court; what must be considered
+is the totality of the circumstances: see
+r. v. censoni
+,
+o.j. no. 5189
+at paras. 55-56 (scj)
+. this includes all facts and circumstances
+reasonably known to the officer at the time they formed their grounds: see
+r.
+v. yi
+,
+o.j. no. 1315
+at para. 20
+;
+r. v. singh
+,
+o.j.
+no. 5133
+at para. 43 (s.c.j.)
+and
+r. v. fyfe
+2023 onca 715
+at
+paras.
+54-63
+.
+v. the arguments
+mr. dotsikas
+argues that, having ultimately testified that he had a “strong suspicion”, pc
+zold must be “taken at his word” and, as a result, the arrest and what followed
+violated ms. taboada’s s. 8 and 9 rights. he also argues that pc zold lacked
+reasonable grounds because he did not turn his mind, subjectively, to the
+question of impairment by
+drug
+. rather, he argues, pc zold defaulted to
+that because he had ruled out alcohol. this is a problem because it amounts to
+a process of elimination. also, fatigue and the effects of the accident were
+potential factors. in other words, pc zold only suspected impairment. he
+decided to arrest ms. taboada and find out later whether that impairment was
+caused by drugs. a situation like this is what sfsts are for. the fact that
+neither pc zold nor his partner knew how to administer sfsts amounted to a
+breach and/or aggravated the existing breach. for this, mr. dotsikas points to
+r.
+v. au-yeung
+,
+2010 onsc 2292
+, a case in which the arresting officer who
+administered the asd did not know how to operate it.
+on behalf of
+the crown, ms. kwak argues that pc zold had reasonable and probable grounds to
+arrest ms. taboada based on the totality of the circumstances. she also argues
+that there are no required “magic words” and that it is open to me to consider
+all facts reasonably known to pc zold. she suggests that i can take judicial
+notice of the potential effects of codeine
+but even without that, pc zold’s grounds were sufficient. also, she maintains
+that an officer is under no obligation to employ an asd or sfsts. the question
+is whether they have the requisite grounds. for this proposition, she relies on
+r. v. marrese
+,
+o.j. no. 4467
+at para. 19 (s.c.j.)
+, citing
+censoni
+,
+supra, at para. 50.
+vi. analysis
+a.
+reasonable grounds
+this case is
+not, strictly speaking, about whether magic words are required. but it is about
+a related issue concerning the weight that one dissonant word or phrase should
+bear when it emerges in the context of a witness’s otherwise consistent testimony.
+is mr. dotsikas right that i am bound to find that pc zold only had a “strong
+suspicion”?
+whether an
+officer had reasonable grounds or merely a reasonable suspicion is an important
+issue in many cases because it is a pivotal inflection point that determines
+how an investigation can and should proceed. and of course, the entire aim of a
+cross-examination can be centered on that distinction. but that does not mean
+that after testifying repeatedly about their belief and opinion, anchored in
+certain objective facts, an officer’s single mention of something less than
+reasonable grounds must automatically dismantle the body of testimony that
+preceded it. in some cases, doing so could risk giving one phrase magic
+power
+.
+it could also run contrary to the principles above, indicating that a judge can
+infer whether an officer had the requisite subjective reasonable grounds based
+on a fair reading of their testimony.
+in my view,
+based on a fair reading of pc zold’s testimony, he had subjective reasonable grounds
+to believe that ms. taboada’s ability to operate a motor vehicle was impaired
+by drug, notwithstanding his assertion, late in the cross-examination, that he
+had a “strong suspicion.” i say this because pc zold is a very experienced
+officer who testified numerous times that he had a belief and an opinion about
+that issue, which was based on the grounds that he articulated and which i have
+listed at para. 7 above (less the medication bottle). as i have found, those factors
+were objectively justifiable.
+in addition, what
+pc zold was told over the police radio were other circumstances reasonably
+known to but not articulated by him, namely: the existence of an unexplained
+rear-end accident at a traffic light, that the female driver was not responsive
+and was believed to be impaired and “high.” so, too, the fact that ms. taboada
+had told him that she was fine regarding any effects of the accident; also, she
+had been released by ems.
+i find that
+viewed in combination, these facts and circumstances, which were known or reasonably
+known to pc zold, easily meet the objective reasonable grounds threshold. this
+is not a case in which an officer faced with an unexplained accident and no
+smell of alcohol defaulted to a subjective belief about impairment by drug. pc
+zold’s belief that a drug was at play in this case was reasonable.
+i do not find
+that pc zold’s inability to perform sfsts, or the fact that training was not
+mandatory, constituted breaches of s. 8 or could aggravate such a breach. the
+provisions of s. 320.27 are not mandatory in this regard. i also note that the
+facts
+in
+au-yeung
+were very different: there, the officer had administered
+an asd test despite not knowing how to do so.
+as such, i find
+that ms. taboada’s s. 8 and 9 rights were not violated, and would dismiss her
+application.
+if i am wrong
+about that, and if pc zold’s subjective grounds missed the mark, it was by a
+hair. as a result, out of an abundance of caution, i will undertake a section
+24(2) analysis.
+b.
+section 24(2)
+if pc zold
+violated ms. taboada’s s. 8 and 9 rights, there can be no question but that the
+evidence that was later gathered was obtained in a manner that violated her
+rights.
+section 24(2)
+of the
+charter
+allows a court to exclude evidence where admitting it
+would bring the administration of justice into disrepute.
+in
+r. v. grant
+2009 scc 32
+, at paras.
+68-70
+, the supreme court explained this concept.
+the
+phrase “bring the administration of justice into disrepute” must be understood
+in the long-term sense of maintaining the integrity of, and public confidence
+in, the justice system. exclusion of evidence resulting in an acquittal may
+provoke immediate criticism. but s. 24(2) does not focus on immediate reaction
+to the individual case. rather, it looks to whether the overall repute of the
+justice system, viewed in the long term, will be adversely affected by
+admission of the evidence. the inquiry is objective. it asks whether a
+reasonable person, informed of all relevant circumstances and the values
+underlying the
+charter
+, would conclude that the admission of the
+evidence would bring the administration of justice into disrepute.
+section
+24(2)’s focus is not only long-term, but prospective. the fact of the
+charter
+breach means damage has already been done to the administration of justice.
+section 24(2) starts from that proposition and seeks to ensure that evidence
+obtained through that breach does not do further damage to the repute of the
+justice system.
+finally,
+s. 24(2)'s focus is societal. section 24(2) is not aimed at punishing the
+police or providing compensation to the accused, but rather at systemic
+concerns. the s. 24(2) focus is on the broad impact of admission of the
+evidence on the long-term repute of the justice system.
+i must consider
+three factors: (1) the seriousness of the violation; (2) the impact of the
+violation on the accused's
+charter
+-protected interests; and (3)
+society’s interest in the adjudication of the case on its merits (
+ibid
+,
+at para. 71). the focus must be on the long-term and prospective effect of a
+remedy or lack of remedy. the supreme court of canada’s
+decision in
+r. v. le
+2019 scc 34
+also provides important guidance. at para. 141, the majority
+provided the following explanation of the interplay between the
+grant
+factors:
+while
+the first two lines of inquiry typically work in tandem in the sense that both
+pull towards exclusion of the evidence, they need not pull with identical
+degrees of force in order to compel exclusion. more particularly, it is not
+necessary that
+both
+of these first two lines of inquiry
+support exclusion in order for a court to determine that admission would bring
+the administration of justice into disrepute. of course, the more serious the
+infringing conduct and the greater the impact on the
+charter
+-
+protected interests, the stronger the case for exclusion (
+r. v. mcguffie
+,
+2016
+onca 36
+, at para.
+62
+). but it is also possible that serious
+charter
+-infringing
+conduct, even when coupled with a weak impact on the
+charter
+-protected
+interest, will
+on its own
+support a finding that admission of
+tainted evidence would bring the administration of justice into disrepute. it
+is the sum, and not the average, of those first two lines of inquiry that
+determines the pull towards exclusion.
+seriousness of the charter-infringing
+conduct
+this stage is
+focused on whether the court must dissociate itself from the police conduct in
+order to “preserve public confidence in the rule of law and its processes” (
+grant
+,
+at para.
+73
+). to determine this, i must locate the police conduct on a spectrum
+of seriousness.
+in
+r. v.
+james
+,
+2025 onca 213
+the ontario court of appeal recently explained that,
+while
+the supreme court of canada in
+r. v. zacharias
+2023 scc 30
+was
+divided on the impact of consequential breaches on the first
+grant
+factor,
+the majority agreed that a pattern of
+charter
+breaches can
+increase the seriousness of the
+charter
+-infringing conduct. here, even
+though a s. 8 breach carries with it a s. 9 breach, no pattern emerges.
+there is no
+argument that pc zold was acting in bad faith, and i have found that he did not
+try to distance himself from the bwc footage. based on his testimony and
+experience, pc zold is not an officer who failed to understand basic and
+well-entrenched
+charter
+principles, or was careless about them. missing
+the reasonable grounds mark by a tiny margin in a drunk driving case is a far
+cry from serious police misconduct. as such, if this factor favours exclusion
+at all, it does so with minimal force.
+impact of the breach
+on ms. taboada’s charter-protected interests
+in
+r. v. tim
+,
+2022 scc 12
+, at para.
+90
+, the supreme court of canada wrote that this line of
+inquiry considers the impact of the breach(es) on the accused's
+charter
+-protected
+interests and asks whether the breach “actually undermined the interests
+protected by the right infringed.” i must identify “the interests protected by
+the relevant
+charter
+rights” and evaluate “how seriously the breaches
+affected those interests.” as with the first line of inquiry, i must then
+“situate the impact on the accused’s
+charter
+-protected interests on a
+spectrum, ranging from impacts that are fleeting, technical, transient, or
+trivial, to those that are profoundly intrusive or that seriously compromise
+the interests underlying the rights infringed.” as the court explained,
+[t]he
+greater the impact on
+charter
+-protected interests, the greater the risk
+that admission of the evidence would bring the administration of justice into
+disrepute. this is because “admission of the evidence may signal to the public
+that
+charter
+rights, however high-sounding, are of little actual avail
+to the citizen, breeding public cynicism and bringing the administration of
+justice into disrepute.”
+ms. taboada was
+arrested (albeit not handcuffed), placed in the rear of a police car, taken to
+a police station, and subjected to breath testing. this had an obvious and
+significant impact on her liberty and privacy rights. this factor pulls in
+favour of exclusion relatively strongly.
+society’s interest
+in adjudication on the merits
+this line of
+inquiry is concerned with the reliability of the evidence and its importance to
+the crown’s case. the question is “whether the truth-seeking function of the
+criminal process would be better served by admission of the evidence, or by its
+exclusion” (
+grant
+, at para.
+79
+). reliable and critical evidence
+generally pulls toward inclusion. that said, this factor cuts both ways and
+ought not be permitted to overwhelm the analysis (
+r. v. harrison
+,
+2009 scc 34 (canlii)
+,
+2 s.c.r. 494
+, at para.
+34
+;
+grant
+, at para.
+84
+; and
+r. v. paterson
+,
+2017 scc 15 (canlii)
+,
+1 s.c.r. 202
+at para.
+55
+). as the court
+stated in
+grant
+, “
+while the public has a
+heightened interest in seeing a determination on the merits where the offence
+charged is serious … it also has a vital interest in having a justice system
+that is above reproach, particularly where the penal stakes for the accused are
+high” (
+ibid
+).
+here, the
+breath testing results are highly reliable evidence without which the crown’s
+case on the over 80 count would be gutted. drunk driving is a serious and all
+too common offence in our society. the public has a strong interest in the
+prosecution of such cases on their merits, particularly when they involve high
+bac and an accident.
+this factor
+clearly and strongly favours admission of the evidence.
+balancing
+the balancing
+exercise does not lend itself to mathematical precision. the question is
+whether, having regard to all the circumstances, the admission of the evidence
+would bring the administration of justice into disrepute. i find that the
+admission of the evidence in this case would not have a significant or lasting
+impact on the repute of, and the public’s confidence in, the administration of
+justice. in fact, i believe that exclusion of the evidence in this case would
+have those effects.
+the
+charter
+-infringing
+conduct postulated in this case was not deliberate or serious. the court is not
+required to dissociate itself from pc zold’s conduct.
+even though the
+components of the second line of inquiry pull relatively strongly in favour of
+exclusion, i find that, on balance, the sum of the first and second factors is
+clearly outweighed by society's interest in the truth-seeking function of a
+trial on the merits.
+for these
+reasons, the breath test results are admissible against ms. taboada.
+vii. conclusion as to the over
+80 count
+all other
+evidence related to this count having been admitted, the crown has proved beyond
+a reasonable doubt that ms. taboada is guilty of the offence of driving with
+excess alcohol.
+viii. conclusion as to the
+impaired driving count
+the evidence of
+the two civilians, a husband and wife whose vehicle was struck by ms. taboada’s
+was not challenged. in the aggregate, their testimony demonstrated the
+following:
+•
+when seen at a
+prior light, ms. taboada seemed to be asleep behind the wheel;
+•
+one or two
+lights down the road, her car rear-ended theirs at least twice;
+•
+she kept her
+foot on the gas and her car in gear, such that her car was pushing against
+theirs;
+•
+when she was
+approached, she opened her door and appeared to be falling out of her car;
+•
+twice she was
+told to stop the engine, to no avail;
+•
+she seemed
+intoxicated; and
+•
+her speech was
+difficult to understand.
+based on that
+testimony, combined with the other evidence in this case, the crown has proved beyond
+a reasonable doubt that ms. taboada is guilty of operating her car while her
+ability to do so was impaired by alcohol.
+released:
+april 9, 2025
+justice patrice
+f. band
+while it may be open to me to take
+judicial notice of the fact that codeine is an opioid that can cause sleepiness,
+among other things, i would not count that among the things that pc zold knew
+or “reasonably knew” because he made it clear that he did not know what codeine
+is.

@@ -1,0 +1,1007 @@
+ontario court of justice
+citation:
+r. v. bains
+, 2025 oncj 591
+date:
+2025 11 10
+court
+file no.:  toronto information #4810 998 25 50002873
+between:
+his
+majesty the king
+— and
+—
+arshdeep singh
+bains
+before
+justice j. trehearne
+heard
+on september 11 and 12, 2025 and
+reasons
+for judgment released on november 10, 2025
+s. aki..................................................................................................... counsel
+for the crown
+x. xu....................................................... counsel
+for the accused
+arshdeep singh bains
+trehearne j.:
+i.  introduction
+mr. bains stood trial before me on nine counts
+of theft under $5,000 contrary to
+s.334
+(b) of the
+criminal code of canada
+,
+r.s.c. 1985, c. c-46, all counts involving alleged thefts of alcohol from
+various lcbo locations between february 8, 2024 and november 24, 2024.  in
+addition, mr. bains is charged with failing to comply with a probation order
+contrary to
+s.733.1(1)
+of the
+criminal code,
+by breaching a condition
+not to attend any lcbo location on the date of the last alleged theft on november
+24, 2024.  the crown elected to proceed summarily on all charges.
+[i]
+the parties very helpfully filed an agreed
+statement of fact in this matter, which streamlined the issues on the theft
+counts to a single one – that of identity.  there is no dispute that a person
+or different people stole the alcohol as alleged from the various lcbo
+locations on the various dates set out in the information.  nor is there any
+dispute as to the value of the goods stolen.  the only question on the theft
+counts is whether the crown proved mr. bains’s identity as the thief in
+relation to each count beyond a reasonable doubt.
+to prove mr. bains’s identity as the thief in
+each case, the crown filed video clips taken from surveillance footage from the
+various lcbo locations, and asked me to compare mr. bains’s appearance in court
+with the appearance of the individual or individuals in the video clips,
+pursuant to
+r. v. nikolovski
+,
+1996 canlii 158 (scc)
+, 3 s.c.r. 1197.  in the crown’s
+submission, this exercise reveals that mr. bains is the thief, beyond a
+reasonable doubt.  in the defence’s submission, this exercise reveals that the
+individual in the video clips is different than mr. bains, or at least that i
+should have a reasonable doubt about whether the individual in the video clips
+is mr. bains.  the defence conceded the authenticity and continuity of the lcbo
+video clips.
+the crown submits in addition, or in the
+alternative, that i should compare the appearance of the person or people in
+the lcbo video clips to the body worn camera of the officer who arrested mr.
+bains on these charges, still photos from the booking hall video from 23
+division recorded at the time of mr. bains’s arrest on the charges before the
+court, and a mugshot or arrest photo of someone the crown claims is mr. bains.  the
+crown says that this evidence, too, shows that mr. bains is the thief on the
+dates in question.  the defence did not contest the admissibility of the
+officer’s body worn camera, nor of the booking hall video still photos.  the
+defence did contest the admissibility of the mugshot or arrest photo.  the
+defence further submitted that a comparison of the individual or individuals who
+committed the thefts in the lcbo video clips with the body worn camera, booking
+video still photos, and mugshot or arrest photo shows mr. bains was not the
+thief, or at least that i should have a reasonable doubt.
+as for the alleged breach of probation, the
+defence again challenged whether mr. bains’s identity had been established as
+the person who breached the probation order beyond a reasonable doubt.  as i
+understand the defence position, the defence argued not only that (as with the
+theft counts) the crown had failed to prove that mr. bains was the person who
+entered the lcbo on november 24, 2024, but also that the crown had failed to
+prove that the accused before me was the same person as the person bound by the
+probation order.
+ii.  the foundational legal principles applicable to all criminal cases
+every person charged with an offence is presumed
+to be innocent, unless and until crown counsel proves every essential element
+of the charge against that person beyond a reasonable doubt: d. watt, k.c., and
+j. makepeace,
+watt’s manual of criminal jury instructions, 2024
+, thomson
+reuters canada limited, final 11 – presumption of innocence;
+r. v. ménard
+,
+1998 canlii 790 (scc)
+, 2 s.c.r. 109 at ¶23.
+the obligation to prove an accused person’s
+guilt rests with crown counsel.  from start to finish, that obligation never
+shifts.  a person charged with a criminal offence does not have to present
+evidence or prove anything: d. watt, k.c., and j. makepeace,
+watt’s manual
+of criminal jury instructions, supra
+, final 12 – burden of proof;
+r. v.
+lifchus
+,
+1997 canlii 319 (scc)
+, 3 s.c.r. 320 at ¶27.
+the phrase “beyond a reasonable doubt” is a very
+important part of our criminal justice system.  it is one of the principle
+safeguards which seeks to ensure that no innocent person is convicted:
+r. v.
+lifchus
+, supra,
+at ¶13.  a reasonable doubt is not an imaginary,
+far-fetched, or frivolous doubt.  it is not a doubt based on sympathy for or
+prejudice against anyone involved in the trial.  it is a doubt based on reason
+and common sense.  it is a doubt that logically arises from the evidence, or
+the lack of evidence: d. watt, k.c., and j. makepeace,
+watt’s manual of
+criminal jury instructions, supra
+, final 13 – reasonable doubt;
+r. v.
+lifchus
+,
+supra,
+at ¶¶30-31.
+proof of probable or likely guilt is not proof
+of guilt beyond a reasonable doubt.  however, it is nearly impossible to prove
+anything to an absolute certainty.  crown counsel is not required to do so.
+if, at the end of the case, after considering all the evidence, i am sure that
+the accused person committed the offence, i must find that person guilty of it,
+since i would have been satisfied of the person’s guilt of that offence beyond
+a reasonable doubt.  if, at the end of the case, based on all the evidence or
+the lack of evidence, i am not sure that an accused person committed an
+offence, i must find the accused person not guilty: d. watt, k.c., and j.
+makepeace,
+watt’s manual of criminal jury instructions, supra
+, final 13
+– reasonable doubt;
+r. v. lifchus
+,
+supra,
+at ¶14, ¶¶31-39.
+iii.     the thefts
+a.
+the evidence
+as noted above, the crown filed video clips from
+the surveillance videos from the lcbos where the thefts occurred on the various
+dates in question.  these were marked as numbered exhibits without objection by
+the defence.
+in addition, the crown called officer joshua
+regisford as a witness.  officer regisford testified that on march 10, 2025, he
+arrested mr. bains on the charges before the court.  officer regisford
+identified mr. bains in court as the person whom he arrested.  he identified
+the video from his body worn camera on the date in question, which video was
+marked as exhibit 17 on the proceedings.  officer regisford also identified
+himself and mr. bains in three still photos taken from the booking hall video
+from 23 division at the time of mr. bains’s arrest.  these photos were marked
+as exhibits 18a-c on the proceedings.  officer regisford agreed that he had
+never met mr. bains before arresting him on march 10, 2025.  however, the
+defence did not dispute that mr. bains is the person in officer regisford’s body
+worn camera video.  moreover, while the defence did not explicitly concede that
+mr. bains is the person in the still shots from the 23 division booking hall
+video, neither did the defence suggest that mr. bains is not the person in
+those still shots, nor cross-examine officer regisford to establish that mr.
+bains is not that person.
+finally, the crown sought to enter into evidence
+an arrest photo or mugshot, which the crown introduced through dc borch.  dc
+borch identified the photo as an arrest photo of mr. bains taken april 4, 2024,
+which he retrieved from a toronto police service database.  dc borch testified
+that he compared this arrest photo to still images from the lcbo videos when
+identifying mr. bains as the person involved in those thefts.  dc borch did not
+take the arrest photo, nor was he present when it was taken.  he agreed that
+his only interaction with mr. bains was a fairly brief glance at mr. bains when
+mr. bains was in the cells at 23 division following his arrest on the charges
+before the court.
+b.
+the parties’ positions
+the crown’s position was that i should compare
+mr. bains’s appearance in court to the individual or individuals in the lcbo
+video clips, and that this exercise would reveal that mr. bains was the thief
+beyond a reasonable doubt.  the crown further submitted that i should also
+compare the individual or individuals in the lcbo video clips with the body
+worn camera video of mr. bains at the time of his arrest, the still photos of
+mr. bains at the time of his arrest taken from the 23 division booking hall
+video, and the arrest photo or mugshot of mr. bains, and that this exercise
+would also reveal that mr. bains was the thief beyond a reasonable doubt.
+on the question of the admissibility of the mugshot
+or arrest photo, the crown submitted that the arrest photo was authenticated pursuant
+to
+s.31.1
+of the
+canada evidence act
+, r.s.c. 1985, c. c-5.
+the
+crown submitted that dc borch identified the photo as one from the toronto
+police service database, and that i could compare the appearance of the
+individual in the arrest photo to the appearance of mr. bains in court, to the
+appearance of mr. bains in officer regisford’s body worn camera video, and to
+the stills taken from the booking hall at 23 division to authenticate the
+mugshot or arrest photo.  the crown relied on
+r. v. george
+,
+2023 oncj
+303
+.  in that case, the crown sought to have admitted a photo which provided
+evidence of the identity of the shooter.  the crown asserted confidential
+informer privilege over the origin of the photo.  the crown also introduced
+video footage of the same events depicted in the photo, which video was
+unchallenged by the defence (see ¶14).  justice fraser concluded at ¶22 of
+george
+that he could compare the background and clothing depicted in the photo with
+the video of the same scene to determine whether the photo was authentic.
+the defence submitted that a comparison of mr.
+bains’s appearance in court to the lcbo video clips should cause me to have a
+reasonable doubt on the question of identity.  as for the question of comparing
+the appearance of the individual or individuals in the lcbo video clips with
+mr. bains’s appearance in the body worn camera video and the stills from the 23
+division booking hall video, the defence position was that this was not a
+permissible legal exercise.  according to the defence, that sort of comparison
+between photos or videos is not what the court envisaged in
+nikolovski
+.
+counsel
+pointed out that there are a number of factors which affect how a person
+appears in a photo or video, such as the lens used, the lighting, and the
+relationship between the person being captured and the person with the camera.
+thus, such a comparison might not result in reliable identification evidence,
+as it is not as high quality as having the very person in court (as in
+nikolovski
+)
+to compare to the photo or video of the offence.  moreover, even if i were
+to engage in the exercise of comparing the individual or individuals in the
+lcbo video clips to mr. bains in the body worn camera and the still photos from
+the booking hall video, i should nonetheless have a reasonable doubt that mr.
+bains is the person in the lcbo video clips.
+as for the mugshot, the defence position is that
+this photo could not be authenticated through dc borch, who had no personal
+involvement in taking the photo, nor any personal knowledge of whether the date
+indicated on the photo was in fact the date it was taken.  the defence further
+submitted that i could not authenticate the photo myself in the manner justice
+fraser did in
+george
+, because there was no evidence as to how mr. bains
+looked on the date the mugshot or arrest photo was taken.  in other words, in
+george
+,
+justice fraser was asked to compare a known to an unknown, whereas here i
+am being asked to conclude that two unknowns corroborate each other.  in the
+alternative, if i were to admit the mugshot or arrest photo, its comparison to
+the individual or individuals in the lcbo video clips should cause me to have a
+reasonable doubt on the issue of identity.
+finally, the defence provided two additional
+cautions.  first, the crown relied heavily on the full lips and strong brow of
+the individual in the lcbo video clips, characteristics which mr. bains also
+has.  however, the defence submitted that these features are common to people
+of south asian descent, and therefore do not help to identify mr. bains as the
+thief in the lcbo video clips, or at least not to a sufficient extent.  second,
+the defence pointed out that zooming in on the lcbo video clips causes
+pixelation, which makes it hard to discern whether one is observing features of
+the individual in the video clips, or artifacts of the pixelation.
+c.
+the applicable legal principles
+i.
+the legal principles applicable to the
+comparison of mr. bains’s appearance in court with the appearance of the person
+or people in the lcbo video clips
+in
+r. v. nikolovski
+,
+supra,
+at ¶23,
+the supreme court of canada made clear that a trier of fact can use video
+evidence as the sole basis for the identification of the accused before them as
+the perpetrator of the crime.  in fact, as the
+nikolovski
+court
+recognized at ¶21, in some ways, video evidence such as that introduced in this
+case can provide better evidence than that of an eye witness.  as the
+nikolovski
+court explained, the video tape acts as a silent, trustworthy, unemotional,
+unbiased and accurate witness who has complete and instant recall of events.
+in addition, as the court noted in
+r. v. sheardown
+,
+2010 onsc 4235
+at ¶36,
+unlike a live witness feeling the pressure of an alleged crime as it occurs in
+real time, a trier of fact generally has the opportunity to observe the accused
+in a well-lit area, free of distraction or undue stress, and can observe the
+accused and the comparator video for as long as the trier deems necessary.
+however, as the supreme court cautioned at ¶¶30-32
+of
+nikolovski
+, although a trier of fact is entitled to reach a
+conclusion on identification based solely on videotape evidence, they must
+exercise care in doing so.  a trier of fact should consider the clarity and
+quality of the videotape, as well as how long the alleged accused person
+appears on the video, in determining whether the accused’s identity as the
+perpetrator has been proven beyond a reasonable doubt.  in addition, where the video
+evidence is the only evidence on the question of identity, the trier of fact
+must keep that in mind in applying the reasonable doubt standard.  there may be
+changes or differences in the appearance of the persons involved.  see also
+r.
+v. anderson
+,
+2025 onca 408
+at ¶148, and
+r. v. c.b.
+,
+2019 onca 380
+at
+¶102.
+i would add to these legal propositions that the
+trier of fact must also consider the extent of their opportunity to observe the
+accused person in the courtroom in determining whether the crown has proven
+identity beyond a reasonable doubt.  it is only logical that a trier of fact’s
+ability to compare the appearance of the perpetrator on video with the
+appearance of the accused in court is affected by the trier of fact’s ability
+to observe both.  this proposition was also recognized by my colleague justice dellandrea
+in
+r. v. a.m.
+,
+2019 oncj 835
+at ¶165, where the court held that a trier
+of fact’s opportunity to compare the accused to the video evidence will depend
+on such things as the length of the proceedings, where the accused person is
+positioned in court, whether the accused person gives evidence from the witness
+stand, and the court’s ability to make simultaneous comparison between the
+images and the person.
+ii.
+the legal principles applicable to the
+comparison of the person or people in the lcbo video clips with mr. bains’s appearance
+in the body worn camera video and the stills from the booking hall video
+with respect to the question of whether i can
+compare the person or people in the lcbo video clips with mr. bains’s
+appearance in the body worn camera video and the stills from the booking hall
+video, i note that numerous courts have held that such an exercise is
+consistent with, and does not offend, the principles from
+nikolovski
+.
+for example, in
+r. v. keating,
+2018 oncj 1005
+at ¶70, affirmed
+r. v.
+keating
+,
+2020 onca 242
+at ¶¶23-26, the trial judge compared the accused’s
+mugshot with facebook photos identified by the complainant as the person who
+trafficked her to conclude that the accused was the person who trafficked the
+complainant.  see also
+r. v. hudson
+,
+2020 onca 507
+at ¶¶46-47.
+in engaging in the exercise of comparing the
+person or people in the lcbo video clips with mr. bains’s appearance in the
+body worn camera video and the stills from the booking hall video, i will bear
+in mind mr. xu’s caution that a number of factors can affect how a person
+appears in a photo or video.  however, on the other hand, as i noted above, the
+supreme court of canada observed in
+nikolovski
+at ¶21 that a camera,
+unlike an eyewitness, records accurately and dispassionately all that comes
+before it, and is akin to an unbiased witness with instant and total recall.  moreover,
+the trier of fact may review the photo or video evidence as often as desired.
+here, not only has the crown filed stills from the booking hall video, which
+only capture mr. bains in static images, but i also have available a fairly
+lengthy, and clear, body worn camera video of mr. bains as he interacts with the
+arresting officer and moves about.  thus, i can observe mr. bains’s mannerisms,
+as well as his appearance from various angles.
+iii.
+the legal principles applicable to the
+comparison of the person or people in the lcbo video clips with the person in
+the mugshot or arrest photo purported to be of mr. bains
+i will now turn to the question of the
+admissibility of the mugshot or arrest photo which the crown says depicts mr.
+bains.
+section 31.1
+of the
+canada evidence act
+provides:
+authentication
+of electronic documents
+31.1  any person
+seeking to admit an electronic document as evidence has the burden of proving
+its authenticity by evidence capable of supporting a finding that the
+electronic document is that which it is purported to be.
+section 31.8
+of the
+canada evidence
+act
+defines “electronic document” as “data that is recorded or stored… in
+or by a computer system”, and includes a “display, printout or other output of
+that data”.
+in
+r. v. c.b.
+,
+supra,
+at ¶¶63-68
+and ¶78, the court of appeal for ontario explained that at common law,
+authentication requires the introduction of
+some
+evidence that the item
+is what it purports to be.  the requirement is not onerous, and may be
+established by either or both of direct and circumstantial evidence.  under
+s.31.1 of the
+canada evidence act
+, the party who seeks to admit an
+electronic document has the burden of proving its authenticity.  to meet the
+burden, the party must adduce evidence
+capable
+of supporting a finding
+that the electronic document is what it purports to be.  as at common law, the
+threshold to be met is low.  when the threshold is satisfied, the electronic
+document is admissible.  however, it does not follow from admissibility that
+the trier of fact must find that the evidence is, in fact, what it claims to
+be.  the trier of fact must still decide what weight, if any, to assign to the
+evidence.
+if the mugshot or arrest photo were to be
+admitted in this case, then i can consider to what extent i should give it any
+weight.  if i choose to give it some weight, the same principles would apply as
+set out above in section iii(c)(ii) of these reasons, allowing me to compare
+the appearance of mr. bains in the mugshot with the appearance of the person or
+persons in the lcbo video clips.
+iv.
+the legal principles applicable to the question
+of cross-racial identification
+finally, i note that mr. bains and i appear to
+be from different ethnic or racial backgrounds, and i remind myself that
+cross-racial mis-identification is a well-recognized danger:
+r. v. smith
+,
+2025 onca 494
+at ¶15;
+r. v. richards
+,
+2004 canlii 39047 (on ca)
+, o.j. no. 2096 (c.a.) at ¶32.
+in
+r. v. ali
+,
+2021 onca 277
+at ¶15, the court of appeal for ontario
+expressed some hesitation that this danger necessarily presents itself in a
+situation such as this, in which the trier of fact has video clips they can
+watch and re-watch, as opposed to a situation in which an eye witness testifies
+as to their observations of an event.  nonetheless, i have cautioned myself to
+be mindful of this concern in assessing the evidence in this case.
+d.
+the legal principles applied
+i.
+what was not evidence of identity in this case
+i want to start my analysis by clarifying what
+evidence i did not consider on the question of identity in this case.  in
+particular, i did not consider the evidence of officer borch that he had
+satisfied himself that the person or people involved in the thefts is mr.
+bains.  in
+r. v. leaney,
+1989 canlii 28 (scc)
+, 2 s.c.r. 393 at p. 413, the supreme
+court of canada held that a trial judge may admit the
+viva voce
+evidence
+of a witness who identifies a person on a video as the accused person.
+however, the witness must have a prior acquaintance with the accused person,
+such that he would be in a better position than the court to identify the
+accused person in the video clips:
+r. v. leaney
+,
+supra,
+at p.
+413;
+r. v. brown
+,
+2006 canlii 42683 (on ca)
+, o.j. no. 5077 (c.a.) at ¶39. officer borch did
+not testify to having a prior acquaintance with mr. bains, such that he would
+be in a better position than the court to identify mr. bains in the lcbo video
+clips.  nor did he go through each theft incident and explain how or why he
+concluded that mr. bains was involved.
+in addition, the crown did not bring a similar
+fact application in this case.  as such, i did not consider the evidence across
+counts.
+having made those two clarifying points on the
+issue of identity, i will now turn to my application of the principles in
+r.
+v. nikolovski
+,
+supra,
+by which i compared the appearance of mr.
+bains in court to the appearance of the person or people in the lcbo videos committing
+the various thefts in question.
+ii.
+a comparison of mr. bains in court to the person
+or people in the lcbo video clips
+on the basis of the exercise of comparing mr.
+bains in court to the person or people in the lcbo video clips standing alone, i
+am left in a reasonable doubt about whether mr. bains is the person in the lcbo
+videos.  the following circumstances of my observations of mr. bains in court made
+it impossible for me to conclude that the crown had proven identity beyond a
+reasonable doubt based on that comparison.
+first, my opportunity to observe mr. bains in
+court was limited by his placement in the prisoner’s box.  i estimate the
+prisoner’s box to be approximately 15 feet from the bench in courtroom 1102,
+where the trial was held.  the lighting over the prisoner’s box is not
+particularly good.  i had to view mr. bains through the glass which surrounds
+the prisoner’s box, which appears to have a slight tint.  the layout of the
+prisoner’s box means that when mr. bains was seated, as he was for most of the
+proceedings, my view of him was in profile, such that i only had an opportunity
+to observe the left side of his face.  further, the video screen used for mr.
+bains to view the lcbo video clips is in the lower part of the prisoner’s box,
+such that as he was watching the lcbo video clips, he was looking down, so my
+opportunity to observe his face was further limited.  moreover, mr. bains chose
+not to testify, as is his right, which meant i did not have a good opportunity
+to observe his mannerisms or affect.
+in this regard, i note that following the
+evidence and submissions, on october 10, 2025 mr. bains also briefly appeared
+before me 1001 court to reschedule the date for this judgment.  i was very
+struck at how much more clearly i could see mr. bains in that courtroom.  courtroom
+1001 is on an outer wall of the courthouse, and has an extra frosted window
+through which natural light can come from outside.  on october 10, 2025, there
+was natural light streaming through the outer windows of the courthouse and on through
+the inner windows of courtroom 1001, which made a significant difference in my
+ability to observe mr. bains.  however, mr. bains’s appearance in courtroom 1001
+was brief, and i had only a couple of minutes to observe him.  moreover, the
+circumstances of this particular observation still required me to view mr.
+bains through glass, and largely in profile.  as such, i do not feel
+comfortable relying on that very brief opportunity to observe mr. bains as
+proof beyond a reasonable doubt.  however, that brief interaction was
+instructive, in that it highlighted the relatively poor lighting over the
+prisoner’s box during the trial.
+a second difficulty relating to my observations
+of mr. bains during the trial is that at the time of trial, he had long hair,
+which he chose to wear down and around his face.  this made it more difficult
+to make observations of his face.
+a third difficulty of comparing mr. bains in
+court to the person or people in the lcbo video clips is that mr. bains was
+clean shaven in court, whereas the person in the lcbo videos (with the
+exception of the last incident) had facial hair.  to be clear, i understand
+that facial hair can easily be changed.  however, i found this difference
+between the appearance of mr. bains in court and the appearance of the person
+or people in the lcbo video clips made it more difficult to assess whether mr.
+bains is, in fact, the person in the lcbo video clips.
+at the end of the day, by virtue of the
+observations of mr. bains in court, i would have said that he exhibited in
+court more of a woebegone affect than the individual in the lcbo videos.  i
+would also have said that mr. bains’s skin tone appeared in court to be
+somewhat paler than the individual or individuals generally depicted in the
+lcbo videos.  however, none of this is to say that by virtue of my observations
+of mr. bains in court, i have concluded that mr. bains is
+not
+the person
+in the lcbo videos; rather, it is to say that based on the circumstances of my
+observations of mr. bains in court standing alone, i cannot say beyond a
+reasonable doubt that he
+is
+the person in the lcbo video clips.  the woebegone
+affect to mr. bains’s appearance, as well as his paler skin tone, may well have
+been a result of any number of factors, including that mr. bains was in custody
+on criminal charges and may have been nervous, as well as by the difficulties
+of observing mr. bains in the courtroom due to the distance, tinted glass, and
+relatively poor lighting.  the point is that based on my observations of mr.
+bains in court, and comparing those observations to the person or people in the
+lcbo video clips, the crown has not proven on that basis that mr. bains is the
+person in the lcbo video clips.
+i wish to make one final note with respect to my
+observations of mr. bains in court.  during submissions, mr. xu asserted that
+mr. bains has a light-coloured scar on his forehead.  mr. xu conceded that the
+scar was hard to see at a distance.  the crown neither agreed with, nor
+disputed, the existence of the scar.  from my vantage point on the bench, i
+could not observe the scar.  this is not to say that i doubt mr. xu’s assertion
+as an officer of the court.  however, i am not sure how much it can assist me to
+determine this case that mr. bains has a scar which is difficult to see in
+person, and is also presumably difficult to see in moving or still images.  indeed,
+i did not receive a sufficient description of the scar to determine whether i
+should be able to see it in images of mr. bains, nor could i see it in the
+video and stills which are undisputed to depict mr. bains.  this information about
+the scar therefore cannot assist in my deliberations to any great extent.
+iii.
+the admissibility of the mugshot or arrest photo
+with respect to the admissibility of the mugshot
+or arrest photo of mr. bains filed as exhibit ‘b’ on the proceeding, i am
+satisfied that the crown has met its burden of proving authenticity pursuant to
+s.31.1
+of the
+canada evidence act
+.
+in other words, the crown has
+adduced evidence capable of supporting a finding that the mugshot is what it
+purports to be.  as noted above, the threshold to be met is low.  i acknowledge
+that dc borch was not present when the photo was taken, so he had no personal
+knowledge of when it was taken, nor whom it depicted.  however, there is some
+value to dc borch’s evidence that he drew the photo from a toronto police
+service database of mugshots, as presumably the photo was taken, labelled, and
+entered into the database by someone having a personal knowledge of the matters
+being recorded and under a duty to make the record, which provides some
+circumstantial guarantee of trustworthiness:
+ares v. venner
+,
+1970 canlii 5 (scc)
+,
+s.c.r. 608 at 617, 626.  moreover, there is an identity between the birthdate
+listed under the mugshot and mr. bains’s birthday as listed on the information.
+even more importantly, pursuant to the
+principles of
+nikolovski
+as applied in
+r. v. keating
+(onca),
+supra
+,
+at ¶¶23-26 and
+r. v. hudson
+,
+supra,
+at ¶¶46-47, i can compare the
+mugshot filed as exhibit ‘b’ with the acknowledged depictions of mr. bains in
+the body worn camera video and the stills from the booking hall video to
+determine whether the crown has established that the mugshot is what it purports
+to be.  in this regard, the case is, as the crown submitted, akin to
+r. v.
+george
+, supra
+, in that i am comparing the unknown of the mugshot to the
+known of the body worn camera and booking hall video stills.  having engaged in
+that exercise, i am satisfied that the mugshot is admissible in evidence.  the following
+characteristics are similar as between the individual in the mugshot and mr.
+bains in the body worn camera video and stills from the booking hall: hair
+colour; skin colour; eye colour; thick dark eyebrows that extend fairly low
+down so as to end parallel to the corners of mr. bains’s eyes; a fairly bulbous
+nose; similar ears; and, an oval-shaped face.  the mugshot is said to have been
+taken just under a year before mr. bains’s arrest, and the two individuals
+appear to be about the same age.  perhaps most striking is that not only does
+mr. bains and the person in the mugshot have full lips, but that both the
+individual in the mugshot and mr. bains in the known images and video have an
+upper lip which seems to be slightly lower, or to extend not quite as close to
+the nose, on the left side (when facing the images and video) than on the
+right.  below i have included a cropped still shot from the body worn camera
+video, which i paused at 0:00:33, which depicts the similarities in all these
+features, and in particular the slightly higher raise on the right side of mr.
+bains’s upper lip.  i have also inserted the mugshot for comparison:
+a comparison of the still photo from
+the booking hall marked exhibit 18a in particular also reveals these similarities
+(albeit mr. bains’s lips are less visible in the booking hall stills).  i
+include a cropped version of exhibit 18(a) below for comparison purposes:
+i acknowledge that mr. bains’s hair in the mugshot
+seems to be slightly shorter than how it appears in the body worn camera video
+and booking hall still photos.  however, this difference does not undermine my
+conclusion on the authentication of the mugshot, as his hair could easily have
+grown a small amount between april of 2024 and march of 2025.
+however, although i am admitting the mugshot
+into evidence, i caution myself against placing too much weight on it in
+assessing whether the crown has proven beyond a reasonable doubt that mr. bains
+is the person in the lcbo video clips.  the mugshot is a single static photo
+from only one angle, and captures mr. bains only from the shoulders up.  mr.
+bains’s expression in the mugshot is quite different from that in the body worn
+camera and still photos from the booking hall video.  i also note that the
+lighting in the mugshot casts shadows on mr. bains’s face, and that (perhaps
+because of the lighting), mr. bains’s skin looks more yellow in the mugshot
+than in the body worn camera video and the booking hall stills.
+on the basis of the admissibility of the
+mugshot, i will now compare the body worn camera video, the still shots from
+the booking hall, and the mug shot, to the person or persons in the lcbo video
+clips to determine whether the crown has proven mr. bains’s identity in those
+clips beyond a reasonable doubt.
+iv.
+count 1 – the evidence of the theft on february
+7, 2024
+the crown filed three video clips, marked as
+exhibits 2a to 2c, of the theft which occurred on february 7, 2024 at the lcbo
+located at 2181 steeles avenue west, toronto.  exhibit 2c gives the clearest
+view of the individual who committed the theft.  i have cropped a photo of the
+individual’s face from the still image the crown filed as exhibit c(1), which
+itself was taken from exhibit 2c, to demonstrate my findings set out below:
+i am not convinced beyond a reasonable doubt
+that the person in exhibit 2 is mr. bains.  there are many similarities between
+mr. bains and the individual in exhibit 2.  however, the skin colour of the
+person in exhibit 2 appears darker than mr. bains’s skin colour in the body
+worn camera video, stills from the booking hall, and mugshot.  moreover, the
+person in exhibit 2 looks older than the person in the known video and images
+of mr. bains.  i note as well that the individual in exhibit 2 has deeper lines
+running from his nose to the sides of his mouth than mr. bains appears to have
+in the known video and images, as well as deeper lines running diagonally and
+down across his cheeks from the inner corners of his eyes.  finally, mr.
+bains’s upper lip appears fuller in the known photos and video than does the
+individual’s upper lip in exhibit 2.  while it is my view that mr. bains may
+well be the person depicted in the videos filed as exhibit 2a-c, and that the
+differences i have observed between the individual in exhibit 2 and the known
+images and video of mr. bains could be because of lighting, camera angles, and
+other variable factors, that is not enough.  i am not sure mr. bains is the
+thief on this occasion.  i therefore find mr. bains not guilty of count 1.
+v.
+count 2 – the evidence of the theft on february
+14, 2024
+the crown filed four video clips, marked as
+exhibits 3a to 3d, of the theft which occurred on february 14, 2024 at the lcbo
+located at 2946 finch avenue east, toronto.  to demonstrate my findings as set
+out below, i have cropped two photos from exhibit 3.  first, i cropped a
+profile view of the individual from exhibit 3c by pausing it at 0:00:07:
+second, i cropped a photo of the
+individual’s face more head-on by pausing exhibit 3d at 0:00:06:
+i have a reasonable doubt about whether mr.
+bains was the thief on this occasion.  this individual, like the individual
+depicted in exhibits 2a-c, appears to have deeper lines around his mouth than
+does mr. bains in the known images and video.  in addition, this individual’s
+features seem to be less spread out on his face than does mr. bains’s features
+in the known images and video.  moreover, the individual in the videos filed
+collectively as exhibit 2 appears to have a less fulsome upper lip than does
+mr. bains in the known images and video.  finally, i note that in the crop of
+the still frame taken from exhibit 3c set out above, the individual’s nose
+seems to come to a sharper point than does mr. bains’s nose.  again, i
+acknowledge there are many similarities between the thief and the known images
+and video of mr. bains.  in fact, it appears to me that the individual in the
+videos filed as exhibit 3 may be wearing the same mustard-coloured fleece or
+hoodie under his coat as mr. bains appears to be wearing in the mugshot.
+however, i cannot be sure that the garment is the same, and more than one
+person could own a similar mustard-coloured fleece.  while i believe mr. bains could
+be the individual in the videos filed as exhibit 3, i am not sure that he is
+that person.  i therefore find mr. bains not guilty of count 2.
+vi.
+count 4 – the evidence of the theft on march 1,
+2024
+the crown filed four video clips, marked as
+exhibits 5a to 5d, of the theft which occurred on march 1, 2024 at the lcbo
+located at 1563 steeles avenue east, toronto.  exhibit 5d gives the clearest
+view of the individual who committed the theft, although 5b and 5c provide some
+more useful views as well.  to demonstrate my findings as set out below, i have
+cropped three photos from exhibit 5.  first, i cropped a view of the individual
+by pausing exhibit 5b at 0:01:39:
+second, i cropped a view of the
+individual by pausing exhibit 5c at 0:00:17:
+finally, i cropped a view of the
+individual by pausing exhibit 5d at 0:00:13:
+i have a reasonable doubt about whether mr.
+bains is the individual in exhibits 5a-d.  the individual in exhibits 5a-d
+appears older and with more pronounced lines under his eyes than does mr. bains
+in the known images and video of him.  the individual in exhibits 5a-d appears
+to have darker skin than does mr. bains in the known images and video.  the image
+immediately above depicts someone who almost appears to be missing a bit of
+facial hair from the upper moustache, exposing a bit of the cupid’s bow.  while
+mr. bain’s upper lip appears to be higher on the right side, this individual
+has almost a heart-shaped bald patch above his lip which mr. bains does not
+share.  the nose of the individual in exhibits 5a-d appears bigger and broader
+than mr. bains’s nose in the known video and images.  mr. bains does share many
+characteristics with the person in exhibits 5a-d.  while i think mr. bains could
+be the person depicted in exhibits 5a-d, i am not sure.  i therefore find mr.
+bains not guilty of count 4.
+vii.
+count 7 – the evidence of the theft on march 20,
+2024
+the crown filed four video clips, marked as
+exhibits 8a to 8d, of the theft which occurred on march 20, 2024 at the lcbo
+located at 145 silver reign drive, toronto.  exhibits 8a-8c do not provide a good
+view of the individual’s face.   exhibit 8d provides a clearer view.  to
+demonstrate my findings as set out below, i have cropped a photo from exhibit
+8d by pausing it at 0:00:08:
+i have a reasonable doubt that mr. bains is the
+person in exhibits 8a-d.  i note that the screenshot above from 8d shows the
+individual at a very similar angle to exhibit 18a, reproduced here in a cropped
+version for ease of comparison:
+while again, mr. bains looks similar to
+the individual in exhibit 8, and in fact more similar in this case than those
+counts i have already considered, i still note some differences between mr.
+bains and the individual in exhibit 8.  in particular, mr. bains’s nose seems
+to be narrower across the bridge and to broaden more at the nostrils, while the
+nose of the individual in exhibit 8d appears to be broader more uniformly from
+the bridge to the nostrils.  moreover, while the skin colour of the individual
+in exhibit 8 appears to be lighter than the skin colour of the individual or
+individuals in the counts already considered, it still appears to be slightly
+darker than mr. bains’s skin colour.  again, it may be that mr. bains is
+the individual in exhibit 8, and that the differences
+observed are due to lighting, camera angle, and other variable factors.
+however, on the basis of the evidence before me, the crown has not proven
+identity on this count beyond a reasonable doubt.  accordingly, mr. bains is
+not guilty of count 7.
+viii.
+count 8 – the evidence of the theft on may 2,
+2024
+the crown filed seven video clips, marked as
+exhibits 9a to 9g, of the theft which occurred on may 2, 2024 at the lcbo
+located at 145 silver reign drive, toronto.  to illustrate my findings as set
+out below, i have included a cropped still photo of the individual from exhibit
+9a, paused at 0:00:06, and a cropped still photo of the individual from exhibit
+9g, paused at 0:00:05:
+i have a reasonable doubt about whether the
+individual in exhibits 9a-g is mr. bains.  the skin colour of the person in
+exhibits 9a-g appears darker than the known images and video of mr. bains.  the
+lines on the individual’s face in exhibits 9a-g appear deeper than those on mr.
+bains’s face.  and, the features on the face of the individual in exhibits 9a-g
+appear to be more crowded together than mr. bains’s features.  again, the
+individual in exhibits 9a-g may be mr. bains, but that has not been proven
+beyond a reasonable doubt.
+i acknowledge that it appears that the
+individual in exhibit 9 is wearing a black hoodie under his jacket which
+appears to be very similar to the black hoodie worn by mr. bains in his
+mugshot, with a distinctive white stripe around the hood and some black
+lettering in the white band.  however, i cannot get a good enough look at the
+hoodie from the videos marked collectively as exhibit 9 to determine if the
+markings are the same.  to the extent that i can discern the markings in
+exhibit 9 and in the mugshot, they appear to be different.  i have drawn the
+following cropped photo from exhibit 9f paused at 0:00:38 to illustrate this,
+as compared to the mugshot photo.  as best as i can tell, the markings in black
+in the white stripe of the hoodie in exhibit 9 are more like hieroglyphics,
+whereas those in the mugshot are largely letters:
+mr. bains is therefore found not guilty of
+count 8.
+ix.
+count 11 – the evidence of the theft on may 6,
+2024
+the crown filed three video clips, marked as
+exhibits 10a to 10c, of the theft which occurred on may 6, 2024, at the lcbo
+located at 1563 steeles avenue east, toronto.  neither 10a nor 10b provide a
+particularly good view of the individual.  10c provides a clearer view.  to
+demonstrate my findings as set out below, i have cropped a photo from exhibit 10c
+by pausing it at 0:00:12:
+to the extent it is possible to tell, it appears
+this individual is wearing the same hat, as well as the same black hoodie with
+the white stripe with black characters, as the individual in exhibits 9a-g.  like
+the individual in exhibits 9a-g, this individual appears to have darker skin
+than mr. bains, and deeper lines between his nose and mouth than does mr.
+bains.  this individual also appears to have a slight bald spot in his
+moustache, as did the individual in exhibit 5, although mr. bains does not
+appear to share this bald spot.  again, the individual in exhibits 10a-c may be
+mr. bains, but i have a reasonable doubt.  accordingly, mr. bains is not guilty
+of count 11.
+x.
+count 15 – the evidence of the theft on may 23,
+2024
+the crown filed four video clips, marked as
+exhibits 13a to 13d, of the theft which occurred on may 23, 2024, 2024 at the
+lcbo located at 1571 sandhurst circle, toronto.  exhibit 13d provides the
+clearest view of the individual.  to demonstrate my findings as set out below,
+i have cropped a photo from exhibit 13d by pausing it at 0:00:08:
+i have a reasonable doubt about whether the
+individual in exhibits 13a-d is mr. bains.  the individual in exhibits 13a-d
+appears to have darker skin than mr. bains, as well as more pronounced lines
+under his eyes and between his nose and mouth than mr. bains has.  this
+individual also appears to have a mark on his nose, which mr. bains does not
+have in the known images or video.  while the mark may simply be a cut which
+subsequently healed, i cannot tell that from the videos filed as exhibit 13.  mr.
+bains may be the individual in exhibits 13a-d, but i am not sure.  accordingly,
+i find mr. bains not guilty of count 15.
+xi.
+count 16 – the evidence of the theft on may 28,
+2024
+the crown filed four video clips, marked as
+exhibits 14a to 14d, of the theft which occurred on may 28, 2024, at the lcbo
+located at 145 silver reign drive, toronto.  exhibit 14d provides the clearest
+view of the individual.  to demonstrate my findings as set out below, i have
+cropped a photo from exhibit 14d by pausing it at 0:00:06:
+i have a reasonable doubt about whether mr.
+bains is the individual in exhibits 14a-d.  the individual’s skin appears
+darker in 14a-d.  this is particularly noticeable in his hands.  a cropped
+still photo drawn from the body worn camera (exhibit 17) as paused at 0:00:03
+shows this distinction:
+in addition, the lines on the individual’s
+face in exhibits 14a-d appear deeper than the lines on mr. bains’s face in the
+known images and video.  again, the observed differences may be due to
+lighting, camera angles, or other variable factors.  however, based on the
+evidence before me, i have a reasonable doubt about the individual’s identity.
+accordingly, i find mr. bains not guilty of count 16.
+xii.
+count 17 – the evidence of the theft on november
+24, 2024
+the crown filed four video clips, marked as
+exhibits 15a to 15d, of the theft which occurred on november 24, 2024, at the
+lcbo located at 2181 steeles avenue west, toronto.  to demonstrate my findings
+as set out below, i have cropped a still image taken from exhibit 15d, paused
+at 0:00:04:
+of all the incidents of theft, this is the one
+where the individual looks the most similar to mr. bains.  the lines around the
+individual’s nose and mouth are less pronounced than in the other incidents,
+and are more similar to the lines on mr. bains’s face.  the skin colour of the
+individual in exhibits 15a-d is more similar to mr. bains’s skin colour in the
+known stills and video than in the other incidents.  however, i am still not
+sure this individual is mr. bains.  mr. bains’s nose appears wider near the
+bottom than the above individual’s, and his eyebrows appear thicker.  in
+addition, mr. bains’s skin appears to be a richer brown than the individual
+above.  i have included below the still image drawn from the body worn camera
+video paused at 0:00:33 for comparison:
+of all the counts, this one gave me the
+most anxious consideration.  however, while i think mr. bains is likely guilty
+of this count, that does not meet the standard.  i find mr. bains not guilty of
+count 17.
+iv.  count 18 – the alleged breach of probation on november 24, 2024
+a.
+the evidence
+with respect to the alleged breach of the
+probation order, the crown filed as exhibit 1 two certified informations, to
+which a single probation order dated november 5, 2024 attached.  that order
+prohibited the person bound by it from attending any lcbo in the province of
+ontario for a period of 12 months.  the order binds an accused person with the
+same first, middle, and last name as mr. bains, as well as the same birth
+date.  the accused’s address on the two informations which underlie the
+probation order is the same, but a second address for the accused is found on
+the probation order itself.  mr. bains’s address as reflected on the
+information before me is not the same as the addresses found on the two
+informations underlying the probation order and the probation order itself.
+officer cameron parry testified that he arrested
+someone named arshdeep bains on two warrants, one relating to one count of
+theft under $5,000, and the other relating to four counts of theft under
+$5,000.  those charges are reflected on the informations to which the probation
+order attaches.  officer parry identified the accused in court as the person
+whom he arrested on the two warrants.  officer parry agreed that his
+interactions with the arshdeep bains whom he arrested were fairly brief.  he
+also acknowledged he did not ask the person whom he arrested to identify
+himself by name.  however, officer parry said he identified the arshdeep bains
+whom he arrested
+via
+mto, iss, and mugshot.  officer parry agreed he did
+not make a note of identifying the person whom he arrested by mugshot, but
+testified he had an independent recollection of doing so.
+b.
+the parties’ positions
+as noted above, the defence challenged whether
+mr. bains’s identity had been established as the person who breached the
+probation order beyond a reasonable doubt.  in mr. xu’s submission, not only
+had the crown failed to prove that mr. bains was the person who entered the
+lcbo on november 24, 2024, but also that the crown had failed to prove that the
+accused before me was the same person as the person bound by the probation
+order.  the crown did not make submissions on this issue, but presumably relied
+on the evidence of officer parry to establish mr. bains was bound by the
+probation order.
+c.
+the applicable legal principles
+with respect to the question of whether the
+accused person before me is the same person who was bound by the probation
+order in question, the law permits me to consider the identity of names between
+the person named in the probation order and the person before me, as well as
+the identity of address or other biographical details:
+r. v. webster
+,
+2016 onca 189
+at ¶6;
+r. v. st. pierre
+,
+2016 onca 173
+at ¶10.
+in addition, i remind myself that in-dock
+identifications are notoriously unreliable and should be given little weight:
+r.
+v. izzard,
+1990 canlii 13295 (on ca)
+, o.j. no. 189 (c.a.) at ¶13;
+r. v. reitsma,
+1997 canlii 3607 (bc ca)
+,
+b.c.j. no. 2314 (c.a.) at ¶¶56-60
+per
+rowles j.a. dissenting, appeal
+allowed
+1998 canlii 825 (scc)
+, s.c.j. no. 38 at ¶1.  i also remind myself that in-dock evidence
+is deceptively credible because it is largely honest and sincere:
+r. v.
+hibbert
+,
+2002 scc 39
+at ¶50.
+as for the question of whether mr. bains is the
+person who stole the items from the lcbo on november 24, 2024, the same
+principles relating to identity apply as i have articulated in the above
+section relating to the theft counts.
+d.
+the legal principles applied
+i am satisfied beyond a reasonable doubt that
+the accused person before me is the same as the person bound by the probation
+order.  i put very little weight on officer parry’s identification in court of
+mr. bains as the person whom he arrested on the charges which underlie the
+probation order.  this is because of the frailties of in-dock identification,
+as well as the fact that officer parry only had a brief interaction with the
+person whom he arrested.  however, officer parry’s evidence is corroborated by
+the identity of names and birth dates as between the person bound by the
+probation order and the accused before me, mr. bains.  while the address noted
+for the individual bound by the probation order is not the same as the address
+noted for mr. bains on the information before me, neither is the address the
+same as between the probation order and the informations which underlie it.  this
+does not cause me to have a reasonable doubt, as addresses can easily change.
+however, as i have concluded that the crown has
+not proven beyond a reasonable doubt that mr. bains was the individual in the
+lcbo on november 24, 2024, i find mr. bains not guilty of count 18.
+v.  conclusion
+mr. bains is therefore found not guilty of
+counts 1, 2, 4, 7, 8, 11, and 15-18, with the other counts having been disposed
+of in his favour previously.  i would like to thank both counsel for the highly
+professional, collegial, and organized way in which they conducted this case.
+released:
+november 10, 2025.
+signed:
+justice j. trehearne
+[i]
+the information alleges 18 counts of theft under $5,000
+(counts 1-17 and count 19) and two counts of breach of probation (counts 18 and
+20).  however, before the trial began, the crown withdrew counts 9, 10, and
+13.  further, at the close of the evidence in this matter, the crown invited me
+to acquit mr. bains of counts 3, 5, 6, 12, 14, 19 and 20.  therefore, this
+judgment pertains to counts 1, 2, 4, 7, 8, 11, and 15-18.

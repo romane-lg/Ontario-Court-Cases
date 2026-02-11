@@ -1,0 +1,440 @@
+ontario court of justice
+citation:
+r. v. armaleo
+, 2025 oncj 574
+date:  2025 11 03
+court file no.:  windsor
+24-81102661
+between:
+his majesty the
+king
+— and —
+danielle
+armaleo
+before justice s.
+g. pratt
+heard on 18 august
+2025
+reasons for
+judgment released on 3 november 2025
+mitchell witteveen.............................................................................. counsel
+for the crown
+laura joy.....................................................................................
+counsel for the defendant
+pratt j.:
+the
+applicant danielle armaleo seeks a remedy for what she says are violations of
+her rights as guaranteed by the
+charter of rights
+and freedoms.  she says the
+warrants authorizing the search of her vehicle and home should not stand as
+they were based, at least in part, on information obtained in searches that violated
+her co-accused’s charter rights.  she further argues she has her own reasonable
+expectation of privacy in the phone and phone number that were the focus of those
+impugned searches.  the crown argues she does not have standing to make that
+argument as she cannot argue another party’s charter rights and had no such
+reasonable expectation.
+this
+ruling will deal only with the standing issue.  for the reasons that follow, i
+find the applicant does not have standing to attack the issuance of the
+underlying warrants that came before the warrants for her vehicle and home.
+summary of the investigation
+the
+following is a summary of the investigation and the allegations against the
+applicant and her co-accused xavien williams.
+project
+jaguar was an investigation of suspected drug trafficking undertaken by the
+windsor police service in may 2024.  xavien williams was the target of the
+investigation.  in the course of the operation, the police obtained a
+transmission data recorder (tdr) warrant and a tracking warrant related to the
+cell phone number 519-817-9915.  this number was identified as being used by
+williams by multiple confidential sources.
+the
+location-based services data obtained through the tracking warrant told police
+where that cell phone was located.  this permitted them to conduct physical
+surveillance, which they did on several days.  in the course of that
+surveillance, williams was seen on three occasions:
+(1)
+2
+may 2024: williams was seen entering and exiting the residence at 10687 atwater
+crescent, windsor;
+(2)
+6
+may 2024: williams was seen driving a black dodge durango, license plate dbdn
+355 and entering the atwater residence; and
+(3)
+8
+may 2024: williams was seen driving the durango.
+on
+the basis of this information and the evidence obtained to that point in the
+overall investigation, the police sought and obtained search warrants for the
+atwater residence and the durango.  the applicant was a resident of the atwater
+residence and the registered owner of the durango.  it is the searches of these
+locations that she claims were constitutionally deficient.
+the
+search of the atwater residence revealed large quantities of multiple controlled
+substances, scales, ammunition, over-capacity magazines, a bulletproof vest,
+and currency.
+williams
+has elected not to challenge the validity of the tdr or tracking warrants.
+the position of the applicant
+through
+counsel, the applicant submits that she has standing to challenge the validity
+of the tdr and tracking warrants issued early in the investigation.  those
+warrants, she says, were invalid in that they did not provide sufficient
+evidence to support their issuance.
+as
+i see it, going by the applicant’s factum and submissions made in court, she
+makes two arguments.  first, that she should have standing to argue the breach
+of williams’
+s. 8
+charter
+rights because that breach went on to impact her own
+charter rights.  i take this argument from paragraph 54 of the applicant’s
+factum
+second,
+she argues that apart from williams’ rights, she had her own reasonable
+expectation of privacy in the information obtained through the tdr and tracking
+warrants.  this should permit her to argue their validity.
+i
+will address each argument in turn.
+issue 1: can the applicant argue a breach
+of williams’
+charter
+rights?
+the
+question of whether a person can argue the breach of another’s
+charter
+rights
+has been around since the dawn of the charter itself.  in the trial decision of
+r.
+v.
+rowbotham
+13 w.c.b. 105 (h.c.j.)
+, justice ewaschuk,
+then of the ontario high court, considered the issue:
+the accused
+george kononow has moved for the exclusion of evidence of a large quantity of
+hashish seized from the trunk of a car apparently used by david stone and
+michele burke, both of montreal. mr. kononow had no possessory interest in the
+car, although both he and robert young had apparently intended to purchase the
+hashish found in the trunk of the car. at the time of seizure, neither kononow
+nor young had yet taken possession of the hashish.
+the
+question then to be decided is whether an accused has standing to challenge a
+search or seizure although his personal rights have not been violated. mr.
+kononow claims he has standing on the basis that the evidence may be admissible
+against him as part of the conspiracies charged should the jury find by his
+acts and declarations that he is a member of the alleged conspiracies.
+* * *
+in r. v.
+taylor et al., delivered january 26, 1984 (b.c.s.c.), mr. justice toy decided
+that the wording of s. 24(1) dictates that
+charter
+rights and freedoms are
+personal and accrue only to those persons whose rights and freedoms have been
+directly infringed and denied.
+prior to the
+charter
+, it was undoubted that an applicant to quash a search warrant lacked
+standing to do so unless he or she established ownership or possessory interest
+either in the things seized or in the premises searched: model power v. regina
+(1981),
+1981 canlii 4923 (on ca)
+,
+21 c.r. (3d) 195 (ont. c.a.)
+and beach v. a.g. can.
+(1978),
+1978 altascad 399 (canlii)
+,
+8 alta.
+l.r. (2d) 379 (c.a.)
+. potential prejudice, in itself, was not sufficient to
+give the applicant standing to attack the seizures, in the event criminal
+proceedings were initiated and the evidence was tendered.
+in the united
+states, standing to challenge infringements of constitutional rights is also
+based on the concept that constitutional rights are personal rights which may
+not be vicariously asserted. thus in respect of fourth amendment rights against
+unreasonable search and seizure, it is the particular defendant's right to
+"a reasonable expectation of privacy" which must be infringed and not
+that of some other person: rakas et al. v. illinois (1978), 439 u.s. 128
+(s.c.). merely to be prejudiced by the use of the evidence is not sufficient to
+grant standing to an applicant seeking to exclude that evidence.
+i agree
+with mr. justice toy's conclusion in r. v. taylor et al., supra, that
+charter
+rights and freedoms, save for declarations of legislative invalidity, are
+personal rights. having regard, however, to the supreme court of canada's
+judgment in hunter et al. v. southam, (released september 17, 1984), i would
+extend the grounds for standing. in addition to the invasion of a person's
+proprietary and possessory interests, i would add that a person has standing to
+apply for a remedy where "his reasonable expectation of privacy has been
+invaded".
+that
+a
+charter
+right can only be argued by the person claiming the violation was
+affirmed by
+the supreme court of canada in
+r.
+v.
+edwards
+1996 canlii 255 (scc)
+,
+1
+s.c.r. 128
+at paragraphs
+34 and 45
+.
+it
+is clear, then, that the applicant cannot assert the breach of williams’
+charter
+right.
+issue 2:  did the applicant have her own
+reasonable expectation of privacy in the cell phone?
+the
+alternative position of the applicant is that she had her own reasonable
+expectation of privacy (rep) in the cell phone.  if she did, she would have
+standing to argue against the authorization that allowed it to be tracked.
+in
+edwards
+, justice cory referred with approval to justice mckinlay’s
+majority decision from the court of appeal for ontario.  justice mckinlay
+stated that
+edwards
+had to show his personal right to privacy had been
+infringed when police searched the apartment belonging to his girlfriend.
+justice
+cory also cited justice dickson (as he then was), speaking for the supreme
+court of canada in
+hunter
+v.
+southam
+inc.
+1984 canlii 33 (scc)
+,
+2 s.c.r. 145
+,
+who said there was no need to show a property interest in the thing searched.
+a claimant need only show a reasonable expectation of privacy in the object of
+the search.  this follows the court’s logic that section 8 protects people, not
+places.  it protects the privacy interests of the person, regardless of their
+legal relationship to the thing searched.
+has
+the applicant shown a rep in the cell phone and number?  as that question must
+be answered by considering the totality of the circumstances, i will assess her
+connection to the objects of the tdr and tracking warrants.
+as
+part of their investigation, police were told by multiple confidential
+informants that the phone number 519-817-9915 was being used by williams.
+police confirmed this was at the time an active cell phone number administered
+by rogers communications.  based on this information, police obtained tdr and
+tracking warrants for the number and the phone itself.
+at
+this point in the investigation, the applicant’s name had not yet come up in
+any context.
+the
+tracking data allowed police to undertake visual surveillance of williams on
+the dates noted above.  this led police to seek and obtain a tracking warrant
+for the vehicle he was using, which was the dodge durango.  a query with the
+ministry of transportation revealed the applicant was the registered owner of that
+vehicle.  to that point, the applicant’s name had not appeared in any of the
+authorization applications.  notably, she was not mentioned in the tdr or
+tracking warrant applications.
+to
+help show a rep in the phone, the applicant cites the case of
+r.
+v.
+macinnis
+o.j. no. 2937 (s.c.j.)
+.  in that case, macinnis sought standing to
+challenge the admissibility of his common-law partner clark’s cell phone
+records.  ultimately, justice ferguson found a rep existed and allowed macinnis
+to challenge the evidence.
+that
+case, however, was clearly different from the one before me.
+at
+paragraph 9, justice ferguson alludes to a period of time where the crown
+alleges joint use of clark’s cell phone.  there is no allegation or evidence
+that the applicant ever used the phone connected to williams.
+at
+paragraph 14, justice ferguson stated:
+there
+is evidence that clark was a subscriber for a cell phone. the phone
+records
+obtained as the result of the search warrant show a pattern of use during the
+period of the alleged offences which the crown contends supports an inference
+that macinnis was using it in the course of the offences. in fact, the crown
+contends that the clark cell records in combination with other police
+information indicate that macinnis was using her cell phone on the first day it
+was activated.
+there
+is no evidence of joint use of the phone, or that the applicant was in
+actuality the main user, before me.
+finally,
+at paragraph 17:
+the statement from
+mcmullin indicates that on a number of occasions knight
+[a
+co-defendant]
+would call mcmullin on clark's cell and then later knight and
+macinnis would meet mcmullin…
+the
+evidence does establish that macinnis in fact controlled clark's cell phone on
+those occasions.
+in
+the present case, there is no evidence the applicant ever had any dealings with
+the phone in question, save for one possibly important exception.  over the
+course of eight days, the tdr data shows 63 contacts between the applicant and
+the phone.  on this basis, the applicant argues the phone was effectively
+shared property between her and williams.  this, she says, gives her a rep in
+the phone and its data.
+the
+difficulty with this argument, as i suggested to counsel during submissions, is
+that if calling a particular number was enough to give the caller a rep in the
+receiving phone, anyone who might have called the phone in the relevant time
+period could conceivably argue
+charter
+standing.  while calling the phone is
+certainly some evidence that the applicant was aware of the phone and wanted to
+communicate with the person in control of it, those contacts are not sufficient
+to show the phone number or the phone itself were shared property.  an example
+illustrates why that is.  if, during a period of stock market volatility, a
+client calls her broker repeatedly over the course of a week, does the broker’s
+phone become shared property?  surely not.
+a
+distinction must also be made regarding what exactly was gained by the tdr and
+tracking warrants.  at no time did police obtain substantive information about
+what may have been said or written in any calls or messages made or received by
+the target phone.  this is an important distinction.  had we been discussing
+the admissibility of the substance of messages exchanged by the applicant and
+williams, for example, there would likely have been a rep in the messages even
+if they were on the target phone.  instead, we are only dealing with the
+numbers to and from which contact was made, and physical locations obtained by
+tracking the phone.
+cases such as
+r.
+v.
+marakah
+2017 scc 59
+,
+which considered rep in a “text message conversation” (see paragraph 5) are
+therefore distinguishable.
+as
+to the use police put the tdr and tracking data to, counsel argued those
+warrants brought the applicant to police attention.  i respectfully disagree.
+it was not the warrants that ultimately brought the applicant to police attention.
+it was the actions of williams.  all the warrants did was allow police to view
+the traffic on the phone and track its location.  when they tracked that
+location, they saw williams in the applicant’s vehicle and coming and going
+from her residence.  the acquisition of the applicant’s identity did not come
+from the warrants but from what they saw williams doing.
+in
+conclusion on this issue, i return to the
+edwards
+decision.
+at
+paragraph 45, subparagraph 6 justice cory provided a list of seven factors to
+be considered when examining the totality of the circumstances to determine
+whether a rep exists.  that list was trimmed down to four
+factors in
+r.
+v.
+spencer
+2014 scc 43
+.  at paragraph 18 of that decision, justice
+cromwell stated:
+the wide variety
+and number of factors that may be considered in assessing the reasonable
+expectation of privacy can be grouped under four main headings for analytical
+convenience: (1) the subject matter of the alleged search; (2) the claimant’s
+interest in the subject matter; (3) the claimant’s subjective expectation of
+privacy in the subject matter; and (4) whether this subjective expectation of
+privacy was objectively reasonable, having regard to the totality of the
+circumstances: tessling, at para. 32; r. v. patrick,
+2009 scc 17
+,
+1
+s.c.r. 579
+, at para.
+27
+; r. v. cole,
+2012 scc 53
+,
+3 s.c.r. 34
+, at para.
+40
+. however, this is not a purely factual inquiry. the reasonable expectation
+of privacy standard is normative rather than simply descriptive: tessling, at
+para. 42. thus, while the analysis is sensitive to the factual context, it is
+inevitably “laden with value judgments which are made from the independent
+perspective of the reasonable and informed person who is concerned about the
+long-term consequences of government action for the protection of privacy”:
+patrick
+, at para.
+14
+;
+see also r. v. gomboc,
+2010 scc 55
+,
+3 s.c.r. 211
+,
+at para.
+34
+, and ward, at paras. 81-85.
+using
+his honour’s four factors, i note the following.
+the
+subject matter of the search is the tdr and tracking data.  it is not personal
+information like internet service provider subscriber data or the content of
+text messages.  it is information focused on a cell phone linked to someone
+other than the applicant.
+aside
+from the agreement that there were 63 contacts between the applicant’s phone
+and the target phone over an eight-day period, i have heard no evidence of the
+applicant’s interest in the tdr or tracking data.  she was not named or
+directly implicated in any of williams’ alleged misconduct.  given that it was
+conceded in argument that williams and the applicant were in an intimate
+relationship at the time, the number of contacts is not objectively remarkable
+in any event.
+i
+see no evidence of the applicant’s subjective expectation of privacy in the
+traffic on the target phone or its physical location.  she has not demonstrated
+any sort of connection to the phone other than by calling it.  she has not
+shown a subjective expectation of privacy.
+finally,
+had there been a subjective expectation of privacy, or if i am wrong in finding
+there was none, it could not be said to be objectively reasonable in all the
+circumstances.  a reasonable person, conversant in the importance of an
+individual’s privacy in the face of government intrusion, would not extend a
+rep to information as disconnected from the applicant as someone else’s tdr
+data and phone locations.
+result
+to
+show standing to attack the tdr or tracking warrants, the applicant must
+establish on a balance of probabilities that she has a personal
+charter
+right
+that is affected by their issuance.  she cannot argue the charter rights of
+another person.  the right she says is jeopardized must be her own.  she must
+establish her own reasonable expectation of privacy in the information in
+question.
+taking
+all the circumstances into account, i find she has not met this onus.  the
+applicant has not established a reasonable expectation of privacy in the
+information obtained through the warrants.  she is therefore precluded from
+attacking their validity.
+given
+the result, it is unnecessary for me to consider the question of excision.
+finally,
+and to be clear, nothing in this ruling should be taken as limiting the
+applicant’s ability to challenge the search warrants for the durango or the
+atwater residence.  as they were her vehicle and her residence, she is well
+within her rights to challenge those authorizations.  the effect of this ruling
+is that any such challenges cannot include attacks based on the alleged
+invalidity of the tdr or tracking warrants.
+released:
+3 november 2025
+signed: justice s.
+g. pratt
