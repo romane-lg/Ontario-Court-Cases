@@ -1,0 +1,545 @@
+source url: https://www.canlii.org/en/on/oncj/doc/2025/2025oncj715/2025oncj715.html
+
+ontario
+ court of justice
+citation:
+r. v. daley, 2025 oncj 715
+date: october 10, 2025
+court file no.: 2311402470
+between:
+his majesty the king
+— and —
+christopher daley
+before justice t. lipson
+reasons for
+judgment released on october 10, 2025
+mr. b. estwick....................................................................................... counsel
+for the crown
+mr. m. ertel......................................................... counsel
+for the accused christopher daley
+lipson j.:
+reasons
+for judgment
+
+christopher daley entered pleas of not guilty
+to charges of criminal harassment and mischief.
+overview of the evidence
+
+the complainant, sandra lofaro, testified
+that following the breakdown of her relationship with the defendant in august
+2022, mr. daley engaged in a sustained pattern of harassing conduct that caused
+her to fear for her safety. ms. lofaro said that she was subject to repeated
+and unwanted communications, including some with sexually explicit and
+degrading text messages. the relevant texts are found in exhibit 3. ms. lofaro
+also testified that mr. daley entered her home without permission, drove past
+her home late at night and installed a gps tracker in her vehicle and conducted
+surveillance on her movements. there was evidence in the trial that mr. daley
+confronted her new partner, ken evraire, at his workplace, accusing him of
+ruining the life of his two daughters. mr. daley also punctured three of mr.
+evraire’s tires which mr. daley later admitted to and paid for the damage.
+
+ms. lofaro testified to experiencing fear,
+anxiety and sleep loss. she implemented safety plans at work and home. she said
+that her romantic relationship with mr. evraire ended due to the stress caused
+by mr. daley’s actions. ms. lofaro expressed ongoing fear of the defendant
+knowing her whereabout and described the impact on her daily life and
+well-being.
+
+the crown argues that mr. daley’s conduct
+amounts to criminal harassment and that he knew or was reckless as to whether
+ms. lofaro was harassed.
+
+the defence does not dispute that the texts
+to ms. lofaro were sent by mr. daley. the defence did not dispute the impact
+these texts had on ms. lofaro’s emotional well-being. however, the defence
+submits that the crown did not prove beyond a reasonable doubt that mr. daley
+put a gps tracking device in the complainant’s car or that mr. daley was
+otherwise conducting surveillance on ms. lofaro’s whereabouts. the defence contends
+that while there is credible evidence that ms. lofaro felt harassed by the
+actions of mr. daley, there is insufficient evidence that mr. daley knew that
+she was harassed or that he was reckless or wilfully blind as to whether ms.
+lofaro was harassed.
+analysis
+the charge of criminal
+harassment
+
+i turn first to the issue of whether the
+crown proved the
+actus reus
+of criminal harassment. as i indicated
+earlier, the defence concedes that ms. lofaro did not want some of his
+communications, that she was fearful and that she had concerns for her safety.
+
+under s. 264 of the
+criminal code,
+the
+actus reus
+(or guilty act) of criminal harassment requires proof
+beyond a reasonable doubt of the following elements:
+1. the accused engaged
+in one of more of the prohibited forms of conduct listed in s. 264(2) including
+repeatedly following the complainant or someone known to them; repeatedly
+communicating with the complainant, directly or indirectly; watching or
+besetting the complainant’s residence, workplace or other location; or engaging
+in threatening conduct directed to the complainant or their family.
+2. the complainant was
+harassed- meaning they were tormented, troubled, worried continually or
+chronically, plagued, or badgered.
+3. the complainant
+feared for their safety or the safety of someone known to them.
+4. the complainant’s
+fear was objectively reasonable in all the circumstances.
+
+for the following reasons, i am satisfied
+beyond a reasonable doubt that the crown has established the above requisite
+elements of the offence.
+
+ms. lofaro and the defendant were in an
+intimate relationship from september 2015 to august 2022. they have a daughter
+together named marissa who was born in january 2019. in october 2022, ms.
+lofaro began a relationship with ken evraire. it is evident from the text
+message evidence that mr. daley was angry and upset with ms. lofaro over their
+breakup as well and her new relationship. ms. lofaro described the defendant as
+“volatile and unpredictable”. mr. daley’s bitterness over the break-up and his
+upset over ms. lofaro’s new relationship is evident in the texts he sent her
+set out in exhibit 3.
+
+over the time frame alleged in the
+information, mr. daley sent ms. lofaro numerous text messages, including ones
+with vulgar and sexually explicit content. the complainant explicitly asked him
+to “stop texting me” and to limit communications to issues regarding their parenting
+marissa. despite ms. lofaro’s pleas for him to limit his texts to parenting issues
+with marissa, the evidence is clear from the defendant’s texts to the
+complainant found in exhibit 3 that mr. daley nevertheless continued to send
+her unwanted texts concerning her dating life and casting aspersions on her
+character in texts which had nothing to do with parenting issues but, instead,
+reflected his anger and hostility over their breakup.
+
+in addition to the unwanted and
+inappropriate text messages sent to ms. lofaro, mr. daley engaged in other
+forms of prohibited harassing conduct proscribed by s. 264(2) which made the
+complainant fearful for her safety.
+
+on december 13, 2022, while ms. lofaro was
+at work, mr. daley entered her home without permission. security footage showed
+him placing an item near a chair in the corner of her home. he still had access
+via keys and alarm code which had not been changed. later that night, his truck
+was seen driving past her home on two occasions. these incidents caused ms.
+lofaro significant fear.
+
+on december 31, 2022, sandra lofaro met her
+sister and friend connie for breakfast at the restaurant 'changes are'. after
+breakfast, sandra left her van parked near the restaurant and traveled to
+kanata in connie’s vehicle to visit the structube furniture store. while sandra
+was at structube, she received unsolicited and emotionally charged messages
+from daley. these included: “i feel bad for people responding for you.” “why
+are you ignoring me?” “you’re not where you said you’d be.” these messages were
+sent while sandra was in kanata, despite her not using her own vehicle and not
+informing daley of her plans. the timing and tone of the messages suggested
+daley had real-time awareness of her location. his emotionally charged comments
+implied he knew she was not at home or using her usual vehicle.
+
+ms. lofaro testified that she was disturbed
+by daley’s awareness of her movements, especially since she had taken precautions
+by leaving her van behind. she suspected she was being tracked and later
+confirmed this when a gps tracker registered to daley was discovered under the
+passenger seat of her van on february 10, 2023.
+
+on january 2, 2023, ms. lofaro saw the
+defendant parked and then drive away from a location near her parents’ home
+when she was there for a brunch.
+
+on january 23, 2023, ms. lofaro went out for
+coffee with mr. evraire at a second cup. mr. daley sent ms. lofaro a message
+stating that his friend alex had seen her and mr. evraire at the coffee shop
+and had taken a photo of them together. he cancelled a planned dinner he had
+with ms. lofaro and their daughter. he sent a series of vulgar and accusatory
+text messages, including derogatory remarks about mr. evraire and claimed that
+ms. lofaro had “ruined the day”.
+
+on january 31, 2023, his truck was parked
+near a vaccine clinic where ms. lofaro took her daughter, despite not informing
+him of the appointment. she believed that her movements were being tracked. he
+also intimated in other emails that she was lying about her whereabouts because
+her car was parked in another location than she happened to be.
+
+on february 10, 2023, a mechanic found a gps
+tracker hidden under her front seat. the tracker was registered to a person
+named “chris”. the telephone number associated with the contract was the same
+number used by mr. daley to text ms. lofaro. there is compelling circumstantial
+evidence that the defendant is the chris and that he is responsible for the gps
+device found in ms. lofaro’s vehicle. the discovery of the gps tracker made her
+feel “enraged and afraid and in shock”.
+
+ms. lofaro described the above-described
+conduct caused her to feel anxious, unsafe and fearful. she implemented safety
+plans, lost sleep and ended her romantic relationship with mr. evraire due to
+the defendant’s actions. his conduct caused her ongoing distress.
+
+in her testimony, ms. lofaro provided a
+detailed and consistent account of events spanning several months which i have
+described above. i found ms. lofaro to be an entirely credible witness. her
+testimony was corroborated by multiple forms of evidence including security
+footage showing mr. daley entering her home, text messages in exhibit 3
+demonstrating repeated unwanted and sometimes vulgar communications and the
+discovery of the gps tracker supporting her claims of surveillance and
+harassment. i found the fear she experienced as a result of the defendant’s
+conduct to be objectively reasonable and her testimony to be credible and
+compelling.
+
+i am satisfied beyond a reasonable doubt
+that mr. daley engaged in the prohibited conduct set out in s. 264(2), that ms.
+lofaro was harassed, that she genuinely feared for her safety because of his
+conduct, and that her fear was objectively reasonable in all the circumstances.
+the
+mens rea
+analysis
+
+counsel for the crown and defence agree that
+the central issue to be determined is whether the crown has proven beyond a
+reasonable doubt that the defendant had the requisite
+mens rea
+for
+criminal harassment.
+
+to establish the
+mens rea
+for
+criminal harassment, the crown must prove that the defendant knew the
+complainant was harassed or was reckless or wilfully blind as to whether the
+complainant was harassed. the standard is subjective, meaning it focuses on the
+defendant’s actual state of mind, not what a reasonable person ought to have
+known or foreseen. in
+r.
+v eltom,
+2010 onsc 4001, the trial
+judge’s finding that the accused was “completely insensitive” to the
+complainant’s fear was insufficient to establish
+mens rea. the correct
+standard is knowledge or recklessness, not negligence or insensitivity.
+
+the defence submits that the crown has not
+proven beyond a reasonable doubt that mr. daley knew or was reckless or
+wilfully blind as to whether ms. lofaro was harassed.
+the text messaging
+
+exhibit 3 contains 173 pages of text
+messaging between mr. daley and ms. lofaro, all of which the court has reviewed
+with care.
+
+i agree with the defence submission that it
+is important to understand the relationship between the two which existed at
+the time the texts were being sent. mr. daley and the complainant were separated
+and were co-parenting their young daughter marissa. mr. daley moved out in
+september 2021, however the following year was spent trying to see if the
+relationship could keep going. in september 2022, ms. lofaro officially ended
+the relationship. some of mr. daley’s belongings remained at the complainant’s
+home. there was no custody arrangement in place for their daughter.
+
+the defence says that mr. daley was unaware
+the complainant was harassed because their communications continued, and they
+both engaged in discussion. sometimes the complainant initiated the
+conversation. the defence argues that this is not the typical scenario in a
+criminal harassment charge where there is usually one-sided communication from
+the accused toward the complainant. it is submitted that there are several
+examples of messages between ms. lofaro and mr. daley where they amicably
+discuss various topics such as mr. daley’s knee injury, soccer, a family trip
+to portugal and sharing photos of marissa.
+
+i agree with defence counsel that some of
+the text messaging between the two were pleasant and/or for the purpose of
+arranging time for marissa to spend with mr. daley. yet, unfortunately, it is
+also the case that mr. daley deliberately sent unwelcome and harassing messages
+to ms. lofaro. the texts demonstrate that ms. lofaro repeatedly attempted to
+set boundaries and focus their communications on parenting. nevertheless, mr.
+daley would on several occasions, divert the conversation from the subject of
+parenting their daughter, to maligning ms. lofaro or her new partner at the
+time, mr. evraire. importantly, ms. lofaro did inform the defendant that these harassing
+communications were unwanted and that she was fearful of him. on occasion, mr.
+daley acknowledged that the communications were unwelcome, yet he continued nonetheless.
+proof of all of this are found in the actual texts highlighted in the crown’s
+written submissions as follows:
+december 5,
+2022
+page 8:
+lofaro’s 4th text
+- “ok. then go
+do that and stop texting me about us, please. and for heaven’s sake, stop
+sending pics of women - how awful for them that you are doing this.”
+december 14,
+2022
+page 37:
+daley’s first text message, demonstrating he understood his actions to be mean
+- “i was being
+mean because i was drunk and not being honest with my true feelings.”
+december 14,
+2022
+page 38:
+lofaro’s first text on the page
+- “stop with
+your abusive and vulgar texts. it’s harassment. stop driving past my house at
+night. stop picking up marissa randomly”
+december 15,
+2022
+page 40:
+daley’s 2nd message
+- “i know i’ve
+said some terrible things lately. i wonder if this is anything like how i made
+you feel inside. i understand how you feel about walls now. i’m trying hard to
+severe the bonds.”
+december 17,
+2022
+page 61:
+lofaro’s last message
+- “i am done
+with your garbage. you will hear from my lawyer as this can never happen
+again.”
+december 20,
+2022
+page 88:
+lofaro’s 3rd-5th, 6th
+- “you slashed
+ken’s tires. and texted me his address several times the same day. come on.”
+- “i am done
+playing your games. you could have endangered his whole family. it’s not a
+coincidence.”
+- “stop. stop
+this craziness. you can deny all you want but you did. all the text messages
+this week and your responses about his address.”
+- “you searched
+up his address? texted his exs to gather info on us. and his tires get slashed.
+all in the same week.”
+- “your actions
+have not been ok.”
+december 20,
+2022
+page 89: all of
+lofaro’s text on page 89
+- “your anger
+is out of control”
+- “you posting
+on ken’s wall was not ok. you slashing his tires out of anger is not ok. you
+driving past my house at night is not ok. you coming into my house without
+letting me know is not ok. your mental health is not ok and i am worried”
+- “i am fearful
+of your next move”
+- “you are
+unpredictable. i need to protect myself and my kids.”
+- “no. we have
+been done, chris. i’m trying to move on. i want a drama-free life.”
+- “you have
+brought so much drama to me in the past few months - you are out of control.
+you crossed the line with me already with your texts but now crossed the line
+with ken when you posted on his wall and slashed his tires.”
+- “me walking
+away from you and the behaviour that has not been ok for so long is not me out
+of control. it’s finally me being in control of my thoughts and doing what is
+best for me and my kids”.
+- “even when
+you sent me the text about our intimate pics/videos and selling them, i said
+nothing. you have crossed the line with me and ken. i will not tolerate your
+out of control behaviour any longer towards me or any man i choose to date in
+the future.”
+december 20,
+2022
+page 90:
+lofaro’s 1st and 8th message.
+- “your mental
+health is my worry”
+- “you scared
+the shit out of me. i don’t think you are mentally stable and i worry you will
+hurt yourself and marissa.”
+december 20,
+2022
+page 91: daley’s
+2nd message
+- “i said
+things that triggered your anger because i know you so well.”
+december 20,
+2022
+page 92:
+lofaro’s 2nd message:
+- “i don’t care
+if you hope i heal. i don’t think we are safe with you in our lives to be
+honest. not after this weekend.”
+december 20,
+2022
+page 94:
+lofaro’s 2nd message:
+- “your
+salvation talk doesn’t make me any less afraid of your mental health.”
+december 20,
+2022
+page 95: daley’s
+message apologizing (this is after the tire slashing event)
+- “i’m sorry,
+forgive me, thank-you, i love you, good bye”
+december 22,
+2022
+page 98:
+lofaro’s last two text messages
+- “i have
+multiple cameras facing my house for protection. i would like my garage opener
+please. you do not make me feel safe.”
+- “you and your
+brother do not have the right to enter my home.”
+december 22,
+2022
+page 99: daley’s
+message
+- “i want you
+to be happy…you are free from me.”
+- “you are safe
+and free to do as you please.”
+december 22,
+2022
+page 99:
+lofaro’s 5th message
+- “i do not
+have a relationship with him nor will it grow. your fear tactics worked and he
+does not want to pursue anything with me further because of you.”
+january 11,
+2023
+page 123:
+lofaro’s 4th-6th message
+- “personal
+items are not for us to discuss. so, please stop.”
+- “don’t send
+me pics, chris. or elude to what you do in your bed with her.”
+january 12,
+2023
+page 124:
+lofaro’s 2nd message
+- ‘“you did a
+criminal act towards ken and you are still acting out - just through your 3
+year old daughter- which is sickening.”
+january 23,
+2023
+page 135:
+lofaro’s 11th text
+- “and because
+i am choosing to not have a life with you, you are angry and pull this garbage
+on me with marissa. it’s so unfair and wrong.”
+january 23,
+2023
+page 136:
+lofaro’s 3rd text
+- “by going out
+with another guy? we are not together. me wanting to have a life outside of
+being a mother has nothing to do with wanting to hurt you. it has nothing to do
+with you. you deliberately hurt others, especially me. your actions today show
+this 1000%. keep your fake kindness to yourself.”
+january 23,
+2023
+page 138 -
+lofaro’s 5th message
+- “stop
+pretending to care. stop offering help. just stop. your kindness is
+ridiculously conditional - it makes me sick. you have ruined this day for me
+once again.
+january 25,
+2023
+page 145 -
+lofaro’s 4th and 5th message
+- “i am not
+feeling sorry for you. you don’t control your emotions and your anger comes out
+and leaves consequences.”
+- “i do not
+want to discuss this anymore. it sucks all of my energy out and i’m not going
+to allow for that moving forward.”
+january 26,
+2023
+page 153 -
+lofaro’s 7th and 8th message:
+- “remember
+after you slashed ken’s tires you said i was free from you? what happened to
+that?”
+- “i do not
+want to be with you. so please, please leave me alone and stop the following,
+manipulation, driving past my house etc. please stop
+
+i also note that on december 17, 2022, ms.
+lofaro received 31 unanswered messages from mr. daley. mr. daley frequently
+used discussions regarding parenting arrangements as a pretext to initiate
+personal and harassing conversations.
+
+it is also clear from the above texts that mr.
+daley sent ms. lofaro messages demonstrating actual knowledge or recklessness
+regarding her emotional state and the harassing nature of his conduct:
+
+mr. daley also wrote messages with
+sexualized and degrading content. he also told her “i still have the videos we
+made and some of the pics of your ass, pussy and you sucking my dick. i have no
+use for them now but thought you might be able to sell them?”
+
+i am satisfied that these remarks were
+intentionally made to harass and distress ms. lofaro and demonstrates an
+obvious recklessness as to whether ms. lofaro was or would be harassed.
+other s. 264(2) prohibited conduct
+
+of course, the unwanted messaging is only
+one of the prohibited forms of conduct engaged in by mr. daley. i am satisfied
+beyond a reasonable doubt that he repeatedly tracked the movements of ms.
+lofaro in her vehicle by using a gps device. mr. daley engaged in confrontation
+with mr. evraire at their workplace and slashed his tires while ms. lofaro and
+mr. evraire were on a date which was, in my view, meant as a sinister message
+designed to intimidate mr. evraire but also to instill fear in ms. lofaro. he
+succeeded with respect to ms. lofaro. mr. daley also entered her house without
+permission. i find that the defendant engaged in repeated and unwanted
+surveillance of the complainant as well as stalking behaviour. i accept the
+testimony of ms. lofaro that she was harassed and fearful because of mr. daley’s
+offending conduct.
+
+i find that the evidence establishes beyond
+any reasonable doubt the guilt of the accused on the charge of criminal
+harassment. he is found guilty and convicted of the offence.
+charge of mischief
+
+the second charge alleges that the accused
+between december 13, 2022 and february 10 2023 did wilfully obstruct interrupt
+or interfered with the lawful use, enjoyment or operation of property contrary
+to
+s. 430(1)
+(c) of the
+criminal code. it is alleged that mr. daley installed
+or had installed a gps device in ms. lofaro’s vehicle which interfered with the
+complainant’s lawful enjoyment of her vehicle. his presence at multiple
+undisclosed locations supported her claim that he was tracking her causing her
+emotional distress and interfering with he lawful use and enjoyment of her
+vehicle.
+
+on february 10, 2023, ms. lofaro brought her
+van to kanata collision in stittsville for cleaning and detailing. mechanic
+manny guella, who specializes in electrical systems, discovered a gps tracking
+device hidden under the front passenger seat. the device was attached using
+rare earth magnets, placed upside down, and was active and powered. guella
+photographed the device and informed lofaro, who immediately contacted police.
+guella confirmed the gps tracker was hidden in a non-obvious location and would
+not be easily detected without training. he verified the device was active and
+documented its placement with photographs.
+
+constable laurie kudsi, from the intimate
+partner violence section, led the investigation. a production order revealed
+the gps device was activated on november 29, 2022, with a one-year service
+term. the device was registered to a person named chris with a phone number
+(613-862-6788), and email (chris.nearest@gmail.com). the device was purchased
+via amazon for $150. it is admitted that this was the same telephone number
+used by mr. daley to text ms. lofaro
+
+ms. lofaro testified that she made sightings
+of daley’s truck at locations where she had not informed him of her presence
+raised suspicions that mr. daley was tracking her. on january 31, 2023, sandra
+took her daughter for vaccines at a clinic and saw daley’s truck parked nearby,
+despite not notifying him where she was. she expressed fear and panic in texts
+to friends and suspected gps tracking. similar sightings occurred at a
+restaurant and a structube store in kanata. daley also sent texts shortly after
+sandra dropped off her van at the mechanic, suggesting he was aware of her
+location.
+
+i am satisfied beyond a reasonable doubt
+that the accused is guilty of mischief. the crown has proven that mr. daley
+interfered with the lawful use and enjoyment of her vehicle by placing or
+having placed a gps tracking device in her vehicle and tracking ms. lofaro’s movements.
+he is found guilty and convicted of this offence.
+released: october 10, 2025
+justice t. lipson

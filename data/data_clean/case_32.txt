@@ -1,0 +1,712 @@
+source url: https://www.canlii.org/en/on/oncj/doc/2025/2025oncj646/2025oncj646.html
+
+ontario court of justice
+citation:
+r. v. smith, 2025 oncj 646
+date: 
+2025 12 09
+court
+file no: oshawa 25-28104161
+between:
+his
+majesty the king
+— and
+—
+elijah smith
+before
+justice joseph hanna
+heard
+on november 3 & 5, 2025
+reasons
+for judgment released on december 9, 2025
+b. hart.................................................................................................... counsel
+for the crown
+d. heath
+……………………………………………………………..counsel
+for the accused
+hanna j.:
+introduction
+
+elijah smith discharged a single round from a
+handgun in the direction of patrons who had followed him outside of a restaurant.
+
+as a result of this event, he is charged with
+the following
+criminal code
+offences:
+1.
+intentionally discharging a firearm into or at a
+place knowing or being reckless as to whether another person was present in
+that place, contrary to s. 244.2(1)(a);
+2.
+carrying a concealed weapon, contrary to s.
+90(1);
+3.
+carrying a weapon for a purpose dangerous to the
+public peace, contrary to s. 88(1); and
+4.
+unauthorized possession of a loaded firearm,
+namely a handgun, contrary to s. 95(1).
+
+the crown’s case consisted of an agreed
+statement of facts, scene of crime photographs, and three video clips. mr.
+smith’s testified in his own defence.
+
+the defence made no submissions in response to counts
+2 – 4. with respect to count 1, the main issue i need to decide is whether the
+crown has disproven self-defence beyond a reasonable doubt.
+the onus of proof and w.d. in the
+context of a self-defence case
+
+mr. smith is presumed innocent. it is the
+crown’s onus to prove his guilt of the offences charged beyond a reasonable
+doubt. it is not enough that the crown prove that mr. smith is probably guilty.
+while proof to an absolute certainty is not required, proof beyond a reasonable
+doubt falls much closer to an absolute certainty than to proof on a balance of
+probabilities. a reasonable doubt can arise from the evidence or from the
+absence of evidence.
+
+given that mr. smith claims he acted in
+self-defence, it is appropriate to apply a modified
+w.d.
+analysis to
+properly consider the objective and subjective components of lawful
+self-defence:
+r. v. reid,
+2003 canlii 14779
+(onca) at para.
+72;
+r. v.
+brown,
+2020 onca 462, at para.
+47.
+
+first, if i accept mr. smith’s evidence and, on
+the basis of it, i believe or have a reasonable doubt that he was acting in
+self-defence, i will find mr. smith not guilty on count 1.
+
+second, even if i do not accept mr. smith’s
+evidence, if, after considering it alone or in conjunction with the other
+evidence, i believe or have a reasonable doubt that he was acting in lawful
+self-defence, i will find mr. smith not guilty on count 1.
+
+third, even if the unaccepted evidence does not
+raise a reasonable doubt, the crown still bears the burden of proving that mr.
+smith was not acting in lawful defence beyond a reasonable doubt based upon the
+whole of the accepted evidence:
+r. v. martin,
+2020 onsc 4779
+at para.
+8;
+r. v. berman,
+2024 onsc 3304
+at paras.
+44–45;
+brown,
+2020 onca
+462, at paras.
+45 -55.
+
+in assessing the accused’s evidence, i must do
+so by considering it in the context of all the evidence led at trial, including
+the crown’s evidence:
+r. v. hull,
+2006 canlii 26572 (on ca), o.j. no. 3177 at para.
+5;
+r. v. hoohing,
+2007 onca 577
+at para.
+15
+the video evidence and the agreed
+facts
+
+on june 29, 2024, mr. smith attended the mansion
+kitchen and bar located at 1294 kingston road, in pickering. what follows is a review
+of the video evidence, the forensic investigation conducted, and other facts
+agreed to by the parties.
+the interior video
+
+the interior video depicts mr. smith near the
+bar area of the restaurant between 00:35:17 and 00:36:05. during this time, he
+appears to have had a brief interaction with two males. mr. smith was wearing
+dark clothing, a medical mask positioned below his mouth, and carrying a
+satchel with a red strap. one of the males was wearing a grey jacket, and the
+other was wearing a blue t-shirt and a cap.
+
+at 00:35:17, mr. smith was positioned
+approximately one to two feet from the male wearing the grey jacket. that male
+nodded and appeared to be speaking.
+
+at 00:35:18, mr. smith took a step back from the
+male in the grey jacket. between 00:35:18 and 00:35:30, the male in the grey
+jacket spoke with the male in the blue shirt, while mr. smith walked behind them
+and moved to the side of the bar.
+
+between 00:35:30 and 00:35:42, mr. smith was at
+the side of the bar interacting with another individual. during this time, the
+male in the grey jacket and the male in the blue shirt continued to interact.
+
+at 00:35:46, mr. smith approached the left side
+of the male in the blue t-shirt, who was looking at his phone. the male in the
+grey jacket was positioned to that male’s right. at this point, both males had
+their backs to the camera. at 00:35:47, the male in the blue shirt lifted his
+head to look at mr. smith, then quickly turned his attention back to his phone
+within two seconds. by 00:35:50, mr. smith had turned his back to both males.
+between 00:35:47 and 00:35:52, the male in the grey jacket was approximately
+six feet away from mr. smith and nodded his head.
+
+between 00:35:53 and 00:36:02, the male in the
+blue shirt approached a male who appeared to be an employee of the
+establishment and interacted with him. the male in the grey jacket interacted
+with a woman. mr. smith walked behind the male in the grey jacket and stood a
+few feet behind him. mr. smith and the male in the grey jacket remained in this
+position until 00:36:05, at which point the video clip ended.
+the entry video
+
+the
+entrance to the establishment consists of a single glass door leading from the
+restaurant into a small vestibule area, followed by two additional glass doors
+that open onto a porch and a set of stairs outside. the entry video clip is 32
+seconds long.
+
+at
+00:52:50, mr. smith opened the door from the restaurant and entered the
+vestibule. he was followed by the male in the grey jacket, and then by the male
+in the blue shirt. at 00:52:51, mr. smith reached the double glass doors. at
+that point, the male in the grey jacket had begun opening the single glass door
+from the restaurant.
+
+between
+00:52:52 and 00:52:54, mr. smith opened one of the double glass doors and
+exited onto the porch. at 00:52:54, the male in the grey jacket stood inside
+the vestibule, directly in front of the double glass doors. at the same time,
+the male in the blue shirt entered the vestibule from the restaurant.
+
+at
+00:52:55, the male in the grey jacket stood in the doorway of the double glass
+doors, holding one of the doors open. the male in the blue shirt was holding
+the single glass door to enter the vestibule. mr. smith had walked down the
+stairs and was no longer visible on camera.
+
+between
+00:52:55 and 00:53:01, the male in the grey jacket stood on the porch at the
+top of the stairs, holding one of the glass doors with his left hand. he
+appeared to gesture toward himself approximately five times with his right
+hand. his left hand then released the door as the male in the blue shirt walked
+through the doorway.
+
+at
+00:53:02, the male in the grey jacket was standing at the top of the stairs.
+the male in the blue shirt stood behind him, holding one of the double glass
+doors with his left hand. his right hand was down by his side, a few inches
+from his body. a cellphone holster was visible on his right hip. he was not
+holding anything in either of his hands.
+
+still
+at 00:53:02, the male in the blue shirt released the door and stepped closer to
+the male in the grey jacket. at that moment, the glass door directly behind
+both males shattered from a gunshot.
+
+at
+00:53:03, the male in the blue shirt entered through the undamaged glass door,
+which had not yet fully closed. he was crouched down at the time. he and the
+male in the grey jacket then ran through the vestibule and back into the
+restaurant, arriving there by 00:53:06. as they entered through the single
+glass door, the video shows that it also had been shattered by the gunshot.
+exterior video
+
+the exterior video shows that between 00:52:55 and 00:52:56, mr. smith
+walked from the porch down the steps. six individuals were standing at the
+bottom of the steps at that time. upon reaching the ground, mr. smith walked
+approximately six paces and turned to face the entrance of the establishment at
+00:52:58.
+
+at
+00:53:02, mr. smith retrieved a handgun and pointed it in the direction of the
+establishment’s entrance. at 00:53:03, smoke or a flash is visible coming from
+the handgun, and the individuals near the stairs began to scatter. mr. smith
+also began to run away.
+
+by
+00:53:06, mr. smith was no longer visible on camera. the individuals who had
+scattered returned to the staircase. the video ends at 00:53:17.
+police investigation
+
+scene
+of crime photographs demonstrate that there are six steps from ground level to
+the porch outside the entrance to the mansion kitchen + bar. police recovered a.45 calibre shell casing near the location of the discharge.
+
+the
+projectile fired by mr. smith passed through both glass entry doors, struck the
+interior of the restaurant, and came to rest on the interior stairs. at the
+time of the shooting, there were patrons inside the restaurant.
+
+police
+investigation revealed that mr. smith had purchased two shots of hennessy using
+his rbc credit card.
+
+the
+two males who followed mr. smith outside fled immediately after the shot was
+fired. police were unable to locate or identify them.
+
+police
+investigation further revealed that in 2021, mr. smith had been the victim of a
+“discharge firearm with intent incident”. he was dropped off at a hospital with
+a gunshot wound to his leg.
+mr. smith’s evidence
+
+mr.
+smith testified that he attended the mansion kitchen and bar to conduct a drug
+deal. he acknowledged that he brought a gun with him, which was in his satchel.
+
+he
+explained that he carried a gun for protection because he had been traumatized
+after being shot in 2021 in a case of mistaken identity and because he was
+involved in selling drugs. he stated that everyone in that business carried a
+gun. he said he was fearful that something could happen during the meeting and,
+more generally.
+
+he
+described his recovery process following the shooting and indicated that as of
+june 2024 he still had mobility difficulties.
+
+regarding
+his first interaction with the two males depicted on the interior video, mr.
+smith testified that one of them asked if he remembered him and said he looked
+familiar. mr. smith responded that the person must be mistaken. he said one of
+the males said something further to him, but he disregarded it. he then went to
+the bar to get his bill, stating that he felt there was obvious tension. he
+advised that the males were “mean mugging him,” meaning they were giving him
+menacing looks. he said the interaction triggered a panic attack and that he
+wanted to leave as quickly as possible. he agreed in cross-examination that he
+did not leave for more than 10 minutes after receiving his bill. he explained
+that he did not want to leave right away because he was concerned the males
+would follow him, which is what ended up happening. he stated that he had no
+further interactions with the males until he was leaving.
+
+he
+described a second interaction with the two males as he was leaving, which
+occurred outside the establishment.
+
+mr.
+smith testified that he entered a crowd of people and was heading to his car. he
+said the male in the grey jacket asked him where he was going and whether he
+remembered him. mr. smith responded that he neither remembered nor knew the
+males. he said things became heated at that point and that both males were
+conversing with him as he walked away. when shown the entry video depicting the
+male in the grey jacket near the entrance doors, mr. smith testified that this
+male was repeatedly asking if he remembered him, pointing aggressively, and
+raising his voice. mr. smith said he responded that he did not remember him.
+
+mr.
+smith testified that he was panicking and having a panic attack. he said the
+male in the grey jacket had something on his waist. in cross-examination, he
+mentioned that he observed a bulge by the male’s waist and that the male was
+grabbing for something. he also added that the male, or they, said “i have it”
+or “they have it”, which he explained was a street term. that was when he
+believed they had a gun. around the same time, he said he observed the male in
+the blue shirt come through the door, quickly and aggressively. he stated that
+it appeared as though this male had a gun or something in his hand. he said the
+interaction was quick, so he did not clearly see, but it looked to him as
+though the male had something in his hand when he rushed out behind the male in
+the grey jacket. mr. smith maintained that he believed the male in the blue
+shirt had a gun. in cross-examination, he indicated that his view was
+obstructed by the male in the grey jacket. he also said it appeared to him that
+the male in the blue shirt was reaching for something.
+
+mr.
+smith explained that he fired his gun because he did not want to get shot. he
+indicated this was to defend himself and that he did not believe he had an
+alternative. he emphasized that he had previously been the victim of gun
+violence.
+
+he
+indicated that he did not know what the two males’ motive was in antagonizing
+him.
+assessment of mr. smith’s credibility and
+reliability
+
+there
+were several problems with mr. smith’s evidence that adversely affected my
+assessment of his credibility and reliability.
+
+first,
+while in possession of a loaded firearm, mr. smith implausibly claimed that he
+experienced a panic attack in response to a brief and relatively innocuous
+encounter with strangers.
+
+second,
+although mr. smith claimed he was in a state of panic and wished to leave the
+establishment as quickly as possible, his actions were inconsistent with that
+assertion. he remained at the location for over ten minutes after receiving his
+bill, which undermines the credibility of his claim that he was urgently trying
+to exit due to panic.
+
+third,
+mr. smith’s testimony that the individual in the grey jacket had a bulge near
+his waist is not credible. i am not concerned by the difference between his
+evidence in chief, where he said the male had something at his waist, and his
+evidence in cross
+‑
+examination,
+where he referred to a bulge. i do not consider this to be a significant
+inconsistency. i reject his evidence on this point for other reasons. a review of
+the video evidence—examined closely and even zoomed in—reveals no such bulge.
+furthermore, the individual was wearing a loose black shirt, making it
+implausible that mr. smith could have observed any concealed object.
+
+fourth,
+mr. smith’s testimony during cross-examination that the male in the grey shirt
+told him either he or they “had it” while standing on the porch of the
+establishment was neither reliable nor credible. he failed to mention this
+alleged statement during his examination-in-chief, despite later presenting it
+as a significant reason for believing the two males were armed. his explanation
+for this omission was not that he simply forgot to mention it, but that his
+memory was “foggy”, and he only recalled the detail upon viewing the video in court.
+this explanation lacked credibility, and i do not accept this aspect of his
+testimony as reliable.
+
+fifth,
+mr. smith’s claim that he believed he observed a firearm in the person in the
+blue shirt’s hand was problematic for two reasons. first, the video evidence
+clearly establishes that there was no item in this person’s hand. second, when
+testifying about this subject mr. smith acknowledged that he did not have a
+clear view and that the person in the grey jacket was partially blocking his
+line of sight. it is patently unbelievable that mr. smith saw what was not
+there and what was obscured. at most, mr. smith may have had a speculative and
+paranoid fear of a firearm.
+
+sixth,
+mr. smith’s description of the actions of the male in the blue shirt as he exited
+the door is inconsistent with the video evidence. mr. smith claimed that the
+male came out quickly and aggressively and that he believed this male reached
+for something. the entry video, however, shows the male in the blue shirt
+walking through the door at a normal pace, making no aggressive gestures, and
+not reaching for anything.
+
+seventh,
+mr. smith testified that his intention upon exiting the establishment was to go
+to his vehicle. however, his explanation—that he did not continue because he
+feared the two males would follow him—was not credible. upon reaching the
+bottom of the stairs, he took six paces before turning to face the two males
+who, according to him, had triggered a panic attack during their initial
+interaction. these individuals made no attempt to descend the stairs. had mr.
+smith continued walking and had they pursued him, his explanation might have
+had some plausibility. but that is not what occurred.
+
+overall,
+i do not find mr. smith to be a credible or reliable witness. as i will elaborate,
+his evidence does not cause me to believe he acted in self
+‑
+defence, nor does it
+leave me with, or contribute to, a reasonable doubt on that issue.
+the law
+of self-defence
+
+there are three essential elements to the
+defence of use of force: (1) the accused must have reasonably apprehended a
+threat of harm to himself (the catalyst); (2) the force used by the accused was
+in response to the perceived threat or harm (the motive); and (3) the force
+used was reasonable in the circumstances (the response):
+criminal code, section
+34;
+r. v. khill,
+2021 scc 37, at paras.
+51-52, 59, 62;
+r. v.
+suthakaran,
+2024 onca 50, at para.
+20. the reasonableness of the response
+is to be assessed having regard to the non-exhaustive list of factors in
+section 34 subsection (2).
+
+the catalyst focuses on the accused's state of
+mind and asks whether the accused subjectively believed on objectively
+reasonable grounds that force was being used or threatened against them or
+another person. the motive asks whether the accused did something for the
+subjective purpose of defending or protecting themself or another. the response
+asks whether the conduct of the accused was reasonable in the circumstances,
+again having regard to the non-exhaustive list of factors in section 34
+subsection (2).
+assessment of self-defence in
+this case
+the catalyst
+
+mr.
+smith testified that he feared for his life prior to discharging his firearm.
+
+i
+do not accept mr. smith’s evidence, nor do i have a reasonable doubt, that he
+reasonably apprehended harm to himself.
+
+the
+interaction in the interior bar area was brief and relatively innocuous. i
+reject mr. smith’s assertion that it triggered a panic attack. his claim that
+he wanted to leave immediately is contradicted by his decision to remain for
+more than 10 minutes. there is no evidence that either of the two males he
+interacted with touched him, threatened him, or displayed any weapons during
+this initial encounter.
+
+as
+for the interaction outside, i begin by noting that mr. smith was positioned 10
+to 15 feet away from the two males when he fired his weapon, and that neither
+male made any attempt to descend the stairs.
+
+for
+the reasons previously stated, i reject mr. smith’s claim that he observed a
+bulge at the waist of the male in the grey jacket. i also reject his assertion
+that anyone said, “i have it” or “they have it”. even if i were to accept that
+he observed a bulge—which i do not—he never indicated that he saw a firearm on
+the individual’s waist, let alone in his hand. nor did he mention the male
+lifting his shirt to display any item. the video shows the male in the grey
+jacket merely lowering his hand momentarily in front of his body before raising
+it again, with nothing in it, just prior to the glass shattering. even had mr.
+smith perceived a bulge, which again i reject, there would still be no
+reasonable basis for him to believe the man was armed and about to use a
+firearm against him.
+
+the
+video evidence clearly shows that the male in the blue shirt was not holding a
+firearm or any other object in his hands prior to mr. smith firing his weapon. furthermore,
+this male did not make any aggressive gestures towards mr. smith, nor did he
+reach for anything.
+
+i
+have considered that mr. smith was previously shot and that this experience had
+a significant impact on his life. i have also considered that the male in the
+blue shirt wore a cell phone holster on his waist, and that his hand was
+positioned a few inches from it prior to the shooting.
+
+in
+khill, the court
+stated at para. 56:
+reasonableness is not considered through the eyes of
+individuals who are overly fearful, intoxicated, abnormally vigilant or members
+of criminal subcultures (reilly v. the queen,
+1984 canlii 83 (scc), 2 s.c.r. 396, at p. 405;
+cinous, at paras. 129–30;
+r. v. phillips,
+2017 onca
+752, 355 c.c.c. (3d) 141, at para.
+98
+)…
+the question is not what the accused personally thought
+was reasonable based on their characteristics and experiences, but rather what
+a reasonable person with those relevant characteristics and experiences would
+perceive (
+pilon,
+at para. 74). the law also recognizes that an honest but mistaken belief can
+still be reasonable and does not automatically preclude a claim of self-defence
+(
+lavallee, at p.
+874;
+pétel, at p.
+13;
+r. v. billing,
+2019 bcca 237, 379 c.c.c. (3d) 285, at para.
+9;
+r. v. robinson,
+2019 abqb 889, at para.
+23
+(canlii);
+r. v. cunha,
+2016 onca 491, 337 c.c.c. (3d) 7, at para.
+8
+).
+see also:
+r. v. younus,
+2022 onsc 2078, at para.
+119.
+
+i
+do not accept, nor do i have a reasonable doubt, that mr. smith perceived a
+firearm in the hand of the male in the blue shirt. at most, mr. smith may have
+experienced an irrational paranoia that the individual might be armed, but any
+such impression was not reasonably grounded. even if mr. smith worried that the
+individual might possess a firearm, that concern was not reasonable given the
+circumstances.
+
+having
+carefully considered mr. smith’s testimony in the context of all the evidence,
+i find that he did not reasonably apprehend harm when he discharged his
+firearm. nor do i have any reasonable doubt on this issue. his evidence, viewed
+alongside the other evidence, does not leave me in a reasonable doubt. based on
+the evidence i accept—namely, the agreed statement of facts, the video
+recordings, and the photographs—i am satisfied beyond a reasonable doubt that
+mr. smith did not believe, on reasonable grounds, that force was being used
+against him or that a threat of force was being made at the time he fired his
+gun.
+
+in coming to this conclusion, i have been
+mindful that reviewing video evidence carries the risk of creating a misleading
+impression of how events were perceived in real time by those present. see:
+r.
+v. e.j.,
+2025 onsc 6016, at para.
+82. in the circumstances of this case,
+the sequence of events does not support an inference that mr. smith reasonably
+apprehended harm.
+
+the crown has disproven the first element of
+self-defence beyond a reasonable doubt. the defence therefore fails:
+r. v.
+hebert,
+1996 canlii 202 (scc), 2 s.c.r. 272, at para.
+25;
+khill, at para.
+231.
+the motive
+
+given my finding on the catalyst element of the
+defence of use of force, i need not address whether mr. smith fired his firearm
+for the subjective purpose of defending or protecting himself. the crown
+submits that mr. smith’s motive was solely to harm the individuals he fired
+toward. i need not determine this. it is sufficient to note that, even if mr.
+smith had a subjectively defensive motive for firing his gun, it was based on
+an irrational and unreasonable fear.
+the response
+
+the
+final element of self‑defence concerns whether the accused’s conduct was
+reasonable in the circumstances. the starting point is that reasonableness is
+measured against “the relevant circumstances of the person, the other parties
+and the act”:
+khill,
+at para.
+64
+).
+
+while
+factors relating to the accused are relevant, the focus remains on what a
+reasonable person would have done in comparable circumstances, not on what the
+particular accused thought at the time:
+khill, at para.
+65.
+
+in
+assessing whether mr. smith’s conduct was reasonable, i must consider the non‑exhaustive
+list of factors set out in s. 34(2)(a)–(h) of the
+criminal code.
+
+in
+weighing these factors, i have assessed mr. smith’s evidence in accordance with
+the modified
+w.(d.)
+approach outlined above. i have also adopted a holistic approach as directed in
+khill.
+see:
+r. v. alphonse,
+2024 bcsc
+572, at para.
+237. my earlier analysis of the catalyst element, together with my
+related findings of fact, naturally informs my analysis of the response
+element. i will not repeat those reasons, but rather apply my findings of fact
+in assessing the factors relevant to the response element.
+(a) the nature of the
+force or threat
+
+as i have explained, there was no force used against mr. smith, nor was
+there any threat of force.
+(b) the extent to which the use of force was imminent
+and whether there were other means available to respond to the potential use of
+force
+
+there
+was no imminent use of force, given that there was neither force nor any threat
+of force. furthermore, mr. smith could have easily walked away. neither the
+male in the blue shirt nor the male in the grey jacket descended the stairs
+toward him.
+(c) the person’s role in the incident
+
+in
+assessing this factor, the court must evaluate how the accused’s role impacts
+the “equities of the situation” and the extent to which the accused bears
+responsibility for the confrontation:
+khill, at paras.
+85–86. “society
+is more likely to view the accused's ultimate act as wrongful or inexcusable
+where their conduct was rash, reckless, negligent or unreasonable”:
+khill,
+at para.
+105.
+
+the
+two males followed mr. smith as he left the establishment, though neither one
+of them descended the stairs from the porch. mr. smith brought a loaded firearm
+to a busy establishment. he brandished it and fired it without reasonable
+grounds to believe that force or a threat of force was being used against him.
+(d) whether any party to the incident used or
+threatened to use a weapon
+
+mr.
+smith was the only person involved in the incident who possessed or used a
+weapon.
+(e) the size, age, gender and physical capabilities
+of the parties to the incident
+
+the
+parties were all male and appeared similarly aged. there were two males
+interacting with mr. smith, and both appeared to have a larger build than him.
+(f) the nature, duration and history of any
+relationship between the parties to the incident, including any prior use or
+threat of force and the nature of that force or threat, and (f.1) any history
+of interaction or communication between the parties to the incident
+
+the
+only evidence of prior interaction between the parties is the brief exchange
+captured on the interior video and described by mr. smith. this interaction did
+not involve any violence or threats of violence. at its highest, mr. smith
+described receiving menacing looks from the males and them mistaking him for
+someone else.
+(g) the nature and proportionality of the person’s
+response to the use or threat of force
+
+mr.
+smith firing a gun toward two men and into an occupied establishment was
+manifestly disproportionate in the circumstances, given that no force was used
+against him and there was no reasonable basis for him to fear that it would be.
+(h) whether the act committed was in response to a
+use or threat of force that the person knew was lawful
+
+this
+factor is not relevant to this case.
+balancing the various factors
+
+having
+considered all of the factors together in a holistic manner, i am satisfied
+beyond a reasonable doubt that mr. smith’s conduct was unreasonable in the circumstances.
+accordingly, the crown has also disproven this element of self-defence beyond a
+reasonable doubt.
+conclusion
+
+i am satisfied beyond a reasonable doubt that
+mr. smith intentionally discharged a firearm into or at a place, knowing or
+being reckless as to whether another person was present. the evidence in
+support of this charge is overwhelming. the only issue raised at trial in
+relation to this count was self
+‑
+defence. for the reasons given, i am satisfied beyond a reasonable
+doubt that the defence has been disproven.
+
+the firearm carried by mr. smith is, by
+definition, a weapon. he clearly intended to conceal it in his satchel. furthermore,
+mr. smith admitted he carried a loaded firearm for two purposes: to have it
+available while conducting a drug deal and to protect himself based on a
+generalized fear rather than an imminent threat. these purposes were obviously
+dangerous to the public peace. i am satisfied beyond a reasonable doubt that
+counts 2 and 3, the charges of carrying a concealed weapon and possessing a
+weapon dangerous to the public peace, have been proven.
+
+mr. smith acknowledged that he was in possession
+of a prohibited firearm. the defence conceded that he did not have
+authorization to possess the gun. the only reasonable inference is that he was
+aware the gun he carried and chose to fire was loaded. consequently, the crown
+has also established count 4, possession of a loaded prohibited firearm, beyond
+a reasonable doubt.
+
+the crown has proven the essential elements of
+each offence charged beyond a reasonable doubt. i therefore find mr. smith
+guilty on all counts.
+released: december 9, 2025
+signed:
+justice joseph hanna

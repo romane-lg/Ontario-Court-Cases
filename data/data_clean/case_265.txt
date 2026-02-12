@@ -1,0 +1,560 @@
+source url: https://www.canlii.org/en/on/oncj/doc/2025/2025oncj325/2025oncj325.html
+
+citation:
+r. v. dooney,
+2025 oncj 325
+date: 
+june 12, 2025
+ontario
+court of justice
+central
+west region
+his
+majesty the king
+-and-
+conor
+dooney
+decision and reasons issued june 12, 2025
+justice of the peace a.g. summers
+appearances:
+wade poziomka. …...................................................municipal
+prosecutor for norfolk county
+peter
+karsten. …………………………………………counsel for the accused conor dooney
+statutes considered or cited:
+highway traffic act, r.s.o. 1990, c. h.8,
+as amended
+cases considered or cited:
+r. v s. (w.d.),
+1994 canlii 76 (scc), 1994 carswellalta 327
+r. v.
+hammond,
+2005 bcpc 111
+r. v. hawkins,
+2009
+oncj 101
+r. v. lising,
+2000 bcsc 1003
+r. v. odish,
+2016 oncj
+118
+r. v. safdar,
+2018
+onsc 7066
+note: no related radar detector precedent identified
+justice of the peace a.g. summers -
+decision of the court:
+1. the accused, conor dooney
+(“conor”), has been charged that, on july 16th, 2024, he “drove motor vehicle -
+perform stunt – excessive speed” pursuant to sub-
+section 172(1)
+of the
+highway
+traffic act, r.s.o. 1990, c. h.8, which reads as follows: 172(1) no person
+shall drive a motor vehicle on a highway in a race or contest, on a bet or
+wager or while performing a stunt.
+2. “stunt” is defined in
+o. reg.
+455/07, races, contests and stunts as, amongst other things, as follows: 3. 7.
+driving a motor vehicle at a rate of speed that is 40 kilometres per hour or
+more over the speed limit, if the speed limit is less than 80 kilometres per
+hour.
+to which he has pled not guilty.
+3. i have considered the
+evidence and written submissions before me. the essential elements of the
+charge before the court must be proven beyond a reasonable doubt by the
+prosecution if the accused is to be found guilty as charged, and until then there
+is a presumption of innocence.
+4. the issues not in
+dispute include municipality/jurisdiction, identity, date and time of offence,
+and location/place where incident occurred. also not in dispute is that the accused
+was operating a motor vehicle on the date and place specified in the charge. additionally,
+not in dispute is that the accused was travelling above the posted 80 km/hr
+speed limit and the accused’s vehicle had a dash and rear camera in operation
+that captured the incident before the court.
+5. what is in dispute is
+whether the officer initiated the cruiser's radar device capturing an elevated
+speed supporting an allegation of stunt driving. i will focus my analysis of
+the evidence on the issue in dispute.
+6. here we have a situation
+where i am faced with two versions of the same event. the overarching question
+is whether, on the whole of the evidence, a trial judge is left with a
+reasonable doubt about the guilt of the accused. in every case, the crown bears
+the burden of proving guilt beyond a reasonable doubt to assure an innocent
+accused is not convicted. this burden is fundamental in our justice system and
+applies to a case, like this one, where credibility is the main issue. to
+assist a trial judge in this task, the supreme court of canada provided a
+three-part test found in
+r. v s.(w.d.)
+to determine whether the crown
+has satisfied their burden in a case that turns on the issue of credibility.
+7. first, if i believe the accused's
+evidence that the accused did not commit the offence as charged, i must find
+not guilty and acquit. second, even if i do not believe the accused’s evidence,
+if the evidence leaves me with a reasonable doubt about guilt, or about an
+essential element of the offence charged, i must find not guilty of that
+offence and acquit. third, even if the evidence does not leave me with a
+reasonable doubt of the accused's guilt, or about an essential element of the
+offence charged, i may convict only if the remainder of the evidence i do
+accept proves guilt beyond a reasonable doubt.
+8. it is not, however, a
+contest of credibility. a trial judge cannot simply choose between the evidence
+of the crown witnesses and the evidence of the defence witnesses. the standard
+of proof beyond a reasonable doubt is at the heart of a r. v. s.(w.d.)
+analysis. the standard is not to choose between the accused or prosecution
+evidence, or which account i prefer.
+officer rooney’s evidence
+9. officer rooney's
+evidence in chief is that he observed a vehicle approaching southbound on
+hillcrest road in simcoe, norfolk county, at a speed that grabbed his
+attention. in response to passing the accused's vehicle, he then initiated the
+cruiser's speed measuring device and locked two speed readings. the first was a
+locked reading of 128 km/h and another locked reading of 131 km/h in a posted 60
+km/h zone. the speed measuring device would have been invisible to a radar
+detector until the point he depressed the activation button on the device.
+10. he began his 6:00 p.m. –
+6:00 a.m. shift on july 16, 2024, and did not test his speed measuring device
+at the onset of his shift. he testified to conducting the radar unit function
+check at 11:06 p.m. pursuant to manufacturer's instructions. i took judicial
+notice this function check was 11 minutes prior to passing the accused's
+southbound vehicle, and five hours and 11 minutes after commencing the shift.
+officer rooney was a qualified radar device operator since 2002 and renewed in
+june 2021 with qualifications covering the next five-year period.
+11. in examination in chief,
+officer rooney testified he had read, then recorded, these two elevated speeds
+before undertaking a u-turn to follow the accused's vehicle southbound on
+hillcrest. he testified he was 100% certain he turned on his radar transmitter
+after passing the accused's vehicle on hillcrest road just past evergreen road.
+no direct evidence was offered as to whether the officer had lost sight of the accused's
+vehicle. however, he testified there were no other vehicles in proximity of 8th
+street west because he had just passed through there. he also testified to
+slowing and looking down intersecting roads in an effort to locate the target
+vehicle, after completing a u-turn.
+12. following the u-turn,
+remaining on hillcrest road now southbound and passing by 8th street west, the
+officer then observed brake lights come on for a couple of seconds or a little
+bit longer than he would normally suspect or observe brake lights to come on.
+the brake lights then went off and then another, sort of, semi-extended brake
+period occurred. this caused the officer to wonder if the driver saw the
+officer's headlight come into view after the cruiser turned around, and
+subsequently was now braking from a high speed down to a more manageable speed.
+the vehicle then made a third brake application, shorter in duration, and made
+the right turn onto 7th street west, travelling in a westbound direction.
+13. on cross-examination, the
+officer testified the accused "had braked some distance before the actual
+turn occurred, there were three brake light observations. one slightly
+extended. a short time span between the second. that one was then slightly
+extended. and then a shorter one simply right before the turn, as if somebody
+were slowing to make the actual turn... the first two, he suspected, were
+slowing down from the speed that he believed the vehicle to be travelling at
+well before that turn occurring. so, they appeared to him to be completely
+independent from the vehicle just braking to slow down to a speed to make an
+actual turn."
+14. i took judicial notice
+the officer offered no direct evidence of observing the accused's vehicle
+travelling at a high rate of speed immediately prior to taking a third radar
+speed reading. the officer testified that he then activated his front-facing
+antenna on 7th street after he and the accused navigated a right-hand turn and
+recorded a much lower speed of 70 km/h in a posted 80 km/h zone, and the accused
+was travelling under the speed limit. he further testified he did not know why
+the accused's radar detector did not alert audibly on the dash camera video,
+that he could only speculate the accused's device was not working. on
+cross-examination, the officer did refer to his notes and testified it was a
+much lower speed and the accused was travelling 70 km/h in an 80 km/h zone.
+15. the officer testified to
+catching up to the vehicle that had made that same turn onto 7th street west
+and approximately one kilometre down 7th street west, did engage a traffic
+stop. the officer indicated he informed the accused the readings were not
+available to be shown. the officer testified that when he made a u-turn and
+engaged his now front-facing radar speed recording device, the act of switching
+from a rear-facing to a front-facing unit deleted the two elevated speeds of
+128 and 131 that were recorded from the rear-facing direction. the officer
+testified in chief that ordinarily his standard practice is not to advise the
+driver of the reason for a roadside stop until actually obtaining identifying
+documents. after confirming identity, the officer testified on
+cross-examination, he engaged in conversation regarding the alleged travelling
+speed and advised the accused of the purpose of the roadside stop.
+16. when asked about the accused's
+radar detecting device receiving a radar signal, the officer testified he was
+unable to know what was inside the accused's car or whether the device was
+functioning, and these devices were not legal. the officer acknowledged
+watching the video from the accused's dash camera and denied confirming the
+audible beeps he heard after turning right on 7th street were associated with
+the accused's radar detector. the officer denied hearing audible beeps on the
+dash cam recording that supported his evidence that he initiated his
+rear-facing antenna identifying a 128 and 131 locked speed reading. the officer
+admitted to hearing an audible beep on the dash camera video which coincided
+with his testimony that he took a third reading after following the accused's
+car after it slowed, made a right-hand turn onto 7th street, then proceeded
+down 7th street and registered 70 km/h in an 80 km/h zone.
+17. the officer testified he
+had no locked speed or time of recording evidence other than his verbal
+evidence. on cross-examination, the officer testified he did write down the
+locked speed of 128. he also testified that radar cannot print out tracked
+speeds and he was not required to show an accused evidence of tracked speeds
+pursuant to the operators manual.
+officer rooney's evidence
+related to showing recorded speeds
+18. during cross-examination,
+the officer testified that at the roadside the accused did request to see the
+speed readings but could not be 100% sure. the defence asked if the officer
+needed to refer to his notes to refresh his memory at all. the officer's
+response was that he didn't recall off the top of his head whether he made
+annotation of that or not. he might have. he could not say. he stated he didn't
+know, adding "i mean, i could look through my notes. i don't want to pause
+the court unnecessarily to look for that." nevertheless, he testified he wasn't
+able to show it to the accused due to the fact that the convenience memory
+reading of the locked feature was no longer there to show him, if he did
+request it. as to writing the locked speed, the officer testified on
+cross-examination that he did write down the 128 reading.
+19. the officer testified
+that he would gladly show it to somebody if it's available to do so. however,
+under the circumstances here, the way that this particular radar functions, the
+officer was not able to do so once he changed the mode over from opposite [rear
+facing] to a same [forward] direction.
+officer rooney's evidence
+related to a speed reading on a slow vehicle
+20. during examination in
+chief, the officer testified the first time he had heard the accused had a
+radar detecting device was during the trial. the officer testified during
+examination in chief, and i quote, "he is trained to not activate a radar
+device until he actually first observes, as part of our tracking history, to
+observe a vehicle and the operation [of the radar], actually observe it is
+travelling at a high rate of speed, and then really activate the radar unit to
+basically corroborate or confirm our visual operations of that vehicle."
+21. he further testified that after
+turning onto 7th street west and closing the distance on the accused's vehicle,
+he then obtained further radar readings of the vehicle. the result of that
+further radar reading was 70 km/h in an 80 km/h zone, and he testified on
+cross-examination that the accused's vehicle was travelling much slower. the
+officer also testified previously that he is trained to not engage the radar
+device unless the target vehicle is visually travelling at a high rate of speed.
+conor dooney’s evidence
+22. the accused testified
+that between 11:00 p.m. and midnight on july 16, 2024, he left a car wash and
+drove at a speed between 15-25 km/h beyond the posted 60 km/h zone in an
+attempt to dry his car. he operated a 2017 volkswagen golf inherited in january
+2024 from his father with a hard-wired radar detector built in which turned on
+and off with minimal delay when the engine started. when the car turns off, it
+turns off. he testified the dash camera video alerts with a beeping sound, and
+that night the detector turned off when the engine turned off. he acknowledged
+the device was illegal and it no longer was installed on the vehicle.
+23. the accused testified the
+hard-wired radar detector was a valentine 1 gen ii model which produces a deep
+signal in quick succession depending on the strength of the radar beam the
+device is registering. the device was mounted to the front left windshield by
+suction cups which followed the curve of the windshield but remained positioned
+horizontally. the device was on a default setting that recognized radar within
+a 3 km radius. the beeping alert becomes louder and more constant with a
+detected stronger signal. he testified he was aware the device had not been
+altered and that his radar device was on during the entirety of the dash camera
+video that was recorded and presented in evidence.
+24. the accused further
+testified his car was equipped with a front and rear facing dash camera and the
+recording of the incident before this court was recorded and presented into
+evidence as exhibit 1. the video recorded a beeping sound which was alleged to
+be emitted from the hard-wired radar detector. the beeping sound occurred
+closer to the end of the video and did not occur on hillcrest road which was a
+posted 60 km/h zone. he testified the radar beep was audible after he made a
+right-hand turn from the direction of hillcrest, and well past when the officer
+testified to observing his vehicle pass at a high rate of speed.
+25. the accused testified in
+chief that during the roadside stop the officer did not explain the reason he
+was pulled over until after the officer asked for licence, registration, and
+insurance. the accused testified he asked the officer at first to see his radar
+and the speed and the officer responded, and i quote, "yes, i can show
+you. and he never really ended up showing me." the accused further
+testified in chief that when the car was being towed, he again asked the
+officer to see it and he said that it reset, and he only had proof on paper.
+the accused denied being shown the proof on paper.
+26. further on
+cross-examination, the accused testified the detecting device was a 12-volt
+install and was on sensor mode "a" which does not filter any signals
+and grabs them all. it has to be plugged in and the unit has two volume
+controls so you can hear the audible tone. the accused testified he did not
+test the unit pursuant to manufacturer's specifications prior to getting on the
+road and leaving the car wash, and afterwards after the officer issued the
+ticket.
+27. on cross-examination, the
+accused agreed the remaining car wash water on the windshield would reasonably
+be more on his vehicle when he passed the officer than when pulled over. the accused
+denied the car wash water on the windshield was the reason his detector may not
+have detected the officer's radar beam when the officer first passed his
+vehicle. when reading from the manual, the accused disagreed that rain,
+moisture, or dust in the air can shorten a radar range and this was a reason
+for a weak alert.
+28. during cross-examination,
+the accused testified his vehicle did not have wipers engaged at any point and
+his windows were tinted. the prosecution read from the manual that some
+windshields have a dark tint band across the top and to avoid mounting behind
+that band. the accused denied that his windshield had a metal band across the
+top edge which otherwise could have interfered with the detector's functions.
+he denied having a thumbnail setting and his particular unit could not mute and
+so it could not be made to not make an audible sound.
+29. on cross-examination, the
+accused denied believing the officer lied about the first use of the radar
+device based upon an assumption that his radar detecting device didn't make a
+sound. he testified he based his belief on the officer's notes and what the
+officer said that he said he accidentally reset the speed in his notes. the accused
+denied the officer didn't show him the speed on his radar device because he was
+making up what he says the speed was locked at. the accused believed the
+officer reset the device, that according to the officer he reset and cleared
+the speed that he locked in on his radar device. the accused testified it was a
+possibility the officer intentionally didn't create a radar reading, then lied
+about the speed, and then said he cleared it when asked to see the speed.
+30. on redirect, the accused
+testified he believed his windshield water or water in or around the radar
+detector was cleared off by the time the accused passed the officer. i took
+judicial notice the alleged two high speed readings were taken from behind the accused's
+vehicle and not directly through the front left side of the windshield where
+the radar detector was mounted. when asked about a tinted band on the front of
+the windshield, the accused agreed there is a small one and if the tint was
+infused with metal it could inhibit the radar detector. the accused further
+testified the tint on his vehicle was dyed film without metal in it.
+findings
+31. i found the evidence of
+the accused reliable and credible and accept his evidence that he was operating
+his inherited motor vehicle that had a built-in radar detecting device that
+turned off and on with the start of the engine, and the device would not
+significantly delay and functioned with an ability to alert continuously while
+the engine ran.
+32. i accept the accused's
+evidence that he did request to see the elevated readings, that the officer
+indicated they would be shown, and they were written, and the speeds were not
+shown during the roadside stop. i accept the accused's testimony that he was
+travelling above 80 km/h in a 60 km/h zone.
+33. i accept the officer's
+testimony that the accused had passed him at an elevated speed. i question why
+the officer would take a further speed reading on a vehicle he was observing
+depressing their brake lights multiple times to decelerate and was not observed
+to be travelling at an elevated speed when an alleged third speed reading was
+taken. it makes reasonable sense that a car depressing brake lights multiple
+times would be travelling at a rate reduced from the 128 and 131, and with
+those brake lights illuminating on the accused's vehicle, the target vehicle
+would not physically be able to accelerate beyond the 128 and 131 after thrice
+slowing and navigating a right-hand turn – without the officer observing the
+target vehicle pulling away from him at a high rate of speed. the officer
+testified pursuant to tracking history requirements he is trained not to
+activate the speed measuring device unless an elevated speed is visually
+observed to corroborate the alleged readings. as to consistency,
+r. v.
+safdar, found where an inconsistency of a witness involves a material
+matter central to the elements of the alleged offences and about which common
+sense dictates that an honest witness is unlikely to be mistaken, the
+inconsistency can demonstrate carelessness with the truth that may undermine
+the whole of a witness’ testimony.
+34. persuasively the finding
+in
+r. v. hammond,
+which
+distinguished
+r. v. lising, both from the
+british columbia supreme court, provides guidance as to proof of radar speed. in
+lising, evidence of visual assessment was insufficient to find conviction,
+the trial judge did not view radar reading as merely corroborating the
+officer’s visual observation that the accused was speeding. the trial judge was
+permitted to base the conviction on radar evidence if it was found reliable and
+was not rebutted or weakened. as to weighting,
+r. v. odish
+found when an
+officer tracks a vehicle first with his or her own eyes and makes a
+determination, based on experience, that a vehicle is travelling well over the
+speed limit, then the radar is activated and the radar reading corroborates the
+officer’s own observation, it bolsters the strength of the radar reading
+element. it then makes reasonable sense, when an officer does not first track a
+vehicle visually and make an experienced determination that the vehicle is
+travelling well over the speed limit, the radar reading evidence is weakened.
+35. as to tracking history,
+r.
+v. hawkins
+in reviewing a genesis radar unit’s manual, at section 6.4 in
+relevant part: for each enforcement action taken by the police with respect to
+a speeding offence arising out of the use of this radar unit a tracking history
+must occur. the tracking history shall consist of 1) a visual observation of an
+approaching or receding motor vehicle that appears to be in excess of the
+posted speed limit in the area and an estimation by the officer of the speed
+that the motor vehicle is travelling; 2) having made the visual observation and
+estimate of the rate of speed, the radar unit will be placed in the operational
+mode; and 3) note, that the target displayed on the radar unit is consistent
+and confirms the officers initial observations and estimate, and that the audio
+tracking tone emitted by the radar unit is consistent with the visual
+observations and the target speed displayed; and 4) absence of any one of the
+above tracking history components and no enforcement action [emphasis not added]
+shall be undertaken. here, the officer testified in chief being bound by a
+similar tracking history requirement.
+36. i considered why the
+officer waited until the accused had made a right-hand turn onto 7th street
+from hillcrest southbound, to engage his front-facing speed detection antenna.
+there was no evidence offered the accused's vehicle was travelling at a high
+rate of speed after slowing to make a 45-degree turn onto 7th street. as a
+trained radar operator, the officer would reasonably know that evidence of
+alleged rear facing recorded speeds of 128 and 131 would delete if he took a
+front-facing reading. knowing this, and while the target vehicle was
+substantially slowed or at a minimum not substantially accelerating away after
+completing a right-hand turn without corroborating officer testimony of a
+visual observation of a motor vehicle appearing in excess of the posted speed
+limit in the area, why would an experienced certified radar officer choose to
+take an action that deleted elevated readings, take a reading that reasonably
+would not satisfy a standard tracking history component, particularly when
+further readings were not necessary to substantiate the charge.
+37. i considered whether the
+radar readings were automatically deleted, accidentally deleted, were offered
+to be shown and were represented to be written, though i do not question the
+readings were not shown to the accused at the roadside and the officer’s
+evidence did evade the answer on point.
+radar detection devices
+38. it is illegal to operate
+a radar detection device. i believe the spirit of the legislation is to
+disallow these devices because it encourages drivers to exceed posted speed
+limits. the accused admitted to driving over the speed limit and it is a
+reasonable inference he was assured in not being detected driving over the
+speed limit as it was his practice to drive with a radar detector engaged and
+operating in his vehicle during the entire time his engine is running.
+39. it is common knowledge
+that a functional radar detection device would beep when it is engaged by a
+speed recording device's radar beam. the decision today in no way is a
+precedent that radar detectors are legal. the accused is not charged with
+having and operating an illegal radar detecting device, and the evidence was
+not considered as to whether the accused would be convicted of having an
+illegal speed detecting device.
+40. the decision today does
+not condone the use of illegal speed detecting devices, nor does it intend to
+send a message to the general public that the use of a speed detecting device
+is a viability when defending a stunt driving charge.
+dash cameras
+41. dash cameras and body
+cameras are standard and acceptable evidentiary elements that are regularly
+offered to corroborate evidence. the case before the court has a civilian
+producing dash and rear camera evidence that challenges the officer's viva voce
+evidence and is not taken to be less credible because it is produced by a
+civilian. the elevated speed recorded on the dash camera was further supported
+by the accused's vehicle being accelerated aggressively after the engine
+shifted into 4th gear, and i took judicial notice no evidence was led to
+establish the speed the accused's vehicle could reasonably be travelling based
+solely on the dash camera video. the dash camera corroboration of the accused's
+evidence was weighed in totality of the evidence beyond a reasonable doubt.
+speed measuring devices
+42. as to precedent, this
+case illustrates the importance of an officer's ability to produce a reading of
+a speed measuring device in writing as part of disclosure when the evidence
+supports a writing was undertaken when the evidence is rebutted. this case
+illustrates the importance of documenting speed recording device readings
+especially when considering the significant consequences of stunt driving
+convictions.
+43. as to equating the accused's
+qualification and training to operate a radar detection device to an officer's
+qualification and training to operate an in-cruiser speed measuring device, i
+find these are not one and the same. a civilian accused does not use the
+detection as evidence of supporting a charge. however, an officer's measuring
+evidence is used to support a charge against a civilian and accordingly, the
+standard is high to secure a conviction beyond a reasonable doubt. i disagree
+with the prosecution that the accused's evidence related to the radar detection
+device and proper function is to be rejected in its entirety.
+44. the accused responded to
+the prosecution's questions regarding the user's manual with a lay-person's
+acceptable responses as a general user. the accused was persuasive in a general
+knowledge of the unit, was knowledgeable regarding its function and his routine
+manner of checking operational capacity, and corrected the prosecution when the
+prosecution questioned on specifications that did not apply to the accused's
+unit. i did not find the argument that water on the accused's windshield after
+washing the car would or would not prevent the radar detector from alerting in
+this circumstance persuasively. the prosecution is tasked to prove beyond a
+reasonable doubt that water on the windshield did cause the detector to fault,
+and i am not satisfied on the totality of evidence on this point.
+perjury
+45.
+the prosecution
+put the officer to questions in response to anticipated assertions by the
+defense the officer has perjured his testimony and did not take elevated speed
+radar readings. to these assertions the officer did testify being 100% certain he
+took two elevated speed readings prior to taking a non-elevated speed reading.
+in this case, certainty and speed-reading evidence was weighted on a beyond a
+reasonable doubt standard. a charge of perjury is not before this court, however,
+any inconsistency or tenets of perjured testimony that could be inferred from
+the officer’s testimony on the whole of the evidence, those considerations
+including weighing dash and rear camera evidence as it relates to an absence of
+radar detection alerts, and any associated charter rights implications, are
+left to a higher court or appropriate tribunal or administrative body.
+ruling
+46. the issue here is not
+whether the accused exceeded the posted 80 speed limit, the question is how
+much above the posted 80 speed limit did the accused travel. after applying the
+three-prong test of
+r. v s. (w.d.)
+and after weighing all of the
+evidence i do accept, and even if i don't believe the accused’s evidence, if i
+am left in reasonable doubt about guilt, i must find not guilty.
+47. i found the evidence of
+the accused conor dooney consistent, forthright, and credible. he satisfied me
+beyond a reasonable doubt that he operated his motor vehicle above the posted 60
+km speed limit. he also satisfied me that he was operating an unlawful radar
+detecting device while operating his motor vehicle above the posted 60 km speed
+limit, however an associated radar detecting device charge is not before this
+court.
+48. i found the evidence of
+officer rooney not reliable, was rebutted and was weakened. this highly
+experienced and trained officer took a reading of a slowing and slow vehicle,
+and while the same slowed vehicle did not visually travel at a high rate of
+speed prior to the alleged third speed reading. the officer testified he had
+registered speeds of 128 km/h and 131 km/h. despite these elevated readings the
+officer contraindicated his testimony and mandated training requirements that
+he not take a radar speed reading on a vehicle that was not visually travelling
+at a high rate of speed. this highly trained and skilled radar operator would
+know that the rear facing antenna elevated speeds would delete when a subsequent
+front facing antenna speed reading was taken on the accused’s vehicle that was visually
+not travelling at a high rate of speed and consequentially not needed to make
+out this charge.
+49. i found the evidence of
+officer rooney unreliable on the whole of the evidence, and do not accept
+beyond a reasonable doubt that he recorded rear directional speeds of 128 km/h and
+131 km/h while the accused's vehicle was travelling southbound on hillcrest
+within a 60 km/hour zone. the officer was inconsistent in his testimony, and it
+is a reasonable inference he did deviate from the requirements of speed
+tracking as required by a certified radar operator. the officer was evasive in
+his evidence regarding whether the accused had asked to see the readings, and
+assertedly avoided referencing his notes to clarify his testimony on this
+point.
+50. further, there was
+inconsistency in the officer’s testimony in relation to the provision of the
+speed reading to the accused and whether a representation was made it would be
+shown at roadside because it was available and written, or whether it was known
+it was deleted, resulting in an alleged contraindication to the officer notes.
+as to any consideration of a lesser or included charge, in my view, it would be
+in error in law to impose a lesser charge conviction on evidence by an officer
+that i found unreliable, rebutted, and weakened. had the officer produced the
+alleged written reading notations he testified to have existed, or had not been
+inconsistent in testimony as to whether he had or did not write down the
+readings, as to whether he had or did not take elevated speed recordings,
+whether he did or did not tell the accused he would show him the readings, and
+whether he told the accused he made a mistake and deleted the readings. this
+point was further complicated by the accused's testimony the officer notes were
+inconsistent to the officer's testimony, which was not sufficiently
+counter-argued by the prosecution.
+51. these issues do not turn
+on whether the officer was mandated by the unit’s manual to show the readings,
+this turns on the inconsistencies in testimony raising a reasonable doubt. a
+device’s manual guides the court as to necessary steps and when undertaken can
+satisfy the court an alleged speed measuring capacity indicates the unit was in
+full working order at the time of the readings. a device manual’s contents regarding
+disclosure of readings to an accused do not bind this court as precedent.
+52. the prosecution is tasked
+to prove guilt beyond a reasonable doubt. the prosecution did not establish the
+essential element of elevated speed required to make out a stunt driving or
+speeding charge beyond a reasonable doubt. the accused's admission to driving
+in a range above the speed limit in this instance will not produce an included
+charge conviction.
+53. considering the totality
+of the evidence on the beyond a reasonable doubt standard it is my decision
+that the prosecution has not proven the charge of stunt driving, and an
+included charge conviction is not warranted in this circumstance, and i find
+you mr. dooney, not guilty.
+54. this court finds that
+where speed measuring evidence lacks reliability due to successful rebuttal, an
+officer's viva voce testimony may nonetheless satisfy the
+beyond-reasonable-doubt standard when corroborated by speed readings that are:
+(1) disclosed to the accused, and/or (2) supported by electronic recordings or
+other reliable documentary evidence.
+55. the court further finds this
+ruling establishes stare decisis precedent with binding common law effect,
+subject to the superior binding authority of a higher court.
+decision released june 12, 2025, in norfolk county.

@@ -1,0 +1,334 @@
+source url: https://www.canlii.org/en/on/oncj/doc/2025/2025oncj273/2025oncj273.html
+
+warning
+the court hearing this matter directs that the following notice be
+attached to the file:
+a
+non-publication and non-broadcast order in this proceeding has been issued
+under
+subsection 486.4(1)
+of the
+criminal code.
+this subsection and
+subsection 486.6(1)
+of the
+criminal code,
+which is concerned with the
+consequence of failure to comply with an order made under
+subsection 486.4(1),
+read as follows:
+486.4 order
+restricting publication
+— sexual offences.
+— (1) subject to subsection (2), the presiding judge or justice
+may make an order directing that any information that could identify the victim
+or a witness shall not be published in any document or broadcast or transmitted
+in any way, in proceedings in respect of
+(
+a
+) any
+of the following offences:
+(i) an
+offence under section 151, 152, 153, 153.1, 155, 160, 162, 162.1, 163.1, 170,
+171, 171.1,172, 172.1, 172.2, 173, 213, 271, 272, 273, 279.01, 279.011, 279.02,
+279.03, 280, 281, 286.1, 286.2, 286.3, 346 or 347, or
+(ii) any
+offence under this act, as it read from time to time before the day on which
+this subparagraph comes into force, if the conduct alleged would be an offence referred
+to in subparagraph (i) if it occurred on or after that day; or
+(
+b
+) two
+or more offences being dealt with in the same proceeding, at least one of which
+is an offence referred to in paragraph
+(a).
+(2)
+mandatory
+order on application
+— in proceedings in respect of the offences referred
+to in paragraph (1)(
+a
+) or (
+b
+), the presiding judge or justice
+shall
+(
+a
+) at
+the first reasonable opportunity, inform any witness under the age of eighteen
+years and the victim of the right to make an application for the order; and
+(
+b
+) on
+application made by the victim, the prosecutor or any such witness, make the
+order....
+486.6 offence
+— (1) every person who fails to comply with an order made under any
+of
+subsections 486.4(1)
+to (3) or subsection 486.5(1) or (2) is guilty of an
+offence punishable on summary conviction.
+ontario court of justice
+citation:
+r. v. z.k.,
+2025 oncj 273
+date: 
+2025 05 16
+court
+file no.: toronto 4810 998 23 48127186-00
+between:
+his
+majesty the king
+— and —
+z.k.
+— and —
+a.a.
+before
+justice d. moore
+heard
+on april 23 and may 15, 2025
+ruling
+re: application for order appointing counsel released on may 16, 2025
+a. gibbons........................................................................................... counsel
+for the crown
+d. costa.................................................................................... counsel
+for the accused z.k.
+j. khou.................................................................................... counsel
+for the applicant a.a.
+moore j.:
+
+a.a. is the complainant/respondent in an application
+by z.k. pursuant to
+s. 278
+of the
+criminal code
+to introduce text/whatsapp
+messages in z.k.’s possession at his trial on the charges of sexual assault (2
+counts) and assault.
+
+on january 21, 2025 i signed an order on consent
+of both the crown and z.k. appointing ms. khou as counsel for a.a. to represent
+her at a stage 2 hearing purportedly pursuant to
+s. 278.94
+of the
+criminal
+code.
+
+on february 18, 2025 i granted, with the consent
+of the crown, z.k.’s application for a hearing pursuant to s. 278.93 and
+ordered that the matter would move on to a stage 2 s. 278.94 hearing.
+
+the stage 2 hearing is currently scheduled to be
+heard may 27, 2025.
+
+on february 23, 2025 ms. khou emailed written
+submissions on the stage 2 application as well as a request for a further order
+appointing her as counsel to supplement or clarify my january 21 2025 “order”. 
+while the crown was copied on this email counsel for the defence was not. my judicial
+assistant advised the parties that as i am the seized trial judge it would not
+be appropriate for me to make an
+ex parte
+order and copied mr. costa on
+that communication.
+
+mr. gibbons for the crown responded that now mr.
+costa had been provided with a copy of the draft order the crown joined in ms.
+khou’s request and asked that i sign the order or request that the matter be
+brought before me for submissions. i directed the latter and requested that
+submissions be made on 2 areas: (1) what was my jurisdiction to make the order
+sought and (2) if i had jurisdiction why was a second order required. i initially
+heard submissions on those issues on april 23. i expressed that the submissions
+had not satisfied me that i had jurisdiction to make the order sought and i
+invited the parties to adjourn the matter to make inquiries as to (a) other
+possible avenues for a.a. to get funded counsel without an order of the court
+(b) whether other interested parties wished to make submissions (in particular
+the crown law office – civil or legal aid ontario) and also to do further
+research to make additional submissions.
+
+on april 25 i received additional submissions
+from ms. khou and was provided with justice latimer’s decision in
+r. v.
+b.c.s.
+(2019) oncj 467 in support of those submissions.
+
+on may 15 i heard further submissions and
+dismissed the application with brief oral reasons and indicated i would
+supplement those reasons with written more fulsome reasons. these are those
+reasons.
+
+i preface my ruling by stating unequivocally
+that i am completely in favour of complainant/respondents on 276 and 278
+applications being represented by counsel. they clearly have the statutory
+right to standing and to be represented by counsel, but in addition to that i
+have generally found such representation to be of the highest quality and of
+great assistance in deciding such applications.
+
+my concern is whether or not i have jurisdiction
+to make the order sought. i, and i am sure many if not most of my colleagues,
+have been signing similar orders for several years now. while i am uncertain
+of the entire history of such orders it appears that these appointments were
+simply added to the procedures in place for s. 486.3 and
+amicus curiae
+appointments made by the court whereby pursuant to an agreement between the
+attorney general and legal aid ontario the attorney general funds the cost of
+these appointments but legal aid ontario administers them. it is possible that
+the procedure originated with justice latimer’s decision in
+r. v. b.c.s.
+but i am not certain that this is the case.
+
+the source of jurisdiction is clear in s. 486.3
+and
+amicus
+appointments. the
+criminal code
+in the case of the
+former and the centuries-long recognized inherent jurisdiction of the court in
+the latter. the opposite is the case in respect to the order sought here. the
+order i signed on january 21 purported to be made pursuant to s. 278.4, but s.
+278.4 does not provide that the court may appoint state funded counsel for the
+complainant/respondent. it only provides in s. 278.4(3) that the trial judge
+must make sure the complainant/respondent is provided notice of their right to
+be represented by counsel.
+
+the right to be represented by counsel at a
+proceeding does not require the provision of state-funded counsel. an accused
+person has a well-established right to counsel at their trial both at common
+law and pursuant to the
+charter, but that does not mean that i have
+jurisdiction to appoint state funded counsel for an accused person. where an
+accused person wishes state funded counsel to be appointed by the court they
+must bring an application pursuant to s. 7 and 24(1) of the
+charter
+under the procedure outlined in
+r. v. rowbotham
+(1988),
+1988 canlii 147 (on ca), 41 c.c.c. (3d)
+1 (ont.c.a.) and somewhat clarified by caselaw in the decades since. on such
+an application an accused must show (1) that they have exhausted all avenues
+available to them to obtain legal aid (2) that they lack sufficient funds to
+obtain counsel privately and (3) representation by counsel is essential to a
+fair trial (see for example
+r. v. tang,
+2015 onca 470 (canlii), o.j. no. 3366, at para.
+9, leave to appeal to s.c.c. refused s.c.c.a. no. 486).
+
+in
+r. v. b.c.s.
+justice latimer was presiding
+as a youth court judge and dealing with a 17 year old complainant/respondent and
+a defendant who was also a young person. he found that he had jurisdiction to
+make the order based on his “inherent procedural jurisdiction to make orders
+that are practically necessary to ensure that the proceedings they are
+statutorily mandated to conduct are administered justly and fairly.” in
+support of this jurisdiction he relied on the decision of the supreme court of
+canada in
+ontario v. criminal lawyers’ association
+(2013),
+2013 scc 43 (canlii), 300 ccc (3d)
+137. but it is important to note that in finding statutory courts had the
+jurisdiction to appoint
+amicus, it placed important constraints on the
+exercise of that jurisdiction:
+thus,
+orders for the appointment of
+amici
+do not cross the prohibited line
+into the province's responsibility for the administration of justice, provided
+certain conditions are met. first, the assistance of
+amici
+must be
+essential to the judge discharging her judicial functions in the case at hand.
+second, as my colleague fish j. observes, much as is the case for other
+elements of inherent jurisdiction, the authority to appoint
+amici
+should
+be used
+sparingly and with caution, in response to
+specific and exceptional circumstances
+(para. 115).
+routine appointment of
+amici
+because the
+defendant is without a lawyer would risk crossing the line between meeting the
+judge's need for assistance and the province's role in the administration of
+justice.
+
+
+i do not believe that justice latimer meant for
+his decision to be relied on as authority that such orders should be made in
+every case where the complainant/respondent has standing. rather he had a 17
+year old complain­ant/respondent who did not yet have counsel and a motion date
+approximately a month away. special protections and orders for minors,
+including the provision of state-funded counsel have a long history, including the
+office of the children’s lawyer in family proceedings, litigation guardians in
+civil proceedings, and perhaps most relevant to the issue before justice
+latimer, s. 25 of the
+youth criminal justice act.
+
+in any event a.a. is not a minor and i do not
+find that
+r. v. b.c.s.
+provides me with authority for jurisdiction to appoint
+state funded counsel for complainant/respondents as part of my inherent
+procedural jurisdiction in this case. in an appropriate case i might have
+jurisdiction under the
+charter
+to do so analogous to the
+rowbotham
+procedure or to use my inherent jurisdiction to appoint
+amicus
+to assist
+me with respect to the complainant/respondent’s interests but i do not have a
+charter
+application before me and no one has suggested that an
+amicus
+appointment is necessary in this case.
+
+the submissions of the crown and a.a. in this
+case are essentially that these orders should be made automatically upon the
+complainant/respondent being granted standing. indeed past practice has simply
+been to provide a draft order without a supporting application or affidavit. while
+that has certainly been past practice (including my own) having looked into the
+matter more thoroughly it is not a practice i can continue to engage in.
+
+it was certainly open to parliament when they
+enacted s. 278.4 to give courts the jurisdiction to order state funded counsel in
+all cases as they did in s. 486.3. parliament did not do so. the attorney
+general is certainly capable of providing state funded counsel on whatever terms
+it wishes. while these orders have become common in the past few years, for
+many years state funded counsel was provided to complainant/respondents on
+o’connor
+applications without court orders. there is no need for a court order to compel
+the attorney general to do something they are apparently willing to do. the
+attorney general could simply direct that funded counsel be provided whenever a
+complainant/respondent is provided notice of a proceeding pursuant to s. 486.4
+and let legal aid ontario administer it. the legislature could enact
+legislation expressly giving courts this authority, it has not done so. the
+executive branch could also expressly give courts this authority, it has not
+done so.
+
+having complainant/respondents represented by
+counsel is extremely beneficial to everyone involved in the proceeding. thankfully
+it appears ms. khou is going to continue representing a.a. i note that this
+ruling only applies to the application to grant an additional order and does
+not apply to my january 21, 2025 order since no one has applied to set that
+order aside.
+
+although not strictly necessary given my ruling,
+even if i had been convinced that i had jurisdiction to make the order sought i
+would not have as it is unnecessary. essentially it was argued that the
+wording of the order was insufficient as it did not explicitly refer to s. 276
+issues. i was provided with previous instances in which legal aid ontario
+restricted payment in the past. in my view my previous order was for funding
+counsel for representation on the application before me. the description was
+simply to identify the application. there is only one application before me. 
+it is possible (although not likely) that dozens of different legal issues
+could arise. there is absolutely no reason for a new order each time a new
+issue arises. it might be different if there was a new application with a new
+stage 1 ruling, but that is not the case here.
+released: may
+16, 2025
+signed:
+justice d. moore
+
+[emphasis added] at para. 47

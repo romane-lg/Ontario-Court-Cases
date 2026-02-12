@@ -1,0 +1,1158 @@
+source url: https://www.canlii.org/en/on/oncj/doc/2025/2025oncj445/2025oncj445.html
+
+ontario court of justice
+citation:
+r. v. chow, 2025 oncj 445
+date: 
+2025 08 28
+court
+file no.: toronto / 24-48103094
+between:
+his
+majesty the king
+respondent
+—
+and —
+rayquoi chow
+applicant
+before
+justice lori anne thomas
+heard
+on june 13, 2025
+oral
+reasons for judgment released on july 29, 2025
+written
+reasons for judgment released on august 25, 2025
+revised
+written reasons for judgment released on august 28, 2025
+roots ghadia................................................................................ counsel
+for the applicant
+michael wilson......................................................................... counsel
+for the respondent
+thomas j.:
+
+rayquoi chow, the applicant, is charged with 10
+offences from january 3, 2024, including robbery, aggravated assault, dangerous
+operation of a motor vehicle causing bodily harm, discharging a firearm with
+intent to endanger life, and various charges relating to possession and
+careless storage of a firearm, with an altered serial number.
+introduction
+
+mr. chow was charged on january 11, 2024. the
+trial was scheduled to proceed august 11-15, 2025, that is 19 months and 4 days
+after the charge; otherwise calculated as 19.1 months.
+
+the parties agreed that there was a delay in disclosure.
+however, the impact of the delayed disclosure was an issue for the application.
+
+the other issues were the impact of the delay on
+the applicant’s silent reservation of election and whether the days the defence
+was not available, after an adjournment precipitated by the disclosure delay, are
+defence-only delay.
+
+further, if the silent reservation of the
+election is not a defence delay, then the question is whether it qualifies as
+an exceptional circumstance.
+summary of findings
+
+the application was dismissed orally, with written
+reasons to follow.
+
+despite the crown and police’s inexplicable
+delay in providing disclosure, i found both parties equally responsible for
+failing to follow up when it should have been evident that essential disclosure
+was still missing.
+
+i also found that the defence contributed to
+delay by failing to make an election as requested, required, and promised.
+further delay arose when defence counsel was unavailable for trial dates,
+despite having elected to proceed to trial.
+
+alternatively, the defence’s silent reservation
+of its election constituted an exceptional circumstance that was unforeseeable
+by the crown. although the crown took reasonable steps to mitigate the
+resulting delay, it was unsuccessful due to defence counsel’s unavailability.
+
+this case underscores the importance of holding
+timely elections, managing proactive disclosure effectively, and adhering to
+established scheduling protocols. strengthening administrative oversight and
+enforcing practice directions may reduce delay and improve trial efficiency in
+future cases.
+the legal framework
+
+the supreme court in
+jordan established a
+presumptive ceiling for reasonable delay in provincial court trials at 18
+months and in superior court trials at
+30 months. once this presumptive
+ceiling has been exceeded, the matter must be stayed upon application. in
+varennes,
+the court recently provided a succinct explanation of when a matter should
+be stayed due to an 11(b)
+charter
+violation.
+
+in a general sense, establishing a breach of s. 11(b) first
+requires a claimant to demonstrate that the total delay from the charge to the
+actual or anticipated end of trial (minus defence delay) exceeds the
+presumptive ceilings of 18 months or 30 months established by this court
+in
+r. v. jordan,
+2016 scc 27, 1 s.c.r. 631. then, the
+crown can rebut the presumptively unreasonable delay by establishing there were
+exceptional circumstances (para. 47).
+
+defence delay is either delay waived by the defence or solely
+caused by the conduct of the defence. this does not apply to legitimate efforts
+to make full answer and defence. however, it can also apply to illegitimate
+actions (such as delay tactics, frivolous applications, and inaction) and
+instances where the court and the crown were prepared to proceed, but the defence
+was not.
+
+
+an exceptional circumstance was described as:
+exceptional circumstances lie outside the crown’s control in
+the sense that (1) they are reasonably unforeseen or reasonably unavoidable,
+and (2) crown counsel cannot reasonably remedy the delays emanating from those
+circumstances once they arise. so long as they meet this definition, they will
+be considered exceptional. they need not meet a further hurdle of being rare or
+entirely uncommon.
+
+
+the exceptional circumstance for consideration in this case was a
+discrete event, that is, an event or circumstance that was reasonably
+unforeseeable or unavoidable and would be deducted to the extent that it could
+not be reasonably mitigated.
+
+for the crown to rely on an exceptional circumstance, it must
+show it took reasonable and available steps, even if unsuccessful, to address
+the problem before the matter exceeded the delay ceiling.
+
+in summary, the
+jordan
+framework requires:
+1.
+calculating
+total delay from charge to anticipated end of trial.
+2.
+deducting any
+delay attributable to the defence.
+3.
+if net delay
+exceeds the ceiling (18 months for ocj), the delay is presumptively
+unreasonable.
+4.
+the crown may
+rebut this presumption by proving exceptional circumstances
+positions of the parties
+
+the applicant submitted that there were no
+discrete events or exceptional circumstances that justified delay, nor any
+defence delay. further, the delay was caused solely by delayed disclosure. the
+applicant submitted that no delay should be attributable to the defence for failing
+to elect a trial in the superior court in a timely fashion, and then electing
+to have a trial in the ontario court of justice, as he attributed this decision
+to delayed disclosure.
+
+further, the applicant relied on
+r. v. godin,
+2009 scc 26, in his submission that the defence’s unavailability cannot be
+attributed as defence delay, since the adjournment of the preliminary hearing
+was caused by crown delay.
+
+the respondent submitted that the following
+periods should be considered as defence delay:
+(a)
+a portion of the intake period during which the
+crown submits no movement occurred;
+(b)
+the defence’s unavailability for the first
+scheduled trial; and
+(c)
+some or all of the delay between the last date
+offered for a preliminary hearing and the anticipated conclusion of the trial.
+
+alternatively, the delay caused by the
+applicant’s delayed election should be treated as an exceptional circumstance.
+
+i rejected the crown’s submissions regarding the
+attribution of delay to the defence for items (a) and (b). the arguments
+presented did not sufficiently establish that these periods were solely caused
+by defence conduct or constituted delay tactics. accordingly, they do not meet
+the threshold for defence-attributable delay.
+
+however, i accepted that the defence bears some
+of the onus for the time period after the preliminary hearing and before the
+anticipated conclusion of the trial, as well as for other periods.
+
+i found that both parties were partly
+responsible for their mutual lack of attention to the outstanding disclosure
+until a couple of days before the preliminary hearing was scheduled to commence.
+furthermore, i found that delay should be attributed to the defence, as they
+were not available for the trial in 2025 and neglected to schedule it after mr.
+chow signed a notice of election for an ocj trial. as such, on july 29, 2025, i
+dismissed the application with brief oral reasons.
+background and procedural history
+
+
+mr. chow was arrested and charged on january 11,
+2024. he was released 5 days later on a recognizance. since his first
+appearance, ms. ghadia has been his counsel.
+
+on february 7, 2024, ms. ghadia’s office
+requested disclosure but was advised that a scope file had not been created and
+was instructed to follow up in a month. on the same date, a designation was
+signed and filed with the court.
+
+at the february 27, 2024, appearance, it was
+noted that ms. ghadia spoke with crown counsel, mr. ho, and they agreed to
+adjourn the matter to discuss disclosure and hold a crown pre-trial (cpt).
+
+at the april 23, 2024, appearance, ms. seymour,
+then counsel with ms. ghadia’s office, stated that disclosure had been
+requested four times, but nothing had been received.
+
+the court suggested a 3-month
+adjournment to get disclosure, and it was adjourned accordingly in the absence
+of any representative for the defence.
+
+by may 17, 2024, defence counsel’s associates
+left the defence bar, which added to the workload for ms. ghadia and reduced
+her availability.
+
+initial disclosure was received on april 29,
+2024. substantial disclosure was provided to the defence on may 17, 2024.
+
+on may 17, 2024, the crown inquired whether the
+defence was electing to proceed in the ontario court of justice (ocj) or the
+superior court of justice (scj). there was no response to the question, as ms.
+ghadia was focused on the disclosure.
+
+on june 18, 2024, a detailed disclosure request
+was sent to the crown, which responded on june 19, 2024, identifying the
+requested items and specifying which items had been previously disclosed, along
+with the dates of disclosure.
+
+the assigned crown, mr. wilson, missed the june
+17, 2024 cpt, but counsel agreed that the matter should proceed to a judicial pre-trial
+(jpt). the agreed-upon date for the jpt was july 9, 2024.
+
+on july 2, 2024, further disclosure was sent via
+a usb drive, which included some of the requested videos.
+
+at the july 9, 2024 jpt, it was noted that there
+was significant missing disclosure, and the defence was electing to proceed by
+trial in the ocj. the jpt judge stated the following on the jpt form:
+•
+election for ocj trial to be filed asap
+[emphasis added];
+•
+there was a long list of outstanding disclosure
+sent to the crown, but it was being vetted to be disclosed
+shortly
+[emphasis
+added];
+•
+there would be (unnamed) 8-10 witnesses,
+including the complainant and three witnesses from the scene;
+•
+one expert for fingerprints, whose evidence
+would not be admitted by the defence;
+•
+the defence intended to bring a ss. 10(b) and
+24(1)
+charter
+application, and “depending on trial dates, may also bring
+an 11(b) application”;
+•
+a further jpt was “
+only required if issues
+with disclosure or 11b
+time est [sic] needed” [emphasis added];
+and
+•
+the crown believed 5 days was necessary, while
+the defence proposed 7 days.
+
+on july 10, 2024, the seven-day trial was
+scheduled for february 24-28 and march 3-4, 2025. it was noted that the defence
+was not available for february 10-23, 2025,
+when the crown and the court were available. in the trial scheduling form
+(tsf), it was confirmed that the accused will attend the next court date (july
+16, 2024) and make their election.
+
+on july 16, 2024, defence informed the crown,
+then the trial coordinator, that the applicant wished to have a preliminary
+hearing, which would require only two days to conduct. the trial coordinator
+notified the parties to attend the judicial intensive case management court
+(jicmc) to obtain judicial authorization. though jicmc operated daily, instead
+of attending the court, the defence requested a further jpt with the original
+jpt judge. august 28, 2024 was selected as the second jpt date.
+
+the august 28, 2024 jpt form noted the following:
+•
+outstanding disclosure: 17 officer notes, typed
+notes for 2 officers, surveillance video from 15 addresses, photos, bwc x 2,
+two icc videos, 911 call and video statements of 4 civilian witnesses;
+•
+now, only the complainant would be testifying;
+all other evidence would be entered through a s. 540(7) application;
+•
+the defence indicated it wanted 2-3 officers
+(unnamed in the jpt form), but the crown would make them available for
+cross-examination;
+•
+the statement of issues to be filed by the
+end of october 2024
+[emphasis added];
+•
+defence to make election asap
+[emphasis added];
+•
+the same comment about a further jpt for
+disclosure or 11(b) remained; and
+•
+the crown believed 2.5 days was necessary, while
+the defence proposed 2 days, and 2.5 days was noted as the estimated time for
+the preliminary hearing.
+
+in the september 12, 2024 tsf, it was noted that
+the accused would attend on the next court date (september 17, 2024) and make
+their election on the record. that did not happen. instead, the agent for the
+defence simply noted the hearing dates for the record. the matter was adjourned
+to the preliminary hearing date at the suggestion of the crown in court.
+
+the notice of election was not filed in court
+upon setting the preliminary hearing date, as required by the may 8, 2023
+practice direction. nor was it filed by
+the end of october 2024, as indicated on the jpt form.
+
+further disclosure was provided on september 5,
+october 11, 17, 25 and november 25, 2024. there was no documented communication
+from the defence after the preliminary hearing was scheduled until february 24,
+2025.
+
+both counsel were entrenched in a homicide trial
+that commenced on january 13, 2025, initially anticipated to conclude on
+january 31, 2025. then, in december 2024, the conclusion date was modified to
+february 7, 2025. unexpectedly, the jury returned a verdict on february 23,
+2025. it was not made clear why it extended another few weeks, but it does
+explain why neither counsel exchanged correspondence until february 24, 2025.
+
+once february 24 arrived, there was a flurry of
+activity between the defence and the crown. on february 24, 2025, the defence
+sent a pared-down version of its june 2024 request for outstanding disclosure.
+there were some errors in the request, as it included some items which were
+received on september 5 and october 25, 2024, such as the body worn camera
+videos.
+
+the crown responded after hours on february 24,
+advising which items had already been disclosed and which were pending. the
+crown disclosed a significant amount of disclosure on february 25, 26 and 28,
+2025.
+
+on february 25, 2025, mr. chow signed a notice
+of election for a trial in the ocj, waiving the requirement for a preliminary
+hearing. mr. chow’s direction for a trial was not communicated to the crown,
+nor was it filed with the court at that time.
+
+on february 27, 2025, at the beginning of the
+first day of the preliminary hearing, defence counsel, after advising of the
+tranche of disclosure received on the eve of the preliminary hearing, requested
+an adjournment of the preliminary hearing, while the crown opposed. defence counsel
+told the court she would “have to reevaluate for [her] client’s interest …
+[she] would have to decide whether or not [they needed] to convert this back to
+a trial because it’s taken so long”. counsel stated that her office would have
+been able to prepare the disclosure had it been received five weeks earlier.
+
+when the scheduled preliminary hearing judge, justice
+crosbie, realized that the election had not been made, she confirmed with defence
+counsel:
+“mr. clerk informs me that there's been,
+against what i understand to be the rules of the court to be … no election.
+that mr. chow was not put to his election is that your understanding, counsel?”
+to which, defence advised the court
+that she believed that was the case, that mr. chow was never put to his
+election at any appearance; however, mr. chow did not attend any court
+appearance, and the agent appeared by designation. furthermore, defence counsel
+confirmed that the notice of election was never filed. counsel did not inform
+the court that mr. chow had directed a trial in the ocj just days earlier.
+
+justice crosbie did not grant the defence’s
+request for an adjournment of the preliminary hearing but did grant an
+adjournment until the 3
+rd
+scheduled day, march 3, 2025. justice
+crosbie directed counsel to seek three continuation days from the trial
+coordinator, whether they be in front of her honour or another judge. justice
+crosbie agreed to move non-presiding days to accommodate the matter. finally,
+the judge suggested that they schedule another date before her or the jpt judge
+to have mr. chow put to his election, as he needed time to consider his options
+and receive advice from counsel.
+
+
+at the march 3
+rd
+appearance, defence
+counsel indicated she did not have an opportunity to review the disclosure with
+her client and have a meeting with him. therefore, the defence was unable to
+proceed that day and sought an adjournment due to its inability to review the
+disclosure and prepare for the preliminary hearing.
+
+there was a discussion about the possibility of
+defence counsel being available on may 26-28, 2025. ultimately, she was unable
+to do so due to other court obligations. as such, her first available date was
+august 11, 2025. to clarify, there were no dates offered or could be offered
+where defence counsel would have been available to conduct a preliminary
+hearing or a trial after march 3, 2025.
+
+the court granted the adjournment, commenting on
+the concern about delay and mr. chow's failure to make his election. justice
+crosbie agreed to manage the case and directed counsel to seek at least three
+days for a preliminary hearing or trial, if necessary.
+
+on march 5, 2025, the legal secretary from the defence
+counsel’s office advised the crown that they would be setting a trial, but only
+five days were required, not the original seven days.
+
+in the march 5, 2025, tsf, the notice of
+election was noted as having been received for the first time. only the defence
+was not available for the dates offered by the court: june 9-12, 16-20, 25 or
+july 7-11, 2025.
+
+the trial was scheduled for the first available date for the defence, from
+august 11 to 15, 2025. the tsf was silent as to whether any other earlier dates
+were available. as such, it is presumed these were the only dates available to
+the court.
+
+on march 19, 2025, the parties returned before
+justice crosbie to discuss how the case would proceed. defence counsel
+indicated that there were four hours of video footage, which she had reviewed
+with her client. additional disclosure was received just before the appearance.
+however, defence counsel stated, “i can advise the court that mr. chow has, in
+fact, made an election for a trial at the ontario court of justice because this
+has now taken considerably longer than he anticipated, in light of the
+inability for us to start the preliminary hearing on the last occasion.”
+
+
+defence counsel advised that only five days were
+needed, as she was prepared to work on admissions and agreed statements of
+facts. further, she advised that there was a potential
+carosella s. 7
+application,
+which could be heard in a blended
+voir dire.
+she was clear that the
+application would not add to the five days. the crown stated he presumed the
+defence was no longer bringing a section 10(b)
+charter
+application. in
+response, defence counsel was silent, and it was assumed that a 10(b) application
+was no longer contemplated for the trial.
+
+
+in adjourning the matter to the updated
+scheduled trial dates, august 11-15, 2025, justice crosbie advised the parties
+that if anything were to come up or be anticipated to affect the trial or the
+trial length, they are to address the matter before her or the jpt judge in
+advance, since they had already lost three days of court time. justice crosbie warned
+that if further dates were needed, they would likely be scheduled in september
+2025, at the earliest.
+there
+was no further request to see justice crosbie or the jpt judge before filing
+this 11(b) application on may 1, 2025.
+analysis of delay
+i)
+defence’s unavailability for initial trial dates
+
+when the matter was initially set down for
+trial, the defence was not available between february 10-20, 2025. the crown
+submitted that this should be deducted as defence delay.
+
+i found that the crown completed its disclosure
+for the preliminary hearing by the evening of february 25, 2025, while almost
+complete disclosure was not provided until march 17, 2025.
+
+given that the incident occurred in a parking
+lot covered by various surveillance videos, i found that four hours of relevant
+video footage were provided on february 25, which necessitated a thorough
+review. however, i accepted that just under 14 hours of surveillance was
+disclosed and would need, at a minimum, a cursory review.
+
+the crown did not present any evidence on its
+ability to disclose these videos earlier than february 25, 2025.
+
+both crown and defence counsel on this matter
+were in a murder trial that extended until february 23, 2025. while another
+crown may have been assigned, it would have been unlikely to happen once the
+murder trial they were in extended from the expected end date of february 7 to
+february 23.
+
+given these findings, i did not find that the
+period between february 10 and 24, 2025, should be listed as defence delay,
+since the crown would not have been in a position to proceed during this time.
+ii)
+intake period (february 27, 2024 – may 17, 2024)
+
+for this period, i disagree with the crown’s
+submission that the defence did not move to progress the matter forward, and
+therefore, this time period should be distributed equally.
+
+at times, it was the crown’s office that was inattentive
+or incapable of fulfilling its duty to provide disclosure. initially, the applicant
+had to follow up with the crown to have the matter proceed.
+
+while the crown pointed to an opportunity for
+the defence to ascertain who the assigned crown was, the crown was already
+aware that ms. ghadia was counsel of record, given her presence at the bail
+hearing and her letter and designation provided on february 7. while the crown
+was not assigned initially, mr. wilson was assigned almost immediately after
+the disclosure request, as outlined below:
+•
+on february 7, 2024, the defence requested
+initial disclosure and filed a designation with the court.
+•
+on february 23, 2024, the crown’s office
+responded that the matter had not been assigned and the defence should “check
+back periodically.”
+•
+on february 26, 2024, michael wilson was assigned,
+and a charge screening form was completed that day. it was not communicated to
+the defence that a crown had been assigned.
+•
+on february 27, 2024, counsel for the defence
+and crown counsel in court, gabriel ho, had a brief discussion.
+
+without evidence from mr. ho or comments in the
+transcript, the respondent assumes that the defence “would have been advised of
+the name of the assigned crown at that time”. however, i could not make this
+assumption due to the lack of evidence.
+
+however, the respondent does not indicate why
+mr. wilson or someone from the crown’s office did not reach out to the defence
+to advise that he was the assigned crown. it is incumbent upon both parties to
+take proactive steps to ensure timely disclosure, particularly when a request
+has been made and an update is available. in this case, the crown should have
+been proactive in reaching out to the defence, given that the update on the
+assigned crown was made within 3 days of the request and was likely
+precipitated by the disclosure request.
+
+there is no merit to the suggestion that this
+period of delay should be shared between the parties. however, it is appropriate
+for the later period.
+iii)
+joint neglect of disclosure obligations (november
+2024 – february 2025)
+
+in
+zahor,
+the court found that the
+defence cannot be complacent in following up on disclosure and further found
+that apportioning the delay due to complacency for both parties was not an
+error. justice coroza quoted
+r. v. dixon,
+at para
+37:
+the fair and efficient functioning of the
+criminal justice system requires that defence counsel exercise due diligence in
+actively seeking and pursuing crown disclosure. the very nature of the
+disclosure process makes it prone to human error and vulnerable to attack. as
+officers of the court, defence counsel has an obligation to pursue disclosure
+diligently. when counsel becomes or ought to become aware, from other relevant
+material produced by the crown, of a failure to disclose further material,
+counsel must not remain passive. rather, they must diligently pursue
+disclosure.
+
+i found that within the period after setting the
+preliminary hearing date until both counsel concluded a homicide jury trial in
+february 2025, days before the scheduled preliminary hearing, the defence was inattentive
+in following up on their june 2024 disclosure request, and the crown was
+similarly remiss in fulfilling its obligation regarding the outstanding
+disclosure. both parties’ inaction led to the adjournment of the preliminary
+hearing. the lack of follow-up is notable given the systems in place by both
+offices.
+a)
+role of
+administrative staff in delay
+
+defence counsel employed two clerks, a law clerk
+and a disclosure clerk, who request and organize the disclosure for her review.
+the two clerks’ tasks allow her to prepare for a matter in only a few days. indeed,
+the requests and details were always sent from her clerks. their jobs are vital,
+given her demanding practice.
+
+no explanation was provided regarding the
+absence of follow-up by the clerks after receiving disclosure in the fall of
+2024. the respondent’s record clarified the disclosure timeline, which was not
+fully reflected in the applicant’s material, as the application’s materials did
+not reference the disclosure received in fall 2024, which could have
+contributed to an incomplete picture of the disclosure timeline.
+
+
+considering the disclosure clerks’
+responsibilities, it would be reasonable to expect that a follow-up request had
+been initiated before the end of december 2024. this expectation is further
+reinforced by the fact that, by that time, it was anticipated that both ms.
+ghadia and mr. wilson would be engaged in a homicide jury trial from january 12
+to february 7, 2025, leaving only a three-week window for trial preparation.
+
+according to defence counsel’s submission, had
+the disclosure been received five weeks earlier, her clerks would have prepared
+a trial binder for her to review in preparation, leaving no reason for the
+preliminary hearing to be delayed.
+
+although it was not explained how the
+outstanding disclosure was necessary to review in preparation for the
+preliminary hearing, it contained some relevant information that ultimately
+became the basis for most of the trial.
+
+like the defence, the crown also has a legal
+administrative assistant who was responsible for disclosure on her assigned criminal
+files, which includes “requesting, processing and releasing disclosure to
+counsel and/or accused persons”.
+
+despite this obligation, there was no explanation why so many disclosure items were
+not disclosed until february 25-27, 2025.
+
+
+despite both parties having designated personnel
+to manage disclosure, there was no activity between november 25, 2024 and
+february 24, 2025. however, once ms. ghadia and mr. wilson realized the issue,
+both were actively involved in having the disclosure provided to the defence. but
+for the murder trial, the disclosure issue likely would not have been resolved
+so close to the preliminary hearing date, as the lawyers were unaware that
+their respective administrative staff had ceased to follow up on the
+disclosure.
+
+moreover, the parties were directed by the jpt
+judge to address any disclosure issues in advance of the hearing; this was not
+done, nor is there evidence that it was brought to the attention of the lawyers
+until february 24, 2025.
+
+as such, i found that between mid-december 2024
+and february 23, 2025, the delay due to inactivity should be split among the
+parties, due to inaction by the administrative staff, who are an extension of
+the defence and crown.
+
+given that both crown and defence counsel rely
+on administrative staff to manage disclosure and scheduling, their inaction
+must be treated as an extension of counsel’s conduct. the failure to follow up
+on outstanding disclosure between november 2024 and february 2025 reflects a
+systemic lapse in diligence, not merely clerical oversight.
+
+the absence of follow-up by administrative staff,
+despite known outstanding items and a narrowing trial window, constitutes a
+failure of diligence. this failure contributed directly to the adjournment of
+the preliminary hearing and undermined the efficient use of court resources;
+therefore, it must be taken into account when attributing delay.
+
+as such, i found that between mid-december 2024
+and february 23, 2025, the delay caused by a lack of attention should be split
+among the parties. as it should have been apparent to the administrative staff,
+pertinent disclosure remained outstanding for at least three weeks after the
+last batch of disclosure and before the end of the year.
+iv)
+other defence actions
+a)
+failure to elect and procedural consequences
+
+in
+jordan,
+the court accepted that
+accused persons may re-elect to proceed from a superior court trial to a
+provincial court trial for legitimate purposes, whether before or during their preliminary
+hearing. anticipating that the preliminary hearing would only be scheduled upon
+the election of the accused, the court indicated the 30-month ceiling would
+apply. furthermore, it would be open for the crown to consent in exchange for
+the accused person waiving delay.
+
+
+in this case, the 30-month ceiling does not
+apply, since the defence failed to comply with the agreement to make an
+election, and the court and the crown also failed to secure that election by
+the time the preliminary hearing was scheduled.
+
+the supreme court also understood that it makes
+sense for the accused person not to lock themselves into a decision that would
+require the crown to consent, and for which the crown can refuse without
+providing reasons.
+
+
+however, reserving the election is usually a
+transparent activity, in that the crown and the court are not relying on
+unconfirmed assurances. however, even when an accused transparently reserves
+their election regarding the mode of trial, the supreme court has acknowledged
+that such practices can contribute to delays in the court process and suggested
+that “it might be appropriate to reconsider the prudence of this approach.”
+
+
+in
+albetar c. r., the quebec superior court
+observed that the court of appeal in
+lapointe c. r.
+took no issue with the judge characterizing a significant portion of the
+months prior to the election as defence delay, noting the defence could not
+“remain silent and so substantially alter the pace of a case that was
+proceeding normally, without clearly expressing his concern about the delays
+that would reach the new presumed ceiling applicable in four months.”
+
+
+mr. chow changed his mind twice about whether he
+was electing for a trial in the ocj or a trial in the scj with a preliminary
+hearing on the eligible offences. while the initial change had no significant
+consequence, i found that the updated choice had a significant impact on the
+matter and considerations in delay.
+
+notably, mr. chow signed his notice of election
+for an ocj trial two days before the preliminary hearing was to commence. the
+request for an adjournment included the possibility of the updated intention to
+elect ocj, but there was no indication of mr. chow’s signed direction. furthermore,
+no explanation was provided regarding the timing of the notice of election’s
+signing and its delayed filing.
+
+while the defence expressed concern about
+delay, there was no notice to the court or the crown that he would be bringing
+this application. further, the defence’s decision to silently reserve his election
+was inconsistent with prior assurances to the jpt judge, the court, through the
+trial coordinator and contravened direction from the court, ocj practice
+directions and the
+code.
+
+in considering the defence’s action or delayed
+action, i found that the defence did the following:
+(1)
+failed to canvass this 11(b) application at the jpt,
+contrary to item 3 of the november 1, 2023
+ontario court of justice practice direction: section 11(b)
+charter
+applications
+and at the directions of the jpt
+judge, as noted in the july 9 and august 28, 2024 jpt forms;
+(2)
+failed to schedule this 11(b) application at
+least four months in advance of trial, contravening item 2 of the november 1,
+2023
+practice direction;
+(3)
+failed to advise that there remained issues regarding
+the outstanding disclosure before february 24, 2025, despite the direction of
+the jpt judge, as noted in the july 9 and august 28, 2024 jpt forms;
+(4)
+failed to elect as soon as practicable, as
+agreed upon in the initial jpt, as noted in the july 9, 2024 jpt form;
+(5)
+failed to elect by the end of october 2024, as
+agreed upon in the second jpt, as noted in the august 28, 2024 jpt form;
+(6)
+failed to elect on september 17, 2024, as noted
+in the september 12, 2024 trial scheduling form (tsf) and contrary to item 1(c)
+of the may 8, 2023
+practice direction: procedure for scheduling of criminal trials and
+preliminary inquiries;
+(7)
+failed to file a statement of issues by the end
+of october 2024 or ever, as prescribed in
+section
+536.3
+of the
+criminal code,
+rule 4.3(3)
+of the ontario court justice
+criminal rules,
+and as directed and noted on the jpt form, dated august
+28, 2024; and
+(8)
+failed to inform the court or the crown that mr.
+chow signed a written notice of election to be tried in the ontario court of
+justice when addressing the court on february 27 and march 3, 2025. the first
+time the court was told of mr. chow’s election was on march 19, 2025.
+
+the defence’s decision to reserve its election
+without notification contributed to procedural delays, which meant that some of
+the delay is attributable to them, particularly for the period after the
+election for trial was directed by mr. chow until it was filed with the court.
+
+i did not allocate days prior to february 25,
+2025, as there was an issue with the disclosure; therefore, the defence is not
+solely responsible for the delay.
+
+even if the calculation were not considered
+defence delay, the delayed defence election would be an exceptional
+circumstance as the silent reservation of the election prevented the crown from
+expediting the process to meet the fresh 18-month
+jordan
+guideline,
+which was only four months away, once it came to the crown’s attention.
+
+while the crown could have inquired earlier
+about the status of the election, the crown rightly relied on the assurances of
+the defence that the election was to be made imminently. this can reasonably be
+seen as an event that was unforeseeable to the crown, as required in the first
+part of the
+jordan
+exceptional test.
+
+
+the next part of the inquiry is whether the crown
+took reasonable steps to mitigate the delay, even if they were not successful.
+
+in this case, once the crown
+realized that the matter would proceed as an ocj trial, he attempted to secure
+earlier dates without success due to the defence's unavailability.
+
+that said,
+jordan
+noted that an exceptional circumstance
+was either reasonably unforeseeable
+or
+unavoidable. in this case, although
+it was unforeseeable, it was certainly avoidable. neither the court nor the
+crown confirmed the accused’s election at the time the hearing was scheduled.
+
+as a matter of best practice, elections by the crown and the
+defence should be made either prior to the jpt or immediately thereafter.
+moreover, a trial or preliminary hearing should not be confirmed on the record
+until both the crown and the defence have made their respective
+elections—either orally in court or in writing.
+
+a preliminary hearing should not be scheduled without a statement
+of issues; this ought to be the exception, not the norm. adopting this practice
+may reduce procedural uncertainty associated with unconfirmed elections and
+promote a more efficient use of court resources.
+b)
+defence not available for offered dates
+
+the final issue is the lack of availability for
+the dates offered by the trial coordinator for the trial, following the defence
+election. the defence was offered three series of dates over a 32-day period in
+june and july 2025. as stated, the defence was not available for any of these
+dates or any date until august 11, 2025, due to previously scheduled court hearings
+and vacation.
+
+in
+godin,
+the supreme court held that the defence is not
+required to be in a state of perpetual availability and found it unreasonable
+to hold the defence responsible for being unavailable on a single available
+date.
+
+however, the court of appeal in
+r. v. albinowski
+found that when counsel
+rejects multiple dates that are unavailable due to previously scheduled
+professional commitments, the periods of unavailability are not related to
+legitimate defence actions; as such, the periods count against the defence.
+
+the principle applies equally
+when the crown is not available for multiple dates in an extended period.
+
+
+defence counsel’s unavailability was due to matters unrelated to the
+applicant’s case and extended beyond a single date or set of dates offered.
+
+furthermore, i found that the defence was not available for any date
+for a preliminary hearing or trial from march 25 to august 11, 2025, as counsel
+was scheduled on other matters. relying on
+albinowski, this
+unavailability means that delay would be attributable to the defence.
+calculation of delay
+
+in calculating the periods of delay attributable solely to the
+defence, i found 59 days based on the following:
+•
+the specific dates between june 9 and 25. 2025,
+when the court was available, (10 days) and july 7-11 (5 days) are considered
+defence delay for a total of 15 days.
+•
+for the period of delay attributed by failing to
+notify the court and promptly schedule a trial upon the election to the ocj, as
+instructed, i found february 25 -march 5, 2025 (9 days) as defence delay.
+•
+finally, the defence and the crown were not
+diligent in pursuing disclosure in the winter of 2024/2025 until february 24. as
+such, the lack of activity by both parties between december 16, 2024 and
+february 24, 2025, will be divided equally, that is, 70 days in total allocated
+as 35 days each for the defence and the crown.
+conclusion and disposition
+
+in applying the legal framework established in
+r. v. jordan, the
+following was determined:
+•
+total delay: the period from the date of charge
+(january 11, 2024) to the end of the scheduled trial (august 15, 2025) was 582
+days, or 19.1 months.
+•
+defence delay: 59 days were attributable solely
+to the defence, including:
+o
+15 days due to unavailability for earlier trial dates, after the
+election,
+o
+9 days due to the delay in filing the election after mr. chow signed
+it, and
+o
+35 days due to joint neglect in disclosure follow-up, apportioned
+equally.
+•
+net delay: after deducting defence delay, the
+net delay is 523 days, or 17.2 months, which is below the 18-month presumptive
+ceiling for trials in the ontario court of justice.
+
+alternatively, even if the defence’s silent reservation of its
+election does not amount to defence delay, it qualifies as a discrete
+exceptional circumstance, as it was unforeseeable by the crown. the crown took
+reasonable steps to mitigate the delay once the election was clarified, but was
+unable to proceed due to the defence counsel’s unavailability.
+
+accordingly, the delay was not presumptively unreasonable and the
+application for a stay under section 11(b) of the
+charter
+was dismissed.
+oral reasons released: july 29, 2025
+revised written reasons
+released: august 28, 2025
+signed:
+justice lori anne thomas
+chronology of events
+date
+event
+jan 11, 2024
+mr. chow charged;
+ ms. ghadia noted as counsel
+jan 18, 2024
+mr. chow was released
+ on recognizance
+feb 7, 2024
+defence requested
+ disclosure and filed a designation with ms. ghadia as counsel
+feb 23, 2024
+crown’s office
+ responded and directed defence to follow up, as a crown was not assigned
+feb 26, 2024
+michael wilson is
+ assigned as the crown
+feb 27, 2024
+1
+st
+appearance after bail; adjourned to april 23 for disclosure and cpt
+apr 23, 2024
+2
+nd
+appearance after bail; no initial disclosure; adjourned to june 4
+apr 29, 2024
+initial disclosure
+ provided
+may 17, 2024
+substantial
+ disclosure provided
+jun 4, 2024
+3
+rd
+appearance post-bail; cpt scheduled for june 18
+jun 18, 2024
+crown missed the
+ scheduled cpt, but parties set jpt
+jun 19, 2024
+defence sent a
+ detailed disclosure request
+jul 2, 2024
+substantial
+ disclosure on usb provided
+jul 9, 2024
+jpt for trial held
+jul 10, 2024
+trial scheduled:
+ feb 24-mar 4, 2025
+jul 16, 2024
+defence informed
+ that he wanted a preliminary inquiry, which was confirmed in court; trial
+ coordinator advised to get approval from a judge in jicmc; not done
+aug 6, 2024
+parties advised the
+ court that a 2
+nd
+jpt needed to be scheduled
+aug 28, 2024
+2
+nd
+jpt
+ – for preliminary hearing
+sep 5, 2024
+further disclosure
+ provided
+sep 10, 2024
+court appearance:
+ defence advised that they were waiting on the crown to respond for trial
+ scheduling
+sep 12, 2024
+preliminary inquiry
+ scheduled: feb 27-mar 4, 2025
+sep 17, 2024
+preliminary inquiry
+ hearing dates noted on the record
+oct 11, 17 & 
+ 25, 2024
+further disclosure
+ provided
+oct 31, 2024
+date noted for
+ defence to file notice of election
+nov 25, 2024
+further disclosure
+ provided
+jan 13 – feb 23,
+ 2025
+counsel involved in
+ unrelated homicide trial
+feb 24, 2025
+defence requested
+ the remaining outstanding disclosure
+feb 24-27, 2025
+crown disclosed
+ relevant disclosure available
+feb 25, 2025
+mr. chow signed a
+ notice of election for trial, but it was not filed
+feb 27, 2025
+defence requested an
+ adjournment of preliminary inquiry; adjourned to march 3; first time the
+ court noted that the defence election was outstanding
+mar 3, 2025
+defence adjournment
+ granted
+mar 5, 2025
+defence advised the
+ crown that the election will be an ocj trial; scheduled: aug 11-14, 2025
+mar 19, 2025
+trial and election
+ noted on the record; disclosure was essentially complete
+may 1, 2025
+11(b) application
+ filed
+may 30, 2025
+11(b) respondent
+ materials filed
+jun 13, 2025
+application heard,
+ but reserved for further evidence
+jun 18, 2025
+further applicant
+ affidavit filed
+jul 4, 2025
+further respondent
+ affidavit filed
+jul 7, 2025
+final applicant
+ affidavit filed, dated july 4, but received july 7
+jul 29, 2025
+oral reasons given
+
+582 days ÷ 30.417 = 19.1 months, as per
+r. v. shaikh,
+2019
+onca 895, endnote 2.
+
+r. v. varennes,
+2025 scc 22, at para
+126
+
+r. v. jordan, supra,
+at paras
+61-65, 113, and 121; see also
+r.
+v. cody,
+2017 scc 31, at paras
+28-35
+
+jordan, supra,
+at para
+69
+
+a chronology of events prepared by the court is included as an appendix to this
+decision.
+
+the crown did not question or dispute ms. seymour’s statement of
+about four requests, but the applicant did not file these requests. given ms.
+seymour’s departure and her status as an officer of the court, i accept that
+the requests were made. whether or not the requests were made does not impact
+the application.
+
+the july 10, 2024 trial scheduling form (tsf) notes the defence was
+not available for “feb 10-28, 2025”. however, given that the trial was
+scheduled, i found that the defence was available from february 24, 2025, to
+march 4, 2025.
+
+justice crosbie was not sitting in her present role as the local administrative
+judge. however, she was a judicial lead. as such, she would have been aware of
+the flexibility to accommodate the parties' schedules.
+
+the tsf was silent as to whether any other earlier dates were
+available. as such, even though the trial coordinator provided the first date, the
+defence indicated they were available; it is presumed that only these periods
+noted were available for the court.
+
+transcript of proceedings, march 19, 2025, p. 2
+
+at the time of the oral reasons, the defence did not bring a
+section 10(b) application. by the time written reasons were provided, the trial
+concluded, and no section 10(b) application was brought.
+
+1998 canlii 805 (scc); scr 244, at para 37; see
+r.
+v. zahor,
+2022 onca 449, at para
+99
+
+see the affidavit dated july 4, 2025. the affidavit dated may 1,
+2025, at paras 3 and 8, only noted disclosure as of april 29. in the
+applicant’s factum, at para 13, it is stated that the crown indicated
+disclosure would be available on may 17, 2024; this appears to be confirmed in
+the email correspondence.
+
+affidavit dated may 30, 2025, respondent application record, tab 4
+
+there were some issues with earlier items of disclosure that were received,
+but the affidavit is silent as to what changed suddenly in february 2025. further,
+the oic’s will-say, at tab 6, did not provide any insight into what occurred with
+the disclosure after september 2024.
+
+r. v. jordan,
+2016 scc 27
+at para
+62
+and endnote 3
+
+r. v.
+archambault,
+2024 scc 35, at paras
+54 and 142
+
+archambault, supra,
+at para
+97
+
+2024 qccq 5641, at paras
+136-137; see also
+lapointe c. r.,
+2021
+qcca 152
+
+jordan, supra,
+at para
+73
+
+ibid,
+at paras 69-70
+
+godin, supra,
+at para
+23
+
+2018 onca 1084, at para.
+33
+
+r.
+v. picard,
+2017 onca 692, at para
+113

@@ -1,0 +1,912 @@
+Source URL: https://www.canlii.org/en/on/oncj/doc/2025/2025oncj616/2025oncj616.html
+
+ONTARIO COURT OF JUSTICE
+CITATION:
+R. v. Cosentino
+, 2025 ONCJ 616
+DATE: 
+2025 11 25
+COURT
+FILE No.:  Toronto 24-48130705
+BETWEEN:
+HIS
+MAJESTY THE KING
+— AND
+—
+ALBERTO COSENTINO
+Trial
+Judgment
+Before
+Justice Brock Jones
+Heard
+on November 3 and 4, 2025
+Reasons
+for Judgment released on November 25, 2025
+H. Clow.................................................................................................. counsel
+for the Crown
+M. Setia.......................................................................................... counsel
+for Mr. Cosentino
+Jones J.:
+Introduction
+[
+1
+]
+Alberto Cosentino is charged with three counts relating to events that
+occurred on October 3, 2024:
+(i)
+Impaired operation of a
+conveyance while his ability to do so was impaired by a drug, contrary to
+Criminal
+Code
+section 320.14(1)(a);
+(ii)
+Without reasonable excuse,
+refused to comply with a demand made by a peace officer to submit to an
+evaluation by an evaluation officer to determine impairment by a drug or a
+combination of alcohol and a drug, contrary to
+Criminal Code
+section
+320.15(1); and
+(iii)
+Fail to comply with a term of
+a probation order, namely "keep the peace and be of good behaviour",
+contrary to
+Criminal Code
+section 733.1(1).
+[
+2
+]
+The Crown proceeded summarily. Mr. Cosentino is presumed innocent of all
+charges. The Crown must prove the essential elements of each charge beyond a
+reasonable doubt.
+[
+3
+]
+On behalf of her client, Ms. Setia filed a Charter application alleging
+violations of Mr. Cosentino’s rights under sections 7, 8, 9, and 10(b). She
+requested, as a remedy, either a stay of proceedings under section 24(1) or the
+exclusion of all relevant evidence under section 24(2). If I found her client
+guilty, she also sought the court's permission to argue that her client was the
+victim of police entrapment, which could serve as a separate basis for issuing
+a stay of proceedings: see, for example,
+R. v. St. Georges
+,
+2010 ONCJ
+243
+.
+[
+4
+]
+The burden typically rests on the Applicant to prove a Charter breach on
+a balance of probabilities. However, in this case, as with many impaired
+operation investigations, the arrest and the police officers' request for Mr.
+Cosentino to undergo a Drug Recognition Expert (“DRE”) examination were made
+without a warrant. Consequently, under sections 8 and 9 of the
+Charter
+,
+the Crown must prove that his arrest and the subsequent demand were legally
+justified: see, for example,
+R. v. Gerson-Foster
+,
+2019 ONCA 405
+, at
+para.
+75
+.
+Summary of the Crown’s Evidence
+[
+5
+]
+The Crown called four police officers to testify. Since the majority of
+the officers’ relevant observations were recorded on their body-worn camera
+footage (“BWC”), which was entered as a series of exhibits, I will briefly
+summarize their testimony and what occurred before examining some of their evidence
+more closely later in this judgment.
+[
+6
+]
+In the early morning hours of October 3rd, 2024, Mr. Cosentino called
+the police to report suspicious activity at a parking garage. He was concerned
+that unknown persons might be involved in criminal activity. At 5:04 a.m.,
+police officers found him outside and well away from his vehicle. PC Longani,
+who testified, estimated Mr. Cosentino was at least 100, and possibly 200
+metres, away from the vehicle when he first located him. Mr. Cosentino began
+explaining the suspicious activity he had observed and subsequently reported to
+911.
+[
+7
+]
+The officers investigated Mr. Cosentino’s claims. I do not need to go
+over the details of what he alleged had been occurring in this judgment. During
+their investigation, several officers listened attentively while near Mr.
+Cosentino to understand his concerns. They were able to observe him directly
+and evaluate his level of sobriety.
+[
+8
+]
+As the officers continued their investigation into Mr. Cosentino’s
+allegations of suspicious activity, they soon began to question the accuracy of
+the information he provided. Their independent observations confirmed nothing
+he alleged; rather, their investigation led them to conclude he was misleading
+them. Several of them could be heard on the BWC footage, wondering aloud
+whether he was possibly experiencing a mental health crisis.
+[
+9
+]
+Multiple officers eventually escorted Mr. Cosentino back to his vehicle.
+Up to this point in their investigation, the officers had not indicated that
+they were investigating him for being under the influence of drugs. Nor did
+they suggest that they had concerns about his having engaged in criminal
+activity more generally.
+[
+10
+]
+PC
+Longani testified that before Mr. Cosentino was put in his motor vehicle, he
+was already concerned that Mr. Cosentino might have been under the influence of
+drugs. As I will explain, I do not find that credible, and it is not mentioned anywhere
+on the BWC footage prior to this moment, despite the officers having multiple
+conversations about Mr. Cosentino’s condition.
+[
+11
+]
+Throughout
+the BWC footage, there are also many times when the officers can be heard
+questioning the status of Mr. Cosentino’s mental health once they determined his
+reports of suspicious activity in the area appeared to be false. They returned
+him to his car, as he had previously stated he was sleeping in it because he
+was unhoused. They did not want him wandering aimlessly around the area while
+he appeared agitated.
+[
+12
+]
+At
+5:05:51 - 5:05:18, an officer can be heard saying, “We’re gonna go back, we’re
+gonna open the door”, in reference to Mr. Cosentino’s car. Mr. Cosentino is
+heard saying, “I’m not a nutcase.”  He, too, understood that officers wondered
+if he was mentally well.
+[
+13
+]
+When
+Mr. Cosentino entered his vehicle, he did not start the engine or try to do so.
+At that moment, he was surrounded by at least five to six officers, and his
+parked vehicle was blocked by a large police SUV parked directly behind it.
+[
+14
+]
+While
+he sat in the driver’s seat of his vehicle, officers asked him multiple
+questions. I have included the following excerpts from the BWC footage to
+provide a sampling of what the police officers said to Mr. Cosentino at the
+time.
+“Do you have any mental health
+issues?”
+“Look around you there are ten officers
+here because you called us… then you called us a second time saying you saw
+people in a minivan”
+“We don’t want to get called
+back in another 5- 10 minutes”
+“My concern is that you might
+be seeing things today… so I have a concern for your mental health”
+“Do you wanna hurt yourself or
+anyone else?”
+[
+15
+]
+The
+questions focused on Mr. Cosentino’s mental health. They also aimed to
+determine whether he deliberately misled the officers when they arrived on the
+scene while exploring the veracity of his report to the 911 call taker.
+[
+16
+]
+Having
+reviewed the footage presented at the trial, I find as a fact the following
+about Mr. Cosentino’s condition on October 3, 2024:
+•
+At all times on the BWC footage, Mr. Cosentino is alert and
+attentive;
+•
+He can respond to the officer’s questions and take directions
+from them;
+•
+He is not defiant or belligerent;
+•
+He articulates himself and can be properly understood;
+•
+He does speak quickly at times, and presents as being somewhat
+animated;
+•
+He walks around normally, and is not unsteady on his feet, or
+unable to keep his balance;
+•
+He does not have noticeable or unusually “bloodshot eyes”,
+although he does appear somewhat sleep-deprived.
+[
+17
+]
+The
+officers did not find any drugs, drug residue, or drug paraphernalia, either
+outside the vehicle, on his person, or inside the vehicle. There was a bottle
+of prescription medication, which appeared in one BWC, but it was never
+specifically identified.
+[
+18
+]
+PC
+Longani stated in cross-examination that he knew Mr. Cosentino was a crack
+user. While I permitted this question because the officer’s prior dealings with
+Mr. Cosentino were relevant during the
+Charter voir dire
+, I note that I
+cannot assign much, if any, weight to uncorroborated hearsay evidence, even
+when evaluating whether there were lawful grounds for Mr. Cosentino’s arrest.
+How PC Longani “knew” Mr. Cosentino used crack cocaine in the past was never
+adequately explained to me.
+[
+19
+]
+Following
+this line of questioning, at approximately 5:08 am, the officers asked Mr.
+Cosentino to step out of his vehicle. After further questioning, at 5:11 a.m.,
+PC Longani informed him that he was being arrested for impaired driving.
+Shortly afterwards, PC Longani made a DRE demand.
+[
+20
+]
+After
+being transported to the police division, Mr. Cosentino refused to cooperate
+with the DRE officer’s instructions. The evaluation could not be completed.
+Testimony of Mr. Cosentino
+[
+21
+]
+Mr.
+Cosentino testified during the Charter voir dire. He denied using drugs on
+October 3, 2024, or having any mental health issues. He explained that he
+genuinely believed he observed suspicious activity, which is why he called the
+police. He has poor eyesight and admitted he might have been mistaken. However,
+his intentions were genuine when he called 911.
+[
+22
+]
+He
+explained that if he appeared nervous on the BWC footage, it is because he is
+often nervous around the police due to his past experiences with them. Most of
+those have been negative, especially with officers from 31 Division.
+[
+23
+]
+He
+had not slept well when the officers arrived, and his behaviour might have been
+affected by sleep deprivation.
+[
+24
+]
+He
+did not remember everything the officers claimed he said or did, and accepted
+that his memory of the events was not flawless. He insisted that his arrest was
+unfair, as he was not impaired by a drug when the officers arrested him.
+Positions of the Parties
+[
+25
+]
+On behalf of the Crown, Ms. Clow submits that while there is no
+direct evidence Mr. Cosentino consumed drugs (or alcohol), there is sufficient
+circumstantial evidence to conclude beyond a reasonable doubt that he was
+impaired at the time he was in the driver’s seat of his car. In support of her
+argument, she asks me to accept the evidence of PCs Longani and Singh. They
+testified that Mr. Cosentino was exhibiting hyperactive behaviour, seemed
+restless, and spoke quickly. He may have experienced hallucinations, as what he
+reported to the police did not appear to have happened. The officers also
+noticed bloodshot eyes.
+[
+26
+]
+Ms. Clow relied upon the case of
+R. v. Kroll,
+2025 ONCJ 296
+.
+In
+Kroll
+,
+the offender was found in the driver’s seat of a vehicle
+parking diagonally in a parking spot. The investigating officers noted that he
+was hyperactive, restless, and frantic, and that he spoke very quickly. Methamphetamines
+were in his pocket. He was convicted of impaired operation due to the
+consumption of a drug. I will comment on this case later in my reasons.
+[
+27
+]
+In addition, Ms. Clow submits that the officers had a lawful basis
+to make a DRE demand. Mr. Cosentino refused to comply with that demand. She
+asks me to employ
+section 320.31(10)
+of the
+Criminal Code
+, which permits
+a trial judge to draw an adverse inference against the accused when he has
+failed to comply with a lawful demand. Mr. Cosentino’s refusal, she submits, is
+evidence of consciousness of guilt.
+[
+28
+]
+Ms. Setia submits that the investigating officers lacked reasonable
+and probable grounds to arrest her client or to issue a DRE demand. Their
+entire investigation was flawed and appeared to be based on manufactured
+grounds after the officers became frustrated with Mr. Cosentino. I should find
+that Mr. Cosentino’s
+Charter
+rights under sections 8, 9 and 10(b) of the
+Charter
+were infringed.
+[
+29
+]
+Ms. Setia noted that her client was outside his vehicle when the
+police first arrived, and he called them himself due to concerns about possible
+illegal activity in the area. The officers can be heard on the BWC footage
+asking him various questions about his mental health. They cannot be heard
+accusing him of drug use. Moreover, PCs Singh and Longani’s testimony was
+neither credible nor reliable in general. They provided evasive, vague answers.
+[
+30
+]
+Regarding PC Longani, Ms. Setia submits that while he stated more
+than once that he had reasons to suspect her client of being impaired by drug
+consumption, he was unable to convincingly articulate how it was he formed
+reasonable and probable grounds to make an arrest. Indeed, she invites me to
+draw an adverse inference against the officer’s credibility because, under his
+version of events, he escorted Mr. Cosentino back into his car and allowed him
+to sit in the driver’s seat. It was only after this occurred that the officer
+suddenly decided he had grounds to make an arrest. He could not point to any
+specific event that shifted his subjective view which should cause me to
+approach his claim with caution: see
+R. v. Winter
+,
+2010 ONCJ 147
+, at
+para.
+41
+. This is illogical, and even if true, it would certainly constitute an
+abuse of process, as the officers placed Mr. Cosentino in the driver’s seat
+before arresting him. Her client effectively had no choice in the matter, even
+if he were impaired.
+[
+31
+]
+PC Longani further testified that he “knew Mr. Cosentino to be a
+crack user”, and she submits that this demonstrates the officer allowed his
+prior prejudice to affect his decision-making on this date.
+[
+32
+]
+She contends that I should have a reasonable doubt that her client
+was impaired by a drug, and therefore, he should be acquitted of the count of
+impaired care or control of a conveyance. She also argues that the officer’s
+DRE demand was unlawful, and that refusing to comply with it does not
+constitute an offence. Lastly, her client should be acquitted of failing to
+comply with a probation order, as he did not participate in any illegal
+activity.
+Findings of Fact, Law and Analysis
+(i)
+Charter Sections 8 and 9 - Initial Police
+Investigation, Arrest and DRE Demand
+[
+33
+]
+An
+officer must have reasonable and probable grounds to arrest a person without a
+warrant for a criminal offence:
+Criminal Code
+section 495(1)(a). The
+officer must subjectively believe the person committed the offence, and
+objectively, there must be reasonable grounds for this belief:
+R. v. Rhyason
+,
+2007 SCC 39
+, at para.
+12
+. When a person is arrested for impaired driving and a
+breath demand is made, this is not only a statutory requirement but also a
+constitutional one, as it serves as a precondition for a lawful search and
+seizure under section 8 of the
+Charter
+: see
+R. v. Shepherd
+,
+2009
+SCC 35
+, at paras.
+13-17
+. This principle also applies to a DRE demand made under
+Criminal Code
+section 320.28(2)(a).
+[
+34
+]
+An
+officer must consider all available information at the time and can only
+dismiss information if they have good reason to believe it is unreliable:
+R.
+v. Golub
+,
+1997 CanLII 6316
+(Ont. C.A.) at para.
+21
+. At the same time, the
+presence of other possible explanations for signs of impairment besides alcohol
+or drugs does not necessarily undermine the existence of reasonable and
+probable grounds:
+Shepherd
+, supra at para.
+23
+;
+R. v. Bush
+,
+2010
+ONCA 554
+, at para.
+57
+.
+[
+35
+]
+This
+case involves an allegation that Mr. Cosentino was impaired by a drug, not by alcohol.
+Criminal Code
+section 320.28(2)(a) states (paraphrased) that if a peace
+officer has reasonable grounds to believe that a person had operated a
+conveyance while their ability to do so was impaired to any degree by a drug,
+the peace officer may, by demand, made as soon as practicable, require the
+person to submit to an evaluation conducted by an evaluating officer. The
+evaluating officer may conduct an evaluation to determine whether the person’s
+ability to operate a conveyance has been impaired by drug consumption.
+[
+36
+]
+In
+the context of a standard impaired driving investigation, this is not generally
+regarded as an onerous test: see
+Bush
+at para.
+46
+;
+R. v. Wang
+,
+2010
+ONCA 435
+, at para.
+17
+. But the requirement of reasonable and probable grounds
+to make a lawful arrest must always be taken seriously, and rigorously analyzed
+when challenged by the defence.
+[
+37
+]
+After
+investigating Mr. Cosentino’s allegations, the officers could conclude that he
+was acting somewhat erratically. He reported events that simply did not occur.
+He appeared nervous. It was entirely appropriate for them to question him about
+why he called the police and to inquire about his mental health. That was
+responsible police work and entirely reasonable.
+[
+38
+]
+Eventually,
+they searched his car and found no evidence of drug use whatsoever. There were
+no drugs. No drug residue. No bags or containers linked to drug use. No devices
+capable of being used for drug consumption. In fact, there was simply nothing
+that could be associated with drug use. PCs Singh and Longani agreed with this
+conclusion during cross-examination.
+[
+39
+]
+Mr.
+Cosentino was not even physically near his car when the officers arrived, much
+less operating it or sitting in the driver’s seat. He was between 100 and 200
+metres away. The officers had plenty of time to assess him before leading him
+back to his car. When testifying, PC Longani denied having formed his grounds
+to make an arrest prior to Mr. Cosentino being placed in the driver’s seat of
+his car by another officer. Instead, PC Longani testified that he had changed
+his subjective determination and formed reasonable and probable grounds for an
+arrest because more time had passed and he had made additional observations of
+Mr. Cosentino. The passage of time he referenced amounted to mere minutes when
+nothing eventful occurred.
+[
+40
+]
+When
+asked to explain his grounds for an arrest, PC Longani testified that Mr.
+Cosentino was displaying “hyperactive behaviour” and was “jittery” or
+“restless.” He made inaccurate claims and claims that “did not make
+sense." I agree with Ms. Clow that these are factors the officer was
+entitled to consider. However, PC Longani emphasized several times during his
+testimony that his observations led him to
+suspect
+that Mr. Cosentino
+might be under the influence of drugs.
+[
+41
+]
+When
+he was pressed during cross-examination on what changed for him that elevated
+these suspicions into reasonable and probable grounds, he explained that after
+placing Mr. Cosentino in his vehicle, he had spent more time with him and
+answered more questions. But none of the answers resulted in any incriminating
+statements.
+[
+42
+]
+I
+did not find PC Longani’s answers to many of Ms. Setia’s questions to be honest
+or sincere. At one point, she played the BWC footage of another officer, PC
+Graham, where PC Longani can be clearly heard stating, “We will open the door”
+and “check”. This was obviously a reference to Mr. Cosentino’s vehicle, and it
+is not disputed that Mr. Cosentino ended up back in the driver’s seat of his
+car and that officers searched that car for drugs later. PC Longani testified
+he did not “recall” what his comments were about. This response was totally
+unworthy of belief. The point Ms. Setia was making, that the officer felt the
+need to “check” for evidence of drug consumption to confirm his suspicions that
+evening, was obvious and logical. For some reason, PC Longani felt the need to
+attempt to deceive me with this portion of his testimony.
+[
+43
+]
+Furthermore,
+PC Longani stated during cross-examination that he asked Mr. Cosentino whether
+he used crack when he first arrived at the scene because he was concerned about
+illegal drug use. However, no record of this was found in his memo book. PC
+Longani could not explain why he did not note this question. That omission
+would be significant in an investigation that ultimately led to an arrest for
+impaired driving due to drug use. I do not accept his answer given during
+cross-examination. Additionally, he testified that he also “forgot” to activate
+his BWCs until later that evening, meaning there was no audio or video record
+of the interaction. PC Longani agreed this was a breach of TPS policy regarding
+BWC use. I do not accept this portion of his testimony either.
+[
+44
+]
+Ms.
+Setia also played a section of PC Singh’s BWC footage for PC Longani, showing
+where Mr. Cosentino’s vehicle was parked. A police vehicle was positioned
+directly behind it, effectively preventing movement. The video was intended to
+visually demonstrate that Mr. Cosentino’s vehicle could not be moved out of the
+area, even if he tried. PC Longani gave evasive answers to Ms. Setia’s
+questions, which were merely intended to have him confirm this glaring and
+obvious fact, which was indisputable based on the video evidence. For example,
+he stated at one point that it was “hard to tell if the [vehicle] could go
+anywhere.” It is also notable that over 10 officers were present at the time,
+surrounding Mr. Cosentino, who was in the driver’s seat with the driver’s-side
+door still open and the keys out of the ignition. PC Longani’s responses to
+this line of questioning did not inspire confidence.
+[
+45
+]
+Perhaps
+of greatest importance, I found that his testimony never convincingly addressed
+the most relevant question about how he and the other police officers handled a
+key aspect of this investigation. Why would they let Mr. Cosentino back into
+his car at all if any of them, including PC Longani, suspected that his ability
+to operate the vehicle was impaired due to drug use? Indeed, having decided to
+direct him back into his car, it is hard to believe that the officers genuinely
+worried that drugs impaired his judgment. If that were true, it would mean they
+knowingly allowed him to operate a vehicle even though they knew there was a
+risk he could not do so safely. That, in turn, would have jeopardized their
+safety and that of the community. Such a degree of negligence would be
+astonishing for a police officer.
+[
+46
+]
+In
+conclusion, I did not find PC Longani to be a credible or reliable witness.
+[
+47
+]
+Regarding
+the other officers who testified, PC Singh was not a reliable witness. He
+answered many questions with “I don’t know” or “I don’t recall.” He relied on
+the BWC footage to explain what happened and clarified that PC Longani made the
+decision to arrest Mr. Cosentino. PC Brown testified that he did not make any
+significant observations of Mr. Cosentino until after he was arrested. The
+police cannot rely on observations made after an arrest to justify the grounds
+for that arrest: see
+R. v. Beaver,
+2022 SCC 54
+, at para.
+72
+.
+[
+48
+]
+I
+recognize that
+a
+ny degree of impairment, from
+slight to great, is sufficient to make out the offence of impaired
+driving:
+R. v. Stellato
+,
+1993 CanLII 3375
+(Ontario
+C.A.). In this case, there is no direct evidence of drug consumption. The
+Crown asks me, nevertheless, to conclude on the basis of alleged circumstantial
+evidence that the officers could draw a reasonable inference that Mr. Cosentino
+had consumed drugs and thus the arrest and DRE demand were lawful.
+[
+49
+]
+I
+do not agree that such an inference was available to PC Longani. In reported
+cases where courts have found there were reasonable grounds to arrest a
+motorist for impaired operation by drugs, much more evidence has been
+presented. For example, in
+R. v. Dhaliwal,
+2014 ABQB 717
+, the arresting
+officer stopped a driver for speeding. The officer described the suspect’s red,
+bloodshot and half-closed eyes, and that he was unsteady on his feet. There was
+also a glass bong in plain view.
+[
+50
+]
+If
+the officers, including PC Longani, had a
+suspicion
+that Mr. Cosentino’s
+ability to operate a motor vehicle was impaired due to drug consumption, they
+could have resorted to
+Criminal Code
+section 320.27(1). That section
+states the following (my emphasis added):
+If a peace officer has
+reasonable
+grounds to suspect
+that a person has alcohol or a drug in their body and
+that the person has, within the preceding three hours, operated a conveyance,
+the peace officer may, by demand, require the person to comply with the
+requirements of either or both of paragraphs (a) and (b) in the case of alcohol
+or with the requirements of either or both of paragraphs (a) and (c) in the
+case of a drug:
+(a)
+to
+immediately perform the physical coordination tests prescribed by regulation
+and to accompany the peace officer for that purpose…
+[
+51
+]
+The
+physical coordination tests are outlined in the
+Evaluation of Impaired
+Operations (Drugs and Alcohol) Regulations
+– SOR/208-196, s. 2. These are
+performed by a Standard Field Sobriety Test (“SFST”) officer. The three tests
+described in the regulation can be done quickly to minimize interference with
+the suspect’s Charter rights during the screening process: see
+R. v. Parada
+,
+2016 SKCA 102
+, at para.
+34
+. The SFST request is the functional equivalent of
+the approved screening device demand for a driver suspected of being impaired
+by alcohol. It is a tool officers can use to establish reasonable and probable
+grounds to believe the suspect has committed a drug-operating offence: see
+Jokinen, K, and Keen, P.,
+Impaired Driving and Other Offences
+, 2nd
+Edition. Toronto: Emond Publishing (2023), at p. 367.
+[
+52
+]
+The
+officers did not testify that they considered this investigative step, and I
+must evaluate their conduct based on what they did and the stated basis for
+their actions, not what they could have done: see the dissenting reasons of
+Tholla J.A. in
+R. v. Sabiston
+,
+2023 SKCA 105
+, at para.
+93
+; adopted by
+the majority of the Supreme Court of Canada in
+R. v. Sabiston
+,
+2024 SCC
+33
+, at para.
+1
+. Nevertheless, my point is that they had other investigative
+means available to them and did not consider them. “Reasonable and probable
+grounds” is a higher standard than “reasonable suspicion”: see
+Beaver
+, supra
+.
+Before jumping to an arrest on such a questionable basis, they could have
+considered a lawful means to further investigate Mr. Cosentino and potentially buttress
+their belief in Mr. Cosentino’s impairment, if that belief was genuine.
+[
+53
+]
+For
+example, in
+R. v. Wilson
+,
+2020 ONSC 1956
+, Justice Heeney ruled that
+detaining a motorist at a roadside for an evaluation by an SFST officer was
+Charter
+-compliant.
+The accused, while driving, hit a building. An officer later found his white minivan
+damaged nearby. The officer approached the accused and observed bloodshot eyes,
+constricted pupils, and a lethargic speech pattern. He could not answer simple
+questions clearly. The driver denied having consumed alcohol or drugs. The
+officer issued a demand under the former section 254(2), citing reasonable
+grounds to suspect the motorist’s ability to operate was impaired by drugs: see
+paras. 11-27. Justice Heeney then found that the subsequent arrest and DRE
+demand were lawful, as the officers relied partly on SFST results: see para. 36.
+[
+54
+]
+In
+this case, my final determination is that PC Longani did not have reasonable
+and probable grounds to arrest Mr. Cosentino for impaired operation of a
+conveyance. Nor did he have reasonable grounds to issue a DRE demand.
+Furthermore, I find PC Longani’s testimony that he had a subjective belief in
+the necessary grounds to be untrue. At most, he thought he had a reasonable
+suspicion. He did not genuinely believe he had reasonable and probable grounds.
+He falsely constructed and presented that belief later to justify the arrest he
+had already decided to make.
+[
+55
+]
+Mr.
+Cosentino’s rights under sections 8 and 9 of the
+Charter
+were violated.
+(ii)
+Mr. Cosentino’s Degree of Impairment
+[
+56
+]
+Having
+reviewed the BWC footage, I find that Mr. Cosentino was alert, articulate and in
+control of his faculties. He was able to answer the officer’s questions. He
+walked normally and was not unsteady on his feet. I do not see particularly
+“bloodshot eyes.”
+[
+57
+]
+The
+only notable feature about how he presents himself is that he could be
+described as a “fast-talker.”
+[
+58
+]
+I
+am not prepared to draw the conclusion, based on the circumstantial evidence
+presented in this case, that Mr. Cosentino consumed drugs. There are other,
+plausible alternatives, including that Mr. Cosentino was tired, or is naturally
+a nervous person, especially when interacting with police officers: see
+R.
+v. Villaroman
+,
+2016 SCC 33
+, at para.
+30
+.
+Verdicts
+[
+59
+]
+Ms.
+Setia made several other meritorious
+Charter
+arguments that I do not
+need to address in light of the conclusions I have already made.
+[
+60
+]
+Considering
+all of the evidence presented by the Crown that I accept, I am left with
+reasonable doubt that a drug impaired Mr. Cosentino’s ability to operate his
+motor vehicle. Furthermore, I found Mr. Cosentino to be a truthful witness. I
+accept his testimony that he did not consume drugs that night. While I
+recognize his testimony was confined to the
+voir dire
+, it is important
+that he knows I believe him.
+[
+61
+]
+I
+do not find the case of
+Kroll
+,
+relied upon by the Crown, to be of
+assistance. In
+Kroll
+,
+officers located the offender in his car. Mr.
+Cosentino was originally outside his vehicle. Drugs were found on the
+offender’s person in
+Kroll
+,
+and a crack pipe was located in this car
+;
+no drugs or drug paraphernalia were found on Mr. Cosentino. The offender was
+acting “frantically” and at one point placed his feet up in the air in the back
+of the officer’s squad car. I find Mr. Cosentino’s behaviour was nothing akin
+to that. Finally, there were toxicology results presented to the court in
+Kroll
+that the offender had consumed methamphetamines and GHB: see paras. 8-10, and 26-31.
+[
+62
+]
+He
+is found not guilty of count 1.
+[
+63
+]
+As
+I have explained, there was no lawful basis to make a DRE demand. Therefore, he
+must be acquitted of count 2 as well. The demand was unlawful, and it is not an
+offence to refuse an unlawful demand:
+R. v. Alex
+,
+2017 SCC 37
+, at paras.
+48-9
+;
+R. v. Montana
+,
+2025 ONCJ 484
+, at para.
+85
+.
+[
+64
+]
+I
+am not satisfied beyond a reasonable doubt that he intentionally violated his
+probation order by not “keeping the peace,” either, and he is found not guilty
+of count 3. On the basis of the facts that I have found, Mr. Cosentino did
+nothing that could constitute “not keep the peace and being of good behaviour”
+in any event.
+Final Remarks
+[
+65
+]
+This
+trial neither started nor finished on its originally scheduled dates. Mr.
+Cosentino, who was detained on these charges, was not brought to court until 2
+pm. on the first day of trial. I never received any explanation from the
+Toronto South Detention Centre regarding this delay, despite repeated requests.
+This was completely unacceptable and, unfortunately, not an uncommon occurrence
+in Toronto. We often face unexplained delays at this courthouse in bringing
+inmates to trial, leading to hours of lost court time.
+[
+66
+]
+On
+the second day of the trial, while the witnesses completed their testimony, there
+was insufficient time to hear counsel's submissions. A new date for continuing
+the trial was not available until February 26, 2026.
+[
+67
+]
+Ms.
+Clow and Ms. Setia agreed to submit written arguments instead and to return the
+case for a judgment on November 25, 2025. I wish to express my sincere
+appreciation to them for suggesting this approach and following through as
+promised. Their written submissions were excellent: clear, concise, and
+directly on point. They allowed me to make a decision for an accused person in
+custody within a reasonable time frame, rather than delaying the trial by at
+least another three months. Their willingness to contribute such helpful
+written material on a short timeline demonstrated noteworthy professionalism.
+Released: November
+25, 2025
+Signed:
+Justice Brock Jones

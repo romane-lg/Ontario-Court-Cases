@@ -1,0 +1,370 @@
+source url: https://www.canlii.org/en/on/oncj/doc/2025/2025oncj57/2025oncj57.html
+
+ontario court of justice
+citation:
+r. v. dimilta, 2025 oncj 57
+date: 
+2025 01 24
+file #
+2222712x
+newmarket,
+ontario
+between:
+his
+majesty the king
+respondent
+— and
+—
+antonio dimilta
+applicant
+before
+justice r.m. robinson
+heard
+on 13 december 2024
+reasons
+for judgment released on 24 january 2025
+sandra quadrini........................................................................ counsel
+for the respondent
+the applicant antonio dimilta................................................................ 
+on his own behalf
+robinson j.:
+introduction
+
+on 8 february 2023, shortly after 8:33 am, p.c.
+kwame agyei #1473 gave antonio dimilta (the applicant) an offence notice for failing
+to stop at a stop sign, contrary to s.136(1)(a) of the
+highway traffic act
+[“
+hta
+”].
+
+the matter was set down for trial on 31 may
+2024. mr. dimilta made the strategic decision not to attend for his trial.
+justice of the peace r. therrien convicted mr. dimilta in absentia and imposed
+a fine of $85.00 plus costs, for a total amount of $110.00.
+
+mr. dimilta appeals his conviction because of an
+alleged error on the certificate of offence completed by p.c. agyei. he submits
+that, despite his failure to appear for trial, justice of the peace therrien
+was obliged to examine the certificate of offence pursuant to s.9.1(2) of the
+provincial
+offences act
+[“
+poa
+”]; and that such an examination should have led
+justice of the peace therrien to quash the proceeding under s.9.1(3)
+poa.
+
+the issue in this case is whether justice of the
+peace therrien ought to have concluded that the certificate of offence was not
+“complete and regular on its face”, as required by s.9.1(2)
+poa.
+philosophy of
+the provincial
+offences act
+
+the purpose of the
+poa
+is set out in the
+statute itself
+
+and has been addressed repeatedly in the jurisprudence.
+
+for example, in
+r. v. davis, the ontario
+court of appeal commented on the
+poa
+’s philosophy being incompatible
+with placing form over substance:
+…the act is intended to permit judges to decide cases
+on their merits, to deal efficiently and inexpensively with the province’s
+large volume of minor regulatory offences, and to avoid having proceedings
+invalidated because of technical objections or irregularities having no
+prejudicial impact on a defendant.
+
+
+that philosophy was “intended to establish a
+speedy, efficient and convenient method of dealing with offences.”
+
+
+in r. v. kwoon, justice howden noted that
+the arrival of the poa “introduced a procedure weighted toward dealing with
+provincial offences on the merits in realistic, decisive terms rather than on formal
+or procedural technicalities.”
+
+default proceedings
+
+where, as here, a defendant fails to appear at
+trial, s.9.1(2)
+poa
+requires a justice to examine the certificate of offence
+and enter a conviction “if the certificate is complete and regular on its
+face.” if it is not complete and regular on its face, s.9.1(3)
+poa
+requires the justice to quash the proceeding.
+
+of note, the jurisdiction of the justice to
+amend a certificate of offence (set out in s.34
+poa
+), or to entertain a
+motion to quash the certificate of offence (set out in s.36
+poa
+), does
+not extend to the special powers and procedure conferred by s.9.1
+poa
+in
+the case of default proceedings. as justice javed noted in
+durham (regional municipality)
+v. souvannarath, “there is nothing improper about choosing to default for
+“tactical” reasons if the certificate of offence is defective.”
+
+“complete and regular on its face”
+
+although this phrase is not defined by statute, the
+courts have provided guidance on its proper interpretation. in
+london (city)
+v. young, court of appeal for ontario held that, in determining if the certificate
+was complete and regular on its face, “the justice is effectively determining whether
+the defendant received effective notice of all the information needed to decide
+whether to default.”
+
+
+at issue in that appeal was the import of an incorrect
+set fine amount on the certificate of offence. the court of appeal’s conclusion
+that an incorrect set fine amount invalidated the certificate of offence was clearly
+correct: without knowing the penalty one is facing, how could one make an
+informed decision whether to contest the offence or to concede default?
+
+however, not every deficiency or inaccuracy is
+sufficient to invalidate a certificate of offence. in
+chow v. york (regional
+municipality), justice kenkel held that “[a] certificate of offence will
+only be quashed on a s.9.1 review where there is potential prejudice to the
+defendant in that he or she does not have the necessary information required in
+order to decide how to proceed.”
+
+
+along this line, justice kenkel further found
+that where there is incorrect information that
+has the potential to mislead
+or cause prejudice to the defendant and her or his choice regarding default,
+the certificate is not regular and complete.
+
+
+in
+souvannarath, justice javed found that
+the concept of effective notice to enable a defendant to make an informed
+choice as to whether to default went beyond simply knowing the case to meet –
+it also implied an acknowledgment by the defendant that the state would be able
+to secure a lawful conviction.
+
+the alleged error
+
+the offence notice issued by p.c. agyei, as well
+as the certificate of offence placed before justice of the peace therrien, contained
+the following information:
+officer: agyei, kwame (#1473)
+date: 8 february 2023
+time: 8:33 a.m.
+name: dimilta, antonio r.
+address: 79 goudie cres,
+stouffville, ontario l4a 0l8
+municipality:
+stouffville
+place of offence: goudie cres / mostar st
+municipality:
+markham
+offence: disobey stop sign –
+fail to stop, s.136(1)(a) hta
+set fine amount: $85.00
+total payable: $110.00
+
+mr. dimilta submits that the place of the
+offence that is indicated is wrong, as the intersection of goudie crescent and
+mostar street falls within the municipality of whitchurch-stouffville, not
+markham. accordingly, he submits that the certificate of offence is not
+“complete and regular on its face” and ought to have been quashed upon
+inspection.
+
+as noted by mr. dimilta in his supplementary
+submissions, the role of a provincial offence appeal court is narrowly
+circumscribed: i must assess the record that was before justice of the peace
+therrien and determine if he erred by not concluding that the certificate of
+offence was not “complete and regular on its face” and by not quashing it.
+
+i have concluded that mr. dimilta’s argument
+fails for several reasons.
+
+first, on the record before justice of the peace
+therrien, it was open to him to conclude that the intersection of goudie
+crescent and mostar street was, in fact, in markham.
+
+justice of the peace therrien could have
+concluded that the address of 79 goudie crescent (which was
+not
+the
+place of the offence and, therefore, was not an essential element) was
+incorrectly noted as stouffville.
+
+in the alternative, justice of the peace
+therrien could have concluded that 79 goudie crescent was in stouffville, but
+the exact location of the offence
+near
+the intersection of goudie
+crescent and mostar street was in markham. as all adjacent municipalities have
+a border, on one side of that border is one municipality and on the other side
+is the other municipality. there was no reason for justice of the peace
+therrien to question the possibility that 79 goudie crescent fell on one side
+of the border and a location
+near
+the intersection of goudie crescent
+and mostar street fell on the other side.
+
+that the applicant now submits (and the
+respondent appears to concede) that the location of the offence was actually in
+stouffville, not markham, is of no moment because that information was not
+before justice of the peace therrien. there was no basis for him to conclude
+that markham was an error. simply put, my role as
+poa
+appeal judge does
+not involve playing monday morning quarterback.
+
+in
+souvannarath, justice javed quite
+correctly found that “out of area” was not a municipality and was, therefore,
+wrong. in the present case, there was no reason for justice of the peace
+therrien to find that “markham” was not a municipality or was the wrong
+municipality.
+
+second, in determining if the certificate of
+offence was “complete and regular on its face”, justice of the peace therrien
+was obliged to consider if the information contained therein had the potential
+to mislead or cause prejudice to the defendant.
+
+the totality of the information before justice
+of the peace therrien included the following:
+•
+mr. dimilta resided on goudie crescent.
+•
+the alleged offence took place near the
+intersection of goudie crescent and mostar street. presumably, mr. dimilta was
+intimately familiar with that location.
+•
+p.c. agyei served mr. dimilta with the offence
+notice at the scene of the alleged offence. there could, therefore, be no confusion
+about where the offence allegedly occurred.
+•
+the back of the offence notice provided a trial option
+at the ontario court of justice in newmarket in the regional municipality of
+york.
+
+on the totality of the information before
+justice of the peace therrien, there was no basis for him to conclude that there
+was any reason for mr. dimilta to have been misled or prejudiced.
+
+third, and lastly, there is no question that the
+regional
+municipality is correct, as both
+local
+municipalities,
+markham and stouffville, fall within the regional municipality of york.
+
+in
+souvannarath, justice javed noted that
+the trial was held in durham region while the offence allegedly occurred in york
+region, unlike in
+matzov, where the examination “was conducted within
+the jurisdiction of the court where the offence took place.”
+
+
+the potential for ms. souvannarath to be misled
+or prejudiced was evident. she was stopped on highway 407, west of keele street
+in the city of vaughan, within the regional municipality of york. and yet her
+offence notice directed her to attend for trial in a completely different
+regional municipality, the regional municipality of durham. understandably, ms.
+souvannarath would believe there was some sort of mix-up, as the alleged
+offence was nowhere near the regional municipality of durham.
+
+at the time of the hearing of this appeal, on 13
+december 2024, i asked mr. dimilta for submissions on the import, if any, of an
+erroneous local municipality. the written submissions that i subsequently
+received from him were of no assistance.
+conclusion
+
+the comments of justice nakatsuru (then of the
+ontario court of justice) in
+r. v. tang
+(regarding the officer omitting
+to indicate “a.m.” or “p.m.” on the offence notice) are apposite to the present
+case:
+it is a far-fetched argument to suggest that the appellant
+was or could have reasonably been misled by this technical omission. there
+could only realistically be two possible times in which this offence could have
+been committed; a time in the late afternoon and a time in the very early
+morning. it would be readily apparent which was being alleged against the
+appellant. the omission was highly technical and could not have caused any
+prejudice. in my opinion, this certificate of offence was complete and regular
+on its face and there was no error in entering a conviction.
+
+
+in the present case, i am not satisfied that the
+totality of the evidence before justice of the peace therrien should have led
+him to conclude that the certificate of offence was not complete and regular on
+its face.
+
+i find that there was no basis to conclude that the
+certificate of offence contained erroneous information, let alone erroneous
+information that created the potential to mislead or prejudice mr. dimilta.
+
+mr. dimilta’s appeal is dismissed.
+released: 24 january 2025
+justice
+r.m. robinson
+
+s.2(1): the purpose of this act is to replace the summary conviction procedure
+for the prosecution of provincial offences, including the provisions adopted by
+reference to the
+criminal code (canada), with a procedure that reflects the distinction
+between provincial offences and criminal offences.
+
+r. v. davis,
+2017 onca 45, at para
+49.
+
+r. v. jamieson,
+1981 canlii 3223 (on ca), o.j. no. 1937 (c.a.), at para
+5.
+
+r. v. kwoon,
+ o.j. no. 4989 (s.c.j.), at para 13. see also justice
+o’neill’s decision in
+york (regional municipality) v. abadehee,
+
+o.j. no. 918 (s.c.j.), at para 14.
+
+durham (regional municipality) v. souvannarath,
+2019 oncj 177, at para
+11.
+
+corporation of the city of london v. young et al
+(2008),
+2008 onca 429 (canlii), 91 o.r. (3d)
+215 (c.a.), at para
+29.
+
+chow v. york (regional municipality),
+2018 oncj 818, at para
+7.
+
+chow, supra, at para
+9.
+
+souvannarath, supra, at para
+18.
+
+souvannarath, supra, at para
+24.
+
+r. v. tang,
+2016 oncj 627, at para
+3.

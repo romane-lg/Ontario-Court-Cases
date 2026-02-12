@@ -1,0 +1,2792 @@
+source url: https://www.canlii.org/en/on/oncj/doc/2025/2025oncj244/2025oncj244.html
+
+warning
+the court hearing this matter directs that the following notice be
+attached to the file:
+a
+non-publication and non-broadcast order in this proceeding has been issued
+under
+subsection 486.4(1)
+of the
+criminal code.
+this subsection and
+subsection 486.6(1)
+of the
+criminal code,
+which is concerned with the
+consequence of failure to comply with an order made under
+subsection 486.4(1),
+read as follows:
+486.4 order
+restricting publication
+— sexual offences.
+— (1) subject to subsection (2), the presiding judge or justice
+may make an order directing that any information that could identify the victim
+or a witness shall not be published in any document or broadcast or transmitted
+in any way, in proceedings in respect of
+(
+a
+) any
+of the following offences:
+(i) an
+offence under section 151, 152, 153, 153.1, 155, 160, 162, 162.1, 163.1, 170,
+171, 171.1,172, 172.1, 172.2, 173, 213, 271, 272, 273, 279.01, 279.011, 279.02,
+279.03, 280, 281, 286.1, 286.2, 286.3, 346 or 347, or
+(ii) any
+offence under this act, as it read from time to time before the day on which
+this subparagraph comes into force, if the conduct alleged would be an offence referred
+to in subparagraph (i) if it occurred on or after that day; or
+(
+b
+) two
+or more offences being dealt with in the same proceeding, at least one of which
+is an offence referred to in paragraph
+(a).
+(2)
+mandatory
+order on application
+— in proceedings in respect of the offences referred
+to in paragraph (1)(
+a
+) or (
+b
+), the presiding judge or justice
+shall
+(
+a
+) at
+the first reasonable opportunity, inform any witness under the age of eighteen
+years and the victim of the right to make an application for the order; and
+(
+b
+) on
+application made by the victim, the prosecutor or any such witness, make the
+order....
+486.6 offence
+— (1) every person who fails to comply with an order made under any
+of
+subsections 486.4(1)
+to (3) or subsection 486.5(1) or (2) is guilty of an
+offence punishable on summary conviction.
+ontario court of justice
+citation:
+r. v. j.t., 2025 oncj 244
+date: 
+2025 04 30
+court
+file no.: pembroke 23-37100207
+between:
+his majesty the king
+— and —
+j.t.
+before
+justice j.r. richardson
+heard
+on january 6, 8, 13; february 16, 2025
+reasons
+for judgment released on april 30, 2025
+richard morris.................................................................................... counsel
+for the crown
+virginia dolinska............................................................................. counsel
+for the accused
+richardson,
+j.:
+introduction
+
+jt is charged with sexually assaulting gg between the 4
+th
+of march 2012 and the 23
+rd
+of june 2012 at garrison petawawa. at
+the time of the alleged offence, both jt and gg were members of the canadian
+military working in the kitchen at the normandy court cafeteria on the base.
+
+the crown elected to proceed by indictment.
+
+this case turns on the assessment of credibility and reliability
+of various witnesses and the application of
+r. v. w.(d.),
+1991 canlii 93 (scc), 1 scr
+742.
+life in the kitchen at garrison petawawa
+
+the canadian military is a complex beast. this case demonstrates
+that in microcosm.
+
+as one might expect there are number of layers of structure and
+bureaucracy in the operations of a kitchen in the canadian forces which are
+germane to the facts of this case.
+the first layer – assignment
+to a unit
+
+garrison petawawa is home to approximately 5000 members of the
+canadian forces, serving in a number of regiments and units including:
+a)
+2 canadian
+mechanized brigade group and signal squadron which includes:
+i)
+headquarters
+for the brigade group and signal squadron;
+ii)
+the
+second regiment of the royal canadian horse artillery;
+iii)
+the royal canadian dragoons;
+iv)
+the first battalion of the royal canadian regiment;
+v)
+the
+third battalion of the royal canadian regiment;
+vi)
+the second
+combat engineer regiment;
+vii)
+the second service
+battalion.
+b)
+427 special operations
+aviation squadron;
+c)
+450 tactical
+helicopter squadron;
+d)
+canadian special
+operations regiment.
+
+the units of the canadian forces are largely designed to be
+self-contained and to be self-supporting in battle. thus, in the case of
+kitchen personnel, each regiment or squadron has its own cooks. when the
+regiment or squadron is deployed, their cooks go with it.
+
+when they are all on base, however, the cooks for most regiments
+and squadrons work at the normandy court kitchen, which essentially serves as a
+base-wide cafeteria. the operations of the kitchen are managed by a service
+battalion.
+
+there are, however, exceptions. although every regiment or
+squadron employs cooks, those cooks do not always have to report to normandy
+court kitchen. only if the regiment or squadron has an agreement with the
+service battalion, will the cooks be regularly expected to report to normandy
+court. regiments or squadrons who do not have agreements are not expected to
+report, unless they do so by agreement between commanders.
+
+in this case, i heard evidence that there was constant tension
+between the kitchen and the various units to get enough cooks to staff the
+kitchen.
+
+this background is important because i heard evidence that gg was
+later a member of a squadron that did not have a standing agreement with the
+kitchen to supply cooks.
+
+it is also important because i heard evidence that jt was
+deployed to various assignments while he worked in the kitchen, which may have
+limited his opportunity to commit the offence.
+the second level -- rank
+
+in the military, as one might expect, rank means everything. 
+while all members of the military have regular conversations with their
+immediate supervisors (who usually hold a rank directly above them), i heard
+evidence that it is extremely unusual for lower ranks and civilian employees to
+speak to members who are of two or more ranks above them unless they are spoken
+to. the only exception to this rule is if the member two or more ranks above
+them is their immediate supervisor.
+
+in this case i heard a great deal about the rank structure that
+was in place in the normandy court kitchen which is comprised of as follows:
+a)
+at the highest level is a regimental sergeant major (rsm), who deals
+with serious personnel problems. no one with that rank testified before me as
+it is evident that what happened to gg was never brought to the attention of
+the rsm. the rsm is not a member of kitchen staff but is an individual who is
+assigned to a particular regiment, squadron or the base as a whole.
+b)
+below the rsm is a chief warrant officer. no one who was a chief
+warrant officer at the time that this matter unfolded testified before me. any
+significant personnel issues, such as sexual harassment and sexual assault, at
+the normandy court kitchen would normally have been brought to the attention of
+the chief warrant officer.
+c)
+below the chief warrant officer is the warrant officer who is
+responsible for the day-to-day operations and management of the normandy court kitchen. 
+in this case, i heard evidence from bonnie von dungern and chris parker, who
+were both in charge of the kitchen at times when gg and jt worked there. as
+the day-to-day manager in the kitchen, the warrant officer is sometimes
+referred to as the kitchen officer.
+d)
+below the warrant officer are three or four sergeants. they are
+responsible for various operations in the kitchens and they report to the
+warrant officer. by 2020, jt was a sergeant in the kitchen and he was
+responsible for, among other things, scheduling.
+e)
+below the sergeants are master corporals. from what i could gather,
+master corporals function as team leads in the day-to-day preparation of meals
+in the kitchen. they also do some cooking themselves.
+f)
+below the master corporals are corporals. most of the cooks that
+actually prepare the meals are corporals. in 2012 to 2013 when the offence is
+alleged to have been committed, both gg and jt were corporals and both were
+cooks.
+
+as i stated, i heard evidence that one did not speak to upper
+ranks unless one was spoken to. this would be deemed to be disrespectful. 
+thus, although corporals, master corporals and sergeants worked together a lot,
+the warrant officer who was managing the kitchen was very isolated. they only routinely
+communicated with the sergeants and issues and problems that needed their
+attention were expected to flow up through that chain of command.
+
+it was not protocol for a person, like gg, who wanted to complain
+about sexual assault and/or sexual harassment in the workplace, to do so
+directly to the warrant officer in charge of the kitchen.
+
+a live issue in this case is whether this explains the difference
+in the evidence i heard about meetings between gg and warrant officer parker
+and gg and warrant officer von dungern. another live issue is whether this
+explains gg’s delay in reporting the incident to the police. i will comment
+extensively on these issues below.
+the third layer: regular
+force, reservist and civilian employee
+
+layered on top of this is yet another structure where there are:
+a)
+regular force
+members;
+b)
+reservists; and
+c)
+civilian
+employees.
+
+in this case, jt was a regular force member who had permanent,
+full-time employment.
+
+gg, on the other hand, was a reservist. while her employment was
+full-time, it was not permanent until well after the date of the alleged
+incident. she essentially worked a number of contiguous “class b” contracts
+between 2011 and 2017. in 2017, she became a member of the regular force.
+
+she explained that a class b contract was a contract with a term
+of between 30 and 180 days in length. she also explained that class b
+reservists are normally not entitled to benefits, other than basic medical
+benefits available at the base medical clinic. those benefits do not include
+dental or prescription drugs.
+
+as she put it, reservists are also “their own career managers”,
+which i took to mean that they do not enjoy the same level of career planning
+oversight that regular force members do. she said that she was constantly
+looking at postings for contracts in order to remain employed.
+
+a live issue in this case, which i will discuss in greater detail
+below, is whether gg’s status as a class b reservist also meant that she had to
+keep silent about the allegations before the court, out of fear that reporting
+would have led to reprisals, including whether her contract would be renewed.
+
+reservists were often looked down upon because they were coming
+in as “part-time” soldiers who were on contract to work full-time hours. there
+were gaps in training and practice in the cooking trade. there was a
+perception that reservists were not as capable or as efficient as regular force
+members.
+
+reservists on contract were also under pressure to impress their
+superiors in order to get additional contracts or become members of the regular
+force.
+
+one witness i heard from was not a member of the military at all,
+but a civilian employee. civilian employees were essentially the wait staff
+and the dishwashers of the military. cooking was the exclusive work of the
+military members, regular force and reservists, who worked in that trade. 
+serving food, bussing tables, washing dishes and other non-cooking tasks, on
+the other hand, were performed by civilian employees. these employees were
+also almost always contract employees.
+cooks are soldiers first – physical
+fitness and military proficiency was still important
+
+in this case, it was not uncommon for the military members of the
+kitchen to start each day with physical fitness exercises, which would consist
+of ruck marches, activities in the gym, such as basketball, or circuit training
+which consisted of running, push-ups and sit-ups.
+
+“ruck marches” are marches where members are expected to don a
+backpack with a certain weight in it and complete a march through the base. the
+weight is designed to replicate the “kit” that a soldier would have on her
+person if she were deployed to the field.
+
+gg recalled that when she worked at normandy court, the ruck
+march usually took the same route through the base. the ruck march involved
+going up and down sand hills, doing push-ups and things of that nature. these
+marches usually lasted 45 minutes to an hour. members would march, then return
+to their unit where they would shower. some members went home after ruck march
+to shower and then returned to the base to take up that day’s assignment.
+
+there were showers at the normandy court kitchen.
+
+whether the members did ruck marches or some other kind of
+physical fitness depended on the whim of their shift officer in charge or the
+warrant officer. some were more keen about it than others.
+
+all members also had to maintain standard military proficiency,
+including proficiency with weapons, in the event that they were deployed to a
+theatre of war.
+
+all of this created an environment in the normandy court kitchen that
+was essentially rigid, highly-structured, well-organized chaos.
+glossary of some military
+jargon used in this case
+
+as one might imagine, everyone in the military uses a great deal
+of jargon which is mystifying to people outside the military community. here
+are some terms that one needs to understand in order to understand the nuances
+of this case:
+a)
+“dagged red”. i
+do not know the origin of the term or what “dag” stands for, but i do know from
+having presided and practiced in renfrew county for over ten years that when
+someone is “dagged red”, that is military jargon for “not deployable”. when
+someone is “dagged green”, they are deployable.
+b)
+“op honour”. “op
+honour” refers to “operation honour” a program in place in the canadian
+military designed to improve the military’s response to sexual misconduct. it
+was implemented in approximately 2015, in response to the justice deschamps’
+report concerning sexual misconduct and sexual harassment in the canadian armed
+forces. op honour essentially required all allegations of sexual assault and
+sexual harassment to be reported up the chain of command. op honour was not in
+place when the alleged incident occurred between gg and jt in 2012.
+c)
+“sharp
+training”. “sharp” is referred to in former justice deschamps’ report
+concerning sexual misconduct and sexual harassment in the canadian armed forces
+from march 2015. “sharp” is an acronym for “standard for harassment and racism
+prevention program”. it was introduced in 1998. justice deschamps noted in
+her report that “…after a few years, the program lost its lustre”. sharp was theoretically
+in place when the alleged incident occurred between gg and jt in 2012.
+d)
+“pcc chart.” 
+this is a chart in the kitchen which set out the various tasks that the members
+of the kitchen staff were designated to do on a particular day.
+cast of characters in this case
+
+jt, the accused, is a regular force member of the canadian
+forces. when the incident in question took place, he held the rank of
+corporal. later, in 2020, when he had other interaction with gg, he held the
+rank of sergeant.
+
+gg, the complainant, was a reservist member of the canadian
+forces between 2009 and 2017. in 2017, she became a regular force member. she
+initially joined as a reservist in north bay, ontario. she transferred to
+garrison petawawa in november 2011. when the incident took place, she held the
+rank of corporal. in 2020, she was still either a corporal or a master
+corporal. in other words, she was ranked below jt.
+
+carol cliché (“cliché”) was a civilian employee of the department
+of national defence assigned to work in the normandy court kitchen. her
+classification was kitchen helper. she is now retired.
+
+chief warrant officer chris parker (“parker”) was the kitchen
+manager at the normandy court kitchen in 2012. he then held the rank of
+warrant officer. he is now retired.
+
+warrant officer bonnie von dungern (“von dungern”) was the
+kitchen manager at the normandy court kitchen between 2018 and 2022. she is
+now retired.
+
+master warrant officer steven ellis (“ellis”) is a member of the
+canadian military. at the time of the incident, he was gg’s boyfriend. he was
+also a cook posted to the royal canadian dragoons. he worked at the normandy
+court kitchen in various capacities. when the incident took place, he held the
+rank of sergeant. he was promoted to warrant officer shortly after that.
+
+sergeant joely duquette (“duquette”) was gg’s superior when gg
+was assigned to 450 squadron at garrison petawawa. i heard evidence that suggested
+that she and gg were friends. i also heard evidence that she was gg’s
+immediate supervisor at 450 squadron. she was not called to give evidence by
+either party in this case.
+
+sergeant (first name unknown) daigle (“daigle”) was a sergeant in
+the normandy court kitchen in 2020. she was not called as a witness in this
+case.
+
+(unknown rank) julie lai (“lai”) was a peer of gg’s in 2012. gg
+testified that lai went on a ruck march with her the morning of the incident. 
+gg also gave evidence that she told lai about what happened. lai was not
+called as a witness in this case.
+
+warrant officer (first name unknown) saunders was a person
+present in the normandy kitchen on a day that gg went to work there in 2020. i
+do not know what warrant officer saunders’ position was. they were not called
+as a witness in this case.
+evidence of gg
+examination in-chief
+
+gg is from sturgeon falls, ontario. she joined the canadian
+military at the age of 17 in 2009 because it seemed like the right thing to do,
+given that she came from a military family.
+
+she went to canadore college in north bay, ontario to study
+culinary arts but only completed one year because she could not afford to
+continue. she did some aptitude testing to determine which trade in the
+military best suited her and she settled on becoming a cook.
+
+after she transferred to petawawa, she worked with jt. she
+indicated that they were both the same rank.
+
+she identified jt “in dock” in court. when asked how she was
+sure that the man that she identified was jt, she stated, “because you don’t
+forget him.”
+
+gg recalled that on the morning in question, the kitchen staff
+did a ruck march before reporting for her shift as a cook. she recalled that
+it was a sunny morning. she was dressed fairly lightly in olive drab military
+attire because it was warm outside. between eight and twelve members
+participated.
+
+gg reported at 8:00 am. she then went on physical training,
+which involved the ruck march, between 8 and 9. she was then required to
+report at 10:30 for the balance of her shift. the period between 9 and 10:30
+would be used to shower.
+
+gg recalled a number of members on the ruck march, including jt. 
+she recalled marching beside lai. she recalled one member, who was not
+terribly fit, struggling and vomiting during the march.
+
+after the march, gg showered at the shower facilities in the
+kitchen. she recalled showering there that day because she remembered she
+slipped in the shower. she recalled that lai went home to shower.
+
+after showering, she donned her kitchen uniform.
+
+she returned to her post at about 10:15 am.
+
+when she arrived, she checked the pcc chart. she was assigned to
+prepare vegetables on the day in question.
+
+she recalled that jt was there, standing by a steam jacket, which
+is used to boil pasta or chilli. he told her that he would “eat my sweaty
+pussy after a ruck march”.
+
+gg indicated that no one else was in the vicinity when the
+comment was made. she could not recall whether she had any interaction with jt
+up to the point that the comment was made. she knew that the comment was
+directed to her because he made eye contact with her and called her by her
+first name.
+
+gg stated that she was “stunned” by the comment and was not sure
+how to take it. she found it very distressing.
+
+she stated that when the comment was made, the kitchen would be
+preparing lunch for the early shift of military members. the lunch would have
+to be on the line by 10:30 to 11.
+
+she denied stating anything to him in response. after checking
+the pcc chart, she went to the fridge and grabbed some food. before entering
+the fridge, she had further interaction with jt. she stated that he bent her
+over the counter and pretended to penetrate her from behind. she stated that
+the right cheek of her face was on the counter. she stated that he grabbed the
+back of her head by the bun of her hair and forced her head down to the
+counter. she stated that her chest was on the counter and her hips were on the
+edge or lip of the counter.
+
+although he was thrusting his hips behind her, he did not make
+physical contact with her. she stated that she could feel the thrusting from
+his hand on her hair and she could also see his hips moving. she clarified
+that the only physical contact was his hand on the back of her head.
+
+she estimated that the thrusting lasted about ten seconds. she
+was not wearing a watch. she stated that “it felt like forever”. she could
+not recall how many times he made the thrusting motion.
+
+he did not say anything else and did not make any noises.
+
+it ended when she pushed herself up and got away. she grabbed
+the counter by both hands and pushed herself up.
+
+once she got away from him, gg went outside and “lost my shit”. she
+explained that she went out there and cried and had two or three cigarettes. a
+civilian employee of the kitchen, carol cliché, was there.
+
+she told cliché what happened. she reported that cliché took her
+to the office to speak to parker. she stated that parker made it clear to her
+that if she was to pursue the matter further her career would be over. gg
+stated that she told parker about the “sweaty pussy” comment and the pushing
+and thrusting.
+
+when asked how she took parker’s comments, she stated that she
+took them to mean that, “if you complain about sexual assault you are not to be
+taken seriously and they will end your career.” when asked who “they” are, gg
+stated, “the old boys club”.
+
+after meeting with parker, gg finished her shift. she had no
+idea what jt did.
+
+gg did not take any further steps to complain until 2020.
+
+she did not recall ever having to work with jt again between the
+incident and 2020.
+
+in 2020, gg was assigned to 450 squadron. she recalled that the
+squadron was on an exercise in louisiana. upon returning from that exercise,
+her squadron sent her to work in the kitchen.
+
+when gg reported for duty at the kitchen, she was told by von dungern
+to report to jt.
+
+gg was “under the impression” that her boss at 450 squadron (duquette)
+had sent von dungern “strict guidance” that gg was not to work with jt. gg
+stated that she later learned that this was not true. she ultimately worked
+for jt for about four days. by the time 2020 rolled around, jt had been
+promoted to sergeant.
+
+gg recalled that she had a meeting in the conference room at the
+kitchen with von dungern, saunders and daigle.
+
+after this meeting gg stated that she went home and tried to kill
+herself. she was admitted to a psychiatric facility for eight days. after
+that, she went back to work at 450 squadron. she never saw jt again.
+
+gg stated that after she returned to 450 squadron, her
+commanders repeatedly asked her to go work at the kitchen. she told them that
+there was a conflict of interest and they told her that there was no proof with
+respect to her allegations. at that point, gg decided that the military was
+not protecting her. she reasoned that the only way for her to protect herself
+was to report what happened. she went to the military police and reported the
+incident.
+
+she resigned her position in the military on april 15, 2022.
+
+gg stated that 450 squadron was one of the units that did not
+have an agreement to staff the kitchen. although she was technically employed
+as a cook, she did not do any cooking. she took a number of courses,
+inventoried rations and did computer work. she stated that, in her experience,
+this is not unusual when cooks are with their units.
+cross-examination
+1.
+inconsistency re the timing of the incident
+
+gg agreed that she sustained an injury to her knee which involved
+a torn meniscus. she stated that her first surgery was sometime in 2011. she
+had a second surgery in 2012.
+
+although gg admitted to experiencing physical limitations, she denied
+that her physical training in the military was modified to accommodate those
+limitations. she stated that she continued to take part in drill, work as
+normally and take part in ruck marches. even though she was advised against
+prolonged standing, she continued to work as a cook. “yes, but we’re cooks”,
+she said. “we stand.”
+
+defence counsel asked gg to confirm that the incident happened in
+the summer of 2012. gg disagreed, stating that it happened in april or may
+2012.
+
+defence counsel then confronted gg about what she said in her
+police statements about when the incident took place:
+a)
+she acknowledged
+that in her may 21, 2021 statement, she told police that the incident took
+place in july 2013. she said that this was the best of her recollection then.
+b)
+she acknowledged
+that in her may 31, 2021 statement, the incident took place in the summer of
+2012. she stated that “summer” was accurate.
+c)
+she also
+acknowledged that in her july 2022 statement, she stated that the incident took
+place in the summer of 2012 and she tied the timing to her knee injury.
+
+later in cross-examination, gg stated that she was trying to be
+honest and accurate when she said it happened in the summer. she said that she
+was scared. she also indicated that in her view her account has not changed.
+
+as i will discuss below, i find that the incident occurred in
+2012 before jt went on paternity leave. during this time, jt was working in
+the kitchen at the same time as gg. it was also before parker went on his
+french course.
+2. inconsistency regarding
+conversation with jt before “sweaty pussy” remark
+
+defence counsel cross-examined gg about whether there was any
+other discussion that morning, but before he made the comment about wanting to “eat
+her sweaty pussy”. gg said there was not.
+
+defence counsel then confronted gg with her may 21, 2021 statement
+in which she said that they exchanged a “good morning” and had a “normal
+conversation” before jt said those words. gg stated that she did not see this
+as a contradiction. she admitted, however, that she did not give evidence
+in-chief about any conversation with jt that morning before the “sweaty pussy”
+remark.
+
+i find that this is not an inconsistency. gg testified that the
+incident took place in short succession to her arrival in the kitchen, her
+checking the pcc chart and the “sweaty pussy” remark. when she gave her
+evidence she said it took place “bang, bang, bang.”
+
+nothing turns on this.
+3.
+was gg’s head shaved when the incident took place or did she have her
+hair in a bun?
+
+gg gave evidence in-chief that when the assault took place, jt
+grabbed her head by her hair, which was in a bun. gg acknowledged that when
+she gave her statement on may 31, 2021, she told police that she had a shaved
+head.
+
+in an excerpt of her may 21, 2021 statement that defence counsel
+put to gg later (discussed below), gg did tell police that her hair was in a
+bun and when the assault took place, jt grabbed her hair by the bun and put her
+down on the counter.
+
+as i will discuss below, this is a significant inconsistency.
+4. did the incident
+last a few seconds or five minutes?
+
+in-chief gg stated that the incident lasted about ten seconds.
+
+she acknowledged that in her may 21, 2021 statement, she told
+police the incident lasted about five minutes.
+
+this is not a material inconsistency. witnesses often misjudge
+the amount of time that an incident takes. this is particularly so where the
+incident is traumatic to the witness.
+
+nothing turns on this.
+5. did she feel him
+thrusting?
+
+in-chief, gg stated that she could feel jt thrusting from behind
+through his hand on her hair.
+
+in her may 21, 2021 statement, however, she stated that she did
+not feel any thrusting but her head was down and she could see what he was
+doing.
+
+when this was put to her by defence counsel, gg agreed that she
+never actually felt any thrusting. she stated that when this took place, her cheek
+was on the counter and she was facing to the side so she could see the
+thrusting.
+
+she agreed that she never felt his hips on her bum. she agreed
+that she only felt his hand on the back of her neck.
+
+i
+find that nothing turns on this. if anything gg’s clarification that jt’s
+touching of her was limited to her hair/head and there was no touching of her
+behind adds to her credibility. she could have easily made more of the
+incident than she did.
+6. did she push herself
+up or did the incident just stop?
+
+in-chief,
+gg stated that she pushed herself up from the counter after jt pushed her down
+by the hair, which was in a bun.
+
+gg
+acknowledged that in her may 21, 2021 statement, gg told police that after he
+pushed her down by her hair (which was in a bun), “it just stopped and he went
+about his merry way”.
+
+i
+find that nothing turns on this. this is a peripheral detail.
+7. whether the incident
+would have been noticed by anyone else
+
+a
+lot of time was spent in this case clarifying the layout of the kitchen. photographs
+of the kitchen were also filed in evidence.
+
+gg
+stated that at the time this incident took place, there would have been between
+eight and twelve people on shift. it is also clear that like gg, the other
+members of her shift would have been returning to work from their showers after
+the ruck march.
+
+defence
+counsel suggested to gg that a person working in the kitchen would have noticed
+what jt was doing. gg stated that it depended where the person was located. 
+she stated that there were a lot of blind spots in the kitchen.
+
+she
+added that a lot of people from the first shift would have been gone for lunch.
+
+i
+find that nothing turns on this. people commit horrible offences openly all
+the time. i find that there were opportunities for jt to commit the offence
+when he and gg were working in the kitchen alone. i accept gg’s evidence that
+she had just returned from ruck march, that the incident took place before the
+official start time of her shift. others had either gone home to shower or
+were showering in the kitchen. the early shift would have been on their
+lunch.
+8. whether gg engaged
+in sexual innuendo with jt regarding ellis
+
+gg
+denied joking in a sexual manner with jt about ellis sometime in 2012.
+
+i
+will discuss this in greater detail below. i am satisfied that raising this is
+nothing but an attempt on the part of jt to make gg look bad in the eyes of the
+court and has nothing to do with the allegations.
+9. gg’s conversation
+with cliché after the incident and the report of the incident to parker
+
+gg
+agreed that she told cliché about jt’s “sweaty pussy” remark and that jt
+assaulted her by bending her over the counter. she did not remember whether
+she told cliché that jt wanted to sleep with her.
+
+gg
+stated that cliché took her to parker’s office. gg stated that cliché was with
+parker alone for a few minutes.
+
+after
+cliché met with parker, gg met with him by herself. she told parker what
+happened, including jt’s inappropriate remarks and the assault at the counter. 
+she stated that parker told her that if she “officially” told him what happened
+she would lose her career.
+
+gg
+acknowledged that when she gave her statement to the police on july 21, 2022,
+she “believed” that cliché was still in the room during her conversation with
+parker and that cliché “was like a witness now to all of this.” she
+acknowledged this contradiction and stated that to the best of her recollection
+cliché was there.
+
+as
+i will discuss below, the issue of cliché’s involvement in gg’s meeting with
+parker and whether the meeting ever took place is a conflict in the evidence
+that cannot be resolved.
+10. gg’s conversation
+with ellis
+
+gg
+stated that at the time of the incident ellis was her boyfriend. he was also
+working in the kitchen. she told him about the incident.
+
+she
+denied having any knowledge of whether parker and ellis had a good
+relationship.
+
+defence
+counsel then confronted gg with her july 21, 2022 police statement where she
+told police that parker and ellis did not have a good relationship due to
+something that happened when they were deployed to iraq. when this was put to
+her, gg acknowledged that this was true.
+
+later
+in cross-examination, defence counsel suggested to gg that she only told ellis
+about the comment and she did not tell ellis about the alleged sexual assault. 
+gg denied this and reiterated that she and ellis were in a relationship. when
+asked why ellis might say something different, gg stated that ellis was very
+“career driven”. she stated that the military culture is that it is better to
+keep quiet.
+
+gg
+denied that ellis introduced her to jt in 2010 or 2011.
+
+as
+i will discuss below, ellis testified but i have significant difficulties
+accepting his evidence with respect to what, if anything, he and gg discussed
+in their residence. this is because ellis had absolutely no memory of the
+discussion until the military police told him the exact nature of the
+allegations.
+11. whether the “sweaty
+pussy comment” took place at the same time as the alleged assault or after it
+
+gg
+again stated in cross-examination that she was standing at a pillar checking
+the pcc chart when jt made the “sweaty pussy” comment. she also again stated
+that when the sexual assault occurred, she was no longer at the chart but at
+the counter. she estimated that about twenty seconds transpired between the
+comment and the sexual assault.
+
+gg
+acknowledged that in her may 31, 2021 statement, she essentially told the
+police that the sexual assault happened right after the comment.
+
+see
+my earlier comments with respect to the issue of whether there was conversation
+before the sweaty pussy remark.
+
+this
+is a peripheral detail.
+12. whether jt made the
+“sweaty pussy” comment when he was at the steam jacket or at the island
+
+gg’s
+evidence in both chief and cross to the effect that the “sweaty pussy” comment
+was made in the kitchen when she was standing at the pillar reading the chart
+and jt was standing near a steam jacket.
+
+in
+cross-examination, defence counsel confronted her with her may 21, 2021
+statement, in which she told police that he made the comment after he came down
+the hallway and leaned on the table talking to her. she agreed that she made
+that statement.
+
+i
+find that nothing turns on this inconsistency.
+
+it
+is a peripheral detail.
+13. whether gg avoided jt
+or took other steps to protect herself after the sexual assault
+
+gg
+stated that she had no memory of avoiding jt after the alleged sexual assault
+or taking any steps to protect herself.
+
+defence
+counsel confronted her with her may 21, 2021 statement where she told the
+police that she avoided jt for the rest of her shift and she asked a girlfriend
+to stay close.
+
+the
+law is well established that it is mythological reasoning to expect victims of
+serious offences to behave in particular ways. that includes the so-called
+“common sense” inference that a person will avoid the person who has sexually
+abused her: see
+r. v. arjd,
+2018 scc 6, aff’g
+2017 abca 237;
+r. v.
+dr,
+2022 scc 50
+aff’g
+2022 nlca 2;
+r. v. steele,
+2021 onca 186.
+
+nothing
+turns on whether gg remembers avoiding jt and asking a friend to stay close.
+14.
+whether gg suffered reprisals after her disclosure
+
+gg
+reiterated that parker told her in 2012 that if she disclosed what happened,
+she would lose her contract.
+
+gg
+stated that in 2020 she lost her career. she stated that she went on a medical
+release.
+
+i
+find that this is not an inconsistency. as i have stated, however, there are
+serious issues with respect to the issue of whether the conversation with
+parker took place as gg said it did. gg’s evidence on this score is
+diametrically opposed to the evidence of parker and cliché. it is not possible
+to come to a considered and reasoned conclusion with respect to which account
+is truthful.
+15. whether gg has a
+pecuniary interest in the outcome of the case.
+
+gg
+denied that she was being compensated for coming forward. she stated that she
+was no longer paid by the military but she was still getting benefits from
+veteran’s affairs which included an income replacement benefit.
+
+i
+find that the income replacement benefit which gg is receiving through
+veteran’s affairs is for gg’s medical issues. i heard no evidence that the income
+replacement benefit was awarded on the basis that gg had been sexually
+assaulted or contingent on a finding that gg had been sexually assaulted.
+
+she
+does not have a pecuniary interest in the outcome of the case.
+16. gg and jt 2015
+encounter at cfb kingston
+
+gg
+agreed that she ran into jt when she was posted to cfb kingston in 2015. she
+agreed that she told jt that she could not stay at the normandy court unit
+because her therapist would not allow it. she disagreed that she asked jt to
+help her stay at the unit. she stated that she had no desire to stay at the
+unit.
+
+i
+will discuss this in greater detail below.
+17.
+gg’s report of the incident in 2020
+
+gg
+agreed that in february 2020, she made a report to her superior asking that she
+not be assigned to work with jt because of the alleged sexual assault. when
+asked who she made the report to, she stated, “probably sergeant duquette.” 
+she agreed that she was not certain as to whether she reported to duquette
+because she was on an exercise in louisiana and she was also hospitalized.
+
+gg
+agreed that she worked with jt for about three days before she made the report
+to von dungern. she agreed that she told von dungern that jt sexually
+assaulted her, but she did not go into details. she agreed that she made a report
+to duquette when she returned to petawawa in 2019. she also told duquette
+again in 2020 when duquette directed her to report to the normandy court
+kitchen to work. gg stated that when she reported to von dungern, she told von
+dungern about her prior reports to duquette. she stated that von dungern told
+her that that duquette did not disclose her previous reports.
+
+gg
+denied that the “only” thing (defence counsel’s parlance) that she told von dungern
+about was “sexual harassment, not sexual assault”.
+
+gg
+stated that when she was told to report to the normandy court kitchen, she was
+directed to report to daigle. daigle told gg to report to work for jt. she
+stated that she worked for jt for about two days before she had the
+conversation with von dungern, which took place in the conference room.
+
+as
+i will discuss in greater detail below, there is a significant difference
+between the evidence of gg and the evidence of von dungern, which is impossible
+to reconcile.
+
+based
+on the evidence of jt, von dungern and gg, however, i find that although gg may
+have been directed to report to daigle, there was interaction between her and
+jt. at that time, jt was responsible for scheduling and when gg did not attend
+for work he was trying to reach her to find out where she was.
+
+i
+note that neither party called gg’s immediate supervisor, duquette, with
+respect to what she relayed to von dungern about whether gg had difficulty
+working in normandy court.
+
+neither
+party called daigle.
+18. gg’s back injury
+
+gg
+agreed that when she was working with jt in 2020, she told him that she had a
+back injury. she denied telling him how she sustained the injury. she agreed
+that she told jt that the chain of command thinks that she is faking her back
+pain.
+
+nothing
+turns on this. i have discussed below how this may have affected jt’s view of
+the legitimacy of gg’s injuries and ability to work in the kitchen in 2020,
+eight years after the incident occurred.
+19. whether gg met jt’s
+wife and children
+
+gg
+stated that she met jt’s wife and children at the petawawa fair. she was not
+sure when they met. she said they talked about “random things” such as the
+petting zoo and the fair. gg stated that it was the first time that she met
+jt’s wife.
+
+gg
+identified a person in the courtroom as jt’s wife. it is common ground that
+the person in the courtroom that gg pointed out was not jt’s wife.
+
+nothing
+turns on this. this is a peripheral detail.
+20. the number of times
+that gg worked with jt
+
+gg
+agreed with defence counsel that her evidence in court in relation to the
+number of times that she worked with jt was the day the incident took place and
+in 2020.
+
+defence
+counsel then put to gg that she told the police in her may 21, 2021 statement that
+over the course of four years there were “repeated comments and ass grabbing
+and slapping” and “it was repeated”.
+
+i
+do not understand why defence counsel pursued this line of questioning. if
+anything it introduces the spectre of bad character evidence against jt, for
+the purpose of establishing an inconsistency in gg’s evidence.
+
+i
+find that it does not assist me one way or another.
+re-examination
+
+crown counsel put gg’s july 21, 2022 statement to her where she
+discussed the timing of the events in 2012. she agreed with what she stated
+in that statement – that is that the “sweaty pussy” comment was made in the
+kitchen right after ruck march. then the sexual assault which included the
+bending over the counter. in the statement, gg said, “it was like boom, boom,
+boom.”
+
+crown counsel asked gg who the “girlfriend” was that she asked to
+stay nearby. gg testified it was lai.
+
+crown counsel asked gg when she last saw duquette. gg stated that
+she last saw her in february 2023. she added that she believed that duquette
+relocated to the niagara region.
+my questions
+
+i
+asked gg about her first language as i noticed that in the course of her
+evidence that she spoke with an accent and occasionally had difficulty finding
+words. she told me that her first language is french and that she learned to
+speak english when she was three or four years old. she stated that she is
+considered bilingual in the military. she stated that she speaks french at
+home and that her son goes to french school.
+evidence of bonnie von dungern
+in-chief
+
+von
+dungern testified that she is now retired and has no ongoing involvement with
+the canadian forces.
+
+she
+came to garrison petawawa in 2018 as the kitchen officer. she held that post
+until 2022 when she retired. she has since moved to nova scotia and she
+testified before me by way of zoom.
+
+she
+stated that her move to kitchen officer at petawawa in 2018 was part of her
+promotion to warrant officer. prior to that she was a sergeant in the cook
+school, which is located at cfb borden.
+
+she
+had worked in petawawa before, however. she was there from approximately april
+2009 to june 2015. for the most part, during that period, she worked in the
+kitchen as a cook.
+
+she
+stated that she knew gg, but not on a personal level. she stated that she
+worked with gg in the kitchen and would see her around. she stated that the
+cook trade is a small trade in the military and one gets to know people. von
+dungern did not recall actually working side by side with gg. she stated that
+if she did, she would have only worked with her for a matter of days or weeks.
+
+von
+dungern recalled having one more direct interaction with gg once she became kitchen
+officer. to her recollection this interaction occurred in early 2020 or late
+2019. the interaction took place in a big office with windows that look
+outside.
+
+von
+dungern stated that the interaction occurred because gg was supposed to come
+work in the kitchen. von dungern noted that gg was assigned to 450 squadron. 
+“someone” told her that gg did not want to come to the kitchen. she recalled
+telling one of the sergeants (she could not remember who) to contact gg’s
+manager “to see what the deal is”.
+
+von
+dungern then recalled that one day “a guy” showed up in her office. she did
+not know who “the guy” was. she recalled that gg was with him. the guy told
+her that he was gg’s husband. he demanded that she take gg off the kitchen
+schedule because gg had an issue with one of the sergeants. von dungern told
+the man that she would have to talk to her manager about that. she stated that
+she was “pissed off” at being confronted by the man and she told him to “get
+out”. she noted that gg wanted to have a conversation and she told them to
+come back the next day.
+
+after
+this conversation, von dungern called her rsm. she told the rsm what happened
+about “the guy”.
+
+she
+then met again with gg and her husband. gg told her that she did not want to
+work in the kitchen because she had an issue with jt. von dungern testified
+that she asked gg what the problem was. gg told her that she did not want to
+work with him. von dungern told gg that she needed to “come up with something”
+and she told gg to talk to her manager. “she didn’t give me a lot of details
+as to why she didn’t want to work with him”, von dungern testified.
+
+she
+had no further involvement with the issue until she received her subpoena,
+which listed the charges before the court. von dungern stated that if gg had
+told her about an assault, she would have taken it up for her. she stated that
+she took gg’s conflict with jt as a “personality issue” and she thought that gg
+simply “didn’t like him”.
+
+von
+dungern recalled that when she spoke with gg and her husband, gg was “visibly
+upset” but she did not want to discuss a lot of details. she did not think it
+was something serious enough to take up the chain of command.
+
+von
+dungern repeated that she was upset that gg’s husband, who was also a member of
+the military, came into her office the way he did. “you don’t just waltz into
+someone’s office”, she said. “that’s not how you do it.”
+
+von
+dungern recalled knowing that there was “an issue” with gg. she stated that
+the sergeants in the kitchen would generally try to sort things out for
+themselves, but they would also often complain that the units were not sending
+enough cooks. she recalled hearing little bits of information that gg did not
+want to come to the kitchen. she recalled that she would see gg’s name on the
+schedule to work in the kitchen, and then all of a sudden, it would be off. 
+she would ask, “what happened to this person” and be told that gg’s manager
+took her off the schedule.
+
+von
+dungern added that it was hard to get people to work in the kitchen. she
+stated that it was “hard work” and it involved nights and weekends. for that
+reason, it was not uncommon for them to have a hard time getting cooks to
+work. for this reason, she did not get the impression that gg’s issue was
+“anything serious”. she stated that she just needed people to work in the
+kitchen.
+
+von
+dungern recalled that at the time of her involvement, there were three
+sergeants in the kitchen, sergeant desjardins, jt and sergeant duquette. she
+could not recall who she tasked to deal with the issue of having gg come to
+work in the kitchen.
+
+she
+admitted that jt might have been the person she tasked. she stated that he
+would have been tasked if he was the one who was doing scheduling. she stated
+that the sergeants’ responsibilities changed from time to time to allow them
+all an opportunity to do various aspects of assisting with the management of
+the kitchen. she did not know which sergeant was tasked with doing scheduling
+when she had her discussions with gg.
+
+she
+stated that she was not aware “right away” that jt was alleged to be “the
+problem”.
+
+von
+dungern stated that she told jt about this. she was not sure how long after
+her discussion with gg and her husband that conversation took place. she
+stated that the conversation was “completely verbal”. she recalled that he
+came to her shortly after and he thought that gg had a problem with him.
+
+von
+dungern recalled asking jt what he wanted her to do. he stated, “i want you to
+know that there may be an issue with me.”
+
+she
+recalled asking jt why gg had a problem with him. she recalled that jt told
+her that he thought gg was going to accuse him of harassment. he then stated,
+“but i was on parental leave when this supposedly happened.” she recalled that
+the allegations concerned “some kind of sexual harassment”, but stated that jt
+did not give her any details.
+
+she
+then said that he came back and gave her a flash drive with some information
+that she may need. she stated that she never read or looked at the flash drive
+and it was “wiped out along with everything else” when she retired.
+
+von
+dungern recalled that gg worked in the kitchen for one day. she remembered
+walking through the kitchen, seeing gg, and saying to herself, “oh, she is
+here. maybe the issue is resolved.” she stated that she did not have a
+conversation with gg to confirm that was the case.
+
+von
+dungern agreed, however, that gg was not her direct report. “typically if you
+are a lower rank, you don’t just waltz up and talk to the warrant. she
+probably would not have said anything to me unless i said something to her.”
+
+von
+dungern recalled that she had a lot of interaction with jt.
+
+she
+stated that her memory has “gotten really bad.”
+cross-examination
+
+von
+dungern did not recall gg ever mentioning that jt made an inappropriate comment
+to her.
+
+von
+dungern did not remember if gg ever told her that her issue with jt was a
+sexual harassment complaint. she recalled receiving that information from jt
+himself.
+
+when
+asked if gg ever used the words “sexual assault”, von dungern stated, “i would
+have to say no.” she added that, “as soon as someone says those words, i am
+going to go up the chain. that is what you do. there is no way she could have
+said those words to me because i didn’t go up the chain.”
+
+she
+agreed that if gg had said “those words”, she would have remembered it. she
+stated, “absolutely. especially at that time, it wouldn’t have just gone to my
+boss, it would have gone all the way up to the base commander and it probably
+would have gone to ottawa. you don’t mess around with that stuff.”
+
+she
+stated that she did not ask jt to write anything down. she might have asked
+him to send something by email, but she did not remember. “i just remember him
+saying that he was going to give me something. i don’t remember how i got
+it.”, she said.
+
+she
+could not remember whether she asked gg why she was bringing up this issue. she
+stated that if gg told her, she would have reported it. she added, “you get in
+trouble if you don’t.”
+
+von
+dungern acknowledged that she might have told jt that gg can’t work with him.
+
+she
+stated that at the time, jt was one of the sergeants in the kitchen. she
+stated that below him would have been a master corporal and gg would have
+worked under the master corporal.
+
+she
+stated that there might have been two meetings at two separate times with gg. 
+she recalled that “at some point”, gg came to her and said, “i don’t want to be
+here.” von dungern stated that she probably told gg that she needed to talk to
+her manager about it.
+
+she
+added that there was another time when gg told her that she cannot work with
+jt. she told defence counsel, “my memory is being jogged as you are talking to
+me.”
+re-examination
+
+in
+re-examination, von dungern acknowledged that although there would be another
+layer of command between gg and jt, (gg was a corporal, jt was a sergeant. a
+master corporal would have been between them in rank) jt and gg would be more
+likely to have regular interaction. she stated that there was no doubt that jt
+would be in a position of authority over her.
+carol cliché
+in-chief
+
+cliché
+testified that she is now retired. she worked at the normandy court kitchen as
+a kitchen helper between 2005 and 2018. she worked full time hours but did not
+have permanent status.
+
+cliché
+indicated that she retired due to medical reasons. she stated that she fell in
+front of the dish machine at the kitchen in 2008. she stated that she had
+decompression surgery on her back and the surgery was not effective. she now has
+pains down her legs and tremors. although it has been recommended that she
+undergo another surgery, she is refusing to do so.
+
+in
+order to alleviate pain, she is on opiate pain killers and she uses marihuana.
+
+it
+was clear to me when she testified that cliché was in pain. she continually
+readjusted herself in her chair which often resulted in a stifled wince. when
+she testified, she stated that she had not been able to get the opiates for
+four days due to supply issues at the pharmacy and was experiencing withdrawal
+symptoms.
+
+she
+stated that over time, the use of these substances have hindered her
+concentration and her speech. she has difficulty focusing and finding words. 
+her short and medium term memory is affected.
+
+i
+did not detect any outward sign that the opiates and marihuana that she said
+she takes had any effect on her evidence, nor did the withdrawal symptoms that
+she was experiencing seem to meaningfully impact her evidence.
+
+as
+a result of her injuries she is on a disability which is provided by sun life,
+canada pension plan and the military.
+
+she
+is 57 years of age. the pain she is under has obviously taken a toll as i
+would have said that she was older than her stated age.
+
+she
+does not think that she will ever work again. she said that her injuries are
+permanent and are just going to get worse.
+
+in
+a case that was full of military jargon, levels of military complexity and
+rank, cliché was delightfully direct in her evidence.
+
+she
+stated that she enjoyed her work at the normandy court kitchen. she had a
+number of friends and co-workers there. she only ever had issues with two
+people there. she said that overall, she was comfortable and happy.
+
+she
+knew both jt and gg. she knew that jt was a regular force member and gg was a
+reservist. she was friendly with gg at work and would talk to her. she did
+not socialize with gg outside of work.
+
+cliché
+stated that the summertime routine usually involved reservist cooks helping at
+normandy court because the base hosts a number of courses. she stated that
+august is the busiest month. she recalled working with gg in about the summer
+of 2012.
+
+cliché
+recalled having a conversation with gg. she stated that gg was on the
+breakfast line. she was going through the door to go from the dining area to
+the back of the kitchen. she stated that gg told her that she was not
+comfortable with jt. she could not remember “word for word”, gg’s exact
+words. cliché recalled that she told gg to tell jt to stop and if that did not
+work, to go through the chain of command.
+
+when
+pressed, she stated that she could not remember “word for word” what gg told
+her. she recalled gg telling her that jt was “trying to get in bed with her. 
+that’s what it came down to.”
+
+she
+stated that the conversation took no more than five minutes because she “can’t
+stand around and talk.” “i gotta work”, she said. she recalled that she was
+serving breakfast. she stated that this was the only time that she ever spoke
+to gg.
+
+this
+conversation took place on the breakfast line where you cannot see into the
+main part of the kitchen.
+
+when
+asked about gg’s demeanour, she stated that gg was upset. she recognized this
+by her voice and her body language. she stated that gg was usually “pretty
+bubbly”. she was not bubbly when they spoke. gg was not smiling.
+
+she
+stated, “i told her what i was taught to do. if someone comes to you in
+crisis, this is what you are supposed to tell them. that’s protocol. that’s
+what you’re trained to do.”
+
+when
+asked how gg reacted, cliché said she stated, “ok.” cliché added, “i told her
+there is help there for you if you need it. this is what you are supposed to
+do.”
+
+she
+could not recall whether gg gave her any details about what “getting in bed
+with jt” involved.
+
+she
+stated that this subject only came up in conversation once.
+
+she
+did not feel compelled to follow up because it did not concern her. “she was
+to deal with it on her own. i gave her advice. i told her what protocol was
+to do.”, she said.
+
+cliché
+stated that she did not work much with gg, if at all, after that. she recalled
+that gg hurt her knee and was on crutches. she recalled seeing gg right after
+gg bought a new vehicle and gg was on crutches. she was going off shift. 
+she did not talk to gg. “it was time to go home.”, she said.
+
+she
+stated that there are places in the kitchen where it is impossible to see or
+hear anything. she was aware of people having sex in a fridge or “punching the
+shit out of each other” if there was a beef between them. she stated that these
+were stories she heard about goings on in the kitchen before she started
+working there.
+
+she
+recalled telling gg not to go into the boxed lunch room or the fridges. she
+told her “do not leave yourself vulnerable in those areas.” she stated that
+this was all part of the same conversation.
+cross-examination
+
+cliché
+agreed with defence counsel’s suggestion that gg never told her about jt’s
+“sweaty pussy” remark. “no!,” she stated. “i would have remembered that”.
+
+she
+also agreed that gg never told her that jt bent her over the counter and
+simulated having sex with her. she stated that if gg had made those kinds of
+allegations to her, not only would she have remembered it, but she would have
+reported it.
+
+cliché
+recalled warrant officer parker was in charge of the kitchen. she agreed that
+she did not take gg to see parker to report jt. she stated that she would
+remember it if she had.
+
+she
+also stated that she never had a conversation with gg in the smoking area about
+jt. she stated that she did not believe that gg smoked.
+my question
+
+cliché
+agreed that she is a smoker.
+steven ellis
+in-chief
+
+master
+warrant officer ellis testified that he started in the regular force. he then
+transferred to a reserve unit. he then transferred back to the regular force. 
+he stated that he has 15 more years to work until he retires.
+
+he
+stated that he was in a relationship with gg between late 2011 and early 2014. 
+they never married. they lived together in pembroke. at the time of their
+relationship, she worked as a reserve cook at the normandy court kitchen. he
+stated that he was senior to her in rank and in the trade. they met at the
+cook school at cfb borden. when they met, he was in the reserve. he explained
+that he did not go back to the regular force until 2012.
+
+he
+recalled speaking to the police in 2022 about an incident involving gg which
+occurred at garrison petawawa in 2012. he stated that he barely recalled the
+incident.
+
+he
+stated that as the interview was unfolded, his memory of events and discussions
+with gg were triggered.
+
+he
+stated that gg came home and told him that something happened at work between
+her and jt. she recalled that gg started the discussion by asking him if he
+knew jt. he remembered that gg was uncomfortable with the discussion. she told
+him about an incident that occurred after physical training. he recalled
+telling her that she was well within her rights to report the incident. he
+told her that he would support her if she did.
+
+when
+asked what gg told him, he stated that she said that jt made a comment about
+how she smelled and he proceeded to push her over a box or a pile of something
+in the kitchen and tried to “hump” her in the kitchen. she stated that her demeanour
+was “heated” and “pissed off”. the event that she was telling him about had
+just happened.
+
+ellis
+stated that nothing ever came of the matter because gg wanted to leave it
+alone.
+
+when
+asked whether he remembered anything with more specificity, he stated that he
+remembered gg attributing a remark to jt about what she tasted like after pt [physical
+training]. “something along those lines”, he said. he recalled that she told
+him that the incident happened outside the change rooms at normandy court.
+
+when
+asked whether he encouraged her one way or another as to what she should do, ellis
+stated, “with the nature of what she was telling me, i was leaving the ball in
+her court. in my mind, i wasn’t telling her what to do because she would have
+to relive it. she’s not in my chain of command. it’s not my place to do
+something about it.”
+
+he
+added, “[gg] is a tough girl. if something bothered her, it bothered her for a
+short while. she didn’t have the mentality to be upset all the time.” when
+asked what happened, he stated, “we went on. that’s the military life. you
+get up and do it again.”
+
+when
+asked if he took any steps to support gg, ellis stated that she did not ask him
+to do so. he added, “i may have had a couple of side-bars. when i have
+official conversations, i tend to remember them more. not the same with
+side-bars.”
+
+when
+asked about the difference between “official conversations” and “side-bars”,
+ellis stated that something becomes “official” when it is put in writing. a
+“side-bar” is a more informal conversation “at the lowest level”. he stated
+that if the matter is not resolved after a “side-bar”, it would usually get
+escalated.
+
+he
+acknowledged that he could not remember having a “side-bar” with anyone about
+it. he stated that he was “pretty pissed off about it” and if gg had asked him
+to have a “side-bar”, he would have done so.
+
+he
+stated that he did not like mixing his personal life and work life. he tries
+to keep them separate. he stated, “if she needed me to step up and say something,
+i would. i don’t recall reporting that.”
+
+the
+crown asked ellis if he ever spoke with von dungern about gg’s allegations. he
+did not recall ever doing so. he allowed that at the time, both he and von
+dungern held the rank of sergeant and they both worked at normandy court. he
+recalled that parker was in charge of the kitchen. to his recollection von
+dungern was the sergeant in charge of production. production included
+staffing. if there were conversations about gg and jt, in all likelihood, von
+dungern would have been privy to those conversations. ellis could not recall
+whether those conversations took place.
+
+he
+stated that the sergeants dealt with “day to day fires.” lower ranks came and
+went from the normandy court kitchen because they belonged to the units.
+cross-examination
+
+ellis
+agreed that when he initially spoke to the police his memory of what transpired
+was very vague. he stated that he was not able to recall anything about what
+gg told him until the police told him that:
+a)
+that the matter
+involved jt and gg;
+b)
+that there was
+allegation that jt pushed gg over a box and dry humped her.
+
+he
+repeated that the incident happened outside the change rooms at normandy court
+and that the allegation involved jt pushing gg over a box, not a table. he
+stated that there was no room for a table near the change rooms at normandy
+court.
+
+defence
+counsel confronted ellis with his statement where he spoke about dirty comments
+that jt made and said that he cannot put his “thumb on a physical altercation”
+but he remembers the comment. ellis explained that he was making it clear to
+the police that he did not see the altercation and he was not there. he did,
+however, insist that he remembered discussing the entire matter with gg at
+nighttime. he also said that he did not have a timeline when this occurred.
+
+ellis
+could not remember if he introduced jt to gg in january 2012 when he first
+relocated to petawawa. he remembered working with jt in the kitchen. he said
+that there were very few incidents that they met outside work.
+evidence of jt
+in-chief
+
+jt
+advised that he currently lives in wallaceburg, ontario with his wife and two
+daughters.
+
+he
+retired from the canadian forces on july 4, 2023. he stated that he was
+medically released due to “nerve entrapment”.
+
+he
+identified two individuals in court as his daughters. they had been in court
+throughout the trial. one of the children was obviously under 18.
+
+his
+elder daughter was in court when gg was testifying. she was the individual who
+gg mistakenly identified as jt’s wife.
+
+he
+stated that he first met gg on january 13, 2011. he stated that he was taking
+the garbage out when ellis pulled up. ellis told jt that he was being posted
+to petawawa and he was on his house hunting trip.
+
+defence
+filed exhibit 2, which was jt’s uer employment history record. jt gave the
+following evidence, based in part on this document:
+a)
+between march 5
+and 30, 2012, jt was assigned to “exercise cold response”. he stated that this
+exercise was in norway. it was international exercise involving three or four
+other armies. he stated that he returned early because his wife was having a
+difficult pregnancy with his second child.
+b)
+he had seven
+days of leave and then returned.
+c)
+between april 1,
+2012 and june 2012, he was assigned to unit lines of 1 rcr. he stated that he
+did not work in the normandy court kitchen during this period. he was working
+at the first division of the royal canadian regiment. he stated that he was
+also studying and taking courses in order to be promoted.
+d)
+he stated that
+he held the rank of corporal. in the promotional competition he placed 51
+st. 
+he was told that the military intended to promote 68 people in his class the
+following year.
+e)
+he recalled that
+he did a battle fitness test in may 2012.
+f)
+he
+recalled that he completed a course in green procurement and another course in food
+safety.
+g)
+he stated that
+he never did physical training with gg. he did his own physical therapy
+because he was posted to his unit.
+h)
+he recalled that
+before christmas in 2011, he suffered an injury to his back and had to do
+physiotherapy. defence filed exhibit 3 which is a physiotherapy record from
+december 7, 2011 which documents this injury. he stated that the injury still
+plagues him. he stated that as a result of the injury he was on strict
+limitations not to do lower body physical training. he had difficulty standing
+and sitting. i note that exhibit 3 does not indicate an injury to his lower
+back. rather it indicates a “the chief complaint” being his ”c spine” and
+“upper trap pain”. the note states “lbp resolved.” i infer that “c spine” is
+cervical spine”, “upper trap pain” is pain in the area of his upper trapezius
+and “lbp” is shorthand for lower back pain.
+i)
+his
+daughter was born on june 21. he went on parental leave and was off between 1
+july 2012 and march 21, 2013. he returned to normandy court kitchen as a
+“shift cook”, still holding the rank of corporal, on 22 march 2013.
+j)
+on 22 july
+2013, he was promoted to master corporal and posted to cfjsr which i understood
+to be the signals regiment in kingston.
+k)
+he stated that
+he did not have any interactions with gg at all during 2012.
+
+he
+recalled that near the end of june or early july 2013, he had a conversation
+with gg. he stated that he was coming on to work the late shift. he had
+completed his physical training. he recalled that julie lai introduced gg to
+him. he asked gg, “you’re dating steve [ellis] right?” he then stated, “you
+got your hands full with that.”
+
+he
+recalled that gg stated, “i am dating steve but he knows what’s good for him. 
+i ride him like a stallion.”
+
+jt
+stated that this conversation was “enough”. he thought it was inappropriate
+and he didn’t want to be part of it. he went out to the smoke pit and “went
+off” about the interaction he had with gg.
+
+he
+stated that once in the smoking area, he stated, “i see steve picks winners”. he
+stated that when he said this he was referring to a previous occasion where ellis’
+previous partner tried to run them down in his vehicle when she and ellis were
+separating. he recalled that someone in the smoking area said, “you better be
+careful with him; he is a warrant officer now.” to this jt recalled
+responding, “i don’t care what he is, i can fill his shoes on the best day.”
+
+photos
+of the normandy court kitchen were entered into evidence as exhibit 4. jt
+testified that there are differences in the layout of the kitchen. after
+reviewing his evidence, i am satisfied that those changes are not significant
+and nothing really turns on them.
+
+jt
+stated that after physical training about twelve people work in the area per
+shift. it is not uncommon for both early shift and late shift to be working at
+the same time, particularly at the time when gg said the incident happened. jt
+estimated that up to 45 people would be working at that time.
+
+jt
+stated that he had interaction with gg in 2016. by then, he was working at the
+joint signals regiment in kingston. he stated that gg came to work there.
+
+he
+recognized her and she recognized him. he said that she seemed surprised and
+happy to see him. they had a conversation. during the conversation gg asked
+him to help her get into the unit. she complained that she was “dagged red” by
+her psychologist. she told him that she was looking for the kitchen manager to
+try to talk to him. he recalled that she said, “oh my god, i didn’t know you
+were here”. he recalled that she had a big smile on her face.
+
+jt
+stated that he also had a couple of conversations with gg in 2020. by this
+time he was back in the normandy court kitchen at petawawa. he was the officer
+in charge of procurement, and he was responsible for doing the shift schedule. 
+he recalled that gg was scheduled to work at the kitchen. he recalled that he
+saw her when he was going through the kitchen on his way to the ration room. 
+he stated that gg asked him why she was there. he replied, “because you need to
+be gainfully employed.”
+
+jt
+explained that this remark was made because of covid. he stated that it was
+hard to get cooks at the kitchen. he recalled that gg told him that it did not
+make sense for her to be there. he stated that she had a “bad back”, but the
+medical board did not believe her. he recalled that she asked him for advice
+and he told her to go to the ombudsman. at this point, he stated that she
+said, “if you hear guns blasting, that’s me, because that’s how i roll.” 
+she then asked jt for a smoke and left.
+
+he
+recalled that the following day gg came up to him and told him that she was
+looking for daigle because she had to pick up her child at daycare. he told
+her to go ahead and leave.
+
+he
+recalled they had another conversation that day in the smoking area. he was
+already there and she came out and asked him for a cigarette. he gave it to
+her and left the area.
+
+he
+recalled that on the third day, she did not come into work. no one knew where
+she was. he called her unit and no one answered. he left his office to go use
+the washroom. when he went to the front of the kitchen, he saw gg sitting with
+her husband. someone told him that gg’s husband wanted to speak to von
+dungern.
+
+he
+recalled going in and asking von dungern what was going on. he was told that
+gg could not work with him because of a comment that he made.
+
+he
+stated that he then went to the ration room and wrote down every conversation
+that he had with gg. he gave what he wrote to von dungern. he believed that
+she intended to send it up to the rsm.
+
+he
+did not hear any more about it until he was called by the military police and
+told to come in.
+
+he
+completely denied making the “sweaty pussy” remark and sexually assaulting gg
+by bending her over the counter and pretending to hump her.
+
+he
+also completely denied introducing gg to his wife at the petawawa fair. he
+recalled seeing gg and her family (along with duquette and her family) at the
+fair because he was working. but his wife was not there, nor were his
+children.
+cross-examination
+1.
+member’s personnel record resume (mprr)
+
+crown
+counsel filed two copies of jt’s mprr as exhibit 5 and exhibit 6. this is a more
+detailed document than the uer, which was filed as exhibit 2 because it shows
+jt’s specific assignments in the various units including the kitchen as well as
+his training history. i note that exhibit 6 was originally provided by jt to his
+counsel. exhibit 5 was in crown disclosure.
+
+jt
+stated he did not initially give his counsel the documents in exhibit 5 (training
+history) because he did not think that they were relevant.
+2. distinct memory of
+first meeting gg on january 13, 2011
+
+crown
+counsel asked jt how he was able to distinctly remember that he first met gg on
+january 13, 2011. he stated that he remembered this because he was going
+through some text messages and came across a text message from ellis. he then
+backtracked and said that he met her within a five-day period of the text
+message. the text message was never put in evidence.
+3. medical notes
+
+crown
+counsel showed jt some medical notes or “chits”. these were ultimately filed
+as exhibit 7. these documents demonstrate that jt had issues with lower back
+pain while he was posted to kingston in 2016 and his physical training regimen
+was altered because of it. jt agreed that these documents do not reveal
+anything about his injury in 2012 or 2013. with respect to the lower back pain
+diagnosis, he stated, “it took a long road but we got there.”
+
+he
+agreed with the contents of exhibit 3 (the 2011 medical document).
+4. emails to warrant
+officer von dungern
+
+the
+crown showed jt the documents which became exhibit 8. these are emails to von
+dungern dated february 21, 2020. in these emails, jt stated that he was giving
+“word for word” accounts of his interactions with gg. he described two
+interactions february 21, 2021, two interactions february 18 and one
+interaction in may or june of 2016. when asked about what he recorded, jt
+advised that those emails were “99% accurate” with respect to what he said.
+
+the
+crown suggested to him that he would not have used the words, “you seem visibly
+upset”. he admitted that he might have used other language.
+
+the
+crown asked jt how he knew that one of the conversations took place at 15:36,
+suggesting that was an exact time. he stated that he based the time on the
+fact that gg told him that she had to pick up her children at daycare. he
+allowed that he could have been off by five or ten minutes.
+
+the
+crown asked jt about the use of the words “gainfully employed”. jt said that
+those are words that he uses with people who he believes are trying to get out
+of work. he stated that he has a problem with people sitting at home
+collecting a paycheque. he noted that these conversations took place during
+covid.
+
+the
+crown suggested to jt that the emails show that he was clearly lacking in
+sympathy for gg’s injury and her apparent difficulty in having her injury
+recognized by the military. jt agreed, stating, “why would i be?
+
+with
+respect to the email that discussed his interaction with gg in 2016, jt stated
+that he was 100% sure that email accurately set out what was said.
+
+the
+crown asked jt why he did not report the “ride him like a stallion”
+conversation that he discussed having with gg when he gave his evidence
+in-chief. jt ducked the question, stating that he was taken back by that
+conversation and “tagged” himself out of it because it was an inappropriate
+conversation.
+5. jt’s statement to
+police
+
+the
+crown confronted jt about his statement to police where he told the officers
+that he only had one conversation with gg in february 2020. he stated that
+when he gave his statement, that was all he remembered.
+
+the
+crown confronted jt about his statement to police where he indicated that he
+only worked with gg once and might have worked with her for two days in june
+2012. he stated that he did not know and did not remember.
+
+the
+crown confronted jt about his statement to police where he indicated that his
+memory was not good and stated that it was spotty due to blackouts. jt stated
+that he was not having blackouts in 2020 when he wrote the emails to von
+dungern. he stated that he started having blackouts in 2021.
+
+crown
+counsel asked jt, “now your memory is good again?” jt stated that he has spent
+1,222 days “replaying this again”. i infer that this a reference to the number
+of days that have transpired between when jt was charged and when he gave
+evidence.
+
+the
+crown asked jt about a second meeting with the police which took place on
+august 12, 2022. in that meeting, jt stated that he only worked with gg once
+in march 2012. jt stated, “that was my stance until i found my uer about a
+year or two later.”
+chris parker
+
+parker
+stated that he was the kitchen manager at the normandy court kitchen in 2012. 
+in august 2012, he left that position to complete a french course. he
+stated that he took his annual leave in july 2012. for this reason, he
+surmised that he was not at normandy court at all after the end of june.
+
+he
+stated that he was the “overall manager” of the day-to-day running of the
+kitchen. he stated that he was not really a “hands on” manager. he monitored
+what went on. he said that the sergeants and master corporals were in charge
+of each section. they would report problems to him.
+
+he
+knew of gg but did not really know her. she was one of the cooks who worked “on
+the floor”. he remembered that she was a corporal in the reserve.
+
+he
+also knew of jt. he was also a cook “on the floor”. he could not remember
+what unit jt belonged to.
+
+when
+asked if gg ever came to him with a complaint about jt, he stated, “no, not
+that i can remember.”
+
+he
+was then asked if she came to him with “any complaint whatsoever.” he stated
+that if she had complained it would have been through a sergeant or a civilian
+supervisor. she would not have come to his office directly. he denied ever
+receiving a complaint from a sergeant.
+
+parker
+stated that he never heard anything about the “sweaty pussy” remark until he
+was questioned about it by military police. likewise with respect to gg’s
+allegation that jt sexually assaulted her over the counter. “i do not remember
+anything like that.”, he said.
+
+he
+agreed that if gg had come to him in 2012 to make such a complaint, he would
+remember it now. when asked why he would remember, he stated that it was above
+what he normally had to deal with on a day-to-day basis.
+
+he
+stated that gg’s allegation that he told her that if she proceeded with the
+allegations her class b contract would end was “absolutely false completely.”
+
+he
+stated that if she had come to him to complain about jt in this fashion, he
+would have contacted her superior. he explained that gg “did not belong” to
+him, which i took to mean that, like most of the cooks, she was assigned to
+kitchen from her unit. he stated that he might have done a little investigation
+in order to give it to her superior but he would not have done much. he stated
+that a complaint of this nature would have been a unit responsibility.
+
+once
+she reported it to her unit, he likely would have been contacted and he would
+have followed up with whoever he was working for.
+cross-examination
+
+the
+crown filed exhibit 9, which was an excerpt from parker’s member’s personnel
+record registry which showed that he started the french course august 7, 2012
+and completed it june 28, 2013. he generally agreed with its accuracy, but
+indicated that once one starts the course, one only has so many days to
+complete it. he was not able to give a precise date for when he ended the
+course.
+
+he
+agreed that his entire career in the military was in the cook trade.
+
+parker
+stated that generally there is no interaction between the warrant officer and
+corporals and privates outside of morning pleasantries. he agreed that those
+ranks generally do not speak unless they are spoken to.
+
+he
+stated that complaints are first handled by the “2 i/c” of the kitchen, or the
+civilian supervisor. he stated that the 2 i/c would have been a sergeant. it
+should have been handled “at the lowest level” and then come up the chain of
+command to him.
+
+the
+crown pointed out to parker that when he was confronted with the nature of gg’s
+allegations in-chief he had an outraged look on his face. he stated, “there is
+no way i would have said that. ever.”
+
+the
+crown asked if it was possible that “someone” might have told gg “think about
+what you are doing. you are a class b reservist. if you become branded as a
+trouble-maker, you are not likely to get renewed.” parker said, “it’s
+possible. that was 12 years ago. the military hadn’t changed. an old dog could
+have thought that and voiced it.”
+
+he
+added, “i don’t think that happened. that’s not the way i ran things.” he
+agreed, however, that 2012 was “a different time.”
+
+he
+also agreed that if the complaint did come to his attention he was not required
+to report it. he stated, “op honour didn’t exist in 2012.”
+
+he
+estimated that in 2012, he had approximately 40 military cooks on staff. the vast
+majority were regular force. six or seven were reservists. when asked whether
+reservists were treated the same as regular force members, he stated that they
+were often looked down upon because they cannot complete tasks at the same
+level because they are not as practiced at the trade as regular force members.
+
+he
+added, however, that he had never seen that happen on his watch. he had not
+heard of anyone expressing those views “in years”. he stated that he was not
+aware of anyone in his chain of command who he could see as likely to engage in
+that behaviour.
+
+parker
+stated that the general culture of the kitchen ebbed and flowed, depending on
+who was on shift and how they interacted. he said that sometimes the kitchen
+functioned well, other times, not so much. he said, ”sometimes a shift of eight
+cannot feed 120, but other times a shift of three could feed 600”.
+
+he
+stated that when he joined the military, there was one “shift punk” and all the
+others would be good. this changed. “nowadays, if eight are posted in, two
+are going to be good.” i had not heard the term “shift punk” before but i
+infer it means a worker who is not productive.
+
+personnel
+that became a serious problem were referred to him. if they became a very
+serious problem, they would go up to the chief warrant officer above him.
+questions from the court
+
+i
+asked parker whether in his experience, sexual inuendo was commonplace in the
+kitchen. he stated that when he joined the military that was normal
+behaviour. he stated that this started to fade after they had “sharp”
+training.
+
+i
+also asked him about the ratio of women to men. he stated that most of the
+civilians were female. the majority of the cooks were men. he estimated the
+ratio was 70% men and 30% women.
+kt
+
+kt is jt’s wife. they have been married since march 12, 2011.
+
+she stated that she has never met gg. she recalled bumping into gg
+at a sushi restaurant in petawawa after jt was charged. she stated that she
+looked gg up on facebook. she denied meeting gg at the petawawa fair. she had
+not been in court since the trial began. she said that her children were in
+the courtroom. the eldest child present was 26.
+defence submissions
+
+defence
+counsel submitted that i should believe jt having regard to the following
+evidence:
+a)
+he did not deny
+interacting with gg, but gave his own account of what those interactions
+involved.
+b)
+the evidence
+supports that he was not working at normandy court kitchen at the time gg said
+that the incident took place. he was deployed to norway in march and then held
+back in his home unit until he went on parental leave in 2012.
+c)
+he did not do
+physical training because of a back injury in december 2011.
+d)
+he admitted to
+having an interaction with gg in 2013 where she made a sexual reference to her
+relationship with ellis.
+e)
+he admitted that
+they met in 2016 in kingston where she discussed her medical issues.
+f)
+he
+admitted that they worked together for a couple of days in 2020.
+g)
+he denied
+introducing his wife to gg. kt’s evidence confirms the denial.
+h)
+he denied making
+inappropriate comments to gg or to sexually assaulting her.
+
+in
+the alternative, defence counsel submitted that even if i do not believe the
+accused, his evidence discloses a reasonable doubt.
+
+in
+the alternative, defence counsel raised the following issues with the evidence
+of gg and the other evidence before the court:
+a)
+the disconnect
+between the evidence of gg and the evidence of cliché with respect to what she
+said, where she said it and whether there was a discussion with parker.
+b)
+parker denied
+that there was ever any such conversation. if there was, he would have
+remembered it and he would have reported it to gg’s commander.
+c)
+the evidence of
+ellis does not assist because his initial recollection was very vague. it was
+only when the police asked him a number of leading questions that he remembered
+the conversations that he had with gg about what happened that night.
+d)
+the disconnect
+between gg’s evidence and the evidence of von dungern with respect to what was
+disclosed to her in her office in 2020.
+e)
+gg’s statement
+to the police that jt also slapped her behind and engaged in sexual inuendo
+with her “for four years” when it is evident that they only worked together a
+handful of days.
+
+defence
+counsel submitted that these inconsistencies are not peripheral and must result
+in a finding of credibility and reliability against gg.
+crown submissions
+
+crown
+counsel reminded the court that gg was testifying in 2025 about events which
+occurred years earlier. he submitted that it is reasonable that there will be
+some gaps and inconsistencies in her evidence.
+
+crown
+counsel pointed out that gg was unshaken with respect to the central
+allegations before the court, that jt sexually assaulted her in the kitchen by
+pushing her over a counter and simulating sexual intercourse with her from
+behind after making the “sweaty pussy” comment.
+
+he
+submitted that gg was obviously doing her best to tell the truth and she did
+not exaggerate.
+
+he
+submitted that, given the passage of time, it was also reasonable to expect
+some differences between the evidence of gg and the evidence of the others who
+testified including cliché, von dungern, parker and ellis.
+
+crown
+counsel pointed out that the documents provided by jt with respect to his
+career show that he was trying to come up with an alibi. those documents were
+not disclosed to the crown in advance and were intended to catch the crown by
+surprise. he argued that they should have little weight.
+
+crown
+counsel argued that jt was essentially trying to reconstruct events to serve
+his narrative. he maintained that i should not believe jt.
+analysis
+the legal
+framework against which the evidence in this case is applied
+
+this
+is what many would describe as a classic “she said, he said” case.
+
+many, who are ill-informed about how our criminal justice system
+works, believe that it is the responsibility of a judge to listen to the
+evidence and decide who they believe. in their world, if a judge believes the
+accused, the accused is not guilty. if, however, the judge believes the
+complainant, the accused is guilty.
+
+that is not how it works.
+
+because the liberty of the accused is always at stake, woven through
+every stage of the analysis that judges like me conduct every day are
+safeguards to prevent wrongful conviction.
+
+one of those safeguards is the time-honoured principle that an
+accused person is always presumed innocent until the state proves his guilt
+beyond a reasonable doubt.
+
+a second safeguard is the principle that only when the crown proves
+that the accused committed the elements of the offence charged beyond a
+reasonable doubt, is the presumption of innocence overcome.
+
+a
+reasonable doubt is not an imaginary, far-fetched or frivolous doubt. it is
+not a doubt based on sympathy for or prejudice against anyone. it is a doubt
+that is based on reason and common sense. it is a doubt that logically arises
+from the evidence or the absence of evidence.
+
+to be satisfied beyond a reasonable doubt, i have to be sure with
+respect to the accused’s guilt. if i am not sure, i must find the accused not
+guilty.
+
+if i don’t know who to believe, i must find the accused not guilty. 
+even if i believe that the accused probably committed the offence, that is not
+a sufficient basis on which to find the accused guilty. probable guilt is not
+proof of guilt beyond a reasonable doubt.
+
+the appellate authorities set out the path i must follow in
+considering whether the crown has established guilt beyond a reasonable doubt:
+a)
+first, where the accused testifies and i believe him, i must find
+him not guilty.
+b)
+second, where the accused testifies and even though i do not believe
+him, i am left with a reasonable doubt by his evidence, i must find him not
+guilty.
+c)
+third, even if i do not believe the accused or am not left in doubt
+by his evidence, if i am left with a reasonable doubt on the basis of the
+other evidence i do accept, i must also find the accused not guilty.
+only if, at
+the end of this exercise, i am satisfied as to the guilt of the accused beyond
+a reasonable doubt, must i find him guilty.
+
+i cannot compare the accounts and decide guilt on the basis of which
+account i like better.
+
+in following this path, i rely on my experience, reason and common
+sense. i must not, however, engage in stereotypical or mythological reasoning
+which masquerades as “common sense”.
+
+the evidence that is led before me is assessed by me on the basis of
+whether it is credible and reliable. evidence must be both credible and
+reliable.
+
+a witness who is credible, is not necessarily reliable. a witness
+may be sincere and credible, but their evidence may also demonstrate that their
+recollections are not reliable.
+
+one way of determining whether a witness is credible and reliable is
+to gauge their evidence in court against what they said on previous occasions,
+such as when they gave a statement to the police.
+
+not every inconsistency, however, gives rise to the conclusion that
+a witness is unreliable. some inconsistencies are important; others less so. 
+where an inconsistency involves something material about which an honest
+witness is unlikely to be mistaken, the inconsistency may demonstrate a
+carelessness with the truth which is a cause for concern.
+
+the same issue can arise where a witness “fills in the blanks” with
+respect to what took place. a witness may honestly and sincerely believe that
+a certain aspect of their evidence is true; analysis on the basis of logic,
+reason and common sense might suggest however, that what the witness says – as
+honest, sincere and credible as the witness may seem – is not reliable.
+
+memories fade. they can also be faulty and frail. sincere, honest
+and credible witnesses can simply be wrong or make assumptions about things
+because of the passage of time.
+
+defence alleges, among other things, that the complainant has
+fabricated the allegations.
+
+“recent
+fabrication” arises when there is an allegation that a witness has, between the
+date of the incident complained of and the date that she testifies at trial,
+lied about the allegations:
+r. v. stirling,
+2008
+scc 10
+at paragraph
+5.
+
+the
+word “recent” in the concept is something of a misnomer. the fabrication
+need not be particularly “recent”:
+r. v. stirling, supra,
+citing
+with approval
+r. v. o’connor,
+1995 canlii 255
+(ont.
+c.a.).
+
+in
+order to rebut an allegation of recent fabrication, the crown is entitled to
+present evidence of the prior consistent statements of the witness. this
+is an exception to the general exclusionary rule with respect to prior
+consistent statements.
+
+in this case, the crown attempted to rebut the allegation of recent
+fabrication by calling evidence that the complainant told carol cliché, steven
+ellis, and bonnie von dungern about the allegations. parker was called by
+defence. cliché, parker and von dungern did not support the complainant’s
+version of what she told them about the allegations. as i will set out below,
+there are considerable issues with the reliability of ellis’ evidence.
+do i
+believe the accused?
+
+no.
+
+i found that he was completely self serving in his evidence. he
+presented himself in an overly positive light and he went out of his way to try
+to make gg and other witnesses look bad.
+
+there were places in his evidence where his memory seemed better
+than it actually was.
+1.
+memory refreshed by evidence not available
+
+for example, he was very specific about the date that he first met
+gg. this was because he had refreshed his memory by looking at text messages –
+messages that were not produced to the crown or shown to other witnesses.
+2. memory
+of first meeting with gg and attitude towards steven ellis
+
+he recalled that when he first met gg, he teased her that she was
+dating steve, to which she replied, “he (referring to steve) knows what’s good
+for him. i ride him like a stallion”. he said these remarks made him uncomfortable
+and he went to the smoke pit. once there he said he made a comment about
+steven dating “another winner.” he then felt it necessary to tell me that
+whoever it was in the smoke pit told him that he better watch himself because
+ellis had been promoted to warrant officer. to this, jt told me he replied, “i
+don’t care who he is. i can fill his shoes on the best day.”
+
+i believe none of this.
+
+part of it is hearsay. whoever jt spoke to about this in the smoke
+pit was not produced to testify.
+
+jt and steven ellis were friends. ellis contacted him when he was
+reposted to petawawa. there is nothing about this exchange to explain how or
+why his relationship with ellis changed.
+
+i do not believe that jt was offended by the conversation and
+disengaged from it. he introduced the subject of gg’s relationship with ellis
+by suggesting that she had her “hands full” with ellis. this was also their
+first introduction. it is an offhand way to greet someone for the first time. 
+yet, he would have me believe that he was shocked by the offhand response he
+said he received. i do not believe it.
+
+there was nothing to be gained by telling me about this interaction
+with gg, other than to try to suggest to me that she engages in inappropriate
+sexual banter and innuendo, and that he was grossly offended by it (both of which
+are designed to diffuse one of the central allegations against him).
+
+there was nothing to be gained by telling me that he believed then
+that he was a better worker than ellis other than to make ellis, who also testified,
+look bad.
+3.
+jt’s own experience with debilitating back pain
+and his reaction to gg’s back pain
+
+medical documents were filed that demonstrate that jt had issues
+with lower back pain and an injury to his cervical spine by the time that he
+was posted to kingston. i also heard evidence that he has now retired due to
+medical release for nerve entrapment.
+
+given jt’s own experience with these ailments, i was surprised at
+his attitude toward what he understood to be gg’s medical problems. this came
+out in his evidence in three ways.
+
+first, during a conversation in kingston, jt stated that gg told him
+that she was “dagged red” by her psychologist and asked him for help getting
+her on the unit there. i find that in telling me about this, jt was again
+attempting to make gg look bad and himself look good. he suggested to the court
+that she had some psychological problems when there was no evidence of this (at
+least before 2020 when gg told me that she was hospitalized because she tried
+to commit suicide). he also presented himself as someone who she asked for
+help, which would be antithetical to her position that she was sexually
+assaulted by him four years earlier. i do not believe it.
+
+secondly, jt spoke about being told in 2020 that gg had a bad back
+but the medical board did not believe her. she apparently asked him for advice
+and he told her to go to the ombudsman. once again, he was presenting gg in a
+bad light – now as someone who was dishonest and a malingerer, while presenting
+himself in the best possible light – someone who gg asked for help. i do not
+believe it.
+
+thirdly, at about the same time, he stated that she asked him why
+she was at the kitchen, to which he replied, “because we all need to be gainfully
+employed.” he chalked this up to the difficulty it was getting cooks to work
+in the kitchen during covid. he added that gg told him that if he heard guns
+ablazing, it was her because that’s how she rolls.
+
+yet again, all of this was designed to make gg look bad by
+suggesting to the court that gg was unstable, a poor worker, or someone who wanted
+to collect a paycheque and not work.
+
+when the crown suggested that he could have been more sensitive to
+gg, he stated, “why would i be?”
+
+for someone who himself was experiencing medical problems related to
+his back, i found all of this evidence self-serving and it demonstrated an
+animus towards gg, rather than an attempt to truthfully answer her
+allegations.
+4.
+the attempt to establish an alibi
+
+there was a lot of evidence in this case about the dates of the
+allegations and whether they could have occurred during the spring or early
+summer of 2012 as gg alleged. by the time all of the evidence was before the
+court, it is clear that despite jt’s various attempts to establish otherwise,
+there were some days where there would have been an opportunity for him to have
+committed the offence.
+5.
+the problems with jt’s memory
+
+jt told the police in his statement that he had difficulties with
+his memory. he attempted to explain his inability to remember conversations
+with gg in kingston and the specifics of the conversations with gg that he
+discussed in his emails to von dungern by suggesting that he was suffering from
+memory blackouts when he gave his statement to the police.
+
+in a case such as this, it is not unusual for witnesses to have
+lapses in memory. jt is no different. i am not surprised that he did not
+remember some of these details.
+
+there are, however, a couple of things i find difficult about his
+evidence in this area.
+
+first, i agree with the crown that his emails to von dungern were
+self-serving. jt admitted in cross-examination that he used language in those
+emails that was probably not an accurate word-for-word accounting of what was
+said. in one case, he used the words “visibly upset”. in another case, he
+referred to an interaction occurring at 15:36, which was overly detailed.
+
+secondly, rather than simply state that given the passage of time he
+could not remember some of these details, jt tried to explain his memory lapses
+by indicating that he was having blackout memory problems when he gave his
+statement to the police. he said he did not have these memory problems when he
+wrote the emails to von dungern. he stated that he has also recovered from
+these problems in time to give evidence at trial.
+
+here i have some difficulty. as i stated, jt was keen to give an
+excuse for his poor memory, rather than simply acknowledge that he did not
+remember those occasions when he spoke to the police.
+
+suggesting that his memory has somehow miraculously recovered is
+also extremely problematic.
+
+i do not have any difficulty with jt’s evidence that he thought a
+lot for 1,222 days about what happened. rumination is not uncommon for persons
+who are accused of doing terrible things. it is natural. the court must sift
+through their evidence to determine whether the product of these ruminations
+can be believed. we must never lose sight of the fact that these can be the
+ruminations of an innocent person.
+
+it is also not uncommon for a witness to have a clear recollection
+of something, only to realise that their recollection is false because they
+have come across compelling evidence which indicates otherwise. jt was clear
+that his position did not waiver until he saw the uer which made it clear that
+his memory was wrong.
+
+that does not necessarily mean that the witness is lying. it does, however,
+raise the issue of whether the witness’ memory is reliable.
+
+in this case, i do not believe jt’s memory of his interactions with
+gg are reliable and as i have indicated, there are aspects of his memory
+difficulties and the explanations for them that are simply too self serving to
+be believable.
+am i left
+in a reasonable doubt by the evidence of the accused?
+
+no. for the reasons i have set out, i am not left in a reasonable
+doubt by the evidence of the accused. his evidence is simply too self serving
+and unreliable.
+
+as i will discuss in greater detail below, the evidence of von
+dungern extinguishes any residual doubt. in 2020, gg and her husband went to
+see von dungern to tell her that gg could not work with jt. von dungern
+testified that jt told her that, “i want you to know that there may be an issue
+with me.” when she questioned him further, he indicated that he thought gg was
+going to accuse him of some form of sexual harassment. he added that he was on
+parental leave when it happened.
+
+in my view, this is a clear reference to the fact that jt knew that
+he had done something in 2012 and he had already thought of the defence of
+alibi, a defence, which as i set out above, does not in the final analysis, hold
+water.
+on the
+basis of the evidence i do accept, am i left in a reasonable doubt?
+1.
+assessment of the evidence of gg
+a)
+is the evidence with respect to the use of her hair a peripheral
+inconsistency?
+
+i thought gg was trying her best to give honest answers and relate
+to the court what happened to her. her memory of the basic nature of the
+sexual assault that she says that the accused committed did not waiver. one
+morning after a ruck march, when she was looking at a chart of tasks in the
+kitchen, jt told her that he would like to eat her sweaty pussy after a ruck
+march. he then pushed her over a table in the kitchen and simulated sexual
+intercourse from behind. he did not touch her other than to push her over the
+table.
+
+i believe gg. i believe that what she told the court
+probably
+happened.
+
+but i have a nagging doubt on one aspect of her evidence. in her
+evidence in-chief, and in at least one of her statements to the police, she
+stated that jt grabbed her by her hair when he pushed her over. she referred
+to him using her hair, which was in a bun, as essentially a handle with which
+to control her head and push her down over the counter (“handle” is my word,
+not gg’s).
+
+in one statement, however, she told the police that her head was
+shaved.
+
+i appreciate that gg’s evidence about the nature of the sexually
+demeaning comment before the alleged sexual assault did not change. i also
+appreciate that her description of the sexual touching did not change. but the
+use of her hair is, in my view, a core component of the sexual assault. it is
+the physical touching that accompanied the simulated humping gestures that the
+accused made.
+
+i find that gg’s failure to be consistent with respect to this core component
+is extremely problematic. this is not a peripheral inconsistency.
+b) disconnect between the evidence of gg and carol cliché
+
+gg’s evidence with respect to the involvement of carol cliché was:
+i)
+she told cliché about the sexual assault when
+they were having a smoke in the smoke pit.
+ii)
+cliché went directly to parker.
+iii)
+cliché met alone with parker first.
+iv)
+cliché then took gg in to meet with parker.
+v)
+cliché was present when
+parker told gg that if she took her allegations further, it would affect her employment.
+
+cliché’s evidence with respect to her involvement, however, was
+different:
+i)
+gg told her that jt was trying to get into bed
+with her.
+ii)
+gg did not tell her that jt sexually assaulted
+her by pushing her over a table and simulating sexual
+intercourse from behind. if she had, cliché would have remembered it and
+reported it.
+iii)
+she told gg to make sure that she was safe and
+warned her about areas of the kitchen where she would
+be unsafe working alone.
+iv)
+their conversation about this took place when gg was working on the
+breakfast line, not in the smoking area.
+v)
+cliché’s involvement was
+limited to giving gg advice. she told gg to tell jt to stop and if that did
+not work, she told gg to go up the chain of command.
+vi)
+cliché did not speak directly to parker about it.
+vii)
+cliché did not speak with parker and gg together about it.
+viii)
+cliché recalled that gg was upset when she spoke to her about what
+happened.
+ix)
+cliché did not recall gg telling her about the “sweaty pussy”
+remark. she would have remembered it if she had.
+
+as i indicated when i summarized cliché’s evidence, i found her
+delightfully direct. she made no bones about being in extreme pain due to a
+back injury, being under the influence of narcotics to control that pain and
+having difficulties with her memory. despite her acknowledgment of these
+apparent difficulties, i found her evidence straight-forward.
+
+cliché no longer works in the kitchen so she has no reason to lie. she
+did not have a problem with either jt or gg.
+
+i cannot find a reasoned path for accepting or rejecting the
+evidence of cliché.
+
+ultimately, i find that this disconnect with respect to differing
+accounts between cliché and gg of what happened immediately after the sexual
+assault leaves me in doubt.
+c) disconnect
+between the evidence of gg and bonnie von dungern
+
+i thought that bonnie von dungern also testified in a
+straight-forward and truthful manner.
+
+her evidence supported the evidence of parker and many of the other
+witnesses in this case with respect to the military hierarchy in general and in
+the normandy court kitchen to be specific. as i will discuss below, this
+hierarchy was a barrier to the timely reporting and investigation of complaints
+of sexual assault and harassment in the military in general, and the normandy
+court kitchen specifically.
+
+i find that von dungern believed that gg was someone who simply did
+not want to do the hard work in the kitchen. in her estimation, gg was part of
+a wider problem of getting individual units to provide cooks for the kitchen.
+
+unfortunately, von dungern viewed virtually everything pertaining
+to gg in that light. she did not see the possibility that a deeper issue
+existed between gg and jt. she was content to insist that gg go back through
+her chain of command to identify a problem that would keep her from working in
+the kitchen.
+
+rather than view the extraordinary nature of gg’s husband’s visit to
+her office as a sign that something was radically wrong with gg’s work
+assignment to normandy court, von dungern was offended by the breach of
+military protocol.
+
+she also ignored other signs that there might be something to gg’s
+complaint including:
+i)
+jt’s admission that he might be the source of
+gg’s issue.
+ii)
+jt’s admission that gg might accuse him of some
+form of sexual harassment.
+iii)
+jt’s immediate suggestion to her that he was on
+maternity leave whenever what gg was complaining about happened.
+iv)
+jt gave her a flash drive with some information on it which she did
+not read or send up to the rsm.
+v)
+gg told her that she did not want to be there.
+vi)
+gg told her that she cannot work with jt.
+vii)
+if gg did come back to work in the kitchen, jt would be in a
+position of authority over her and they would have frequent interaction despite
+the distance between them in the chain of command.
+
+i also note that on jt’s evidence, he was the sergeant in charge of
+scheduling in 2020 around the time gg and her husband went to see von dungern. 
+he called gg and her unit to find out where she was and why she was not
+reporting to the kitchen. he did so at von dungern’s request.
+
+von dungern acknowledged asking one of the sergeants to follow up,
+but she could not remember which one. i find it was jt.
+d) disconnect
+between the evidence of gg and the evidence of chris parker
+
+parker’s evidence boiled down to the following points:
+i)
+if gg had a complaint against jt, it is unlikely
+that she would have complained directly to him. military protocol required her
+to complain through the chain of command or through the civilian supervisor.
+ii)
+gg was the responsibility of her unit. she “did
+not belong” to him. only if she reported an incident with jt to her unit
+command, would he have been contacted.
+iii)
+if gg made a complaint through the kitchen
+command, it would have come up through the 2 i/c, who held the rank of
+sergeant.
+iv)
+gg did not come to his office directly. gg did not come to his
+office with cliché.
+v)
+gg did not tell him about the “sweaty pussy”
+remark.
+vi)
+gg did not tell him that she was sexually assaulted by jt.
+vii)
+he did not tell gg that if she complained it would affect her
+continued employment as a class b reservist. she would be branded as a
+trouble-maker and not get renewed. he could not rule out, however, that
+someone else might have told her that.
+
+gg’s evidence is, of course, diametrically opposed.
+
+cliché’s evidence supports parker in the sense that cliché also
+denied a meeting with parker.
+
+i found parker to be straight-forward and direct. he did not attempt
+to present himself in the best possible light. he presented as somewhat
+nostalgic. he lamented the modern military which he saw as having too many
+“shift punks” and too few workers.
+
+he is now retired so he has no reason to lie or cover things up on
+the military’s behalf.
+
+he had an immediate visceral reaction to the allegation that he told
+gg not to report what happened to her. he expressed offence at the suggestion.
+despite his nostalgia, it seemed clear that he viewed sexual assault and
+harassment in the military with disdain.
+
+as with the evidence of cliché, the disconnect between gg’s evidence
+and parker’s evidence with respect to what happened immediately after the
+alleged sexual assault cannot be reconciled or reasoned through and it leaves
+me in doubt.
+
+like the evidence of bonnie von dungern, it is clear from parker’s
+evidence that the military hierarchy and structure, in general, and in the
+normandy court kitchen specifically, made bringing a complaint of sexual
+assault and harassment forward a difficult and arduous task. more difficult
+and arduous than it ought to be.
+
+this case amply demonstrates what former supreme court of canada
+justice marie deschamps found in external review into sexual misconduct
+and sexual harassment in the canadian armed forces, where at page ii of the
+executive summary of her report, she noted:
+it was readily apparent
+throughout the consultations that a large percentage of incidents of sexual
+harassment and sexual assault are not reported. first and foremost,
+interviewees stated that fear of negative repercussions for career progression,
+including being removed from the unit, is one of the most important reasons why
+members do not report such incidents. victims expressed concern about not being
+believed, being stigmatized as weak, labeled as a trouble-maker, subjected to
+retaliation by peers and supervisors, or diagnosed as unfit for work. there is
+also a strong perception that the complaint process lacks confidentiality.
+underlying all of these concerns is a deep mistrust that the chain of command
+will take such complaints seriously. members are less likely to be willing to
+report incidents of sexual harassment and assault in a context in which there
+is a general perception that it is permissible to objectify women’s bodies, make
+unwelcome and hurtful jokes about sexual interactions with female members, and
+cast aspersions on the capabilities of female members. that such conduct is
+generally ignored, or even condoned, by the chain of command prevents many
+victims from reporting incidents of inappropriate conduct.
+external review into sexual
+misconduct and sexual harassment in the canadian armed forces,
+marie
+deschamps, c.c.ad.e external review authority, march 27, 2015, page ii.
+
+i find that this this case demonstrates exactly what justice
+deschamps was referring to. while i cannot find that anyone here intentionally
+and purposely held these views with respect to gg, it remains clear that the
+rigid rank structure, hierarchy and protocol in place in the military general,
+and specifically in the normandy court kitchen, resulted in an institutional
+ignorance of the plight of anyone like gg who could be a victim of sexual
+harassment and sexual assault.
+
+i find that it is likely that gg was well aware of the general
+environment in the canadian military with respect to sexual harassment and
+sexual assault in the workplace. i find that it is likely that she was well
+aware that if she went forward with her allegations against jt in 2012, it is
+unlikely that anything would have come of them and it is highly likely that she
+would have suffered reprisals, particularly given her position as a reservist
+on limited term employment.
+
+her evidence is clear that when it became clear that she could not
+escape working with or for jt in 2020, she tried to commit suicide.
+
+her evidence has the ring of truth.
+
+as loud as that bell may clang, likelihood with respect to these
+things, however, is not proof beyond a reasonable doubt.
+
+it also is not her evidence. her evidence is that she complained –
+evidence which is diametrically opposed to the evidence of cliché, von dungern
+and parker.
+
+i cannot come to any firm conclusion with respect to preference of
+the evidence of gg over the evidence of cliché, von dungern, and parker.
+
+judges are not issued crystal balls with their gown and sash. all
+we can do is consider the evidence that we hear through the lens of reason and
+common sense.
+
+often that exercise yields clear findings with respect to
+credibility and reliability.
+
+in this case, it does not.
+e) the
+problem of steven ellis
+
+the evidence of steven ellis is extremely problematic.
+
+he did not remember anything about gg’s allegations until the police
+led him during the interview. it was clear that when he was called in to speak
+to the military police, he had no idea what he was going to be asked about. 
+the officer told him that he was not the subject of the investigation. the
+officer then asked him about his relationship with gg. he went into detail
+about his relationship with gg. the officer then put the following to him:
+mp: okay,
+so uh, the reason i called you in is because [g] came in and reported an
+incident of a sexual nature to us and indicated, like you said, that you were
+dating around the time…..
+
+to this question, ellis started to give information about another
+complaint gg may have made while she was posted to an operation in the arctic.
+
+the mp then asked the following question:
+mp: okay. 
+so when she made the, the, uh, report to us, she said, uh, that it happened in
+a kitchen. said it happened to her in the kitchen.
+
+ellis again started talking about an incident that took place when
+they were posted to the arctic.
+
+the mp then asked the following:
+mp: so
+when she uh was providing information to us, it involved being bent over a table. 
+does that ring a bell?
+
+to this, ellis talked about yet another incident involving another
+member which took place in the arctic. he also spoke about his relationship
+with gg and his relationship with his former wife.
+
+the mp then asked the following:
+mp: yeah. 
+so the investigation, uh, that we’re dealing with involves another person. uh,
+his name is [jt]. do you know that name?
+
+at this point, ellis reported knowing that jt made comments to gg
+after pt, including comments about smelling her. he also reported that jt
+“creeped” gg out.
+
+the officer attempted a number of times after that to bring ellis to
+what, if anything, he remembered about gg complaining about jt. ellis
+restricted his comments to verbal sexual inuendo. the officer then asked the
+following:
+mp: okay,
+again, uh, i just have to show you, okay, and everything is still recording. 
+okay. so, uh, so she came in and she told us basically that right after a ruck
+march, [jt] said to her i’d like to eat your pussy after a ruck march.
+se: huh.
+mp: and
+then….
+se: that’s
+totally [jt]
+mp: …grabbed
+her by the neck, bent her over a table and basically dry humped her from
+behind. does that ring a bell?
+se: it’s
+fucking disgusting. maybe. not to that detail, no. i can’t put a, i can’t
+put a thou-, i remember having conversations without [jt] --, about [jt]. i
+remember the creepiness. i remember that but i don’t remember details like
+that. i remember that comment, that fucking comment, that i remember that
+shit, yeah. that.
+
+with this background, i simply cannot rely on ellis’ evidence about
+what gg told him other than comments that involved sexual inuendo and smelling
+her.
+
+i find it hard to believe that ellis did not remember gg making an
+allegation of sexual assault against jt. the parties were involved in a
+relationship and they were living together. ellis and jt had worked together. 
+at one time, they might have been friends. yet he had no memory of his partner
+complaining that she was sexually assaulted by jt.
+
+as with so many other aspects of this case, this disconnect is
+impossible to reconcile or reason through.
+
+i also wish to be clear that i am not faulting the military police
+officer who questioned ellis. his approach signalled a clear intention to not
+lead ellis. only when it became clear that ellis was not honing in on the
+nature of gg’s allegations, did the officer lead him. the problem is with
+ellis’ memory, not with the officer’s interview technique.
+f)
+the evidence of kt
+
+nothing turns on kt’s evidence. the fact that she denied meeting gg
+at the petawawa fair is neither here nor there to the material issues in this
+case.
+conclusion
+
+i therefore find that i have a reasonable doubt on the evidence which
+i do accept. i cannot find the evidence of gg is credible and reliable given:
+i)
+the inconsistency with respect to whether in
+sexually assaulting her, jt grabbed her by the hair, which was in a bun, or
+grabbed her by her head and neck, her hair being shaved.
+ii)
+the irreconcilable disconnect between her evidence and the evidence
+of cliché;
+iii)
+the irreconcilable disconnect between her evidence and the evidence
+of von dungern;
+iv)
+the irreconcilable disconnect between her evidence and the evidence
+of parker;
+v)
+the lack of reliability of the evidence of
+ellis.
+
+thus, despite the fact that i do not believe jt, nor i am not left
+in doubt by his evidence, i have a reasonable doubt as to his guilt.
+
+jt is entitled to the benefit of that doubt and he is found not
+guilty.
+released: april
+30, 2025
+signed:
+justice j.r. richardson

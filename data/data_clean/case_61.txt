@@ -1,0 +1,2406 @@
+source url: https://www.canlii.org/en/on/oncj/doc/2025/2025oncj603/2025oncj603.html
+
+ontario
+court
+of
+justice
+citation:
+r. v. smissaert,
+2025 oncj 603
+date:
+2025
+11
+19
+court
+file no.:
+perth
+n.
+998
+2518
+100736
+b
+e
+t
+w
+e
+e
+n:
+his
+majesty
+the
+king
+—
+and
+—
+matthew
+smissaert
+before justice d. rose heard
+on
+october
+28,
+2025
+ruling
+on
+application
+to
+exclude
+evidence
+under
+s.
+24(2)
+of
+the
+charter
+ms.
+goldfarb......................................................................................... counsel
+for
+the
+crown
+n.
+bedar....................................................... counsel
+for
+the
+accused
+matthew
+smissaert
+rose
+j.:
+
+mr.
+smissaert
+pleaded
+not
+guilty
+on
+september
+17,
+2025
+to
+several
+charges.
+the date of each offence is the same, april 4, 2025:
+1)
+make
+surreptitious
+recording
+per
+s.
+162(1);
+2)
+careless
+store
+firearm;
+3)
+store
+firearm
+without
+a
+secure
+locking
+device;
+4)
+possess
+firearm
+carelessly;
+5)
+use
+firearm
+carelessly;
+6)
+store
+firearm
+without
+locking
+device;
+7)
+possess
+prohibited
+firearm
+without
+a
+licence;
+8)
+possess
+firearm
+without
+licence;
+9)
+possess
+firearm
+without
+licence;
+10)
+possess
+magazine
+with
+no
+licence;
+11)
+possess
+prohibited
+device;
+12)
+possess
+prohibited
+device;
+13)
+possess
+prohibited
+firearm
+with
+readily
+accessible
+ammunition
+without
+licence.
+
+on october 28, 2025 mr. smissaert
+changed his plea on count #1 to guilty and maintained
+his
+not
+guilty
+pleas
+for
+the
+balance
+of
+the
+charges.
+the
+trial
+commenced
+with a
+charter
+application alleging that his rights were violated
+under s. 8 as a result of the seizure of various firearms and related items on
+april 4, 2025 by dc dikih.
+those
+seizures were taken, all agree, without prior judicial authorization.
+
+the application commenced with the
+crown calling evidence on the basis that a seizure without prior judicial
+authorization is presumptively unreasonable,
+see
+hunter v. southam
+1984 canlii 33 (scc),
+
+2 s.c.r. 145
+at p. 9,
+r. v. collins
+1987 canlii 84 (scc),
+ 1 s.c.r. 265.
+the crown therefore called evidence to
+rebut that presumption.
+overview
+
+mr.
+smissaert
+is
+now
+64
+years
+old,
+and
+was
+arrested
+on
+april
+4,
+2025
+because
+of a
+voyeurism
+allegation
+by
+his
+tenant.
+an
+agreed
+statement
+of
+fact
+(asf),
+accompanying
+videos,
+and
+download
+analysis
+from his
+two devices were
+put into
+evidence
+on
+the
+guilty
+plea.
+mr.
+smissaert
+lives
+on
+bridge
+street
+in
+carleton
+place
+which
+is
+where
+the
+voyeurism
+occurred.
+that address is a single
+family dwelling on a corner, across from a church.
+
+upon
+arrest
+mr.
+smissaert
+gave
+a
+statement
+to
+det
+dikih
+at
+the
+opp
+detachment
+in carlton place.
+the video of the
+statement shows mr. smissaert to talk openly about the
+voyeurism
+allegation.
+det.
+dikih
+told
+mr.
+smissaert
+that
+the
+police
+would
+request
+a
+3 day investigative hold for
+him when he appeared before a justice the next day. the reason for that request
+was to get a search warrant to search mr. smissaert’s house for electronic
+devices connected with the voyeurism count.
+
+at about
+1 hour into the interview he was asked if there is anything
+else he would like to disclose to the
+officer. at that point he talked about various firearms he had in his house
+which were not stored properly.
+det
+dikih then went, almost immediately, to mr. smissaert’s
+house
+with
+det
+cst.
+pineau
+and
+seized
+the
+firearms,
+various
+parts
+and
+pieces
+of
+ammunition.
+there
+was
+no
+prior
+judicial
+authorization
+for
+that
+entry,
+although
+there
+was a search warrant obtained and
+executed at the house some days later.
+the
+interview
+
+mr.
+smissaert
+told
+det.
+dikih
+that
+“i
+have
+rifles
+that
+are
+unregistered
+they’re
+hunting
+rifles…i got three…they’re somewhat hidden in the house but you know you’re
+going to find them”.
+he denies that
+he is under any firearms prohibition, and said that he didn’t have a hunting
+licence.
+he
+had the 12 gauge shotgun since he was probably twenty years
+old,
+and
+he
+got
+the
+other
+hunting
+rifle
+from
+his
+uncle
+maybe
+15
+or
+20
+years
+ago.
+he didn’t register them because he
+disagreed with the government’s firearms registrations scheme.
+he bought one of them in 1979 or 1980 when
+he was in the military.
+
+mr. smissaert continued that
+“…one’s a bolt action one’s just gas operated you know semi-automatic”. one of
+the rifles was his father’s m1 carbine, which was passed along to him via his
+uncle.
+the rifles are hidden in a
+closet and “…you won’t have any problem finding…they’re not in a locked locker
+or nothing like that”.
+
+he
+admitted
+to
+not
+having
+a
+licence
+for
+the
+weapons.
+
+in
+the
+interview
+det.
+dikih
+was
+asked
+why
+this
+was
+relevant,
+and
+replied
+“…why
+it’s
+a
+very
+simple
+explanation
+because
+people’s
+homes
+get
+broken
+into
+all
+the
+time…right
+now you’re in police custody right which
+means your house is going to be vacant because you’re
+not
+at
+home
+tonight
+or
+tomorrow
+night
+and
+if
+somebody
+breaks
+in
+you
+just
+enabled them
+because good people don’t break into people’s houses…”.
+
+as
+the
+interview
+progressed
+mr.
+smissaert
+confirmed
+that
+nobody
+knows
+about
+the guns, not even the
+complainant who was living in the house with him before his arrest. his house
+has never been broken into.
+
+det. dikih was candid with mr.
+smissaert, saying that “…i can guarantee we’re going
+to
+take
+them
+we’re
+going
+to
+seize
+them
+because
+you’re
+not
+lawfully
+allowed
+to
+have it plus you’re not
+storing it properly which we can’t ignore because then i’ll be breaking the
+law”.
+
+mr. smissaert disclosed more about
+his background, he is a canadian forces veteran, was stationed in gagetown and
+discharged in 1984 because of an injury.
+det.
+dikih
+asked
+him,
+“i
+would
+it
+expect
+you
+to
+store
+it
+properly
+though
+just
+saying
+as
+a
+solder
+i would expect you to store that properly”.
+mr.
+smissaert replied “well they were stored properly
+but again not locked up or
+nothing”.
+the bolt of one is
+out and the rifles are not fireable.
+ammunition was in the house – “a good pile”.
+
+mr. smissaert told det. dikih that
+he “…had the rifles legally and you could buy (ammunition)
+at
+canadian
+tire”.
+he
+said
+“…no
+i
+had
+an
+fac
+before”.
+he
+didn’t
+renew
+his
+fac,
+because
+“…the
+whole
+process
+uh
+the
+fac
+uh
+was
+changed
+to
+the
+pal
+uh
+uh
+like
+i don’t
+know
+all
+this
+but
+there
+is
+no
+fac
+anymore
+you
+get
+a
+pal”
+he
+simply
+did
+not
+get
+his
+pal because his son lost interest (in hunting).
+
+i
+take
+this
+to
+mean
+that
+fac
+is
+the
+older
+firearms
+permit
+and
+short
+form
+for
+firearms acquisition certificate, and pal
+to be the current possession acquisition licence under the
+firearms act
+s.c.
+1995 c. 39 as amended.
+although not
+argued in this application, an fac is deemed to expire after 5 years, see
+firearms
+act
+s. 120.
+mr. smissaert
+therefore
+told
+det.
+dikih
+that
+his
+firearms
+permits
+had
+expired,
+and
+on
+his
+statement,
+that would have been many years ago.
+
+det
+dikih
+was
+asked
+by
+mr.
+smissaert
+if
+he
+had
+to
+stay
+“here”
+overnight.
+det
+dikih said,
+“…that’s
+a
+pretty
+simple
+question…because
+we’re
+going
+to
+we’re
+going
+to
+request
+a three day investigative hold which means it gives us a chance to write
+a warrant…and then execute it and search the house.”
+
+det dikih then went to mr.
+smissaert’s residence with dc pineau and, using the information
+mr.
+smissaert
+gave
+them
+during
+the
+statement,
+seized
+the
+weapons.
+he
+said
+in
+evidence
+that
+it
+was
+a
+matter
+of
+exigent
+circumstances.
+he
+had
+no
+warrant
+to
+enter
+mr. smissaert’s residence or to seize
+anything at the time.
+
+the body
+worn camera (bwc)
+from
+dc
+pineau shows the two officers
+arrive at the back door to the house, enter and go directly to the front
+entrance and search the closet
+in
+the
+front
+entrance.
+almost
+immediately
+they
+find
+long
+arms.
+first
+a
+b
+b
+gun
+and
+next two hunting rifles.
+they are
+extracted from the closet and put on the living room floor.
+the
+two
+officers
+then
+proceed
+to
+the
+rear
+room
+which
+is
+quite
+cluttered.
+they
+find
+a
+large box covered by some things, open the box, and find ammunition, rifle
+bolts and a magazine for a military fn rifle.
+
+dets.
+dikih
+and
+pineau
+entered
+mr.
+smissaert’s
+home
+at
+6:35
+pm
+and
+left
+with
+the
+firearms and seized ammunition and parts at 6:55. by 7 pm the two officers were
+at the carleton
+place
+o.p.p.
+detachment
+processing
+the
+guns.
+on
+the
+evidence
+played
+in
+court the
+20
+minute
+search
+inside
+mr.
+smissaert’s
+home
+was
+focused
+entirely
+on
+seizure
+of
+the guns
+and
+related
+parts
+and
+ammunition.
+once
+the
+two
+officers
+found
+those
+items
+they
+left
+right away.
+
+det. dikih testified at the
+application.
+he was asked about why
+he decided to go into
+mr.
+smissaert’s
+home
+to
+seize
+the
+weapons
+before
+getting
+a
+search
+warrant.
+he
+gave several grounds for
+that decision:
+i)
+exigent
+circumstances:
+namely
+the
+presence
+of
+four
+firearms
+stored
+without trigger locks,
+with readily accessible ammunition, and not secured in a safe
+manner;
+ii)
+unlocked
+residence:
+mr.
+smissaert
+disclosed
+that
+the
+rear
+door
+of
+the
+residence was unlocked, which increasing
+the risk of unauthorized access.
+iii)
+risk of theft and harm: concern that someone could
+enter the home, steal the firearms,
+and
+use
+them
+to
+harm
+others.
+det.
+dikih
+was
+concerned
+about
+break-
+ins and shootings in the community.
+iv)
+delay
+in
+obtaining
+a
+warrant:
+preparing
+and
+obtaining
+a
+telewarrant
+could
+take
+several hours to days. det. dikih decided not to wait.
+v)
+public
+visibility
+of
+arrest:
+the
+accused
+was
+arrested
+in
+public
+view,
+which
+could alert others to
+the unsecured residence.
+
+det. dikih also spoke of alternate
+strategies to secure the scene.
+he
+could have called for other
+officers
+to secure the scene.
+depending on
+what else was
+happening in the
+detachment area it may have been granted or not.
+he did not make inquiries about the
+availability
+of
+other
+police
+assets
+to
+secure
+the
+scene.
+in
+his
+evidence
+before
+me,
+det.
+dikih
+emphasized
+that
+his
+decision
+was
+based
+solely
+on
+public
+safety,
+not
+the
+nature of the charges. he was clear:
+'looking back i would make this decision every time.'
+legal
+framework
+
+on this
+charter
+application
+the operative provision of the
+criminal code
+is
+s. 117.04(2). it permits
+a warrantless seizure of firearms.
+117.04(2)
+search
+and
+seizure
+without
+warrant
+(2)
+where, with respect to any person, a peace
+officer is satisfied that there are reasonable grounds to believe that it is
+not desirable, in the interests of the safety
+of the person or any other person, for the person to possess any weapon,
+prohibited device, firearm part, ammunition, prohibited ammunition or explosive
+substance, the peace officer may, where the grounds for obtaining a warrant
+under subsection (1) exist but, by reason of a possible danger to the safety of
+that person or any other person, it would not be practicable to obtain a
+warrant, search for and seize any such thing, and any authorization, licence or
+registration certificate
+relating
+to
+any
+such
+thing,
+that
+is
+held
+by
+or
+in
+the
+possession
+of the person.
+
+this
+version
+of
+s.
+117.04(2)
+is
+fairly
+new.
+it
+received
+royal
+assent
+in
+late
+2023,
+and
+came into force on january 14, 2024 some 16 months before the events in this
+case. notably the current version of s. 117.04 permits warrantless seizure of a
+firearm part, which the older version did not.
+it appears that the language of the current s. 117.04 mirrors the older
+version of s. 117.04 other than that.
+
+there
+are
+three
+essential
+elements
+to
+s.
+117.04(2):
+the
+peace
+officer
+must
+1)
+have reasonable grounds to believe that
+it is not desirable for a person to have a firearm or device; 2) that the peace
+officer has reasonable grounds to seize said items under the authority of a
+warrant; and 3) that by reason of the possible danger to the safety of the
+person or others make it not practicable to obtain a warrant to seize the
+items.
+
+when it says
+“…
+by
+reason of
+…”
+the text of
+the statute connects
+the
+impracticality of obtaining a warrant
+to
+the possible danger to the safety of the person or others.
+
+ms. bedar takes no issue with the
+first two parts of the test.
+she
+agrees that the police had reasonable grounds to believe that it was not
+desirable for
+mr. smissaert to have
+the rifles.
+she also agrees that the
+police had reasonable grounds to believe that the
+police
+had
+reasonable
+grounds
+to
+seize
+the
+guns
+and
+ammunition
+under
+the
+authority of a warrant.
+these are fair admissions.
+the last
+requirement is really in issue here, namely “
+by reason of
+a
+possible
+danger to
+the
+safety of
+that
+person
+or any other
+person, it would not be practicable to obtain a warrant, search
+for and seize any such thing, and any
+authorization,
+licence
+or
+registration
+certificate
+relating
+to
+any
+such
+thing,
+that
+is
+held by or in the possession of the person”.
+emphasis
+added
+
+there
+is
+a
+dearth
+of
+authoritative
+rulings
+on
+the
+interpretation
+of
+s.
+117.04(2).
+r.
+v
+peacock-mcdonald
+2007 onca 128
+is the lone appellate decision which
+considers the predecessor section – though the change in language from the 2023
+amendment is immaterial for present purposes.
+in
+peacock-mcdonald
+the appellant had been apprehended under the
+mental health act (mha) and taken to a local hospital for a psychiatric
+assessment.
+the police believed her
+to be suicidal. the appellant was not charged with an offence but the police
+found out at the hospital that the appellant had a firearms
+licence
+and
+had
+on
+her
+keys
+to
+her
+firearms
+cabinet
+in
+her
+house.
+there
+was
+no
+sense that the appellant had committed any
+crime
+whatsoever but she was suicidal and had access to guns in her home.
+with that the police entered her home
+under the authority of s. 117.04(2) and seized the guns. the appellant claimed,
+on her forfeiture application under s. 117.05, that the police violated her s.
+8 rights by seizing the guns without
+a
+warrant.
+at
+first
+instance
+chester
+j.
+found
+no
+charter
+violation.
+this
+was
+upheld
+on appeal.
+
+what is apparent in the ruling is
+that the police had no realistic ability to obtain a warrant
+and
+seize
+the
+guns
+before
+the
+appellant
+would
+be
+released
+from
+the
+hospital.
+key in the ruling (at par. 32) is that a mha apprehension could end any
+time if a physician cleared
+the
+patient
+to
+leave.
+the
+police
+had
+no
+control
+over
+the
+appellant’s
+liberty
+to
+return home and access her guns.
+she was held on the strength of a medical
+apprehension, not a police detention or arrest.
+as the court said,
+28.
+moreover, nothing on this record suggests that there was any
+realistic opportunity
+for the police
+to
+obtain a
+warrant in the time that
+elapsed
+between the appellant's arrival at the
+hospital and the completion of the search carried out by officer
+allore.
+the
+officer
+testified
+that
+the
+time
+required
+to
+obtain
+a
+search
+warrant for a residence could vary from
+"as little as four or five hours to two days or more sometimes of trying
+to confirm your grounds...and articulate it".
+he also said that
+he
+did not know for sure whether the
+appellant
+was going
+to be assessed until he
+got
+back
+to
+the
+hospital
+after
+seizing
+her
+firearms
+and
+that,
+if
+she
+were
+released,
+it
+would be too late to seize them.
+29
+in my view, when public safety issues are implicated, as in
+this case, the police should not be required to speculate upon the timing of
+the release from hospital of a person in the appellant's position in the hope
+that they might secure a warrant for the seizure of firearms in the possession
+of the detainee before that release.
+matters of public safety, when firearms
+are involved, should not depend
+on guesswork; nor are they a 'race to
+the swiftest'.
+emphasis
+added
+
+peacock-mcdonald
+is
+therefore
+a
+case
+about
+appellate
+deference
+to
+lower
+courts, see par. 36. i do not take the
+court of appeal to have handed down an interpretative ruling.
+peacock-mcdonald
+is
+one
+of
+many
+cases
+dealing
+with
+the
+seizure
+of
+firearms
+from persons with mental health
+challenges facing no criminal charges, and therefore not under detention or
+arrest, see for
+eg
+wojcik v. r.
+2025 nbca 46,
+r. v. dupree
+2025 oncj 18,
+r. v. schill
+2024 oncj
+249,
+r. v. tereck
+2008 mbca 90
+(at par.
+31
+) though not a s. 117.04(2)
+decision.
+
+it is not surprising that s.
+117.04(2) decisions should so often be applied in the mental health crisis
+situation.
+what is common in
+this line of authority is the police
+inability to control the movement of a firearm owner who lawfully
+possesses guns,
+and who is
+in
+a
+suicidal
+state.
+s.
+117.04(2) seems designed
+for
+that
+very purpose.
+with
+that said, application of s. 117.04(2) is
+not confined to that fact pattern.
+
+in
+r. v. k.h.
+2016 onsc 5275
+the court scrutinized
+the officers’ basis to avail themselves of the s. 117.04(2) authority.
+in that case the police were investigating
+a stolen police handgun.
+that
+investigation lead them to believe that the gun was at a house,
+unsecured
+and
+that
+there
+were
+five
+people
+in
+the
+house.
+if
+k.h.
+is
+not
+on
+all
+fours with
+the
+case
+at
+bar
+it
+is
+very
+close
+to
+it.
+roger
+j.
+rejected
+the
+police
+reasons
+as
+meeting the standard under
+s. 117.04(2), saying,
+67.
+the gun had presumptively been with the applicant for close to
+one
+month
+without incident. the applicant was polite, friendly and cooperative. the
+officers indicated
+that
+they
+had
+no
+reasons
+not
+to
+trust
+him
+when
+he
+told
+them
+that
+the
+gun was hidden and only he knew where it
+was. the applicant was with the officers and the officers testified that, at
+this point, they would not allow him to call home or return home. the person
+with psychiatric issues was not in the home and only family
+members
+were
+in
+the
+home.
+the
+applicant
+and
+the
+applicant's
+son
+were
+not known
+criminals
+and
+no
+known
+criminal
+or
+any
+otherwise
+presumptively
+dangerous person was known to
+be in the home.
+the concerns raised by
+the
+officers are not
+supported
+by the circumstances that existed at the time. to conclude otherwise
+would
+allow warrantless searches based upon exigent circumstances where the
+risk
+is premised on mere speculation and extremely remote possibilities. as an
+aside,
+the casual manner in which the officers entered the residence does not
+assist
+their argument of exigent circumstances.
+68
+there was essentially no change in earlier circumstances and
+the opp, in the
+absence
+of
+exigent
+circumstances,
+should
+have
+proceeded
+to
+obtain
+a
+warrant
+on
+an
+expedited
+basis,
+taking
+whatever
+steps
+they
+deemed
+appropriate
+to
+contain the
+scene. consequently, in my view this was an unreasonable search and
+seizure.
+emphasis
+added
+
+i also find that, while the s.
+117.04 (2) provision does not itself contain the words “exigent circumstances”
+it is clearly about
+that.
+other parts of criminal law legislation
+contain
+similar
+provisions,
+see
+for
+eg.
+controlled
+drugs
+and
+substances
+act
+(cdsa)
+s.c. 1996 c.
+19 as
+amended,
+s.
+11(7)
+which
+does
+contain
+the
+words
+“exigent
+circumstances”.
+the warrantless
+power
+to enter a dwelling under “exigent
+circumstances” under s. 529.3 of the
+code
+is another.
+
+what
+differentiates
+s.
+117.04(2)
+from
+s.
+529.3
+and
+s.
+11(7)
+of
+the
+cdsa
+is
+that
+in
+s.
+117.04(2)
+parliament
+has
+seen
+fit
+to
+particularize
+the
+test,
+namely,
+by reason of a
+possible danger to the safety
+of that person or any other person, it
+would
+not
+be
+practicable to
+obtain
+a
+warrant,
+search
+for
+and
+seize
+any
+such thing, and any
+authorization,
+licence or
+registration
+certificate relating to
+any
+such
+thing, that is held by or in the possession of the person.
+
+in
+s.
+529.3
+and
+s.
+11(7)
+of
+the
+cdsa
+parliament
+simply
+said
+exigent
+circumstances
+were sufficient to conduct a warrantless
+search in those two situations.
+not
+every legislative
+instance
+of
+exigent
+circumstances
+is
+the
+same.
+none
+have
+the
+same
+standard,
+see
+r. v. paterson
+2017 scc 15
+at pars. 29 – 34.
+
+despite the differing language in
+the enabling legislation
+i find it
+helpful to use jurisprudence
+considering
+the
+language
+of
+“exigent
+circumstances”
+to
+interpret
+s.
+117.04.
+in
+r. v. campbell
+2024 scc 42
+the court considered exigent circumstances
+in s. 11(7) of
+the
+cdsa.
+there
+the
+police
+had
+seized
+electronic
+devices
+from
+the
+accused
+which
+told them that a drug deal
+involving
+fentanyl was about to
+be completed.
+the exigency lay in the immediacy
+of a
+deal
+involving
+“deadly
+drugs”
+which
+“would
+have
+been
+trafficked to vulnerable drug users in the
+community imminently”
+see
+campbell
+at par.
+137 - 138.
+
+in
+r.
+v.
+paterson
+(supra)
+brown
+j.,
+referring
+to the
+cdsa,
+said
+that,
+37. in sum, i conclude that, in
+order for a warrantless entry to satisfy
+s. 11(7), the crown must show
+that
+the entry
+was
+compelled
+by
+urgency, calling
+for
+immediate
+police action to preserve evidence, officer safety or public safety. further,
+this urgency
+must
+be
+shown
+to
+have
+been
+such
+that
+taking
+the
+time
+to
+obtain
+a
+warrant
+would pose serious risk to those imperatives.
+
+other senior appellate courts have
+interpreted exigent circumstances to be
+“extraordinary”
+and should be invoked “only where necessary”,
+see
+r. v. kelsy
+2011 onca
+605
+at par.
+35.
+
+i therefore find that, in law, the
+test for invoking s. 117.04(2) must include similar urgency, as identified by
+the courts
+in
+campbell,
+paterson, and kelsy.
+that finding includes
+the similar
+public
+safety
+concerns
+animating both s.
+117.04(2)
+and
+the
+cdsa
+s. 11(7).
+release of
+toxic drugs like fentanyl (per
+campbell
+) is every bit as concerning as
+access to firearms by someone who poses a danger with a gun in hand.
+all that is different is the mechanism by
+which public safety is endangered.
+that
+symmetry of concern informs the constitutional test by which warrantless
+seizure can occur in either situation. it has urgency at its center.
+
+the possible danger test in s.
+117.04 (2) is therefore informed
+by
+that urgency.
+in order to satisfy s.
+117.04(2) the crown must show a possible danger which was real. a theoretical
+danger
+is
+insufficient.
+a
+speculative
+danger
+is
+insufficient.
+i
+would
+borrow
+from the court of appeal’s dicta
+in
+r. v. golub
+1997 canlii 6316 (on ca),
+102
+o.a.c 176
+and consider: the
+nature of
+the potential danger; the potential consequences of not seizing
+the firearms; the availability
+of
+alternative measures; and the likelihood of the contemplated danger actually
+existing,
+see
+golub
+at par.
+48.
+in
+golub
+the court was considering
+the basis on which a police officer can
+enter
+a
+dwelling
+to
+search incident
+to
+arrest
+without
+a
+warrant,
+but
+the
+test
+fits well in this context.
+
+i
+find
+that
+the
+“possible
+danger”
+test
+in
+s.
+117.04
+is
+met
+when
+the
+police
+have
+no
+to
+little control over access to the firearms. this is particularly so when the
+police have a constellation of discernable facts that an identifiable person
+has access to the guns – someone who poses a public danger in that situation,
+and there is insufficient time to obtain
+a
+warrant.
+in
+such
+situations
+s.
+117.04(2)
+furnishes
+the
+police
+with
+lawful
+grounds to seize guns without a warrant.
+ayotte j. found that this provision is
+preventative in nature, concerned
+with
+the situation where
+the potential
+for
+violence
+is
+real,
+even
+though
+it has not occurred,
+see
+r.v robinz
+2022 abpc 159. i agree.
+
+mcdonald-peacock
+is therefore a case where that real danger is met by
+the certainty that a suicidal person will have access to guns and the police
+are otherwise powerless
+to
+prevent
+it.
+the
+combination
+of
+those
+two
+discernible
+facts
+was
+sufficient
+to meet the possible danger threshold for warrantless entry in
+s. 117.04(2).
+in
+r. v. lafond
+2012 oncj 661
+(at par.
+264
+), the
+co-existence of children in the house with unlocked firearms, and allegations
+of domestic violence were sufficient to lawfully engage s. 117.04(2). there was
+no s. 8
+charter
+violation in the warrantless seizure of guns.
+
+against
+this
+legal
+background
+i
+am
+prepared
+to
+make
+the
+following
+findings.
+1)
+in his evidence sgt. dikih cast
+the possible danger from the unsecured
+firearms as coming from someone who might break into mr. smissaert’s house,
+find the guns and steal them.
+he testified
+that someone might have seen mr. smissaert getting arrested and might have used
+his arrest to break into his home.
+i
+find
+that
+this
+is
+quite
+speculative.
+there
+is
+no
+evidence
+that
+anyone
+knew
+that
+mr. smissaert had the guns.
+the tenant who was the complainant did not
+know of them according to the evidence before me.
+the only person who saw mr. smissaert interact with the police
+was his
+neighbour, and det. pineau
+only asked the neighbour if he had seen mr. smissaert.
+det. pineau did not tell him mr. smissaert was to be arrested.
+oddly, when mr. smissaert was arrested he
+was not handcuffed.
+if anyone had
+seen mr. smissaert’s arrest they would not have seen one of the universal
+indicia
+of a police arrest, namely the handcuffing of the arrestee. in other words
+the arrest of mr. smissaert outside his home would not have clearly presented
+to an observer as an arrest.
+i therefore find that det.
+dikih’s concern about someone seeing mr. smissaert’s arrest
+was
+speculative.
+it
+is
+equally
+speculative
+to
+say
+that
+seeing
+his
+arrest
+would have
+lead
+to
+a
+break
+in.
+simply
+put
+there
+is
+no
+evidence
+that
+anyone
+was
+planning
+to break into mr. smissaert’s residence.
+no
+one knew the guns were there.
+the
+house was empty and no one else was expected to enter.
+to sum up, the danger posed by
+the guns in the house was theoretical, or speculative and not real.
+2)
+mr.
+smissaert
+on
+the
+evidence
+before
+me,
+possessed
+guns
+with
+no
+current
+licence. it appears that he was licenced
+in the past but did not keep his licencing current. his licences appear to have
+lapsed many years ago.
+from his
+statement to det. dikih
+mr.
+smissaert
+said
+that
+the
+guns
+had
+been
+in
+their
+current
+location
+for
+years. no
+one
+knew
+about
+them.
+he
+appears
+to
+have
+been
+a
+retired
+member
+of
+thecanadian forces.
+there is
+no evidence
+of gang or
+criminal
+element
+associations to mr. smissaert.
+3)
+it is a significant obstacle in
+the crown’s attempt to justify the reasonableness of the seizure that det.
+dikih did nothing to secure the scene once he learned that the house had rifles
+in it.
+he did not alert anyone at the
+opp other than det. pineau
+that
+there
+was
+a
+possible
+danger
+in
+the
+unsecured
+firearms
+at
+the
+house
+– and
+det
+pineau
+was
+there
+to
+provide
+assistance
+in
+the
+firearms
+seizure.
+det.
+dikih made
+no
+request
+for
+an
+officer
+to
+secure
+the
+scene,
+pending
+a
+warrant
+application.
+with mr. smissaert in custody
+and the complainant apparently uninterested in returning
+to
+the
+home
+where
+she
+was
+filmed in private
+there
+was
+no
+one
+else
+who would
+enter
+the
+home.
+the
+guns
+were
+in
+an
+empty
+house
+while
+mr.
+smissaert
+was in
+custody
+pending
+his
+first
+appearance.
+det.
+dikih
+was
+candid
+with
+mr.
+smissaert that he would be asking the
+crown to request a 3 day hold for a search warrant. in any event, the police
+had until approximately noon the next day before mr. smissaert was required to
+appear before a justice.
+that left
+some 18 hours to apply for a warrant to seize the guns while mr. smissaert was
+in police custody. given the nature of the voyeurism allegations it was
+reasonable to infer that a longer hold would have been granted while the police
+obtained a warrant for electronic devices still in the house.
+i struggle with det. dikih’s
+evidence that if he had asked for assistance to secure the scene it might not
+have been granted.
+that amounts to
+saying that a police detective’s
+concern
+about
+a
+danger
+to
+public
+safety
+would
+not
+be
+so
+concerning
+to others in his unit to the point where other police assets
+would be deployed to secure the scene.
+there is in my finding no real
+reason why another officer in a police car could not have been sent to mr.
+smissaert’s house to ensure that no one entered while a warrant was
+applied for.
+the
+video
+of
+the
+house does
+not
+support
+a
+finding that it was a
+difficult location
+to secure.
+i find the
+opposite,
+that it would
+have
+been
+very easy for another officer
+to monitor the house to ensure that no stranger
+went in while a warrant was being applied for.
+i would infer that anyone thinking about
+breaking into a house would be deterred by the presence of a police car at the
+curb.
+while i have found that there
+was no real danger posed by the guns in the house when
+mr. smissaert
+was
+in
+police
+custody, if
+i had,
+the
+ability
+to secure the
+scene pending a
+warrant application made such a warrant application straightforward. this court
+operates a telewarrant center 24 hours a day for such situations. a justice
+of
+the
+peace
+is
+always
+available
+to
+consider
+conventional
+warrants
+outside of
+normal court hours.
+det. dikih
+referred to this in his evidence.
+i
+do not find that
+the
+situation
+made
+it
+impracticable
+to
+apply
+for
+a
+warrant.
+to
+the
+contrary
+i
+find that that could have been completed
+very easily.
+4)
+det. dikih was candid in his
+testimony about the reasons he seized the firearms that evening.
+he made no attempt to distance himself
+from that part of the investigation.
+as
+he said in
+his evidence “
+…i
+would
+do
+that same
+thing
+again…”.
+
+for these reasons i find that mr.
+smissaert’s
+charter
+rights were violated.
+the police
+did
+not
+satisfy
+the
+warrantless
+seizure
+test
+in
+s.
+117.04(2).
+the
+warrantless
+seizure in the circumstances violated mr.
+smissaert’s s. 8 rights.
+section
+24(2)
+
+taking
+the
+three
+part
+test
+under
+r.
+v.
+grant
+2009
+scc
+32
+i
+find
+that
+sgt.
+dikih
+had
+the grounds to obtain a warrant.
+i
+find that the s. 8 violation lay in his decision to enter mr. smissaert’s home
+without a warrant instead of making a conventional warrant application.
+on the first prong of
+grant
+it is
+aggravating that det. dikih did not explore other
+alternatives to a
+warrantless
+entry into
+a private
+dwelling.
+it
+is mitigating
+that there is
+a
+dearth
+of
+appellate
+authority
+on
+which
+the
+police
+can
+be
+expected
+to
+know
+the
+test
+to apply when considering s. 117.04(2).
+i take as neutral that det. dikih
+testified that he would do the same thing again.
+on one hand his candour
+meets
+the standard expected of
+police
+detectives,
+but
+with
+that
+said,
+it
+is
+somewhat
+concerning
+that
+his
+testimony
+does not permit the idea that he may have
+proceeded in violation of a constitutional standard.
+
+i
+would
+therefore
+find
+that
+the
+first
+prong
+of
+grant
+modestly
+favour
+exclusion
+of
+the
+evidence.
+
+the impact on mr. smissaert’s
+charter
+protected interests was limited on the evidence before me.
+he was held in custody pending bail while
+a search warrant was duly
+applied
+for
+and
+executed.
+the
+warrantless
+entry
+therefore
+merely
+advanced
+seizure of guns which would have been found when the warrant was
+executed later.
+i assume that if det.
+dikih had not gone in with det. pineau on the friday night that seizure of the
+guns
+would
+have
+been
+included
+in
+the
+search
+warrant
+which
+was
+applied
+for
+later.
+given that no one was home during that
+time the location remained static. i take into consideration that the friday
+evening search by dets dikih and pineau was focussed entirely on the guns.
+they searched for nothing else and left once
+they had seized the guns, ammunition and items.
+the second prong of
+grant
+favours admission of the
+evidence.
+
+society always has an interest in
+the adjudication of a trial on the merits.
+the
+question
+is
+by
+how
+much.
+i
+find
+that
+this
+case
+involved
+a
+former
+hunter
+who
+held
+his
+guns unsafely and had let his firearms
+permits expire.
+let there be no
+mistake that those are serious criminal offences.
+but this case falls closer to the regulatory side as gun cases
+go, and is some distance from a true crime situation.
+apart from the lack of permit, and unsafe storage there is
+nothing on these facts to suggest that mr. smissaert’s rifles, ammunition
+or
+rifle
+parts
+would
+be
+used
+in
+a
+violent
+crime.
+i
+also
+find
+that
+the
+context
+of this
+charter
+application is the seizure of
+hunting rifles in a geographic area where
+lawful hunting is common.
+the third
+prong of
+grant
+favours exclusion of evidence.
+
+the balancing required of the
+court in the s. 24(2) analysis is discretionary.
+no two
+judges
+will
+necessarily
+come
+to
+the
+same
+conclusion,
+see.
+r.
+v.
+hobeika
+2020
+onca 750,
+r.
+v.
+griffith
+2021
+onca
+302
+at
+par.
+78.
+putting
+the
+three
+factors
+of
+grant
+together i have no difficulty in
+excluding the evidence.
+
+this
+charter
+application
+was
+well
+prepared
+and
+well
+argued.
+released:
+november
+19,
+2025
+signed:
+justice
+d.
+rose

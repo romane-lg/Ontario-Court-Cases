@@ -1,0 +1,529 @@
+source url: https://www.canlii.org/en/on/oncj/doc/2025/2025oncj608/2025oncj608.html
+
+ontario court of justice
+citation:
+r. v. moquin, 2025 oncj 608
+date: 
+2025 11 21
+between:
+his
+majesty the king
+— and
+—
+tanya moquin
+before justice j.r.
+lalande
+heard
+on november 10 2025
+reasons
+for judgment released on november 21, 2025
+r. feldstein.......................................................................................... counsel
+for the crown
+r. langevin........................................................ 
+counsel for the accused tanya moquin
+lalande j.:
+overview
+
+tanya moquin is charged with causing a disturbance and assaulting a
+peace officer. while the evidence is conflicting on the various accounts, at
+its highest, the assault consists of an allegation that, while being removed
+from her vehicle during the process of arrest for causing a disturbance, ms.
+moquin kicked the leg of one of the officers.
+
+ms. moquin seeks a stay of proceedings, arguing that her right to be
+tried within a reasonable time has been breached. i accept her argument and the
+case will be stayed for the reasons set out below.
+
+the overall delay in this case is 718 days or 23 months and 18 days. it
+exceeds the presumptive ceiling of 548 days or 18 months.
+
+the framework in
+jordan
+requires me to consider first whether
+there is any defence-caused delay by conduct or waiver. after deducting any
+defence delay from the overall delay, the remaining time is measured against
+the presumptive ceiling. should it exceed the ceiling, the burden is on the
+crown to rebut the presumption of unreasonableness on the basis of exceptional circumstances
+either in the form of discrete events or unusual complexity. failure to do so
+must result in a stay.
+
+essentially, there are two issues to be resolved in this application.
+the first is the characterization of certain periods as defence-caused delay.
+the crown alleged that some delay was attributable to defence during the
+initial period following the swearing of the information and prior to the trial
+dates being set. the crown also sought to characterize periods of
+unavailability for the continuation dates as defence-caused delay. after
+considering the matter, i would deduct 99 of the proposed 128 days sought by
+the crown.
+
+the second issue is whether any delay beyond the presumptive ceiling is
+justified based on exceptional circumstances. no argument was raised by the
+crown as to discrete events. instead, it argued that the case was of a
+particularly complex nature such that it warranted further reductions from the
+overall delay (
+jordan,
+2016 scc 27
+at para
+77-79
+). as i will explain, i
+decline to do so.
+
+the net delay is 619 days or 20 months and 10 days. it exceeds the
+presumptive ceiling by more than two months. therefore, as the law instructs, i
+must find that ms. moquin’s right to be tried within a reasonable time has been
+breached and the charges will be stayed.
+preliminary observations
+
+as the local administrative judge, i am aware that in recent years, the
+number of incoming cases in this jurisdiction has increased substantially, at a
+far greater rate than other jurisdictions in our region or province. in
+addition, it is well-known that the local trial rate has been well above the
+provincial and regional average for years. in recent times, justice system
+participants have strived to reduce the overall delay to trial in an effort to
+comply with provincial directives and to recover from the backlog caused by the
+covid-19 pandemic. in short, we are taking on more work, trying many more cases
+than other jurisdictions, and doing so on tighter timelines than ever before.
+
+this case is, in several ways, symptomatic of some of the
+problems that plague our collective ability to effectively manage cases in this
+difficult climate. overall, it took approximately six hours of court time to
+complete but was scheduled for a total of five and a half court days. this was because
+the matter was dealt with in fits and starts over its first two days and was
+not reached on the third and fourth. disclosure issues arose during the trial and
+additional time was required to complete the matter and to accommodate a lost
+evidence application as well as the need to recall a witness. these avoidable issues
+took up a significant amount of the overall trial time.
+
+without them, the case could have taken significantly less time. i
+would conservatively estimate four hours as the appropriate duration for the
+trial. despite this, the matter occupied more than five days on the court
+calendar and significantly more actual court time than was warranted. these references
+do not include the additional resources and time required to process and hear
+the 11(b) application.
+
+in short, there were challenges and failings on multiple levels
+in this case. when this occurs, i recognize that it often falls on the crown to
+explain the consequences to victims, law enforcement and the public. i also
+appreciate the many challenges that come with stacking our court lists.
+day-to-day, prosecutors in my courtroom have attempted to triage the scheduled
+matters in an efficient manner but far too many cases are scheduled for trial.
+ public confidence demands that all professional participants in the
+justice system pay close attention to the resources available and a sharper
+focus is required at all pretrial and trial stages to keep our dockets
+manageable. i call on all members of the local bar, crown or defence, to be
+mindful of these challenges and the pressing need for the efficient use of our
+resources.
+issue 1 – defence-caused delay
+positions of the parties
+
+mr.
+langevin, on behalf of the applicant, suggested that some 30 days ought to be
+characterized as defence delay during the initial phases of the prosecution.
+
+mr.
+feldstein suggests deducting the following 128 days as defence-caused delay:
+•
+28 days from january 16 to february 13, 2024 – defence caused
+delay for failing to retain counsel
+•
+28 days from april 18 to may 16, 2024 - defence caused delay as
+additional time required to obtain instructions on potential resolution
+•
+13 days from may 16 to july 4, 2024 – defence caused delay due to
+unavailability for earlier judicial pre-trials
+
+•
+59 days from july 23 to september 10, 2025, and october 24 to
+november 4 2025 - defence caused delay due to unavailability for trial
+continuation dates
+analysis
+
+the
+defence-caused delay in the early part of the case’s lifespan is easily dealt
+with. given the concession by mr. langevin that defence caused approximately
+one month of delay at the beginning of the case, the first period of 28 days
+for failing to retain counsel will be attributed as defence delay.
+
+as
+well, the additional 28 days needed to obtain instructions from april through
+may of 2024 is clearly defence-caused delay. the evidence is clear that defence
+had three weeks to obtain instructions before seeking this adjournment while
+the court and crown were ready to proceed to the next phase. no argument made
+by defence with respect to this period in submissions.
+
+i
+also agree that the 13 days of delay due to mr. langevin’s unavailability for a
+judicial pretrial is attributable to defence. again, no argument was made by
+defence as to this segment.
+
+while
+these issues are straightforward, the crown’s argument regarding defence
+unavailability for the trial continuation for 59 days between june 23rd and september
+10th 2025 is more complicated. to begin, according to the supreme court’s
+decision in
+hanan,
+2023 scc 12
+at paragraph
+9, there is no bright line
+rule according to which all the delay following defence counsel’s rejection of
+a date until the next available one must be characterized as defence delay.
+referencing
+boulanger,
+2022 scc 2
+at paragraph
+8, the supreme court in
+hanan
+instructs that all relevant circumstances should be considered in a what they
+describe as a ‘contextual approach’. recently, justice schrek, in
+bowen-wright,
+2024 onsc 293
+at paragraph
+40, a summary conviction appeal, reviewed factors
+that are usually relevant to the contextual approach in this type of situation:
+•
+the reason for the need to reschedule
+•
+the extent to which defence was available
+•
+the reasons for defence’s unavailability
+•
+the extent of notice given of a new trial date
+
+i
+turn now to a review of each of these factors.
+a)
+the reason for the need to reschedule
+
+first,
+the reason for the need to reschedule in this case was not caused by defence.
+on the four days scheduled for trial, ms. moquin and her counsel attended on
+time and prepared to proceed. unfortunately, the matter was only reached for
+approximately two hours on the first day in may and for just over one hour on
+the second day. on the second day, the matter was plagued by disclosure issues
+that necessitated a lengthy break and the recalling of an officer.
+
+unfortunately,
+the matter was not reached at all on the remaining two days. rather, the crown
+opted to prioritize other matters over that of ms. moquin. decisions of this
+nature are difficult ones, and i do not fault the crown whatsoever for their
+assessment and prioritization of the competing matters on any of the scheduled
+days for trial. in fact, a review of the dockets for each of the scheduled
+trial days reveals that two to three other trials were scheduled along with ms.
+moquin’s, in addition to other matters. many of them were serious in nature.
+
+to
+illustrate, on may 26, 2025, court started an hour early to deal with
+sentencing in a matter involving a tragic motor vehicle collision. that was
+followed by the conclusion a serious multi-day sexual interference trial. also
+scheduled were trials for assault with a weapon and a dangerous driving. over
+lunch, another sentencing matter was completed. eventually, ms. moquin’s matter
+was heard for approximately two hours towards the end of the day.
+
+on
+may 27, 2025, two sentencing hearings were held between 9 and 10am. there were
+also three other trials on the docket to be dealt with, including an in-custody
+matter involving allegations of intimate partner violence. over the lunch hour,
+a sentencing hearing took place on a serious matter where an offender failed to
+provide the necessities of life. when a french trial involving stolen property completed
+in the mid-afternoon, ms. moquin’s matter was continued in two segments with a
+break in between to deal with a disclosure issue. during that break, another
+case was dealt with.
+
+the
+remaining days where ms. moquin’s trial was not reached, may 30 and june 24,
+2025, had similar dockets.
+
+in
+short, ms. moquin bears no responsibility for the matter being adjourned.
+rather, the delay is the product of the crown making responsible choices in
+line with its duty to call the list and to manage a high volume of serious
+cases.
+b)
+the extent to which defence was available
+
+after
+the matter failed to complete on time, a date was required to continue. that
+date was chosen on june 24 2025.
+
+despite
+having a trial scheduled in the same courtroom that day, defence was willing to
+schedule the matter for june 27th. unfortunately, the assigned crown was
+unavailable. defence counsel was available for other dates offered by the trial
+coordinator, including september 10
+th
+and october 15
+th
+2025.
+
+when
+it comes to the dates in july that were unavailable to defence, the transcript
+from june 24 2025 reveals that, initially, no dates were available between june
+and september. after the trial coordinator took a few minutes to “work some
+magic”, two dates were offered in july. the first, july 9, was unavailable for
+both parties and july 24 was unavailable to defence. no other dates were
+offered until september 10th when the crown was unavailable.
+c)
+the reasons for defence’s unavailability
+
+according
+to the transcripts, defence counsel in this case was unavailable for two dates
+due to pre-existing court commitments. with respect to the july 9 date, mr.
+langevin had a bail hearing scheduled on a serious matter. the trial
+coordinator then offered july 24th in a satellite court in alexandria, ontario.
+defence unfortunately had a trial booked in cornwall that day.
+
+while
+crown counsel argued during submissions that defence ought to have prioritized
+this matter, i see the situation as quite understandable. as was observed in
+safdar,
+2021 onca 207
+at paragraph
+50, counsel cannot be expected to “compromise one
+client’s interests for another.”
+d)
+the extent of notice given of a new trial date
+
+here,
+there was little notice that a date would be offered within one month after ms.
+moquin’s matter failed to complete in late june 2025. as pointed out in
+bowen-wright
+at paragraph
+48, judicial experience shows that, “counsel are much more likely
+to be booked up nearer in the future.”
+
+applying
+a contextual approach to this segment of delay, i decline to attribute the
+entire period between july 23, 2025 and september 10, 2025, as defence delay
+due to unavailability. defence was not responsible for the continuation and was
+available for some dates offered. this includes one available date the very
+same week. that he had some commitments in the weeks ahead is entirely
+understandable. he was also willing to double-book himself with this matter in
+the same courtroom where he had a trial scheduled and the date that was refused
+in july was offered in a satellite location.
+
+on
+balance, i conclude that a fair apportionment of the delay is to attribute 30
+of the 59 days elapsed as defence-caused delay.
+conclusion
+
+the
+following portions will be deducted from the overall delay of 718 days as
+defence delay:
+•
+28 days (from january 16 to february 13 2024)
+•
+28 days (from april 18 2024 to may 16 2024)
+•
+13 days (within may 16 2024 to july 4 2024)
+•
+30 days (within july 23 2025 to september 10 2025)
+
+these
+deductions, totaling 99 days, reduce the overall delay to 619 days. thus, the
+matter exceeds the presumptive ceiling by 71 days. the crown bears the onus of
+establishing that this delay beyond the presumptive ceiling is justified based
+on exceptional circumstances.
+issue 2 – exceptional circumstances: complexity
+positions of the parties
+
+relying
+on
+anderson,
+2025 onca 172, mr. feldstein, for the crown, argues that
+ms. moquin’s matter had certain administrative complexities that require
+further qualitative deductions from the overall delay. these deductions, in his
+submission, ought to result in a net delay below the presumptive ceiling. no
+argument was put forward in terms of any discrete events.
+
+mr.
+langevin submits that no deductions should be made for any exceptional
+circumstances.
+analysis
+
+the
+characterization of “cases that are particularly complex” was described by the
+majority in
+jordan,
+2016 scc 27, at paragraphs
+77 and 79
+in the
+following terms:
+particularly complex cases are
+cases that, because of the
+nature
+of the evidence or the nature of the
+issues,
+require an inordinate amount of trial or preparation time … hallmarks of
+particularly complex cases include voluminous disclosure, a large number of
+witnesses, significant requirements for expert evidence, and charges covering a
+long period of time. … a large number of charges and pre-trial applications;
+novel or complicated legal issues; and a large number of significant issues in
+dispute…
+… the trial judge will also
+want to consider whether the crown, having initiated what could reasonably be
+expected to be a complex prosecution, developed and followed a concrete plan to
+minimize the delay occasioned by such complexity … where it has failed to do
+so, the crown will not be able to show exceptional circumstances, because it
+will not be able to show that the circumstances were outside its control.
+
+an
+example of what constitutes a complex case is found in
+tsega,
+2017 onca
+3090. the court of appeal described it at paragraphs 78 in this way:
+the investigation involved four
+separate police services. more than 103 witnesses were interviewed, 74 of them
+made video recorded statements. part vi authorizations under the code resulted
+in 39,129 intercepted communications. ten production orders were executed
+capturing phone records from 27 different phones. nine search warrants were
+executed involving homes in ottawa and toronto and 900 photographs were taken.
+several expert witnesses were consulted and retained, including those in the
+fields of pathology, dna, firearms, gsr, and cellular phone operations. in all,
+308 items were seized or collected, resulting in 130 exhibits. in the end,
+there were 12 disclosure packages containing over 20,000 pages of disclosure
+along with electronic media amounting to over 51 gbs of disclosure….
+
+this
+description stands in stark contrast to ms. moquin’s matter. i would describe
+her case as routine and straightforward. it involved a count of cause
+disturbance and a count of assault police stemming from a single discrete
+incident. four witnesses testified, including the accused. also, as i
+mentioned, cumulatively, the entire case, including evidence and submissions on
+the trial as well as a lost evidence application, took less than six hours.
+plainly, this case does not meet the usual criteria for what is, at law,
+considered exceptionally complex.
+
+while
+the crown acknowledges that this case does not have the usual hallmarks of
+complexity, it relies heavily on the authority of
+anderson, in support
+of its argument that an ‘administrative complexity’ complicated ms. moquin’s
+matter. as i understand it, ms. moquin’s case required an out-of-jurisdiction
+prosecutor as the accused is or was apparently related to a staff member at the
+crown’s office.
+
+in
+anderson, justice chaffe attended a jurisdiction from out-of-region to
+preside over a lengthy matter with out-of-town staff owing to a conflict with
+respect to one of the complainants. justice chaffe’s 11(b) ruling, which was
+upheld on appeal, relied in part on the complexity of the case to establish
+exceptional circumstances.
+
+having
+reviewed and reflected on the
+anderson
+decision, i conclude that it does
+not assist the crown in ms. moquin’s matter for the following two reasons.
+first,
+anderson
+bore the hallmarks of a typical complex case. the
+accused faced 19 charges of a serious nature involving sexual violence against
+10 complainants. there were several complicated procedural applications as well
+as various
+charter
+applications. any ‘administrative complexity’
+referred to in that case was in addition to these factors (
+anderson, at
+para
+32
+). by contrast, as i have described, ms. moquin’s matter is
+uncomplicated and straightforward. it simply cannot be assessed as complex when
+regarded qualitatively or as a whole.
+
+second,
+the ‘administrative complexity’ in
+anderson
+involved, principally, some
+difficulty scheduling around holidays and prior court commitments of the
+various parties and, to some extent, issues with litigation support and
+disclosure (
+anderson, at para
+32
+). none of those issues featured
+prominently in this case. at best, crown counsel has articulated two issues
+related to what was termed ‘administrative complexity’.
+
+the
+first issue argued by the crown involved scheduling a jpt. mr. feldstein was
+unavailable for two jpt slots offered in may of 2023 as they began at 9:30am,
+which coincided with his existing trial commitments. mr. feldstein complains
+that his home jurisdiction starts their trials at 930am, which puts him at a
+disadvantage given that cornwall’s trials start at 10am. with respect, i
+disagree. invariably, court days in this jurisdiction begin at 9am or 930am
+with other matters, including jpts. for instance, my court opened at 9am or
+930am on every single one of ms. moquin’s scheduled trial days, and her 11(b)
+application was heard between 9-10am on november 10, 2025, in advance of a
+trial list being called. in short, while mr. feldstein may regularly prosecute
+trials beginning at 930am in his home jurisdiction, the local crowns in
+cornwall also have early court commitments daily.
+
+the
+second issue argued by the crown is that there was some confusion as between
+the crowns and defence counsel because of the ‘administrative complexities’
+involving an out-of-jurisdiction prosecutor. at one point, he met with duty
+counsel for a cpt, and the next day, the accused retained mr. langevin, who, in
+turn, met with a local cornwall crown for a cpt. at the time, mr. feldstein had
+been assigned to the matter for nearly a month and mr. langevin’s agent had
+been appearing for two months indicating that the retainer was being perfected.
+while some 18 days of delay elapsed before the two assigned lawyers were able
+to connect, i am not prepared to attribute these events to exceptional
+complexity.
+
+while
+i appreciate that prosecuting matters in a neighbouring jurisdiction may
+require additional administrative legwork, what is absent from these confusing
+events is evidence of any ‘concrete plan’ (
+jordan, para
+79
+). the supreme
+court instructed in
+jordan
+that this a precondition to accessing the
+‘complexity’ branch of exceptional circumstances which justify delay. for
+example, experience suggests that an out-of-jurisdiction prosecutor may benefit
+from introducing themselves upon assignment to the lawyer appearing in court on
+behalf of the accused or by leaving a note-to-file for any local crowns to
+forward any pretrial requests or correspondence to the assigned crown. the
+bottom line here is that there were minimal measures available to the crown
+that could have easily avoided this confusion.
+
+finally,
+as part of his overall argument that this case was complex, mr. feldstein
+submits that i should consider as a part of the analysis that i was only judge
+available in this jurisdiction to hear the case. as he explained in
+submissions, in addition to the conflict at the crown’s office, the accused
+also had a connection to a former special constable who worked in the
+courthouse. prior to the matter being scheduled for trial, this issue prompted
+informal determinations that three of the four local judges would be unable to
+hear the matter due to a conflict of interest. as a result, the trial was set
+in accordance with my availability. local staff were employed for the trial and
+a local defence lawyer acted for mr. moquin.
+
+i
+do not regard the judicial conflicts as significant. first, another local
+judge was able to deal with jpt in this matter and discuss time estimates
+without the matter being delayed. second, there is no evidence that the
+scheduled trial dates were delayed whatsoever when set with my availability.
+third, there is no evidence that, at the time of trial-setting, the crown was
+concerned by any delay of this nature such that it sought to pursue the matter
+further or develop a concrete plan to manage any delays. these steps could have
+included prioritizing the matter over other scheduled trials or initiating a
+request to engage judicial resources from out-of-jurisdiction to prevent any
+undue delay. instead, the crown was content to set a trial date beyond the
+presumptive ceiling. for these reasons, i do not accept the crown’s argument
+that the judicial conflicts are germane to my determination of whether exceptional
+circumstances existed in this case due to its complexity.
+conclusion
+
+having
+made the identified deductions for defence-caused delay and declined any
+deduction for complexity, the matter remains above the presumptive ceiling. i
+find that ms. moquin’s section 11(b) right to have been violated. in the
+result, the charges will be stayed.
+released: november 21, 2025
+signed:
+justice j.r. lalande
+
+initially, the crown sought to deduct 49 days for defence delay relating to the
+scheduling of jpts. when reviewing the application record in submissions, mr.
+feldstein fairly conceded that only 13 days of delay ought to be deducted.

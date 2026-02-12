@@ -1,0 +1,416 @@
+Source URL: https://www.canlii.org/en/on/oncj/doc/2025/2025oncj718/2025oncj718.html
+
+ONTARIO COURT OF JUSTICE
+CITATION:
+R. v. Murray
+, 2025 ONCJ 718
+DATE: 
+July 15, 2025
+COURT
+FILE No.:  19-4993
+BETWEEN:
+HIS
+MAJESTY THE KING
+—
+AND —
+DAVID MURRAY
+Before
+Justice S. Murphy
+Heard
+on June 25, 2025
+Reasons
+for Judgment released on July 15, 2025
+M. Flagg................................................................................................ counsel
+for the Crown
+A. O’Brodovich.........................................................  
+counsel for the accused, D. Murray
+Murphy J.:
+[
+1
+]
+This is a decision relating to the Crown’s
+Application to admit similar fact evidence regarding the 35 counts of fraud
+that Mr. Murray is facing.
+[
+2
+]
+At the commencement of the Trial, and throughout
+the proceedings, the Defence has admitted the following elements of the Crown’s
+case:
+i)
+Mr. Murray was the owner and operator of the
+company, EcoLife Home Improvements Inc.;
+ii)
+Mr. Murray’s company, EcoLife Home Improvements
+Inc. and each Complainant entered into a contractual relationship, and Mr.
+Murray’s identity as a person and as an authorized representative of the
+company is not in issue;
+iii)
+The timeframe as between 2017 and 2019 is not in
+issue for any of the contracts, or the performance or non-performance of the
+contract;
+iv)
+Mr. Murray received money from each complainant;
+v)
+Mr. Murray and/or the workers from the company EcoLife
+either started work and did not finish regarding each contract, or did not
+start work at all;
+vi)
+The money for each complainant was not refunded
+(with one exception of the return of a deposit); and
+vii)
+Other admissions were made, which are not
+relevant for the purpose of assessing the Crown’s application.
+[
+3
+]
+The Crown has filed an Application for the
+Evidence as against Mr. Murray in the Crown’s case to apply across all counts,
+or a Cross-Count Application.  The burden on the Crown is on a balance of
+probabilities.  The Crown relies on
+R. v. Handy
+as the leading case
+regarding these Applications, which sets out the legal test to be applied.
+[
+4
+]
+Mr. O’Brodovich, on behalf of Mr. Murray,
+concedes the Crown’s Application on all of the elements of the
+Handy
+test, with the exception of the basis of collusion, or that there is an air of
+reality to the risk of collusion.  If I find that there is an air of reality to
+the risk of collusion or that there has been collusion, the obligation is on
+the Crown to disprove collusion.
+[
+5
+]
+The Defence says that the Crown has not
+discharged that obligation.  The Crown argues that there is no air of reality
+to the risk of collusion and that there is no evidence of collusion in this
+case.
+[
+6
+]
+When pressed regarding exactly where the
+collusion as between Complainants, or as between the Complainants and the
+police, the Defence focused on the area of the timing of the filing of the complaint
+to the police.
+[
+7
+]
+The theory of the Defence is that none of the
+Complainants believed that they had been deceived by Mr. Murray until they
+learned of a Facebook Group called Victims of EcoLife, until they learned of a
+protest against EcoLife held in March of 2019 in Tom Davies Square in Sudbury,
+until they became aware of media coverage regarding disgruntled customers of
+EcoLife Home Improvements Inc., or some combination of those things.
+[
+8
+]
+The Defence claims that deceit is part of the
+mens
+rea
+that the Crown has to prove.  He argues that the subjective belief of
+the Complainants was influenced by the Facebook group, the media and/or the
+protest, and so their subjective belief that they were deceived forms part of
+the analysis whether or not
+mens rea
+has been established.
+[
+9
+]
+The Crown argues that the subjective belief of
+each Complainant is legally irrelevant to any issue and does not form part of
+the
+mens rea
+of the offence of fraud.
+[
+10
+]
+I agree with the position of the Crown.  The subjective
+belief of any Complainant that he or she has been deceived is irrelevant to the
+legal analysis that I have to undertake.  As well, the timing of any change in
+view of the Complainant about whether or not they had been deceived is also
+irrelevant to any analysis that I must undertake.
+[
+11
+]
+Mens rea
+was
+defined by the Supreme Court of Canada in the seminal case of
+R. v.
+Théroux
+,
+1993 CanLII 134 (SCC)
+, [1993] 2 SCR.  At page 15, Justice
+McLachlan writing for the majority said:
+“2
+.
+The Actus Reus of Fraud
+Since the
+mens rea
+of an offence is related to
+its
+actus reus
+, it is helpful to begin the analysis by considering
+the
+actus reus
+of the offence of fraud.  Speaking of the
+actus
+reus
+of this offence, Dickson J. (as he then was) set out the
+following principles in
+Olan
+:
+(i)   the offence
+has two elements: dishonest act and deprivation;
+(ii)  the dishonest
+act is established by proof of deceit, falsehood or "other fraudulent
+means";
+(iii) the element of
+deprivation is established by proof of detriment, prejudice, or risk of
+prejudice to the economic interests of the victim, caused by the dishonest act.
+Olan
+marked a broadening
+of the law of fraud in two respects.  First, it overruled previous
+authority which suggested that deceit was an essential element of the
+offence.  Instead, it posited the general concept of dishonesty, which
+might manifest itself in deceit, falsehood or some other form of
+dishonesty.  Just as what constitutes a lie or a deceitful act for the
+purpose of the
+actus reus
+is judged on the objective facts, so
+the "other fraudulent means" in the third category is determined
+objectively, by reference to what a reasonable person would consider to be a
+dishonest act.  Second,
+Olan
+made it clear that economic
+loss was not essential to the offence; the imperilling of an economic interest
+is sufficient even though no actual loss has been suffered.  By adopting
+an expansive interpretation of the offence, the Court established fraud as
+an offence of general scope capable of encompassing a wide range of dishonest
+commercial dealings.”
+[
+12
+]
+Accordingly, the concept of deceit relates to
+the
+actus reus
+of the offence, and it is to be determined on an
+objective basis, rather than the subjective belief of the Complainant.
+[
+13
+]
+However, it also relates to the
+mens rea
+. 
+Justice McLachlan went on to discuss
+mens rea
+in the following manner:
+“3
+.
+The Mens Rea of Fraud
+(i)
+Doctrinal Considerations
+This brings us to the
+mens
+rea of fraud.
+What is the guilty mind of fraud?  At this point,
+certain confusions inherent in the concept of
+mens rea
+itself become
+apparent. It is useful initially to distinguish between the mental element or
+elements of a crime and the
+mens rea.
+The term
+mens rea,
+properly
+understood, does not encompass all of the mental elements of a crime. 
+The
+actus reus
+has its own mental element; the act must be the
+voluntary act of the accused for the
+actus reus
+to exist.
+Mens
+rea,
+on the other hand, refers to the guilty mind, the wrongful intention,
+of the accused.  Its function in criminal law is to prevent the conviction
+of the morally innocent -- those who do not understand or intend the
+consequences of their acts.  Typically,
+mens rea
+is concerned with
+the consequences of the prohibited
+actus reus
+.  Thus in the
+crimes of homicide, we speak of the consequences of the voluntary act ‑‑
+intention to cause death, or reckless and wilfully blind persistence in conduct
+which one knows is likely to cause death.  In other offences, such as
+dangerous driving, the
+mens rea
+may relate to the failure to consider the
+consequences of inadvertence.
+This brings me to the question
+of whether the test for
+mens rea
+is subjective or objective.  Most
+scholars and jurists agree that, leaving aside offences where the
+actus
+reus
+is negligence or inadvertence and offences of absolute liability,
+the test for
+mens rea
+is subjective.  The test is not whether
+a reasonable person would have foreseen the consequences of the prohibited act,
+but whether the accused subjectively appreciated those consequences at least as
+a possibility.  In applying the subjective test, the court looks to the
+accused's intention and the facts as the accused believed them to be:  G.
+Williams,
+Textbook of Criminal Law
+(2nd ed. 1983), at pp. 727‑28.
+Two collateral points must be
+made at this juncture.  First, as Williams underlines, this inquiry has
+nothing to do with the accused's system of values.  A person is not saved
+from conviction because he or she believes there is nothing wrong with what he
+or she is doing.  The question is whether the accused subjectively
+appreciated that certain consequences would follow from his or her acts, not
+whether the accused believed the acts or their consequences to be moral.  Just
+as the pathological killer would not be acquitted on the mere ground that he
+failed to see his act as morally reprehensible, so the defrauder will not be
+acquitted because he believed that what he was doing was honest.
+The second collateral
+point is the oft‑made observation that the Crown need not, in every case,
+show precisely what thought was in the accused's mind at the time of the
+criminal act.  In certain cases, subjective awareness of the consequences
+can be inferred from the act itself, barring some explanation casting doubt on
+such inference.  The fact that such an inference is made does not detract
+from the subjectivity of the test.
+Having ventured these general
+comments on
+mens rea,
+I return to the offence of fraud.  The prohibited
+act is deceit, falsehood, or some other dishonest act.  The prohibited
+consequence is depriving another of what is or should be his, which may, as we
+have seen, consist in merely placing another's property at risk.  The
+mens
+rea
+would then consist in the subjective awareness that one was
+undertaking a prohibited act (the deceit, falsehood or other dishonest act)
+which could cause deprivation in the sense of depriving another of property or
+putting that property at risk.  If this is shown, the crime is
+complete.  The fact that the accused may have hoped the deprivation would
+not take place, or may have felt there was nothing wrong with what he or she
+was doing, provides no defence.  To put it another way, following the
+traditional criminal law principle that the mental state necessary to the
+offence must be determined by reference to the external acts which constitute
+the
+actus
+of the offence (see Williams,
+supra
+, c.
+3), the proper focus in determining the
+mens rea
+of fraud is to ask
+whether the accused intentionally committed the prohibited acts (deceit,
+falsehood, or other dishonest act) knowing or desiring the consequences
+proscribed by the offence (deprivation, including the risk of
+deprivation).  The personal feeling of the accused about the morality or
+honesty of the act or its consequences is no more relevant to the analysis than
+is the accused's awareness that the particular acts undertaken constitute a
+criminal offence.
+This applies as much to the
+third head of fraud, "other fraudulent means", as to lies and acts of
+deceit.  Although other fraudulent means have been broadly defined as
+means which are "dishonest", it is not necessary that an accused
+personally consider these means to be dishonest in order that he or she be
+convicted of fraud for having undertaken them.  The
+"dishonesty" of the means is relevant to the determination whether the
+conduct falls within the type of conduct caught by the offence of fraud; what
+reasonable people consider dishonest assists in the determination whether
+the
+actus reus
+of the offence can be made out on particular
+facts.  That established, it need only be determined that an accused
+knowingly undertook the acts in question, aware that deprivation, or risk of
+deprivation, could follow as a likely consequence.
+I have spoken of knowledge of
+the consequences of the fraudulent act.  There appears to be no reason,
+however, why recklessness as to consequences might not also attract criminal
+responsibility.  Recklessness presupposes knowledge of the likelihood of
+the prohibited consequences.  It is established when it is shown that the
+accused, with such knowledge, commits acts which may bring about these
+prohibited consequences, while being reckless as to whether or not they ensue.
+These doctrinal observations
+suggest that the
+actus reus
+of the offence of fraud will
+be established by proof of:
+1.    the prohibited act,
+be it an act of deceit, a falsehood or some other fraudulent means; and
+2.    deprivation caused
+by the prohibited act, which may consist in actual loss or the placing of the
+victim's pecuniary interests at risk.
+Correspondingly, the
+mens
+rea
+of fraud is established by proof of:
+1.    subjective knowledge
+of the prohibited act; and
+2.    subjective knowledge
+that the prohibited act could have as a consequence the deprivation of another
+(which deprivation may consist in knowledge that the victim's pecuniary
+interests are put at risk).
+Where the conduct and
+knowledge required by these definitions are established, the accused is guilty
+whether he actually intended the prohibited consequence or was reckless as to
+whether it would occur.”
+[
+14
+]
+Justice McLachlan went on to say:
+“The
+concern is that any misrepresentation or practice which induces an incorrect
+understanding or belief in the minds of customers, or which causes deprivation,
+will become criminal.  As Marshall J.A. put it in
+Mugford
+,
+supra
+,
+at pp. 175‑76:
+. . . it
+is not sufficient to base fraud merely upon a finding that the appellant
+induced a state of mind in his customers which was not correct.  Any
+misrepresentation may have that effect.  Criminal dishonesty extends
+further. . . .
+It would
+be a startling extension of criminal liability if every statement urging the
+public to purchase one's wares because only a limited supply remain were by
+itself to be visited with criminal sanction.”
+[
+15
+]
+Therefore, it is clear that the element of
+mens
+rea
+is from the perspective of Mr. Murray, not the perspective of any
+of the Complainants involved in this case.  The fact that their views of the
+consequence of Mr. Murray’s acts or failure to act may have been influenced by
+other factors, such as media release, a Facebook group or a protest is
+completely irrelevant to any issue that I have to determine.  These factors
+simply explain how and why and when each Complainant chose to report their
+concerns to the police.
+[
+16
+]
+I find in the circumstances, that I do not find
+that there was collusion regarding any of the evidence given, on the part of
+any of the Complainants and that there is no air of reality to the issue of
+collusion.
+[
+17
+]
+The Crown’s Application is granted and the evidence
+will apply across the counts.
+Released:  July 15, 2025
+Signed:
+Justice S. Murphy

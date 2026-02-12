@@ -1,0 +1,1101 @@
+source url: https://www.canlii.org/en/on/oncj/doc/2025/2025oncj627/2025oncj627.html
+
+ontario court of justice
+citation:
+r. v. ferguson,
+2025 oncj 627
+date: 
+2025 12 01
+court
+file: toronto #24 48117822-02
+between:
+his
+majesty the king
+— and
+—
+rodney ferguson
+charter
+section 11(b)
+ruling
+before
+justice brock jones
+heard
+on november 27, 2025
+decision
+released on december 1, 2025
+l. abdalla, p. harris and n. piccinin............................................. counsel
+for the crown
+a. craig and s. khan................................................................... counsel
+for mr. ferguson
+jones j.:
+introduction
+
+mr. ferguson is charged with conspiracy to commit an indictable offence
+(
+criminal code
+section 465(1)(c)), arson (
+criminal code
+section 434),
+possession of incendiary material (
+criminal code
+section 436.1), and
+mischief over $5000 (
+criminal code
+section 430(3)).
+
+he was arrested on june 5, 2024, and an information was sworn the same
+day. his trial is set to conclude on march 16, 2026. the period between the swearing
+of the information and the anticipated end of his trial is 649 days. this exceeds
+the 18-month ceiling for trial sets in the ontario court of justice established
+by the supreme court of canada in
+r. v. jordan,
+2016 scc 27.
+
+during the oral hearing on november 27, mr. piccinin submitted that,
+based on recent decisions made by the crown’s office to reduce the complexity
+of the trial, he was optimistic that the case would conclude under the
+jordan
+ceiling. he estimated the trial would be completed no later than january 30,
+2026. the total delay would be approximately 17 months. ms. khan disputed the
+accuracy of that new, revised timeline.
+
+mr. ferguson alleges a violation of his
+charter
+section 11(b)
+right to a trial without unreasonable delay. he requests a stay of proceedings
+pursuant to
+charter
+section 24(1).
+
+regardless of whether this case falls above or below the
+jordan
+ceiling,
+for the following reasons, i grant the application and stay the proceedings.
+overview of the allegations
+
+mr. ferguson was originally charged along with two other individuals, renan
+vinicius da silva and steven lepera. the crown withdrew the charges against
+these other two suspects on october 30, 2025, which was the day this
+application was originally set to be heard.
+
+on february 9, 2023, at 3:48 am, surveillance footage captured three
+unknown individuals at the petty cash bar, located at 487 adelaide street west,
+toronto. they arrived in a red hyundai sonata. the group carried jerry cans,
+poured gasoline inside the bar, and ignited a fire.
+
+on february 28, 2023, at 4:00 am, three unknown persons attended the
+myth bar at 522 king street west, toronto. they also arrived in a red hyundai
+sonata. the group used jerry cans, poured gasoline inside the bar, and ignited
+a fire.
+
+at 4:39 am, a video captured the same three persons approaching a parked
+black dodge truck. they broke into the truck, poured gasoline inside it, and
+set it on fire.
+
+a
+police investigation commenced. the police believed mr. da silva owned and
+operated the red hyundai sonata. it was believed that mr. ferguson and mr.
+lepera were the other two people involved in these crimes.
+
+central
+to the original theory of the case for the crown was cellphone location data
+obtained by the police, which purportedly would help the crown prove a conspiracy
+between the three co-accused persons and implicate them in each of the arsons.
+
+mr.
+piccinin advised me that the crown had abandoned that theory by the time he
+took over the case in september 2025. as of november 27, 2025, the crown was alleging
+that mr. ferguson was involved in only one of the incidents, and the trial’s
+complexity was reduced accordingly.
+history of the proceedings
+
+i
+have focused my summary of the chronology of the case on the most salient
+features for the purposes of this decision, given the concessions made by
+counsel.
+(i)
+june
+5, 2024 – october 4, 2024
+
+mr.
+ferguson initially retained larry lebovits as his counsel. on june 17, mr.
+lebovits requested disclosure on the court record. he wanted to review that
+material before considering an application for bail on behalf of mr. ferguson.
+on july 8, mr. lebovits repeated that request.
+
+on
+july 15, mr. ferguson informed a justice of the peace that he wanted to retain
+a new lawyer. duty counsel nevertheless informed the court that mr. lebovits
+was still awaiting disclosure and remained counsel of record.
+
+mr.
+lebovits was removed as counsel on july 29. mr. ferguson made a request for a
+change of solicitor application via legal aid. on september 9, mr. ferguson
+appeared before a justice of the peace, while self-represented, and indicated that
+he wanted disclosure. his change of solicitor application was still being
+processed. he was also considering a
+rowbotham
+application if necessary.
+the crown advised that once mr. ferguson had his new lawyer “firmed up,” they
+would send disclosure to that lawyer, who was intended to be ms. a. craig.
+
+on
+september 23, mr. ferguson appeared in court and once again requested disclosure.
+
+ms.
+craig was retained on october 4.
+(ii)
+october
+4, 2024 – september 17, 2025
+
+ms.
+craig made multiple requests for the disclosure materials. on october 7, she
+did so in court, as she did on october 28. she sent a follow-up request to the
+crown on november 25. on november 26, in a case management court, ms. craig
+relayed to duty counsel that she was awaiting initial disclosure. the crown
+agreed to “flag” the matter for disclosure to be located and provided to ms.
+craig. the case was adjourned to december 4 in the judicial intensive case
+management court (“jicmc”).
+
+initial
+disclosure was finally received on december 4, six months after mr. ferguson’s
+arrest. a crown pre-trial was held on december 12. ms. craig requested further
+pre-trials in january 2025, but the assigned assistant crown attorney did not
+respond.
+
+a
+judicial pre-trial (“jpt”) was held on february 19, 2025, before justice p.
+fraser. everyone agreed that a follow-up jpt would be necessary to discuss the
+status of several outstanding disclosure items, including video footage,
+witness interviews, information to obtain court orders (“itos”), and cellphone
+extraction reports.
+
+a
+continuing jpt was held before justice fraser on may 5. the significant items
+of disclosure were still outstanding. the crown could not provide an
+explanation. a further jpt was set for june 17.
+
+on
+june 17, the crown did not attend, and the jpt could not be conducted.
+
+despite
+the outstanding disclosure materials, on june 20, a trial scheduling conference
+was held to set trial dates. a ten-day trial was set for all three accused
+parties, which would have concluded on march 16, 2026. earlier dates were
+offered but ms. craig was not available.
+
+a
+further jpt was held with justice fraser on june 23. the disclosure materials
+remained outstanding.
+
+at
+yet another jpt on july 2, defence counsel advised justice fraser that they
+received “several gigabytes” of disclosure a few days prior and were still
+reviewing it. the trial coordinator also attempted to obtain trial dates within
+the
+jordan
+ceiling but was unsuccessful. ms. craig needed time to
+determine if she was available for some of the proposed new dates.
+
+justice
+fraser heard from the parties in open court and summarized what occurred at the
+jpt. the case was set to return on july 15, when dates for an 11(b) hearing would
+be put on the record. that did not occur, however, until a subsequent date.
+
+a
+further trial scheduling conference was held on july 23. the dates for the 11b
+motion were set for october 30 and 31, 2025.
+
+the
+crown failed to appear for another continuing jpt on august 7 before justice
+fraser.
+
+two
+more jpts were held before justice fraser on august 19 and september 17.
+(iii)
+section 11b hearing set for october 30, 2025 – november 27, 2025
+
+the
+charter
+section 11b application was assigned to me. the crown chose to
+withdraw the charges against the co-accused of mr. ferguson on the morning of
+the anticipated arguments. as a result, the application was adjourned, with the
+crown and ms. craig agreeing to seek new dates that might enable the trial for
+mr. ferguson to finish within the
+jordan
+ceiling. the crown undertook to
+advise if it believed the length of the trial could be shortened because of its
+decision to withdraw against the co-accused.
+
+a
+key item of outstanding disclosure – the cellphone data extraction reports –
+had still not been provided to the defence as of the original date set for this
+application.
+
+mr.
+piccinin informed me on november 27, 2025, that after reviewing the evidence,
+the crown would not rely on the cellphone tower evidence. it did not directly
+implicate mr. ferguson. however, it was never disclosed.
+
+a
+date of november 21, 2025, had been set aside to potentially begin the evidence
+in this trial after the october 30, 2025, hearing for the 11b application was
+adjourned. defence counsel made themselves available for that date despite the
+difficulty in quickly rearranging their schedules. however, the crown later informed
+them that the key crown witness would not be available on that date, and the
+date was vacated.
+
+the
+trial is still scheduled to conclude after 18 months. however, mr. piccinin
+remains confident the crown’s case will be finished by the end of january
+2026.
+position of the crown
+
+mr.
+harris structured his written argument into three parts. first, he argues that
+mr. ferguson’s decision to change lawyers early in the process contributed to
+the delay. second, he criticized ms. craig for not moving more quickly to
+secure trial dates after the may 5, 2025, jpt with justice fraser. if i accept
+these first two points, the total delay in this case is under 18 months.
+however, if i do not accept them, he argues that the case involved three
+co-accused, extensive disclosure, and several unusual features, which justify
+describing it as 'particularly complex' and requiring additional time beyond
+the standard
+jordan
+ceiling.
+
+mr.
+piccinin augmented these written arguments during oral submissions. he argued
+that the case should properly fall under the
+jordan
+ceiling because it
+is likely to conclude by january 30, 2026. the crown has decided to pursue only
+one arson charge against mr. ferguson, and much of the disclosure material is
+no longer intended to be part of the crown’s case at trial. the case has been
+significantly simplified.
+
+he
+could not comment on how prior members of his office had handled the file.
+however, he informed me that he was assigned to the case in september 2025 and
+was given the time he needed to thoroughly assess it. he needed to correspond
+with multiple oics and review thousands of pages of material.
+
+he
+otherwise relied upon the written submissions of mr. harris.
+position of the defence
+
+ms.
+khan argues that the trial will take longer than 18 months to complete, and
+therefore, her client’s rights have been infringed. she asserts that a stay of
+proceedings is the appropriate remedy. in response to the crown’s arguments,
+she contends that none of the time specified by the crown should be considered
+defence delay. she also disputed the crown’s final claim that the case involves
+“exceptional circumstances”.
+
+she
+disagreed that this is an under-the-ceiling case, as the anticipated end of the
+trial is still on march 16, 2026. however, even if the crown’s new time
+estimate was correct and the case would be completed before the
+jordan
+ceiling was breached, the reasons for the delay still demand a stay of
+proceedings. the defence has done everything reasonably possible to move this
+case along since they were retained, and the delay is solely attributable to
+the crown’s office failing to properly formulate a plan to review and
+distribute the disclosure materials. it also failed to determine which charges
+would be pursued, and against which of the co-accused, for far too long. it was
+only in september 2025, 14 months after mr. ferguson’s arrest, that the crown’s
+office finally began to make these crucial decisions. that is unacceptable.
+analysis
+
+in
+r. v. cody,
+2017 scc 31, the supreme court summarized the steps to
+adjudicate a
+charter
+section 11(b) motion:
+1. calculate the total delay from
+the charge to the anticipated end of trial;
+2. subtract delay waived by or
+attributable to the defence;
+3. compare the net delay to the
+presumptive ceiling;
+4. if the net delay falls below the
+ceiling, then the onus is on the defence to show
+that the delay is unreasonable.
+5. if the net delay exceeds the
+presumptive ceiling, the delay is presumptively
+unreasonable.
+
+mr.
+ferguson concedes a total of 97 days of defence delay related
+to two discrete time periods. first, 92 days from october 20, 2025, to january
+19, 2026, when ms. craig was not available, but the crown, court, and other
+counsel were available. second, five days from february 2-6, 2026, for the same
+reason.
+
+even with these concessions, ms. craig and ms. khan submit that the
+proper calculation of net delay leaves the case just slightly over 18 months.
+(i)
+crown’s first argument – additional periods of defence delay
+
+the crown argues that a further period should be deducted from the
+total delay. mr. harris points to the period when mr. ferguson was changing
+lawyers and submits that he somehow bears responsibility for any delay that
+resulted. specifically, mr. harris directed the court’s attention to the dates
+of june 10 to june 28, and july 29 to august 26, 2024, as what should be
+characterized as “defence delay.”
+
+mr. ferguson was effectively self-represented during the dates
+identified by the crown. he was also in custody. as i understand the crown’s
+argument, mr. harris submits that mr. ferguson should be faulted for not taking
+sufficient steps to move the case forward. his decision to change lawyers was
+purportedly the cause of this period of delay.
+
+i do not find this argument convincing. as a matter of fact, i note
+that mr. ferguson requested disclosure on the court record, even when he was
+self-represented on both september 9 and 23, 2024. as an accused person in
+jail, there was little more he could do. furthermore, i reviewed the
+transcripts of all of mr. ferguson’s court appearances, including those which
+occurred after the problems with delay in this case began to raise serious
+concerns. the crown never made a claim that the timing of the anticipated trial
+dates had been compromised by mr. ferguson’s conduct when he was
+self-represented, and crown counsel repeatedly conceded that major portions of
+disclosure remained outstanding well into the summer of 2025.
+
+indeed, the crown’s attempt to blame mr. ferguson is disappointing.
+as i will explain, the unnecessary delay that accumulated in this case was entirely
+due to the crown’s failure to effectively manage the prosecution and to provide
+the disclosure materials in a timely manner. the pace of disclosure in this
+case and the crown’s handling of its own file is amongst the worst i have ever
+encountered. it is the crown’s constitutional obligation to provide disclosure
+materials to the accused.
+as
+stated by charron j. in
+r. v. mcneil,
+2009 scc 3, at para.
+17: (my emphasis added):
+the
+crown’s obligation to disclose all relevant information in its possession
+relating to the investigation against an accused is well
+established. the duty is triggered upon request and does not require an
+application to the court.
+stinchcombe
+made clear that relevant
+information in the first-party production context includes not only information
+related to those matters the crown intends to adduce in evidence against the
+accused but also any information in respect of which there is a reasonable
+possibility that it may assist the accused in the exercise of the right to make
+full answer and defence.
+
+in
+r. v. drummond,
+2024 oncj 170, i addressed the same
+argument presented here in another section 11(b) application, which was also plagued
+by the crown's chronic failure to comply with its constitutional obligations. i
+repeat some of my comments from that decision here:
+ the crown, it is often
+remarked, is no ordinary litigant. it must ensure trial fairness, and crown
+counsel, as officers of the court, have a duty to consider the rights of all
+justice system participants, including the accused.
+ in
+stinchcombe, the
+supreme court of canada held that when an accused is unrepresented, “crown
+counsel should advise the accused of his right to disclosure” and that a “plea
+should not be taken unless the trial judge is satisfied that this has been
+done”: see p. 343 (my emphasis added.)
+…
+ ensuring that the rights
+of an unrepresented accused person are meaningfully protected is thus vital. an
+accused person does not waive his
+charter
+section 11(b) rights by taking
+a reasonable amount of time to retain a lawyer. for marginalized and socially
+disadvantaged individuals, retaining a lawyer may be very difficult, and courts
+must be sensitive to that reality. in cases where the crown cannot even provide
+disclosure when an accused person seeks to retain counsel, the argument that
+the accused has somehow waived those rights is entirely meritless. accepting
+that argument would allow the crown to weaponize its failure to meet its
+constitutional obligations. a more unjust outcome is difficult to imagine.
+…
+ the crown’s disclosure
+requirements are not frozen in time until a lawyer is on the record. they start
+from the genesis of the prosecution. i note that the law society of ontario’s
+rules
+of professional conduct
+require prosecutors to make “timely disclosure to
+defence counsel or directly to an unrepresented accused of all relevant and
+known facts and witnesses…”: see rule 5.1-3.
+
+justice charron’s reference in
+mcneil
+to an accused person
+needing to request disclosure should not be mischaracterized. it was not intended
+to shield the crown from its responsibilities, simply because the request by an
+accused person was not made in a certain format or with precise language. the
+crown is expected to work diligently to meet its obligations under the
+charter.
+this is especially true where an accused person is in custody, unrepresented,
+and their case is being repeatedly adjourned as they seek to retain counsel. the
+crown, as a minister of justice, is mandated to move with alacrity to ensure
+that the constitutional rights of the accused are respected. the court also has
+a duty to assist a self-represented accused and “guide him or her throughout
+the trial”: see
+r. v. bancroft,
+2024 onca 121, at
+paras.
+6-7. that duty includes advising an accused person
+of their right to disclosure and information about how they can obtain and
+review it.
+
+regardless, as previously noted, mr. ferguson did formally request
+disclosure when he was without a lawyer. ms. craig renewed those requests
+vigorously after she was retained. despite these efforts, the crown failed to
+provide meaningful disclosure to mr. ferguson until well into the latter half
+of 2025. it is not a serious argument to suggest that mr. ferguson was
+responsible for any delay in the period identified by the crown, when the crown
+itself repeatedly acknowledged in court that it was unable to provide the
+disclosure materials. it is instead an attempt to recharacterize the record of what
+was occurring in a light favourable to the crown for the
+jordan
+purposes.
+
+the crown relies upon some authorities for the proposition that when
+an accused person retains new counsel, “the
+additional time
+required for
+new counsel to be retained,
+obtain disclosure, or redo any steps which have
+already occurred, such a crown and judicial pre-trials, is deducted as
+defence delay”: see
+r. v. bettes,
+2024 onsc 2684,
+at para.
+22
+(my
+emphasis added) and the cases cited therein. that argument is completely devoid
+of merit in a case such as this, where the crown failed to meet its disclosure
+obligations by the time the accused retained new counsel, and no interim steps
+(such as a jpt) had ever been taken. there was nothing that had to be “redone”
+because it was never able to be done in the first place.
+
+i note the following excerpts from the transcripts filed by ms.
+craig in support of her client’s application, which reveal what was happening
+as this case languished for over a year after mr. ferguson was charged.
+june 23, 2025 – proceedings before
+justice fraser
+k. sajid (defence): your
+honour, i can begin. we – we attended the trial scheduling conference on
+friday. we do have dates. the dates push us past the jordan timelines, and
+there’s still outstanding disclosure that’s - remains to be an issue, one of
+them being the ito. i know my friend advised that the ito would be disclosed on
+friday. that hasn’t happened, and we need the ito to likely schedule the
+garofoli motion.
+
+importantly,
+the assistant crown attorney in court at the time frankly acknowledged the
+state of disclosure and the unfortunate inevitability of an 11b motion. that is
+to her credit, as it allowed the court to have a frank assessment of how dire
+the situation had become. what occurred is worth repeating:
+ms. verboom (crown): i was
+certainly not surprised that mr. sajid and mr. luscombe may be seeking an 11(b)
+application, given....
+a. craig (defence): as will i,
+yeah, for the record. regardless of the dates.
+…
+the court: sorry, ms. craig?
+what was that?
+a. craig: we will also be
+bringing an 11(b) regardless of the dates, your honour. it’s 11 months in, and
+there’s still half the disclosure missing and my client’s in custody.
+
+in
+addition, counsel relayed to justice fraser that scheduling a 10-day trial at
+10 armoury street for the balance of 2025 was not possible.
+k. sajid: i was just going to
+say that i know that there are some issues with ms. craig’s availability, but
+the trial coordinator had also advised during the scheduling of the dates that
+it would have been very difficult to schedule this within this current year.
+so, obviously that’s going to be a factor, but the trial coordinator had also
+advised that, you know, it’s - trying to schedule 10 dates in - in this year
+would have been very difficult.
+
+counsel
+continued and informed justice fraser that no december 2025 dates were offered
+by the trial coordinator’s office whatsoever, by way of an example of that
+difficulty.
+
+how the ito for the search warrants was handled and ultimately disclosed
+in this case is a glaring example of what was truly causing the delay in
+bringing this case to trial. search warrants were executed on june 5, 2024. the
+ito was not disclosed until nearly 11 months later. however, after this
+occurred, crown counsel accepted on the court record that its office bore
+responsibility for improperly disclosing confidential source information and
+then had to contact defence counsel to ensure those documents were returned for
+proper vetting. this resulted in additional delay. it was not until june 29,
+2025, that the crown finally provided a redacted copy of the ito. that was
+close to 13 months after the charges were laid.
+
+inadvertently revealing confidential source information is one of the
+most serious errors crown counsel can make, for reasons well documented in the supreme
+court’s jurisprudence: see, for example,
+r. v. leipert,
+1997 canlii 367
+(scc), at para.
+9. indeed, in a recently published ruling, justice campbell of
+the superior court of justice held that even the inadvertent disclosure of
+information that might identify a confidential informant is a violation of the
+informant’s constitutional rights under section 7 of the
+charter of rights
+and freedoms: see
+r. v. c.i.p.,
+2025 onsc 5600, at para.
+25. as
+justice campbell eloquently wrote, the very lives of informants are placed at
+risk when the crown makes these terrible mistakes: see paras. 32-3.
+
+i
+cannot determine how this error occurred based on the materials provided to me
+for this application. nor is it necessary for me to do so, and ms. khan did not
+seek to further explore this facet of the reasons for the delay in bringing
+this case to trial during oral argument.
+
+i also wish to acknowledge the professionalism of the crown in court at the
+time, who wisely recognized the severity of this problem and the need to
+address it. however it happened, it was a serious failure on the part of the
+crown’s office and added to the mounting disclosure problems in the prosecution
+of mr. ferguson.
+
+to
+settle any doubt about whether the crown was aware of the deepening problems
+with delay, justice fraser noted on june 23, 2025, that he would “attach some
+priority to this [case], because it seems to me there’s 11(b) jeopardy.”
+
+on
+july 2, 2025, the parties appeared before justice fraser again. the crown did
+not dispute that there were still substantial disclosure items outstanding. mr.
+luscombe, counsel on behalf of one of the co-accused, stated:
+we - we - we received very
+voluminous disclosure on friday, many, many, many gigabytes. worse, far more
+than we have received thus far. some of the, essentially, outstanding
+disclosure is pertinent to the information to obtain, the new version we had
+just received on the weekend. and that we recognize that that will likely have
+a bearing on a - a potential, though, at this point likely expected, garofoli
+application down the road.
+
+the
+assistant crown attorney in court did not suggest any of this was inaccurate.
+
+it
+should go without saying that over a year into the case, when section 11b problems
+were already readily apparent, “gigabytes” of disclosure should not need to be
+provided to the defence. if there is a good reason for such an inordinate
+delay, it should be provided. yet no explanation was ever stated to the court
+as to why it had taken so long for this additional material to be provided.
+
+the
+crown made other unprofessional errors. crown counsel missed a scheduled jpt
+with justice fraser on august 7. then, crown counsel apparently misrepresented
+the availability of the vital outstanding cellphone tower data at a further jpt
+on august 19. on that date, before justice fraser, the crown said the material
+in question was available and would be provided to the defence. justice
+fraser’s jpt notes from that date confirm this fact. a week later, on august
+26, when appearing before a justice of the peace, another member of the crown’s
+office advised the court that they had
+not
+yet received this material. i
+reproduce an important portion of the transcript of that proceeding below.
+august 26, 2025 –
+proceedings before justice of the peace shawyer
+articling student l. stoddart
+on behalf of counsel luscombe, t (defence): we had a continuing jpt with
+justice fraser on august 19th where we discussed outstanding disclosure issues
+including mechanical records for our client's car that the police have and the
+cell tower ping data that we've been waiting for, for months.
+m. rauser (crown): i can see
+that they just had the jpt recently, your honour, and the crown is working to
+obtain that disclosure to provide to them.
+the court: and are there any
+notes about whether or not the disclosure is now within the possession of the
+crown's office properly as opposed to the police?
+m. rauser: i can see it's been
+requested but has not yet - we have not received it yet.
+
+i
+pause here to comment on the disturbing nature of this inconsistency. i
+received no evidence, such as an affidavit filed on behalf of the assistant crown
+attorney who appeared at the jpt before justice fraser, to explain how this
+misrepresentation about the availability of these disclosure materials could
+have been made. if the assistant crown attorney who appeared at the august 19
+jpt knowingly misled justice fraser, that would bring great harm to the repute
+of the administration of justice and the crown’s office specifically. if that
+assistant crown attorney made this false representation by accident, it would
+suggest that they did not have a comprehensive understanding of the status of their
+own file or whether this fundamental item of disclosure was in the possession
+of the crown and ready to be disclosed, over a year after the charges had been
+laid.
+
+mr. piccinin confirmed on november 27, 2025, that these materials were never
+disclosed.
+
+the
+value of a jpt is dramatically undermined if counsel does not attend them
+prepared and knowledgeable about their files. for the assigned representative
+of the crown’s office to attend a further jpt that was specifically intended to
+address the ongoing problems regarding disclosure, without an accurate
+understanding of the status of those outstanding disclosure materials, is
+inexcusable: see
+r. v. aden,
+2023 onsc 766, at para.
+109.
+
+to
+summarize, the disclosure of the ito was seriously mishandled in this case.
+false statements about the availability of cellphone tower data were made to
+justice fraser. gigabytes of electronic disclosure were being dropped on
+defence counsel over a year after the charges were laid. the assigned crown was
+missing scheduled jpts. i conclude that as the disclosure problems associated
+with mr. ferguson’s prosecution grew, careless mistakes were being made.
+despite these problems and setbacks, i emphasize that no plan was ever
+presented to justice fraser, even after five jpts, to explain how the
+outstanding disclosure would be provided in a timely and professional manner.
+
+mr.
+piccinin revised the crown’s determination of which charges had a reasonable
+prospect of conviction after he took over the case in september 2025. he was
+also finally able to conclude that the cellphone tower evidence would not be
+necessary to prosecute mr. ferguson. he alluded to the fact that when he was
+assigned, he had more time to devote to the case than his prior colleagues. i
+commend him for his hard work to properly assess the prosecution. but there is
+no excuse for the way this case was handled prior to his involvement, and the
+conduct of the crown’s office must be viewed and assessed in its entirety. 14
+months after mr. ferguson was arrested was far too late for these important
+decisions to be made.
+
+defence
+counsel in this case (including the lawyers for the prior co-accused) did
+everything reasonably possible to move the case along responsibly. the crown,
+and the crown alone, bears responsibility for this prosecution falling apart. all
+the disclosure material should have been provided within 60-90 days of the
+accused parties’ arrest.
+
+had it been obtained earlier in the proceedings, a trial estimate could have
+been obtained sooner, and trial dates within the
+jordan
+ceiling secured.
+the disclosure items that held up this case’s progress were in the possession
+of the investigating police force from the moment the applicants were arrested.
+
+while the crown is not obligated to provide every item of disclosure before
+trial dates should be set the outstanding materials in this case were of great
+importance and went to the core of not only proving mr. ferguson’s involvement
+in the acts of arson but also to any potential
+charter
+applications he
+might have pursued: see
+r. v. allison,
+2022 onca 329, at paras.
+44-52.
+
+i
+have virtually no evidence of the steps the crown took to obtain the
+outstanding disclosure items, despite over a year of waiting, multiple requests
+by counsel and the accused, and concerns expressed by justice fraser. nor was
+evidence presented to justify the delay in providing these crucial disclosure
+materials to the accused parties. there is no evidence that the crown developed
+a plan and implemented it with the investigating police force to ensure that all
+disclosure materials were provided in a timely manner. nothing was filed by the
+crown, even something as simple as an email to the oic outlining the problems
+with the file and the urgent need to prioritize resolving the outstanding disclosure
+issues.
+
+in
+conclusion, none of the time identified by the crown should be characterized as
+defence delay. nor can the crown point to good faith efforts it took to
+ameliorate glaring difficulties with its ability to fulfill its constitutional obligations.
+the record is clear. any delay in setting trial dates for mr. ferguson,
+including time needed for applications or motions, was caused by the glacial
+pace of disclosure. mr. ferguson’s decision to switch lawyers in 2024 did not
+result in additional delay.
+
+as noted by justice thomas in
+r. v. turcios,
+2024 oncj 628, the
+crown’s obligation to provide disclosure materials is an ongoing constitutional
+duty that must be respected. any suggestion that the crown is only responsible
+for delay caused by late disclosure “if it impacts the initial scheduling of a
+trial, is misguided.” the argument “displays a misunderstanding of the crown’s
+duties”: see para. 40.
+
+when
+substantial disclosure is not provided within a reasonable period after
+criminal charges have been laid, many adverse consequences inevitably follow. the
+crown will be unable to assess whether there is a reasonable prospect of
+conviction, how long a trial might take, and what applications it may seek to
+bring. it is almost impossible for defence counsel to accurately estimate their
+response time to the crown’s case or how they might challenge the admissibility
+of evidence the crown plans to rely upon. a judge presiding at a jpt is also
+left in a frustrating position, as authorizing limited court time cannot be
+done efficiently when neither the crown nor the defence has had an opportunity
+to comprehensively review the evidence likely to be presented in the case and
+explain their trial estimates. we are left to make an educated guess. time may
+be improperly allocated accordingly. those time estimates may need to be
+significantly adjusted later, when the disclosure materials finally arrive.
+
+defence counsel will then need an opportunity to review the late
+disclosure with their client and possibly reformulate their strategy. yet
+another jpt may need to be scheduled, creating yet more work for the lawyers
+and a judge. nearly ten years after
+jordan
+was released and the culture
+of complacency was condemned, the degree of crown mismanagement that
+characterized nearly the entire history of these proceedings cries out for
+condemnation.
+(ii)
+crown’s second argument – delay in setting the
+trial from may 5 – june 20, 2025
+
+at a jpt held on may 5, 2025, justice fraser indicated that the case
+should be set down for a trial with targeted dates, despite there being
+outstanding disclosure. justice fraser ordered that the office in charge
+(“oic”) of the case attend at the next jpt to explain why so much material
+remained to be disclosed.
+
+the crown argues that the defence is responsible for the period
+between this date and june 20, 2025, when the parties attended a trial
+scheduling conference to obtain trial dates.
+
+a review of the court appearances during and shortly after this
+period contradicts the crown’s claim. on may 12, 2025, mr. ferguson raised
+concerns again about the status of disclosure. an adjournment to june 23 was
+granted due to the need for a continuing jpt. the crown did not indicate in
+court that it wanted to set a trial date, and ms. craig had, for some reason, refused.
+
+on june 17, crown counsel did not attend a scheduled judicial
+pre-trial. i received no explanation for this absence.
+
+on june 23, the case was adjourned to june 24 for an update about
+the most recent jpt.
+
+on june 24, the trial dates were entered on the record, along with
+the need for a further jpt to address ongoing disclosure problems.
+
+i have no other evidence from the crown that it was taking steps to
+set a trial date between may 5 and june 20, 2025, and the defence was somehow
+obstructing those efforts. to the contrary, the record demonstrates that despite
+significant outstanding disclosure materials, ms. craig and the crown obtained
+trial dates together. the crown’s argument is therefore rejected.
+(iii)
+crown’s third argument – exceptional
+circumstances
+
+exceptional
+circumstances lie outside the crown’s control in that they are reasonably unforeseen
+or reasonably unavoidable, and crown counsel cannot reasonably remedy the
+delays emanating from those circumstances once they arise. generally,
+exceptional circumstances fall under two categories: (1) discrete events, and
+(2) particularly complex cases: see
+jordan, supra
+at paras.
+69-71.
+
+a case will be complex if the nature of the evidence or the issues requires
+an inordinate amount of trial or preparation time. this can include voluminous
+disclosure, a large number of witnesses, significant requirements for expert
+evidence, and charges covering a long period of time. it can also include many pre-trial
+applications and/or novel or complicated legal issues. determining the
+complexity of a case is a qualitative rather than quantitative assessment: see
+jordan
+at para.
+77;
+cody
+at para.
+64.
+
+originally,
+mr. ferguson’s case involved two other co-accused. however, the presence of
+multiple accused persons does not, by itself, render a case particularly
+complex. in
+r. v. albadry,
+2018 oncj 114, doody j. held that it should
+have been obvious to the crown that proceeding against multiple accused together
+would somewhat complicate proceedings. moreover, the exercise of prosecutorial
+discretion must conform to the accused’s s. 11(b) rights. in this case, the
+crown chose to proceed jointly against the three accused parties but, as i have
+explained, failed to take the necessary steps to move the joint prosecution
+forward expeditiously with due regard to the need to provide the parties with
+access to the disclosure materials within a reasonable period of time:
+jordan
+at para.
+79;
+albadry
+at paras
+27-28, 31.
+
+i
+appreciate that the complexity of a case must be assessed on the basis of the
+entire course of the proceeding, not merely on what is likely to be presented
+at trial: see
+r. v. picard,
+2017 onca 692, at para.
+57. however, the
+issues in this case are relatively straightforward. the main issue in dispute
+is the identity of the suspects. the matter was scheduled for 13 days, comprising
+a
+garofoli
+application and a trial. while it is a lengthier matter for
+the ontario court of justice, it is not “exceptional.” the existence of a
+search warrant or production order, an accompanying ito, cellphone records, and
+multiple surveillance videos does not make the case so complex that, for
+constitutional purposes, the
+jordan
+ceiling can be exceeded.
+
+even
+if the case were so complex, the crown must demonstrate that it made sustained
+efforts and developed a plan to address the complexity and volume of
+disclosure. i have heard nothing to suggest that anything of that nature occurred,
+and much to demonstrate, unfortunately, that the prosecuting crown's office did
+not even fully understand its own case and the disclosure materials it was
+required to provide until over a year after the charges were laid.
+
+in
+picard, a first-degree murder case was prosecuted on the basis of
+largely circumstantial evidence. the disclosure consisted of 30,000 pages,
+2,800 photographs, dozens of video-recorded witness statements, 6,800 pages of
+cellphone records, 25,000 text messages, 103,000 lines in excel of records from
+picard’s phone, 78 witnesses interviewed, 60 judicial authorizations, and eight
+separate areas of expert evidence. the court of appeal ultimately upheld the
+trial judge’s finding that, despite the amount of disclosure, it did not rise
+to the level of a particularly complex case for
+jordan
+purposes:
+see
+paras.
+61-9.
+
+in
+support of its position, the crown relied upon the court of appeal’s decision
+in
+r. v. jurkus,
+2018 onca 489. in
+jurkus, the respondents were a
+correctional officer and an operational manager at the elgin-middlesex
+detention centre. they were on duty when an inmate was beaten to death. they,
+and a third person, were charged with failing to provide the necessaries of
+life to the deceased. the charges against the third co-accused were withdrawn
+at the outset of the preliminary hearing. the trial judge granted a stay of
+proceedings due to excessive delay in the case.
+
+the court of appeal overturned the trial court’s decision. it held that,
+properly calculated, the resulting delay for the respondent jurkus was three
+weeks above the
+jordan
+ceiling. it also concluded that the complexity of
+the proceedings justified those three weeks. t
+he court of appeal affirmed that complexity can arise from
+having multiple co-accused: see para.
+67.
+
+this
+case does not assist the crown. while the court of appeal found that providing
+disclosure in
+jurkus
+took “a considerable amount of time”, it did not
+conclude that the crown’s ongoing disclosure obligations delayed the trial.
+that is entirely at odds with my findings in this case. the court of appeal
+also concluded that the defence lawyers in
+jurkus
+were “not unhappy”
+with the pace of the proceedings, and many adjournments requested were made “on
+the consent of all parties”: see paras. 79-80. again, that is not what occurred
+in mr. ferguson’s case.
+
+finally,
+the vast majority of the proceedings in
+jurkus
+pre-dated the release of
+jordan.
+after
+jordan
+was released in 2016, an 11(b) application was brought.
+the court of appeal held that the transitional exceptional circumstance, unique
+to cases of that nature, applied, which was a basis in itself to grant the
+crown’s appeal: see para. 100.
+(iv)
+crown’s fourth argument – under the ceiling
+
+the
+anticipated end of the trial remains march 16, 2026. mr. piccinin argued that
+there is good reason to believe it will be completed by january 30, 2026, and
+thus fall under the
+jordan
+ceiling by one month.
+
+i
+do not accept that i should decide this case based on optimistic views of when
+a trial might end. normally, a judge hearing an application of this nature
+should accept the trial estimate approved by the jpt judge that was formulated
+following discussions with counsel. to accept the crown’s argument would be to
+engage in speculation. trials can often change. sometimes they finish sooner
+than expected, but sometimes later than expected. i do not have a sufficient
+record to draw this hopeful conclusion. nor can the defence be expected to
+commit to a precise estimate of how long its response to the revised crown’s
+case may take until it sees how exactly that case is presented. the crown has
+not been consistent regarding how it will prosecute mr. ferguson or what
+evidence it will rely upon.
+
+this
+case remains set to conclude after 18 months. but even if this case were completed
+one month below the ceiling, i would still find a violation of mr. ferguson’s
+charter
+section 11(b) rights.
+
+jordan
+established
+that delay falling below the presumptive ceiling would be unreasonable where
+the defence establishes that “(1) it took meaningful steps that demonstrate a
+sustained effort to expedite the proceedings, and (2) the case took
+markedly longer than it reasonably should have”: see para. 48. unless the
+defence establishes both requirements, the s. 11(b) application must be
+dismissed:
+r. v. campbell,
+2022 onca 223, at
+paras.
+20-23.
+
+in
+r.
+v. k.j.m.,
+2019 scc 55, the supreme court clarified the nature of the
+“ceilings” established in
+jordan
+at para.
+69:
+while the presumptive ceilings
+are a significant chapter
+in
+jordan, they are
+not the whole story.
+jordan
+established
+ceilings, not
+floors.
+while the ceilings offer a bright-line approach, they are supplemented by a
+more flexible, case-specific approach to delay
+below
+the
+ceiling. in this way,
+jordan
+marries
+uniformity with flexibility.
+
+a
+case's reasonable time requirements “derive from a variety of
+factors, including the complexity of the case, local considerations,
+and whether the crown took reasonable steps to expedite the proceedings”:
+see
+jordan
+at para.
+87.
+
+the
+crown’s office, prior to the assignment of mr. piccinin, woefully failed in its
+obligations to properly manage this case and the disclosure materials
+associated with it. now, as i heard during the argument on november 27, 2025,
+the crown believes it can finish its case sooner than expected. ms. khan
+rightly submitted that this was a paradoxical argument for the crown, as it
+sought to argue on this application that the case was both so complex as to
+justify a time limit above the
+jordan
+ceiling, yet was also so simple
+that it could also be completed under the
+jordan
+ceiling.
+
+the
+majority of the supreme court of canada noted in
+jordan
+that
+most
+cases “can and should” be completed in less time than the hard ceilings
+established in that ruling:
+jordan
+at para.
+56. the ontario court of
+justice implemented a new jordan-compliant scheduling practice directive on
+november 1, 2023, to ensure all cases are heard within 15 months. the directive
+also creates the expectation that matters will be resolved or set down for
+trial within six months: see ontario court of justice, “practice direction:
+jordan-compliant trial scheduling.” that did not happen in this case, as target
+dates for a trial were not obtained until over a year after the information was
+laid. no specific evidence was presented to explain why the directive was not
+followed in mr. ferguson’s case. the only reasonable conclusion i can draw from
+the evidence is that the significant disclosure problems precluded setting a
+trial date until justice fraser required the parties to do so.
+
+the crown’s
+revised time estimate only demonstrates that, had the file been managed
+properly from the outset, it could have been set for trial at a much earlier
+date. the crown cannot have it both ways. if the case, once properly assessed,
+is truly as straightforward as the crown now suggests, it should have made that
+determination much sooner. a short trial can be obtained in this courthouse much
+earlier than 17 months after charges have been laid. the crown cannot fail to
+act, allow nearly a year of delay to accumulate, and then turn the
+jordan
+analysis on its head on the eve of the trial, once it has finally exercised its
+professional duties. its obligation to act diligently arose from the case’s
+inception, not on the eve of an 11b application.
+conclusion
+
+this case serves
+as a reminder of the importance of the crown taking a proactive approach to
+meeting its disclosure obligations. that will often require an early assessment
+of the materials that must be provided and how to obtain and vet them with the
+assistance of the investigating police force. it will also require that the
+crown commence, as early as possible, a thorough review of the complexities of
+the prosecution and a realistic plan for charting the course of the case as it
+moves toward trial. none of that occurred here.
+
+when the crown
+fails to act with the degree of professionalism and due diligence that must be
+demanded of any criminal prosecution, it is responsible for the adverse outcomes
+that will inevitably follow.
+
+the application
+is granted, and a stay of proceedings is entered.
+released: december 1, 2025
+signed:
+justice b. jones
+
+while i am assigned to hear this application, i am not the trial judge. pursuant
+to the
+ontario
+court of justice practice direction: section 11(b) charter applications, the
+s. 11(b) application judge is appointed a case management judge under
+s. 551.1
+of the
+criminal code
+for the purpose of hearing and determining the s.
+11(b) application. if this matter were to go to a trial, it would be for the
+trial judge to determine whether this breach of cs privilege needed to be
+addressed further.
+
+i recognize that if these were third-party records not in the
+possession of the police or the crown, they would not constitute first-party
+disclosure. it was not in dispute for the purpose of this application that the
+investigating police force had control of this item of disclosure and that the
+crown accepted it bore responsibility for the delay in providing it: see
+r.
+v. jalili,
+2018 onsc 6408, at paras.
+47-67.
+
+indeed, the ministry of the attorney general’s new “protocol for timely
+disclosure in criminal cases” sets out a timeline for the provision of
+disclosure of this nature. in cases where there is not a sealing order, the material
+should be provided within six weeks (see section 7.1) in other cases, the
+material should be provided within 12 weeks (see section 8.1.) the protocol
+goes into effect february 1, 2026.
+
+i heard no evidence to the contrary, and the application was argued on this
+basis.

@@ -1,0 +1,1095 @@
+Source URL: https://www.canlii.org/en/on/oncj/doc/2025/2025oncj427/2025oncj427.html
+
+CITATION:
+R. v. Marshall
+, 2025
+ONCJ 427
+DATE:  August 15, 2025
+COURT FILE No.: 1260-999-24-8072
+ONTARIO COURT OF
+JUSTICE
+(Central West Region)
+BETWEEN:
+HIS MAJESTY THE KING
+(The Region of Halton)
+(Prosecution)
+— and —
+Owen Richard Marshall
+(Defendant)
+TRIAL JUDGEMENT
+Before Justice of the Peace T.J. Howard
+Trial heard February 20
+th
+, 21
+st
+and May 9
+th
+, 2025 in Burlington, Ontario
+Judgement delivered July 22, 2025 in
+Burlington, Ontario
+Written reasons released electronically
+August 15, 2025
+Ms. Bhatnagar, S...................................................................................  
+for the Prosecution
+Mr. Paquette, D. ......................................................................    Counsel
+for the Defendant
+JUSTICE OF THE PEACE  T.J.
+HOWARD
+Introduction
+[
+1
+]
+The
+defendant, Mr. Owen Richard Marshall is charged with the offence of careless
+driving causing bodily harm, contrary to subsection 130(3) of the
+Highway
+Traffic Act
+, R.S.O., c. H.8, as amended (HTA).  The prosecution alleges
+that Mr. Marshall committed this offence on August 2
+nd
+, 2023, in the
+Town of Oakville when he merged onto the Queen Elizabeth Way (QEW) highway and
+collided with a motorcycle driven by Mr. Syed Pirzada, who then fell from his
+motorcycle and suffered life-altering injuries.  Mr. Marshall pled not guilty
+to the charge.  His trial took place on February 20
+th
+, February 21
+st
+,
+and May 9
+th,
+2025, in Burlington, Ontario.  These are my reasons for
+judgement.
+[
+2
+]
+It
+is undisputed that on the morning of August 2, 2023, Mr. Marshall drove onto the
+westbound QEW from northbound Third Line in Oakville.  Upon merging to the QEW
+he collided with a motorcycle driven by Mr. Syed Pirzada in the westbound
+lanes.  Mr. Pirzada subsequently fell from his motorcycle and was gravely hurt;
+tragically sustaining permanent, life-altering injuries.  Police investigated,
+which included interviewing Mr. Marshall, interviewing several witnesses, surveying
+the crash scene, and expertly reconstructing the collision.  What is in dispute
+is whether Mr. Marshall merged in a manner that was careless.
+[
+3
+]
+The
+prosecution claims that Mr. Marshall merged onto the QEW too quickly and
+dangerously, failing to observe Mr. Pirzada’s approaching motorcycle, thereby hitting
+him, and causing his injuries.  Mr. Marshall claims that the available evidence
+supports alternative scenarios, including that Mr. Marshall merged carefully,
+and that Mr. Pirzada was driving carelessly.
+[
+4
+]
+Only
+the prosecution presented evidence in this trial.  Thus, the only issue I must
+resolve is whether the prosecution has proven Mr. Marshall’s guilt beyond a
+reasonable doubt.  Specifically, I must decide whether the prosecution has
+proven the
+actus reus
+of the offence – that Mr. Marshall drove without
+due care and attention or without reasonable consideration for other persons
+using the highway in all the circumstances.  To resolve this issue, I will need
+to examine what the evidence reveals about the way Mr. Marshall merged onto the
+QEW and the surrounding circumstances, including Mr. Pirzada’s driving.
+[
+5
+]
+For
+the reasons that follow, I conclude that the prosecution has failed to prove
+beyond a reasonable doubt that Mr. Marshall committed the offence of careless
+driving causing bodily harm.
+Analysis
+Relevant
+Statutory Provisions and Legal Principles
+Careless
+Driving
+[
+6
+]
+The
+two statutory provisions most relevant here are ss. 130(3) and 130(5) of the
+HTA
+. 
+Subsection 130(3) reads as follows:
+Every person is guilty of the offence of
+driving carelessly who
+drives
+a
+vehicle
+or street car on a
+highway
+or in a specified place
+without due care and attention
+or
+without
+reasonable consideration for other persons using the highway
+or specified
+place and who
+thereby causes bodily harm
+or death to any person.
+[emphasis added]
+Subsection 130(5) reads as
+follows:
+For the purposes of subsections (1) and
+(3), and without limiting the generality of subsections (1) and (3), a person
+is
+deemed to drive without reasonable consideration for other persons using
+the highway
+or specified place if he or she
+drives in a manner that may
+limit his or her ability to prudently adjust to changing circumstances on the
+highway
+or in the specified place. [emphasis added]
+To make out a case
+of careless driving against Mr. Marshall, the prosecution must establish the
+essential elements contained in s. 130(3) underlined above.  Subsection 130(5) qualifies
+the phrase “drive without reasonable consideration” without limiting what it
+may entail.
+[
+7
+]
+The
+offence of careless driving is a strict liability offence for which the
+gravamen is “inadvertent negligence”: see
+R. v. Shergill
+,
+[2016] O.J.
+No. 1503, at paras. 12 and 26
+.
+[
+8
+]
+Shergill,
+supra
+also clarifies that an “accident” and “momentary inattentiveness” are
+both factors that
+may
+be sufficient to establish careless driving, but
+not necessarily.  What is crucial is the context in which they occur and the
+driving behavior of the defendant relative to what is expected of a reasonably
+prudent driver: see
+Shergill, supra
+, paras. 24 and 28;
+R. v.
+Beauchamp
+,
+1952 CanLII 60 (ON CA)
+, [1952] O.J. No. 495, pg. 7.
+[
+9
+]
+At
+paragraph 23 of
+Shergill, supra
+the Court states the following regarding
+accidents:
+If, in the circumstances, the
+only reasonable inference to
+be drawn
+from the fact of an accident is that the defendant was operating
+his or her vehicle on a highway without due care and attention or without
+reasonable consideration for other persons using the highway then the
+actus
+reus
+has been made out. [emphasis added]
+[
+10
+]
+Importantly, in accident cases, exculpatory evidence about a
+defendant’s driving and a resulting accident may give rise to reasonable
+inferences other than guilt.  In
+R. v. Lattimore
+,
+[2015] O.J. 5572
+(leave to appeal refused October 13, 2015, ONCA J.A. Laforme [unreported]) at
+paras. 13 to 18, the appeal judge found that the trial justice of the peace
+misapprehended the evidence surrounding an accident, and the defendant’s role
+therein, by failing to consider alternative scenarios supported by the evidence. 
+Because these possibilities were not merely speculative, the Crown’s inability
+to exclude them meant the case was not proven beyond a reasonable doubt.
+[
+11
+]
+Regarding momentary inattentiveness, the Court in
+Shergill,
+supra
+states the following at paras. 28 and 29:
+[28]…If, given all of the surrounding circumstances,
+momentary inattentiveness by a driver
+does not constitute a departure from
+the due care and attention or reasonable consideration demanded of an
+ordinarily prudent driver
+then it cannot constitute the offence of careless
+driving and is not punishable.  If the court considers that given all of the
+circumstances the
+degree of inattentiveness displayed by the defendant goes
+beyond what one would expect of a reasonably prudent driver in such circumstances
+,
+then the offence has been made out.
+[29] I emphasize that it is my view, incorrect to boldly
+state that momentary inattentiveness cannot constitute careless driving.  The
+trier of fact must conduct an analysis of the evidence in each case and must
+measure the evidence of inattentiveness against the standard expected of a
+reasonably prudent driver. [emphasis added]
+[
+12
+]
+Crucially, this analysis must be of the alleged driving behavior
+“at the time the offence is alleged to have been committed measured against the
+expectation of the conduct of a reasonably prudent driver”:
+Shergill, supra
+,
+para. 30. Driving behavior of the defendant leading up to the alleged offence
+is not determinative and should be viewed simply as one of many circumstances
+surrounding the alleged offence.
+[
+13
+]
+In the case before me, Mr. Marshall’s driving behavior must be
+assessed in the context of his merge onto the QEW. The
+HTA
+does not
+specifically deal with merging onto a highway, rather, it deals generally with
+safe moves and signaling at ss. 154(1)(a) and 142(1) respectively (Mr. Marshall
+is not charged under these sections). Section 154(1)(a) of the
+HTA
+states:
+Where a highway has been divided
+into clearly marked lanes for traffic,
+(a)  a vehicle shall not be
+driven from one lane to another lane or to the shoulder or from the shoulder to
+a lane unless
+the driver first ascertains that it can be done safely
+;
+[emphasis added]
+Section 142(1)
+states:
+The driver or operator
+of a vehicle upon a highway before turning to the left or right at any
+intersection or into a private road or driveway or from one lane for traffic to
+another lane for traffic or to leave the roadway
+shall first see that the
+movement can be made in safety
+, and if the operation of any other vehicle
+may be affected by the movement shall give a signal plainly visible to the
+driver or operator of the other vehicle of the intention to make the movement.
+[emphasis added]
+[
+14
+]
+These subsections place a duty on drivers when turning or changing
+lanes to
+first
+ensure they can do so safely.  Notably, failing to turn
+or change lanes in safety is also a strict liability offence: see
+R. v.
+Dillman
+,
+2008 ONCJ 101, at para. 13
+.  A driver, to turn safely, must consider
+other drivers’ behaviors, including that other drivers may not be following the
+rules of the road.  However, this is subject to reasonable limits. On this
+issue, the Court in
+Dillman, supra
+at para. 19 reasoned as follows:
+All of the
+circumstances must be considered in determination of whether a turn was made in
+safety. Where, as here, visibility of oncoming traffic is limited, it is my
+view that
+safety requires that the left turning driver make allowances for
+the predictable shortcomings and potential negligence of drivers
+who may
+soon appear. While it has sometimes been said that a driver is entitled to
+assume that other drivers will obey the rules of the road, I think there are
+limits to such an assumption particularly where there is an onus to do
+something "in safety".
+In my view the safe left turner is not
+entitled to assume that all other drivers will be strictly adhering to speed
+limits or paying perfect attention to the road ahead
+.
+On the other hand
+it would be an unreasonable standard of care and tantamount to imposing
+absolute liability to hold that the turn was not made in safety because an
+accident was caused by, for example, the gross speed or gross inattention of an
+oncoming driver.
+[emphasis added]
+[15]
+In my view, similar
+reasoning applies in the scenario of highway merging.  The merging driver,
+which is the driver making a move into established traffic, ought to account
+for the shortcomings of drivers on the highway including, but not limited to,
+speeding.  This forms a part of the “reasonable consideration for other persons
+using the highway” and “prudently adjust to changing circumstances on the
+highway” portions of ss. 130(3) and 130(5) respectively.  However, this duty
+also
+rests with drivers already on the highway, who must be considerate of merging
+vehicles.  It would be unreasonable to expect drivers merging onto a highway to
+anticipate gross inattention or carelessness on the part of drivers in
+established traffic.  In other words, a lack of due care and attention or a
+lack of reasonable consideration on the part of a driver(s) in established highway
+traffic may be a factor that negates the ability of even a prudent driver to merge
+onto a highway safely.
+[16]
+There is support for
+this reasoning in the case law, where Courts have found that drivers are
+entitled to anticipate safe driving behavior from other drivers at critical
+moments.  For example,
+in
+R. v. Beauchamp
+,
+1952 CanLII 60 (ON CA)
+,
+[1953] O.R. 422
+, pg. 12-13
+the Ontario Court of Appeal stated:
+To support a charge under s. 29(1) of The Highway Traffic Act, the
+evidence must be such as to prove beyond reasonable doubt that the accused
+drove in the manner prohibited by the subsection, namely, without due care and
+attention or without reasonable consideration for others. The standard of care
+and skill to be applied has been long established and is not that of
+perfection. It is, I think, correctly stated in Mazengarb, op cit., at pp.
+176-7, as follows:
+"The law does not require of any driver that he should
+exhibit 'perfect nerve and presence of mind, enabling him to do the best thing
+possible.' It does not expect men to be more than ordinary men.
+Drivers of
+vehicles cannot be required to regulate their driving as if in constant fear
+that other drivers who are under observation, and apparently acting reasonably
+and properly, may possibly act at a critical moment in disregard of the safety
+of themselves and other users of the road.
+"But the law does insist upon a reasonable amount of skill in
+the handling of a vehicle which is a potential source of danger to other users
+of the road. ... The question always is 'What would an ordinary prudent person
+in the position of the plaintiff have done in relation to the event complained
+of?'" (Pollock on Torts uses the term "average man".) [emphasis
+added]
+[1]
+Again, it stands to
+reason that some degree of imperfect driving ought to be anticipated by drivers
+merging onto a highway, but merging drivers can
+also
+reasonably expect
+that drivers in established highway traffic will act safely at moments where vehicles
+are merging.
+Proof Beyond a Reasonable Doubt
+[17]
+This case contains
+both direct and circumstantial evidence.  Proof beyond a reasonable doubt in
+this case will therefore require a combination of findings from both sources.
+In
+R. v. Lifchus
+1997 CanLII 319 (SCC)
+,
+[1997] 3 SCR 320 (SCC)
+a “reasonable doubt” is defined
+in part as: “not an imaginary or frivolous doubt.  It must not be based on
+sympathy or prejudice.  Rather, it is based on reason and common sense.  It is
+logically derived from the evidence or absence of evidence.”  Guilt beyond a
+reasonable doubt effectively sits between absolute certainty and probable guilt:
+see
+R. v. Starr
+,
+2000 SCC 40
+, para.
+242
+.
+[18]
+In cases with
+circumstantial evidence, inferences must be drawn from the evidence as a whole:
+see
+R. v. Cinous
+,
+2002 SCC 29
+, para.
+88
+.
+In R
+. v. Villaroman
+,
+2016 SCC 33
+, paras.
+35 and 36
+the Supreme Court clarified that “inferences
+consistent with innocence do not have to arise from proven facts”, but can
+arise from the absence of evidence; a finding of guilt based on circumstantial
+evidence can only be supported where a trier of fact is satisfied that the only
+rational inference to be drawn is guilt.
+[19]
+Further, establishing
+proof beyond a reasonable doubt in a case where credibility is determinative
+requires the analytical approach set out in
+W.(D.).
+and
+summarized in
+R.
+v. Doiron
+,
+2013 NBCA 31
+, para.
+26
+as follows:
+W.(D.)
+sets out an analytical approach for reaching a verdict in a case
+where credibility is determinative. It provides that, in such cases, a verdict
+cannot be reached by simply choosing one version of the evidence over the
+other. At all times the question is whether the prosecution has proven its case
+beyond a reasonable doubt. Where an accused has testified but the evidence is
+not believed, the testimony may nevertheless raise a reasonable doubt
+justifying acquittal. Even if it does not, a conviction cannot be sustained
+unless, on the whole of the evidence, the trier of fact is convinced of the
+guilt of the accused beyond a reasonable doubt.
+W.(D.)
+does
+not subject trial judges to recite a particular mantra. So long as a trial
+judge gives effect to the approach and addresses the live issues in the case, a
+ground of appeal based on
+W.(D.)
+is bound to fail.
+[20]
+As counsel for Mr.
+Marshall correctly submits, the application of this analytical approach is
+required even in cases where the defendant has not testified, but there exists exculpatory
+evidence presented through the Crown’s case:
+see
+R. v. Fogah
+,
+2018 ONCA 564 (CanLII)
+,
+[2018]
+O.J. No. 3402
+, para.
+53
+.  In the case before me, this exculpatory evidence
+includes, but is not limited to, Mr. Marshall’s statements to police.  Thus, a
+W.(D.)
+analysis is required.
+Positions of the Parties
+The
+Prosecution
+[21]
+The prosecution submits
+that the evidence in this case is clear and supports a finding that Mr.
+Marshall drove his vehicle carelessly into Mr. Pirzada’s motorcycle, hitting
+him, and causing him to fall and be gravely injured.
+[22]
+First, the
+prosecution submits that the strongest evidence comes from the sole eyewitness to
+the collision, Mr. Keegan Walker, who the prosecution argues is credible and
+reliable.  The prosecution argues that Mr. Walker had a good ability to observe
+the driving of Mr. Marshall before the collision, the driving of Mr. Pirzada, the
+collision itself, and the events following the collision.  Moreover, the
+prosecution argues that Mr. Walker’s testimony aligns with the physical
+evidence of the collision captured by police, which boosts his credibility and
+reliability.
+[23]
+Second, the
+prosecution submits that the evidence shows that Mr. Marshall was driving the Black
+Acura TL motor vehicle that collided with Mr. Pirzada’s motorcycle.  Here the
+prosecution highlights the testimony of Mr. Walker, the video evidence, witness’
+observations of Mr. Marshall following the collision, and evidence summarized
+in the technical collision report.
+[24]
+Third, the
+prosecution submits that the maneuver made by Mr. Marshall, which precipitated
+the collision, was careless.  The prosecution posits that three factors
+contributed to this: i) that Mr. Marshall merged at the preliminary portion of
+the merge lane without gathering sufficient information to confirm it was safe,
+ii) that Mr. Marshall attempted to overtake the vehicle ahead of him in the
+merge lane, which was unpredictable and negatively impacted road safety, and
+iii) that Mr. Marshall knowingly operated a vehicle with a deficient side
+mirror, which limited his visibility.
+[25]
+On factor one, the
+prosecution highlights evidence that makes out where Mr. Marshall merged – the
+initial portion of the merge lane. The prosecution argues that this early merge
+forced Mr. Pirzada to attempt to stop at the last minute.  The prosecution
+stresses that the merge lane is long, which afforded Mr. Marshall the
+opportunity to continue in that lane for an extended period before merging; his
+early merge was unnecessary.
+[26]
+On factor two, the
+prosecution argues that Mr. Marshall attempted to merge “out of sequence” and
+“overtake” the vehicle ahead of him in the merge lane.  The prosecution argues
+that Mr. Pirzada could not have reasonably anticipated that Mr. Marshall would do
+this, and therefore would not have made the requisite adjustments for Mr.
+Marshall entering the highway.
+[27]
+On factor three, the
+prosecution argues that the corroded side mirror on Mr. Marshall’s vehicle
+exacerbated the above two factors by making it more difficult for Mr. Marshall
+to see to his rear while merging.  The prosecution argues that even if Mr.
+Marshall did not fully rely on this mirror – for example, by checking his blind
+spot – his merge nonetheless cut closely in front of Mr. Pirzada.  In either
+scenario, given the combination of all the above factors, the prosecution
+argues that Mr. Marshall’s driving was careless.
+The Defence
+[28]
+The defence argues
+that none of the evidence supports that Mr. Marshall drove without due care and
+attention or without reasonable consideration for other drivers.  The defence
+points to inconsistencies in the evidence of the collision and surrounding circumstances. 
+The defence submits that there are some reliability concerns with the evidence
+of the sole eyewitness to the collision, Mr. Walker; testimony from other witnesses’
+conflicts with, or creates uncertainty about, Mr. Walker’s account.
+[29]
+Moreover, the
+defence highlights that Mr. Walker’s observations included that there was “good
+room to merge” for Mr. Marshall before the collision.  The defence submits that
+this observation aligns with Mr. Marshall’s evidence to police – that he
+observed a gap in traffic and merged after checking that it was safe to do so.
+[30]
+Finally, the defence
+submits that the evidence of Mr. Pirzada’s driving leading up to the collision,
+including the fact that his motorcycle may have struck Mr. Marshall’s vehicle (not
+the other way around) raises several unanswerable questions about how the
+collision took place.  Thus, the defence argues, the prosecution has not proven
+Mr. Marshall’s guilt beyond a reasonable doubt.
+The Evidence
+[31]
+The evidence
+presented in this trial consisted of viva voce testimony, a Ministry of
+Transportation video, scene photographs, EMS and medical reports, a vehicle
+examination report, a technical collision investigation report, and a collision
+reconstruction report.  I heard from 16 witnesses, including 7 civilian
+witnesses and 9 officers.  Not all the evidence served to clarify the issues in
+dispute.  Therefore, I will summarize only the most relevant portions below.
+Mr. Marshall’s driving and merge onto the QEW
+[32]
+It is conceded by
+the defence that Mr. Marshall was driving a Black Acura TL from northbound Third
+Line onto the westbound QEW via the on-ramp, and at some point, collided with
+the motorcycle driven by Mr. Pirzada.  Direct evidence of Mr. Marshall’s
+driving prior to, and during his merge, comes from two sources: i) Mr.
+Marshall’s statements to police, and ii) Mr. Walker’s observations.  No other
+witness directly observed Mr. Marshall’s merge or the point of impact. 
+Moreover, there is limited circumstantial evidence of Mr. Marshall’s driving
+prior to, and during his merge.
+[33]
+Mr. Marshall’s
+statements include a spontaneous utterance overheard by Officer Pinkney (one of
+the first officers to arrive at the scene following the collision), two statements
+at roadside to Officer Choi (the investigating officer), and a third statement
+at a police station to Officer Choi.
+[34]
+Officer Pinkney
+testified that as Mr. Marshall stood at the scene, he uttered aloud to no one
+in particular “I don’t know if I hit him, I don’t know if I hit him, I don’t
+know if I hit him”.  Officer Pinkney observed Mr. Marshall to be visibly shaken
+up.
+[35]
+Some short time
+later, at approximately 9:13 am, Mr. Marshall spoke to Officer Choi at the side
+of the roadway.  Officer Choi testified that he cautioned Mr. Marshall about
+potential charges under the
+HTA
+or the
+Criminal Code
+.
+Officer
+Choi recorded Mr. Marshall’s statement in his notebook using quotations as “merging
+on from Third Line to QEW westbound, checked mirror and made a lane change, traffic
+moving steady approximately 70 km per hour. I didn’t even know if it was me that
+hit him, but saw the motorcycle wobble and fall.  I pulled over and saw that my
+rear left bumper was sticking out, that’s when I thought that it must have been
+me.”  Officer Choi also described Mr. Marshall as visibly shaken up.
+[36]
+Officer Choi
+testified that he had a second interaction with Mr. Marshall at the roadside,
+near Mr. Marshall’s vehicle, but he failed to take note of it.  From memory,
+Officer Choi testified that he asked Mr. Marshall about the sideview mirror of
+his vehicle (which was corroded), and recalled Mr. Marshall stating that he
+“got the vehicle like that”.  Officer Choi also recalled Mr. Marshall
+indicating that his rear bumper was dislodged, but cannot recall if Mr.
+Marshall explicitly pointed this out or not.  Officer Choi could not explain
+why the details of this second interaction were not in his note book.
+[37]
+Officer Choi further
+testified that he escorted Mr. Marshall and his father to the Burlington
+detachment of the OPP, arriving at approximately 10:57 am.  Officer Choi
+re-cautioned Mr. Marshall for “careless driving causing bodily harm” and
+“unsafe vehicle” and began an interview at 11:13 am.  During the interview, at
+approximately 11:21 am, Officer Choi learned of a “technical difficulty” with
+the recording equipment, which resulted in the interview not being recorded.  Mr.
+Marshall asked to speak to legal counsel after being advised of his right to do
+so by Officer Choi.  After speaking with legal counsel, Mr. Marshall decided
+not to provide any further statements.
+[38]
+After the interview,
+Officer Choi was forced to summarize what he recalled of Mr. Marshall’s
+statement.  He wrote the following in his notes: “Merging on from the ramp to
+QEW westbound at third line, check my side mirror on the driver’s side and
+turned my head to check my blind spot, saw the motorcycle in the lane
+approximately 1 ½ car lengths behind the middle lane, change with signal on,
+the road was dry and visibility was clear”.  Officer Choi testified that this
+was not verbatim, but was his effort to paraphrase what Mr. Marshall said.
+[39]
+In chief
+examination, Mr. Keegan Walker testified that he was driving a black Volkswagen
+Golf GTI westbound on the QEW approaching Third Line before the collision.  Mr.
+Walker testified that he was travelling at approximately 100 km/h.  He recalled
+driving in the “middle lane” before moving to the “far right lane”, whereupon
+he first noticed the motorcycle approximately 100 meters ahead of him in the
+same lane.  Mr. Walker testified that he had a clear line of sight to the
+motorcycle, as there were no cars in between the two.
+[40]
+Mr. Walker testified
+that he also had a clear view of the Third Line on-ramp and observed two
+vehicles travelling on the ramp approaching the QEW.  Mr. Walker initially
+described the first of the two vehicles as a “white car” and described the
+second as a “black car”.
+[41]
+Mr. Walker observed
+the black car merge before the white car, and interpreted this to mean that the
+black car failed to see the approaching motorcycle.  Mr. Walker estimated that
+“it looked from a long way off that it was going to be a crash”.  He also felt that
+the black car wanted to merge “quicker” than the white car, and therefore tried
+to “overtake” it.  Mr. Walker testified that the black car did not “get up to
+speed” with highway traffic before merging, which forced the motorcycle to try and
+stop unsuccessfully.  Mr. Walker observed the motorcycle hit the rear left side
+of the black car before falling to the ground.
+[42]
+In cross
+examination, Mr. Walker admitted that the event was traumatic to observe, and
+that he believed at the time that the driver of the motorcycle might have died. 
+He testified that the motorcycle was travelling at less than 100 km/h as it
+approached the Third Line on-ramp.  Mr. Walker stated that the black car had
+“good space to merge”, but the motorcycle was closing in.  He reiterated that
+the motorcycle tried to stop but couldn’t, and moved to the left, before
+hitting the rear of the black car.  He also reiterated that the motorcycle was
+driving straight, not erratically.  After viewing the video (exhibit 1) Mr.
+Walker was uncertain about the color of the first car on the on-ramp.  He
+initially thought that it was white, but admitted it could have been gray.
+[43]
+Mr. Michael
+Kavanaugh testified that he was also driving on the QEW in the “far right” lane
+approaching the Third Line overpass when he observed “smoke” that seemingly
+preceded the collision.  Mr. Kavanaugh testified that he was directly behind a
+black VW Golf (appears to be Mr. Walker), but that there were approximately 4-5
+vehicles between him and the motorcycle, with approximately 3 car lengths
+between each vehicle.  Mr. Kavanaugh testified that this black VW Golf passed
+him on his
+right
+shortly before the collision, and merged in front of
+him just prior to the collision.
+[44]
+Mr. Kavanaugh also
+testified that he observed the motorcycle veer to its left and strike a tractor
+trailer that was travelling in the lane to the left.  Mr. Kavanaugh observed
+the motorcycle strike the tire of this tractor trailer before falling to the
+ground. Mr. Kavanaugh did not see what caused the motorcycle to veer, nor did
+he see the point of impact between the motorcycle and Mr. Marshall’s vehicle.
+[45]
+The circumstantial
+evidence of Mr. Marshall’s driving is largely limited to
+where
+he merged. 
+The technical collision investigation report (exhibit 12) contains a series of photographs
+of the scene taken by Officer N. Thompson of the OPP.  This series of
+photographs is at Appendix “D” of the report, and shows the scene from various
+vantage points following the collision.  The photographs starting at page 12/27
+of Appendix “D” (labelled 101_Collission Scene_13413_E231033910_070.JPG and
+following) are particularly helpful in showing where the collision generally
+took place, and thus, where Mr. Marshall generally merged.  This is the area
+under the Third Line overpass toward the easterly edge, which is at the
+preliminary portion of the merge lane.
+[46]
+Further, the expert
+opinion of collision reconstruction Officer T. Braun, based on his analysis, was
+that the point of impact was in lane 3 under the Third Line overpass, toward
+the easterly edge.  Officer Braun’s analysis relied on the physical evidence on
+the roadway, as well as the video evidence (exhibit 1).  It was Officer Braun’s
+opinion that at the point of impact both Mr. Marshall’s vehicle and Mr.
+Pirzada’s motorcycle were in lane 3.  The video shows that at the point both
+vehicles exited the westerly edge of the Third Line overpass, the collision had
+already occurred.  The defence does not dispute the point of impact nor the
+area Mr. Marshall is said to have merged.
+[47]
+Importantly, Officer
+Braun testified that he was not able to conduct any analysis of Mr. Marshall’s driving
+speed due to a lack of physical evidence, and due to the lack of airbag control
+module in Mr. Marshall’s dated Acura TL.  Further, there was no analysis
+completed regarding the relationship of Mr. Marshall’s vehicle to the “white
+car” ahead of him in the merge lane, nor the relationship between Mr.
+Marshall’s vehicle and the vehicles of witnesses.
+[48]
+It is also not disputed
+by the defence that Mr. Marshall’s vehicle had a corroded driver side sideview
+mirror.  Photos of this are contained in the technical collision investigation
+report at page 2/27 in Appendix “D”.  Importantly, this sideview mirror was
+said to be “legal” by more than one officer in this trial.  Furthermore, there
+was no expert opinion evidence that this mirror “impaired” Mr. Marshalls view
+(as will be discussed).  However, there was expert opinion evidence of this
+potential.  Frankly, this is obvious given the extent of the corrosion to the
+mirror.
+Mr. Pirzada’s driving
+[49]
+There is evidence of
+erratic driving by a motorcyclist, likely to be Mr. Pirzada, before the
+collision.  There is also evidence of proper driving by Mr. Pirzada before the
+collision.  Mr. Pirzada’s driving is not determinative of the issue in this
+trial, but it is a relevant factor for me to consider.
+[50]
+Again, Mr. Walker
+testified that the motorcycle involved in the collision was driving straight in
+its lane just prior to the collision.  Mr. Walker was asked in chief specifically
+whether the motorcycle was driving recklessly and he replied that it was not.  However,
+two witnesses observed a motorcycle driving erratically shortly before the
+collision.
+[51]
+First, Mr. Collin
+Dziwak testified that he was driving westbound on the QEW approaching Third
+Line in the lane second from the left (beside the HOV lane).  He observed a
+motorcycle driving erratically and was “80 to 90% sure” it was the same
+motorcycle that was involved in the collision.  He first noticed this motorcycle
+at Trafalgar Road and believed that the driver of the motorcycle was wearing a
+long sleeve black and red shirt, black pants, and a low-profile black helmet. 
+Mr. Dziwak observed the motorcycle speeding up and slowing down, and at one
+point veering to the left of its lane, causing a silver Lexus SUV to veer left
+– out of its own lane – to avoid hitting the motorcycle.  Mr. Dziwak was not 100%
+certain it was the same motorcycle.
+[52]
+Second, Ms. Lauren
+Mondell testified in chief examination that she was driving westbound on the
+QEW in the “third lane” when she observed a motorcycle in front of her, continually
+swaying in and out of their lane.  She recalls being so alarmed by the
+motorcycle’s driving that – despite being alone in her car – she stated aloud,
+“oh my gosh this guy’s going to get into an accident”.  She then testified as
+follows: “I kind of hung back, because I was nervous, like I didn’t want to
+pass him, because he was kind of going in and out at one point, like he almost
+hit the back of another car.  And then sure enough, right after Third Line exit...I
+didn’t see the actual collision, but I saw everything flying through the air.”
+[53]
+Ms. Mundell
+testified that she believed the items seen flying though the air were from the
+same motorcycle she observed driving erratically.  She believed this because
+the jacket observed on the driver of both motorcycles looked the same to her; a
+black jacket with a logo on the back.
+[54]
+In cross
+examination, Ms. Mundell clarified that she first noticed the motorcycle
+driving erratically at Trafalgar Road.  The erratic driving was what drew her
+attention.  She explained that the type of driving she observed from the
+motorcycle was the type of driving she would expect from someone who was
+intoxicated; the motorcycle was continuously drifting between lanes.  Ms.
+Mundell decided not to pass the motorcycle, instead staying behind it, because
+she feared it might hit her.  She agreed with defence counsel’s characterization
+of the motorcycle’s erratic driving as “consistent and persistent”, and further
+agreed that the very outcome she feared came to pass, almost immediately
+afterward.  Ms. Mundell testified that she lost sight of the motorcycle just
+before the collision, but only for a brief time.  It was Ms. Mundell’s belief,
+based on where she first saw the motorcycle, the distance travelled, and their speed,
+that the motorcycles were one and the same.
+The Collision
+[55]
+Direct evidence of
+the collision comes from Mr. Walker.  The remaining evidence is circumstantial,
+and includes photographic evidence, video evidence, physical evidence, expert opinion
+evidence and witness testimony.
+[56]
+Again, Mr. Walker
+testified that he observed the motorcycle strike the rear left side of Mr.
+Marshall’s vehicle.  He then observed the motorcycle fall to the roadway and
+the driver tumble.  Before it struck Mr. Marshall’s vehicle, Mr. Walker
+observed the motorcycle try to slow down or stop unsuccessfully. Notably, Mr.
+Walker did not mention anything about a tractor trailer, nor about the driver
+of the motorcycle hitting his head on a tire.
+[57]
+The analysis from
+the expert collision reconstructionist, Officer T. Braun of the OPP, which
+considered much of the same evidence heard in this trial, culminated with the
+following conclusions (see exhibit 13, pg. 23):
+This collision occurred
+when the rear left corner of the Acura came into contact with the front wheel of
+the Kawasaki.  The Kawasaki fell to the road and started to slide on its left
+side.  The rider separated from the motorcycle as it slid on the road.  Based
+on my analysis of the physical and video evidence, I was unable to determine
+the specific lane movements of either vehicle as they approached the area of
+impact, other than that both vehicles were travelling westbound.  When the
+collision occurred both vehicles were in lane 3.  As the result of this
+collision the rider of the Kawasaki suffered serious life-threatening injuries.
+[58]
+As outlined above, Officer
+Braun testified that no speed analysis was possible, nor was there an ability
+for him to determine the pre-collision movements of the involved vehicles.  Thus,
+Officer Braun’s analysis captured mainly what took place after the point of
+impact, not before.  Similarly, the bulk of the evidence from the sources
+listed above provide information solely about the circumstances following the
+point of impact.
+[59]
+Crucially, Mr.
+Pirzada did not testify (understandably based on his injuries).  Thus, there
+was no direct evidence from Mr. Pirzada about his driving before the collision,
+the driving of Mr. Marshall before the collision, or the circumstances
+surrounding the collision.
+Factual Findings
+[60]
+I make the following
+findings of fact:
+i)
+Mr. Marshall merged
+onto the QEW westbound from Third Line at the preliminary portion of the merge
+lane;
+ii)
+Mr. Pirzada was
+driving erratically shortly before the collision;
+iii)
+The front of Mr.
+Pirzada’s motorcycle struck the rear left side of Mr. Marshall’s vehicle, after
+Mr. Marshall had merged into lane 3, while both vehicles were in lane 3 (lane
+immediately left of the merge lane)
+I will address these findings in turn.
+i)
+Mr.
+Marshall merged onto the QEW westbound from Third Line at the preliminary
+portion of the merge lane
+[61]
+The evidence is
+clear that Mr. Marshall merged onto the QEW at the preliminary portion of the merge
+lane that follows the Third Line on-ramp.  Specifically, the portion of the
+merge lane under the Third Line overpass.
+[62]
+The totality of
+evidence (particularly the evidence summarized above at para. 44-45) shows that
+Mr. Marshall moved from the merge lane to lane 3 while under the Third Line
+overpass and then contacted Mr. Pirzada’s motorcycle.
+[63]
+As stated, the
+prosecution submits that Mr. Marshall’s merge at this location prevented him
+from gathering sufficient information about established traffic to merge
+safely.  The prosecution also submits that Mr. Marshall’s merge was “out of
+sequence” and was completed quickly to “overtake” the vehicle ahead of him.
+[64]
+Respectfully, I do
+not accept these submissions.  While I agree that Mr. Marshall
+may
+have
+benefitted from remaining in the merge lane for a longer period, the relevant
+question is whether his merge at that point was safe.  This depends on the
+surrounding circumstances.  The point where Mr. Marshall merged was marked by a
+dashed line; it was beyond the “bullnose”, which is marked with a solid line. 
+Thus, drivers entering the QEW at this location are permitted to merge at this
+point.  Furthermore, it was established in evidence that there was a view of
+the highway from the Third Line on-ramp (and vice versa), which would have
+allowed Mr. Marshall and other drivers to gather some information about
+established traffic before merging.
+[65]
+Critically, Mr.
+Marshall provided evidence in his statement to Officer Choi at the police
+station that he
+did
+gather information about traffic on the highway
+before merging, by checking his sideview mirror and his blind-spot, while
+signalling his lane change.  In fact, Mr. Marshall stated that he saw the
+motorcycle before merging; he testified that it was in the “middle lane” about
+1.5 car lengths back.  That Mr. Marshall took these steps – the steps expected
+of prudent drivers – before merging onto the QEW is exculpatory.  Of course, how,
+and why he then collided with Mr. Pirzada’s motorcycle remains an open
+question.
+[66]
+To explain Mr.
+Marshall’s merge and the subsequent collision, the prosecution relies heavily on
+the testimony of Mr. Walker.  If Mr. Walker’s testimony is both credible and
+reliable; if he was accurate about the relative positions of the involved
+vehicles, their speed, and Mr. Marshall’s driving behavior, it is likely that
+Mr. Marshall’s driving was careless.  However, I agree with the defence’s
+submission that there exist some reliability concerns with Mr. Walker’s
+account.
+[67]
+First, aspects of Mr.
+Walker’s testimony were internally inconsistent, at least in their descriptions. 
+He testified that there was “good space to merge” for Mr. Marshall (which corroborates
+Mr. Marshall’s account), yet he described that the motorcyclist had to take immediate
+evasive action to slow or stop.  These two descriptions are in conflict.
+[68]
+Second, Mr. Walker
+testified that he was approximately 100 meters behind the motorcycle with a
+clear line of sight.  However, this conflicts with the testimony of Mr.
+Kavanaugh, who described that there were approximately 4-5 vehicles between him
+and the motorcycle, while a black VW Golf was directly in front of him.  Mr.
+Kavanaugh also testified that shortly before merging in front of him, this
+black VW Golf passed him on the right.  This conflicts with Mr. Walker’s
+testimony about his positions on the highway and his line of sight.  The
+prosecution was unable to rectify these inconsistencies.  In fact, even the
+prosecution was “confused” about how the black VW Golf could have passed Mr. Kavanaugh
+on the
+right
+before the collision.  Further, the prosecution did not establish
+the relative positions of witnesses’ vehicles on the QEW before the collision. 
+In fairness, this would have been difficult, as the testimony of these
+witnesses about their positions relative to the collision created a confused
+picture.  After hearing all the evidence, I was not able to confidently place these
+vehicles in space before the collision.
+[69]
+Turning to the
+prosecution’s submission that Mr. Marshall merged “out of sequence” to
+“overtake” the vehicle ahead of him.  This is based on Mr. Walker’s
+interpretation of what he saw.  Mr. Walker’s
+opinion
+was that Mr.
+Marshall tried to pass the vehicle ahead of him.  This version is not supported
+by the evidence of Mr. Marshall; Mr. Marshall did not state to police that he
+was attempting to overtake the vehicle ahead of him.  Further, as stated above,
+there is no evidence from Officer Braun about the speed or movements of Mr.
+Marshall’s vehicle before the collision, nor the speed or movements of the
+“white car” ahead of him.
+[70]
+Moreover, the
+prosecution submits no authority of the need for drivers merging onto a highway
+to do so “in sequence” to be safe.  Indeed, I do not think this is the
+prosecution’s claim.  Thus, I do not accept that Mr. Marshall was obligated to
+allow the vehicle ahead of him to merge first.  This
+may
+have been
+beneficial in the circumstances, but is not necessary, even for a prudent
+driver.  The onus lies with the prosecution to show that it was imprudent and
+unsafe for Mr. Marshall to have merged before the vehicle ahead of him in all
+the circumstances.  In my view, they have not done so.
+[71]
+Finally, I also
+cannot accept the prosecution’s submission that Mr. Marshall’s sideview mirror
+impaired his view and contributed to his overall inattention.  As mentioned, it
+is obvious that Mr. Marshall’s sideview mirror offered a restricted view to the
+rear, due to the extent of its corrosion.  However, evidence is lacking that
+the mirror
+actually
+impaired his view.  There was also no evidence that
+a sidemirror in this condition is prohibited; it was described by more than one
+police officer as “legal”.  Therefore, the only finding I can confidently make
+with respect to Mr. Marshall’s driving before the collision is that he merged
+at the preliminary portion of the merge lane.
+ii)
+Mr.
+Pirzada was driving erratically shortly before the collision
+[72]
+There is conflicting
+evidence about Mr. Pirzada’s driving before the collision.  However, in my
+view, Mr. Walker’s account is mired by the reliability concerns noted above,
+which raise doubts about the accuracy of his observations.  Conversely, the
+accounts of Mr. Dziwak and Ms. Mundell are reliable, and corroborate one
+another.  Of course, it is possible that Mr. Pirzada was driving erratically leading
+up to the Third Line overpass, and was then driving properly at the point of
+impact.  However, to make such a finding, I would need to rely solely on the
+testimony of Mr. Walker, as he was the only witness claiming to have seen Mr.
+Pirzada’s driving immediately before the collision.  I cannot do so for the
+reasons already stated.
+[73]
+Both Mr. Dziwak and
+Ms. Mundell saw a motorcycle driving erratically at Trafalgar Road heading
+westbound on the QEW.  Both testified that the motorcycle was swerving within,
+and outside of its lane.  Both testified that this swerving impacted other
+drivers, including forcing other drivers to take evasive action.  Ms. Mundell
+observed this motorcycle almost hit the rear end of another vehicle.  While Mr.
+Dziwak was 80% to 90% sure that the motorcycle he observed was involved in the
+collision, Ms. Mundell was all but 100% sure.  This evidence was compelling,
+and raised vital questions about whether Mr. Pirzada was driving in a reckless manner
+immediately before the collision, which would have prevented Mr. Marshall (or
+any prudent driver in his position) from merging safely.
+iii)
+The
+front of Mr. Pirzada’s motorcycle struck the rear left side of Mr. Marshall’s
+vehicle, after Mr. Marshall had merged into lane 3, while both vehicles were in
+lane 3 (lane immediately left of the merge lane)
+[74]
+For this finding, I
+rely almost exclusively on the conclusions of expert collision
+reconstructionist Officer Braun.  Officer Braun’s conclusions (outlined above
+at para. 57) were based on his review of all available evidence, save and
+except the testimony at trial.  His conclusions are both credible and
+reliable.  Officer Braun added, in cross examination, that Mr. Marshall could
+have been the one to strike Mr. Pirzada, or Mr. Pirzada could have been the one
+to strike Mr. Marshall; the physical evidence and analyses do not reveal which
+of these two scenarios occurred.
+[75]
+Importantly, both
+vehicles were fully in lane 3 when contact occurred.  In other words, Mr.
+Marshall had completed his merge into lane 3 before the point of impact.  The
+point within the lane where contact occurred was toward the “top” of the lane;
+the southern portion, near lane 2.  Beyond this, the evidence in totality
+reveals little about how this collision unfolded and I can make no further
+findings about it.
+Legal Findings
+[76]
+This case requires
+the analytical approach outlined in
+W.(D.).
+There is exculpatory
+evidence that arose through the Crown’s case, which must be assessed and weighed
+against the evidence that favors the Crown’s theory.  At the same time, I must
+answer two important questions: i) given there was an accident in this case,
+are there reasonable inferences that can be drawn from this fact, other than
+Mr. Marshall was driving carelessly? and ii) does the evidence as a whole, including
+a lack of evidence, support that Mr. Marshall’s driving fell below the standard
+of an ordinarily prudent driver?
+[77]
+First, in my view,
+there is an alternative reasonable inference that can be drawn from the facts
+surrounding this collision.  Namely, that Mr. Pirzada was driving erratically
+immediately before the collision, and caused or contributed to the collision.
+[78]
+The evidence from
+Mr. Marshall’s statements, and the observations of Mr. Dziwak and Ms. Mundell
+support this alternative inference.  Mr. Marshall stated that he saw Mr.
+Pirzada’s motorcycle before merging and merged, nonetheless.  It stands to
+reason, that Mr. Marshall would have taken steps to avoid a collision if one
+were foreseeable.  It was clear that the collision was not foreseeable to Mr.
+Marshall, as evidenced by his shock following the collision and lack of
+certainty about whether he struck Mr. Pirzada.
+[79]
+Further, Mr. Pirzada
+had an equal obligation to be considerate of Mr. Marshall’s merging vehicle,
+and to drive safely at this critical moment.  Importantly, it was reasonable
+for Mr. Marshall to anticipate safe driving from Mr. Pirzada at this critical
+moment as
+outlined in
+Beauchamp
+, supra.
+If Mr. Pirzada was driving erratically
+at this critical moment, in the fashion described by Mr. Dziwak and Ms. Mundell,
+his driving goes well beyond the “imperfect” driving described in
+Dillman,
+supra
+, that Mr. Marshall needed to account for.  The lack of testimony from
+Mr. Pirzada on this point leaves open questions about his driving.  That Mr.
+Pirzada may have been driving erratically, and may have made it difficult for
+Mr. Marshall to merge safely in all the circumstances, is not a speculative
+scenario; it is based on evidence.  Thus, the prosecution needed to exclude this
+possibility.  In this case, they have failed to do so sufficiently.
+[80]
+Second, in my view, the
+totality of evidence does not prove that Mr. Marshall’s driving departed from
+what is expected of an ordinarily prudent driver in all the circumstances. 
+Again, his evidence was that he checked his sideview mirror, turned his head to
+check his blind spot, and signalled his turn, before merging into a gap in
+traffic.  These are the precise steps that a prudent driver should take before
+merging.  The prosecution was unable to sufficiently call into question the
+credibility or reliability of Mr. Marshall’s evidence.  At the same time, the
+prosecution was unable to rectify the inconsistencies in Mr. Walker’s testimony. 
+Together, this raises doubt about the prosecution’s theory.
+Conclusions
+[81]
+It is tragic that
+Mr. Pirzada was so seriously injured in this collision.  It is also unfortunate
+that the witnesses in this case, including Mr. Marshall experienced such a traumatic
+event.  This was a difficult case for all parties involved, and a difficult
+case to make findings on.  After considering the totality of the evidence, I
+find there exists reasonable doubt about whether Mr. Marshall drove carelessly
+in all the circumstances.  Thus, I must dismiss the charge against him.
+________________________
+Howard, T.J., Justice of the Peace
+[1]
+see also
+R. v. Globocki
+,
+[1991] O.J. No. 214
+, para. 61
+;
+R.
+v. Lattimore
+,
+[2015] O.J. No. 5572
+, para. 10
+)

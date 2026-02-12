@@ -1,0 +1,527 @@
+Source URL: https://www.canlii.org/en/on/oncj/doc/2025/2025oncj651/2025oncj651.html
+
+ONTARIO  COURT  OF
+ JUSTICE
+CITATION:
+R. v. Taylor
+, 2025 ONCJ
+651
+DATE:  2025·12·05
+NEWMARKET
+BETWEEN:
+HIS
+ MAJESTY  THE  KING
+—
+ AND  —
+DANIEL
+TAYLOR
+JUDGMENT
+Evidence and Submissions
+Heard: November, 19,21, 2025.
+Delivered: December
+5, 2025
+Mr. Robert DeChellis .............................................................................   counsel
+for the Crown
+Mr. Daniel Taylor ............................................................................   self-represented
+defendant
+KENKEL J.:
+Introduction
+[
+1
+]
+A person working at a gas station called 911
+to report that a driver of a red Mercedes was unsteady on his feet and was
+possibly impaired. Officers intercepted the vehicle when it arrived at the owner’s
+registered address. Constable Wilson spoke with the driver Mr. Taylor.  The
+officer’s observations led him to make an Approved Screening Device (ASD)
+demand. The failure of that test led to the arrest of Mr. Taylor and further
+testing with an Approved Instrument (AI) at the station. Those tests registered
+truncated readings of 140 and 130mgs of alcohol per 100ml of blood. Mr Taylor
+was charged with the offence known as “80+” – having a blood alcohol
+concentration (BAC) in excess of the legal limit (80mg/100ml) within two hours
+of ceasing operation of a conveyance s 320.14(1)(b).
+[
+2
+]
+Prior to arraignment, the Crown alerted the
+court that the evidence would show one
+Charter
+breach in relation to the
+approved instrument demand. That demand was not made “as soon as practicable”
+as required by s 320.28(1). The Crown also noted other aspects of the evidence
+where the accused might wish to allege a s 10(b) breach. Mr. Taylor added two
+further
+Charter
+issues. Both parties were content to proceed without
+formal notice and response. The trial evidence and the submissions of both
+parties identify the following issues for decision:
+•
+Charter
+s 9 –
+Arbitrary detention – Was the stopping of the accused on the roadway near his
+residence arbitrary?
+•
+Charter
+s 8 – ASD
+Test – Did the officer have a reasonable suspicion for the ASD demand? Was the
+demand timely?
+•
+Charter
+s 10 –
+Did Mr. Taylor have the right to advice from counsel from the moment he was
+stopped? Was Mr. Taylor’s right to speak to counsel of choice breached?
+•
+Charter
+s 24(2) –
+The approved instrument demand was not made “as soon as practicable” as
+required by s 320.28(1). Should the breath test evidence be excluded as a
+remedy for that and any other breach?
+•
+80+ - If the breath test evidence is admitted,
+does cell video evidence of possible vomiting prior to two breath tests leave a
+doubt about the accuracy of the test results?
+•
+80+ - Do tests taken more than two hours after
+ceasing operation provide evidence of Mr. Taylor’s BAC during that time period?
+Charter
+s 9 – Arbitrary Detention
+[
+3
+]
+Mr. Taylor submits that the fact the police
+blocked access to his driveway to stop his car was arbitrary as they had not
+attended the gas station or conducted their own investigation.
+[
+4
+]
+Driving is a regulated activity. Police have
+the authority under the provincial
+Highway Traffic Act
+RSO 1990 c H8 s
+48
+to stop drivers to investigate driver sobriety.  They also have that
+power at common law –
+R v Orbanski,
+2005 SCC 37
+. They don’t need a
+reason to stop drivers for such an investigation, but they had one here. The
+detailed 911 call provided a reasonable basis for the stop.
+[
+5
+]
+There was no s 9 breach.
+Charter
+s 8 – ASD Test
+[
+6
+]
+I accept that the demand was made while P.C.
+Wilson was at the driver’s window although that interaction was not captured on
+the In-Car-Camera (ICC) audio. When the officer later prepared his notes, he recorded
+the demand but did not put down the precise time as he couldn’t recall it and
+he didn’t want to guess. He agreed at trial that he made the ASD demand before
+Mr. Taylor exited the car when the odour of alcohol became apparent.
+[
+7
+]
+Constable Wilson had the ASD with him in his
+vehicle. He did not need a reasonable suspicion to demand that Mr. Taylor
+comply with an ASD test (s 320.27(2)), but the evidence he had to that point
+would also meet that criteria. His observations of slurring of speech and
+fumbling with a document combined with the information he had received from the
+911 call also provided a reasonable basis for a suspicion-based demand under s
+320.27(1).
+[
+8
+]
+The demand was made at the driver’s window
+within 2 minutes of the stop. The test sequence started 5 minutes later. It
+took time for the officer to retrieve the ASD from his vehicle. The test was
+also delayed as the accused had called his parents who came outside and
+intervened in the investigation. The ICC video showed Mr. Taylor and his
+parents argued with another officer at 3:00 a.m. Eventually Mr. Taylor came
+back to the front of the police vehicle where the ASD was waiting on the hood.
+[
+9
+]
+It took 5 minutes for Mr. Taylor to provide
+a suitable sample. The officer demonstrated the device twice and each time the
+video showed it took 3 seconds for Constable Wilson to provide a sufficient
+sample. Mr. Taylor at first provided no air into the device resulting in no
+tone as explained by the officer. Then there were stop and start samples until
+he provided a suitable sample on the 8
+th
+attempt.
+[
+10
+]
+The Crown has proved that the screening
+device demand was lawful. There is nothing about the administration of the test
+that was unreasonable or unfair. There is no evidence of a s 8 breach in
+relation to the ASD test.
+Charter s 8 – The Approved
+Instrument Demand
+[
+11
+]
+P.C. Wilson explained that the ASD Fail
+result showed that the accused’s BAC was 100mg/100ml or higher and that
+provided grounds for an Approved Instrument demand.
+[
+12
+]
+Constable Wilson did not read the Approved
+Instrument demand at the roadside. Reading anything was difficult. During the
+right to counsel advice Mr. Taylor interrupted constantly shouting “HELLOOOOO”
+and other words in a loud and argumentative voice. He pretended he could not
+hear the officer, even when the officer opened the back door of the car and
+started to read the advice again. Mr. Taylor obstructed the officer’s effort to
+provide that advice. The extended sequence appears to have distracted the
+officer from the next step which would have been the demand. The Crown concedes
+that the officer was still required to at least try to read the AI demand.
+[
+13
+]
+There was a demand made at the station, but
+it came after a long wait for a lawyer to return a call. While the Crown has
+proved the demand was based on reasonable grounds, the Crown concedes that the
+demand by the breath technician was not made “as soon as practicable”.
+[
+14
+]
+The failure to make the approved instrument
+demand “as soon as practicable” as required by s 320.28(1)(a) results in a
+breach of s 8 of the
+Charter.
+Charter s 10 – Right to Counsel
+[
+15
+]
+Mr. Taylor submitted that he should have
+been informed of his right to speak with a lawyer from the moment he was
+detained. He further submitted his right to speak with a lawyer of his choice
+was breached.
+[
+16
+]
+Mr. Taylor is right that section 10 of the
+Charter
+is engaged on arrest
+or detention.
+However, there is a long-standing
+exception for the roadside investigation of licensed drivers to determine their
+sobriety. Those investigations including ASD testing are brief and incompatible
+with a delay to consult with counsel. The limitation on the right to counsel in
+this context has been held to be reasonable –
+R v Orbanski
+,
+2005 SCC 37
+at para
+52
+.
+[
+17
+]
+P.C. Wilson attempted to provide right to
+counsel advice immediately upon arrest, but Mr. Taylor was very argumentative
+and loudly resisted that effort. Constable Wilson patiently continued his
+effort. Eventually Mr. Taylor said that he wanted to speak with a lawyer named
+“Mystensky”. During booking at the station Mr. Taylor was still angry and
+argumentative, but the officers were able to clarify that the lawyer Mr. Taylor
+wished to speak with was actually Boris Bytensky, a well-known criminal defence
+lawyer in Toronto.
+[
+18
+]
+Constable Wilson called Mr. Bytensky’s
+office at 3:57 a.m.  That number referred the officer to an emergency line. He
+called the emergency line and spoke with an operator who advised she would page
+Mr. Bytensky. By 4:30 a.m. Mr. Bytensky had not called back. There was no call
+from his office that morning.
+[
+19
+]
+Constable Wilson spoke with Mr. Taylor and
+said it was early Sunday morning and the chance of the lawyer calling back “was
+not very promising”. He asked Mr. Taylor if he wished to call another lawyer or
+call duty counsel. Mr. Taylor continued to ask for Mr. Bytensky. Mr. Taylor
+continued to be obstructive during this conversation, repeatedly saying he
+didn’t understand the simple question posed by the officer. P.C. Wilson continued
+to be patient, repeating the two further options six times. Mr. Taylor refused
+to make another choice so eventually at 5:00 a.m. he was handed over to the
+Qualified Technician.
+[
+20
+]
+Mr. Taylor told the Qualified Technician
+P.C. Poole that he wished to speak with a lawyer named Jenna Imbrogno. P.C.
+Poole looked up that name on the Ontario Law Society website and did not find a
+registered lawyer with that name. Mr. Taylor insisted she was a lawyer, and he
+provided a number. The officer called that number, but nobody picked up. P.C.
+Poole didn’t recall if there was a voicemail option, but he always leaves a
+message where that is possible. That’s likely here given there was another
+wait. There was no return call. Mr. Taylor did not suggest another lawyer, nor
+did he ask to speak to duty counsel. At 5:30 a.m. he was taken to the breath
+test room and tests were conducted.
+[
+21
+]
+Mr. Taylor had a right to speak with a
+lawyer. When it became plain that his lawyer of choice was not available, he
+needed to act with diligence and consider other options. The officer was not
+wrong to call the second name as that person’s status could have been clarified
+at the time of the call if they were available. However, when that person did
+not call back Mr. Taylor needed to consider the other options they had
+discussed – the immediate availability of duty counsel or speaking with another
+lawyer. He did not exercise his right with reasonable diligence.
+[
+22
+]
+No further warning in relation to the right
+to speak with counsel was required as the police had called counsel of choice
+and a second possible lawyer. They had also suggested two other options. They
+had been very patient at the roadside and at the station with Mr. Taylor’s
+aggressive obstruction of their efforts to advise and assist him with his right
+to legal advice. The officers reasonably waited an hour and a half, but there
+was never a return call from either person. Mr. Taylor wanted to speak only to the
+two people he named, and he refused multiple offers to call duty counsel or
+another lawyer. The officers were entitled to proceed with the testing. The
+evidence is plain that had he changed his mind at any point and requested duty
+counsel or another lawyer the officers would have immediately placed that call.
+[
+23
+]
+There was no s 10(b) breach.
+Section 24(2)
+[
+24
+]
+The section 8 breach is a failure to comply
+with the time limit for the demand imposed by s 320.28(1) – “as soon as
+practicable”.
+[
+25
+]
+In this case the breach wasn’t serious given
+that it arose in large part from the conduct of the accused. Constable Wilson
+was professional and patient, but Mr. Taylor would not let him complete the
+right to counsel advice. The time spent trying to provide that advice and the
+difficulties with Mr. Taylor plainly distracted the officer from continuing
+with the breath demand. The officer had a duty to make or attempt to make a
+timely demand, but I find his failure to do so here was the product of unusual
+circumstances and not of any disregard for legal or
+Charter
+standards
+[
+26
+]
+The failure to make a timely demand had no
+apparent impact on the
+Charter
+protected interests of Mr. Taylor. He
+would have shouted down any reading of a demand. He was argumentative on
+booking as well, continuing to shout down any advice and instructions given by
+both officers. The delay in the Qualified Technician’s demand at the station
+after receiving grounds was due to an extended wait for counsel(s) of choice to
+call back. Mr. Taylor was told during the right to counsel conversations that
+breath testing was the next step.
+[
+27
+]
+The ASD test fail result provided reasonable
+grounds for the approved instrument demand. The failure to read that demand in
+a timely way was a breach, but one which was explained by the unusual
+circumstances at the roadside and at booking. It would bring the administration
+of justice into disrepute to exclude reliable breath test evidence to remedy a
+technical breach caused in large part by the accused’s own conduct.
+80+ - Mouth Alcohol
+[
+28
+]
+Mr. Taylor submits that the cell video
+evidence shows he vomited before each of the approved instrument tests. He did
+not bring that to the attention of the breath technician. The qualified
+technician agreed in cross-examination that mouth alcohol arising from vomiting
+or other source can affect the accuracy of the readings. The defendant submits
+that there must be a reasonable doubt about the reliability of the test results.
+[
+29
+]
+There are two issues with this submission, a
+factual one and a legal one.  The factual issue is that the evidence at trial
+did not support the submission. The legal issue is that the
+Criminal Code
+no
+longer permits this type of evidence being considered as “evidence to the
+contrary” or “evidence tending to show” that could leave a reasonable doubt
+about the accuracy of the test results.
+[
+30
+]
+The cell video did not support Mr. Taylor’s
+submission that he vomited before the first test. He certainly was drinking
+water at the sink, but the Qualified Technician testified that wouldn’t
+interfere with the test. It’s possible he vomited prior to providing the second
+sample, but the cell toilet area was blacked out on the video for privacy. If
+he did vomit then, P.C. Poole’s evidence showed that it would not have affected
+the tests as it was 19 minutes before the second test. The waiting period for
+mouth alcohol is 15 minutes which is also the time between tests required by
+the
+Criminal Code
+for the same reason. Both samples were found by the
+Qualified Technician to be suitable using four factors which did not show the
+presence of mouth alcohol. The two test results were in good agreement,
+confirming that mouth alcohol did not skew the result of the second test.
+[
+31
+]
+Prior to 2018 it was open to a defendant to
+call “evidence tending to show” that the approved instrument was malfunctioning
+or operated improperly and that his breath test results would not have
+otherwise exceeded that statutory limit. Prior to 2008 the defendant could call
+“evidence to the contrary” to raise a doubt about the accuracy of the readings.
+[
+32
+]
+In 2018 Parliament revised the drinking and
+driving provisions of the
+Criminal Code
+.
+Parliament recognized that the detailed
+breath test protocol set out by the
+Alcohol Test Committee
+ensured the
+accuracy of the breath test results in every case. That protocol was already
+part of the software of every instrument approved by the
+Test Committee,
+but
+Parliament codified the essential steps of the breath test procedure in s
+320.31. That section set out the required test steps including two independent
+calibration checks against a certified, known standard during the test
+sequence, a 15-minute wait between two tests to guard against mouth alcohol,
+and a further requirement that the results of the two tests be in good
+agreement as a further way to ensure that there was no mouth alcohol or other
+issue which affected the results. Where the Crown proves that the tests followed
+those requirements, that section provides that the test results are
+conclusive
+proof
+of the person’s BAC at the time the tests were taken. The term
+“conclusive proof” specifically disengages the provision of the
+Interpretation
+Act,
+RSC 1985, c I-21
+s 25(1) that provides for “evidence to the
+contrary”.
+[
+33
+]
+A challenge to the accuracy of the approved
+instrument test results must now focus on one of the criteria set out in s
+320.31(1). In this case the Crown has proved that each condition required by
+that section has been met:
+•
+Samples were received into an approved
+instrument (AI);
+•
+the AI was operated by a qualified technician;
+•
+before each sample was taken the qualified
+technician conducted a system blank test with a result not more than
+10mgs/100ml and a system calibration check the result of which was within 10%
+of the target value of an alcohol standard certified by an analyst;
+•
+there was an interval of at least 15 minutes
+between tests; and
+•
+the results of the analyses, rounded down to the
+nearest 10mg, did not differ by more than 20mg of alcohol per 100ml of blood.
+[
+34
+]
+Section 320.31 therefore deems the test
+results in this case “conclusive proof” of Mr. Taylor’s blood alcohol
+concentration at the time of testing. The questions Mr. Taylor raised in
+relation to the cell videos were not supported by the evidence and they could
+not otherwise leave a doubt about the readings as a matter of law.
+80+ – Tests Outside 2 Hours
+[
+35
+]
+The breath tests were taken more than two
+hours after Mr. Taylor stopped driving. In the absence of expert evidence, Mr
+Taylor questions how the later test results can be applied to the two-hour
+window in which the offence is alleged to have occurred?
+[
+36
+]
+It’s common experience that the human body
+eliminates alcohol over time. Forensic toxicologists routinely testify that
+there is a scientific consensus that alcohol is unusual in that all persons
+eliminate that drug at a standard rate within a narrow range. That property
+allows toxicologists to extrapolate backwards in time from known blood alcohol
+concentrations (BAC) to reliably state a person’s BAC at a prior time. Mr.
+Taylor is right that generally such evidence would require expert testimony.
+[
+37
+]
+In 2018 Parliament enacted
+section 320.31(4)
+of the
+Criminal Code
+which eliminated the need to call a toxicologist
+for routine “read back” evidence. That section provides that where the samples
+of breath were taken more than two hours after the person ceased to operate the
+conveyance, the person’s blood alcohol concentration within those two hours is
+conclusively presumed to be the concentration established in the tests, plus an
+additional 5mg/100ml for every interval of 30 minutes in excess of those two hours.
+[
+38
+]
+Parliament applied the standard range of
+alcohol elimination and took a conservative value most favourable to the
+accused to relate breath test results back to the relevant time period.
+[
+39
+]
+Where samples of breath were taken more than
+two hours after the person ceased to operate the conveyance, the person’s blood
+alcohol concentration within those two hours is conclusively presumed to be the
+concentration established in the tests, plus an additional 5mg/100ml for every
+interval of 30 minutes in excess of those two hours.
+[
+40
+]
+Because Mr. Taylor was metabolizing and
+eliminating alcohol from the time he was stopped by police to the time of his
+approved instrument tests, his blood alcohol concentration during the two hours
+after he was stopped would have been higher than the later breath test readings
+which were rounded down to 130mgs. The stop was shortly after 2:55 a.m. The
+second test was completed at 6:07 a.m. For every half hour after 4:55 a.m.
+section 320.31(4)
+adds another 5mgs to the accused’s BAC. There are two half
+hour periods after 4:55 a.m. to the end of the second test so the Crown has
+proved that Mr. Taylor’s blood alcohol concentration within two hours of
+ceasing to operate his conveyance was 130mgs + 10 mgs = 140mgs/100ml.
+Conclusion
+[
+41
+]
+I found that the approved instrument demand
+was not made as soon as practicable contrary to s 320.28(1) resulting in a
+breach of Mr. Taylor’s s 8
+Charter
+right to be free from searches unless
+authorized by law and conducted in accordance with that law. I have found that
+the breach could not reasonably result in exclusion of the breath test evidence
+under s 24(2) or any other remedy. The remaining
+Charter
+applications
+were dismissed.
+[
+42
+]
+Considering the evidence as a whole, I find
+the Crown has proved the charge alleged beyond a reasonable doubt. There will
+be a finding of guilt.
+Delivered:  December 5, 2025.
+Justice Joseph F. Kenkel

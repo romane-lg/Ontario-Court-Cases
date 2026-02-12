@@ -1,0 +1,1107 @@
+Source URL: https://www.canlii.org/en/on/oncj/doc/2025/2025oncj559/2025oncj559.html
+
+CITATION:
+R. v. Marineland of Canada
+Inc.,
+2025 ONCJ 559
+COURT FILE NO.:  4521-999-23-1028-00
+DATE:  2025 07 18
+ONTARIO COURT
+OF JUSTICE
+BETWEEN:
+HIS
+MAJESTY THE KING
+Respondent
+—
+AND —
+MARINELAND
+OF CANADA INC.
+Appellant
+Before Justice R.C.B. Watson
+Appeal Decision on July 18, 2025
+Danielle Mueleman and Jason Kirsh  for
+the Ministry of the Attorney General – Legal Services Branch – Ministry of
+the Solicitor General
+Scott K. Fenton and Michelle Psutka ....................................... for
+Marineland of Canada Inc.
+WATSON
+J.:
+Overview:
+[
+1
+]
+This matter
+proceeded before me on March 19, 2025, in Welland, Ontario, pursuant to an
+appeal filed under
+s. 116
+of the
+Provincial Offences Act
+by Marineland
+of Canada Inc. (the “Appellant”).
+[
+2
+]
+The Appellant
+appeals a decision of Her Worship Justice of the Peace E. Walker dated March 7,
+2024, regarding an application by the Appellant, then the applicant, on a
+motion for a stay of proceedings under s. 24(1) of the
+Charter
+for an
+abuse of process.
+History of the Proceedings:
+[
+3
+]
+The history of
+these proceedings is not in dispute.  The history is contained in the
+Appellant’s factum and the Respondent’s factum and will not be exhaustively
+repeated in this decision.  I find it was necessary for this appeal that the
+parties had to in essence re‑argue the issues which were at play in the
+motion for the stay for a proper context to be given to their respective
+positions.
+The
+March 7, 2024 Proceedings:
+[
+4
+]
+On March 7,
+2024, the Appellant was found guilty by Justice of the Peace E. Walker of three
+offences of failing to comply with an order issued on June 18, 2021 (the
+“Order”) pursuant to
+s. 30(1)
+of the
+Provincial Animal Welfare Services Act
+,
+2019, S.O. 2019, c.13, as amended (the “
+PAWS Act
+”).
+[
+5
+]
+Convictions
+were entered based on an agreed statement of facts (the “ASF”) at trial.  The
+ASF was the only evidence called at the trial.
+[
+6
+]
+It was agreed
+upon by the Appellant that the ASF put forward sufficient evidence for Her
+Worship to make findings of guilt.  Counsel for the Appellant stipulated and the
+parties agreed that although not a plea of guilt that Her Worship could
+reasonably conclude  that the Appellant was guilty of the offences alleged.
+[
+7
+]
+Prior to those
+proceedings the Appellant brought a stay application on the basis that the
+integrity of the judicial system would be undermined by the continuing
+prosecution.  This would amount to an abuse of process warranting a stay of
+proceedings.
+[
+8
+]
+The Respondent
+argues that Her Worship properly dismissed the abuse of process application and
+that the instant appeal should be dismissed.
+Position
+of the Appellant:
+[
+9
+]
+The Appellant
+submits that Her Worship properly stated the test for a residual category abuse
+of process as being whether the impugned conduct “risks undermining the
+integrity of the judicial process” because the conduct is “offensive to
+societal notions of fair play and decency.” The Appellant agrees that Her
+Worship properly quoted from
+R. v. Babos,
+2014 SCC 16
+.
+[
+10
+]
+Moldaver J.
+writing for the Supreme Court of Canada stated commencing at para. 30:
+A.        Abuse of
+Process and Stays of Proceedings
+[30]      A
+stay of proceedings is the most drastic remedy a criminal court can order (
+R.
+v. Regan
+,
+2002 SCC 12
+,
+[2002] 1 S.C.R. 297
+,
+at para.
+53
+). 
+It permanently halts the prosecution of an accused.  In doing so, the
+truth-seeking function of the trial is frustrated and the public is deprived of
+the opportunity to see justice done on the merits.  In many cases, alleged
+victims of crime are deprived of their day in court.
+[31]      Nonetheless,
+this Court has recognized that there are rare occasions — the “clearest of
+cases” — when a stay of proceedings for an abuse of process will be warranted (
+R.
+v. O’Connor
+,
+1995 CanLII 51 (SCC)
+,
+[1995] 4 S.C.R. 411
+, at para.
+68
+).  These cases
+generally fall into two categories: (1) where state conduct compromises the
+fairness of an accused’s trial (the “main” category); and (2) where state
+conduct creates no threat to trial fairness but risks undermining the integrity
+of the judicial process (the “residual” category) (
+O’Connor
+, at para.
+73
+). 
+The impugned conduct in this case does not implicate the main category. 
+Rather, it falls squarely within the latter category.
+[32]      The
+test used to determine whether a stay of proceedings is warranted is the same
+for both categories and consists of three requirements:
+(1)        There must
+be prejudice to the accused’s right to a fair trial or the integrity of the
+justice system that “will be manifested, perpetuated or aggravated through the
+conduct of the trial, or by its outcome” (
+Regan
+, at para.
+54
+);
+(2)        There must
+be no alternative remedy capable of redressing the prejudice; and
+(3)        Where there
+is still uncertainty over whether a stay is warranted after steps (1) and (2),
+the court is required to balance the interests in favour of granting a stay,
+such as denouncing misconduct and preserving the integrity of the justice
+system, against “the interest that society has in having a final decision on
+the merits” (
+ibid.
+, at para. 57).
+[33]      The
+test is the same for both categories because concerns regarding trial fairness
+and the integrity of the justice system are often linked and regularly arise in
+the same case.  Having one test for both categories creates a coherent
+framework that avoids “schizophrenia” in the law (
+O’Connor
+, at
+para.
+71
+).  But while the framework is the same for both categories,
+the test may — and often will — play out differently depending on whether the
+“main” or “residual” category is invoked.
+The
+Four Areas where the Appellant argues the Justice of the Peace Erred:
+[
+11
+]
+At pages 7-10
+of the Appellant’s factum the Appellant outlines the following areas where they
+argue the Justice of the Peace erred:
+B.        Her Worship erred in
+finding that the prosecution was not an abuse of process.
+C.        Her
+Worship incorrectly interpreted s. 30(5) of
+PAWS
+.
+D.        Her Worship erroneously
+applied the test for imposing a stay of proceedings in determining whether an
+abuse of process was established.
+E.         Her
+Worship mischaracterized the consequences of a stay of proceedings.
+Discussion:
+B.        Her Worship erred in
+finding that the prosecution was not an abuse of process.
+[
+12
+]
+The Appellant
+relies on the arguments presented in their original factum at paragraphs 25-39
+dated December 29, 2023.  Those arguments include [
+inter alia
+] that an
+abuse of process can flow simply from the very existence of a prosecution, the
+fact that the decision to prosecute was made in good faith is not fatal and
+consideration should be given to the precedent it would set to allow the
+prosecution.  The Appellant
+cites
+R. v. MacPhee,
+2014 NSPC 89
+at paras.
+36
+, 46-48, 71, 75-77 for this proposition.
+[
+13
+]
+It is a
+relevant observation that this decision is a decision from the Provincial Court
+of Nova Scotia from 2014 and thus is not binding on this court.
+MacPhee
+was charged with manslaughter in 2014 for an offence which occurred in 2005.
+[
+14
+]
+The court in
+para. 2 of
+MacPhee
+sums up the issue in that case the following way:
+[2]        A
+seven-year hiatus between the act and the consequence is itself enough to take
+this case into uncharted territory. Add to it the fact that in 2007 Mr.
+MacPhee was sentenced for aggravated assault for the very same deed, and one
+has a truly extraordinary situation.
+[
+15
+]
+Moreover, at
+para. 71 of
+MacPhee
+the court stated the following:
+[71]      If
+this matter proceeds, it will set a precedent. It seems inevitable that
+pressure will mount in other such cases to seek redress yet again when the
+natural consequences of the original offences become manifest. One may
+well ask, if this prosecution is allowed to proceed, whether accused in such
+cases as
+Kaotalok, Walkem, Nduwayo, Smith, M.G.J., Nyoni
+, etc. will be
+charged again with culpable homicide when their victims die.
+[
+16
+]
+I find
+MacPhee
+is of no assistance to this court given the issues argued and the potential
+outcomes which could flow from that case.
+[
+17
+]
+The Appellant
+further argued in their factum of December 29, 2023, and in the argument before
+me that the Ministry simply could have sent the Appellant a letter indicating
+that given the bears had been removed that compliance with the Order was no
+longer necessary.  The legislation does not contemplate a letter being sent. They
+argue instead that the Ministry issued a formal Revocation saying that the
+Order had been complied with.
+[
+18
+]
+I reject this
+argument.  For this to be the case it would mean that the Revocation order
+would effectively nullify what were valid grounds to prosecute Marineland.  I
+find this would result in an absurdity.  The Ministry acted fairly and their
+course of action I find was not an abuse of process.  I am mindful that I am
+not retrying the case and am sitting as an appellate court to determine the
+issue of whether the Justice of the Peace erred. In consideration of the
+Appellant’s original arguments which they rely on and Her Worship’s decision I
+find she did not err in not granting a stay of proceedings.
+[
+19
+]
+The Appellant
+also argues that the doctrines of
+estoppel
+and
+autrefois acquit
+apply.  They did not argue these doctrines were directly applicable in the
+instant case but rather they offered them in support of the notion that the
+prosecution itself offended notions of fair play and decency. I find that the
+notions of fair play and decency would be offended had the prosecution not
+proceeded.
+[
+20
+]
+I find the
+Appellant’s arguments on this appeal take an unduly narrow interpretive role of
+the wording and application of the legislation.
+[
+21
+]
+I do not find
+the doctrines of
+estoppel
+and
+autrefois acquit
+of help in this
+case.  I find assistance in this regard from the Supreme Court of Canada case
+cited by the Appellant of
+R. v. Mahalingan,
+2008 SCC 63
+, at para.
+39
+wherein
+McLachlin C.J. stated:
+[39]      In
+my view, it is clear that fairness to the accused requires that an accused
+should not be called upon to answer allegations of law or fact already resolved
+in his or her favour by a judicial determination on the merits. This is
+the most compelling rationale for retaining issue estoppel in criminal
+law, as it goes to the core tenets of our criminal justice system. The state
+has the right to charge an accused and to prove the facts at a trial of the
+charge. If a judge or jury conclusively decides a fact in favour of the
+accused, including via a finding of a reasonable doubt on an issue, then the
+accused should not be required in a subsequent proceeding to answer the same
+allegation. To require, in effect, a second defence of the issue would be
+to violate the fundamental function of
+res judicata
+.
+[
+22
+]
+In the instant
+case I find that these doctrines are not applicable as Marineland has not been
+called upon to answer allegations of fact or law already resolved in its favour
+by a judicial determination on the merits.  The court held that to require a
+second defence of the issue would be to violate the fundamental function of
+res
+judicata.
+Marineland was not tried and acquitted on the merits nor was a
+decision decided by triers of fact.
+[
+23
+]
+I find that in
+the instant case the notice of revocation was not akin to having factual issues
+determined one way or the other and is not an issue of “relitigation” as per
+Mahalingan
+at para.
+46
+. The only decision on the merits in this case was the original
+proceeding where it was determined by way of a stated case.
+C.        Her
+Worship incorrectly interpreted s. 30(5) of
+PAWS.
+[
+24
+]
+The Appellant
+argues that the proper approach to statutory interpretation is to read the
+words of the Act “in their entire context and in their grammatical and ordinary
+sense harmoniously with the scheme of the Act, the object of the Act and the
+intention of Parliament.”  The Appellant cites
+Wawanesa Mutual Insurance
+Company v. Axa Insurance (Canada),
+2012 ONCA 592
+, at paras.
+33-35
+for this
+proposition.
+[
+25
+]
+I find paras.
+34 and 35 of
+Wawanesa
+of assistance:
+[34]      The purposive
+approach to statutory interpretation requires the court to take the following
+three steps: (1) it must examine the words of the provision in their ordinary
+and grammatical sense; (2) it must consider the entire context that the
+provision is located within (
+Bell Expressview
+, at para. 27); and (3) it
+must consider whether the proposed interpretation produces a just and
+reasonable result (
+Bapoo v. Co-Operators General Insurance Co.
+(1997),
+1997 CanLII 6320 (ON CA)
+, 36 O.R. (3d) 616, [1997] O.J. No. 5055 (C.A.), at para.
+8
+).
+[35]      The
+factors comprising the "entire context" include the history of the
+provision at issue, its place in the overall scheme of the Act, the object of
+the Act itself, and the legislature's intent in enacting the Act as a whole and
+the particular provision at issue: Pierre-Andre Coté, The Interpretation of
+Legislation in Canada, 3rd ed. (Scarborough, Ont.: Carswell, 2000), at p. 387.
+A just and reasonable result promotes applications of the Act that advance its
+purpose and avoids applications that are foolish and pointless (Ruth Sullivan,
+Sullivan on the Construction of Statutes, 5th ed. (Markham, Ont.: LexisNexis,
+2008), at p. 299).
+[
+26
+]
+Examining the
+words of the provision in their ordinary and grammatical sense, and
+upon
+consideration
+of the entire context of the
+provision and whether the proposed
+interpretation
+produces a just and reasonable result I find, the word “shall” in
+s. 30(5)
+of the
+PAWS Act
+is
+mandatory.
+[
+27
+]
+However, I find
+this is not an end to the issue because considering the words of
+s. 30(5)
+in
+their grammatical and ordinary sense harmoniously “with the scheme of the Act,
+the object and intention of Parliament” the Justice of the Peace did not err.
+[
+28
+]
+Her Worship
+considered these issues in her decision of March 7, 2024, averted her mind to
+and applied the correct test in the case before her and specifically referred
+to [
+inter alia
+]
+Wawanesa
+,
+Babos, MacPhee
+in coming to her
+conclusion to not stay the proceedings.
+[
+29
+]
+I do not find
+she erred in focusing on the meaning of revoke.  She considered it, in
+conjunction with a harmonious interpretation of the Act.  She did not fall into
+err.
+[
+30
+]
+I reject the
+Appellant’s argument in this regard.
+D.        Her
+Worship erroneously applied the test for imposing a stay of proceedings in
+determining whether an abuse of process was established.
+[
+31
+]
+I find that Her
+Worship as the Respondent agreed did conflate the test at paragraph 35 and
+following of her decision.  However, in conflating the criteria for determining
+whether there has been an abuse of process with the
+Babos
+requirements
+for determining whether a stay of proceedings was warranted I find she did not
+err.
+[
+32
+]
+I do not find
+as the Appellant asserts at paragraph 30 of their factum and in oral argument
+that this conflation “…cut the appellant’s argument for a stay off at the knees
+- had Her Worship assessed whether an abuse was established under the correct
+test, she may well have concluded that the prosecution was abusive
+before
+turning to whether a stay was appropriate.” Based on a consideration of the
+record before me, the legislation, the written materials, the case law and oral
+argument I do not find that Her Worship erred in declining to issue a stay.  I
+find in fact that she arrived at the correct result, perhaps not as cleanly and
+as concisely as she could have, but she arrived at the correct result.
+E.        Her
+Worship mischaracterized the consequences of a stay of proceedings.
+[
+33
+]
+I disagree with
+the Appellant’s argument that it is an abuse for the Ministry to issue a
+Revocation on the basis that the order had been complied with, and then
+prosecute the Appellant for the opposite. I find that the offences had
+crystallized and that the Appellant is placing undue emphasis and too narrow an
+interpretation on the issue of Revocation and not considering the overall
+context and intent of the legislation at issue.  See
+Ontario (Attorney
+General)
+v.
+Norwood Estate,
+2021 ONCA 493
+generally and para. 66.
+[
+34
+]
+When the
+Revocation notice was issued the bears were gone, there was no practical need
+to comply with the Order.  The Revocation order was a permissible step for the
+Ministry to take.  Could they have sent a letter to Marineland saying, “We have
+your bears so you don’t need to take further steps to comply with the Order?”  Yes,
+they could have, but issuing the Revocation order was a legislative step
+available to them, and they took it.
+[
+35
+]
+Her Worship did
+not err by rejecting the Appellant’s arguments.  I reject the argument that the
+Revocation order effectively erased the offences themselves and disentitles the
+Ministry from prosecuting. I reject the Appellant’s arguments and decline to
+quash the conviction and enter a stay.
+Position
+of the Respondent:
+[
+36
+]
+The Respondent
+submits that Her Worship at paragraph 35 of her decision of March 7, 2024,
+correctly sets out the criteria for determining if the residual category of
+abuse of process applies, but at paragraphs 35-39 and elsewhere in her decision
+conflates the criteria for determining whether there has been an abuse of
+process with the requirements set out
+in
+Babos
+for determining whether a
+stay of proceedings is warranted.
+[
+37
+]
+The Respondent argues
+that at paragraph 37 of Her Worship’s decision she sets out the three stay
+requirements
+in
+Babos
+, but then incorrectly characterizes these as the
+requirements for a determination of whether the residual category of abuse of
+process was made out. The Respondent fairly points out that at paragraph 38 of
+Her Worship’s decision the category for abuse of process is properly set out. 
+However, the Respondent illustrates that at paragraph 39 of her decision Her
+Worship incorrectly sets out the positions of the parties on the test for a
+stay and conflates the analysis of whether an abuse of process is made out with
+a further assessment of whether a stay is warranted.
+[
+38
+]
+The Respondent
+argues that Her Worship correctly found that the integrity of the judicial
+system was not undermined when she stated at paragraph 70 of her decision:
+70
+As the Crown submitted, granting a
+stay in this matter and not proceeding to trial where the facts of this case
+could be properly put forth would in itself bring the integrity of the judicial
+system into disrepute.  Other statutes and regulations rely on compliance as an
+expectation and deadlines hold members of society accountable. Where there are
+not potential consequences for non-compliance, such orders become meaningless. 
+Such a decision could have severe consequences to our statutory and regulatory
+regimes.  Societal interests are best served and confidence in the
+administration of justice can only be maintained by hearing this case on its
+merits.  I accept that the decision to prosecute Marineland had been undertaken
+in good faith, after appropriate deliberation, and with public interest factors
+in mind.  The application for abuse of process is denied the s. 24(1) stay will
+not be granted.  This matter will proceed to trial on its merits, with the
+defendant Marineland having entered a not guilty plea.
+R. v. Marineland of Canada Inc.,
+[2024] O.J. No. 3763
+, at para. 70
+[
+39
+]
+I accept the
+Respondent’s arguments as outlined in their factum and in oral argument before
+me.  Particularly I have reviewed and considered the Respondent’s position
+outlined in their factum at paragraphs 24-39 and I agree with them.
+[
+40
+]
+The Respondent
+in their factum at paragraphs 40-68 outline their position as to why a stay was
+not warranted.  This section of the factum is a generalized interpretation and
+argument on determining whether a stay was warranted.  The Respondent
+articulates at paragraph 52 that Marineland asserts a technical statutory
+interpretation of s. 30(5) of
+PAWS
+which nullifies an Order.  I agree
+with the Respondent’s arguments and find that Her Worship did not err in not
+staying the proceedings.  I agree as the Respondent argued that this is not an
+exceptional case or the rarest or clearest of cases warranting a stay.
+[
+41
+]
+I have
+considered the Ontario Court of Appeal decision in
+R. v. Boise Cascade
+Canada Ltd.,
+1995 CanLII 1579 (ON CA)
+, wherein the Court cites the Supreme
+Court of Canada in stating:
+Wilson J. affirmed this
+statement
+in
+R. v. Keyowski
+,
+1988 CanLII 74 (SCC)
+,
+[1988] 1 S.C.R. 657
+at pp. 658-59,
+40
+C.C.C. (3d) 481
+at p. 482
+:
+A stay should be
+granted where "compelling an accused to stand trial would violate those
+fundamental principles of justice which underlie the community's sense of fair
+play and decency", or where the proceedings are "oppressive or
+vexatious" [
+(1985),
+1985 CanLII 47 (SCC)
+,
+21 C.C.C. (3d) 7
+at p. 14,
+20 D.L.R. (4th) 651
+at p.
+658
+] [1985] 2 S.C.R. at pp. 136-7). The Court
+in
+Jewitt
+also adopted
+"the caveat added by the Court in
+Young
+that this is a power which
+can be exercised only in the 'clearest of cases'" [(p. 14 C.C.C., p. 659
+D.L.R.] p. 137.
+[
+42
+]
+I find that to grant
+a stay in this case would “…
+would violate
+those
+fundamental principles of justice which underlie the
+community's sense of fair play and decency.”
+[
+43
+]
+The
+Ontario Court of Appeal in
+Boise
+went on to note:
+More recently, writing
+for the majority
+in
+R. v. Power
+,
+1994 CanLII 126 (SCC)
+,
+[1994] 1 S.C.R. 601
+at p. 616,
+89
+C.C.C. (3d) 1
+, she held that a finding of an abuse of process "requires
+overwhelming evidence that the proceedings under scrutiny are unfair to the
+point that they are contrary to the interest of justice".
+[
+44
+]
+I also agree
+with the Respondent’s position that the Appellant in this matter as was the
+case before Her Worship implicitly observed that the Appellant is turning the
+PAWS
+into a sword and not a shield:
+I agree with Mr.
+Fenton's submission that the respondent's argument turns the principle in
+MacMillan
+Bloedel
+from a sword into a shield. The logic of the respondent's position
+dictates that once it can demonstrate construction of the crossing would cause
+a "teaspoon" of sediment to be deposited, the court should protect it
+from prosecution even if it dumped sediment in the water at will. This position
+flouts the abuse of process doctrine and the principles in
+Wholesale Travel
+.
+[
+45
+]
+I
+find as the Ontario Court of Appeal found in
+Boise
+:
+Counsel advised
+the court that Cabinet has not passed any regulations under this section. Mr.
+Cassidy submits that the Crown could have addressed the respondent's abuse of
+process argument by appropriate regulations. I agree that the Crown could have
+done so, but I do not agree that the absence of regulations enhances the respondent's
+position. The respondent must still show that prosecuting it for the sediment
+deposits caused by its inadequate construction would be unfair or oppressive.
+In my view it has not done so and the Summary Conviction Appeal Court judge
+erred in law in holding that it had. This prosecution does not offend the
+community's sense of fair play. Indeed I think that the community would be
+offended if the respondent were not prosecuted for its conduct.
+The respondent's
+situation would be different if it had complied with the conditions of its
+permit. The respondent would still have deposited sediment in the water during
+construction. But the M.N.R.'s issuance of the permit, not the respondent's
+failure to meet environmental requirements, would bring about this deposit.
+Then if the respondent were prosecuted it might have a due diligence defence or
+be entitled to a stay of proceedings for abuse of process. That situation,
+however, does not arise on the record before us. On this record prosecuting the
+respondent did not amount to an abuse of process.
+[
+46
+]
+In the case
+before me the Crown could have sent a letter advising Marineland they no longer
+needed to comply because the bears were gone.  They did not do so, but this
+does not nullify that Marineland was in breach of the order prior to the Notice
+of Revocation being issued.  The Respondent argues and this court agrees that
+in paragraphs 56-60 and in oral argument that “Marineland was obligated to
+comply with the Act.  The Act states a person must comply with the terms of an
+order until such time as it may be revoked and failure to comply with the order
+until it is revoked
+is an offence…” I find that Her Worship’s did not
+err in not entering a stay.
+The
+Standard of Review in this Proceeding:
+[
+47
+]
+The Respondent
+agrees that the Appellant at paragraph 22 of their factum set out the proper
+standard of review on this appeal when they stated:
+22.       Matters of statutory
+interpretation, and whether impugned conduct amounts to an abuse of process,
+are questions of law, reviewable on a correctness standard.  Findings of fact
+that inform whether conduct amounts to an abuse are subject to deference unless
+the trier of fact made a palpable or overriding error.  With respect to s.
+24(1)
+Charter
+remedies including stays, appellate intervention is
+“warranted only where a trial judge misdirects him or herself in law, commits a
+reviewable error of fact, or renders a decision that is so clearly wrong as to
+amount to an injustice.
+Duchesne v. St. Denis,
+2012 ONCA 699
+at para.
+7
+R. v. Derbyshire,
+2016 NSCA 67
+at paras.
+72-75
+Law Society of Saskatchewan v.
+Abrametz,
+2022 SCC
+29
+at para.
+30
+Babos
+at para.
+48
+[
+48
+]
+R. v. Babos
+,
+supra,
+at para.
+48
+:
+[48]      The standard
+of review for a remedy ordered under s. 24(1) of the
+Charter
+is
+well established.  Appellate intervention is warranted only where a trial
+judge misdirects him or herself in law, commits a reviewable error of fact, or
+renders a decision that is “so clearly wrong as to amount to an injustice” (
+Bellusci
+,
+at para. 19;
+Regan
+, at para.
+117
+;
+Tobiass
+, at
+para. 87;
+R. v. Bjelland
+,
+2009 SCC 38
+,
+[2009] 2 S.C.R. 651
+, at
+paras.
+15 and 51
+).
+[
+49
+]
+The Supreme
+Court of Canada in
+Law Society of Saskatchewan v. Abrametz
+,
+2022 SCC 29
+, at
+para.
+83
+noted
+the following:
+(2)
+Stay of
+Proceedings
+[83]      A
+stay of proceedings is the ultimate remedy for abuse of process. It is
+“ultimate” because it is “final”; the process will be permanently stayed:
+Regan
+,
+at para.
+53
+. In disciplinary matters, that means that charges will not be
+dealt with, any complaint will go unheard and the public will not be protected.
+Given these consequences, a stay should be granted only in the “clearest
+of cases”, when the abuse falls at the high end of the spectrum of seriousness:
+Blencoe
+,
+at para. 120,
+citing
+Power
+, at p. 616.
+[84]      The
+decision whether to grant a stay involves a balancing of public interests. On
+one hand, the public has an interest in ensuring that a tribunal established
+for its protection follows fair procedures, untainted by an abuse of process.
+On the other hand, the public has an interest in the resolution of
+administrative cases on the merits. A balance must be struck between
+the public interest in a
+fair administrative process untainted by
+abuse
+and the competing public interest in having the
+complaint
+decided on its merits
+:
+Blencoe
+, at paras. 118-21 and 154;
+Conway
+,
+at p. 1667;
+Robertson v. British Columbia (Commissioner, Teachers
+Act)
+,
+2014 BCCA 331
+,
+64 B.C.L.R. (5th) 258
+, at paras.
+78-80
+;
+Diaz-Rodriguez
+,
+at paras. 71-73;
+Law Society of Upper Canada v. Abbott
+,
+2017
+ONCA 525
+,
+139 O.R. (3d) 290
+, at paras.
+61-63
+(leave to appeal
+refused, [2018] 1 S.C.R. v).
+[85]      When
+faced with a proceeding that has resulted in abuse, the court or tribunal must
+ask itself: would going ahead with the proceeding result in more harm to the
+public interest than if the proceedings were permanently halted? If the
+answer is
+yes
+, then a stay of proceeding should be ordered.
+Otherwise, the application for a stay should be dismissed. In conducting this
+inquiry, the court or tribunal may have regard to whether other available
+remedies for abuse of process, short of a stay, would adequately protect the
+public’s interest in the proper administration of justice.
+Conclusion:
+[
+50
+]
+In
+considering
+the reasons of the Justice of the
+Peace they do not show a misdirection.  I find they rather show a proper
+application of
+the
+test was applied.
+[
+51
+]
+However, if a
+conflation of the test does constitute a misdirection on the law I adopt the
+curative proviso in the
+Provincial Offences Act,
+R.S.O. 1990 c. P.33:
+Orders on appeal against conviction, etc.
+120
+(1)
+On the hearing of an appeal against a
+conviction or against a finding as to the ability, because of mental disorder,
+to conduct a defence, the court by order,
+(a)
+may allow the appeal where it is of the opinion that,
+(i) the finding should
+be set aside on the ground that it is unreasonable or cannot be supported by
+the evidence,
+(ii) the judgment of
+the trial court should be set aside on the ground of a wrong decision on a
+question of law, or
+(iii)
+on any ground, there was a miscarriage of justice; or
+(b)
+may dismiss the appeal where,
+(i) the court is of the
+opinion that the appellant, although the appellant was not properly convicted
+on a count or part of an information, was properly convicted on another count
+or part of the information,
+(ii) the appeal is not
+decided in favour of the appellant on any ground mentioned in clause (a), or
+(iii) although the
+court is of the opinion that on any ground mentioned in subclause (a) (ii)
+the appeal might be decided in favour of the appellant, it is of the opinion
+that no substantial wrong or miscarriage of justice has occurred.
+Idem
+(2)
+Where the court allows an appeal under clause (1)(a),
+it shall,
+(a)
+where the appeal is from a conviction,
+(i)
+direct a finding of acquittal to be entered, or
+(ii)
+order a new trial; or
+(b)
+where the appeal is from a finding as to the ability, because of mental
+disorder, to conduct a defence, order a new trial, subject to section 44.
+Idem
+(3)
+Where the court dismisses an appeal under clause
+(1)(b), it may substitute the decision that in its opinion should have been
+made and affirm the sentence passed by the trial court or impose a sentence
+that is warranted in law.
+R.S.O. 1990, c. P.33, s. 120
+.
+[
+52
+]
+In
+coming to this conclusion that the Justice of the Peace arrived at the correct
+decision I have also considered the following cases.
+[
+53
+]
+R. v Waisanen,
+2015 ONSC 5823 (CanLII)
+, at paras.
+26-28
+:
+[26]      From his reasons for
+judgment, it is apparent that the trial judge simply did not apply the correct
+legal standard in concluding that the just and appropriate remedy in all of the
+circumstances of this case was a permanent stay of proceedings.
+[27]      As I understand the
+governing authorities, there are two categories of cases where a stay of
+proceedings may be an appropriate remedy. The first or “main” category is where
+the state misconduct compromises the fairness of the accused’s trial. The
+second or “residual” category is unrelated to trial fairness, but comprises
+cases where failing to stay the proceedings risks undermining the integrity of
+the judicial process. The test used to determine whether a stay of
+proceedings was warranted is the same in both types of cases. In either
+type of case, before a stay of proceedings is justified, the court must be
+satisfied of the following three criteria. First, there must be prejudice
+to the accused’s right to a fair trial or to the integrity of the justice
+system that will be manifested, perpetuated or aggravated through the conduct
+of the trial, or by its outcome. In other words, the remedy is directed at
+prospective, ongoing prejudice, and is not to redress past
+prejudice. Second, there must be no other alternative remedy that is
+capable of redressing the prejudice. Third, where there remains
+uncertainty over whether a stay is warranted, the court must balance the
+interests in favour of staying of proceedings, such as denouncing misconduct and
+preserving the integrity of the justice system, against society’s interest in
+having the case tried and decided on its merits. This third criterion
+requires the court to examine the particulars of the case, the circumstances of
+the accused, the nature of the charges, the interest of any victim and the
+broader interest of the community in having the particular charges disposed of
+on the merits.
+See
+R. v. Babos
+, at paras.
+30-47
+;
+R. v.
+O’Connor
+,
+1995 CanLII 51 (SCC)
+,
+[1995] 4 S.C.R. 411
+, at paras.
+68
+, 73, 75, 82;
+Canada
+(Minister of Citizenship and Immigration) v. Tobiass
+, at paras. 89-92;
+R.
+v. Regan
+, at para.
+54-57
+;
+R. v. Zarinchang
+,
+2010 ONCA
+286
+,
+[2010] O.J. No. 1548
+, at paras.
+57-61
+.
+[
+54
+]
+R. v. James
+,
+2023 ONSC 6935 (CanLII)
+, at paras.
+41-43
+:
+Issue 2: Did the trial
+judge err in declining to grant a stay of proceedings?
+[41]      The
+Appellant challenges the trial judge’s decision to deny a stay of proceedings
+as a s. 24(1) remedy for the lost in-car camera video. The standard of
+review for this decision is a highly deferential one. Moldaver J.
+held in
+R. v. Babos
+,
+2014 SCC 16
+at para.
+48
+that “Appellate intervention
+is warranted only where a trial judge misdirects him or herself in law, commits
+a reviewable error of fact, or renders a decision that is ‘so clearly wrong as
+to amount to an injustice.’”
+[42]      The
+Appellant contends that the trial judge applied the wrong standard to this
+issue, pointing to her holding that there had not been “gross negligence” on
+the part of the Crown or police and noting that “unacceptable negligence” is
+the standard to be applied in determining whether the loss of evidence amounts
+to a
+Charter
+breach.  I do not agree. The trial
+judge found a breach of the Appellant’s s. 7 right. This
+necessarily implies that she
+did
+find unacceptable
+negligence. On a fair reading of her reasons, she referred to “gross
+negligence” to situate the seriousness of this breach on the spectrum of
+unacceptably negligent conduct. I see no error.
+[43]      The
+trial judge granted a substantial remedy for the breach, finding breaches of s. 10(a)
+and 10(b) where the lost evidence would have assisted in resolving relevant
+factual issues, and excluding the breath samples. I cannot say that she
+was “clearly wrong” in finding that this remedy was sufficient and that this
+was not the clearest of cases for which a stay would be appropriate.
+[
+55
+]
+In
+this case a stay was not warranted.  The appeal is dismissed.
+Released
+:
+July 18
+th
+, 2025
+Signed
+:
+“Justice R.C.B. Watson”
+Justice R.C.B. Watson

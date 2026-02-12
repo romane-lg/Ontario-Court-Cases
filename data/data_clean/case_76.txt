@@ -1,0 +1,239 @@
+source url: https://www.canlii.org/en/on/oncj/doc/2025/2025oncj582/2025oncj582.html
+
+ontario court of justice
+citation:
+r. v. beites, 2025 oncj 582
+date: 
+2025 11 06
+court
+file no.: sudbury 4011-998-23-40102993-00
+between:
+his
+majesty the king
+— and
+—
+kimberly-ann beites
+before
+justice g. jenner
+heard
+on september 20, 2024; april 23, 2025; september 8, 2025; october 23, 2025; and
+november 6, 2025
+reasons
+for judgment released on november 6, 2025
+m. wlodarczyk..................................................................................... counsel
+for the crown
+s. von achten and d. rosso............................ legal
+representatives for the defendant
+jenner j.:
+i.
+introduction
+
+ms. kimberly-ann beites is charged with
+threatening to cause bodily harm to her son, darcy, and threatening to burn the
+business property of her daughter-in-law, andrea. both alleged threats arise
+from the same voicemail message left by the accused for darcy at his place of
+work, ‘douro’, on august 25, 2023. the voicemail was left following the
+accused’s exclusion from the funeral of her other son, miguel, who is survived
+by his spouse, marie-soleil.
+
+that the accused left the voicemail was admitted
+at trial. the recording was entered as an exhibit on consent. in the recording,
+the accused says the following:
+listen you sick demented son of a bitch. you
+know what? you guys have gone too far with me. too far. not letting me see my
+grandkids, to hug them. (inaudible) be there for my son’s funeral. well, you’ve
+gone too far buddy. you know what? you guys wanna be famous? i’ll make you
+fucking famous. mark my words. i’m gonna burn you, douro, your wife’s business.
+marie’s going down. everybody’s going down. go fuck yourself. all go to hell.
+
+was this admitted utterance a threat to a person
+or property within the meaning of
+s. 264.1
+of the
+criminal code
+? for the
+reasons that follow, i find it was both.
+ii.
+issues and positions of the parties
+
+section 264.1(1)
+of the
+criminal code
+reads as follows:
+264.1(1) every one
+commits an offence, who, in any manner, knowingly utters, conveys, or causes
+any person to receive a threat
+(a)
+to cause death or bodily harm to any person;
+(b)
+to burn, destroy or damage real or personal
+property; or
+(c)
+to kill, poison or injure an animal or bird that
+is the property of any person.
+
+the
+actus reus
+or prohibited act of a
+threat is made out where a reasonable person aware of the circumstances in
+which the words were uttered would have perceived them to be a threat of death
+or bodily harm to a person or damage to property. the reasonable person is
+informed, practical, realistic, and fully apprised of the circumstances of the
+case:
+r. v. batista,
+2008 onca 804, at paras.
+23-24.
+
+the crown need not prove the intended recipient
+was aware of the threat, or that they subjectively received it as a serious
+threat. the
+mens rea
+or requisite intent is made out if the accused subjectively
+intended the words to be conveyed to intimidate or be taken seriously. the
+accused’s intention that the words reach the threatened party or their
+intention to carry out the threat is immaterial. while the requisite intent is
+subjective, the circumstances in which the purported threat is made can matter.
+a court’s determination of what an accused actually intended may depend on
+inferences drawn from the circumstances:
+r. v. mcrae,
+2013 scc 68, at
+paras.
+10-23;
+
+because the accused admits the voicemail she
+left, my role in this trial is to examine the circumstances surrounding the
+utterance and determine whether the crown has proven the following, beyond a
+reasonable doubt:
+(i)
+that a reasonable person would perceive, in
+those circumstances, a threat to harm darcy;
+(ii)
+that a reasonable person would perceive, in
+those circumstances, a threat to burn andrea’s business—i indicate burn, rather
+than destroy or damage generally, as the count is particularized to burn; and
+(iii)
+that, examining the circumstances, the accused
+subjectively intended her words to either intimidate or be taken seriously.
+
+the crown called as witnesses darcy, andrea, and
+marie-soleil. the defence called officer caverson, the lead investigator in
+this matter.
+
+the defence theory is not that the threats made
+were not serious or threats of physical harm or damage. they were, the defence
+suggests, promises to follow through and prosecute existing civil litigation
+between the family members. the argument is that “burn” was not intended as a
+literal threat to set any person or business aflame, but rather to cut the
+various family members and their businesses down to size, in the figurative
+sense; to vindicate the accused within the ongoing family business and legal
+disputes; to triumph over them.
+
+the crown urges me to reject that theory and
+conclude that the language used in the voicemail, considered in context, would
+cause a reasonable person to fear for their person and property, and that the
+language was intended to intimidate and be taken seriously.
+iii.
+analysis
+
+my task is not to choose which of the parties’
+theories i prefer. the crown always bears the burden to prove the essential
+elements beyond a reasonable doubt. if i reject the defence’s theory on the
+evidence, i must still ask myself whether it nonetheless raises a reasonable
+doubt. i must further ask myself whether, based on the evidence i do accept,
+the essential elements of the offences are proven beyond a reasonable doubt.
+
+i conclude the crown has met its high onus in
+respect of the act and intent on both uttering threat counts. i reject the
+alternate theory advanced by the accused, and find the evidence leaves no doubt
+as to guilt. i will briefly touch on the extensive evidence tendered with
+respect to the accused’s conflicts with her family, before focusing on the most
+important piece of evidence, the voicemail itself.
+the family
+conflicts
+
+managing the scope of the circumstances to be
+examined in this trial was a challenge. the utterances were made in the context
+of a complex and tragic family dynamic. mindful of the accused’s right to make
+full answer and defence, i was reluctant to erect firm barriers. mindful of the
+need to control the trial process and ensure that the probative value of the
+evidence is not substantially outweighed by prejudice, including to the trial
+process, i was required to focus the parties at various junctures.
+
+each witness testified to a constellation of
+conflicts between the accused and other members of her family. these included
+efforts to ‘form’ the accused or have her committed for mental health reasons,
+disputes relating to dogs, a dispute related to a trespass notice, efforts to
+subject the accused to a peace bond, civil litigation relating to the family
+and the family business, and of course, the decision to exclude the accused
+from miguel’s funeral ceremony. the parties agree that these conflicts existed
+between the family members.
+
+my task in this trial is not to undertake a
+series of sub-trials to determine who was right or who was wrong in respect of
+these conflicts; who was justified, and who was being unreasonable. my task is
+to examine the circumstances in which the voicemail was left to determine
+whether a threat was intended and would have reasonably been perceived. the
+tenor of the relationship between the various family members when the voicemail
+was left matters. the nature of the issues between the parties matters. but the
+minutiae do not.
+
+while it is clear the defence takes issue with
+the reasonableness of the accused’s family members and their actions over time,
+the evidence consistently demonstrated that kimberly-ann’s relationships with
+darcy, miguel, andrea, and marie-soleil were fractured and conflict-ridden. i
+find the accused knew her family distanced themselves from her and wished to
+maintain that distance, rightly or wrongly.
+the
+voicemail recording
+
+the most important evidence is the voicemail
+itself. the recording was played in court and made an exhibit. i entirely
+reject the defence claim that the there is no evidence the voicemail was left
+in anger. the message was left in an aggressive, hostile tone of voice. it does
+not mention a legal dispute between the parties. it does not mention money at
+all. it mention’s miguel’s funeral. it mentions grandchildren. it is rooted in
+anger and hurt over the accused’s estrangement from her family. the multiple references
+to darcy and his family having gone “too far” suggest the dispute between the
+parties had reached an extreme level and would signal to a reasonable observer
+that the threatened response might be similarly extreme. the reference to
+making darcy and others “famous” is chilling. i disagree with the defence
+submission that a business-related lawsuit would tend to make someone famous.
+being victimized in a violent crime—arson, for example—is a better fit.
+
+this is not to say that there is no ambiguity
+present in the utterance. i grant that colloquially “burn” can have meanings
+other than ‘set fire to.’ it can suggest other forms of retribution, physical
+and otherwise. it can also be used in other contexts with different meanings,
+like feeling “burnt out”. likewise, the remark that family members are “going
+down” is not necessarily a reference to a physical threat.
+
+ambiguity of language can be a source of
+reasonable doubt. it does not follow that ambiguity is always a basis for
+reasonable doubt. it must be evaluated in context. ambiguity can be intended. it
+can be used to intimidate. indeed, ambiguous threats, sometimes called veiled
+threats, or subtle threats, can be a tool to achieve the threat-maker’s goal of
+intimidation while attempting to insulate them from accountability. ‘nice
+business you have there—would be a shame if anything happened to it’, for
+example. the receiver of ambiguous aggressive language may be left guessing
+about the threat-maker’s true intentions and may still, in having to account
+for all possibilities, experience fear or intimidation.
+
+that is what happened here. kimberly-ann was
+angry. she was upset about her ostracization. she wanted darcy to know there
+would be consequences; that she would get her retribution. she invoked the violent
+language of fire. she was vulgar. she wanted to intimidate darcy, andrea, and
+marie-soleil. she absolutely intended to be taken seriously. i reject the
+inference that the defence asks me draw, that the accused was only stating her
+intentions with respect to her unmentioned civil suit. i harbour no reasonable
+doubt based on that theory. i am persuaded beyond a reasonable doubt that a
+reasonable person, informed of the circumstances, including the family
+conflicts and civil suit, would become fearful of physical harm to darcy and
+property damage to andrea’s business.
+iv.
+conclusion
+
+ms. kimberly-ann beites will be found guilty on
+both counts.
+released: november 6, 2025
+signed:
+justice g. jenner

@@ -1,0 +1,331 @@
+source url: https://www.canlii.org/en/on/oncj/doc/2025/2025oncj32/2025oncj32.html
+
+citation:
+r. v. singh, 2025 oncj 32
+date: january 13, 2025
+ontario
+court of justice
+central west
+region
+brampton ontario
+b e t w
+e e n:
+his
+majesty the king
+-and-
+charan
+singh
+reasons for judgment
+duncan j.
+1.
+the defendant is charged with fail/refuse to comply
+with a demand to provide a breath sample for intoxilizer testing, contrary to s
+320.15 cc.
+2.
+at about 3:33 am on april 12 2023 an opp officer
+travelling northbound on highway 410 in brampton noticed a vehicle ahead of her
+with no lights on. it exited onto sandalwood and then made an abrupt turn at an
+intersecting street. she stopped it. the defendant was the driver.
+3.
+she told the defendant that she had stopped him
+for having no lights. she requested the usual documentation which he provided.
+she had an asd with her and made a demand for a mandatory sample at 3:38 am. after
+several attempts (she didn’t count them) she warned him of the consequences of
+refusal. he then, at 3:43, provided a suitable sample, registering a fail. he
+was arrested for impaired operation, read rtc’s and cautions and, at 3:50 am, was
+given a demand under 320.28 to provide samples for intoxilizer analysis.
+4.
+on the way to the police station, the defendant
+was angry and argumentative. on arrival at 4:31 am the defendant spoke to duty
+counsel and when taken to the breath room at 5:19 acknowledged that he was
+satisfied with the consultation.
+5.
+the arresting officer was also the qualified technician.
+she enlisted the assistance of a punjabi speaking officer though she had been
+able to communicate in english with the defendant.
+
+6.
+the breath room activity, as usual, was audio
+and video recorded. the acoustics in the room and audio record left a lot to be
+desired. it was often difficult to understand what was being said or even what
+language was being spoken. to make matters worse, there was often considerable crosstalk
+among those present. further, the audio and video on the recording was sometimes
+out of synch.
+7.
+the recording showed that the breath demand and
+cautions were read in english and, when the defendant appeared to be
+non-comprehending, were also translated. the instructions from the qt were
+brief:
+make a tight seal around the mouthpiece, take a deep breath and blow
+until i tell you to stop. there was no demonstration by the qt.
+8.
+at 5:27 he made his first “attempt” but just
+held his breath and did not blow at all. over the next 13 minutes he was given
+12 more opportunities some sounding short beeps and some sounding as long as 5
+seconds- but none of the samples were adequate or suitable in the opinion of
+the qt.
+
+9.
+as mentioned, it was often difficult to make out
+exactly what the defendant was saying but the gist of it was that he claimed he
+was blowing as long and hard as he could and that it is hard or impossible for
+anyone to blow out of their mouth while breathing in through their nose, as one
+must do to not pass out.
+10.
+in greater detail: after a few no blows and short
+blows, around the 5
+th
+attempt, the defendant produced three
+successive multi-second long blows, the longest being about 5 seconds. but they
+were not suitable because they were not long enough - he stopped too soon. the
+qt asked him “
+do you want to blow or not?”
+to which he protested “
+i
+am blowing.”
+
+he then stood up and said something inaudible but apparently conveying
+frustration. the qt directed that he sit down and he complied. he was then
+presented with the mouthpiece again, took it in his mouth but did not provide
+any air. he was again given the mouthpiece and provide a short inadequate blow.
+11.
+the qt then said “
+i am going to give you a
+couple more tries”.
+the defendant gave two very short blows. he then stood
+again and gestured again as if to say
+“that’s it.”
+
+she told him that he is going
+to be charged with refusal. the time was 5:40. he was argumentative saying that
+he did not refuse and that he blew as best he could. he talked over her
+and wagged his finger at her. she told him to sit down and, after slight
+hesitation, he complied. he calmed down and spoke with the punjabi speaking
+officer. by the gestures he made he appeared to be again explaining that he was
+trying to blow.
+12.
+the defendant then turned to the qt who was
+standing next to him at the intoxilizer machine hunched over some papers and asked
+her
+“do you want to try it again?”
+she immediately answered
+“no, i
+have already refused it (sic)and have explained it and i am not giving you any
+more time now”. it was then 5:42 am. the defendant was soon removed from
+the breath room.
+13.
+the defendant did not testify.
+analysis:
+14.
+the court of appeal in
+r v khandakar
+
+oj no 3767 (ca)
+recognized that these fact situations give rise to two
+analytically distinct questions. the first is whether the defendant can come
+within the “same transaction” window that permits a change of mind regardless
+of other circumstances. but if he is too late and does not make it through the
+window, the second question arises for determination. the court must consider
+his offer together with the evidence as a whole to determine whether the
+actus
+reus
+and
+mens rea
+have been proven beyond a reasonable doubt.
+(khandakar
+para 3, 65).
+on this question, the bona fides of his offer becomes an
+important and often crucial consideration.
+the domik
+window:
+15.
+a detainee subject to a breath demand who
+initially refuses to comply commits no offence if he later changes his mind and
+agrees to provide a sample. however, the window for him to change his mind is
+limited and he must offer his assent to comply as part of the same transaction
+as the initial refusal or refusals:
+r v domik
+oj 642(ca)
+aff
+(1979)
+2
+mvr 301
+). this rule applies to demands for a sample for roadside screening
+as well as for intoxilizer testing though the interpretation of “same
+transaction” is more limited due to the immediacy requirement for roadside
+testing:
+r v khandakar.
+16.
+the rule is not dependent on the initial refusal
+being equivocal. the leeway is extended “even if their initial refusals were unambiguous”.
+khandakar para 55.
+17.
+further, the rule is not limited to a single
+refusal followed by an offer to comply. police officers routinely give the
+subject more than one chance to blow and receive more than one refusal:
+(khandakar
+para 32). the accused in
+khandakar
+was given multiple chances to
+blow over 13 minutes and refused those multiple opportunities before changing
+his mind: (
+khandakar
+para 7). the court of appeal did not suggest that
+the trial judge was wrong in considering whether these events involved the same
+transaction. rather, the court found error only in the trial judge not properly
+considering the immediacy requirement applicable to the asd situation before
+him. in other words, he erred in treating the case before him as if it was an
+intoxilizer demand case.
+18.
+as i understand
+khandakar,
+the
+bona
+fides
+of the offer is not a consideration at this stage. this does not mean
+that a detainee can beat the breathalyzer or frustrate the process by making an
+insincere or non-genuine offer to try again. it only means that his bona fides does
+not have to be guessed at by the qt – or later determined by the court - at
+this stage. if the window is still open his sincerity will be quickly
+determined if he makes good on his offer and then provides a suitable sample. (see
+endnote to this judgment as well).
+19.
+cases of verbal refusal followed by change of
+mind are straight forward and turn on the single issue of whether the change
+and assent are part of the same transaction. in my view there is no reason in principle
+why non-verbal failure/faking cases – refusals by action - should be treated
+differently. in none of the cases that come before the court has the detainee
+actually provided the promised sample, so the sincerity or
+bona fides
+of
+the offer is as questionable in the one case as the other.
+20.
+in this case the relevant events flowed in a
+continuous line. the offer to try again was made a couple of minutes at most after
+his last blow and almost immediately after he was told he was being charged
+with refusal. the qt and the machine were still readily at hand. the defendant’s
+offer was in my view clearly part of the same transaction as his earlier
+failures to provide samples.
+21.
+the first question is therefore answered in the
+defendant’s favour. his request was timely and accommodation of it would
+involve no significant inconvenience or delay. the defendant therefore made it
+through the
+domik
+window. he had not yet committed the
+actus reus
+of the offence:
+khandakar para 1,3).
+on that basis he is entitled to a
+dismissal of the charge.
+22.
+it is unnecessary to go further and examine the
+second question, though i will do so briefly.
+mens rea
+23.
+the crown must prove the elements of the offence
+beyond a reasonable doubt. that includes proof of
+mens rea.
+24.
+as noted by the court in
+khandakar (para 19)
+there
+is a division of opinion in the case law concerning the
+mens rea
+for
+this offence, specifically, whether the crown must prove that the accused
+intentionally failed or refused to provide a breath sample, or whether it is
+enough for the crown to prove that the accused knew that their conduct would
+have this result.
+25.
+i have consistently adhered to the first view –
+that the failure must be volitional and intentional and that bona fide attempts
+to provide a sample, though failed, may negate or raise a doubt about such
+intention:
+r v sullivan;
+ o.j. no. 2799; r v westerman
+
+oj no 97.
+this view was also held and applied
+by durno j in the leading case of
+r v grant
+2014 onsc 1479.
+in
+that case the court provided a thorough discussion on how the bona fide issue
+should be analyzed and determined (paras 80-86). it is lengthy and i will not
+reproduce it here.
+26.
+the task is to determine whether the detainee intended
+to refuse or fail to provide a sample. but at what point in time? it is
+apparent that in every case of verbal refusal he has such intention when he
+initially refuses. the same could be said of those who fake and fail. but proof
+of
+mens rea
+at that point in time cannot be determinative. a wider
+inquiry is necessary, as demonstrated in
+grant,
+and evidence of
+bona
+fide
+attempts to blow or a bona fide request or offer may support a
+reasonable doubt that the subject had the necessary
+mens rea.
+27.
+in this case the defendant’s initial short and non-existent
+blows suggest that he was faking it, though it must be said that he received
+very little instruction as to how hard and long to blow. on the other hand, the
+longer blows suggest that he may have been making a genuine effort to comply on
+at least those occasions.
+28.
+whatever his intention was to that point, i find
+it impossible to conclude that his offer to try again was not genuine. rather,
+i think that, on being charged with refusal, he smartened up and, if he had
+been playing games, decided to abandon that strategy and make a genuine effort
+to provide a suitable sample.
+29.
+i have a reasonable doubt that the
+mens rea
+has been proven. the charge must be dismissed.
+endnote:
+30.
+as an endnote, i should not be taken as
+suggesting that the qt has to be excessively indulgent of the subject’s whims
+or that he has to devote hours attempting to coax samples from him. to the
+contrary i think these situations can be handled quickly and efficiently. if the
+subject offers or asks to try again and has not already been given a last
+chance warning, i suggest it would be most efficient to give him such a warning
+and then give him that last chance. the bona fides of his request will soon
+become apparent. if he fails again, the conclusion is that either his offer was
+not genuine, or he has some relevant medical condition which he can attempt to prove
+at trial. in either case the breath testing will have come to a timely
+conclusion.
+january 13 2025
+b duncan j
+c hurley
+for the defendant; m.
+otim
+for the
+crown
+
+the defendant represented by counsel did not request or
+require an interpreter at his trial.
+
+to that point the qt had conducted 220 breath tests. she
+said that she had never had a fail/refuse but had always been able to obtain
+samples from her test subjects.
+
+while i have used quotation marks, i caution that these excerpts
+are not to be considered completely accurate, given the audio difficulties mentioned.
+
+on both occasions that he stood up he said that he wanted to
+speak to the lawyer again. his request was denied. counsel has not raised a 10b
+issue but argues that this request is relevant to whether he was refusing or
+signifying that he only wanted to get further advice about continuing.
+
+the continuing vitality and authority of
+grant
+has
+recently been affirmed:
+r. v. arutunian,
+ o.j. no. 4850
+and cases cited therein

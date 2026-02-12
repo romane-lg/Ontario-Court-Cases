@@ -1,0 +1,1042 @@
+source url: https://www.canlii.org/en/on/oncj/doc/2025/2025oncj378/2025oncj378.html
+
+ontario court of justice
+citation:
+r. v. gallardo-madrid, 2025 oncj 378
+date: 
+2025 07 14
+toronto
+between:
+his
+majesty the king
+— and
+—
+ricardo gallardo-madrid
+trial
+judgment
+before
+justice brock jones
+heard
+on september 3 and 4, 2024; february 19, 20, june 25, 27, and 30, 2025
+written
+reasons provided on july 14, 2025
+a. kiran................................................................................................. counsel
+for the crown
+l. kiss.................................................................................. counsel
+for mr. gallardo-madrid
+jones j.:
+introduction
+
+on november 6, 2022, mr. tian liu and ms. jiarui lin were walking
+back from a restaurant in downtown toronto. it was a pleasant evening and
+otherwise uneventful.
+
+suddenly, without warning, a man they had never seen before
+approached them and pointed a gun at their faces. he pulled the trigger. there
+was a clicking sound. mercifully, the gun did not fire. the man then calmly
+walked away.
+
+the entire incident lasted only a few seconds. following a call
+to 911, the man responsible was arrested by toronto police service officers
+nearby.
+
+mr. gallardo-madrid is charged with four offences related to these
+events. those are two counts of assault with a weapon, one count of using an
+imitation firearm to commit an indictable offence, and one count of possession
+of a weapon for a dangerous purpose. the crown proceeded by indictment. the
+accused initially elected to be tried in the superior court of justice, and a
+preliminary hearing was held before justice newton-smith on september 25 and
+26, 2023. after appearing in the superior court, he re-elected to be tried in
+the ontario court of justice, with the consent of the crown.
+
+his trial commenced before me on september 3, 2024. the
+transcripts of the witness testimony heard by justice newton-smith (when she
+was a member of this court) at the preliminary hearing were entered as exhibits
+for my review. photographs, videos, and other items filed at the preliminary
+hearing were also admitted as exhibits.
+
+this case addresses the often complex relationship between
+extreme intoxication and the mental element required to commit a criminal
+offence. on behalf of his client, mr. kiss acknowledged that the
+actus reus
+of the offences had been proven. he argued that the crown had not established
+the
+mens rea
+of the offences beyond a reasonable doubt. he presented
+evidence that his client was in a state of drug-induced psychosis that evening
+due to his marijuana use. however, if i disagreed and found that the crown did
+prove the necessary
+mens rea, he argued that mr. gallardo-madrid should
+be declared not criminally responsible (“ncr”) under
+section 16
+of the
+criminal
+code.
+
+t
+he defence called three witnesses to
+support its position:
+1.
+dr. s. cohen, a forensic psychiatrist;
+2.
+dr. s. jain, a psychiatrist; and
+3.
+mr. gallardo-madrid.
+
+on june 25, 2025, the parties brought to my attention that mr.
+gallardo had absconded. he was somewhere in south america. ms. kiran wished to
+continue the trial in his absence, relying on
+section 475
+of the
+criminal
+code. mr. kiss agreed and informed me that he did not know when, if ever,
+his client would return to canada.
+summary of the crown’s case
+
+mr. tian liu and ms. jiarui lin are married. they were walking on
+the evening of november 6, 2022, near bathurst and dundas. ms. lin was
+pregnant.
+
+at about 6:20 pm, mr. liu saw a man walking towards them. the man
+had a gun in his hand. when mr. liu and his wife were about five metres from
+him, he turned around and pointed the gun at them. the man pulled the trigger,
+but there was a clicking sound and no bullets fired. he then walked away.
+
+mr. liu felt his life was threatened. ms. lin noticed the man pointing
+the firearm at her and her husband, but was not sure of the man’s specific
+target. the entire incident lasted only four or five seconds, but it terrified
+her.
+
+officer rowe was among the first officers at the scene. he
+located mr. gallardo-madrid, who was still holding the firearm at that time.
+after officer rowe approached him and issued demands, mr. gallardo-madrid threw
+away the firearm. he was then placed under arrest. officer rowe’s body-worn
+camera footage (“bwc”) was submitted as an exhibit, as was the in-car camera
+(“icc”) footage of mr. gallardo-madrid during his transfer to the nearest
+police station. mr. gallardo-madrid remained cooperative throughout.
+
+officers located the firearm. the parties agree that the firearm
+was a pellet gun and it was not loaded with any pellets.
+defence evidence
+dr. s. cohen
+
+dr. cohen, a forensic psychiatrist at camh since 2009, prepared
+an assessment of mr. gallardo-madrid and was qualified as an expert witness in
+the field of forensic psychiatry.
+
+dr. cohen interviewed mr. gallardo-madrid for three hours on
+march 5, 2024. he reviewed extensive material beforehand, including witness
+statements from the incident on november 6, 2022; audio and video recordings of
+mr. gallardo-madrid from various sources such as tps bwcs, the icc, and the
+booking process; and his camh medical chart, which includes clinical notes from
+other mental health professionals.
+
+mr. gallardo-madrid had more than twenty prior presentations at
+camh or other hospitals. this form part of a substantial psychiatric history.
+these were thoroughly reviewed in dr. cohen’s report and his testimony. since
+march 21, 2021, mr. gallardo-madrid has made multiple visits to camh, often showing
+signs of being acutely psychotic. he sometimes appeared very emotionally and behaviourally
+distressed. during some of these episodes, he was restrained using physical and
+chemical methods.
+
+on march 21, 2021, he arrived at the emergency department in a
+highly dysregulated state. a former roommate said he’d changed his behaviour
+over the past month. he became more isolated and withdrawn. he had physical
+altercations with other roommates. he made strange remarks. he appeared
+preoccupied with drug use, consuming cannabis daily and using psilocybin.
+
+on june 2, 2021, mr. gallardo-madrid had a violent encounter with
+university of toronto campus security. he attempted to assault the guards on
+campus and even picked up a boulder and chased the officer. he was barefoot,
+speaking nonsense, and spat and kicked the police cruiser. he had to be
+chemically restrained when he arrived at camh.
+
+he was involuntarily admitted and remained at camh until june 10.
+he reported that he used cannabis regularly and that it made him feel more
+“crazy.” he reported auditory hallucinations. he experienced paranoia and
+feared someone was trying to kill him. he also reported homicidal ideations
+towards the officer who “attacked” him in a store. he could not recall the
+specific events that led to his admission to the hospital.
+
+he later clarified that he smoked three grams of cannabis daily
+and had been using psilocybin magic mushrooms every day. he experienced bizarre
+thoughts of genocide, believed people were trying to harm him, and had
+hallucinations. on june 7, he told staff that his increased cannabis and
+psilocybin use contributed to this latest “episode.” he said he would refrain
+from consuming cannabis and psilocybin.
+
+it was unclear to the medical professionals at the time whether
+his presentation was due to a primary major mental illness, a substance-induced
+psychosis, or a combination of both. he was prescribed paliperidone 6 mg (an
+antipsychotic medication).
+
+on august 22, 2021, he returned to the camh emergency department
+requesting medical records again. he described a previous experience in may and
+june, mentioning that he needed help and felt detached from reality. at that
+time, he did not show symptoms typical of a major mental health disorder.
+however, he did admit to using half a gram of cannabis two or three weeks
+earlier.
+
+on november 5, 2021, he attended the bridging clinic at camh. he
+continued using cannabis. he was advised that he should take antipsychotic
+medication to prevent a recurrence of psychosis.
+
+mr. gallardo-madrid attended outpatient appointments at camh on
+various dates in 2022. his care was transferred to dr. jain on october 30,
+2022. a comprehensive assessment that day revealed he experienced psychotic
+symptoms despite taking antipsychotic medications and remaining abstinent from
+illicit substances. he did report using joints (without thc) 1-2 times a month.
+the “most likely” diagnosis at the time was substance-induced psychosis rather
+than a primary psychotic disorder.
+
+following his arrest for the index offences, he was held at the
+tsdc until november 10, 2022. he displayed disturbing behaviour, including
+aggressive acts such as punching his cell door. dr. patel, a forensic
+psychiatrist, assessed him on november 10. his mental state was much improved
+at that time, and he showed no signs of a major mental illness.
+
+mr. gallardo-madrid informed dr. cohen that he began using
+cannabis in 2018. he used it socially and at night as a sleep aid. he denied
+experiencing any psychotic symptoms related to substance use until his
+“psychotic break” in 2021. he also used magic mushrooms purchased online,
+taking one gram daily for about two months before his first psychotic episode. he
+also admitted to his case worker that he used cannabis in the week before the
+index offence.
+
+when asked if he believed his substance use might have directly
+caused his psychosis, mr. gallardo-madrid stated, “i thought that about the
+mushrooms…. i have been doing weed for a long time and did not have problems.”
+
+dr. cohen’s opinion was that mr. gallardo-madrid shows a pattern
+of substance-induced psychosis following cannabis and/or psilocybin mushroom use.
+he has had multiple episodes of bizarre, aggressive, and paranoid language and
+behaviour. this behaviour is “markedly discontinuous” with his usual behaviour
+and pro-social attitudes. therefore, he did not support a diagnosis of a
+primary psychotic or mood disorder (e.g., bipolar i or schizophrenia). instead,
+he concluded this was a case of drug-induced psychosis.
+
+he believed that mr. gallardo-madrid was severely psychotic at
+the time of the index offences. he was “robbed of rational choice” and could not
+genuinely understand the wrongfulness of his actions. however, the primary
+cause of his mental illness was the use of illegal substances; without using
+cannabis in the days leading up to the incident, his psychosis probably would
+not have appeared.
+
+dr. cohen concluded, therefore, that the defence of ncr was
+unavailable. he also did not believe that the psychosis caused mr.
+gallardo-madrid to be in a psychotic state akin to automatism. he could still
+act voluntarily and was aware of his surroundings.
+
+during cross-examination, ms. kiran challenged dr. cohen on his
+conclusion that mr. gallardo-madrid was acutely psychotic at the time of the
+index offences. his review of the officer’s body-worn camera footage, icc, and
+booking video did not show clear signs of behavioural dysregulation or overt
+agitation. dr. cohen testified that a person can be psychotic without being
+emotionally dysregulated. not everyone will behave the same way. some of mr.
+gallardo-madrid’s behaviour and speech were sufficiently unusual that dr. cohen
+did not change his opinion. he referenced the fact that mr. gallardo-madrid pointed
+a firearm at people without reason, the odd questions asked by mr.
+gallardo-madrid, the strange answers he gave, and some inconsistencies in his
+story, such as whether he had been drinking alcohol.
+dr. s. jain
+
+dr. jain earned her m.d. in 2015 and finished her general
+psychiatry training in 2018. she has been employed at camh since 2020 and at
+the university of toronto since 2022. her specialty is child and adolescent
+psychiatry. mr. kiss asked me to conclude that she is properly qualified to
+provide expert opinion evidence in the field of adult psychiatry. however, she
+made it clear she was not competent to be designated as an expert in forensic
+psychiatry, and neither counsel asked her to be designated in that specific
+area.
+
+her duties include working with patients after a referral,
+diagnosing their conditions, and determining appropriate treatment. she has
+diagnosed many patients with major mental health conditions, including mania
+and psychosis. at camh, she works at the slaight clinic, which specializes in
+treating patients with these conditions.
+
+dr. jain prepared a discharge summary for mr. gallardo-madrid on
+july 25, 2024, at camh. it outlined her findings based on reviewing her care
+for him over the past two years and the medications he was prescribed. she
+estimated that she would have seen him as a patient at least once a month.
+
+dr. jain diagnosed mr. gallardo-madrid with bipolar 1 disorder
+with psychotic features and moderate cannabis use disorder. she noted there was
+evidence of substance-induced psychosis. she explained that she was initially
+uncertain about the proper diagnosis; however, a few matters stood out as
+particularly significant.
+
+the first was that, despite mr. gallardo-madrid’s self-report
+that he was not using drugs, he exhibited symptoms consistent with a possible
+mental health concern. for example, he remained stable while on an injectable
+medication but continued to experience symptoms of depression. there were also
+other residual mood symptoms. this led dr. jain to lean towards concluding
+there was a primary mood disorder.
+
+dr. jain explained that psychiatry faces some inherent
+challenges. diagnoses can be complex, and a doctor’s assessment of a patient’s
+condition may change over time. she acknowledged that she based her opinion on
+her treatment and observations of mr. gallardo-madrid, as well as the camh
+records she could review. however, she did not review the materials related to
+the criminal case before the court. additionally, she did not prepare a formal
+report, as it was never requested of her.
+
+while she made this diagnosis sometime between april 2024 and
+july 2024, the condition itself could very well have manifested earlier.
+mr. gallardo-madrid
+
+mr. gallardo-madrid came to canada in 2014 to study at the
+university of toronto. he earned a bachelor’s degree in science with a focus on
+human biology and immunology. he graduated in 2019.
+
+he began working for a technology company later that same year. he
+stayed there until 2020. he was not employed for four or five months. he was
+then rehired at the same company and worked for a bank. he had a work permit
+that allowed him to stay in canada.
+
+he was first hospitalized in february 2021. since then, he has been
+admitted to the hospital about five or six times for mental health-related
+concerns. he has limited memories of his time in the hospital. he has been
+prescribed medication, including aripripizol, an antipsychotic. he was first
+prescribed that medication in the fall of 2021. however, when he was
+unemployed, he was unable to afford his medication.
+
+he admitted to using cannabis in the past and psychedelic
+mushrooms.
+
+he has a limited memory of events on november 6, 2022. he used
+marijuana over the previous four or five days. he does not recall his actions
+with the firearm or assaulting the victims. he believes he was experiencing a
+mental health episode. he had not been taking his medication for about two or
+three weeks and was also having difficulty sleeping. on that day, he felt
+paranoid and thought his roommates might try to kill him. whatever happened
+after he left his residence, his next memory is of being in police custody.
+
+he remembered getting the bb gun from a store that sold military
+gear. he thought it was “cool” to have it.
+
+during cross-examination, ms. kiran played various video files
+for mr. gallardo-madrid from november 6, 2022. these included body-worn camera
+footage of his arrest and his conversations with the transporting officers in
+their patrol car. mr. gallardo-madrid does not remember these interactions. he
+could watch himself on video, but maintained that he could not independently
+recall any of these interactions.
+
+he met with dr. jain once before november 6, 2022. the second time
+he saw her was later that year, after he was arrested.
+
+he has not used marijuana since this incident and has not
+experienced any additional mental health episodes.
+positions of the parties
+
+mr. kiss argued that the crown did not prove the necessary mental
+element for the offences. his client’s actions on november 6, 2022, show he was
+not capable of forming an intention to commit a crime. along with evidence that
+he was unable to think clearly and was unaware of the nature and quality of his
+actions, his client might have been frightened by a movie he watched earlier
+the same week. he may have also thought it was still halloween, based on the
+statements he gave to the police. mr. kiss asks me to conclude that at the time
+mr. gallardo-madrid committed the offences, he was detached from reality and
+did not appreciate what he was doing. he may have simply believed he was scaring
+someone, which is not necessarily a criminal act. whether properly
+characterized as general or specific intent offences, there is reasonable doubt
+that he formed the required
+mens rea.
+
+mr. kiss further submits that even if the crown has proven its
+case, his client should be found not criminally responsible. he does not
+dispute that dr. cohen is an accomplished expert witness whose opinion evidence
+should be given great weight. however, dr. cohen only interacted with mr.
+gallardo-madrid for approximately three hours. he was not aware of dr. jain’s
+diagnosis of bipolar i disorder at the time he formed his own opinion. if he
+had access to that information, his opinion would likely have been different.
+his conclusion that the ncr defence was not available to mr. gallardo-madrid
+must be reconsidered accordingly.
+
+by contrast, dr. jain treated mr. gallardo-madrid for a period of
+two years. the more she worked with him, the more she noticed the symptoms
+that, in her opinion, were demonstrative of a major mental illness. her
+opinion, therefore, is more reliable concerning the presence of bipolar 1
+disorder. if i accept her testimony in this regard, i can combine it with dr.
+cohen’s evidence to find that the ncr defence has been established. dr. cohen
+himself agreed that, despite his review of the voluminous medical records in
+this case, a diagnosis could have been missed in the past.
+
+mr. kiss submits that this is what happened in this case. dr.
+cohen completed his original report on may 8, 2024. dr. jain did not solidify
+her diagnosis of bipolar 1 disorder until july 24, 2024. that order of events
+matters. of note, in dr. cohen’s report, he wrote that if mr. gallardo-madrid
+were diagnosed with a primary psychotic illness, his substance use could be interpreted
+as “unmasking an inherent vulnerability to psychosis.” this statement, mr. kiss
+argues, supports his theory.
+
+ms. kiran submits that the crown has proven the required degree
+of
+mens rea
+for all the offences. in the absence of expert defence
+evidence establishing “extreme intoxication”, there is no basis to the first defence
+argument for the crimes of general intent. for the single charge of possession
+of a weapon for a dangerous purpose, which is a specific intent offence, ms.
+kiran submits the evidence demonstrates mr. gallardo-madrid did form the
+necessary level of intent.
+
+regarding the proposed ncr defence, she submits it cannot
+succeed. she asks me to accept dr. cohen's testimony regarding his ultimate
+conclusion. however, she submits that dr. cohen’s testimony that mr.
+gallardo-madrid was actively psychotic at the time due to the consumption of an
+intoxicating substance should be rejected. she invites me to conclude that mr.
+gallardo-madrid understood what he was doing was wrong and was in control of
+his behaviour, which detracts from a finding of active psychosis. the officers’
+interactions with the accused, which were almost entirely recorded on video, undermine
+dr. cohen’s opinion in this regard. she asks me to conclude that mr.
+gallardo-madrid was able to communicate with the officers and understood what
+he was doing, which is not consistent with being in a psychotic state.
+
+ms. kiran disputes that dr. jain was properly qualified as an
+expert in psychiatry for adult patients, as opposed to children and youth. even
+if i conclude her expert testimony is admissible and reliable, dr. jain did not
+have the benefit of reviewing the evidence of mr. gallardo-madrid’s offending
+behaviour on november 6, 2022, unlike dr. cohen. dr. cohen was far better
+positioned to evaluate mr. gallardo-madrid’s mental state on that date, and
+thus his conclusion that mr. gallardo-madrid was likely not suffering from a
+major mental illness should be accepted.
+
+she further submits that dr. jain’s diagnosis of an underlying
+major mental illness was only affirmed in july 2024. i should exercise extreme
+caution before determining if that diagnosis can be applied retroactively to
+the day of the offences, even if that is theoretically possible, according to
+dr. jain. but a mere possibility that mr. gallardo-madrid was affected by bi
+polar 1 disorder on november 6, 2022, is insufficient to satisfy the onus on
+the defence to establish this essential element of the ncr defence on a balance
+of probabilities. ultimately, ms. kiran invites me to conclude, on my review of
+all the evidence, that mr. gallardo-madrid was not suffering from a major
+mental illness at the time he committed the offences.
+law and analysis
+
+mr. gallardo-madrid is presumed innocent. the crown must prove
+both the
+actus reus
+and
+mens rea
+for each offence beyond a
+reasonable doubt. however, if i conclude that the crown has proven its case,
+mr. gallardo-madrid must establish, on a balance of probabilities, that he was
+ncr at the time of the offences.
+not criminally responsible
+
+section 16
+of the
+criminal code
+states:
+no
+person is criminally responsible for an act committed or an omission made while
+suffering from a mental disorder
+that rendered the person incapable of appreciating
+the nature and quality of the act or omission or of knowing that it was wrong.
+
+the burden of proof is on the party raising the ncr issue.
+
+in
+r. v. chaulk,
+ 3 s.c.r. 13013, at pp.
+1354-56, lamer c.j.c. explained the meaning of the phrase “knowing that it
+[was] wrong”, the words used now in s. 16(1), in the following terms:
+viewed from this perspective,
+it is plain to me that the term “wrong” … must mean more than simply “legally
+wrong.” in considering the capacity of a person to know whether an act is one
+that he ought or ought not to do, the inquiry cannot terminate with the
+discovery that the accused knew that the act was contrary to the formal law. a
+person may well be aware that an act is contrary to law but, by reason of
+“natural imbecility” or disease of the mind, is at the same time incapable of
+knowing that the act is morally wrong according to the moral standards of
+society.
+
+chaulk
+was also applied and explained further
+by the supreme court in
+r. v. oommen,
+1994 canlii 101
+(scc),, 2 s.c.r. 507.
+
+mclachlin j. stated the following, at pp. 518-20:
+the crux of the inquiry is
+whether the accused lacks the capacity to rationally decide whether the act is
+right or wrong and hence to make a rational choice about whether to do it or
+not. the inability to make a rational choice may result from a variety of
+dysfunctions; … these include, at a minimum, the states to which the
+psychiatrists testified in this case – delusions which make the accused
+perceive an act which is wrong as right or justifiable, and a disordered
+condition of the mind which deprives the person of the ability to rationally
+evaluate what he is doing....
+the issue is whether the
+accused possessed the capacity present in the ordinary person to know that the
+act in question was wrong having regard to the everyday standards of the
+ordinary person… the real question is whether the accused should be exempted
+from criminal responsibility because a mental disorder at the time of the act
+deprived him of the capacity for rational perception and hence rational choice
+about the rightness or wrongness of the act.
+
+section 2
+of the
+criminal code
+defines mental disorder as
+a "disease of the mind." "mental disorder" and
+"disease of the mind" are both legal terms, not medical terms: see
+r. v. stone,
+1999
+canlii 688
+(scc), at para.
+195.
+
+disease of the mind "embraces
+any illness, disorder or abnormal condition which impairs the human mind and
+its functioning, excluding, however, self-induced states caused by alcohol or
+drugs, as well as transitory mental states such as hysteria or concussion:
+r.
+v. cooper,
+1979 canlii 63 (scc),
+ 1 scr 1149,
+
+if there is a mental disorder, it
+must be shown to be linked to the accused's state of mind at the time of the
+offence. what is crucial is not so much the medical label of the condition but
+its impact on the accused's ability:
+r. v. s.h.,
+2014 onca
+303, at paras.
+75-78.
+
+unlike self-induced intoxication akin to automatism, an accused
+person who was ncr at the time of their action will have acted voluntarily.
+however, due to the connection between their mental condition and their
+conduct, they are not regarded as “guilty” in the traditional sense.
+
+the supreme court of canada addressed the intersection of the
+voluntary consumption of drugs with the deference of ncr in
+r. v. bouchard
+‐
+lebrun,
+2011
+scc 58. the accused brutally assaulted two individuals while he was in a
+psychotic condition caused by drugs he had taken a few hours earlier. as a
+result of these incidents, the accused was charged with aggravated
+assault. he tried unsuccessfully on appeal to obtain a verdict of not
+criminally responsible on account of mental disorder.
+
+the supreme court held that the ncr defence involves a two-stage
+statutory test. the first stage requires the court to assess the mental state
+of the accused, specifically whether the accused suffered from a mental
+disorder in the legal sense at the time of the alleged events. the second stage
+focuses on the effects of the mental disorder, where the court must determine
+if, due to the accused’s mental condition, the accused was incapable of knowing
+that the act or omission underlying the offence was wrong.
+
+when the mental disorder in question is psychosis resulting from
+the voluntary consumption of a substance (“toxic psychosis”), the supreme court
+held that the defence would not be available to the accused. the accused must
+be compared to a “normal” person. that comparison must be objective and may be
+based on the psychiatric evidence presented during the trial. the more the
+psychiatric evidence suggests that a person not suffering from a disease of the
+mind would have been equally susceptible to being placed in a state of toxic
+psychosis, the more justified the court would be in finding that the trigger
+for the state of psychosis was external. that would deny the accused the
+availability of
+section 16
+of the
+criminal code.
+assessing expert evidence
+
+determining whether the accused was suffering from a disease of
+the mind often depends on the testimony of expert witnesses and the distinction
+between internal causes and external factors. in
+s.h., the ontario
+court of appeal explained the issue at paras. 79-80:
+expert medical evidence about
+the cause, nature and symptoms of the abnormal condition from which an accused
+suffered and how that condition is viewed and characterized from a medical
+perspective is relevant to and admissible for a judge’s determination of
+whether the condition constitutes a disease of the mind, and thus a mental
+disorder. medical opinions are not dispositive of and sometimes of limited
+value in the ultimate decision of whether, in law, a condition amounts to a
+mental disorder:
+rabey
+(ont. c.a.), at p. 13;
+stone,
+at para.
+199; and
+luedecke, at para. 103.
+to determine whether a
+condition amounts to a disease of the mind, a trial judge is to take a holistic
+approach informed by the internal cause factor, the continuing danger factor
+and other policy considerations:
+stone, at para.
+203.
+the internal cause factor refers to a malfunctioning of the
+mind that arises from a source in the accused’s psychological or emotional
+make-up, as opposed to being produced by a specific external factor,
+such as a concussion:
+rabey
+(ont.
+c.a.), at
+para. 59.
+especially
+relevant to the continuing danger factor are the psychiatric history of the
+accused and the likelihood that the trigger alleged to have caused the
+automatistic episode will recur:
+stone,
+at para.
+214.
+
+deciding how much weight, if any, should be given to an
+individual expert’s opinion requires careful examination. in
+r. v. worrie,
+2022 onca 471, the ontario court of appeal advised trial courts on how to
+evaluate expert psychiatric evidence. the court stated at para. 102 that:
+(i) the
+probative value of expert psychiatric testimony is to be assessed in the same
+manner as any other testimony;
+(ii) a
+trier of fact is not bound by the expert psychiatric opinions even when they
+are unanimous and uncontradicted by other experts;
+(iii) there
+must be a rational foundation in the evidence to reject that expert opinion;
+(iv) it may be
+unreasonable to disregard the expert evidence particularly where the experts’
+opinions are unanimous, their evidence is uncontradicted and not seriously
+challenged, and there is nothing in the conduct of the commission of the crime
+that would raise any serious question as to the validity of the experts’
+conclusion; and
+(v) a
+rational basis for rejecting expert opinion evidence that an accused is ncr may
+consist of, among other things, a flaw in the expert’s reasoning, a frailty in
+the basis for the opinion, or a conflict between the opinion and the inferences
+that can be drawn from the other evidence.
+analysis and findings –
+mens rea
+for general intent and
+specific intent offences
+
+assault with a weapon and use of an
+imitation firearm to commit an indictable offence are general intent offences:
+see
+r. v. purcell,
+2007 onca 101, at
+para.
+16;
+r. v. munroe,
+1978 carswellns
+116
+(n.s. supreme court, appeal division) at para.
+2;
+r. v. tilley,
+2012
+carswellnfld 436 (nfld. provincial court), at para. 31.
+in
+r. v. daviault,
+1994
+canlii 61 (scc), the majority of the supreme court of
+canada held that the mental element in general intent offences is minimal. for
+an assault, it is simply an intention to commit the assault or recklessness as
+to whether the actions will constitute an assault. in most cases, the
+necessary mental element can ordinarily be inferred from the proof that the
+assault was committed.
+
+in
+r. v. brown,
+2022 scc 18, the supreme court of canada
+examined the constitutionality of
+section 33.1
+of the
+criminal code.
+this section of the
+criminal code, as drafted at the time, eliminated
+the defence of self
+‑
+induced
+intoxication, akin to automatism, when applied to the violent offences. the
+court concluded that
+section 33.1
+was unconstitutional, which
+reinstated the defence of extreme intoxication for general intent offences
+established by the supreme court in
+daviault. parliament subsequently
+passed
+bill c-28,
+an act to amend the criminal
+code (self-induced extreme intoxication), which provides that persons who
+engage in violent acts while in a state of self-induced extreme intoxication
+can be found criminally responsible for such acts if they consumed intoxicants
+in a criminally negligent manner.
+
+
+the defence is not easily accessible. justice kasirer wrote the
+following at para. 45 of
+brown
+(my emphasis added):
+it bears recalling, then, that
+most
+degrees of intoxication do not provide a defence to crimes of general intent
+like the offence of aggravated assault from which mr. brown was
+convicted on appeal. only the highest form of intoxication -- that which
+results in a person losing voluntary control of their actions -- is at issue
+here: extreme intoxication akin to automatism as a defence to violent
+crimes of general intent and, then again only intoxication that is
+self-induced.
+
+justice kasirer observed that extreme intoxication akin to
+automatism is “an exigent defence requiring the accused to show that their
+consciousness was so impaired as to deprive them of all willed control over
+their actions”: see para. 50. as stated by justice daviau in
+r. v. miskie,
+2024 oncj 145, “this rare and limited defence will only be engaged in instances
+where the intoxication is so extreme that the resulting behaviours are
+clearly
+involuntary”: see para. 80; see also
+r. v. goard,
+2014 onsc 2215, at
+paras.
+94-100.
+
+dr. cohen testified that mr. gallardo-madrid was not in a state
+of extreme intoxication akin to automatism, notwithstanding his other
+conclusions. while mr. gallardo-madrid’s mental capacity was unquestionably
+dramatically impaired on november 6, 2022, that does not necessarily establish
+he was incapable of forming the
+mens rea
+for a general intent offence.
+dr. jain did not provide any opinion evidence on this subject. having accepted
+dr. cohen’s testimony, as i will explain in the rest of this judgment, i conclude
+that mr. gallardo-madrid had the requisite
+mens rea
+for the general
+intent offences: see
+r. v. bhogal,
+2025 onca 487, at para.
+63.
+
+possession of a weapon for a dangerous purpose is, by contrast, a
+specific intent offence. to satisfy the requirements of
+s. 88(1)
+of the
+criminal
+code, the crown must establish (1) that the accused possessed a weapon; and
+(2) that the purpose of that possession was one dangerous to the public peace.
+as held by the supreme court of canada in
+r. v. kerr,
+2004 scc 44, the
+“offence is qualified in the doctrine as a specific intent crime since the
+prohibited conduct [must] be committed with an intent to achieve a particular
+result”: see para. 23.
+
+how intoxication affects a person’s ability to form the necessary
+degree of intent is qualitatively different for specific intent offences. in
+r.
+v. daley,
+2007 scc 53, the supreme court of canada held that a person who
+is not “so intoxicated as to lack [any] capacity” to form intent, may
+nonetheless raise a reasonable doubt for a specific intent offence by arguing
+that intoxication impacted their ability to exercise that capacity: at para. 40.
+a successful intoxication defence in this context requires evidence of
+“advanced” intoxication:
+daley
+at para.
+41.
+
+in
+r. v. crossley,
+2025 bcca 224, the british columbia
+court of appeal explained that “
+daley
+did not specify the kind of
+evidence necessary to meet this threshold or identify specific indicia of
+impairment that must be present for the defence to succeed”: see para. 33. the
+court of appeal provided the following list of non-exhaustive factors to
+consider at para. 37:
+•
+the nature of the act(s);
+•
+the manner in which those acts were committed;
+•
+the quantity of alcohol or drugs consumed before the offence;
+•
+whether the accused was displaying impairment at the time of the
+offence and to what extent;
+•
+evidence of purposive behaviour before, during, and after the
+offence;
+•
+and any expert evidence that may be adduced specific to
+intoxication, including its likely effect on the accused’s ability to
+appreciate the consequences of their actions.
+
+in
+r. v. budhoo,
+2015 onca 912, the ontario court of
+appeal held that an accused person’s purpose for possessing a weapon must be
+determined at the “instant of time which
+preceded
+the use of the
+weapon”: see para. 73. i therefore cannot look to mr. gallardo-madrid’s
+decision to point the firearm at his victims as being dispositive of this issue.
+i must analyze his intention when he possessed the pellet gun before using it.
+
+i am left with a reasonable doubt that mr. gallardo-madrid formed
+the specific intent of possessing the pellet gun for a dangerous purpose when
+he initially obtained it. while pointing a firearm at two innocent people is
+unquestionably criminal, dr. cohen’s expert testimony was that mr.
+gallardo-madrid was in a state of drug-induced psychosis and was “robbed of
+rational choice.” his conversations with the police after his arrest show that he
+did not appear to understand what he had done. he consumed an unknown quantity
+of marijuana over four or five days leading up to this incident.
+
+he had no memory of the events when he testified but insisted he
+did not set out that evening to harm others. to the contrary, he told dr. cohen
+he thought he took the gun “in case anything happened to me”, and “could not
+trust anyone”, which i interpret to mean he may have had it originally for some
+undefined defensive purpose.
+
+i find mr. gallardo-madrid not guilty of count four accordingly.
+analysis and findings - not criminally responsible defence
+
+i accept dr. cohen’s expert opinion evidence that mr.
+gallardo-madrid was in an acutely psychotic state at the time of the offences
+due to the consumption of marijuana. that rendered him incapable of
+understanding the wrongfulness of his actions.
+
+dr. cohen conducted a comprehensive and detailed assessment of
+mr. gallardo-madrid. he interviewed mr. gallardo-madrid and gathered
+information from various sources, including audio and video footage of the
+accused from that night, witness statements, police reports, an extensive
+medical history from camh, and a discussion with dr. jain, another treating
+psychiatrist, on april 29, 2024.
+
+he testified clearly. he has decades of experience in his field
+and a strong record of academic and professional achievements. he has been
+qualified as an expert witness hundreds of times.
+
+dr. cohen testified that mr. gallardo-madrid showed signs of
+mental health issues in march 2021. the month before, in february 2021, he fell
+off his bicycle and hit his head. he then started smoking cannabis and using
+magic mushrooms. there was no recorded history of psychiatric problems before
+that year.
+
+after that entry point, there were between 20 and 30
+presentations at camh or another hospital. these were often associated with the
+use of drugs and other substances, including marijuana or magic mushrooms.
+
+dr. cohen testified that ingesting marijuana can cause a
+psychotic reaction. this depends on factors such as the potency of the thc
+strain in the marijuana. it can happen within minutes to hours, and the
+psychotic state may last for hours to days. for some individuals, it can last a
+month or longer. the combination of marijuana and psilocybin can also induce a
+psychotic state.
+
+some patients may have an underlying major mental illness. a
+major mental illness combined with substances like marijuana can trigger a
+psychotic episode. the use of the substance may worsen that illness or reveal a
+vulnerability.
+
+dr. cohen reviewed the evidence regarding the offences and
+concluded mr. gallardo-madrid was detached from reality. he was acting
+nonsensically and appeared psychotic. mr. gallardo-madrid admitted to consuming
+marijuana (and possibly mushrooms).
+
+regarding the facts of this case and the disputed areas, he
+answered various questions about the circumstances surrounding the offences
+directly and clearly. for example, in response to questioning by the crown, he
+was able to explain why the absence of signs of overt dysregulated behaviour at
+the time of the assault by mr. gallardo-madrid was not necessary for a
+determination that he had acute psychosis.
+
+he explained why he did not need to include all “data points,” as
+he called them, to give a dependable opinion. he was emphatic that it is
+incorrect to depend on a stereotypical idea of how someone will behave if they
+are “psychotic.” that is not true from a clinical perspective.
+
+in support of his conclusion, dr. cohen explained that there was
+substantial evidence showing mr. gallardo-madrid was acting strangely on the
+night in question, which was inconsistent with his typical pro-social
+behaviour. this included witness statements and police body-worn camera footage
+of mr. gallardo-madrid upon their arrival. dr. cohen also considered mr.
+gallardo-madrid’s self-report that he had consumed marijuana, which could
+explain how he entered a psychotic state.
+
+psychosis refers to a detachment from reality. the manifestation
+of that condition can vary from person to person. the absence of obvious signs
+of dysregulated behaviour does not mean someone is not in a state of psychosis.
+a person can be walking normally and appear calm, yet still be acutely
+psychotic. this remains true even if, in the past, the same individual showed
+very noticeable signs of erratic behaviour during a psychotic episode.
+therefore, the fact that mr. gallardo-madrid’s observable behaviour on this
+night may differ from how he has appeared previously does not necessarily mean
+psychosis can be ruled out. and, as mr. kiss noted during this closing
+submissions, mr. gallardo-madrid did engage in very violent behaviour on
+november 6, 2022, by pointing the firearm at innocent members of the public.
+
+regarding the defence position of an underlying major mental
+illness, dr. cohen acknowledged that such a diagnosis could have been
+overlooked previously. he noted that on april 29, 2024, dr. jain reported,
+based on her interactions with mr. gallardo-madrid, that she suspected bipolar
+disorder might be more likely than previously thought, considering his history
+with camh, his depressive episodes, and his marked sensitivity to substance
+use. he also considered that dr. jain concluded that “bipolar i with psychotic
+features” may align with mr. gallardo-madrid’s documented history.
+
+yet. dr. cohen was firm that mr. gallardo-madrid’s dysregulation
+would not have occurred without the use of substances, and he was not convinced
+he should be diagnosed with a major mental illness at the time of the assault.
+
+i find no fault with dr. cohen’s testimony. as per the court of
+appeal’s decision in
+worrie, supra, i have no rational basis to reject
+it.
+
+i do not believe that the video recordings showing mr.
+gallardo-madrid speaking to the officers and answering questions detract from
+this finding. as dr. cohen testified, a person can be in a psychotic state and
+still appear superficially “normal.” the ability to respond to questions does
+not necessarily mean the person is not in a psychotic state. there is a
+difference between audible speech, which includes complete sentences and proper
+dialogue, and what the speech patterns reveal about the underlying thought
+process of the declarant. i rely on dr. cohen’s testimony in this matter, which
+i accept. i find no inconsistency between his expert opinion and mr.
+gallardo-madrid's appearance on november 6, 2022, as shown in the police video
+footage entered into evidence.
+
+the defence, in essence, argues that i can accept parts of dr.
+cohen’s testimony but reject his conclusion that mr. gallardo-madrid was not
+suffering from a mental disorder at the time. instead, i could accept dr. jain’s
+opinion that he was suffering from bipolar i and combine that with the rest of
+dr. cohen’s opinion, thereby establishing that the ncr defence has been proven.
+dr. cohen agreed that if the accused were correctly diagnosed with a major
+mental illness, that would be the key piece needed to establish a finding of
+ncr.
+
+i agree this is theoretically possible. i am heavily indebted to
+the decision of justice fairgrieve in
+r. v. hannah,
+2020 oncj 409, where
+my colleague provides a summary of the relevant jurisprudence.
+
+in
+r. v. molodowic,
+2000 csc 16 (canlii), 2000 scc 16, arbour j. made
+the following observation about expert psychiatric testimony at para. 15:
+the appreciation of the import
+of expert psychiatric evidence must be a realistic and reasonable one. expert
+evidence, be it in the field of psychiatry or some other field, does not always
+provide a dispositive answer to questions of fact raised in an adjudicative
+legal context. in
+addington v. texas, 441 u.s. 418 (1979), in
+rejecting the “beyond a reasonable doubt” standard as inappropriate in civil
+commitment proceedings, the united states supreme court said (at p. 430):
+the subtleties and nuances of
+psychiatric diagnosis render certainties virtually beyond reach in most
+situations. the reasonable doubt standard of criminal law functions in its
+realm because there the standard is addressed to specific, knowable facts.
+psychiatric diagnosis, in contrast, is to a large extent based on medical
+“impressions” drawn from subjective analysis and filtered through the
+experience of the diagnostician. this process often makes it very difficult for
+the expert physician to offer definite conclusions about any particular
+patient.
+
+arbour j. cautioned that “the nature and limits of psychiatric
+expertise” must be kept in mind when assessing whether a party has established
+“the defence of mental disorder” on a balance of probabilities.
+
+after careful consideration, i conclude that i prefer the
+testimony of dr. cohen over that of dr. jain on the disputed matter of whether
+mr. gallardo-madrid had a major mental illness at the time of the offences.
+indeed, i do not find that dr. jain’s testimony provides a sufficient basis for
+concluding mr. gallardo-madrid suffered from bipolar 1 disorder on november 6,
+2022, as opposed to sometime between april and july of 2024, when she was able
+to diagnose him with this condition.
+
+dr. cohen has considerably more professional experience. based on
+his review of the relevant medical records, he prepared a detailed report,
+taking into account mr. gallardo-madrid’s history with camh and other
+hospitals. he examined all the evidence gathered by the police regarding the
+offences and mr. gallardo-madrid’s conduct at the time of his arrest while in
+custody. he was open-minded and fair when giving his testimony. he did consider
+the possibility of a major mental illness and that one could be diagnosed at
+any point. however, he was not convinced that a mental illness was present
+during this incident.
+
+dr. jain based her conclusions on her personal experiences with
+mr. gallardo-madrid. her initial opinion on october 30, 2022, was that his
+psychotic symptoms were “most likely” caused by substance-induced psychosis.
+her opinion changed sometime between april 2024 and july 25, 2024. even if i
+accept dr. jain’s evidence that mr. gallardo-madrid was properly diagnosed with
+bipolar 1 disorder by july 25, 2024, she did not testify that he would likely
+have had this diagnosis at or around november 6, 2022. her opinion, dated
+october 30, 2022, was the opposite, which i note was just a week before the
+incident. although she suggested in court that the condition might have
+appeared earlier than 2024, the lack of clarity in her answers significantly
+reduces the weight i can give to this aspect of her testimony.
+
+dr. jain explained that her diagnosis evolved as she gathered
+more information and got to know her patient better. she said that a mental
+health condition can be temporary and change over time. however, her changing assessment
+of mr. gallardo-madrid’s mental health highlights the difficulty she faced when
+asked to provide an opinion about his condition on or about november 6, 2022.
+
+mr. kiss directed me to the decision in
+hannah,
+and the
+authorities reviewed therein to show how it is possible to combine different
+sources of evidence that the court accepts to make an ncr finding, even if no
+single expert witness reached that conclusion. again, i agree this is possible.
+
+importantly, i emphasize that dr. cohen was not convinced, based
+on a full review of the evidence he examined, that mr. gallardo-madrid was
+suffering from a major mental illness at the time of the assaults. during
+cross-examination, he considered dr. jain’s opinion on july 25, 2024, but
+maintained his stance. i accept his testimony and favor his opinion evidence on
+this issue, which is decisive of the matter.
+
+as dr. cohen testified, the reaction of a normal person to taking
+the drugs identified in this case could lead to a state of acute psychosis. i
+find that the onset of mr. gallardo-madrid’s psychotic symptoms after he consumed
+drugs indicates that an external factor likely triggered his psychosis. i
+note that both doctors agreed that mr. gallardo-madrid’s psychotic symptoms are
+not constantly present, which also suggests that an external factor causes them.
+
+before concluding this matter, i offer the following commentary.
+dr. jain was an impressive witness. her academic and professional credentials
+are outstanding. i find she is qualified to provide expert opinion evidence in
+the area of adult psychiatry despite her specialization being in child and
+adolescent psychiatry. my references to her testimony should be viewed
+accordingly. she testified fairly and thoroughly. however, her opinion that mr.
+gallardo-madrid had a major mental illness at some point between april and july
+2024 cannot be directly applied to events that occurred nearly two years
+earlier. my preference for dr. cohen’s opinion is based on the reasons i have
+previously outlined, and nothing in this judgment should be interpreted as any
+criticism of dr. jain. on her admission, she lacks expertise in forensic
+psychiatry, and she was not provided with the same level of information
+concerning the events central to this trial that dr. cohen was able to access.
+
+for clarity, i accept mr. gallardo-madrid’s testimony that he
+does not remember what happened on november 6, 2022 when he committed the
+offences, despite the video recordings demonstrating that he could answer
+questions from the police officers. that is entirely consistent with dr.
+cohen’s testimony.
+
+nevertheless, considering all the evidence presented, i am not
+convinced that the defence of ncr has been established on a balance of
+probabilities. however, i am satisfied that mr. gallardo-madrid was actively
+psychotic at the time of the assaults due to the consumption of cannabis, and,
+therefore, did not know that what he was doing was wrong. nevertheless, in
+these circumstances, the defence is unavailable:
+bouchard
+‐
+lebrun,
+supra.
+conclusion
+
+i find mr. gallardo-madrid guilty of counts 1-3,
+the general intent offences.
+released: july 14, 2025
+signed:
+justice brock jones
+
+in force june 23, 2022.

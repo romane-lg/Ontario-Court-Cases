@@ -1,0 +1,598 @@
+source url: https://www.canlii.org/en/on/oncj/doc/2025/2025oncj635/2025oncj635.html
+
+ontario court of justice
+citation:
+r. v. threja, 2025 oncj 635
+date: 
+2025 12 02
+court
+file no.: brampton #24-31101792
+between:
+his
+majesty the king
+— and
+—
+kashish threja
+before
+justice f. a. mccracken
+heard
+on july 10, 11, october 1, 23, 2025
+reasons
+for judgment released on december 2, 2025
+m. moser............................................................................................... counsel
+for the crown
+e. sinclair....................................................... counsel
+for the defendant kashish threja
+mccracken j.:
+
+this matter arises from a motor vehicle collision on february 8, 2024,
+which resulted in mr. kashish threja being charged with the offences that were
+the subject of this trial – impaired operation and over 80. the defence has
+advanced a
+charter
+application alleging breaches of sections 8, 9 and
+10(b). the defence concedes that the over 80 charge rises and falls on this
+application. the impaired count does not.
+
+the crown called three witnesses on this trial. the first was danial
+danial, a civilian who testified that he was driving his black honda cr-v
+through the intersection of soft needlewood and peter robertson at
+approximately 12:42am on february 8, 2024. he stated that the intersection was
+controlled by an all-way stop. after stopping and proceeding into the
+intersection, his vehicl­e was struck on the front passenger side by another
+vehicle approaching from his right. he described the impact as sudden and
+forceful, causing both vehicles to move and deploy their airbags. he did not
+see the other vehicle before the collision and could not estimate its speed
+other than to say it was “fast.” following the impact, he remained in his
+vehicle for about a minute, feeling shocked and disoriented, before exiting and
+calling a friend. he did not speak to anyone at the scene other than the
+police, who arrived shortly thereafter. he also testified to injuries to his
+thumb, neck, shoulders, and ankle, which required hospital treatment and
+ongoing physiotherapy. importantly, mr. danial’s account was not known to the police
+at the time that mr. threja was arrested and the breath demand was made. i am aware
+that i cannot rely on it in assessing the officers’ grounds.
+
+the second witness was constable brianna gilfoy, the arresting officer.
+she testified that she arrived at the scene at approximately 12:32am and
+initially conducted a highway traffic act investigation. she observed two
+severely damaged vehicles with deployed airbags and was advised by firefighters
+that the occupants had been medically cleared. constable gilfoy identified the
+accused as one of the drivers and described him as appearing “very
+disoriented,” with red, glossy, bloodshot eyes. she testified that she detected
+an odour of alcohol emanating from his breath and observed several empty beer
+cans in his vehicle. she asked the accused three times for his driver’s
+license, which he failed to produce. based on these observations, she formed
+grounds to arrest him for impaired operation at 12:35am. constable gilfoy
+acknowledged under cross-examination that her notes were not strictly
+chronological and that she exaggerated on video about the number of times she
+requested the license. she also conceded that her demonstration of
+disorientation was “dramatic,” but maintained that her observations were
+genuine.
+
+the third witness was constable amanpreet kandola, who arrived shortly
+after the arrest and took over custody of the accused when it became apparent
+that he preferred to receive his rights in punjabi. kandola testified that she
+began reading the accused his rights to counsel in punjabi at 12:47am (i note
+here, that the body-worn camera footage shows this as 12:46am), followed by the
+caution at 12:51am and the breath demand at 12:52am. she confirmed that the
+accused asked to speak with his brother during the rights advisory but did not
+indicate that the purpose was to obtain a lawyer’s contact information. kandola
+facilitated contact with duty counsel, who ultimately spoke with the accused in
+punjabi before the breath tests were administered.
+
+on the
+charter
+voir dire, mr. threja testified that he asked to
+speak with his brother because he wanted his brother to provide him with a
+lawyer’s contact information. he claimed that he repeated this request both at
+the scene and at the station, but acknowledged that he did not tell the
+officers the reason for the request. he stated that he felt prevented from
+making the call because the officers were “yelling” and appeared aggressive,
+which led him to believe he was not permitted to speak with his brother. he
+confirmed that he ultimately spoke with duty counsel in punjabi before
+providing breath samples, but maintained that this was not the lawyer he wished
+to consult.
+the issues
+
+the issues that i need to decide in this case are as follows:
+
+first, whether the arrest and subsequent breath demand contravened
+sections 8 and 9 of the
+charter. the defence contends that cst. gilfoy
+lacked reasonable and probable grounds to believe the accused’s ability to
+operate a motor vehicle was impaired by alcohol, rendering the detention
+arbitrary and the seizure unlawful.
+
+second, whether there was an infringement of section 10(b) arising from
+delay in the provision of the right to counsel “without delay.” the accused was
+arrested at 12:35am, yet his rights were not communicated in punjabi—a language
+he requested and understood—until 12:46am the defence submits that this
+interval constitutes an unjustified suspension of a constitutional guarantee.
+
+third, whether the police failed to respect the accused’s right to
+counsel of choice under section 10(b). while being advised of his rights, the
+accused asked to speak with his brother. he testified that his purpose was to
+obtain his brother’s lawyer’s contact information. the defence argues that the
+officers’ failure to inquire further or facilitate this request amounted to a
+breach of the
+charter.
+
+fourth,
+the determination of the charge of impaired operation, which requires an
+assessment of whether the evidence establishes beyond a reasonable doubt that
+the accused’s ability to operate a conveyance was impaired by alcohol.
+issue #1: grounds for arrest and demand
+
+mr.
+threja asserts that the police violated his right to be free from unreasonable
+search and seizure – and arbitrary detention – by arresting him and demanding
+samples of his breath without the requisite grounds. specifically, he alleges
+that the police lacked grounds that he was impaired.
+
+as
+mr. threja’s breath samples were seized without prior judicial authorization,
+that seizure is presumptively unreasonable. the onus rests on the crown to
+justify the demand for samples of his breath.
+
+section
+320.28
+of the
+criminal code
+authorizes a peace officer to make a breath
+demand where that officer has reasonable grounds to believe that a person has
+operated a conveyance while their ability to do so was impaired by alcohol. it
+is this section of the
+criminal code
+that the crown and police rely upon
+to justify the breath demand in this case.
+
+reasonable
+grounds contemplates a higher standard than ‘reasonable suspicion’ – which is a
+lower standard that can justify an approved screening device demand. however,
+it is not the same as a ‘prima facie’ case, nor does it approach ‘proof beyond
+a reasonable doubt’ required for conviction.
+
+reasonable
+grounds includes both a subjective and objective component. the officer making
+the demand must subjectively believe that the statutory pre-condition is met –
+that is that mr. threja operated a conveyance while his ability to do so was
+impaired by alcohol. and, that belief must be supported by grounds that are
+objectively reasonable. see
+storrey,
+1990 canlii 125 (scc), 1 s.c.r. 241 at paras.
+16-17.
+
+the
+subjective branch of reasonable grounds to believe only requires that an
+officer have an honest belief that the person has operated a conveyance while
+their ability to do so was impaired by alcohol. in the context of this case,
+as long as i accept constable gilfoy’s evidence that she had this subjective
+belief – which was not seriously contested by defence, and which i do accept –
+the subjective branch of the test is met. see
+rodriguez,
+ o.j.
+no. 2592 (s.c.j.) at para. 20
+and
+tanner,
+ o.j. no. 3357 (c.j.) at
+para. 23.
+
+parliament
+did not denote degrees of impairment when setting the standard for either the
+offence of impaired driving or making a breath demand. any impairment – even
+slight impairment due to consumption of alcohol – is sufficient.
+
+i
+accept constable gilfoy’s evidence that she observed the accused’s eyes to be
+red, glossy, and bloodshot. i also accept her observation that the accused
+appeared disoriented. while there are alternative explanations for
+disorientation, including the fact that the accused had just been involved in a
+collision, the police are not required to engage in the kind of judicial
+weighing that a court has the luxury of performing after the fact. i further
+accept that constable gilfoy detected an odour of alcohol emanating from the
+accused’s breath. she provided an adequate explanation for the sequence of her
+notes, and as is evident from the body-worn camera footage, her notes were not
+made contemporaneously with the formation of grounds.
+
+i
+also accept that she observed beer cans in the vehicle, albeit in the passenger
+areas. while one can in the console was a coke can, the presence of beer cans,
+taken together with her other observations, is a factor supporting her grounds.
+
+i
+do not find that mr. threja’s failure to produce a driver’s license after
+repeated requests meaningfully contributed to the grounds. the body-worn camera
+footage played during the trial demonstrates that the accused was responsive to
+the officer’s requests. constable gilfoy acknowledged exaggerating the number
+of times she asked for the license when speaking to constable kandola; however,
+when considered alongside her other observations and my own review of the
+footage, i do not find that this exaggeration undermines her credibility or
+reliability.
+
+the
+circumstances of the collision do not assist in supporting grounds in this
+case. constable gilfoy testified that she did not consider the collision
+because its circumstances were not known to her at the time of arrest and
+demand.
+
+each
+of these grounds, taken individually, may be weak and capable of alternative
+explanations. however, when considered cumulatively and in light of
+parliament’s decision to authorize a demand where impairment by alcohol may
+range from slight to extreme, i am satisfied that constable gilfoy’s grounds
+were objectively reasonable. the arrest and the subsequent breath demand were
+authorized by law. there is no breach of sections 8 or 9 of the
+charter.
+issue #2: section 10(b) delay and language
+
+constable
+gilfoy arrested mr. threja at 12:35am. she attempted to inform him of his right
+to counsel at 12:39pm but aborted that attempt at 12:41am when it became clear
+that he did not understand and when he asked to be spoken to in punjabi. 
+constable kandola, the other officer who was on-scene with constable gilfoy
+spoke punjabi. she began informing mr. threja of his right to counsel in
+punjabi at 12:46am.
+
+on
+behalf of mr. threja, counsel argues that this 11-minute delay amounts to a
+breach of his section 10(b)
+charter
+right to be informed of his right to
+counsel
+without delay.
+
+i
+intend to review the evidence in more detail, but before i do so i will outline
+the governing principles that apply this issue.
+
+section
+10(b) of the
+charter
+states that “everyone has the right on arrest or
+detention to retain and instruct counsel
+without delay
+and to be
+informed of that right.”
+
+in
+suberu
+2009 scc 33
+the supreme court of canada confirmed that “without
+delay” means “immediately” for the purposes of this right. that immediacy
+requirement though is subject to concerns for officer safety, or safety of the
+public, and other such limitations as prescribed by law and justified under
+section 1 of the
+charter. see
+suberu
+at para.
+42.
+
+as
+the court of appeal held in
+la
+2018 onca 830
+at para
+39, a generalized
+theoretical concern for officer safety cannot justify a suspension of a
+detainee’s right to counsel. rather, the inquiry must be fact and context-specific
+based on the evidence heard in any particular case.
+
+courts
+have reached different conclusions on whether various delays comply with or
+breach the immediacy requirement.
+
+for
+example, in
+davis
+2023 onca 227, the court of appeal agreed with both
+the trial judge and the summary conviction appeal judge that an 8-minute delay
+amounted to a breach of the immediacy requirement. importantly, in that case,
+the arresting officer could not account satisfactorily of the delay, had no
+notes of what transpired during the delay, and there was other evidence that
+contradicted the officer’s testimony on this point.
+
+by
+way of contrast, in
+pileggi
+2021 onca 4, the court of appeal held that a
+“brief” 7-minute delay for the police to secure the residence in the context of
+the execution of a search warrant did not violate the immediacy requirement. 
+citing
+suberu, the court held that there were legitimate officer safety
+concerns justifying the delay.
+
+similarly,
+in
+haist
+2023 onca 465, the court of appeal found no fault with a
+5-minute delay to secure the accused for safety.
+
+there
+are countless other cases that find both breach and no breach of the immediacy
+requirement. but the governing principle remains that a detainee must be
+informed of his or her right to counsel immediately. that immediacy
+requirement only yields to case-specific officer or public safety concerns, or
+other limitations can be justified under s. 1 of the
+charter.
+
+as
+i have already indicated, mr. threja was arrested at 12:35am. he was handcuffed
+and escorted through the scene – which was crowded with onlookers – to a police
+cruiser, arriving about 1-minute later, at 12:36am. upon arrival constable
+gilfoy instructs constable kandola to get the other driver’s information and
+says that she will be doing a ‘quick patdown’. while she appears to be putting
+on disposable gloves, she continues to brief constable kandola. both officers
+appear to be repeatedly approached by one or more of the onlookers.
+
+constable
+gilfoy conducts a patdown search of mr. threja, finishing it at 12:37,
+whereupon she secures him in the back of her cruiser.
+
+starting
+at 12:38, constable gilfoy gives constable kandola further instructions about
+the investigation, and then interacts briefly with a firefighter who approached
+her.
+
+she
+begins informing mr. threja of his right to counsel at 12:39, in english. in
+response to being informed that he was being “arrested for impaired operation”,
+mr. threja says “[w]hat are you saying?” when pressed by constable gilfoy to
+respond yes or no, mr. threja responds “yes” to being asked whether he
+understands. however, when he is informed that he has the right to retain and
+instruct counsel without delay he – among other things – complains that he does
+not understand the language of what constable gilfoy is saying. when constable
+gilfoy tells him that he is speaking english to her now, he says he has only
+limited english.
+
+at
+12:41, when constable gilfoy repeats what she told him, he tells her that he
+does not understand and says “please punjabi”. at this point, constable gilfoy
+stops, appears to make a note of the response, closes the door to her cruiser,
+and moves across the scene of the collision to speak with constable kandola –
+who speaks punjabi. on the way, constable gilfoy has to stop an suv from
+turning into the scene.
+
+at
+12:42, constable gilfoy explains the issue to constable kandola and says that
+she might have to explain it in punjabi. they discuss the logistics of
+transferring custody of mr. threja from one to the other along with division of
+responsibilities for the investigation and collision scene.
+
+at
+12:43, constable gilfoy shares her grounds for arrest with constable kandola.
+
+at
+12:44, she intervenes when a tow truck enters the collision scene to instruct
+it not to hook up the vehicles. shortly after, within the minute, yet another
+onlooker approaches constable gilfoy expressing concern about someone else who
+was involved in the collision, apparently as an occupant rather than driver.
+
+at
+12:46, constable gilfoy finishes briefing constable kandola. she tells mr.
+threja that he is going to a different cruiser. constable kandola takes over
+physical custody of mr. threja, and on the walk to her cruiser begins informing
+him of his right to counsel in a language that he requested and understands –
+punjabi.
+
+constable
+gilfoy testified about the reason for various periods of delay. constable
+gilfoy testified that while she understood a detainee must be informed of their
+right to counsel immediately, she was concerned about officer safety given that
+there were “a tonne of pedestrians” and that she felt that if she had people
+approaching her and she had her back to them reading rtcs, she would be in a
+vulnerable position. she highlighted that there was a lot going on and the
+number of people approaching her – a firefighter, numerous onlookers – and the
+need to direct traffic – for example, as highlighted in the body-worn camera
+footage, an suv apparently about to turn into the scene of the collision, and a
+tow truck driver. these concerns about the other individuals present and the
+need to manage the scene were corroborated by the body-worn camera footage
+filed on this trial.
+
+i
+accept constable gilfoy’s evidence about the justification for the delay in
+informing mr. threja of his right to counsel in a language that he understands,
+despite the presence of constable kandola, who speaks punjabi.
+
+while
+the totality of the delay was 11-minutes, that number does not tell the whole
+story.
+
+for
+the first four minutes of that delay, constable gilfoy was engaging in tasks
+that are well-established to justify a brief delay in right to counsel –
+handcuffing the accused, escorting him to a secure location, and then
+conducting a brief patdown search.
+
+she
+then attempted to inform of his right to counsel. within 2-minutes she
+determines that mr. threja does not understand, and in the next minute seeks
+constable kandola’s assistance. the time is now 12:42am. within about
+4-minutes – at 12:46 – constable kandola begins explaining mr. threja’s rights
+to him in punjabi. during that intervening 4-minutes – while speaking with the
+only other officer on-scene – constable gilfoy was approached by an onlooker
+who had some apparent concerns, had to direct a tow-truck driver not to hook up
+the vehicles involved in the collision, and – as she pointed out – was
+surrounded by a ‘tonne’ of pedestrians.
+
+in
+short, i find that the delay was justified both by (i) the initial officer
+safety-focused tasks of securing and searching mr. threja, (ii) the initial and
+very brief attempt by constable gilfoy to inform him of his right to counsel,
+and (iii) timely interventions to maintain and manage the scene of a collision
+as one of only two officers present.
+
+i
+also do not accept the defence argument that the failure to have constable
+kandola inform the accused initially of his right to counsel – being the
+punjabi-speaking officer on-scene – amounted to a violation of the accused’s s.
+10(b)
+charter
+rights. mr. threja was initially conversing with the
+officers in english. and, when constable gilfoy became aware – within minutes
+of his arrest – of the presence of special circumstances grounding mr. threja’s
+lack of understanding of his right to counsel, she approached constable
+kandola.
+
+in
+short, i find that the 11-minute delay in informing mr. threja of his right to
+counsel in punjabi does not violate the immediacy requirement of s. 10(b) of
+the
+charter.
+
+even
+if i am wrong, i would not have excluded the breath samples under s. 24(2) of
+the
+charter.
+
+here,
+i am mindful in assessing compliance with the immediacy requirement not to
+confuse the analysis of whether the right was breached with the analysis of the
+impact of that infringement under s. 24(2) – see
+ahmed
+2022 onca 640
+at
+para.
+36.
+
+it
+is important not to lose sight of what happened in this case. the accused was
+a driver involved in a serious collision with another member of our community –
+danial danial. on mr. danial’s evidence, which i accept, mr. threja was at
+fault for the collision, having run a stop sign. the defence seeks to exclude
+highly-reliable breath samples that would otherwise all-but establish his guilt
+of the excess blood alcohol charge. on this alleged breach, that exclusion
+would be grounded in an 11-minute roadside delay after which the accused was
+informed of his right to counsel – at the roadside – in his first language.
+
+it
+is noteworthy that peel police were able to provide rights in the accused’s
+first language within minutes of arrest. especially when viewed in light of
+the supreme court’s comments at paragraph 111 of
+grant
+with respect to
+breath samples, i would not have excluded them. even had i found a violation
+of mr. threja’s right to counsel – which often is viewed as quite serious – i
+would find that the balancing of the seriousness, impact, and society’s
+interests in an adjudication of the trial on its merits did not favour
+exclusion.
+issue #3: third-party contact and right to counsel
+
+mr.
+threja also urges me to find that the police violated his right to counsel of
+choice. while being informed of his right to counsel, he told constable
+kandola that he wanted to speak with his brother. he testified that he
+repeated that request both at the scene and the police station. he claims that
+the reason he wanted to speak with his brother was to be put in contact with
+counsel of choice. accordingly, he argues that the failure to put him in
+contact with his brother – or for the police to contact his brother – prevented
+him from exercising his
+charter
+right to counsel of choice.
+
+where
+a detainee does not tell police the reason why he wants to speak with a third
+party, there is no obligation on the police to determine why such a request was
+made. see
+al hayawi
+2023 onsc 2578,
+cheema
+2018 onsc 229
+at
+para.
+31, "when a detainee does not tell the police the reason why he or
+she wishes to speak to a third party, there is no obligation on the police to
+determine why the police made such a request", and
+mumtaz
+2019
+onsc 468
+at para.
+25. i note that the latter two decisions –
+cheema
+and
+mumtaz
+are summary conviction appeal decisions, by which i am bound.
+
+in
+this case, mr. threja did not tell the police that he wanted to speak to his
+brother in order to be put in contact with counsel of choice. he gave evidence
+that he did not do so because the officers were yelling at him and being
+aggressive. i reject that explanation. mr. threja had no problem asserting
+that he wanted to speak with his brother. if the true reason why he wanted to
+speak with his brother was to be put in contact with counsel there is nothing
+on the evidence that i have heard or the behaviour of the officers that i have
+watched on the body-worn camera that prevented him from doing so. i reject mr.
+threja’s evidence on this point.
+
+that
+is a full answer to this portion of the
+charter
+application. there was
+no breach of his right to counsel of choice by the police’s failure to accede
+to his request to speak with his brother, or to make further inquiries of mr.
+threja on this point.
+
+i
+note also that constable kandola testified – and i accept – that mr. threja did
+not express any dissatisfaction with his call to duty counsel.
+
+there
+was no infringement of mr. threja’s s. 10(b)
+charter
+right to counsel of
+choice.
+
+to
+summarize, i find no violation of mr. threja’s section 8, 9, or 10
+charter
+rights. the defence application to exclude the breath samples is dismissed.
+
+defence
+counsel properly conceded during submissions that the over 80 count rises and
+falls on the
+charter
+application. in other words, the defence concedes
+– in my view, properly – that with the admission of the breath samples, the
+evidence establishes mr. threja’s guilt on that count beyond a reasonable
+doubt. i agree, and a finding of guilt will be entered on count 2.
+issue #4: the impaired count
+
+i
+am also satisfied beyond a reasonable doubt that mr. threja operated a
+conveyance while his ability to do so was impaired by alcohol.
+
+i
+have already reviewed constable gilfoy’s evidence in my analysis of the section
+8 and 9
+charter
+application. i am mindful though that a finding of guilt
+for impaired driving requires far more exacting proof than reasonable grounds. 
+i must be satisfied that the only reasonable inference from the evidence called
+in this case is that mr. threja operated the conveyance while impaired by alcohol. 
+i must also consider presence of evidence supporting a finding that mr. threja
+was not impaired – or the absence of evidence on this issue.
+
+importantly,
+the crown called evidence that was not available to constable gilfoy at the
+time. mr. danial testified about the circumstances of the collision that i
+conclude was caused by mr. threja running an all-way stop. i accept mr.
+danial’s evidence.
+
+the
+unexplained collision – again, caused by mr. threja – combined with the
+evidence of impairment that i have already outlined – in particular, red glossy
+eyes, disorientation, the odour of alcohol on mr. threja’s breath – satisfies
+me beyond a reasonable doubt that his ability to operate his vehicle was
+impaired by alcohol. the absence of other indicia – such as stumbling, which
+was not observed by constable gilfoy, or slurring of speech – does not leave me
+in a reasonable doubt.
+
+given
+my ruling on his statement, as well as the defence concession on the over 80,
+there is no issue that mr. threja was the driver. i conclude beyond a
+reasonable doubt that he was impaired by alcohol at the time.
+
+there
+will be a finding of guilt on the charge of impaired operation – count 1.
+released: december 2, 2025
+signed:
+justice f. a. mccracken­

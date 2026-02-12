@@ -1,0 +1,734 @@
+source url: https://www.canlii.org/en/on/oncj/doc/2025/2025oncj350/2025oncj350.html
+
+citation:
+r. v. allen, 2025 oncj
+350
+date: june 25, 2025
+ontario
+ court of justice
+toronto
+between:
+his
+ majesty the king
+— 
+ and —
+trevor allen
+)
+)
+)
+)
+)
+)
+)
+)
+)
+)
+)
+)
+)
+)
+)
+)
+for
+ the crown
+t.
+ yin
+for
+ the defendant
+a.
+ longueville
+heard:
+may 1-2, 2025
+reasons for
+judgment
+russell
+silverstein, j.:
+a.
+introduction
+
+mr. allen is charged with impaired operation
+of a conveyance and with having a blood alcohol concentration equal to or
+exceeding 80 mg in 100 ml of blood within two hours of ceasing to operate a conveyance.
+
+the charges arise out of an investigation
+into mr. allen that began with an ambulance attending near st. clair avenue and
+avenue road in toronto, ontario on october 6, 2022. someone had called 911 to
+report that a man (who turned out to be mr. allen) was unresponsive behind the
+wheel of a parked car. police also attended. as a result of the police
+investigation mr. allen was arrested and, once back at the station, he eventually
+provided two samples of his breath, both times registering 270 mg of alcohol in
+100 ml of blood, according to the certificate of analysis.
+
+ms. longueville, on behalf of mr. allen, has
+brought a
+charter
+application alleging that:
+(1)
+the
+arresting officer, p.c. snider, did not promptly inform mr. allen of the reason
+for his detention, thus violating his section 10(a)
+charter
+rights.
+(2)
+p.c. snider failed to promptly inform
+mr. allen of his right to consult counsel and failed to promptly implement that
+right, in breach of s. 10(b) of the
+charter.
+(3)
+the seizure of mr. allen’s breath
+samples at the roadside constituted a s.8
+charter
+breach because the
+demand for that sample was unlawful, not having been made immediately upon p.c.
+snider developing the requisite reasonable suspicion.
+(4)
+as a result of the s.8 breach at the
+roadside, p.c. snider lacked reasonable grounds to make a demand that mr. allen
+provide breath samples into an approved instrument at the police station,
+rendering that seizure a further s. 8 breach.
+(5)
+the seizure of mr. allen’s breath
+samples at the police station was not done as soon as practicable.
+
+ms. longueville further argues that the
+numerous
+charter
+violations support the exclusion of the breath sample readings
+pursuant to s. 24(2) of the
+charter.
+
+mr. yin argues that mr. allen’s
+charter
+rights were not violated, but if they were, the violations do not support the
+exclusion of the breath sample readings.
+b.
+the
+evidence
+(a)
+introduction
+
+the trial proceeded in a blended fashion. the
+evidence relevant to the
+charter
+and trial issues consists of police
+video and audio of their interaction with mr. allen, the testimony of sheng ze
+xu, who was the emt who dealt with mr. allen, and the testimony of p.c.
+snider, the arresting officer. mr. allen did not testify nor call any evidence
+on the
+charter
+application or the trial proper.
+(b)
+mr. xu’s testimony
+
+mr. xu responded to a 911 call made by a
+passer by. when he arrived on scene mr. allen was speaking to firefighters from
+the driver’s seat of a motor vehicle that was parked up against the curb.
+
+mr. xu escorted mr. allen to the back of his
+ambulance to be medically assessed. mr. allen appeared responsive and alert,
+although his heart rate was elevated, and he seemed to be somewhat anxious.
+
+mr. xu did not note that mr. allen had any
+trouble walking nor any speech or gait issues although mr. xu was not looking
+for signs of alcohol consumption.
+
+mr. allen was confused as to where he was,
+believing he was on danforth avenue.
+he told mr. xu he
+had been parked in his car drinking vodka.
+(c)
+the salient details of mr. allen’s interaction
+with police
+
+most, but not all, of mr. allen’s interactions
+with police are clearly captured on video or audio, making fact finding
+relatively straight forward.
+
+p.c. snider drove to the scene in response
+to a radio call to the effect that there was a man passed out and unresponsive
+in the driver’s seat of a car at st. clair avenue and avenue road. as p.c.
+snider arrived on scene at 20:51 he saw mr. allen being assisted into the back
+of an ambulance by mr. xu.
+
+shortly after 20:52 p.c. snider entered the
+back of the ambulance as mr. xu was in the midst of his medical evaluation.
+p.c. snider listened as mr. allen told mr. xu that he had received a call from
+his lawyer, then left work and went to the liquor store. p.c. snider then asked
+mr. allen if he’d had anything to drink. mr. allen said yes and told p.c.
+snider that he had consumed a mickey. he also said that he had pulled his car
+over to drink.
+
+p.c. snider left the ambulance at 20:53:23
+without saying anything to mr. allen. immediately upon exiting the ambulance, p.c.
+snider told another officer on scene that they would need an approved screening
+device (asd), which he did not have with him.
+
+p.c. snider then walked a few meters to mr.
+allen’s car and looked inside with the help of a flashlight. he saw opened and
+unopened liquor bottles in the car.
+
+at 20:54:09 p.c. snider radioed for an asd
+to be delivered to him. mr. allen was still in the ambulance.
+
+at 21:08, just after the arrival of the asd,
+p.c. snider re-entered the ambulance and learned from mr. xu that the medical
+assessment was over. he had a discussion with mr. allen who again admitted that
+he had been drinking but said he did so outside the car and had not been
+“drinking and driving”. p.c. snider directed mr. allen to come out of the
+ambulance and, at 21:09:20 asked for his i.d. which mr. allen clumsily produced
+from his wallet.
+
+at 21:10, when mr. allen was standing in
+front of the police car, p.c. snider read him a formal demand for a breath
+sample into the asd which had by then arrived and had been prepared. mr. allen,
+after a couple of failed attempts, provided a sample and registered a “fail” at
+21:13:20. at 21:14 p.c. snider placed mr. allen under arrest and at 21:14:50
+informed him of his rights to counsel. mr. allen said he understood his rights
+and when asked if he wished to call a lawyer, he shook his head, indicating
+that he did not.
+
+p.c. snider then read a caution and made a
+formal demand for a breath sample into an approved instrument. mr. allen was then
+placed in the back of p.c. snider’s police car. at 21:22 p.c. snider began the
+drive to traffic services, which he was told was the closest police station
+with a breath technician.
+
+they arrived at traffic services at
+approximately 21:51. at 22:02 mr. allen‘s parade before the staff sergeant
+began. he was again read his right to counsel, and he asked for his phone so
+that he could call a lawyer. he was told that he would have that opportunity
+after the booking procedure.
+
+when again asked at 22:04 if he wanted to
+speak to a lawyer he said “i will” and was told that he only had to speak to
+one of the officers and that would be arranged through access to his cell
+phone. he was again told about the availability of duty counsel and that he
+would have reasonable access to the phone.
+
+the booking sergeant asked mr. allen a host
+of questions concerning his health and the amount of alcohol he had consumed.
+he was subjected to a level two search and his belongings were inventoried. at
+22:15 he was taken to investigative room #3. duty counsel was called immediately.
+
+p.c. snider testified that at 22:35 duty
+counsel returned a call placed to them by the police. mr. allen spoke in
+private to duty counsel. mr. allen provided his first breath sample at 22:42.
+
+even though p.c. snider did not tell mr.
+allen that he was detained, he would not have allowed mr. allen to leave the
+scene after first encountering him in the ambulance. he did not read mr. allen
+his rights to counsel while he was in the ambulance because mr. allen was still
+undergoing a medical assessment. p.c. snider felt that after speaking to mr.
+allen in the ambulance he had reasonable and probable grounds to suspect that
+mr. allen had committed the offence of impaired care and control.
+c.
+the
+alleged section 10(a) violation
+
+regardless of whether mr. allen was detained
+when p.c. snider first dealt with him in the back of the ambulance (which is
+discussed more fully below), there is no doubt that mr. allen must have
+appreciated that he was being investigated for a drinking and driving offence
+by p.c. snider. this would have been immediately apparent from the questions
+posed by p.c. snider in the back of the ambulance.
+r. v. evans,
+1991 canlii 98 (scc), 
+s.c.j. no. 31 at para.
+35;
+r. v. gardner,
+2018 onca 584
+at para.
+26.
+d.
+the
+alleged section 8 violations
+(a)
+introduction
+
+ms. longueville’s s.8 arguments come down to
+these assertions:
+(1)
+the
+seizure of mr. allen’s breath samples at the roadside constituted a s.8
+charter
+breach because the demand for that sample was unlawful, not having been made
+immediately upon p.c. snider developing the requisite reasonable suspicion.
+(2)
+as a
+result of the s.8 breach at the roadside, the asd “fail” must not be considered
+when deciding whether p.c. snider had reasonable grounds to make a demand that
+mr. allen provide breath samples into an approved instrument at the police
+station. without the asd “fail”, the officer lacked the necessary grounds to
+make a demand for a breath sample into an approved instrument, rendering that
+seizure a further s. 8 breach.
+(3)
+the
+seizure of mr. allen’s breath samples at the police station were not taken as
+soon as practicable.
+
+mr. yin disagrees with those assertions.
+
+the parties correctly agree that the
+warrantless seizure of mr. allen’s breath samples will only be
+charter
+compliant if the crown demonstrates, on a balance of probability, that the
+search was authorized by law - in this case,
+s. 320.28
+of the
+criminal code.
+r. v. collins
+1987 canlii 84 (scc), 1 s.c.r. 265;
+r. v. guenter,
+2016 onca 572
+at para.
+85.
+(b)
+did p.c. snider make a lawful screening device
+demand?
+
+insofar as p.c. snider relied on the asd
+fail for grounds to make his arrest and subsequent demand for a breath sample
+into an approved instrument it is necessary to determine whether the asd
+seizure was
+charter
+compliant.
+
+before the seizure of a suspect’s breath
+sample by the administration of an asd test can be
+charter
+complaint, it
+must be pursuant to a lawful demand. that demand is only lawful if it is made “immediately”
+upon the officer developing reasonable grounds to suspect that the suspect has
+alcohol in their body. section 320.27;
+r. v. breault,
+2023 scc 9;
+r.
+v. woods,
+2005 scc 42.
+
+exceptionally, unusual circumstances may justify
+giving the word “immediately” a more flexible interpretation than its usual
+meaning demands.
+breault
+at paras.
+7, 53-60. (in
+breault
+the court
+was addressing the word “forthwith” as it appeared in the predecessor section,
+while acknowledging that forthwith and immediately have the same meaning.)
+
+in my view, the fact that mr. allen was
+being assessed by ems meant that it was appropriate for p.c. snider to wait
+until that assessment was completed before making the asd demand. put another
+way, given this unusual circumstance, p.c. snider’s delayed demand was
+nonetheless “immediate”. the demand was lawful, and the seizure of the asd
+sample was thus
+charter
+compliant.
+(c)
+did p.c. snider make a lawful demand for a sample
+into an approved instrument?
+
+this issue comes down to whether p.c. snider
+had reasonable grounds to believe that mr. allen had operated his motor vehicle
+while impaired by alcohol. given my findings regarding the
+charter
+compliance of the asd demand, i find that the arrest and subsequent demand for
+a sample into an approved instrument were also
+charter
+compliant.
+(d)
+was the seizure of mr. allen’s breath samples at
+the police station taken as soon as practicable
+
+the approximate 30-minute delay in getting
+mr. allen to traffic services was not
+prima facie
+unreasonable and is
+explained by the fact that that was the closest station with a qualified breath
+technician.
+
+the subsequent delays such as waiting at the
+sally port and waiting for the breathalyzer to be prepared were short. the
+booking procedure was performed with alacrity. the breath samples were taken as
+soon as practicable.
+
+in the result, i find that the seizure of
+mr. allen’s breath samples into an approved instrument at traffic services was not
+in breach of his s. 8
+charter
+rights.
+e.
+the
+alleged 10(b) violations
+(a)
+introduction
+
+to reiterate, ms. longueville alleges that p.c.
+snider failed to promptly inform mr. allen of his right to consult counsel and
+failed to promptly implement that right.
+(b)
+when did mr. allen’s detention begin?
+
+it is now well settled law that the police
+must inform a detainee of his rights to counsel immediately upon detention,
+unless to do so poses undue risk to the safety of officers or the public.
+r.
+v. debot,
+1989 canlii 13 (scc), 2 s.c.r.
+1140 at paras
+3 and 42;
+r. v. suberu,
+2007 onca 60
+at paras
+47-48;
+r.
+v. pino,
+2016 onca 389.
+
+it is thus a critical first step to
+determine when mr. allen’s detention began.
+
+mr. allen was not physically restrained in
+the ambulance. p.c. snider did not tell mr. allen that he was not free to
+leave. if he was detained, his detention could only have been of a
+psychological nature.
+
+whether mr. allen was psychologically detained
+after his initial encounter with p.c. snider in the back of the ambulance is principally
+governed by four supreme court judgments:
+r. v. lafrance,
+2022 scc 32,
+r.
+v. le,
+2019 scc 34,
+r. v. grant,
+2009 scc 32, and
+r. v. suberu,
+2009 scc 33. the law on this issue can be succinctly stated as follows: even
+absent physical restraint by the state, a detention exists in situations where
+a reasonable person in the accused's shoes would feel obligated to comply...
+and that they are not free to leave".
+le, at para. 26. not every
+encounter between the state and a citizen effects a detention.
+suberu,
+at para. 3;
+le, at para. 27.
+
+three factors are to be considered and
+balanced:
+1. the
+circumstances giving rise to the encounter as they would reasonably be
+perceived by the individual;
+2. the nature of
+the police conduct; and
+3. the particular
+characteristics or circumstances of the individual where relevant
+lafrance
+at para.
+22;
+grant, at para.
+44;
+le, at para. 31.
+
+mr. allen had just
+been discovered by emergency personnel passed out behind the wheel of his car,
+which contained several open liquor bottles. p.c. snider entered the ambulance
+and asked him questions concerning his consumption of alcohol.
+
+there is no doubt
+that mr. allen realized at the time that he was not free to go and that the
+investigation into his possible criminal liability had only just begun.
+moreover, this realization was objectively reasonable.
+
+mr. allen was
+detained upon p.c. snider’s first question to him in the back of the ambulance.
+(c)
+was mr. allen’s right to be informed of his
+right to counsel upon his detention breached?
+
+section 10(b) of the
+charter
+requires
+police to inform a detainee of his right to counsel “without delay”. the
+supreme court made it clear in
+suberu,
+supra, at para. 42 that
+“without delay” means immediately.
+
+while “immediately” does not mean
+instantaneously, and police are allowed to take certain public safety issues
+into account, there was nothing preventing p.c. snider, once he learned that
+mr. allen had been drinking and occupying the driver’s seat of his car, from
+informing mr. allen that he was detained and that he had the right to consult
+counsel.
+r. v. fisk,
+2020 oncj 88;
+r. v. agnihotri,
+2019 oncj
+551;
+r. v. bernard,
+2018 onsc 5134.
+
+p.c. snider breached mr. allen’s right to be
+informed of his right to counsel upon his detention without delay.
+(d)
+the alleged failure of the police to facilitate
+access to counsel without delay.
+
+the duty to facilitate access to a lawyer
+arises immediately upon the detainee’s request to speak to counsel. where the
+police delay access to counsel the crown bears the burden of demonstrating that
+the delay was reasonable in the circumstances.
+r. v. taylor,
+2014 scc
+50, at para.
+24;
+r. v. desilva,
+2022 onca 879.
+
+in mr. allen’s case, when he was read his
+right to counsel (albeit not immediately), he clearly told p.c. snider that he
+did not want to contact counsel. when, later at the station he raised the
+possibility of wanting counsel, the police made it quite clear to him that he
+could use his cell phone and a telephone to find the number to his counsel of
+choice, or he could speak to duty counsel, which he did in fact do very soon
+after the booking was completed.
+
+no evidence was led to support the defence
+argument that mr. allen’s desire to speak to counsel was ever thwarted by the
+police. in so far as it might be concluded that mr. allen did ask to speak to
+counsel while being booked, it was perfectly acceptable for the police to
+finish the booking before setting up a call to counsel.
+r. v. samuels,
+2024
+onca 786
+at paras.
+36-37.
+f.
+section
+24(2)
+
+section 24(2) of the
+charter
+reads as
+follows:
+where,
+in proceedings under subsection (1), a court concludes that evidence was
+obtained in a manner that infringed or denied any rights or freedoms guaranteed
+by this charter, the evidence shall be excluded if it is established that,
+having regard to all the circumstances, the admission of it in the proceedings
+would bring the administration of justice into disrepute.
+
+there is no dispute as between the parties
+that if the alleged breach occurred, the breath results were obtained in a
+manner that infringed mr. allen’s
+charter
+rights.
+r. v. tim,
+2022 scc 12 (canlii), s.c.j. no. 12
+
+whether the admission of the evidence would
+bring the administration of justice into disrepute is governed by the test
+first articulated in the supreme court’s decision in
+r. v. grant,
+2009
+scc 32
+at para.
+71:
+[w]
+hether
+the admission of evidence obtained in breach of the charter would bring
+the administration of justice into disrepute engages three avenues of inquiry,
+each rooted in the public interests engaged by s. 24(2), viewed in a long-term,
+forward-looking and societal perspective. when faced with an application
+for exclusion under s. 24(2), a court must assess and balance the effect of
+admitting the evidence on society’s confidence in the justice system having
+regard to: (1) the seriousness of the charter -infringing state conduct (admission
+may send the message the justice system condones serious state misconduct), (2)
+the impact of the breach on the charter-protected interests of the accused
+(admission may send the message that individual rights count for little), and
+(3) society’s interest in the adjudication of the case on its merits. the
+court’s role on a s. 24(2) application is to balance the assessments under each
+of these lines of inquiry to determine whether, considering all the
+circumstances, admission of the evidence would bring the administration of
+justice into disrepute.
+see too
+r. v. tim,
+2022 scc 12 (canlii),
+ s.c.j. no. 12
+(a)
+the seriousness of the breach
+
+i have found one
+charter
+breach.
+
+a delay in informing a detainee of his right
+to contact counsel is always somewhat serious, but in this case the seriousness
+of the breach is mitigated by several factors:
+•
+p.c. snider did not purposely set out to trample
+on mr. allen’s
+charter
+rights. his missteps were well intentioned.
+•
+the delay in advising mr. allen of his right to
+counsel was not particularly long.
+•
+no attempts were made to elicit evidence from
+mr. allen during the delay.
+•
+all the officers who dealt with mr. allen that
+night were kind to him. he was treated with dignity and respect. the police arranged
+a call to duty counsel.
+•
+there was no evidence at trial that the
+charter
+-infringing
+conduct was systemic.
+
+i find that the breach lies at the less
+serious end of the seriousness spectrum. the breach mildly favours exclusion.
+(b)
+the impact of the breach on mr allen’s
+charter
+protected interests
+
+mr. allen did not learn of his right to
+contact counsel as soon as he should have. yet, when he was informed of that
+right after a short, albeit unconstitutional delay, he clearly told p.c. snider
+that he did not want to contact counsel. there is no evidence to support the
+proposition that the impact of the breach of the informational component of
+p.c. snider’s s. 10(b) obligations was anything other than trivial. there is
+nothing to suggest that had he been properly informed when in the back of the
+ambulance, he would have opted to contact a lawyer.
+
+this second
+grant
+factor neither
+favours admission nor exclusion.
+(c)
+society’s interest in the adjudication of the
+case on its merits
+
+the supreme court in
+tim,
+supra
+at para.
+96
+said
+this:
+the third line of inquiry considers factors
+such as the reliability of the impugned evidence and its importance to the
+crown's case. it asks "whether the truth-seeking function of the criminal
+trial process would be better served by admission of the evidence, or by its
+exclusion" (
+grant, at para.
+79
+). reliable evidence critical to the crown's
+case will generally pull toward inclusion (
+see
+grant, at paras.
+80-81;
+harrison, at paras. 33-34)
+
+the supreme court in
+harrison,
+2009 scc 34, at paras.
+33 and 34, deals with this factor as follows:
+at this
+stage, the court considers factors such as the reliability of the evidence and
+its importance to the crown’s case.
+the
+evidence of the drugs obtained as a consequence of the
+charter
+breaches
+was highly reliable. it was critical evidence, virtually conclusive of guilt on
+the offence charged.
+the evidence cannot be said to
+operate unfairly having regard to the truth-seeking function of the trial.
+while the charged offence is serious, this factor must not take on
+disproportionate significance. as
+noted in
+grant, while the public
+has a heightened interest in seeing a determination on the merits where the
+offence charged is serious, the public also has a vital interest in a justice
+system that is beyond reproach, particularly where the penal stakes for the
+accused are high. with that caveat in mind, the third line of inquiry under the
+s. 24(2) analysis favours the admission of the evidence as to do so would promote
+the public’s interest in having the case adjudicated on its merits.
+
+the evidence (the breath samples and readings) is crucial to
+the crown’s case and is highly reliable.
+
+society has an interest in seeing trials of this nature dealt
+with on their merits given the terrible toll impaired driving takes every year.
+
+i find that the third
+grant
+factor favours admission
+of the evidence.
+(d)
+balancing the three
+grant
+factors
+
+the supreme court in
+harrison,
+supra, at para.
+36
+explains the proper approach to balancing the three
+grant
+factors:
+the
+balancing exercise mandated by s. 24(2) is a qualitative one, not capable
+of mathematical precision. it is not simply a question of whether the majority
+of the relevant factors favour exclusion in a particular case. the evidence on
+each line of inquiry must be weighed in the balance, to determine whether,
+having regard to all the circumstances, admission of the evidence would bring
+the administration of justice into disrepute. dissociation of the justice
+system from police misconduct does not always trump the truth‑seeking
+interests of the criminal justice system.
+nor
+is the converse true. in all cases, it is the long-term repute of the
+administration of justice that must be assessed.
+
+the breach of mr. allen’s s. 10(b)
+charter
+rights was moderately
+serious and mildly favours exclusion of the evidence. the impact of the breach
+was minor and neither favours inclusion nor exclusion. the reliability of the
+evidence, its importance to the crown’s case, and the public interest in an
+adjudication of this case on its merits favour admission of the evidence.
+
+balancing these factors, i find that the admission of the
+evidence would not bring the administration of justice into disrepute.
+
+the breath samples are admitted.
+
+mr. allen is guilty on count #2 on the information.
+g.
+the
+impaired charge
+
+mr. allen was at the wheel of his car when
+found by emergency personnel. the car contained liquor bottles, several of them
+empty. his speech was slow and deliberate. his skin was flushed, and his eyes
+seemed glossy to p.c. snider. he told ems xu that he thought he was on danforth
+avenue. he struggled to remove his i.d. from his wallet. he told ems xu that before
+the ambulance arrived, he had been parked in his car drinking vodka.
+
+this evidence convinces me beyond a
+reasonable doubt that mr. allen’s ability to operate a motor vehicle was
+impaired by alcohol at the material time and that he was in care or control of
+his car at the time. per s. 320.11 of the
+criminal code, the word
+“operate” means “to drive…or have care or control”.
+
+i find mr. allen guilty of impaired operation
+of a conveyance; count #1 on the information.
+released on june 25,
+2025
+justice
+russell silverstein

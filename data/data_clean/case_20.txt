@@ -1,0 +1,1163 @@
+source url: https://www.canlii.org/en/on/oncj/doc/2025/2025oncj669/2025oncj669.html
+
+warning
+the court hearing this matter directs that the following notice be
+attached to the file:
+a
+non-publication and non-broadcast order in this proceeding has been issued
+under
+subsection 486.4(1)
+of the
+criminal code.
+this subsection and
+subsection 486.6(1)
+of the
+criminal code,
+which is concerned with the
+consequence of failure to comply with an order made under
+subsection 486.4(1),
+read as follows:
+486.4 order
+restricting publication
+— sexual offences.
+— (1) subject to subsection (2), the presiding judge or justice
+may make an order directing that any information that could identify the victim
+or a witness shall not be published in any document or broadcast or transmitted
+in any way, in proceedings in respect of
+(
+a
+) any
+of the following offences:
+(i) an
+offence under section 151, 152, 153, 153.1, 155, 160, 162, 162.1, 163.1, 170,
+171, 171.1, 172, 172.1, 172.2, 173, 213, 271, 272, 273, 279.01, 279.011,
+279.02, 279.03, 280, 281, 286.1, 286.2, 286.3, 346 or 347, or
+(ii) any
+offence under this act, as it read from time to time before the day on which
+this subparagraph comes into force, if the conduct alleged would be an offence
+referred to in subparagraph (i) if it occurred on or after that day; or
+(
+b
+) two
+or more offences being dealt with in the same proceeding, at least one of which
+is an offence referred to in paragraph
+(a).
+(2)
+mandatory
+order on application
+— in proceedings in respect of the offences referred
+to in paragraph (1)(
+a
+) or (
+b
+), the presiding judge or justice
+shall
+(
+a
+) at
+the first reasonable opportunity, inform any witness under the age of eighteen
+years and the victim of the right to make an application for the order; and
+(
+b
+) on
+application made by the victim, the prosecutor or any such witness, make the
+order....
+486.6 offence
+— (1) every person who fails to comply with an order made under
+any of
+subsections 486.4(1)
+to (3) or subsection 486.5(1) or (2) is guilty of
+an offence punishable on summary conviction.
+citation:
+r.
+v. younkman, 2025 oncj 669
+date: 2025·12·16
+court
+file no.: toronto region
+ontario
+ court of justice
+between:
+his majesty the king
+— and —
+christopher younkman
+before
+ justice michael waby
+reasons
+ for judgment released on december 16, 2025
+a. merenda............................................................................................................... 
+ for the crown
+j. berkes.................................................................................................................. 
+ for the accused
+waby m.:
+overview
+
+christopher younkman is charged with a
+single count of sexual assault as against the complainant r.m. the sexual
+assault is alleged to have happened on 24
+th
+september 2020. prior
+to this date the parties were unknown to each other. the accused and complainant
+connected that same day on the dating app grindr and then subsequently
+communicated by text message and then via the messaging app signal.
+
+the parties arranged to meet at mr.
+younkman’s apartment and the accused organised an uber to collect r.m. who
+travelled in the uber and arrived at mr. younkman’s apartment as arranged at
+approximately 1:00 p.m. where r.m. was met outside by him and they then went
+inside the apartment together.
+
+it is alleged that over the course of the
+next 10 hours r.m and mr. younkman’s engaged in a combination of consensual and
+non-consensual sexual activity.
+
+the crown proceeded by way of indictment.
+mr. younkman elected trial in the ontario court of justice and pleaded not
+guilty.
+overview
+
+the case for the crown is advanced through
+solely the testimony of the complainant. mr. younkman did not testify in his
+defence.
+
+sections 278 and 276 rulings were previously
+made in this case by justice mainville, prior to her elevation to the superior
+court of justice. i adopt those rulings and the accompanying reasoning. with
+the consent of the parties, these proceedings continued before me without the
+need for a re-arraignment of the accused.
+
+defence counsel brought an application for a
+stay of proceedings pursuant to s 11(b) of the
+charter
+on december 8,
+2025 on the first rescheduled date of trial before me. i dismissed the
+application and found that there was not a breach of mr. younkman’s 11(b)
+rights. i indicated that i would subsequently provide reasons to the parties
+for that decision.
+
+the following are my reasons for dismissing
+the 11(b) decision as well as my judgement with respect to the trial.
+section 11(b)
+charter
+application
+
+the section 11(b) application in this case
+represents a request for a stay following a delay of 15 months which is
+therefore under the presumptively unreasonable delay outlined in
+r. v.
+jordan.
+
+the surrounding facts may be summarized thus.
+a 2-day trial was scheduled in this matter for september 15 and 16, 2025. 
+the accused now resides in the united states and travelled to toronto, as
+required, for his trial. on the first scheduled day of trial, the crown raised
+the issue with justice mainville whether defence counsel would be permitted to
+cross-examine the complainant with respect to certain text messages he had
+exchanged with the accused on the day of the alleged incident.
+
+submissions were made by counsel before her
+honour as to whether certain texts or messages amounted to records and were
+subject to the section 278 regime. it quickly became apparent that a clear and
+unambiguous waiver of the materials had not been obtained by the crown as it
+related to the section 278 materials.
+
+it also became apparent that it was
+necessary for her honour to determine whether any of the messages were subject
+to the section 276 regime and its requirements.
+
+in the wake of the sections 278 and 276
+issues that had been raised, on the first day of trial, both crown and defence
+counsel were responsive and sought to pro-actively manage the emerging
+situation. defence counsel made a number of concessions and sought to limit
+the nature and scope of any potential 276 materials. however, defence counsel
+reasonably maintained the need to reserve the right to cross-examine the
+complainant on one particular message, “the signal message” in the event that
+the complainant’s
+viva voce
+evidence was inconsistent with its contents.
+
+crown counsel accepted that they had
+proceeded on the basis of an implied waiver with respect to materials that were
+found by her honour to be records and which had been provided by the
+complainant to the police and in turn by the crown to defence counsel as part
+of the disclosure process.
+
+a draft waiver was obtained and steps were
+taken for the complainant to receive access to the required independent legal
+advice (ila). the signed, albeit incomplete, waiver by the complainant was
+provided to defence counsel and the court on the second scheduled date of
+trial. in an effort to expedite matters, crown counsel conceded stage 1 for
+the purposes of section 278.93. the matter was then adjourned to appoint
+counsel for the complainant and to conduct the stage 2 proceedings. new trial
+dates were set for december 8 and 9, 2025.
+
+subsequently, on october 29, 2025, justice
+mainville rendered a comprehensive 35-page decision on the sections 276 and 278
+issues. her honour found that the signal message fell within the ambit of s.
+276 and also found it was admissible. her honour further determined the
+admissibility of materials pursuant to the section 278 records regime. i adopt
+her honour’s decision in its entirety.
+
+the applicant’s position is that the entire
+delay in this case following the trial dates scheduled in september 2025 is
+attributable to the crown not seeking a sufficiently informed waiver and ila
+with respect to the records materials and that the applicant was entitled to
+rely on the presumption that disclosure of the materials by the crown, amounted
+to a waiver of its use, absent evidence to the contrary.
+
+mr. berkes submits that defence counsel
+acted expeditiously and that the fact that the applicant now resides in the
+united states means that he has also suffered unreasonable prejudice as a
+result of having to re-attend for the subsequently scheduled trial dates in
+december 2025.
+
+the crown submits that the delay in this
+case emerging since the september trial dates lies squarely at the feet of the
+defence. mr. merenda submits that the sections 278 and 276 issues were
+canvassed at the judicial pre-trial (“jpt”) in this case and defence counsel
+had indicated that they would not be live issues for trial. it is the crown
+position that on the first scheduled trial date the crown sought to avoid delay
+and any mid-trial applications by confirming, prior to arraignment that defence
+counsel was not seeking to rely on any materials that may attract the necessary
+scrutiny of the s. 276 regime.
+section 11(b) analysis
+
+i do not propose to extensively rehearse the
+well-established principles articulated in
+r. v. jordan
+and related case
+law. counsel provided relevant case law to me and i have reviewed and
+considered it along with their respective materials. the parties do not
+dispute the timelines in this case nor that the relevant delay is 15 months at
+the time of the application.
+
+the issue in this case is who bears
+responsibility for any delay that occurred between the september trials dates
+and those now scheduled before me and how that delay should be treated by the
+court.
+
+this section 11(b) application is below the
+presumptively unreasonable 18-month
+jordan
+ceiling and the onus is on
+the applicant to demonstrate unreasonable delay. in order to do so, he must
+establish that he took meaningful steps to demonstrate a sustained effort to
+expedite proceedings and that the case took markedly longer than it reasonably
+should have,
+r. v. jordan
+2016 scc 23.
+
+i accept entirely that defence counsel, and
+crown counsel acted with as much flexibility and expedition as was possible
+once the s. 276 and 278 issues reared their heads on the first trial date. all
+reasonable concessions were made and all necessary steps were then taken to
+narrow and focus the issues. the simple and unarguable reality, however, is
+that this valiant rearguard action by both crown and defence counsel was
+entirely avoidable.
+
+the crown rightly accepts that they should
+have taken additional steps beyond those of assuming that an implicit waiver of
+any s. 278 materials by the complainant was sufficient. while i accept that
+the crown canvassed the s. 278 issue briefly at the jpt, the responsibility
+lies with the crown to take any corresponding steps required by to ensure
+unambiguous compliance with respect to the s. 278 records regime and any informed
+waiver by the complainant.
+
+it was not unreasonable for defence counsel
+to conclude that the receipt of these materials in disclosure was accompanied
+by the necessary waiver for all relevant purposes. no evidence to the contrary
+appears to have been flagged until the issues reared its head at the september
+trial date.
+
+equally, it is very clear that defence
+counsel was firmly of the view that, from his perspective, none of the relevant
+text messages he anticipated relying on would be subject to the s. 276 regime. 
+this led to defence counsel indicating at the jpt that s. 276 would not be an
+issue for trial.
+
+as justice mainville’s decision made clear,
+defence counsel’s confidence was misplaced and there remained relevant material
+that fell to be considered under the s. 276 regime with all that flows from
+that. it is not accurate to suggest that the delay from the september trial
+dates to the current trial dates lie solely at the feet of the crown.
+
+the evidential issues that emerged on
+september 15, 2025 necessitated a substantial ruling from justice mainville,
+much of which centred on her consideration of the s. 276 issue and the related
+signal message. her honour was able to provide this decision to the parties on
+october 29, 2025. while defence counsel is not expected to be imbued with the
+gift of hindsight and is also entitled to be wrong, that decision and its
+consequences cannot reasonably lie at the feet of the crown.
+
+if defence counsel had at least sought a
+motion for directions, he would have been able to establish well in advance of
+the scheduled trial dates whether the court shared his view that the text
+messages did not engage the s. 276 process. the law and procedures around
+sexual assaults have become increasingly complex and complicated and counsel
+have long been urged to exercise caution in their approach to issues relating
+to these important evidential issues.
+
+well-established, statutory frameworks exist
+for good reason to consider and address these issues and motions for directions
+are a common phenomenon that are easily set before the court. however,
+confident a counsel may be on an issue of evidential admissibility and usage,
+the court acts as gatekeeper to these issues and does not delegate this
+function to counsel who are responsible for the consequences of their
+decisions.
+
+despite the various positive steps defence
+counsel took to expedite this case, this did not include addressing the s. 276
+issue with the court. the reasonable and prudent course in this case, with the
+use of foresight, not hindsight, would have been for defence counsel to seek
+judicial guidance on the s. 276 issue given the fact that he knew he intended
+to rely upon at least one, if not more, of the text messages related to this
+incident at trial. this would have avoided precisely the issue that arose and
+the type of mid-trial applications it necessitated and against which counsel
+have frequently been enjoined.
+
+neither crown nor defence acted with any bad
+faith and each sought to salvage the situation that arose to the best of their
+ability, however, i find that the reality is that both crown and defence share
+responsibility for the avoidable delay that occurred. either the s. 278 or the
+s. 276 issue would have led to an adjournment of the trial dates. the combination
+of the two merely compounded the problem. it is also fair to say that the s.
+276 issue necessitated more legal analysis and consideration than the waiver of
+the complainant’s records. indeed, the importance of the signal message to
+defence counsel was such that he sought, unsuccessfully, to have her honour
+revisit her ruling on it with respect to the s. 276 framework and its
+application.
+
+in
+j.f., the supreme court
+highlighted that “because the prospective
+approach adopted in
+jordan
+allows the parties to know from the outset
+what time is reasonable for
+their proceedings, they have a responsibility to
+take proactive measures to
+prevent that time from being exceeded. this
+responsibility lies upon both
+the crown and the defence.” this is why
+courts now routinely schedule
+section 11(b) hearings ahead of the trial
+itself: to ensure court time
+is used efficiently. in this case, i note that this s. 11(b) application was
+scheduled for the first day of the re-scheduled trial.
+
+additionally, court resources must be
+carefully guarded for the benefit of
+all participants of the criminal justice
+system. in the supreme court of
+canada’s decision of
+j.j., the supreme court
+directed
+that, as a general
+rule, “private record applications should be brought at the pre-trial
+stage of
+the proceedings”, 2022 scc at para. 86
+
+the court noted the following relating to
+the dangers associated to mid-trial applications and the ripple effect it has
+on participants of the system:
+…
+if
+mid-trial applications become routine, this would result in frequent
+adjournments, significant delays, scheduling difficulties – particularly in
+jury trials – and potential unfairness to the accused. mid-trial applications
+could also harm complainants and discourage the reporting and prosecution of
+sexual offences. para. 86
+
+justice mcvey in the superior court of
+justice decision of
+r. v. a.g., commented further by noting that
+mid-trial applications will often, if not always, and as they did here, result
+in an adjournment and negatively affect the proceedings before the court as
+well as the administration of justice more broadly.
+r. v. a.g.,
+2025
+onsc 2453
+at paras.
+8-14, 43.
+
+finally, in the decision of
+r. v. ranu
+from the ontario court of appeal, the court further cautioned against mid-trial
+applications. although in reference to a trial judge foreclosing a section
+278.1 third-party records application in the middle of cross-examination, the
+court provided the following guidance regarding the trial judge’s decision to
+dismiss a mid-trial application being brought and concluded… “this type of
+mid-trial application is exactly what the supreme court of canada cautioned
+against in
+r. v. j.j.”,
+2022 scc 28,
+ 2 s.c.r. 3, at para.
+86.1.
+
+i find that as it relates to the critical s.
+276 issue, while this was the only area that defence counsel failed to address
+in an expeditious fashion, that inevitably had significant and avoidable
+consequences to the trial dates in september. i appreciate that the applicant
+has had to return to toronto for the december trial dates in this matter and
+that there is a cost and inconvenience to him for that. it was nevertheless an
+unavoidable reality given how events unfolded.
+
+while the crown bears its share of
+responsibility with respect to the confusion around the s. 278 waiver, i am
+unable conclude that the present 15-month timeframe amounts to a delay that is
+markedly
+longer than it should reasonably have been in all of the circumstances nor that
+defence counsel acted with the necessary expedition in these particular
+circumstances. while not exclusively responsible for the adjournment of the
+first trial dates that became inevitable, defence counsel’s approach to the s.
+276 issue was a significant contributing factor.
+
+accordingly, i do not find in this case the
+mr. younkman’s 11(b)
+charter
+rights were violated and his application is
+dismissed.
+trial proper
+issues
+
+the defence position is simply articulated. 
+mr. berkes submits that there is a failure by the crown to prove beyond a
+reasonable doubt that there was an absence of consent in this case. in the
+alternative, the accused challenges the crown's evidence of
+mens rea
+by
+asserting an honest but mistaken belief in consent.
+
+at the close of the crown’s case, defence
+counsel brought an application for a directed verdict that was unsuccessful for
+the reasons i provided at the time of that ruling. in short, i was satisfied
+that the crown had met the low threshold required in
+r. v. shepherd
+and
+r.
+v. arcuri
+and related case law.
+
+mr. merenda for the crown submits that the
+evidence of r.m. clearly establishes a lack of consent on his part to some of
+the sexual activity that occurred. in the alternative, the crown argues that
+when the court considers the principles and guidance provided in
+r. v.
+akhali,
+ o.j. no.1254
+and related law, there is not a factual basis
+for the court to conclude mr. younkman took the necessary steps to legitimately
+reach such a belief.
+law and analysis
+sexual assault
+
+a conviction for sexual assault requires
+proof beyond reasonable doubt of two basic elements, that the accused committed
+the
+actus reus
+and that they had the necessary
+mens rea. the
+actus reus of assault is unwanted sexual touching. the
+mens rea
+is the
+intention to touch, knowing of, or being reckless of or wilfully blind to, a
+lack of consent, either by words or actions, from the person being touched.
+actus reus
+
+the crime of sexual assault is only
+indirectly defined in the
+criminal code, r.s.c., 1985, c. c-46. the offence
+comprises an assault within any one of the definitions in s. 265(1) of the
+code,
+which is committed in circumstances of a sexual nature, such that the sexual
+integrity of the victim is violated: see
+r. v. s. (p.l.),
+1991 canlii 103 (scc),
+ 1
+s.c.r. 909. section 265 provides that:
+265. (1) a person
+commits an assault when
+(a) 
+without the consent of another person, he applies force intentionally to that
+other person, directly or indirectly;
+(b) he
+attempts or threatens, by an act or a gesture, to apply force to another
+person, if he has, or
+causes
+that other person to believe on reasonable grounds that he has, present ability
+to effect his purpose; or
+(c) while
+openly wearing or carrying a weapon or an imitation thereof, he accosts or impedes
+another person or begs.
+
+this section applies to all forms of
+assault, including sexual assault, sexual assault with a weapon, threats to a
+third party or causing bodily harm and aggravated sexual assault.
+
+the
+actus reus
+of sexual assault is
+established by the proof of three elements: (i) touching, (ii) the sexual
+nature of the contact, and (iii) the absence of consent. the first two of
+these elements are objective. it is sufficient for the crown to prove that the
+accused's actions were voluntary.
+
+the sexual nature of the assault is
+determined objectively; the crown need not prove that the accused had any
+mens
+rea
+with respect to the sexual nature of his or her behaviour: see
+r. v.
+litchfield,
+1993 canlii 44 (scc),
+ 4 s.c.r. 333, and
+r. v. chase,
+1987 canlii 23 (scc),
+ 2
+s.c.r. 293.
+consent
+
+to be legally effective, consent must be
+freely given. therefore, even if a complainant consented, or their conduct
+raises a reasonable doubt about their non-consent, circumstances may arise
+which call into question what factors prompted their apparent consent.
+
+the absence of consent, however, is
+subjective and determined by reference to the complainant's subjective internal
+state of mind towards the touching, at the time it occurred: see
+r. v.
+jensen
+(1996),
+1996 canlii 1237 (on ca), 106 c.c.c. (3d) 430 (ont. c.a.), at pp. 437-38, aff'd
+1997 canlii 368 (scc), 
+1 s.c.r. 304,
+r. v. park,
+1995 canlii 104 (scc), 2 s.c.r. 836, at p. 850, per
+l'heureux-dubé j., and d. stuart, canadian criminal law (3rd ed. 1995), at p.
+513
+
+the
+code
+defines a series of
+conditions under which the law will deem an absence of consent in cases of
+assault, notwithstanding the complainant's ostensible consent or
+participation. as enumerated in s. 265(3), these include submission by reason
+of force, fear, threats, fraud or the exercise of authority, and codify the
+longstanding common law rule that consent given under fear or duress is
+ineffective:
+
+as articulated in
+r v ewanchuk…
+“the
+words of fish j.a. in saint-laurent v. hétu,
+1993 canlii 4380 (qc ca), r.j.q. 69 (c.a.), at p. 82,
+aptly describe the concern which the trier of fact must bear in mind when
+evaluating the actions of a complainant who claims to have been under fear,
+fraud or duress: “consent” is stripped of its defining characteristics when it
+is applied to the submission, non-resistance, non-objection, or even the
+apparent agreement, of a deceived, unconscious or compelled will.”
+
+in these instances, the law is interested in
+a complainant’s reasons for choosing to participate in, or ostensibly consent
+to, the touching in question. in practice, this translates into an examination
+of the choice the complainant believed they faced. the courts’ concern is
+whether they freely made up their mind about the conduct in question.
+
+as articulated in
+r. v. ewanchuk,
+1999 canlii 711 (scc), 
+1 s.c.r. 330, “the question is not whether the complainant would have preferred
+not to engage in the sexual activity, but whether they believed themself to
+have only two choices: to comply or to be harmed. if a complainant agrees to
+sexual activity solely because they honestly believe that they will otherwise
+suffer physical violence, the law deems an absence of consent, and the third
+component of the
+actus
+reus
+of sexual assault is established. 
+the trier of fact has to find that the complainant did not want to be touched
+sexually and made their decision to permit or participate in sexual activity as
+a result of an honestly held fear. the complainant’s fear need not be
+reasonable, nor must it be communicated to the accused in order for consent to
+be vitiated. while the plausibility of the alleged fear, and any overt
+expressions of it, are obviously relevant to assessing the credibility of the
+complainant's claim that they consented out of fear, the approach is
+subjective,
+r. v. ewanchuk
+at para.
+39.
+
+in sexual assault cases which centre on
+differing interpretations of essentially similar events, trial judges should
+first consider whether the complainant, in their mind, wanted the sexual
+touching in question to occur. once the complainant has asserted that they did
+not consent, the question is then one of credibility.
+
+in making this assessment, the trier of fact
+must take into account the totality of the evidence, including any ambiguous or
+contradictory conduct by the complainant. if the trier of fact is satisfied
+beyond a reasonable doubt that the complainant did not in fact consent, the
+actus
+reus
+of sexual assault is established and the inquiry must shift to the
+accused's state of mind.
+
+if there is reasonable doubt as to consent,
+or if it is established that the complainant actively participated in the
+sexual activity, the trier of fact must still consider whether the complainant
+consented because of fear, fraud or the exercise of authority as enumerated in
+s. 265(3).
+
+the complainant’s state of mind in respect
+of these factors need not be reasonable. if their decision to consent was
+motivated by any of these factors so as to vitiate her freedom of choice the
+law deems an absence of consent and the
+actus reus
+of sexual assault is
+again established.
+r.m.’s evidence
+
+in the case before me, the evidence is clear
+and uncontested that r.m. and mr. younkman actively participated in a range of
+sexual activity together over the course of approximately 10 hours after r.m.
+arrived at the accused’s residence. this included sexual touching, mutual
+masturbation and mr. younkman performing oral sex on r.m. and several instances
+of anal sex.
+
+prior to meeting on the date of the alleged
+incident, the two were strangers and met on-line for the first time that day. 
+during the course of their online exchanges, mr. younkman and r.m. exchanged a
+signal app text message which was the subject of the s. 276 ruling by justice
+mainville. it was at 9:54 a.m. and the relevant excerpt has mr. younkman
+writing in a series of texts: “i know you’re nervous, but don’t worry. we will
+go slow and i want you to be comfortable and you can stop at any time. just
+come and we’ll have lunch. and if you want to i’ll uber you home at any time. 
+oh, btw, i’m still wearing biking clothes. do you care? or should i
+change? r.m. responds, “put clean clothes on ig ( i guess) ?” to which mr.
+younkman replies “ok, i’m changing now”
+
+the probative force of prior statements of
+intention will depend on, among other things, their degree of specificity and
+their temporal proximity to the alleged assault. as the court noted in
+r.
+v. starr,
+2000 scc 40,
+ 2 s.c.r. 144,
+a statement of intention can support an inference that the declarant followed
+through on the intended course of action only if it is “reasonable on the
+evidence for the trier of fact to infer that the declarant did so” (para. 169).
+
+r.m. testified in-chief that approximately 3
+hours after this text he was picked up in an uber at a local park and travelled
+to meet mr. younkman. r.m. described feeling apprehensive and that upon
+arrival, he was met outside by the accused. they went in together to the
+accused’s apartment which r.m. described as being a large, converted warehouse.
+
+after some preliminary small talk, r.m gave
+evidence that he told the accused the sexual acts he did not wish to engage
+in. he testified that this included no oral or anal sex nor any kissing.
+
+in examination-in-chief, r.m. described the
+sexual activity starting by him removing all of his own clothes aside from a
+long pair of cotton socks, the accused then pushed on his shoulders,
+which
+r.m. took as a cue to kneel down which he did not do. mr. younkman immediately
+ceased pushing his shoulders and
+then took a belt and tied r.m.s wrists
+behind his back and placed a blindfold over his eyes and circled around him
+talking a series of pictures.
+
+when asked whether he or the accused had
+said anything throughout this phase of the encounter, r.m. testified “i can’t
+remember”. he described feeling nervous and uncertain at this stage. he asked
+to use the shower and the accused led him to the shower while r.m. was still
+blindfolded. r.m. estimated he spent 10-20 minutes showering and testified that
+he did not leave the bathroom during this time as he was nervous.
+
+upon exiting the bathroom r.m. and the
+accused discussed a puddle of pre-ejaculate from r.m’s penis that was
+apparently on the floor and mr. younkman touched r.m.s penis and placed his
+fingers in r.m’s mouth. r.m. could not recall whether what if anything was
+said while this happened.
+
+r.m. then again asked to go to the washroom
+and was taken by the accused whom r.m. observed remaining in the room. the
+accused then left the washroom upon the request of r.m. upon exiting the
+washroom, r.m. sat on the sofa with mr. younkman who was still fully clothed. 
+mr. younkman advised r.m. he had a work meeting to attend on video and would be
+a few minutes.
+
+r.m. testified that while this happened he
+scrolled through netflix to try and find something to watch on the television. 
+he estimated the meeting lasted 20 minutes after which mr. younkman returned to
+where r.m. was watching television and ran his hands through r.m.’s hair and
+touched his neck and upper body and then told r.m. he had another remote work
+meeting to attend.
+
+r.m. gave evidence that he believes there
+may have been a total of 3 meetings the accused participated in while he was
+there and after second one, the accused returned, pulled out his own penis and
+placed r.m.’s hand on it and moved it up and down. the accused then asked
+r.m. to wipe the pre-ejaculate from the tip of the accused’s penis which he did
+using his socks. r.m. could not recall whether he said anything at this point. 
+the accused then attended his third remote work meeting.
+
+when asked by the crown whether he asked the
+accused to stop any of the interaction at this point, r.m. testified that he
+did not as it was not something he was opposed to doing. it was his evidence
+that he did not recall saying anything to the accused but he “knew in his own
+head he was okay with it.”
+
+r.m. testified that he lay naked on the
+couch watching television for the next 15 or so minutes while the accused
+attended his third work meeting after which mr. younkman returned and tied
+r.m.’s wrists in front of him with a necktie. r.m. could also not recall
+whether any words were spoken at this point.
+
+subsequent to this, mr. younkman licked and
+fingered r.m.’s anus and performed oral sex on him. this lasted for
+approximately 5 minutes and r.m. gave evidence he did not recall saying
+anything and that he believed that this was because he was shocked at what was
+happening to him but that his focus was mostly on the television.
+
+r.m. testified the accused seemed ‘rough’ at
+this point although did not articulate how this manifested itself. he then
+gave evidence that the accused attempted to penetrate him anally but was
+unsuccessful and then he picked up r.m. in his arms and carried him upstairs to
+the bedroom where he lay r.m. down on the bed.
+
+after mr. younkman again attempted to anally
+penetrate him, r.m. gave evidence that he said to the accused “should we use a
+condom?” and that he asked the accused whether he had any sexually transmitted
+diseases. r.m. testified that mr. younkman told him he was on prep, (a
+pre-exposure prophylaxis medication to prevent hiv in hiv negative individuals
+at high risk) and life was easier if he did not use one a condom.
+
+r.m. testified that he was not sure whether
+he could trust the accused but accepted that he did not express any
+reservations to mr. younkman at all in any way. r.m. estimated this portion of
+the encounter lasted approximately 20 minutes. subsequently r.m. gave evidence
+that the accused again licked and fingered his anus and then penetrated him
+anally while his hands were still tied with the tie. at one point, r.m.
+wriggled a hand free and pushed against accused who stopped. then described
+them ‘spooning’.
+
+at one point, r.m. told the accused ‘it
+hurts’ and the accused said “i’ll take it out slowly” and he then removed his
+penis.
+further anal sex then occurred after which r.m., asked to go to
+the washroom again and while he was inside the locked washroom, the accused
+called out and asked if r.m. was okay to which he replied that he was.
+
+r.m. gave evidence that while he was in the
+washroom on this occasion he was stunned and shocked and was wondering whether
+he had been raped and estimates he stayed in the bathroom for 10-15 minutes
+before exiting. he then chatted with the accused at the kitchen counter, had a
+glass of water and testified that the accused began to rub some oil over r.m.’s
+anus to which r.m. said ‘do we have to use that?” to which mr. younkman
+replied, “it will feel good.” he then subsequently penetrated r.m. again at
+which point it was his evidence he told the accused it hurt and the accused
+stopped.
+
+the accused and r.m. then went back upstairs
+to the bedroom together where the accused told r.m. he wanted to try a new
+position and to which r.m. said “i don’t know” and the accused asked him if he
+wanted to be “good” at which point r.m. testified mr. younkman seated r.m. on
+his penis after, which they changed positions and r.m. then advised “i need a
+break” at which point, mr. younkman stopped sexual activity and then cuddled
+with r.m. after saying “should we cuddle”.
+
+after cuddling together, r.m. testified he
+and the accused had penetrative sex approximately 4-6 further times for brief
+periods of time before the accused ejaculated on r.m. and went to the bathroom.
+
+r.m. testified that he lay there for a few
+minutes before going to the bathroom where he said he felt shock and pain and
+was confused and wondered about the next steps to take and that “in my head he
+felt disgusting.”
+
+subsequently r.m. and mr. younkman sat and
+chatted on the sofa with r.m.’s feet on the accused lap. r.m. asked if the
+accused would launder his thigh high socks for him and if he could take another
+shower. mr. younkman agreed to both requests. after this r.m. returned to the
+sofa and sat with the accused who lay with his head in r.m.’s lap for about 15
+minutes and after returning with r.m.’s freshly laundered socks sat next to him
+with his head on r.m.’s shoulder for a further 20 minutes.
+
+after this, r.m. told the accused he wanted
+to go home and the accused ordered him an uber which he then took back to the
+park he had originally come from, leaving at about 11:00 p.m.
+
+when asked by the crown how he felt about
+the experience of being with the accused, r.m. testified that “it was a very
+bad experience” and he did not feel he could trust him. four days later, r.m.
+attended women’s college hospital (“wch”) where a saek was carried out. 
+approximately 3 years later, r.m. reported the sexual assault to police. when
+asked by the crown why he reported the incident when he did, r.m testified that
+it was because he had grown as a person and in confidence and felt it was his
+duty to come forward in case there were other victims
+
+when asked how the accused seemed when r.m.
+left his apartment, r.m. described mr. younkman as seeming neutral or “okay”
+but r.m. described himself feeling stunned and disgusting. he gave evidence
+that at no point did he say in words to mr. younkman that anal penetration of
+any kind was okay and nor were there any express enquiries made by mr.
+younkman.
+
+in cross-examination, r.m. confirmed that he
+provided various written materials and text messages to the police when he
+reported the matter to them a little over three years after the alleged
+incident and that he did so to help them with their investigation but r.m.
+could not recall when exactly in 2024 he had provided them.
+
+in cross-examination, r.m. made a number of
+concessions. he agreed his memory about the incident was better 5 years ago
+than now and his recall would have been more accurate then than now and that
+his recall of details from the alleged incident may now be incorrect.
+
+r.m. agreed that he voluntarily got into the
+uber that was ordered for him and voluntarily attended the accused apartment
+and entered it with him without further discussion. r.m. also accepted that he
+and the accused had discussed the accused taking intimate pictures of r.m. and
+of r.m. exploring various sexual fantasises with mr. younkman once he arrived.
+
+when asked whether he consented to the
+intimate pictures being taken, r.m. replied “that depends on how you define
+consent”. when pressed, he gave evidence that he believed ‘a verbal
+affirmation’ was required to amount to consent. defence counsel put to r.m.
+that he had consented to the pictures being taken r.m. testified that he had
+not. when mr. berkes repeated his suggestion that r.m. was fine with the
+intimate pictures being taken at the time, r.m. then agreed that he was. he
+also confirmed that when he asked the accused to delete the pictures he had
+done so without demur in front of r.m. to ensure he could see it had happened
+and that he did so one by one by scrolling down the screen on his phone as he
+did so.
+
+r.m. agreed that he had his phone with him
+the entire time he was in the apartment and had unrestricted access to it. he
+also agreed that he had locked the bathroom door each time he entered the
+bathroom and that had he wished to do so, he had the means to use his phone to
+call police, friends or family for help. when asked why he testified that he
+did not feel safe in the apparent absence of any evidence to support that
+conclusion, r.m. testified that it was because he thought mr. younkman had
+over-reached on the initial boundaries r.m. had set.
+
+r.m. agreed that mr. younkman appeared at
+various points to be solicitous of r.m., r.m. was sufficiently comfortable that
+in the 10 hours he spent at the accused apartment, he spent three separate
+periods of time reclining naked on the sofa watching netflix while the accused
+participated in 3 separate work meetings which each time was punctuated by
+intimate contact between him and mr. younkman.
+
+r.m. agreed with defence counsel that when
+he and the accused engaged in mutual masturbation there had been no verbal
+exchange between them and that r.m. was agreeable to this behaviour.
+
+r.m. also agreed with the defence
+suggestions that “your personal truth” may differ from what happened during the
+alleged incident and that with hindsight a person may view an incident
+differently and change their mind bout what had happened. r.m. also agreed
+that he was fine with the kissing that had taken place between them, despite
+testifying earlier that he did not wish to engage in such behaviour.
+
+r.m. also agreed that in his text exchanges
+with mr. younkman very shortly before their encounter, he was clear that he
+could tell mr. younkman if he wanted to stop any unwanted sexual behaviour and
+had not done so throughout their encounter. he also agreed that at no point
+did he say “no” or ask mr. younkman to stop any sexual behaviour, including the
+instances of anal or oral sex. however, he reiterated his position that he had
+not consented to anal sex or anal touching and testified that in his view, all
+of his actions were consistent with the accused knowing r.m. did not wish to
+engage in anal sex.
+
+r.m. denied that at one point during anal
+sex he had asked mr. younkman to switch to a more comfortable position and that
+this would imply he was consenting to the activity. when an excerpt of his
+police statement was then played to him, r.m. acknowledged that he had in fact
+told officers “i asked if we could move to a more comfortable spot”. r.m. also
+agreed that during further anal sex in the bedroom he and mr. younkman had
+discussed the use of a condom although r.m. agreed he had not asked the accused
+to use one or expressed any preference and that they had also discussed stds
+prior to anal sex continuing.
+
+during cross-examination, defence counsel
+suggested to r.m. that based upon their conversations, the reasonable person
+would conclude that these exchanges were a prelude to consensual sexual
+activity. after a lengthy pause, r.m. agreed with counsel’s proposition. 
+r.m. also agreed after his police statement was played to him that he told
+police he “went along with the anal activity that day.” in a subsequent
+exchange with defence counsel, r.m. testified “i went along with it but i
+wasn’t okay with it”. when asked by defence counsel if r.m. participated
+voluntarily, r.m. responded “yes” but added that he felt forced. he then
+agreed with defence counsel that he went along with everything that happened on
+the day of his encounter with mr. younkman.
+
+r.m. also agreed with defence counsel that
+he had previously told the police that the reason he went to wch for a saek 4
+days later was because his main concern was whether he may have contracted an
+std following unprotected sex with mr. younkman. when asked “is the truth
+today that the reason you went to wch was because of your concern regarding an
+std”. r.m. replied “yes”. r.m. then subsequently denied it was the main
+reason and denied that he had been persuaded by a nurse to report a sexual
+assault to the police.
+
+r.m. agreed that he had also told the police
+in his statement that he believed he was in denial about a sexual assault
+having occurred and that he believed the sexual assault was the reason that he
+was snapping and irritable with his friends and family. when asked by defence
+counsel whether r.m. thought it was possible there may have been a reason other
+than a sexual assault for this irritability, r.m. responded “it’s possible”. 
+he also agreed again with defence counsel’s suggestion that he was never forced
+by mr. younkman to do anything, that he had gone along with all of the activity
+that occurred, knew he could have stopped any of the activity at any point he
+wished and that mr. younkman had complied with any requests made by r.m.
+
+r.m. also agreed with defence counsel’s
+suggestion that sometimes people regret their past behaviour but not because a
+person was forced into doing something but because they subsequently view
+events differently. nevertheless, r.m. denied he was now just looking to blame
+mr. younkman because he now regretted what had voluntarily happened between
+them.
+
+while the complainant's testimony is the
+only source of direct evidence as to his state of mind in this case,
+credibility must still be assessed by the trial judge, in light of all the
+evidence. it is open to the accused to claim that the complainant's words and
+actions, before and during the incident, raise a reasonable doubt against his
+assertion that he, in his mind, did not want the sexual touching to take
+place. if, however, the trial judge believes the complainant that he subjectively
+did not consent, the crown has discharged its obligation to prove the absence
+of consent
+
+consent is defined by the
+criminal
+code
+as the voluntary agreement of the complainant to engage in the
+sexual activity in question:
+s. 273.1(1). as mr. merenda rightly submitted it
+is the conscious agreement of the complainant to engage in every sexual act in
+a particular encounter and must be given freely, must exist at the time of the
+sexual activity, and can be revoked at any time:
+r. v. barton,
+2019
+scc 33, 2 s.c.r. 579, at para.
+88.
+
+given that the first essential element of
+this offense has been admitted, the second essential element, the absence of
+the subjective consent of the complainant, is the remaining
+actus reus
+component
+of the offence, and it must be proven beyond a reasonable doubt. this consent
+is with reference to the complainant's internal state of mind. in other words,
+i must determine whether the complainant wanted the sexual activity to take
+place:
+r. v. ewanchuck,
+1999 canlii 711 (scc),
+ 1 s.c.r. 330,
+at para.
+26.
+
+whether or not the complainant subjectively
+consented is a matter of credibility to be weighed in light of all the
+evidence:
+ewanchuck, at paras. 30 - 31;
+barton, at
+para.
+89. the complainant need not express their lack
+of consent, or their revocation of consent, for the
+actus reus
+to
+be established:
+r. v. j.a.,
+2011 scc 28,
+ 2 s.c.r. 440, at para.
+37.
+
+i must also be mindful that consent to one
+act does not amount to consent to another act. consent
+must be given for each and every sexual act engaged in. for example, agreement
+to one form of penetration is not an agreement to any or all forms of
+penetration:
+r. v. hutchinson,
+2014 scc 19 (canlii),
+2014 s.c.c. 19,
+ 1 s.c.r. 346, at para.
+54;
+r. v. kirkpatrick,
+2022 scc 33 (canlii),
+2022 s.c.c. 33,
+ 2 s.c.r.
+480, at para.
+44.
+
+consent cannot be implied because of a
+pre-existing relationship, like a common law
+partnership or marriage:
+j.a., at para.
+64. consent also cannot be
+implied by the complainant's silence, passivity, or ambiguous conduct:
+r.
+v. kruk,
+2024 scc 7 (canlii),
+2024 s.c.c. 7,
+433 c.c.c. (3d) 301, at para.
+36.
+
+in this case, if i accept the complainant's
+evidence that he did not consent to the sexual touching in question, beyond a
+reasonable doubt, then this element of the offence is proven. only if i find
+that there was consent, or i have reasonable doubt about the complainant's
+consent, do i need to determine if the consent was vitiated in any way:
+r.
+v. g.f.,
+2021 scc 20 (canlii),
+2021 s.c.c. 20,
+ 1 s.c.r. 801, at para.
+53.
+
+r.m.’s evidence stood alone in this case. 
+corroboration is not necessary for proof of a sexual assault, but of course if
+it existed, it would strengthen the crown’s case. there are no other witnesses
+beyond r.m. who testified.
+
+in assessing a witness’s testimony, i may accept some, all, or none of their evidence and i must consider the credibility and reliability of the account
+provided. in assessing the credibility and the reliability of the evidence of
+the witnesses, i have distinguished between credibility and reliability. 
+credibility relates to a witness’ sincerity, whether he/she is speaking the
+truth as she believes it to be.
+
+reliability relates to the actual accuracy
+of his/her testimony. in determining this, i must consider his/her ability to
+accurately observe recall and recount the events in issue. a credible witness
+may give unreliable evidence. see
+r. v.
+morrissey,
+1995 canlii 3498 (on ca), o.j.
+no. 639 (c.a.) at para
+33;
+r.
+v.
+h.c.,
+2009 onca 56 (canlii), o.j. no. 214 (c.a.)
+at para
+41. accordingly, there is a distinction between a finding of
+credibility and proof beyond a reasonable doubt. see
+r. v.
+j.j.
+r.d.,
+2006 canlii 40088 (on ca), o.j. no. 4749 (c.a.) at para
+47;
+r. v.
+j.w.,
+ o.j.
+no. 1979 (c.a.) at para. 26.
+
+the credibility and reliability of a witness
+must be “tested in the light of all the other evidence presented”.
+r.
+v.
+stewart,
+1994 canlii 7208 (on ca), o.j. no. 811 (c.a.) at para.
+27.
+
+the reality is that r.m. presented as an
+intelligent and articulate witness, albeit one who at times bordered on the
+very methodical with a number of his answers. there were a number of instances
+where he paused for significant periods of time before answering key questions
+in cross-examination and at times, i found r.m. to be evasive in his answers to
+defence counsel particularly once he had answered a question that he considered
+may undermine his evidence.
+
+while r.m.’s was often candid as he was, he
+often sought to resile from answers or qualify his evidence in a manner
+inconsistent with much of his earlier evidence. in cross-examination, he made
+a number of significant admissions that were clearly against his own
+interests.
+
+despite his evidence, it is r.m.’s position
+that he did not consent to any of the anal sex of touching or oral sex that
+occurred between him and mr. younkman. mr. merenda for the crown submits that
+the crown has proven beyond a reasonable doubt through r.m.’s evidence that
+there was no valid consent on r.m.’s part, nor indeed was there any reasonable
+basis for mr. younkman to conclude an honest or mistaken belief in consent on
+r.m.’s part.
+
+proof beyond a reasonable doubt goes
+hand-in-hand with the presumption of innocence which is a fundamental principal
+of our system of justice. the burden of proof in a criminal trial always rests
+with the crown. the burden of proof is a heavy one. it is proof beyond a
+reasonable doubt in relation to each of the offence’s essential elements.
+
+a reasonable doubt is not an imaginary,
+far-fetched, or frivolous doubt. it is not a doubt based on sympathy for or
+prejudice against anyone involved in this trial. it is a doubt based on reason
+and common sense and is logically derived from the evidence or the absence of
+evidence.
+r. v. lifchus,
+1997 canlii 319 (scc), 3 s.c.r. 320, 118 c.c.c. (3d) 1, at
+para.
+39
+
+to be clear, it is not sufficient that on
+the whole of the evidence that i am satisfied that mr. younkman is
+probably
+guilty. even if i believe the accused is probably
+guilty or likely guilty, that is not sufficient. in those circumstances, a
+judge must give the benefit of the doubt to the accused and acquit because the
+crown has failed to satisfy the court of the guilt of the accused beyond a
+reasonable doubt.
+
+the burden
+never
+shifts
+to the accused to establish their own innocence, and the onus always lies with
+the crown to prove every essential element (
+r. v.
+j.h.s.,
+2008 scc 30, 2 s.c.r. 152, at para.
+13
+).
+
+on the totality of the evidence before me, i
+am not satisfied that the crown has proven beyond a reasonable doubt that r.m.
+did not consent to all of the sexual activity that occurred between him and mr.
+younkman. i find on r.m.’s own evidence and all the reasonable inferences that
+i draw from it that there is a marked lack of credibility to this suggestion. 
+there is no reasonable inference from the evidence to conclude that there was a
+basis for r.m. to have feel unsafe, coerced or any at risk at the hands of mr.
+younkman. nothing in his behaviour would support this finding.
+
+nor do i find, based upon the evidence of
+r.m. that his words or actions throughout the encounter were consistent with a
+lack of freely given consent. r.m.’s evidence at trial made a number of
+significant concessions. i accept that in the face of these concessions r.m.
+was consistent that he did not consent to certain activity with mr. younkman
+and that his words and actions supported this. nevertheless, i do not find
+this to be a credible assertion on his part in light of the evidence before me.
+
+i accept there may well have been points
+during which r.m. felt nervous during the lengthy encounter he had arranged
+with mr. younkman and the range of activity in which they engaged. however, on
+his own evidence, he was at no point coerced or forced shamed or intimidated
+into any activity. mr. younkman respected any requests he made, whether these
+were expressed verbally or otherwise and the accused was solicitous of r.m.
+during their time together. r.m. accepted the reasonable inferences that would
+be drawn from his actions and at times testified inconsistently, and in
+important regards, with the information he had provide to the police in his
+statement to them.
+
+i accept entirely that there is no such
+thing as a standard response by the victims of sexual assault and that
+individuals may legitimately react in a variety of ways. however, on the facts
+of this case, and taken at its highest, being intermittently nervous, cannot be
+elevated such that it is conflated with a lack of consent on r.m.’s part. in
+light of the evidence before me, i do not find the crown has established beyond
+a reasonable doubt that r.m. did not consent to the sexual activity as
+alleged. further consideration of any possible mistaken belief in consent is
+therefore redundant.
+
+accordingly, i find mr. younkman not guilty
+of sexual assault.
+dated: december 16, 2025. _______________________________
+justice
+michael waby

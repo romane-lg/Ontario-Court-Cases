@@ -1,0 +1,942 @@
+source url: https://www.canlii.org/en/on/oncj/doc/2025/2025oncj387/2025oncj387.html
+
+warning
+the court hearing this matter directs that the following notice be
+attached to the file:
+a
+non-publication and non-broadcast order in this proceeding has been issued
+under
+subsection 486.5(1)
+or
+(2)
+of the
+criminal code. these subsections
+and
+subsection 486.6(1)
+of the
+criminal code, which is concerned with
+the consequence of failure to comply with an order made under
+subsection 486.5(1)
+or
+(2), read as follows:
+486.5 order
+restricting publication
+— victims and witnesses
+— (1)
+unless an order is made under section 486.4, on application of
+the prosecutor in respect of a victim or a witness, or on application of a
+victim or a witness, a judge or justice may make an order directing that any
+information that could identify the victim or witness shall not be published in
+any document or broadcast or transmitted in any way if the judge or justice is
+of the opinion that the order is in the interest of the proper administration
+of justice.
+(2)
+justice system participants —
+on
+application of the prosecutor in respect of a justice system participant who is
+involved in proceedings in respect of an offence referred to in subsection
+(2.1), or on application of such a justice system participant, a judge or
+justice may make an order directing that any information that could identify
+the justice system participant shall not be published in any document or
+broadcast or transmitted in any way if the judge or justice is of the opinion
+that the order is in the interest of the proper administration of justice....
+(2.1) offences
+–
+the offences for the purposes of subsection (2)
+are
+(a) an offence under section
+423.1, 467.11, 467.111, 467.12, or 467.13, or a serious offence committed for
+the benefit of, at the direction of, or in association with, a criminal
+organization;
+(b) a terrorism offence;
+(c) an offence under
+subsection 16(1) or (2), 17(1), 19(1), 20(1) or 22(1) of the
+security of
+information act; or
+(d) an offence under
+subsection 21(1) or section 23 of the
+security of information act
+that
+is committed in relation to an offence referred to in paragraph (c).
+(3)
+limitation
+– an order made under this section does not apply
+in respect of the disclosure of information in the course of the administration
+of justice if it is not the purpose of the disclosure to make the information
+known in the community....
+486.6 offence
+—
+(1)
+every person who fails to comply with an order made
+under any of subsections 486.4(1) to (3) or
+subsection 486.5(1)
+or
+(2)
+is
+guilty of an offence punishable on summary conviction.
+ontario court of justice
+citation:
+r. v. radmehr, 2025 oncj 387
+date: 
+2025 07 18
+court
+file no.: newmarket – central east
+4911-998-23-91107114
+between:
+his majesty the king
+— and —
+mahyar radmehr
+before
+justice m. townsend
+heard
+on may 12, 2025, and may 13, 2025
+reasons
+for judgment released on july 18, 2025
+r. gill..................................................................................................... counsel
+for the crown
+c. gill............................................................ 
+counsel for the defendant mahyar radmehr
+townsend j.:
+
+mr. radmehr stands charged on the following
+count:
+that between the 1
+st
+day of
+june, in the year 2023, and the 30
+th
+day of june, in the year 2023,
+in the city of richmond hill in the regional municipality of york, he did
+without lawful authority, and knowing that another person was harassed, engage
+in threatening conduct directed at that person, and cause s.a. to reasonably
+fear for her personal safety, contrary to
+section 264(2)
+(d) of the
+criminal
+code of canada.
+
+the crown elected to proceed summarily, and mr.
+radmehr plead not guilty. the trial commenced with reference to the crown’s
+application for a publication ban pursuant to
+section 486.5
+of the
+criminal
+code.
+
+that issue was eventually argued on day 2 of
+this trial, with an agreement that any publication ban put in place would apply
+retroactively to the beginning of the trial. after argument, i ruled that an
+order under
+section 486.5
+was appropriate and imposed the publication ban. oral
+reasons for that judgment can be found in the trial transcript.
+
+the central issue for me on this trial is
+whether the crown has proven the offence as charged beyond a reasonable doubt.
+for the reasons that follow, i find that the crown has not met its burden and
+has not proven the offence before the court as against mr. radmehr beyond
+a reasonable doubt.
+
+in the alternative, the crown asks that i
+exercise my common law jurisdiction and impose a common law peace bond upon mr.
+radmehr prohibiting him from contacting or communicating with the complainant. i
+will address this issue later in my reasons.
+
+for the sake of brevity, the complainant
+indicated that she prefers to be referred to as ms. k.
+overview of the evidence
+
+at the outset of the trial, an agreed statement
+of fact was filed as exhibit no. 1. that agreed statement of fact provides as
+follows:
+1.
+malahat kheradyar, the defendant’s mother was
+captured on video surveillance on june 28
+th, 2023, at approximately
+3:02 p.m. leaving pieces of paper consisting of the link to [name removed].com
+inside the hudson’s bay, located [address removed], ontario.
+2. four complete transcripts are posted on [name
+removed].com consisting of the following:
+a) complete trial
+proceedings from june 21, 2019, before the honourable justice pirraglia. the
+crown sought dismissal of the charges at trial and radmehr, mahyar was found
+not guilty.
+b) family court
+proceeding disposition of ms. k. from november 9
+th, 2018. family
+court proceedings disposition of ms. k. from may 23
+rd, 2019.
+
+mr. radmehr and ms. k. met in 2006 and were married in toronto in 2007. together they
+have two daughters. they separated in 2018 and were the subject of an eventual
+family court trial in 2022 and the divorce was finalized in and around 2023.
+
+ms. k. provided a statement to the police on
+june 30
+th, 2023. in that statement, and in her testimony before the
+court, she stated that a couple days before her statement to the police, she
+was advised by some of her co-workers at the hudson’s bay that there was a
+woman leaving pieces of paper at the bay with a website name on it.
+
+through the agreed statement of fact, we know
+that that woman was mr. radmehr’s mother, and the website name was [name
+removed].com.
+
+this website, [name removed].com, was created by
+mr. radmehr. there is no dispute about that. ms. k. was taken through the
+website, and many screenshots of the website were entered as exhibits on this
+trial.
+
+the website, consistent with the agreed
+statement of fact, contains several court transcripts relating to family court
+proceedings, and criminal court proceedings in which mr. radmehr was the
+accused.
+
+the website also contains information about the
+employment history of ms. k., and information relating to her family members –
+in particular, her brother. it also contains information about ms. k.’s
+previous husband, intimate and common-law partners. the information relating to
+these individuals (i.e. the previous partners of ms. k.) is not particularly
+negative, but it is written in such a way that it paints ms. k. in a
+particularly bad light with respect to how she treated these people while in a
+relationship with them.
+
+throughout the website, ms. k. and her brother
+are constantly referred to as “fraudsters” and “impersonators”. there are
+allegations contained on the website that ms. k. engaged in an attempted
+forgery at one of her places of employment. there is also an allegation that
+ms. k. attempted to fraudulently obtain a line of credit from the royal bank.
+again, these are all just allegations made by mr. radmehr, as i do not believe
+that any formal charges were ever laid against ms. k. there is a picture
+of ms. k. and her brother on
+the home page of the website.
+
+the crown asked ms. k. the following question at
+the beginning of her examination-in-chief:
+q. okay. and how did you feel the first
+time you saw the website on that day?
+a. i feel constantly harassed. very
+disappointed. helpless. i lost my confidence since that website is on.
+
+ms. k. testified that when she initially saw the
+website under her name some time before june of 2023, there was simply a
+placeholder page – presumably from the website provider godaddy.com – which
+said, “something cool is coming soon”. ms. k. believed that mr. radmehr
+created the website before june 2023 but he was bound by some kind of court
+imposed restriction that prevented him from posting anything relating to ms. k.
+on the internet, and that that restriction expired on june 28
+th,
+2023 when they had their final family court appearance.
+
+throughout the website, mr. radmehr calls ms. k.
+a “dangerous person” and a “liar”. he makes the same comments with respect to
+her brother. the website constantly suggests that ms. k. forged documents and
+made false allegations with respect to a number of things. all of which ms. k.
+denies.
+
+in the introductory section of the website, mr.
+radmehr clearly identifies that he is the author of the website and sets out
+why he created the website. he cites two main reasons for creating the website.
+the first is:
+“reason no. 1 is to expose [ms. k.] as a
+dangerous person and a liar who can and will accuse anyone for the purpose of
+displacing them by police force to serve an unrelated purpose. i do not want
+anyone else to meet the same fate as i did and if they do, they have something
+to show for her evil pattern of behaviour. i was wrongfully accused and
+arrested thrice on charges of assault, threat and harassment. the 2nd time i
+was found not guilty in a trial but on the 1st and 3rd occasions, the cases
+against me were withdrawn without a trial so there is no transcript or closure.
+in all 3 cases i had no legal recourse. [ms. k.] is a serial accuser who has
+had police encounter with at least 5 male partners (me included) and a female
+since 1997 and yet every time she decides to accuse someone, she is celebrated
+as a new victim with no regard to her past records.” (spelling mistakes in
+original)
+
+the second reason for creating the website is
+that mr. radmehr takes issue with the way he perceives that men are treated in
+the family court system and in the criminal justice system. he believes that
+there is an inherent unfairness in the way that men are treated in family
+court, and when accused of criminal offences by former intimate partners. that
+is simply his opinion.
+
+at the bottom of the introductory page, he
+states: “if you have any information about [ms. k.] that i do not know about
+with supporting document and you want to share it please call or e-mail me at [name
+removed].com or call [telephone number removed]”. that is his cell phone number
+and his email address.
+
+in response to this last paragraph, ms. k.
+stated in her examination-in-chief:
+q. how do you feel seeing that mr. radmehr
+is asking for more information to come forward?
+a. constantly harassed.
+q. okay.
+a. all the time i have fear, what’s next.
+q. okay.
+a. i’m disappointed.
+
+throughout her testimony, ms. k. expressed a
+feeling of embarrassment that her co-workers and friends could access this
+website and know personal details about her. in particular, that she was
+accused of forgery, and that she was the subject of an arranged marriage early
+on in her life.
+
+ms. k. frequently testified that this website
+gives her anxiety, she is embarrassed these private details of her life are out
+in the public domain, and it really bothers her that information about her past
+is available for co-workers to see. at one point in her examination-in-chief
+ms. k. stated:
+a. this is affecting my life, my kid’s
+life, my job, my – my everything. it’s all of these reports and everything it’s
+– it’s affecting my life.
+q. okay
+a. i – i – i lost my self confidence. i –
+that’s not me. i used to be like more in public or – i – i don’t like even –
+like i have a fear even search something in the internet, or you know just like
+the simple thing. or in public like – like i feel all the time like embarrassed
+and constantly like harassed.
+
+throughout the examination-in-chief, ms. k. went
+through the history of her relationship with mr. radmehr and his family. it was
+not without turmoil. it seems that mr. radmehr and ms. k. have had difficulty
+in their relationship from the beginning. family members seem to have never
+really got along, ms. k. and her mother-in-law seem to frequently be at odds,
+and from time to time the police were involved.
+
+eventually ms. k. was asked:
+q. okay. and when you say you have fear,
+what – can you expand on that? what or who are you fearful of?
+a. mr. radmehr. because since 2018 in each court
+– after each court he hurt me and harmed me, in different ways. in the creative
+ways. and i have to just you know for them to prove – to ask the police how –
+it’s not easy. and now, he created this website. he’s bringing up about the
+ex-boyfriend, first husband about 20-25 years ago. he’s putting my transcript.
+why he’s not putting his transcript. why he’s not showing all the fraudulent
+documents he did to the – to the revenue canada, to the other companies, to the
+court, and the other stuff he’s blaming me. he’s blaming me on this website
+that he has a very heavy bail condition. i’m not the one put the bail condition
+on him. he’s blaming every single thing, and he's putting me down. it’s – i am
+extremely busy to raise two teenage girls in this society. the only request i
+have he move on. leave me alone, because my focus is my kids. this website is
+not just hurting me and my future. it’s about my kids and also about my
+brother.
+q. okay. so, i’m going to pause you there
+because you gave us a lot of information. first, i’ll ask, how do you feel
+testifying in this trial?
+a. it’s not easy because all this stuff
+it’s in there - it’s in this website...
+q. okay.
+a.... i testified already in my family
+court. i – i – i talked about in my questioning. i talked about in every court.
+like in other trial. like why he just keep going back and mentioning, because i
+can’t forward. i have to block this stuff. it’s – it’s bothering me. it’s
+making me nervous. it’s making me anxiety. it’s – and that fear it’s not easy.
+….
+q. okay. do you have concerns for your
+safety seeing your workplace listed there?
+a. of course, i see because i mentioned
+about the guy who was a stalker. i just – you know i just don’t want to like
+find me. and also, it’s – it’s about more than me. it’s about my ex-husband.
+like it’s just public – putting in public that where am i working. what am i
+doing. like this and that. it's....
+
+ms. k. appears to be a very private person. the
+fact that this website is out there, and personal details relating to herself
+and members of her family bothers her. she is frustrated and embarrassed by the
+fact that her co-workers and friends have seen this material and frequently ask
+her about it. this website makes her feel harassed and gives her constant
+anxiety and embarrassment.
+
+in cross-examination, ms. k. agreed that all
+criminal allegations that she has levied against mr. radmehr have either had no
+charges laid, been dismissed by the crown or court, or he has been found not
+guilty.
+
+ms. k. also agreed that in the statement that
+she gave to the police on june 30
+th, 2023, the concern that she
+expressed to the police with respect to the actions of mr. radmehr was
+“embarrassment” that her children and co-workers would find things out about
+her past and relationship with mr. radmehr.
+
+ms. k. wants the website taken down, she wants
+the embarrassment to stop, and she wants both she and mr. radmehr to move on
+with their lives independent of any contact or communication with
+or about
+(my emphasis) one another.
+analysis
+
+section 264(1)
+of the
+criminal code of canada
+sets out the offence of criminal harassment. more specifically,
+s.264(2)
+specifies that the offending conduct can amount to criminal harassment in a
+number of ways:
+(1) no person shall, without lawful
+authority and knowing that another person is harassed or recklessly as to
+whether the other person is harassed, engage in conduct referred to in
+subsection that causes that other person reasonably, in all the circumstances,
+to fear for their safety or the safety of anyone known to them.
+(2) prohibited conduct - the conduct
+mentioned in subsection (1) consists of
+(a) repeatedly
+following from place to place the other person or anyone known to them;
+(b) repeatedly
+communicating with, either directly or indirectly, the other person or anyone
+known to them;
+(c) besetting or
+watching the dwelling-house, or place where the other person, or anyone known
+to them, resides, works, carries on business or happens to be; or
+(d) engaging in
+threatening conduct directed at the other person or any member of their family.
+
+mr. radmehr has been charged under
+section 264(2)
+(d)
+– frequently referred to as criminal harassment – threatening conduct.
+
+the burden of proof in this, and in all criminal
+trials always rests with the crown, it never shifts. that burden, proof beyond
+a reasonable doubt, must be met in relation to each essential element of the
+offence. that burden is a heavy one.
+
+as is often cited in many criminal trials, a
+reasonable doubt is not an imaginary, far-fetched, or frivolous doubt, nor is
+it a doubt based on sympathy for either party or prejudice for or against any
+party. a reasonable doubt must be a doubt based on reason and common sense. it
+is a doubt that logically arises from the evidence, or the absence of evidence.
+see:
+r. v. lifchus,
+1997 canlii 319 (scc), s.c.j. no. 77.
+
+to be clear, it is not sufficient that on the whole
+of the evidence, i am satisfied that mr. radmehr is probably guilty. probable
+guilt is not the criminal law standard of proof - it is closer to certainty. a
+reasonable doubt is a doubt based on reason and common sense which must be
+logically based on the evidence or lack of evidence. see:
+r. v. villaroman,
+2016 scc 33 (canlii), s.c.j. no. 33. it is open to me as the trial judge to accept some, none
+or all of a witness’ testimony.
+
+justice martin in
+r. v. kruk,
+2024 scc 7 (canlii), 
+s.c.j. no. 7, stated the following at paragraph 62:
+reasonable doubt applies to credibility
+assessments such that if the evidence the crown adduced does not rise to the
+level required of a criminal conviction, an accused cannot be found guilty
+simply because they are disbelieved. … some elements of the totality of the
+evidence may give rise to a reasonable doubt, even where much – or all – of the
+accused’s evidence is disbelieved. any aspect of the accepted evidence, or the
+absence of evidence, may ground a reasonable doubt. moreover, where the trier
+of fact does not know whether to believe the accused’s testimony, or does not
+know who to believe, the accused is entitled to an acquittal.
+
+the crown submits that the creation of the
+website by mr. radmehr, the inclusion on the website of personal details with respect
+to ms. k.’s past, her employment history and dating history, along with
+allegations that both she and her brother are “fraudsters” and “impersonators”
+has created within her a sense of fear. the crown argues that a reasonable
+person in ms. k.’s circumstances
+would feel that the website has created a sense of fear within her.
+
+counsel for mr. radmehr submits that there is
+nothing contained within the website which is designed to instill a sense of
+fear or intimidation in ms. k. while the actions of mr. radmehr are not to be
+condoned, and while his actions may be embarrassing and frustrating for ms. k.,
+they do not rise to the level of engaging in threatening conduct.
+
+in
+r. v. martinez-calderon,
+ o.j.
+no. 2865 (cj), the elements of criminal harassment in the context of
+section
+264(2)
+(d) were put succinctly at paragraph 23:
+the elements of the offence of criminal
+harassment were discussed by the court of appeal for ontario in
+r. v.
+kosikar
+1999 canlii 3775
+and
+r. v. kordrostami
+2000 canlii 5670.
+applying those principles to this case, in this case, the crown must prove that
+(1) the defendant engaged in threatening conduct toward the complainant, (2)
+this harassed her, (3) the defendant knew the complainant was harassed or was reckless
+or wilfully blind to it, (4) the defendant's conduct instilled fear in the
+complainant, and (5) this fear was reasonable.
+
+see also:
+r. v. province,
+ o.j. no.
+4003 (ca) at paragraph 120.
+
+the
+mens rea
+requirement for the offence
+of criminal harassment – threatening conduct is the intent to commit the
+prohibited act. in this case, that prohibited act is the creation of and
+authorship of the website. the knowledge requirement can be satisfied either by
+an expression of direct intention to harass the complainant, or recklessness or
+willful blindness as to whether the complainant is harassed.
+
+r. v. sim,
+
+o.j. no. 5792 (ca), outlined with reference to other authority how the
+actus
+reus
+is to be treated:
+ sim was convicted under paragraph
+(2)(d) -- "engaging in threatening conduct directed at the other
+person". in lengthy reasons, the trial judge found that the crown had
+established the mental element or
+mens rea
+of the offence:
+the crown has
+also established well beyond a reasonable doubt that the accused's threatening
+conduct towards the complainant was done while he was at least reckless as to
+whether she was harassed. the
+mens rea
+of count one is made out as well.
+ sim does not challenge this finding.
+he does, however, challenge the trial judge's finding that the actus reus had
+been made out. the trial judge found:
+i have found
+that the
+actus reus
+of threatening has been made out on the basis of all
+the evidence i accept. in particular the accused's recklessness at least about
+the link being made between the real-life [p.l.] and the on-line [p.l.]. as
+well as the recklessness about the complainant finding out about the home page
+and the whole website, as she eventually did.
+ sim submits that the trial judge erred
+in law in making this finding because establishing the
+actus reus
+of the
+offense requires proof that the accused subjectively intended to engage in
+threatening conduct. the trial judge acknowledged that if the
+actus reus
+imports a requirement to prove an accused's subjective intention, then sim was
+entitled to be acquitted. but the trial judge held that there was no such
+requirement. i agree. for that reason, i do not accept sim's submission.
+ in
+r. v. burns,
+2008 onca 6, 77
+w.c.b. (2d) 402 -- relying on the judgment of the yukon territory court of
+appeal in
+r. v. george,
+2002 ykca 2, 52 w.c.b. (2d) 530 -- this court
+endorsed an objective standard for determining the actus reus of harassment by
+engaging in threatening conduct. at para. 2, the court wrote:
+to establish
+harassment under
+s. 264(2)
+(d) of the
+criminal code, the crown had to
+establish that the appellant engaged in "threatening conduct". we
+accept the definition of threatening conduct given in
+r. v. george
+at
+para.
+39
+that, in order to meet the objectives of s. 264, the threatening
+conduct must amount to a "tool of intimidation which is designed to
+instill a sense of fear in the recipient". the impugned conduct is to be
+viewed objectively, with due consideration for the circumstances in which they
+took place, and with regards to the effects those acts had on the recipient.
+[citation omitted.]
+ in support of his submission, sim
+focuses on the word "designed" in the phrase "tool of
+intimidation which is designed to instill a sense of fear in the
+recipient". i do not read this phrase or the word "designed" in
+the way sim does for two main reasons.
+ first, sim's submission is
+inconsistent with s. 264(1) of the
+code
+and thus is contrary to
+parliament's express intent. subsection 264(1) specifies that the
+mens rea
+component of criminal harassment can be met by an accused's knowledge or
+recklessness. to suggest that the
+actus reus
+of threatening conduct
+requires a specific intent to instil fear is contrary to the plain language of
+s. 264(1).
+ second, as this court said in
+burns,
+under
+s. 264(2)
+(d) the conduct in question must be viewed objectively. in other
+words, would the accused's threatening conduct cause a reasonable person in the
+complainant's situation to fear for her safety? the word "designed"
+does not require the crown to prove the accused's subjective intention. and, in
+assessing whether an accused's conduct is threatening under
+s. 264(2)
+(d), a
+judge is not required to get into the accused's mind.
+ instead, the word "designed"
+is meant to focus on the effect of the accused's conduct on a reasonable person
+in the shoes of the target of the conduct. in
+burns, this court
+clarified that the objective assessment must consider the circumstances in
+which the conduct took place, and the effects that the conduct actually had on
+the complainant. although an accused's threatening conduct may not affect every
+target of that conduct, in every conceivable situation, it could well instill
+fear in a reasonable person in the complainant's specific situation,
+particularly when the actual effects of the conduct on the complaint are
+considered. that is the case here. the trial judge did not err in finding that
+the crown had established the actus reus of the offence.
+
+it is clear that mr. radmehr created this
+website. he is the sole author of it. the content of the website is directed at
+ms. k. and her family. in fact, mr. radmehr clearly set out his intention on
+the introductory page of the website.
+
+while the court in
+sim
+stated at the
+conclusion of paragraph 19 that “in assessing whether an accused's conduct is
+threatening under
+s. 264(2)
+(d), a judge is not required to get into the
+accused's mind”, in the case before me we are in a unique situation in that the
+stated intention of the accused is clearly outlined on the website. mr. radmehr
+wanted to “expose” the perceived wrongdoings of ms. k.
+
+while i do not condone, encourage, or agree with
+the actions of mr. radmehr, this is a situation, different than in
+sim,
+where it is important to look at the word “designed”. on my assessment of the
+website, and the content included therein, this website was “designed” almost
+exclusively to embarrass and frustrate ms. k. that assessment is consistent
+with the stated objective of the website, and with the resulting effect of the
+website on ms. k. this website was not “designed” as a tool of intimidation.
+embarrassment appears to be the effect that the conduct actually had on the
+complainant.
+
+at paragraph 123 of
+r. v. province, mr.
+justice watt stated:
+a final point concerns the nature of the
+"threatening conduct" under s. 264(2)(d). that conduct must amount to
+a "tool of intimidation which is designed to instill a sense of fear in
+the recipient". the conduct should be viewed objectively with due
+consideration for the circumstances in which it took place and its effect on
+the complainant:
+r. v. burns,
+2008 onca 6, at para.
+2, citing
+r. v.
+george,
+2002 ykca 2, 162 c.c.c. (3d) 337, at para.
+39; see also
+r. v.
+sim,
+2017 onca 856, 41 c.r. (7th) 416, at para.
+16.
+
+viewed objectively, i do not see this website as
+"tool of intimidation which is designed to instill a sense of fear in the
+recipient". one of the main reasons for this, and which may be
+distinguishing for other cases or situations, is that in all the content on the
+website mr. radmehr never once actively solicits action from anyone. he never
+tells people to go to ms. k.’s place of employment, never asks people to
+contact her or her family, never even directs comments at ms. k. he is stating
+what he believes, erroneously, to be fact.
+
+throughout her testimony, ms. k. repeatedly
+stated that as a result of the website she felt anxious, was embarrassed, got
+stressed out, and feels like she lost her self-confidence. at one point, she
+did mention that she felt fear, but when asked to specify she indicated that
+she felt fear of “what is to come next”.
+
+in
+r. v. benyamin,
+ o.j. no. 5224
+(scj), justice schabas sitting as a summary conviction appeal judge stated the
+following:
+ assessing the reasonableness of a
+complainant's fear requires consideration of how a reasonable person would have
+felt in the circumstances of the complainant:
+r. v. sim,
+2017 onca 856,
+at para.
+19. this includes having regard to the complainant's personal
+circumstances and experience with the offender.
+ reasonable fear in this context can
+include fear for one's physical safety, and fear of and freedom from, mental,
+emotional, or psychological trauma caused by psychological violence:
+r. v. finnessey,
+2000 canlii 16862 (on ca)
+at para.
+16. the crown does not have to prove threats
+of violence. protecting psychological safety is an objective of the
+legislation. as durno j. stated in
+r v. wisniewska,
+2011 onsc 6452
+at
+para.
+38:
+indeed, the
+uncertainty as to what the harasser could do, in itself can often establish the
+fear component and its reasonableness. in addition, the past conduct of the
+accused and the past relationship between the parties can inform the assessment
+of the reasonableness of the fear even when that background evidence is not
+within the timeframe of the information or indictment.
+
+i fully accept that ms. k. “felt harassed” by
+the creation of the website. but that is not the test. she was embarrassed that
+her co-workers knew of her past, she was embarrassed that her friends read the
+content on the website, and she did not want her children to read what their
+father was writing about their mother. as a result of her co-workers being
+aware of the website, ms. k. did not return to work.
+
+i also accept that the website caused ms. k. some anxiety – that is a perfectly
+reasonable response. being called a “fraudster” is very likely anxiety-inducing
+for many people. the difficulty here is that over and above embarrassment,
+frustration, and perhaps even extreme anger, i am not satisfied that a
+reasonable person in the circumstances of ms. k. would have seen this as
+threatening conduct, or experienced fear at the existence of the website.
+conclusion on trial proper
+
+i find that the crown has not met its burden of
+proof beyond a reasonable doubt with respect to each of the essential elements
+of the offence in
+section 264(2)
+(d). criminal harassment as outlined in
+section
+264(2)
+(d) is a very specific charge. had the crown charged under a different
+offence, or a different section, the outcome may have been different.
+
+as a result, mr. radmehr i find you not guilty,
+and the remaining charge against you is dismissed.
+crown request for a peace bond
+
+at a couple of points throughout the trial, the
+crown expressed that in the event that mr. radmehr is acquitted, the crown
+would ask the court to impose a common law peace bond restricting contact between
+mr. radmehr and the complainant and perhaps even a term of the peace bond that
+the website is to be taken down.
+
+justice carnegie commented at paragraph 24 of
+r.
+v. mackie,
+ o.j. no. 3594 (cj):
+ stringent application of the rules of
+a criminal trial do not apply in a non punitive proceeding, as here. parliament
+intended peace bonds to be a preventative tool for courts to address public
+safety. succinctly put, in
+r v schafer
+the yukon territorial court of
+appeal recently and persuasively highlighted the applicable evidentiary
+standard:
+the informant
+(whether a peace officer or a person concerned about personal safety) is not
+required to act on the basis of evidence admissible at trial. the issue for the
+judge is whether there are reasonable grounds for the subjective fear, not
+whether the facts underlying that fear can be proven beyond a reasonable doubt.
+in these circumstances, parliament cannot be taken to have intended that the
+judge strictly apply the rules of evidence. this latter point is reinforced by
+noting that the test for granting a peace bond is no different if the
+application is made by a person concerned about personal safety. it would
+defeat the purpose of the provisions if such a person could not rely on hearsay
+evidence to justify a reasonable fear of harm, but could only secure the protection
+of a peace bond on strictly admissible evidence....... the role of
+the judge is to assess whether the grounds tendered in support of the stated
+fear are objectively reasonable and sufficient to justify the imposition of a
+recognizance with terms and conditions. in my view, hearsay evidence that is
+credible and trustworthy is relevant to that question.
+
+justice rowe writing for the court in
+r. v.
+pennusi,
+2019 scc 39 (canlii), s.c.j. no. 39 went through a bit of the history and evolution
+of the peace bond as we know it today:
+ the peace bond is an instrument of
+preventive justice. the prevention of crime is a well-recognized purpose of the
+criminal law. as locke j. explained in
+goodyear tire & rubber co. of
+canada v. the queen,
+1956 canlii 4 (scc), s.c.r. 303: "the power to legislate in
+relation to criminal law is not restricted, in my opinion, to defining offences
+and providing penalties for their commission. the power of parliament extends
+to legislation designed for the prevention of crime as well as to punishing
+crime" (p. 308; see also
+r. v. s. (s.),
+1990 canlii 65 (scc), 2 s.c.r. 254, at p.
+282).
+ in
+mackenzie v. martin,
+1954 canlii 10 (scc), 
+s.c.r. 361, kerwin j. (as he then was) wrote that a peace bond delivers
+preventive justice by "obliging those persons, whom there is probable
+grounds to suspect of future misbehaviour, to stipulate with and to give full
+assurance to the public, that such offence as is apprehended shall not happen;
+by finding pledges or securities for keeping the peace, or for their good
+behaviour" (p. 368, citing w. blackstone, commentaries on the laws of
+england (16th ed. 1825), cited in
+r. v. parks,
+1992 canlii 78 (scc), 2 s.c.r. 871, at
+p. 911, per sopinka j.).
+
+r. v. budreo
+(1996),
+1996 canlii 11800 (on sc), 27 o.r. (3d)
+347 (ont. ct. gen. div.) ("
+budreo s.c.
+"),
+dealt with a constitutional challenge to the peace bond under
+s. 810.1
+of the
+criminal code. then j. referred to the preventative nature of the peace bond:
+the court in
+considering what constitutes fundamental justice in a liberal society must
+refer to the history of a particular power and the policy rationale behind it.
+preventive justice is the exercise of judicial power not in order to sanction
+past conduct but to prevent future misbehaviour and harm. the exercise of this
+power is justified by the risk of harm or dangerousness posed by certain
+individuals.... [pp. 368-69]
+this was echoed by laskin j.a. in his
+decision affirming the reasons of then j. (
+r. v. budreo
+(2000),
+2000 canlii 5628 (on ca), 46 o.r.
+(3d) 481 (c.a.) ("
+budreo c.a.
+"), leave to appeal dismissed,
+ s.c.c.a. no. 542, 1 s.c.r. vii:
+the criminal
+justice system has two broad objectives: punish wrongdoers and prevent future
+harm. a law aimed at the prevention of crime is just as valid an exercise of
+the federal criminal law power under
+s. 91(27)
+of the
+constitution act,
+1867, as a law aimed at punishing crime. [footnote omitted; para. 27]
+ the modern peace bond can be traced
+back as early as the 1300's, to the common law practice of "binding
+over". "binding over" described a judicial authority to make
+preventive orders to maintain social order despite no specific crime having
+been charged, aimed at preventing a wide range of undesirable activity. the
+earliest reference to the practice was in the
+justices of the peace act 1361
+(eng.), 34 edw. 3, c.1, where the power was granted to justices to "take
+of people who came before them sufficient mainprise of their good behaviour
+towards the king and his people" (law commission no. 222,
+binding over:
+report on reference under section 3 (1)(e) of the law commissions act 1965
+(1994), cited in d. orr, "section 810 peace bond applications in
+newfoundland" (2002), 46 crim. l.q. 391, at p. 391).
+ in 1892, existing english law was
+codified in the
+criminal code, including the common law peace bond.
+section 959(2) of the
+criminal code, 1892, s.c. 1892, c. 29, provided:
+2. upon
+complaint by or on behalf of any person that on account of threats made by some
+other person or on any other account, he, the complainant, is afraid that such
+other person will do him, his wife or child some personal injury, or will burn
+or set fire to his property, the justice before whom such complaint is made,
+may, if he is satisfied that the complainant has reasonable grounds for his
+fears, require such other person to enter into his own recognizances, or to
+give security, to keep the peace, and to be of good behaviour, for a term not
+exceeding twelve months.
+ the 1892 peace bond provision bears
+strong similarity to the modern day peace bond provisions, but like the common
+law peace bond, there was no requirement to hold a hearing. where a justice was
+satisfied that the "complainant" had a reasonably founded fear, the
+justice could require the "other person" to enter into a recognizance
+to keep the peace and to be of good behaviour for a period not exceeding 12
+months.
+ regarding the procedural requirements
+of common law peace bonds, chief justice lamer, writing in dissent in
+parks,
+cited a decision of the english court of appeal which noted:
+that is not to
+say that it would not be wise, and indeed courteous in these cases for justices
+to give such a warning; there certainly would be absolutely no harm in a case
+like the present if the justices, returning to court, had announced they were
+going to acquit, but had immediately said "we are however contemplating a
+binding-over; what have you got to say?" i think it would be at least
+courteous and perhaps wise that that should be done, but i am unable to elevate
+the principle to the height at which it can be said that a failure to give such
+a warning is a breach of the rules of natural justice. [emphasis in original;
+pp. 893-94, quoting
+r. v. woking
+justices, ex p. gossage,
+
+2 all er 621, at p. 623 (eng. c.a.).]
+ in the 1954 amendments to the
+criminal
+code, s.c. 1953-54, c. 51, the phrases "cause the parties to
+appear", "evidenced adduced", and reference to the court
+"before which the parties appear" were introduced into s. 717 (a
+predecessor of s. 810). these amendments resulted in a more procedurally robust
+peace bond scheme; one where a hearing was required so that the defendant could
+have the opportunity to respond to the alleged fear and contest the peace bond.
+as will be discussed below, i respectfully cannot accept the conclusion of the
+court of appeal that the enactment of provisions which include the phrase
+"cause the parties to appear" (e.g. ss. 810(2) and 810.2(2)) are
+"special provisions to compel appearance", or that their enactment
+created a unique "scheme for dealing with peace bond informations"
+(para. 50) to compel the attendance of a defendant to a hearing. rather, the
+introduction of the wording most likely reflected the requirement that, before
+ordering a defendant to enter a recognizance, a judge must hold a hearing to
+determine whether the informant's fear is reasonably founded.
+ in addition to the general peace bond,
+based on fear of personal injury or damage to property (s. 810), parliament has
+since the early 1990's added a number of specialized peace bonds respecting:
+fear of a criminal organization offence, including intimidation of a justice
+system participant or a journalist (s. 810.01); fear of a terrorism offence (s.
+810.011 and s. 83.3);1 fear of an offence related to forced marriage or child
+marriage (s. 810.02); fear of a sexual offence committed against a minor (s.
+810.1); and fear of serious personal injury (s. 810.2).
+
+given that it was mentioned a number of times
+throughout the trial, mr. radmehr was always on notice that the crown was going
+to ask for a common law peace bond at the conclusion of the trial should he be
+acquitted. counsel for both mr. radmehr and the crown conducted their
+examinations-in-chief and cross-examinations in such a fashion that it
+incorporated all aspects of what would have been a secondary hearing relating
+to the issuance of a peace bond into the trial proper.
+
+when assessing whether to exercise my common law
+jurisdiction pursuant to my preventative justice powers and have mr. radmehr
+enter into a peace bond, one of the first things i have to do is assess the
+reasonableness of the fear proposed by the complainant.
+
+the complainant just wants to move on with her
+life. hopefully mr. radmehr does as well. why he is so focused on her is beyond
+me. their marriage did not sustain, there was disagreement and perceived
+criminality between them, but they are divorced, their relationship is over,
+family courts have given their final decision on what is to happen with their
+children. mr. radmehr needs to grow up, move on, and stop with the fixation on
+ms. k. and her family.
+
+i am unable to get past the first task i must
+perform with respect to the imposition of this common law peace bond. as per my
+findings above, i do not find there to be any reasonable fear on the part of
+the complainant toward mr. radmehr solely as a result of the creation of this
+website.
+
+given that the cause of the fear purported to be
+the website, and i have found that fear to be unreasonable, i have no
+jurisdiction to impose a term on mr. radmehr that he take down the website.
+
+ms. k. has stated that she wishes not to have
+any contact with mr. radmehr. i truly hope that mr. radmehr respects those
+wishes and leaves ms. k. and her family alone.
+
+given that i am unable to find a reasonable fear
+upon which to base the exercising of my common law jurisdiction pursuant to my
+preventative justice powers, and i find no nexus between the existence of the
+website and the offence upon which mr. radmehr was arraigned, i decline to order
+that mr. radmehr enter a peace bond with respect to ms.
+k. or any member of her immediate family.
+released: june
+18, 2025
+signed:
+justice m. townsend

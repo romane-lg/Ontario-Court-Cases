@@ -1,0 +1,753 @@
+source url: https://www.canlii.org/en/on/oncj/doc/2025/2025oncj291/2025oncj291.html
+
+ontario court of justice
+citation:
+r. v. rathore, 2025 oncj 291
+date: 
+2025 05 28
+court
+file no.: toronto 22-12000239
+between:
+his
+majesty the king
+—
+and —
+jawad rathore and vince petrozza
+before
+justice d. moore
+reasons
+for judgment released on may 28, 2025
+scott patterson and vallery bayly................................................. counsel
+for the crown
+scott k. fenton................................................ 
+counsel for the accused jawad rathore
+gerald chan and dan goudge..................... 
+counsel for the accused vince petrozza
+d. moore j.:
+
+mr. rathore and mr. petrozza each face a single count
+of fraud over $5,000 contrary to
+s. 380
+of the
+criminal code. the charge
+period is january 31, 2011 to july 29, 2015.
+
+mr. rathore and mr. petrozza are, of course, presumed innocent of the
+charge against them. the burden in this case rests upon and remains with the
+crown throughout to prove beyond a reasonable doubt that mr. rathore and/or mr.
+petrozza committed the offence charged. mr. rathore and mr. petrozza do not
+have to prove anything, rather the crown must prove beyond a reasonable doubt
+all the essential elements of the offence.
+
+the supreme court of canada has set out the standard of proof beyond a
+reasonable doubt in the cases of r. v. starr
+
+and r. v. lifchus
+
+as being the highest standard known to our legal system. although the crown
+need not prove its case to an absolute certainty, as that test would be
+impossibly high, the standard of reasonable doubt is much closer to absolute
+certainty that it is to the civil standard of balance of probabilities. when
+dealing with a determination of mr. rathore and mr. petrozza’s liberty no
+lesser standard would suffice.
+a. overview
+
+mr. rathore and mr. petrozza were the operating minds
+behind an organization i will refer to as fortress. fortress was in the business
+of raising funds for construction projects through the investment vehicle of
+syndicated mortgages. it was also at times a partial or full owner of the corporation
+that owned the construction projects (sometimes referred to as the developer).
+
+syndicated mortgages are an investment vehicle whereby
+investors pool their funds together to lend their money in the form of a
+mortgage that is registered as a charge on title to the property. each investor
+holds a portion of the amount of the charge that corresponds to their
+investment. the investors are lenders in these transactions, the developer is
+the borrower.
+
+fortress’ business was focused on filling a need for
+financing during the early stages of a development. the financing was to be
+used to assist the developer in getting the project to a stage where it would
+qualify for construction financing through an institutional lender.
+
+fortress marketed these syndicated mortgages as an
+investment product to the public. syndicated mortgages are regulated
+transactions,
+and each party to the transaction needs to be represented by a licenced
+mortgage broker. fortress acted on behalf of the borrower/developer and was
+represented in most transactions by the mortgage brokerage centro/bdmc. the investor/lenders were in
+most cases represented by three brokerages set up primarily to handle these
+transactions, collectively referred to during the trial as the “f brokers”: fmp
+mortgage investments inc, ffm capital inc., and fds brokers services inc.. each
+of these brokerages employed individual licenced brokers who dealt directly
+with the investor/lenders.
+
+the f brokers would locate investors through referrals,
+advertising, and the conducting of informational seminars/presentations/conferences. 
+fortress was involved in advertising, educating the f brokers about the
+available offerings, the details of the transactions, and providing brochures and
+other promotional materials to be used or referenced in the seminars/presentations/conferences
+or other meetings with lenders. fortress created the structure of the offering
+and have admitted in the agreed statement of fact to knowledge of the information,
+forms, and documents provided to lenders describing the project, the risks
+associated with the mortgages, and other matters. documentation provided to
+lenders was quite voluminous and the parties have filed all of the primary
+documents for each project, although not the specific forms completed by each
+investor, just a selection of same. in particular, this documentation included
+a form 9d which is a form required by the law society of ontario that was completed
+with each lender during the provision of independent legal advice by a lawyer
+as well as the financial securities commission of ontario (fsco)
+investor/lender disclosure form required by regulation to be completed by the lender
+with their individual licenced broker.
+
+fortress’ business model was overall very successful,
+this
+financing offered by fortress to developers was designed to carry the
+construction projects through the early stages of the projects before the
+developers were able to obtain construction financing from institutional
+lenders. fortress was involved in raising approximately $920,000,000 by way of
+syndicated mortgage loans for approximately 25 different developers. rathore
+and petrozza, through fortress, were involved in financing approximately 80
+construction projects that resulted in the construction of approximately 5,300
+residential units and approximately 1,700 commercial units.
+
+
+many of the syndicated mortgage loans [
+sml
+s] were completed and “exited” (whether through ultimate completion
+of the project or though another entity taking over the project or land and
+repaying the investors/lenders’ interests as part of the transaction) with the investors/lenders
+being paid back their principal and interest in full as well as a bonus
+completion return. unfortunately for the investors/lenders involved, some projects
+did not exit successfully and they lost money. the rcmp began an investigation
+in 2016 into fortress and related individuals and entities, ultimately leading
+to the charge before the court.
+b. history of the proceedings
+
+mr. rathore and mr. petrozza were initially charged with one count
+of fraud over $5,000 and one count of secret commissions contrary to
+sections 380
+and
+426
+of the
+criminal code. at the outset of the trial the accused
+brought an application for particulars which i granted. additional particulars
+were furnished providing that:
+both
+counts
+(fraud
+and
+secret
+commissions)
+pertain
+to
+one
+or
+more
+of
+four
+projects:
+(i) colliers, (ii) crates, (iii) skycity,
+or
+(iv) harmony village.
+the
+fraud
+count
+is
+particularized
+to
+the
+following:
+(i)
+misrepresenting
+to
+the
+public the
+valuation or
+appraisal
+of security or property, or
+(ii)
+misrepresenting
+to
+the
+public
+how
+investor funds
+would
+be
+used, diverted, or secured,
+specifically by failing
+to disclose fees that
+jawad
+rathore,
+vincent petrozza, or their companies were
+taking from investor funds.
+
+on january 27, 2025 the crown entered a stay of proceedings with
+respect to the secret commissions count. the crown also ultimately decided it
+was not seeking a conviction with respect to the crates and harmony village
+projects, leaving only the colliers and sky city projects as the
+actus reus
+for the remaining count of fraud over.
+
+viva voce
+evidence on the trial proper commenced
+october 28, 2024 and continued somewhat intermittently over 11 days concluding
+january 27, 2025. the defence did not call any evidence. submissions were heard
+april 1-3, 2025.
+c. the law
+
+there is little, if any, dispute between the parties with respect to
+the law of fraud. it was largely settled decades ago by the decision of the
+supreme court of canada in r. v. théroux.
+
+the elements of the offence of fraud are:
+1)
+an act of deceit, a falsehood, or some other fraudulent conduct;
+2)
+deprivation or risk of deprivation to another caused by the
+dishonest act;
+3)
+subjective knowledge of the dishonest act; and
+4)
+subjective knowledge that the dishonest act could cause deprivation
+or risk of deprivation.
+
+the first two elements constitute the
+actus reus
+of the
+offence, the latter two the
+mens rea.
+d. the subject projects
+
+(a) colliers
+
+colliers
+was launched in october 2011 by mady developments, through a single purpose
+corporation, mady collier centre ltd. (“
+mady collier
+”).
+
+on
+june 15, 2012, a letter of intent was executed by frdi and mady collier
+regarding the financing of colliers, followed by the execution of a development
+loan agreement on july 17, 2012.
+
+on
+january 30, 2015, mady collier applied for creditor protection under the
+companies
+creditors arrangement act, r.s.c. 1985, c. c-36. at the time, construction
+of the concrete structure was complete but substantial work remained.
+
+on
+april 8, 2015, the court approved a process proposed by the mady collier’s
+court-appointed monitor to seek a sale of the project.
+
+on
+october 16, 2015, mady collier and fortress collier centre ltd.—a single
+purpose corporation incorporated by fortress to purchase colliers—entered into
+an agreement of purchase and sale under which fortress collier centre ltd.
+agreed to purchase colliers from mady collier for $32,700,000.00.
+
+morrison
+financial realty corporation is a private mortgage financer and financed the
+construction of colliers for a $60,000,000 mortgage that stood in priority to
+the smls on the project. when fortress collier centre ltd. defaulted on this
+loan and listed the property for sale in july 2018, morrison financial
+transferred the property to morison financial realty corporation for
+$18,457,000.
+
+morrison
+realty completed construction of colliers which is now called the lakeview
+corporate centre.
+(b) sky city
+
+on
+july 27, 2012, petrozza agreed to purchase the property located at 245 graham
+ave., winnipeg, mb, in trust for a company to be incorporated.
+
+subsequently,
+a single purpose company, 6566074 manitoba inc. (the “
+skycity project co.
+”)
+was incorporated to own and develop the skycity project. the skycity project
+co. was 50% owned by mady winnipeg 2013 inc., with fortress winnipeg 2013 inc.
+(“
+fortress winnipeg
+”) owning the other 50% of the shares. rathore held
+80% of the shares in fortress winnipeg, with petrozza holding the other 20%.
+
+on
+may 10, 2023, mady development corporation and fortress winnipeg entered into a
+joint venture agreement, under which fortress winnipeg and mady development
+corporation agreed to split the profits of skycity evenly between them. as a
+part of the joint venture agreement, fortress winnipeg agreed to obtain all
+financing for skycity, while mady development corporation agreed to act as construction
+manager, for which it would be paid a fee in addition to its share of the
+profits for the project.
+
+after
+mady development corporation began experiencing financial difficulties, mady
+winnipeg 2013 inc. agreed to sell its shares in the skycity project co. to
+fortress winnipeg in january 2015.
+
+on
+october 13, 2020, the priority mortgage holder on the property, 11615467 canada
+ltd. issued a notice of sale, seeking the repayment of outstanding amounts to
+it. on march 25, 2021, a public auction was held, however, no offers were made
+to purchase the property. the property was subsequently sold in a private
+transaction for an amount that was less than the amount owning to 11615467
+canada ltd. under the priority mortgage.
+
+construction
+never began at the skycity site and deposits were returned to condo buyers.
+e. the evidence
+
+in addition to the
+viva voce
+evidence i have a vast amount of
+material filed on consent of the parties. i cannot say enough about how hard
+counsel have worked together to narrow and focus the issues and organize the
+material into a manageable form. this trial could easily have taken many, many
+months of scarce and valuable court time and the public has been very well
+served by the collective and collaborative efforts of counsel.
+
+having had the benefit of the excellent written and oral submissions
+of the parties there is very little in dispute between the parties about the
+evidence in this case. unlike most criminal cases, the credibility and
+reliability of the
+viva voce
+witnesses is not much in dispute.
+
+although the witnesses were testifying about events that occurred in
+some cases more than a decade previously raising obvious reliability concerns,
+those concerns were almost always allayed by the documentary evidence that was
+prepared at the time of the events and provided a reliable record of what
+occurred as a more than adequate substitute for the perfectly understandable gaps
+left by the frailties of human memory.
+
+where the evidence is not disputed there is no need for me to make
+findings in relation to that evidence and i will thus not extensively review
+the entirety of the evidence at trial in this judgment. i will, however, make
+findings with respect to the evidence of three witnesses whose evidence on
+particular points is somewhat contested. i will also note the absence of
+evidence in certain areas.
+
+mr. john filice provided an opinion of value that was used as the
+basis for the syndicated mortgages in relation to the colliers project (and
+many other projects that are not the subject of charges). i have significant
+credibility concerns with respect to his claim that he did not have any
+knowledge that his opinions were going to be provided to investors in
+syndicated mortgage loans. it is directly contradicted by contemporaneous
+email communications and other documents. i generally found his testimony to
+be self-serving and an after the fact attempt to justify and/or excuse his
+actions and perhaps to shield himself from criminal or civil liability. i thus
+cannot accept his evidence unless it is corroborated by other evidence that i
+do accept or not disputed by the parties.
+
+mr. glen may-anderson was the president and principal broker of the
+fds brokerage. he was also its chief compliance officer. i generally found
+his evidence to be credible. unlike mr. filice he did not appear to be trying
+to portray himself after the fact in a particularly positive light. there were
+a few areas of his evidence however, such as his purported lack of awareness of
+the offering memoranda, that were contradicted by contemporaneous email
+correspondence. he was, of course, testifying about events that occurred many
+years previously. i do not find that he was intentionally lying or trying to
+mislead the court, but i do think his recollection of the events was not
+entirely accurate. where his
+viva voce
+evidence is contradicted by contemporaneous
+reliable evidence i accept the contemporaneous evidence and reject his
+viva
+voce
+evidence.
+
+mr. greg puklicz was the project manager at mady on the collier
+project. he prepared a monthly “management team report” sent to a variety of
+parties updating the progress of the project in a variety of areas. some of
+these reports referenced the funds raised for mady by the smls. they were
+described as, “an $11 million participating equity loan was closed with
+fortress real capital and their investors in august 2012. the term of the loan
+is 24 months with a 6 month extension option with at least 3 months prior
+written notice. the investors will receive 50% of the project profit and have
+registered a $16.9 million mortgage on the property.”
+
+these monthly reports were altered by mr. petrozza and distributed
+to the investor/lenders without referencing the $11 million/$16.9 million
+discrepancy. mr. puklicz knew that mr. petrozza was going to alter the reports
+and distribute them to the fortress investors. he disputed that he knew
+exactly what in the report was going to be altered. he testified that the $11
+million referred to his “capital stack” and that even though colliers did
+receive the full $16.9 million and authorized the disbursement of the funds
+that brought the amount down to $11 million, this reporting was somehow in line
+with generally accepted accounting principles (gaap).
+
+based on my review of the email exchanges between mr. petrozza and
+mr. puklicz i find that either mr. puklicz actually knew exactly what mr.
+petrozza was changing in the report or he just did not care to know. either is
+certainly possible. i also find that describing the transaction as “an $11
+million participating equity loan” is not an accurate and truthful
+description. collier received $16.9 million and a mortgage was registered in
+that amount. the investor/lenders loaned collier $16.9 million, not $11
+million.
+
+finally, there is an absence of evidence that might (or
+might not) have been material to the issues i must decide. i have not been
+provided with any expert opinion evidence whatsoever at this trial. i have not
+heard from an expert in forensic accounting, or property valuations, or the
+construction industry, or financial instruments. i am thus left with my own
+general knowledge of financial matters to try to assess the transactions in
+this case.
+
+i also do not have the financial records of fortress. i do not know
+what their expenses were for salaries, advertising or anything else to assess
+the reasonableness of the fees charged. i do not know what fortress’ net
+income was. although some reference was made to personal expenses being paid
+out of fortress-related bank accounts, i do not know if these expenses were
+treated as draws against equity or dividends, or salary compensation, or
+repayment of a shareholder loan, or something else. i do not have income tax
+returns or other accounting records to show how revenue, expenses, and equity
+were classified for tax purposes. i do know through the tranche schedules what
+monies were received by fortress from the smls, but that is all i know.
+e. analysis
+
+despite the volume of evidence in this case, my resolution of the
+issues is really quite simple. the crown has two theories of liability. the
+evidence on these issues is factually quite narrow and focused.
+(a) non-disclosure of
+up front fees
+
+fortress was in the business of raising funds for developers. they
+entered into agreements with the developers to be paid for raising those
+funds. the developers were sophisticated market actors able to assess whether
+the fees were reasonable or not, and would have been aware of other fundraising
+options and able to make informed choices based on comparison with those other
+options.
+
+although somewhat complicated in the sky city project by fortress
+also being the developer, the fees charged appear to be in line with other projects
+where fortress was not the developer, or at least i do not have any evidence that
+the fees were disproportionate or out of line compared to other projects. with
+respect to colliers, fortress’s takeover of the project occurred after the
+charge period so it is the agreement with mady that governed at the relevant
+time.
+
+the borrower paid fortress’s fees. the lender did not. raising
+funds was part of moving the projects forward, which was what the funds raised
+by the loans were supposed to do. the borrower owed to the lender the full
+amount of the loan plus interest. the fees paid to fortress did not reduce the
+amount owing to the lenders by the borrower. although the disclosure of the
+fees in the sml transactions was somewhat obfuscated and certainly less fulsome
+and clear than in the offering memoranda, i find that there was no obligation
+to disclose the fees at all. the fees were a matter between fortress and the
+borrower.
+
+as noted earlier, i do not find that removing reference to the $11
+million/$16.9 million discrepancy in the management team reports was false or
+misleading.
+
+accordingly, i find that the crown has not established beyond a
+reasonable doubt that mr. rathore and mr. petrozza committed fraud by
+“misrepresenting to the public how investor funds would be used, diverted, or
+secured, specifically by failing to disclose fees that jawad rathore, vincent
+petrozza, or their companies were taking from investor funds.” as
+particularized.
+(b) misrepresentations
+of value
+
+mr. rathore and mr. petrozza were in the business of raising funds
+through syndicated mortgages. they offered these smls to the public. mortgages
+are a relatively secure form of loan since they are registered on title to real
+property. the effect of this registration is that the borrower cannot sell the
+property to anyone without first discharging (repaying) the monies owed to have
+the charge removed. additionally, if the borrower defaults on the loan the
+lender can force a sale of the property in order to recoup the monies owed.
+
+based on the evidence of the investor/lenders mr. straw, ms. frei,
+ms. mcdowell, ms. gasner and mr. jiang, fortress’ own promotional material, and
+my own common sense and general non-expert business knowledge, from the sml lender’s
+perspective there are three key factors in making a decision to lend money:
+(i)
+rate of return – how much profit will i make on
+my investment and how does that rate of return compare to other investments i
+might make?
+(ii)
+credit worthiness – how likely is it that the
+borrower is going to be able to repay the loan?
+(iii)
+security – in the event of default can i recoup the
+money lent from the sale of the property?
+
+as part of each sml transaction (on both the colliers and sky city
+projects), the details of the transaction were set out in a variety of forms
+completed by the lender with the broker and independent counsel. key to the
+crown’s theory of the case are the fsco investor/lender disclosure form and the
+form 9d.
+
+i except a chart from the crown’s factum of the relevant portions of
+each form below:
+collier
+skycity
+fsco
+5.
+appraisal:
+5.
+appraisal:
+investor/lender
+disclosure
+form
+…
+an
+appraisal
+has
+been
+done
+on
+…
+an
+appraisal
+has
+been
+done
+on
+the
+property
+…
+appraised
+“as
+is”
+the
+property
+…
+appraised
+“as
+is”
+value: 21,840,090.00
+value: 18,000,000.00
+…
+…
+date of
+appraisal: july 17, 2012
+date of
+appraisal: may 17 2013
+name and address of
+appraiser:
+name and address of
+appraiser:
+john
+filice,
+cushman&
+jeff
+cheong
+&
+kevin
+ferguson
+wakefield ltd.
+of
+legacy
+global
+merchantile
+partners limited
+6. loan to value ratio (according
+to information from borrower)
+6. loan to value ratio (according
+…
+to information from borrower)
+appraised
+“as
+is”
+value:
+(from
+…
+part a) $21,840,090.00
+appraised
+“as
+is”
+value:
+(from
+loan
+to
+“as
+is”
+value:
+(c/d
+x
+part a) $18,000,000.00
+100) 85.00%
+loan
+to
+“as
+is”
+value:
+(c/d
+x
+projected
+value:
+(where
+100) 88%
+appropriate) $ [left blank]
+projected
+value:
+(where
+loan
+to
+“projected
+value”
+ratio:
+appropriate) $ [left blank]
+(c/f x 100) 85.00%
+18
+loan
+to
+“projected
+value”
+ratio:
+(c/f x 100) 88.00%
+19
+18
+investor witness documents, tab 1, frei fsco ild, pdf
+pp. 48-49.
+19
+investor witness
+documents, tab 2, gasner fsco ild, pdf pp. 47-48.
+law society 9d form
+i am satisfied that the approximate and
+current
+ value
+of
+the
+property
+against
+which
+my investment
+has
+been
+secured
+is
+$21,840,090.00.
+the
+means
+taken to determine said value was a
+ letter of opinion completed by john filice, cushman & wakefield ltd.
+ dated july 17,
+2012.
+20
+i am satisfied that the approximate
+and
+current
+market
+value
+of the property against which my investment has been secured is
+ $18,000,000.00. the means taken to determine said value was a letter of
+ opinion authored by kevin ferguson & jeff cheong of legacy global
+ mercantile partners ltd. dated may 17 2013.
+21
+20
+investor witness documents, tab 1, frei 9d form, pdf p. 6.
+21
+investor witness documents, tab 2, gasner 9d form, pdf p. 5.
+
+fortress held out the opinions of value of mr. filice and mr. cheong
+in these documents as appraisals of “as is” value and current value/current
+market value. based on all the evidence i find beyond a reasonable doubt that
+they were not appraisals, they did not show the “as is” value, and mr. cheong
+and mr. filice were not certified appraisers. they did not demonstrate the current
+value or current market value in the sense of the amount of money that could
+likely be obtained in the event of a forced sale as a result of default on the
+loan, rather at best they showed what another developer might possibly pay for
+the land if they planned to take over the project and see it through to
+completion. since the loan would only go into default if the project was in
+trouble, valuations based on a project takeover with assumptions of a positive
+outlook on the project as a whole are unlikely to be accurate or appropriate estimates
+of recoupable value in the event of a forced sale.
+
+the opinions of value were used to calculate the loan to value ratio
+(ltv). most lay people, and the investor/lenders in this case, likely would
+have interpreted this calculation as similar to calculating the equity in your home. 
+indeed in promotional material fortress drew precisely that analogy. no bank
+would ever give someone a mortgage for more than 100% of the value of the home,
+and they usually require there be at least 10% equity in the home. thus ltvs
+of 90% or less appear reasonable. in their promotional material fortress held
+out that their ltv was “typically” even lower, 75%.
+
+for both the colliers and sky city projects fortress was in
+possession of appraisals done by certified aaci appraisers that appraised the
+value of the lands as much lower than the opinions of value: $7.2 million for
+colliers and two separate appraisals based on somewhat different methods and
+assumptions of $5.9 million and $11 million for sky city. i find as a fact
+based on all the evidence that these values are representative of the “as is”
+values of the properties. if these values were used to calculate ltvs they would
+have been close to 300% for colliers and between 300-150% for sky city.
+
+
+the opinions of value were not helpful to investors in determining
+what they were held out by fortress as demonstrating: the amount of security they
+were actually getting in exchange for the loan. fortress advertised the smls
+as secure investments. as a fortress pamphlet stated “this unique type of
+security is not available through any other type of product and forms the basis
+of fortress real capital’s core strategy:
+security,
+first and foremost.
+”
+
+i am satisfied beyond a reasonable doubt that fortress’ use of the opinions
+of value and ltv ratios based on them included falsehoods in the fsco forms,
+deceived investors with respect to the actual security they were being given in
+the smls, and that the non-disclosure of the actual “as is” value that was
+known to fortress amounted to non- disclosure of material facts.
+
+i am also satisfied beyond a reasonable doubt that these acts created
+a risk of deprivation for every sml investor/lender and although not the sole
+cause of the losses, contributed to their actual deprivation when the projects
+were ultimately unsuccessful.
+
+mr. rathore and mr. petrozza are very smart, sophisticated
+businessmen. they designed these transactions. their business model would not
+have worked if ltv was calculated on an “as is” value. i find beyond a
+reasonable doubt that they both intentionally misled investors about the value
+of their secured interest in order to induce them into investing. while they
+likely hoped that all the projects would be successful and the investors would
+be paid back, i find beyond a reasonable doubt that they knew they were putting
+investor funds at risk.
+
+i also of course find beyond a reasonable doubt that the amount of
+the fraud was over $5,000.
+
+i find mr. rathore and mr. petrozza guilty of fraud over $5,000.
+released: may 28, 2025
+signed:
+justice daniel moore
+
+(2000),
+2000 scc 40 (canlii), 147 c.c.c. (3d) 449 (s.c.c.)
+
+(1997),
+1997 canlii 319 (scc), 118 c.c.c. (3d) 1 (s.c.c.)
+
+although the formal corporate structure was somewhat more complex than set out
+here since the corporate entities are not charged separately and neither
+defendant has submitted that the evidence is more or less inculpatory against their
+co-accused or that they were not the directing minds behind the organization i
+will not review that structure in any detail in these reasons.
+
+under the
+securities act, r.s.o. 1990, c.s.5 and the
+mortgage
+brokerages, lenders and administrators act, 2006 s.o. 2006 c. 29 and
+regulations thereto.
+
+centro mortgage inc./building and development mortgages canada inc.
+
+agreed statement of facts [
+asf
+], exhibit 1, para. 7
+
+1993 canlii 134 (scc), 2 s.c.r. 5
+
+descriptions excerpted from the asf
+
+note that the footnote numbers are from the crown’s factum, not this judgment.
+
+mr. cheong gave 3 opinions of value that increased over time and fortress
+arranged for additional smls based on that increasing value. i have used the
+may 17, 2013 opinion as an example.

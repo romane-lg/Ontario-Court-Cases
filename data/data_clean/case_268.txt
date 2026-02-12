@@ -1,0 +1,329 @@
+source url: https://www.canlii.org/en/on/oncj/doc/2025/2025oncj344/2025oncj344.html
+
+ontario court of justice
+citation:
+r. v. jonni, 2025 oncj 344
+date: 
+2025 06 10
+court
+file no.: brampton 31110803
+between:
+his
+majesty the king
+— and
+—
+richard
+jonni
+before
+justice paul f. monahan
+heard
+on may 15, 2025
+reasons
+for judgment released on june 10, 2025
+p. mehta................................................................................................ counsel
+for the crown
+y. obouhov.................................................................................... counsel
+for the defendant
+monahan j.:
+introduction
+
+the defendant richard jonni was charged with impaired
+driving contrary to
+section 320.14(1)
+(a) of the
+criminal code
+and having
+equal to or more than 80 mg of alcohol in 100 ml of blood within two hours of
+operating a motor vehicle contrary to section 320.14(1)(b) of the
+criminal code.
+the alleged offence date is september 21, 2023.
+
+at the outset of trial, the crown sought
+arraignment on the offence of equal to or over 80 mg of alcohol in 100 ml of
+blood and did not seek arraignment on the impaired driving count. accordingly,
+the case proceeded only on the equal to or over 80 mg of alcohol in 100 ml of
+blood count and not the impaired count. the defendant pled not guilty.
+
+the crown and the defence agreed that the only
+issues in the case were (i) whether there was a violation of section 10(b) of
+the
+charter
+as concerns the “paralegal issue”; and (ii) if there was
+section 10(b) violation whether the evidence of the breath samples should be
+excluded. in particular, the defence admitted, among other things, that the
+breath readings were accurate.
+overview of the evidence
+
+the trial and the
+charter
+application
+were heard on a blended basis on consent. the crown called two witnesses:
+officer g. brar, the arresting officer; and officer l. al-jamal, the breath
+technician.
+
+by way of overview, the police received a radio
+call on september 21, 2023 that there was a vehicle stopped in the roadway on
+mavis road in the city of mississauga. when police arrived, mr. jonni was found
+asleep or unconscious in the driver’s seat of the vehicle. the vehicle was
+running. the fire department had to use a device to break the window in order
+to get the defendant out of the motor vehicle. the defendant was arrested for
+impaired driving. he later provided two truncated breath samples of 190 and 170
+mg of alcohol in 100 ml of blood.
+was there a section 10 (b) violation - the
+“paralegal” issue?
+
+when mr. jonni was first arrested and given his
+rights to counsel he said he wanted to speak to a lawyer whose first name was
+“john”. he had no last name for john and the request essentially ended there.
+
+mr. jonni called his mother from the roadside
+using the apple software “siri”. he did so to see if she had a lawyer. she did
+have a lawyer, mr. y. obouhov, but mr. jonni did not initially want to speak to
+him. mr. obouhov did apparently telephone the police station but did not speak
+with mr. jonni.
+
+mr. jonni had a person named danny castellarin
+who mr. jonni thought might be a lawyer. officer brar found a number for mr. castellarin
+on linkedin and she called and left a message for him. after leaving a message
+for mr. castellarin, officer brar determined from his online profile that he
+was an accountant, not a lawyer. officer brar also checked the law society of
+ontario website and confirmed that mr. castellarin was not a lawyer. this was
+explained to mr. jonni and mr. castellarin was not pursued further.
+
+mr. jonni then changed his mind and said that he
+wanted to speak to the lawyer his mother had recommended namely mr. obouhov. this
+led officer brar to call and leave messages for mr. obouhov at 10:19 am, 10:20
+am and 10:49 am. officer brar learned that mr. obouhov was conducting a trial
+and could not speak to mr. jonni and this was conveyed to mr. jonni.
+
+the mother of mr. jonni arrived at the police
+station and provided a phone number for ann marie rampersad who was said to be
+a paralegal working for mr. obouhov. officer brar spoke to ms. rampersad.
+according to officer brar, ms. rampersad said that she was authorized to speak
+on behalf of mr. obouhov. as a result, officer brar offered to have mr. joni
+speak to ms. rampersad. before doing so she said the following to mr. jonni
+which was recorded “the person you’re speaking to is a paralegal under that
+lawyer so i just want you to understand she is not a criminal lawyer but she is
+a paralegal and she said he authorized her to speak on his behalf”. mr. jonni
+then spoke to ms. rampersad briefly (one minute) and told officer brar he was
+satisfied with the advice he had received from her.
+
+thereafter, the breath technician said the
+following to mr. jonni as concerns ms. rampersad (which was also recorded):
+“now you have the right to speak to a lawyer, sir. your rights to counsel is to
+speak with a lawyer. if you’d like i can contact the free duty counsel lawyer
+for you to speak with in this situation. because i understand she’s a paralegal
+and she works under the lawyer but i still want to offer you a chance to speak
+with an actual lawyer if you’re interested.” mr. jonni then said he did not
+want to speak to duty counsel. after mr. jonni was brought to the breath room
+and was receiving further information from the breath technician concerning
+what would happen if he blew over 80, mr. jonni asked to speak again to the
+“same paralegal” and the breath technician facilitated a further call between
+mr. jonni and ms. rampersad and confirmed that he was “satisfied with the
+advice”. mr. jonni then proceeded to provide the two breath samples of 190 and
+170 mg of alcohol in 100 ml of blood.
+
+the crown submits that there was no section
+10(b) violation. the defendant submits that there was a section 10(b) violation.
+in particular, the defence submits that the defendant should not have been
+permitted to speak to a paralegal at all because a paralegal is not authorized
+to advise or represent persons charged with impaired driving or over 80. in this
+case, it is clear that the police acted in good faith: they went to significant
+lengths to put mr. jonni in touch with counsel of choice. in particular, they
+called and left messages for an accountant who was later determined to not be a
+lawyer so that route was abandoned. they called his counsel of choice mr.
+obouhov three times and left messages and determined that he was in court on a
+trial and they let mr. jonni know this. they then spoke to a person who
+represented herself to be a paralegal (ms. rampersad) and who further
+represented that she worked with counsel of choice and was somehow authorized
+to speak on his behalf. ms. rampersad’s contact information came from mr.
+jonni’s mother. police facilitated two calls with the paralegal. however, the
+difficulty is that a paralegal is not permitted as a matter of law to provide
+legal advice on impaired or over 80 cases. in this regard see
+r. v.
+augustine,
+ o.j. 3522 at para 14
+per henschel j. as she then was. the
+position is similar to a detained person who asks to speak to a relative or
+friend to get advice on what to do when charged with a criminal offence. it is
+well-known that a detained person cannot speak to a relative in those
+circumstances. they can only speak to a relative for the purpose of obtaining
+the name or contact information of counsel.
+
+in my view, in this case, the police should not
+have permitted any communication with the paralegal because it was not in
+furtherance of allowing mr. jonni to exercise his right to counsel. he could
+not exercise his right to counsel by speaking to a paralegal: see
+augustine
+supra at para 19.
+
+i have considered whether ms. rampersad was
+merely a conduit for the advice of mr. obouhov and whether mr. jonni’s contact
+with ms. rampersad was permissible on that basis. in other words, could mr.
+obouhov advise mr. jonni via ms. rampersad. in my view, all of the
+circumstances have to be looked at in order to answer this question. when all
+of the circumstances are examined, it appears that ms. rampersad was more than
+a mere conduit. while it is true that at times ms. rampersad said she was
+speaking “on behalf of” mr. obouhov at other times the police said that ms.
+rampersad had been authorized by mr. obouhov to “speak with you and give you
+advice” (page 5 of the breath room video transcript). at other times the
+conversation with ms. rampersad was facilitated by the police saying “your
+lawyer is on the phone” (see page 10 of the breath room video transcript). when
+mr. jonni asked to speak to ms. rampersad a second time and the police
+facilitated that contact, the breath technician said “i guess you want further
+advice on the matter” (page 9 of the breath room video transcript).
+
+the police in this case acted in good faith and
+came very close to meeting their section 10(b) implementational obligations
+because they made it clear to mr. jonni that ms. rampersad was not a lawyer and
+they told him that his section 10(b) rights entitled him to speak to an “actual
+lawyer” and they tried to reach his counsel of choice and they offered him duty
+counsel which he declined. however, the police should have known the point
+made above in
+augustine
+at para 19 that police do not fulfil their
+section 10(b) implementational duties when they put a detainee in contact with a
+paralegal and they should not have put mr. jonni in touch with a paralegal. he
+should have been told a paralegal could not represent him or advise him in
+connection with the impaired/over 80 charges he was facing. it is clear to me
+that neither police officer (the arresting officer or the breath technician)
+knew that a paralegal was not authorized to advise mr. jonni. the failure to advise
+mr. jonni of this problem and instead to facilitate contact with the paralegal amounted
+to a section 10(b) breach.
+should the breath samples to be excluded by
+reason of the section 10(b) breach
+
+the next question is whether the breath samples
+should be excluded by reason of the section 10(b) breach. this requires a
+consideration of the three-part test laid down in
+r. v. grant
+2009 scc
+32
+namely as follows: (i) the seriousness of the
+charter
+infringing
+conduct; (ii) the impact on the
+charter
+protected rights of the accused;
+and (iii) society’s interest in the adjudication of the case on the merits.
+
+as concerns the seriousness of the
+charter
+breach, this factor considers whether the admission of the evidence would bring
+the administration of justice into disrepute by suggesting that the court will condone
+breaches of the
+charter. in this case, i consider that the
+charter
+breach was of moderate seriousness only. in many of the so-called paralegal
+cases, there was confusion in the minds of the detainee as concerns the person they
+spoke to. in some cases the detainee speaks to a paralegal but thinks they have
+spoken to a lawyer: see
+r. v. alenich
+2022 oncj 161
+at para
+45
+and see
+augustine
+supra
+at para 18.
+
+in the case at bar, the police acted in good
+faith throughout. mr. jonni has not put in an affidavit on his own
+charter
+application. unlike the defendants in the cases mentioned above, there is no
+evidence or suggestion that mr. jonni was confused about whether or not he was
+speaking to a paralegal or a lawyer. the police made it clear to mr. jonni that
+he was speaking to a paralegal and not a lawyer and that he was entitled to
+speak to an “actual lawyer”. police made significant efforts to contact mr.
+jonni’s lawyer of choice and when that failed they offered him duty counsel
+which he declined. as i have already explained, the police did not understand
+the difference between a lawyer and a paralegal and they did not understand that
+a paralegal could not advise mr. jonni in this case. further, police could not satisfy
+their section 10 (b) implementational obligations by putting mr. jonni in touch
+with a paralegal and the police should have known this fact. the police should
+not have facilitated the two calls with the paralegal.
+
+considering all the circumstances, the breach
+was only of moderate seriousness. this factor favours exclusion of the breath
+samples but only moderately so.
+
+as concerns the impact of the breach, i have no
+evidence from mr. jonni even though it is his
+charter
+application and he
+has the onus of establishing that the evidence should be excluded under section
+24(2). i don’t know what would have happened had mr. jonni not been permitted
+to speak to the paralegal which is what should have happened here. he clearly
+wanted to speak to his lawyer of choice. reasonable efforts were made to
+contact his lawyer of choice but they were unsuccessful. it is possible that mr.
+jonni would spoken to duty counsel if he had not been permitted to speak to the
+paralegal but this remains unclear on this record. mr. jonni could have
+testified on his
+charter
+application and given evidence which might have
+assisted the court in determining the impact of the breach but he failed to do
+so.
+
+the taking of the breath samples was minimally
+intrusive. further, there is no evidence that mr. jonni felt distressed or was
+confused because he spoke to ms. rampersad rather than duty counsel. overall,
+as concerns the second
+grant
+factor, i would say that the impact on his
+rights was moderate at most. he knew he was not speaking to a lawyer and he
+knew that he was entitled to speak to a lawyer and he declined to do so when
+offered duty counsel. as i have just said, there is no evidence that he would
+have spoken to duty counsel if he had not been permitted to speak to a
+paralegal. i would add that the fact that ms. rampersad was not authorized by
+law to advise mr. jonni, does not mean that she gave him incorrect advice.
+
+by way of summary on this point, the second
+grant
+factor favours exclusion but only moderately so.
+
+the third
+grant
+factor, society’s
+interest in adjudication on the merits favours the inclusion of the evidence.
+the breath sample evidence is reliable evidence and the crown’s entire case
+depends upon this evidence.
+
+i am aware that where the first two
+grant
+factors make a strong case for exclusion, the third factor will rarely tip the
+scale in favour of inclusion: see
+r. v. mcguffie
+2016 onca 365. in this
+case, the first two
+grant
+factors favour exclusion but only moderately
+so, not strongly. in some ways, the
+grant
+analysis in this case is
+somewhat similar to the
+grant
+analysis in the
+r. v. beaver
+2022
+scc 54
+at paras
+134-35.
+
+balancing all of the
+grant
+factors, i
+have concluded that the admission of the breath samples in this case would not
+bring the administration of justice into disrepute. as a result, the breath
+readings will not be excluded from the evidence.
+summary
+
+by way of summary, while i have concluded that
+mr. jonni’s section 10(b) rights were violated, the
+grant
+analysis does
+not lead to the exclusion of the breath samples. the equal to or over 80 charge
+is proved beyond a reasonable doubt. there will be a finding of guilt on this
+charge.
+released: june 10, 2025
+signed:
+justice paul f. monahan

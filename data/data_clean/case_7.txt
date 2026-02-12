@@ -1,0 +1,827 @@
+source url: https://www.canlii.org/en/on/oncj/doc/2025/2025oncj685/2025oncj685.html
+
+citation:
+r. v. nguyen, 2025 oncj 685
+date: december 22, 2025
+ontario
+ court of justice
+toronto
+between:
+his
+ majesty the king
+— 
+ and —
+parker nguyen
+)
+)
+)
+)
+)
+)
+)
+)
+)
+)
+)
+)
+)
+)
+)
+for
+ the crown
+c. kalantzis
+for
+ the defendant
+m.
+ macchia, c. szpulak and h. kashani
+heard:
+ december 10, 11, 12, 13, 2024: january 24, april 24, september 29, 2025
+reasons for
+judgment
+russell
+silverstein, j.:
+a.
+introduction
+
+the defendant, parker nguyen, is charged
+with possession of various illicit drugs for the purpose of trafficking and
+possession of proceeds of crime arising out of the execution of search warrants
+on april 24, 2023, at two residences: unit 70 – 2901 jane street and unit 510 –
+2800 keele street in the city of toronto.
+
+the defendant brought a
+charter
+challenge to the admissibility of the evidence seized during the execution of
+the warrants. that challenge resulted in the exclusion of the evidence
+discovered at the keele street residence. the evidence found at the jane street
+residence was ruled admissible. the reasons for those rulings are set out
+below.
+
+a trial followed during which the crown
+called evidence from the police involved in the search of the jane street
+residence and the defendant’s arrest at that property. the defence called no
+evidence.
+
+the principal issue in the trial was whether
+the crown had proved beyond a reasonable doubt that the defendant had knowledge
+and control over the contraband found at the jane street residence.
+b.
+the
+charter application
+(a)
+introduction
+
+the defendant (applicant) brought a
+charter
+application to exclude the evidence seized during the execution of the search warrants,
+alleging that the affidavit in support of the search warrants (ito), after proper
+amplification and with certain portions excised, could not have supported the
+issuance of the warrants. the defendant further argued that the police officers
+responsible for the drafting of the ito sought to mislead the issuing justice
+with the intention of subverting the course of justice and that the warrants
+should thus be quashed. he further argued that his s. 8
+charter
+rights
+were breached when the police failed to make a timely report to a justice
+pursuant to
+s. 489.1
+of the
+criminal code. finally, it was argued that
+the police breached the defendant’s right to counsel upon his arrest.
+
+the applicant called several police
+witnesses on the
+charter
+application. he himself did not testify.
+(b)
+the application to cross-examine the affiant
+
+the ito was based on information supplied to
+the police by cao hoang, the defendant’s girlfriend, and mother of his child. there
+were several inconsistencies and omissions in the ito. it was apparent that
+some of what the affiant averred was inaccurate. i held that the relatively low
+threshold for a limited cross-examination of the affiant, d.c. mcgill, and the
+sub-affiant, d.c. bevalaqua, had been met.
+r v pires,
+2005 scc 66
+at
+para
+40.
+(c)
+analysis of the s. 8 claim
+
+the ito was sworn to by d.c. matthew mcgill.
+it is mostly based on what cao hoang told the police in three meetings with
+them. not only did she tell them about the defendant’s drug dealing but she
+also supplied them with pictures of the drugs and cash hidden at the jane
+street residence.
+
+on several occasions during her statements
+to police she told them that the defendant does not keep his drugs at the keele
+street residence, but rather in a storage compartment in the basement of the
+keele street building. yet, d.c. mcgill failed to set that out clearly and, as
+he conceded in his cross-examination, mistakenly swore that ms. hoang told
+police that there would be drugs at the keele street
+residence
+when he
+meant to say the jane street residence.
+
+the ito requires significant amplification
+and excision so that it conforms with ms. hoang’s disclosure to police.
+r.
+v. araujo,
+2000 scc 65
+
+after that amplification and excision, the
+ito could
+not
+support the issuance of a warrant for the search of the keele
+street residence. the search of that property thus constituted a breach of the
+applicant’s s.8
+charter
+rights.
+
+the information supplied by ms. hoang is
+very detailed and compelling as concerns the jane street residence. other
+information concerning cars associated to the defendant at the two residences
+was corroborated by police surveillance. that the defendant lived at the jane
+street residence was corroborated by police investigation. ms. hoang’s
+relationship with the defendant tends to support the accuracy and reliability
+of her account as to the goings on in the defendant’s life and at the jane
+street residence.
+
+even after inserting the information police
+knew about ms. hoang, that they did not include, the ito, after amplification
+and excision, could amply support the issuance of a warrant for the search of
+the jane street residence. there is thus no s.8
+charter
+breach as
+concerns the issuance of that search warrant and the subsequent search of the jane
+street residence.
+(d)
+the s. 10 application
+
+the defendant was arrested immediately upon
+the police entering the jane street residence just after midnight on april 24,
+2023. he was told that he was being arrested for domestic assault. while it was
+clear to him that the police were executing a search warrant at the jane street
+residence, nothing was said to him about the keele street search, or any drug investigation
+or charges.
+
+several officers involved in the arrest,
+transport and booking of the defendant testified. body-worn camera footage was
+played for the court. the defendant did not testify.
+
+the evidence on the application leads me to
+make the following findings of fact.
+
+the defendant was read his rights to counsel
+in a timely fashion upon his arrest and he told the arresting officer as well
+as the transporting officers just before being loaded into the back of a police
+car that he wanted to speak to his own lawyer. he also asked what the search
+warrant was for, and the arresting officer did not answer that question. the
+defendant did not say who his lawyer was, nor did any of the police officers
+ask him for the identity of his lawyer of choice.
+
+p.c. sutton, the arresting officer, whose
+testimony i accept on this point, testified that he told the defendant he could
+use his cell phone to call his lawyer immediately, but that he would not be
+given any privacy for such a call. the defendant said he would wait until he
+could have privacy and would call from the station.
+
+transporting officer judah admitted that he
+did not tell the booking sergeant that the defendant wanted to contact his own
+lawyer even though he heard p.c. just tell the defendant at the scene of the
+arrest that the police would help him contact his own lawyer once back at the
+station.
+
+according to p.c. just and p.c. khawaja, who
+testified as to what occurred at the booking phase after arrival at the station,
+the defendant’s booking began at 12:54 am and was completed by 1:03 am. the
+defendant was placed in a cell and arrangements were made at 1:43 am for the
+defendant to speak to duty counsel, which he did at 1:50 am.
+
+no officers testified that the defendant had
+ever said that he decided to speak to duty counsel rather than his own lawyer.
+
+p.c. sutton returned to the station some
+time after 3:18 am. he advised the defendant of the drug charges at 5:26 am. he
+assumed (wrongly) that the transporting officers had told the booking sergeant
+about the defendant’s wish to speak to his own lawyer and that arrangements had
+already been made for the defendant to do so. he learned that no such
+arrangements had yet been made and the defendant told him he wanted to speak to
+a lawyer named bill mckenzie. p.c. just then looked up mr. mckenzie’s phone
+number, called it and left a message. p.c. just then offered the defendant
+another duty counsel call and the defendant accepted that offer. contact
+between the defendant and duty counsel then re-occurred at 5:37 am.
+
+the defendant was not questioned by police
+that morning.
+
+the defendant alleges a breach of both
+sections 10(a) and (b) of the
+charter.
+
+as concerns the s.10(a) duty on the police
+to promptly inform the defendant of the reasons for his detention, the leading
+authorities on the subject are:
+r. v. mann,
+2004 scc 52
+at para.
+21;
+r.
+v. evans,
+1991 canlii 98 (scc), 1 scr 869 at para.
+35; and
+r. v. smith,
+1991 canlii 91 (scc), 1
+scr 714 at para.
+28.
+
+as mclachlin j. (as she then was) held in
+r.
+v. smith, supra at para. 28:
+the accused need not be aware of the
+precise charge faced. nor need the accused be made aware of all the factual
+details of the case. what is required is that he or she be possessed of
+sufficient information to allow making an informed and appropriate decision as
+to whether to speak to a lawyer or not. the emphasis should be on the reality
+of the total situation as it impacts on the understanding of the accused,
+rather than on technical detail of what the accused may or may not have been
+told.
+
+in
+mann, supra
+at para.
+21, the supreme
+court put it this way:
+section 10(a) of the
+charter
+provides
+that “[e]veryone has the right on arrest or detention to be informed promptly
+of the reasons therefor”. at a minimum, individuals who are detained for
+investigative purposes must therefore be advised, in clear and simple language,
+of the reasons for the detention.
+
+section 10(a) requires that police inform
+the detainee not just what he is being arrested for but also why he is being
+detained for investigation. the defendant was arrested for assault, but he was
+also detained because the police had a warrant and reasonable grounds to search
+his home for drugs. as he was being marched off, the defendant was promptly
+told he was under arrest for assault, and while he was told that a warrant was
+being executed at the jane street residence, he was not told about the fact
+that the police believed he was a drug dealer nor that there were two searches
+being conducted nor that the searches were for drugs, until several hours
+later, after drugs were found and the decision was made to charge him
+accordingly.
+
+as a result of this failure to fully inform
+the defendant about the drug investigation he was not able to fully exercise
+his right to the advice of counsel.
+
+as concerns s. 10(b), the defendant promptly
+told the police that he wanted to speak to his own lawyer. yet, the
+transporting officers, who knew this, did not inform the booking sergeant.
+instead, the defendant was immediately put in touch with duty counsel.
+
+in the result, the police breached the
+defendant’s s. 10(a) and 10(b) rights.
+(e)
+the failure to file a timely return after the
+execution of the warrant
+
+an agreed statement of fact was filed that
+stated as follows:
+on may 20, 2023, pc ward sent a form 5.2 report to a
+justice in relation to this case to the justice of the peace. the report to a
+justice is attached to as “appendix a”.
+pc ward only attached one exhibit list to the report to a
+justice, which was the exhibit list for the search of 510-2800 keele street.
+there was a separate exhibit list for 70-2901 jane street.
+in a will say provided to the defence on november 21, 2024,
+pc ward explained that she was not aware that a second exhibit list existed.
+the will say is attached as “appendix b”.
+a working copy of the report to a justice
+was provided to the defence on october 9, 2024. on the same date, dc wilkins,
+the officer in charge, realized that pc ward had failed to attach the exhibit
+list for 70-2901 jane street to the report to a justice. dc wilkins prepared a
+new report to a justice with the exhibit list for 70-2901 jane street attached
+and filed it with the justice of the peace on october 9, 2024. the new report
+to a justice is attached as “appendix c”.
+
+section 489.1
+of the
+criminal code
+imposes
+a very specific duty on police officers following a seizure:
+restitution of property or
+report by peace officer
+489.1 (1)
+subject to this or any
+other act of parliament, where a peace officer has seized anything under a
+warrant issued under this act or under section 487.11 or 489 or otherwise in
+the execution of duties under this or any other act of parliament, the peace officer
+shall, as soon as is practicable,
+(a)
+where the peace officer is satisfied,
+(i)
+that there is no dispute
+as to who is lawfully entitled to possession of the thing seized, and
+(ii)
+that the continued
+detention of the thing seized is not required for the purposes of any
+investigation or a preliminary inquiry, trial or other proceeding,
+return the thing seized, on being issued a receipt
+therefor, to the person lawfully entitled to its possession and report to the
+justice who issued the warrant or some other justice for the same territorial
+division or, if no warrant was issued, a justice having jurisdiction in respect
+of the matter, that he has done so; or
+(b)
+where the peace officer is
+not satisfied as described in subparagraphs (a)(i) and (ii),
+(i)
+bring the thing seized
+before the justice referred to in paragraph (a), or
+(ii)
+report to the justice that
+he has seized the thing and is detaining it or causing it to be detained
+to be dealt with by the justice in accordance with
+subsection 490(1).
+
+section 489.1 has long been considered a
+“gateway” into the judicial supervision provisions of s. 490.65 the supreme
+court of canada considered the reporting requirements under
+s. 489.1
+“important
+for
+charter
+purposes, as they mandate police accountability for seizures
+that have not been judicially authorized”.
+r. v. reeves,
+2018 scc 56 (canlii), 3 s.c.r.
+531, at para
+63;
+r. v. colarusso,
+1994 canlii 134 (scc), 
+s.c.j. no. 2. at para
+15;
+r. v. backhouse,
+2005 canlii 4937 (on ca), o.j. no. 754, at para
+112.
+
+section 490 includes several provisions that
+allow for judicial oversight of seized items. for instance, s. 490(2)
+contemplates that a further application to a justice (and subsequent order) may
+be required to continue the detention of any seized items beyond three months
+of their seizure. importantly, s. 490 also includes several provisions that allow
+for the return of seized items, whether by means of careful contemplation by
+seizing officers or by means of an application by the items’ lawful owner(s)
+(s. 490(10)). without the use of
+s. 489.1
+to bring seized items into the
+purview of s. 490, the items seized by police exist in a jurisdictional limbo.
+
+it follows from the requirements of
+s. 489.1
+and the importance of s. 490 that if seized property is detained without
+compliance with either, then its continued detention is not authorized by law
+and is therefore in breach of s. 8 of the
+charter.
+r. v.
+garcia-machado,
+2015 onca 569.
+
+the report to a justice for the items seized
+from the jane street residence was not provided until october 10, 2024.
+consequently, what transpired from april 24, 2023, until that time was a
+continued unlawful detention of the seized items –that lasted for seventeen
+months and two weeks.
+
+section 489.1 of the
+code
+requires
+that the report to justice be completed and submitted “as soon as is
+practicable.” a specific timeline is not built into the legislation, but it
+appears what is commonly contemplated is a matter of days, not years. clear
+breaches of
+charter
+s. 8 have been found when a delay of three months took
+place.
+
+the late return re the seizure at the jane
+street residence constituted a s.8
+charter
+breach, although, as i will
+re-iterate below, it was minor and had next to no impact on the defendant’s
+charter
+rights.
+(f)
+section 24(2)
+
+there are three
+charter
+breaches to
+consider.
+•
+the warrant for the search of the keele street
+residence could not have issued on the amended ito.
+•
+the defendant’s s. 10(a) and 10(b) rights were
+violated.
+•
+the filing of the search warrant return
+regarding the jane street residence was late.
+
+section 24(2) must be applied twice: once to
+determine the admissibility of the evidence seized at the jane street residence
+and again to determine the admissibility of the evidence seized at the keele
+st. residence.
+
+whether the admission of the evidence would
+bring the administration of justice into disrepute is governed by the test
+first articulated in the supreme court’s decision in
+r. v. grant,
+2009
+scc 32
+at para.
+71:
+[w]
+hether
+the admission of evidence obtained in breach of the charter would bring
+the administration of justice into disrepute engages three avenues of inquiry,
+each rooted in the public interests engaged by s. 24(2), viewed in a long-term,
+forward-looking and societal perspective. when faced with an application
+for exclusion under s. 24(2), a court must assess and balance the effect of
+admitting the evidence on society’s confidence in the justice system having
+regard to: (1) the seriousness of the charter -infringing state conduct
+(admission may send the message the justice system condones serious state
+misconduct), (2) the impact of the breach on the charter-protected interests of
+the accused (admission may send the message that individual rights count for
+little), and (3) society’s interest in the adjudication of the case on its
+merits. the court’s role on a s. 24(2) application is to balance the
+assessments under each of these lines of inquiry to determine whether,
+considering all the circumstances, admission of the evidence would bring the
+administration of justice into disrepute.
+see too
+r. v. tim,
+2022 scc 12 (canlii),
+ s.c.j. no. 12
+
+dealing first with the keele st. search, i
+find the two
+charter
+breaches associated with that search to be serious.
+
+there were insufficient grounds to support
+the issuance of the warrant. even though a warrant did issue, it only issued
+because of the extremely careless drafting of the ito. the seriousness of the
+s. 8 breach is exacerbated by the breaches of section 10(a) and 10(b) as
+concerns the keele st. search.
+
+as concerns the impact of the s. 8 breach on
+the
+charter
+protected rights of the defendant, it too is serious. while
+the record is not clear as to the degree that the keele street address was a
+residence of the defendant, the information conveyed to the police by ms. hoang
+was to that effect.
+
+the impact of the s. 10 breaches is also significant.
+the defendant spent several hours without access to his counsel of choice, who
+might well have been available to speak to the defendant earlier had the phone
+call to him been made earlier in the morning, as it should have been.
+
+the seriousness of the s.10 breaches is
+somewhat mitigated by the fact that the police did not seek to gather evidence
+from the defendant prior to his contact with duty counsel, and belatedly, his
+counsel of choice (nor thereafter, it would appear).
+
+the first two
+grant
+factors weigh
+heavily in favour of exclusion of the evidence seized from the keele street
+address.
+
+the third
+grant
+factor, i.e.
+society’s interest in having the keele street drug charges adjudicated on their
+merits weighs in favour of inclusion. the evidence is real and reliable, and it
+is crucial to the crown’s case.
+
+balancing the three
+grant
+factors
+leads me to conclude that the admission of the evidence seized during the keele
+street search would bring the administration of justice into disrepute. that
+evidence is excluded.
+
+as concerns the application of s. 24(2) to
+the evidence seized from the jane street residence, i come to the opposite
+conclusion.
+
+there is no s. 8 breach as concerns the
+search and seizure at the jane street residence.
+
+the s.10(a) breach is less serious as
+concerns the jane street residence as compared to the keele st. residence. the
+defendant was told nothing about the keele st. search, but he did know that the
+jane street residence was being searched.
+
+the s. 10(b) breach is serious, as was its
+impact in the jane street residence context.
+
+the third
+grant
+factor weighs in
+favour of admission regarding jane street in the same way as it does in the
+keele street context.
+
+the failure to file a report pursuant to
+s.489.1 is a breach only as concerns the jane street search, but i find that the
+conduct of the police officers was not serious. rather, it was inadvertent and
+not in bad faith. it was rectified immediately upon police discovering their
+oversight. additionally, there was no impact on the defendant as a result. the
+items seized would have undoubtedly been held by the police in any event.
+
+finally, as in the keele street analysis, society
+has a strong interest in adjudicating this fentanyl case on its merits.
+
+when balancing the
+grant
+factors as
+concerns the jane street residence, s. 24(2) of the
+charter
+favours the
+admission of the evidence.
+
+i reiterate that the difference in treatment
+of the admissibility of the keele street evidence and the jane street evidence
+largely comes down to the fact that the search of the jane street residence did
+not constitute a s.8 breach.
+(g)
+conclusion
+
+the evidence seized from the search of the
+keele street residence is excluded. the evidence seized from the search of the
+jane street residence is admitted.
+c.
+the
+trial
+(a)
+introduction
+
+when police arrived at 2901 jane street just
+after midnight on april 24, 2023, the defendant was there with a middle-aged
+woman who identified herself as anh duong, and two children. the defendant was arrested,
+and the residence was then searched. no drugs were in plain view. they were all
+well hidden throughout the residence as well as under a paving stone in the
+back yard and in a back yard shed: 16 grams of fentanyl, 24 grams of crack
+cocaine, 9.5 grams of powdered cocaine, 33.8 grams of ketamine, 4.82 grams of
+codeine, $1,455 in cash, unused zip lock baggies, three digital scales and a cell
+phone.
+
+the crown called several search and exhibit
+officers. the crown also tendered several video and photo exhibits pertinent to
+the search. the defence called no evidence. the defendant admitted that he was the
+registered owner of the property and that whoever possessed the drugs,
+possessed them for the purpose of trafficking.
+
+the crown concedes that this is an “all or
+nothing case”, i.e. that given the lack of precision as to what drugs were
+found where, it is incumbent on the crown to prove the defendant’s possession
+of all the drugs found in the residence.
+(b)
+the search
+
+the residence at 2901 jane street had a
+living room and kitchen on the main floor and three bedrooms upstairs. the
+living room contained a mattress.
+
+hidden drugs were found throughout the main
+floor, back yard and the shed.
+
+many pieces of identification belonging to
+the defendant with the jane street address along with his wallet and car keys were
+found in the residence. male adult clothing was found in one bedroom. an
+envelope addressed to the defendant at the keele street residence was found at
+the jane street residence. an envelope addressed to him at jane was also found.
+
+the master bedroom contained women’s
+clothing. one of the upstairs bedrooms was clearly a child or children’s
+bedroom.
+
+ms. hoang, in her earlier statements to
+police, directed police to the shed in the backyard where some drugs were
+found.
+
+no forensic evidence linked the defendant to
+any of the drugs found in the residence.
+
+small weigh scales were found in plain
+sight.
+(c)
+the law of possession
+
+the law of possession is succinctly set out
+in
+r. v. bains,
+2015 onca 677
+at paras.
+154-157:
+section 2(1)
+of the
+controlled
+drugs and substances act, s.c. 1996, c. 19, as amended ("
+cdsa
+"),
+incorporates the definition of "possession" found in
+s. 4(3)
+of the
+criminal
+code
+so that any
+cdsa
+offence of which possession is an essential
+element may be proven in any manner permitted by s. 4(3) of the
+criminal
+code.
+under s. 4(3), possession includes
+personal possession, constructive possession and joint possession:
+r. v.
+morelli,
+ 1 s.c.r. 253,
+ s.c.j. no. 8,
+2010 scc 8, at para.
+15.
+knowledge and control are essential elements in both personal and constructive
+possession:
+morelli, at para.
+15.
+constructive possession does
+not
+involve
+an accused having physical custody of a subject matter. constructive possession
+is established where an accused has the subject matter in the actual possession
+or custody of another person, or in any place, whether belonging to or occupied
+by the accused or not, for the benefit of the accused or someone else:
+morelli,
+at para.
+17. to establish constructive possession, the crown must prove beyond
+a reasonable doubt that an accused [
+morelli, at para.
+17]
+(i) knows the character of the object;
+(ii) knowingly puts or keeps the object in a place;
+and
+(iii) intends to have the object in
+the place for his or her use or benefit or the use or benefit of some other
+person.
+as with other offences, crown counsel
+may prove the essential elements of constructive possession by direct evidence,
+by circumstantial evidence or by a combination of direct and circumstantial
+evidence. where the subject matter of which an accused is alleged to be in
+possession is a controlled substance of significant value, it may be open to a
+trier of fact to infer not only knowledge of the nature of the subject, but
+also knowledge of the substance itself:
+r. v. blondin,
+1970 canlii 1006 (bc ca),
+ b.c.j. no.
+656,
+2 c.c.c. (2d) 118 (c.a.), at p. 121
+c.c.c.;
+r. v. fredericks,
+ o.j. no. 5549 (c.a.), at paras. 3-4;
+r. v. to,
+ b.c.j. no.
+1700,
+1992 canlii 913 (c.a.); and
+r. v. bryan,
+ o.j. no. 673,
+2013
+onca 97, at para.
+11. it is a reasonable inference that such a valuable
+quantity of drugs would not be entrusted to anyone who did not know the nature
+of the contents of the bag or other container.
+
+the crown’s case against the defendant relies
+exclusively on circumstantial evidence. i must thus heed the instructions of
+our court of appeal in
+r. v. lights,
+2020 onca 128
+at paras.
+35-38
+where
+watt j.a. summarized the law in this area:
+when the crown's case consists wholly
+or substantially of circumstantial evidence, the standard of proof requires the
+trier of fact be satisfied beyond a reasonable doubt that the accused's guilt
+is the only reasonable inference to be drawn from the evidence as a whole:
+r.
+v. villaroman,
+2016 scc 33,
+ 1 s.c.r. 1000, at para.
+20.
+to determine if the circumstantial
+evidence meets the required standard of proof, the trier of fact must keep in mind
+that it is the evidence, assessed as a whole, that must meet this standard of
+proof, not each individual piece of evidence that is but a link in the chain of
+proof:
+r. v. smith,
+2016 onca 25,
+333 c.c.c. (3d) 534, at paras.
+81-82;
+r.
+v. morin,
+1988 canlii 8 (scc),
+ 2 s.c.r. 345, at pp. 360-61;
+côté v. the king
+(1941),
+1941 canlii 348 (scc),
+77 c.c.c. 75 (s.c.c.), at p. 76.
+inferences consistent with innocence
+need not arise from proven facts. rather, they may arise from a lack of evidence:
+villaroman, at para.
+35. accordingly, a trier of fact must consider
+other plausible theories and other reasonable possibilities inconsistent with
+guilt so long as these theories and possibilities are grounded on logic and experience.
+they must not amount to fevered imaginings or speculation. while the crown must
+negate these reasonable possibilities, it need not negate every possible
+conjecture, no matter how irrational or fanciful, which might be consistent
+with an accused's innocence:
+villaroman, at paras.
+37-38.
+see also
+r.
+v. bagshaw,
+1971 canlii 13 (scc),
+ s.c.r. 2, at p. 8.
+
+watt j. a. in
+lights,
+supra
+at
+para.
+50
+reminds us that:
+when things are found in a premises
+or place occupied by an accused, no presumption of knowledge and control arises
+from proof of occupancy. put simply, occupancy does not create a presumption of
+possession:
+r. v. watson,
+2011 onca 437, at para.
+13;
+r. v. lincoln,
+2012 onca 542, at para.
+3.
+(d)
+analysis
+
+that the defendant owned the residence
+supports the inference that he controlled access to the unit.
+r. v. lights,
+supra, at para.
+104. the presence of his personal identification and
+wallet supports the inference that he lived there.
+
+there were, however, other persons who also lived
+there. the master bedroom was occupied by a woman, perhaps the middle-aged
+woman who was there when police arrived, or ms. hoang, who, having directed
+police to the drugs in the shed, clearly knew where some of the drugs were
+hidden. breast milk was found in the freezer. neither of these women testified.
+there is no evidence that the female occupant of the premises (whoever she was)
+could not have secreted drugs throughout the residence without the defendant’s
+knowledge. the same can be said for the hidden cash.
+
+the evidence suggests that the drugs were
+worth approximately $8,000. this evidence does not support the crown’s argument
+that the drugs were so valuable that no one would have hidden them in the
+defendant’s residence without his knowledge.
+
+the finding of scales in plain view is equivocal.
+they may have been for kitchen use. even if the finding of the scales supports
+the inference that the defendant was a drug user, it does not prove that he was
+a drug trafficker, nor that he knew other residents of the home were selling
+drugs.
+
+the crown also argues that even if the
+defendant did not know the precise location of the hidden drugs, he must have
+known that the woman perpetrator was dealing drugs out of the residence and
+would thus have been at least wilfully blind to the presence of drugs in the
+home. no evidence was led on the trial portion of the proceedings that would
+support the notion that the relationship between him and either potential
+female perpetrator was such as to support this submission.
+
+that one of the two women referred to might
+have hidden the drugs in the residence without the defendant’s knowledge is a
+reasonable available inference on the circumstantial evidence presented in this
+case.
+d.
+concusion
+
+the charges against the defendant are
+dismissed.
+released on december 22,
+2025
+justice
+russell silverstein

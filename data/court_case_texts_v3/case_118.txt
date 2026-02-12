@@ -1,0 +1,557 @@
+Source URL: https://www.canlii.org/en/on/oncj/doc/2025/2025oncj527/2025oncj527.html
+
+CITATION:
+R. v. Shergill
+, 2025 ONCJ 527
+COURT
+FILE No.: 24-61100155
+DATE:
+October 8, 2025
+ONTARIO
+COURT OF JUSTICE
+Central West Region
+At Orangeville
+BETWEEN:
+HIS
+  MAJESTY THE KING
+—
+   AND  —
+amrit singh shergill
+Heard
+Before Mr. Justice Richard H.K.
+Schwarzl
+on
+April
+11, 15 and September 5, 2025
+Reasons released on October 8, 2025
+Ms.
+Sarah Khan.....................................................................................................  
+for the Crown
+Mr.
+David Locke...............................................................................................  
+for the Defendant
+SCHWARZL,
+J.:
+REASONS FOR JUDGMENT
+1.0:  INTRODUCTION
+[
+1
+.]
+The defendant,
+Mr. Amrit Singh Shergill, was charged with impaired driving and driving with
+excess blood alcohol arising from a single car collision in the wee hours of
+January 14, 2024.
+[
+2
+.]
+At his
+trial, two issues are at play.  First, whether the prosecution has proven
+beyond a reasonable doubt that the defendant’s ability to operate a conveyance
+was impaired by the consumption of alcohol.  Second, whether the police
+probably violated the defendant’s right to counsel guaranteed by
+section 10(b)
+of the
+Canadian Charter of Rights and Freedoms
+(the Charter) and, if so,
+what remedy, if any, ought to flow.
+2.0: FACTS NOT IN DISPUTE
+[
+3
+.]
+Shortly
+after 3:00 a.m. on January 14, 2024, the defendant was driving alone on
+Centreville Creek Road in Caledon.  It was cold, wet, and windy with poor
+visibility.  He lost control and his car struck a pole, causing not only damage
+to his car, but serious injuries to his right eye and head.  He immediately
+called police to report the accident.
+[
+4
+.]
+Around
+3:10 a.m. P.C. Martins arrived on scene and saw the defendant standing on the
+shoulder of the road near his car.  The officer noticed the defendant’s
+injuries and that he had alcohol on his breath.  Although P.C. Martins recalled
+the defendant stumbling, a viewing of his car’s dashcam did not reveal
+stumbling, only being slightly unsure while wearing summer shoes on a snowy
+incline.  The officer observed that Mr. Shergill appeared a bit incoherent, but
+the officer could not say if that was because of the alcohol or the collision. 
+P.C. Martin agreed that the defendant showed decent balance and his speech was
+clear.
+[
+5
+.]
+A few
+minutes later, Constables Patterson and Franks attended the scene.  P.C.
+Patterson recalled the defendant’s speech was slurred.  P.C. Franks only went
+as far as to say that the defendant sounded dazed, which he said was not
+surprising given the defendant’s injuries.  P.C. Franks conceded that the
+defendant’s behaviour at the scene, other than the odour of alcohol, might be
+the result of a serious collision.
+[
+6
+.]
+P.C.
+Patterson testified that she “suspected the defendant was impaired by alcohol”
+[1]
+and made a screening demand. 
+A test was administered, and the defendant failed. P.C. Patterson then arrested
+the defendant for impaired driving, stating “I had reason to believe he was
+impaired and over the legal limit”.
+[2]
+[
+7
+.]
+Upon his
+arrest, the defendant was given his right to counsel.  He told the police he
+wanted to call someone to facilitate access to a lawyer.
+[
+8
+.]
+While the
+police tended to the defendant, his brother showed up on scene.  He actively
+obstructed the investigation by encouraging the defendant to refrain from
+cooperating with the police.  The defendant’s brother also tried to get the
+police to “let things go” without any further consequences to the defendant. 
+Officers eventually got the defendant’s brother to leave the scene shortly
+after he was allowed to speak with the defendant inside the ambulance that had
+arrived.
+[
+9
+.]
+The
+defendant was transported to the nearest hospital.  On arrival, P.C. Patterson
+asked him if he had a lawyer that he wanted to call.  He said he wanted to
+speak with his brother to access a lawyer.  Given his brother’s intrusive
+behaviour at the collision scene, the officer asked the defendant if there was
+someone else the police could call for him.  The defendant replied that he
+wanted to speak to his sister.
+[
+10
+.]
+While
+resting on a gurney, the defendant was allowed to speak to his sister.  When he
+was finished the defendant told P.C. Patterson that his sister would call back
+with information for a lawyer to call.  P.C. Patterson said that the sister had
+twenty minutes to find a lawyer.  No reason was given for this curfew.
+[
+11
+.]
+The
+defendant’s sister called back and wanted to speak to the defendant.  P.C.
+Patterson refused the request and said the sister could give her the lawyer’s
+information to pass on to the defendant.  At this point, the defendant’s
+brother got on the phone wanting to speak with the defendant.  P.C. Patterson
+turned the phone over to P.C. Franks because the brother was upset with her. 
+P.C. Franks cautioned the brother to only provide the defendant with the
+lawyer’s name and contact information.
+[
+12
+.]
+P.C.
+Franks obliged the brother’s request to speak with the defendant after he said,
+“I have spoken with a lawyer.  Let me speak to Amrit.”  However, P.C. Franks
+did not permit the conversation to be private because the brother was not a
+lawyer
+[3]
+and was not giving the police any information regarding counsel.  There was a
+brief conversation between the brothers on speaker phone but not about
+accessing a lawyer.  The brother once again told the defendant to not cooperate
+with the police.  P.C. Franks took the call off the speaker and told the
+defendant’s brother privately to just give the police the lawyer’s information,
+failing which they would call duty counsel to which the brother replied, “Yes,
+contact duty counsel for him.”
+[
+13
+.]
+At this
+point, the phone was disconnected and P.C. Patterson called duty counsel.  She
+did so because “there was no movement on getting the defendant to speak with a
+lawyer because he didn’t have his own lawyer” and because the brother would not
+identify the lawyer he claimed to have spoken to.
+[
+14
+.]
+Neither P.C.
+Patterson nor P.C. Franks told the defendant that the police could not get any
+information about a lawyer from his brother. They did not tell him that duty counsel
+had been called at the direction of his brother.  Neither officer asked the
+defendant if there was another person that he wanted to call to try to access a
+lawyer.
+[
+15
+.]
+Prior to
+providing suitable samples of his breath directly into an approved instrument
+that had been brought to the hospital by the qualified technician, Sgt.
+Edwards, the defendant was able to speak with duty counsel with as much privacy
+that could be afforded in an Emergency Room setting.
+[
+16
+.]
+When he
+was finished speaking with duty counsel, P.C. Patterson asked the defendant if
+he was satisfied with the legal advice he received.  He told P.C. Patterson and
+P.C. Franks, “I am satisfied at this point” and did not complain about the
+lawyer nor did he ask to speak with another lawyer or anyone else to access a
+lawyer.  Neither officer asked what the defendant meant by “at this point.”
+[
+17
+.]
+P.C.
+Franks testified that in hindsight it would have been prudent to ask the
+defendant directly about securing a lawyer from another family member or if he
+wanted to speak with duty counsel.  P.C. Franks also agreed that the decision
+to call duty counsel was made by the police without any input from the
+defendant.  P.C. Franks acknowledged that normally the police would speak
+directly to a detainee about accessing a lawyer but, he said, this situation
+was anything but normal given the defendant’s brother’s interference.  P.C.
+Franks agreed that he was flummoxed and frustrated by the brother’s
+interference which probably caused him to forget to speak directly to the
+defendant about getting legal advice.
+[
+18
+.]
+A short
+time later, the defendant provided suitable samples of his breath directly into
+the approved instrument.  The truncated test results were both 150 milligrams
+of alcohol per 100 millilitres of blood.  Sgt. Edwards felt the defendant was
+impaired due to the test results, the defendant’s bloodshot eyes, and his
+defensive behaviour with the officer.  Sgt. Edwards agreed that the defendant’s
+speech was not slurred and that his balance was sure.
+2.0: WAS THE
+DEFENDANT IMPAIRED TO DRIVE?
+2.1: 
+Positions of the Parties
+[
+19
+.]
+The Crown
+submits that given the unexplained collision, the odour of alcohol, and his
+dazed behaviour following the crash, they have met their burden of proof
+regarding the impairment of the defendant’s ability to drive safely.
+[
+20
+.]
+The
+defence submits that at the highest, the constellation of facts in this case
+may give rise to a suspicion that could justify a screening test but does not
+reach the threshold of reasonable grounds let alone proof beyond a reasonable
+doubt.
+2.2: Analysis
+[
+21
+.]
+For
+reasons I will explain, I find that the prosecution has failed to meet the
+requisite standard of proof the defendant was impaired.
+[
+22
+.]
+The
+circumstances suggest that other than the odour of alcohol, the facts are as
+likely to be consistent with an accident as it is with impairment of the
+driver.  The collision could have reasonably been caused by poor the wet road,
+strong wind, and poor visibility.  The behaviour of the defendant at the scene
+was as equally consistent with significant head injuries as it was with the
+influence of alcohol.  I am not persuaded that the defendant’s speech was
+slurred, that he was dazed and confused, or that his balance was poor because
+of consuming alcohol.  His red eyes are equally consistent with a serious
+injury to his eye and head.  His defensiveness with Sgt. Edwards is not
+definitively due to alcohol; to the contrary given the bad advice given by his
+brother to him prior to the breath tests, I am not surprised that the defendant
+was less than cooperative with the breath technician.  Alcohol on the breath
+is, without more, insufficient to find impairment.
+[
+23
+.]
+I agree
+with the defence that on examining the evidence as a whole, there is
+insufficient proof of impairment to justify a finding of guilt on the impaired
+driving charge.  I therefore find Mr. Shergill not guilty of this charge.
+3.0: DID THE POLICE LIKELY BREACH THE
+DEFENDANT’S RIGHT TO COUNSEL?
+3.1:  The Facts
+[
+24
+.]
+I have
+already made relevant findings of fact earlier in my reasons regarding the
+question of rights to counsel.
+[
+25
+.]
+On a voir
+dire, the defendant testified that he knew his sister called and that his
+brother was on the phone, too.  He said he did not hear what P.C. Franks and
+his brother talked about.  No one told him he could not try someone else to get
+a lawyer.  He said that if he had been told, he had two other relatives to
+call, one of whom knows Mr. Shergill’s trial lawyer.  The defendant’s evidence
+is consistent with the evidence of the police about his vacuum of knowledge
+before the police called duty counsel.
+[
+26
+.]
+The
+defendant also testified that he knew he was speaking to a lawyer when talking
+to duty counsel.  He said that when asked about speaking to duty counsel, he
+was satisfied at that point.  He explained that since he had no way of
+accessing a lawyer of his own, he acquiesced to the situation. Mr. Shergill
+testified, “I felt like a third party to my own case.  The police froze me out
+and didn’t tell me anything.  I felt defeated by the way the police were not
+including me in the pursuit of my own lawyer.”  He added that he said was
+satisfied at that point because he believed that duty counsel was all he was
+going to get.  He said he wanted to speak to a lawyer trusted by his family and
+not to a complete stranger.
+[
+27
+.]
+The
+defendant agreed that he was told he could call any lawyer he wished but said
+that if he was told his brother was of no use, he would have told the police
+about his uncle and his cousin.
+3.2:  Was the Defendants’ Right to Counsel Probably
+Breached?
+[
+28
+.]
+To
+determine whether the defendant’s right to counsel was likely violated by the
+police, two questions must be examined.  An examination of the conduct of both
+the police and the defendant is required.  On the one hand, the police must act
+reasonably in facilitating access to counsel; and on the other hand, the
+detainee must be reasonably diligent in pursuing his desire to speak with a
+lawyer.
+[
+29
+.]
+The
+prosecution argued that (a) the police acted reasonably and (b) the defendant
+did not.  The defence submitted that (a) the police did not act reasonably
+whereas (b) the defendant was reasonably diligent.
+[
+30
+.]
+I agree
+with the defendant that PC Patterson was unreasonable to give the defendant’s
+sister a twenty minute deadline within which to find a lawyer.  She had
+received an unexpected call in the middle of the night and confronted with news
+that her brother was under arrest and in the hospital.  PC Patterson offered no
+rhyme nor reason for what appears to be an arbitrary, if not capricious, limit
+on the defendant’s ability to locate a lawyer for him to consult.
+[
+31
+.]
+Of
+significance to this analysis is that the defendant always made it clear to the
+police that he wanted to speak to a lawyer recommended by his family.  At no
+time did he say he wanted anyone else. In this aspect he was diligent in
+expressing his mode of exercising his rights.
+[
+32
+.]
+PC Franks
+was a reliable and important witness.  He readily acknowledged that no officer
+informed the defendant that his brother did not provide any lawyer’s
+information.  Nor, he said, did the police give the defendant a chance to then
+call someone else to get a lawyer.  Finally, PC Franks was candid that the
+police skipped involving the defendant and went straight to calling duty
+counsel after being irritated by the defendant’s brother.
+[
+33
+.]
+Police
+officers are, of course, as human as the rest of us.  They frequently have to
+deal with situations and people that get under their skin. Due to their
+training, duties, and civic responsibilities the police are required to
+maintain their emotions and be focussed on their tasks including respecting the
+rights of detainees.
+[
+34
+.]
+Here, the
+defendant was not a real problem, but his brother was.  I agree with the
+defence that Mr. Shergill was not given any choice in who he spoke to because
+he had been “cut out of the loop” by his brother and by the police.  The police
+got so annoyed and vexed by the defendant’s brother abominable behaviour that
+they outright forgot to facilitate the defendant’s desire to speak a lawyer of
+his choosing.
+[
+35
+.]
+While it
+may be tempting to find that in these peculiar circumstances the police acted
+reasonably in light of the brother’s interference, to do so would be to condone
+the use of emotion over reason by the police.  As such, I find that the police
+were not reasonable in facilitating the defendant’s access to a lawyer.
+[
+36
+.]
+I also
+find that the defendant was reasonably diligent on these facts.  I accept that
+when he said he was satisfied “at this point” with the legal advice he was
+acquiescing to a situation over which he had been excluded from any input. 
+Furthermore, the phrase “at this point” was sufficiently ambiguous that the
+police had a responsibility to ensure that this was a clear waiver of the
+defendant’s rights.  By not doing so, they were not acting reasonably.
+3.3:  Having
+Found a Breach of the Defendant’s rights, should there be a remedy?
+[
+37
+.]
+The
+defendant seeks to exclude the breath test results as a remedy of the breach.
+[
+38
+.]
+In
+R.
+v. Grant
+,
+2009 SCC 32
+, the Supreme Court laid down the three-part inquiry
+into the exclusion of evidence as a remedy for a
+Charter
+breach.  Those parts
+are (1) the seriousness of the breach, (2) the impact of the breach on the
+protected interested of the detainee, and (3) society’s interest in the
+adjudication of the case on its merits.  All three parts must be weighed and
+balanced and the burden is on the applicant to persuade the court that the
+scales are tipped in his favour.
+[
+39
+.]
+With
+respect to the assessment of the seriousness of the breach, the concern is not
+about punishing the police but rather to preserve the public’s confidence in
+the rule of law and its processes.  Seriousness is an elastic term that is
+placed on a spectrum.  As the Supreme Court
+stated in
+R. v. Tim
+,
+2022 SCC 12 (CanLII)
+,
+[2022]
+SCJ No. 12
+at para.
+82
+:
+At
+the more serious end of the culpability scale are wilful or reckless disregard
+of
+Charter
+rights, a systemic pattern of Charter-infringing conduct, or a major
+departure from Charter standards. Courts should dissociate themselves from such
+conduct because it risks bringing the administration of justice into disrepute.
+At the less serious end of the culpability scale are Charter breaches that are
+inadvertent, technical, or minor, or which reflect an understandable mistake.
+Such circumstances minimally undermine public confidence in the rule of law,
+and thus dissociation is much less of a concern.
+[
+40
+.]
+In this
+case, I would put the breach on the more serious end of the spectrum that
+favours exclusion.  Although not deliberate, the breach was unacceptably
+negligent for two reasons.  First, there was no reason at all for PC Patterson
+to put an arbitrary cap on the time within which the defendant could exercise
+his rights.  Second, the failure of the police to act reasonably was the result
+of them unacceptably losing focus on the rights of the defendant by utterly
+bypassing him once they hung up on his brother, thereby disregarding their
+duties to him.  I find that there was a significant departure from the standard
+of conduct expected of police officer:
+R. v. Stipo
+,
+[2025] O.J. No.3530
+(S.C.J.)
+at para 60
+.
+[
+41
+.]
+As for
+the impact on a defendant’s rights, the court must once again place the impact
+on a spectrum from impacts that are trivial, transient, or technical to those
+that seriously compromise the interests underlying the rights infringed:
+Grant
+,
+paras.
+76-78
+;
+Tim
+, para
+90
+.  The greater the impact, the greater the
+risk that admission of the evidence would bring the administration of justice
+into disrepute.
+[
+42
+.]
+Here, the
+fact that the defendant actually received legal advice prior to supplying his
+samples of breath attenuates the impact on his
+Charter
+protected rights. 
+However, detainees are entitled to speak with a lawyer in whom they have
+confidence.  Access to legal advice is a fundamental right and goes to the
+heart of a detainee to get a “lifeline” of their choosing during an obviously
+stressful and important situation such as this.  Here, the impact on the
+defendant’s Charter protected interests was on the more serious end of the
+spectrum, tending to favour exclusion.
+[
+43
+.]
+Finally,
+there is no doubt that cases where there is evidence involving bodily samples
+are generally reliable and favour admission:
+Grant
+at para.
+110
+.  Here,
+the breath test results are reliable and vital to a determination of the case
+on its merits.  Without the admission of the test results, there is no case for
+the prosecution.  This factor therefore favours admission of the evidence.
+[
+44
+.]
+Having
+considered and balanced the various
+factors set out in
+Grant
+, I find
+that the defendant has persuaded me that the breath test results in this case
+ought to be excluded from the evidence.  There being no other evidence of the
+defendant’s blood alcohol concentration at the time of the alleged offence, I
+must find him not guilty of driving with excess blood alcohol.
+4.0:  CONCLUSIONS
+[
+45
+.]
+For the
+reasons set out herein, my verdicts are as follows:
+(a)
+Count 2 –
+Impaired Driving:  Not Guilty.
+(b)
+Count 1 –
+Driving with Excess Blood Alcohol:  Not Guilty.
+_______________________________
+Richard
+H.K. Schwarzl,
+Justice
+of the Ontario Court of Justice
+[1]
+This is a conflation of two separate
+legal doctrines which, unfortunately, appears all too common amongst OPP
+officers in recent years.
+[2]
+This conclusion was wrong in law.  A
+fail of a screening test may give rise to reasonable grounds that the person
+was driving with excess blood alcohol but not that the driver was impaired
+without other indicia of intoxication.  If PC Patterson believed the defendant
+was impaired
+before
+making a screening demand, there would be no need to
+make the demand or to administer the test.
+[3]
+Mr. Shergill’s brother was, in fact, a
+police officer at the time with a major municipal police service.

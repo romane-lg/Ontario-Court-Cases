@@ -1,0 +1,273 @@
+source url: https://www.canlii.org/en/on/oncj/doc/2025/2025oncj246/2025oncj246.html
+
+warning
+the court hearing this matter directs that the following notice be
+attached to the file:
+a
+non-publication and non-broadcast order in this proceeding has been issued
+under
+subsection 486.4(1)
+of the
+criminal code.
+this subsection and
+subsection 486.6(1)
+of the
+criminal code,
+which is concerned with the
+consequence of failure to comply with an order made under
+subsection 486.4(1),
+read as follows:
+486.4 order
+restricting publication
+— sexual offences.
+— (1) subject to subsection (2), the presiding judge or justice
+may make an order directing that any information that could identify the victim
+or a witness shall not be published in any document or broadcast or transmitted
+in any way, in proceedings in respect of
+(
+a
+) any
+of the following offences:
+(i) an
+offence under section 151, 152, 153, 153.1, 155, 160, 162, 162.1, 163.1, 170,
+171, 171.1,172, 172.1, 172.2, 173, 213, 271, 272, 273, 279.01, 279.011, 279.02,
+279.03, 280, 281, 286.1, 286.2, 286.3, 346 or 347, or
+(ii) any
+offence under this act, as it read from time to time before the day on which
+this subparagraph comes into force, if the conduct alleged would be an offence referred
+to in subparagraph (i) if it occurred on or after that day; or
+(
+b
+) two
+or more offences being dealt with in the same proceeding, at least one of which
+is an offence referred to in paragraph
+(a).
+(2)
+mandatory
+order on application
+— in proceedings in respect of the offences referred
+to in paragraph (1)(
+a
+) or (
+b
+), the presiding judge or justice
+shall
+(
+a
+) at
+the first reasonable opportunity, inform any witness under the age of eighteen
+years and the victim of the right to make an application for the order; and
+(
+b
+) on
+application made by the victim, the prosecutor or any such witness, make the
+order....
+486.6 offence
+— (1) every person who fails to comply with an order made under any
+of
+subsections 486.4(1)
+to (3) or subsection 486.5(1) or (2) is guilty of an
+offence punishable on summary conviction.
+ontario court of justice
+citation:
+r. v. m.g.,
+2025 oncj 246
+date: 
+2025 05 05
+court
+file no.: 23-48101907
+toronto
+region
+between:
+his majesty the king
+— and —
+mg
+before
+justice cidalia c. g. faria
+heard
+on march 14, 2025
+reasons
+for ruling on admissibility of accused utterance released on may 5, 2025
+seeta scully......................................................................................... counsel
+for the crown
+anne marie morphew.............................................................. counsel
+for the accused mg
+faria j.:
+i.
+overview
+
+mg is charged with one count of assault, and two
+counts of sexual assault against his former wife lsb contrary to
+ss. 266
+and
+271
+of the
+criminal code.
+
+evidence was heard on november 18, 19 and 20,
+2024, and april 4 and 7, 2025. at the end of the crown’s case, the defence applied
+for a ruling on the admissibility of an utterance the complainant testified mg
+made in early 2007. specifically, lsb testified mc admitted he “raped” her, the
+term she prefers, during a joint therapy session just over 18 years ago.
+ii.
+evidence
+
+lsb testified mg raped her in december 2006.
+shortly thereafter, she spoke to mg’s older sister. lsb told his sister that mg
+had raped her. mg’s sister suggested she go to therapy, and gave her the name
+of her own therapist, maureen toms.
+
+lsb testified she contacted ms. toms and made an
+appointment. she went to 3 counselling sessions alone, and then told mg that he
+had to attend with her to a joint counselling session with ms. toms to discuss
+the “rape” in a “safe environment.”
+
+at the joint therapy session in late january or
+early february 2007, lsb testified the rape was “discussed in length.”
+
+lsb specifically testified that when mg was confronted
+with the rape, he “denied” and “lied”. she testified:
+“he denied, he lied. the therapist was able
+to speak to him and she asked him twice, she didn’t use the word rape. she
+asked him twice if he had taken me and he got very upset. he was sitting on a
+chair with arms on my left side, he punched them, the chair, stood up, and
+maureen that he had taken me and then he looked at me and he said yes, i took
+you. and then he went for the door, he started putting his shoes on and there
+some conversation between maureen and him. she was able to bring him back to
+the chair. he sat on the chair with his shoes on and he looked at her and he
+said that he was sorry for taking me. and then he looked at me and he said that
+he was sorry for hurting me.”
+
+
+when asked what she understood mg to be
+apologizing to her about, lsb responded “by raping me.”
+
+in cross-examination, lsb was insistent that the
+only
+reason she and mc went to the joint counselling was to “discuss
+about the rape”, although in her insistence that it was
+only
+about the
+rape, and that it was “absolutely not true” that they were to discuss issues in
+their relationship, she also states, “the purpose was to discuss about the rape
+that was caused to the alcohol, and the abuse i was receiving from him.”
+
+iii.
+position of the parties
+
+counsel for mg submits there is insufficient
+context available for the court to determine the meaning of the words lsb
+testified mg uttered. she argues the “admission”, is a partial statement, allegedly
+made 18 years ago, and neither the totality, nor significant portions of what
+was said during the entire “lengthy” therapy session “discussing the rape” are provided.
+therefore, the admission evidence is inadmissible.
+
+the crown submits the admission evidence is
+admissible, the issues counsel raises go to weight. the crown argues that lsb
+is clear the therapy session was about the “rape” of december 2006, she is
+specific about the question and answer portion of the session that led to mg’s
+admission, when it occurred during the session, and the actions of the three
+parties in the room at the time.
+iv.
+legal principles
+
+r. v. schneider,
+2022 scc 34
+is the leading authority on the relevant principles relating to the
+admission and use of incomplete statements.
+
+r. v. merritt,
+2023
+onca 3
+succinctly summarizes the principles.
+…it is settled law that where a partial or
+incomplete statement is offered into evidence as a party admission but lacks
+sufficient context to give meaning to the words, that partial or incomplete
+statement is irrelevant and lacks probative value. it is therefore
+inadmissible. (para. 63)
+
+merritt
+quotes rowe
+j. in
+schneider
+who stressed:
+that the first prerequisite to admission is ‘whether what
+the witness overhead had meaning, such that it was relevant to an issue at
+trial’, what he called ‘logical relevance’. he explained that if a jury can
+give meaning to the statement the accused made in a manner that is non-speculative
+in light of all the evidence, testimony about that statement is relevant and
+admissible unless excluded as a matter of discretion because its probative
+value is outweighed by the risk of prejudice it presents:
+schneider, at
+para.
+44-45, 63-64, 79. (para. 68)
+
+the
+court in
+merritt
+goes on to state at para
+75:
+the admissibility of incomplete statement evidence requires
+relevance, which is determined as a matter of logic and human experience by
+inquiring whether the evidence tends to increase or decrease the probability of
+the existence of a fact at issue. (
+schneider
+at paras.
+39, 76
+). if the
+meaning of the statement offered as an admission cannot be determined, it
+cannot logically increase or decrease the probability of the existence of a
+fact in issue and therefore does not meet even the low threshold of relevance.
+v.
+analysis and findings
+
+lsb testified unequivocally that she told mg’s sister
+her brother raped her in december 2006. lsb obtained the name of a therapist
+from this sister. she attended several sessions on her own and then scheduled a
+joint therapy session with mg to specifically “discuss the rape” in early 2007.
+
+lsb testified, again, unequivocally, that during
+this specific session, 18 years ago, set to discuss the “rape”, and where they
+discussed the rape “at length”, the therapist asked mg directly if he had
+“taken” lsb. she testified he responded with “yes, i took you” and he apologized
+for hurting her. she testified mg banged the arms of his chair, he went to the
+door, he put on his shoes, and he came back to the chair before he made the
+admission. she also testified “take” referred to the rape of december 2006.
+
+lsb’s testimony included when the admission was
+made, in response to what question, by whom, where, and when, in addition to a
+description of mg’s physical choreography during the making of the admission. she
+testified the only people in the room were mg, the therapist and herself.
+
+the evidence provides the context for the
+admission to be a joint therapy session in early 2007. the session was scheduled
+to discuss a rape allegation of december 2006, the same rape allegation at
+issue at this trial. the therapist confronted mg with the rape accusation, and
+the admission is made in response to the accusation.
+
+in this case, the context is sufficient to give
+meaning to the words alleged to have been said that is non-speculative in light
+of all the evidence. the admission evidence is relevant to the core issue at
+trial of the december 2006 sexual assault charge. the probative value, given
+the relevance to the issue at trial, outweighs the prejudicial effect.
+
+counsel’s submissions that this partial conversation
+alleged to have taken place 18 years ago, in a disputed context and for a
+disputed purpose, and without specific details about the “lengthy” discussion
+of this rape, will be relevant to the weight of this incomplete admission utterance,
+but they are not persuasive on the issue of whether the admission evidence is
+admissible.
+vi.
+conclusion
+
+the admission evidence that mg said during a
+joint therapy session in 2007, “yes” he had “taken” lsb and that he was
+“sorry”, is admissible.
+released: may
+5, 2025
+signed:
+justice cidalia c. g. faria
+
+transcript: november 18, 2025, pgs. 33-34.
+
+transcript: april 7, 2025, pg.6.

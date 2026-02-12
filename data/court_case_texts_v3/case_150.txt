@@ -1,0 +1,1308 @@
+Source URL: https://www.canlii.org/en/on/oncj/doc/2025/2025oncj719/2025oncj719.html
+
+ONTARIO COURT OF JUSTICE
+CITATION:
+R. v. Murray
+, 2025 ONCJ 719
+DATE: 
+September 19, 2025
+COURT
+FILE No.:  19-4993
+BETWEEN:
+HIS
+MAJESTY THE KING
+—
+AND —
+DAVID RICHARD MURRAY
+Before
+Justice S. Murphy
+Heard
+on August 15, 2025
+Reasons
+for Judgment released on September 19, 2025
+M. Flagg................................................................................................ counsel
+for the Crown
+A. O’Brodovich.........................................................  
+counsel for the accused, D. Murray
+Murphy J.:
+[
+1
+]
+Mr. Murray was arrested for several counts of fraud
+over $5,000 in May of 2019.  Information No. 19-2152 was sworn on June 4, 2019
+and it alleged 20 counts of fraud over $5,000 and three counts of fraud under
+$5,000.
+[
+2
+]
+Mr. Murray’s trial commenced on March 8, 2021
+and it continued for a total of 21 trial days over almost four years before
+Justice L. Serre.  In February of 2025, the Chief Justice of the Ontario Court
+of Justice determined that Justice Serre was no longer able to continue the trial. 
+At that time, Chief Justice Nicklas determined that the trial would have to
+restart before a different Judge, as a continuing trial.  Continuing trial
+dates were set to start on June 2, 2025 and to finish on August 15, 2025, for
+an additional 32 days of trial.
+[
+3
+]
+When the new dates were coordinated and noted on
+the record, it was also noted that the Defence would be filing an 11(b)
+application, seeking a stay of proceedings, as they claimed Mr. Murray’s
+Charter
+right to be tried within a reasonable time, pursuant to s. 11(b), had been
+violated.  This is the first time that the Court was put on notice that Mr.
+Murray was claiming that his 11(b) rights were violated or were going to be
+violated for delay.  The Defence seeks a remedy of a stay, pursuant to s. 24(2)
+of the
+Charter
+.
+[
+4
+]
+This ruling deals with that Application.
+[
+5
+]
+By way of the detailed calculations set out
+below, I find that the time required to conduct Mr. Murray’s trial has exceeded
+18 months, by a period of 21 days.  Accordingly, I find that Mr. Murray’s right
+to have a trial conducted within a reasonable time has been breached, and
+pursuant to s. 24(2) of the
+Charter
+of Rights and Freedoms
+, I
+intend to
+enter a stay of proceedings, after trial
+submissions
+.
+Calculation of Time
+[
+6
+]
+The Defence and Crown agree that the total time
+that elapsed between the swearing of the first information and completion of
+the evidence at trial was 2,264 days or 74.43 months.  There is no dispute that
+this total delay would be over the
+Jordan
+ceiling of 18 months, if no
+adjustments were made.
+[
+7
+]
+Both counsel have submitted that no deduction
+should be made due to a claim of complexity of the case, despite the fact that
+the evidence at trial ultimately took 29 days to complete.
+[
+8
+]
+In addition, for this decision, I am acting as
+though the trial completed on August 15, 2025.  However, that is the date
+that the evidence was completed, and the
+Charter
+Application submissions
+were given.  We have adjourned the trial to October 9, 2025, for submissions on
+the trial.  With the consent of the Defence, I have been asked to rule on the
+11(b) issue prior to counsel arguing the merits of the Crown’s case.
+[
+9
+]
+Not surprisingly, the area of dispute between
+Crown and Defence is what periods of time constitute Defence delay or
+Defence-caused delay, what periods of time are properly characterized as Discrete
+Events and what periods of time are Institutional delay.
+Position of the Parties
+[
+10
+]
+The Defence acknowledges that there is Defence
+delay or Defence caused delay of 385 days.  Most of the periods of time that
+the Defence admits delay, the Crown also claims is Defence delay.  However,
+some of the time periods are characterized by the Crown as Discrete Events.  I
+will deal with this issue below.
+[
+11
+]
+The Crown submits that the total Defence caused
+delay should be calculated as 597 days, with an additional 64 days that the Crown
+says is either Defence delay or Discrete Event between March 5 and June 1,
+2025.
+[
+12
+]
+If I give effect to the Crown’s calculation for
+days in dispute, the Defence would be responsible for an additional 276 days
+than what the Defence says.  When combined with what the Crown claims are
+deductions for Discrete Events, the Crown submits that the total remaining
+delay is 14.89 months, which is under the 18 month ceiling set by the Supreme
+Court in
+R. v. Jordan
+,
+2016 SCC 27
+.
+[
+13
+]
+If I give effect to the calculation of the
+Defence, the total remaining delay is 59.4 months, which is clearly in excess
+of the 18 month ceiling.
+Discrete Events
+[
+14
+]
+The Defence has suggested that there was no
+evidence to support a claim that the matter was delayed due to Discrete Events.
+[
+15
+]
+I have reviewed the records submitted, including
+the Affidavit sworn by Amanda Lalljee, sworn on July 3, 2025 and various emails
+attached to that Affidavit.  While it is true that the Defence did not have the
+Affidavit of Ms. Lalljee prior to drafting his argument and, therefore, may not
+have had all of the email exchanges which were sent in an effort to schedule
+dates, there was ample evidence available to him regarding Discrete Events in
+the form of the transcripts of the proceedings.
+[
+16
+]
+The first Discrete Event is attributable to the
+COVID-19 protocols, the direction by the Chief Justice of Ontario regarding
+suspension of setting trial dates for out of custody matters between March 2020
+and October 2020, the echo from that event, and the resurgence and further
+protocol adjourning scheduled trial dates for out of custody matters in May of
+2021.  Mr. Murray’s matter was directly affected by these Discrete Events.  The
+matter essentially went into suspension before a trial date could be set, it
+was then scheduled for trial, part of which had to be vacated and rescheduled
+in May of 2021, all directly as a result of the protocols.
+[
+17
+]
+The second Discrete Event is the requirement of Defence
+counsel, Mr. Fabris, to have emergency orthopedic surgery in the summer of
+2021.  Mr. Fabris was notified of the surgery after the trial was scheduled to
+take place, and it appears that Mr. Fabris was unaware as to when the surgery
+would be scheduled when he set the trial dates, based on the transcripts.  This
+event prompted an adjournment of the trial dates scheduled in the summer of
+2021.
+[
+18
+]
+The third Discrete Event is that the original trial
+judge, Justice L. Serre, was unavailable to conduct the trial on at least three
+occasions, which prompted adjournments.  Although there is no reason given for
+Justice Serre’s absence, it is not appropriate for the parties to probe or to
+be given reasons for her absence.  She was not available to conduct the trial,
+and her unavailability prompted adjournments.  The claim by the Defence that
+the Crown should have made inquiries is without merit.  Ultimately, a decision was
+rendered by the Chief Justice of the Ontario Court of Justice that Justice
+Serre could not continue the trial.  She directed that the trial had to
+restart.
+[
+19
+]
+All of these Discrete Events are tied directly
+to the time that expired between the date of charge and the conclusion of the trial. 
+Each, either separately, or in combination, caused delay which could not have
+been foreseen or ameliorated.
+[
+20
+]
+I find that there is ample evidence to support these
+several Discrete Events, namely the COVID-19 protocols, which delayed setting
+any trial dates between March of 2020 and October of 2020 and which also
+interrupted the trial in May of 2021, the emergency surgery of the Defence counsel
+of record in the summer of 2021 and the unanticipated leaves of the trial judge,
+Justice L. Serre, and ultimate finding by the Chief Justice of Ontario that the
+trial must restart.
+[
+21
+]
+Each of those events were unanticipated and
+unforeseen when either attempting to set trial dates or having set trial dates
+in the continuation of trial.  There was nothing the Crown could do to
+ameliorate those events.  In fact, there is ample evidence, as born out in the
+transcripts and the emails, that the Crown was urging the earliest possible
+dates to be set, as there was a significant concern about the passage of time. 
+I will deal with each period and its corresponding Discrete Event or events
+below.
+Delay in Filing the Application
+[
+22
+]
+The Crown submits that the Defence delayed in
+filing the Application and, accordingly, did not permit the Court or the Crown
+to ameliorate the delay.  Accordingly, the Crown submits that any remaining
+delay should be considered Defence delay.  The Crown cites
+R. v. J.F
+.,
+2022 SCC 17
+, as authority:
+[33]      Defence conduct is considered under the
+Jordan
+framework,
+since the delay attributable to the defence is subtracted from the gross total
+delay (para. 60).  Defence delay has two components: (1) delay waived by
+the defence, and (2) delay caused solely or directly by the defence (
+Jordan
+,
+at paras.
+61 and 63
+;
+Cody
+, at para.
+26
+).  Inaction may amount to illegitimate
+conduct on the part of the defence, because “[i]llegitimacy may extend to
+omissions as well as acts” (
+Cody
+, at para.
+33
+).  As this Court said in
+Cody
+,
+the defence may not benefit from its own inaction or lateness in taking action;
+it must act proactively:
+Accused
+persons must bear in mind that a corollary of the s. 11(
+b
+) right
+“to be tried within a reasonable time” is the responsibility to avoid causing
+unreasonable delay.  Defence counsel are therefore expected to “actively
+advanc[e] their clients’ right to a trial within a reasonable time,
+collaborat[e] with Crown counsel when appropriate and . . . us[e]
+court time efficiently” (
+Jordan
+, at para.
+138
+).  [para. 33]
+[34]      An accused who sees delay lengthening must therefore
+respond in a proactive manner.  Being proactive may mean filing a s. 11(b)
+motion where the accused believes that their right to be tried within a
+reasonable time is not being or will not be respected (
+Jordan
+, at
+para.
+85
+).  Like any other application made by an
+accused, a motion of this kind must be brought “reasonably and expeditiously”
+(para. 85).  Lateness in raising delay is contrary to the proper
+administration of justice, because such a practice serves to waste judicial
+resources.  Indeed, the
+Jordan
+framework is specifically
+designed to eliminate inefficient practices that impact on the justice system
+(paras. 41 and 116).  Bringing a s. 11(b) motion before the end of
+the trial allows the accused to alert the Crown and the court to their concerns
+about delay.  As a result, all parties can take proactive measures and
+cooperate to expedite the proceedings.
+[35]      It is generally recognized that an accused who raises
+the unreasonableness of delay after trial (
+R. v. Rabba
+(1991),
+1991 CanLII 7073 (ON CA)
+, 64 C.C.C.
+(3d) 445 (Ont. C.A.)), and particularly after conviction (
+R. v. Warring
+,
+2017 ABCA 128
+, 347 C.C.C. (3d) 391, at
+para.
+11
+;
+R. v. C.D.
+,
+2014 ABCA 392
+, 588 A.R. 82), is not acting
+in a timely manner.  In
+K.G.K.
+, Moldaver J. interpreted the
+prospective approach adopted in
+Jordan
+as “encourag[ing]
+pre‑trial
+s. 11(
+b
+)
+applications” (para. 43 (emphasis added)). The defence is in fact
+encouraged to act before the start of the trial, since the
+Jordan
+framework
+allows “the parties to know ‘
+in advance
+, the bounds of reasonableness so
+proactive measures can be taken to remedy any delay’” (
+K.G.K.
+, at
+para.
+43
+, quoting
+Jordan
+, at
+para.
+108
+(emphasis in original)).
+[36]
+In short, a
+duty to act proactively also rests on the accused.  As a result, the accused
+must indicate that their right to be tried within a reasonable time has not
+been respected and, where the circumstances require, bring a motion for a stay
+of proceedings in a timely manner.  As a general rule, this means before the
+trial is held.  By the time the trial dates are set, the parties are
+generally in a position to know whether the trial delay will exceed the
+applicable presumptive ceiling, and the defence can raise any concerns it may
+have.  However, it is not out of the question that, exceptionally, an
+infringement of the s. 11(b) right will reveal itself only once the trial
+has begun.  In such a case, the accused must also act proactively.
+[
+23
+]
+A review of the timeline below reveals that
+although the Defence did not raise issues regarding filing an 11(b) Application
+with the Court until February of 2025, the Crown was alive to the issue of
+delay, and he repeatedly made efforts to seek additional and earlier dates.   He
+had been put on notice by the Defence as early as September 28, 2023 that the
+Defence intended to file an 11(b) Application.  Shortly after, Defence counsel
+was removed and another Defence lawyer was retained.  Further, there were very
+clearly Discrete Events related to COVID-19 and the associated directives, the
+medical condition of counsel and the unexpected and repeated unavailability of
+the Judge which certainly affected the calculation of delay.  In addition,
+there were multiple changes of counsel for Mr. Murray.  Calculating the delay
+in this matter was complicated and not straightforward.
+[
+24
+]
+In addition, it was not simply Discrete Events
+which caused delay in relation to this matter.  There was a significant
+underestimation of the amount of time required to complete this trial.
+[
+25
+]
+Despite the original estimate of four weeks in
+January of 2020 at a self-represented judicial pretrial, a second pretrial with
+counsel resulted in a trial estimate of 3 weeks, or 15 days.  The trial
+coordinator offered 12 days for trial, and asked if the trial would be
+completed within that time.  The Crown said that they would need the entire 15
+days.  After two days of trial, it became apparent that the original estimate
+of 15 days was going to be wholly inadequate, and both Crown and Defence repeatedly
+sought additional days.
+[
+26
+]
+Ultimately, the Crown’s case took 20 days to
+complete before Justice Serre, and the Defence case started.  Mr. Murray
+testified in-chief over three days before Justice Serre could not continue.  At
+this point, a new trial had to be coordinated, and it was scheduled for 32
+days.
+[
+27
+]
+The length of the trial was required despite
+many critical admissions by the Defence, which were fundamental to the case. 
+The contracts and the parties to the contracts, the work that was done or not
+done, the banking records and the incorporation documents all were admitted
+into evidence by Mr. Murray as a self-represented person in January of 2020. 
+Those admissions were relied on by the Crown throughout the entire proceeding.
+[
+28
+]
+There are periods of time noted below that I
+have found should properly be split between the Crown and the Defence for the
+initial failure to properly estimate the amount of time required for the trial
+to complete.
+[
+29
+]
+It cannot be laid entirely at the feet of one
+party or the other, and it cannot be completely explained by the phenomenon of Zoom
+trials taking longer.  Only part of this trial was conducted by Zoom, and there
+were certainly delays caused by that, but the majority of delay would have
+occurred regardless of whether or not the trial was conducted virtually.
+[
+30
+]
+The amount of time set aside was clearly
+inadequate, given that the Crown’s evidence consisted of 45 complainant
+witnesses, two witnesses from the City of Sudbury, one witness from a window
+manufacturer and the Investigating Officer.  That totalled 49 witnesses.  As
+well, the Crown filed a Similar Fact Application which had to be argued.  All
+of this was known to the Crown and Defence when the trial estimate was
+determined and dates were set.
+[
+31
+]
+In addition, Mr. Murray made it clear from the
+start that he intended to call a defence.  In fact, he was the only Defence
+witness.  His examination in-chief took three days in the first trial before
+the trial was interrupted by Justice Serre’s inability to continue.  In the
+second continued trial, his chief took 6 and-a-half days.  He was then cross‑examined
+for 7 and-a-half days.
+[
+32
+]
+It should also be noted that there was a
+technical glitch in the middle of the reconvened trial, where it became
+apparent that some of the evidence of one witness and all of the evidence of
+another was completely lost, due to a problem with the sound recording in the courtroom. 
+We were alerted to that problem, as all participants were routinely ordering
+transcripts of the proceedings.  The transcriptionist noticed that there
+appeared to be missing evidence, and notified the Crown.  That necessitated
+recalling two witnesses, which used an additional half day, which otherwise
+would not have been necessary.  I note that this was with the consent of the
+Defence.  As well, we were notified of a problem with the sound equipment on a
+different day, in which about 4 minutes of the evidence of another witness was
+garbled and could not be understood.  When alerted, the Defence chose to simply
+continue, rather than seek another remedy.  He had satisfied himself that he
+could continue.  I am grateful to Crown counsel and to Defence counsel for the
+manner in which these issues were dealt.  These issues could have derailed this
+trial, at least temporarily.  Instead, they were dealt with efficiently and
+expeditiously, and we were able to move on.
+[
+33
+]
+Also, when the trial was restarted, Mr. Murray
+had the option to simply pick up where his trial left off, given that there
+were transcripts available of all of the proceedings before Justice Serre,
+which could be reviewed and relied upon by the replacement Judge.  He chose to
+start all over again.  While Mr. Murray had the right to do that, his choice
+had a significant impact upon the length of the trial.
+[
+34
+]
+Accordingly, it was a combination of factors
+that were ongoing and evolving, which affected Mr. Murray’s right to a trial
+within a reasonable time.  It is difficult to point to a particular point in
+time when the Defence knew that an Application should be filed.  It cannot be
+said in the context of this particular case that the Defence simply sat and
+waited for the delay to accrue to the point where the Crown and the Court would
+be unable to ameliorate.  Therefore, I decline to attribute any time periods as
+Defence delay, or Defence caused delay due to the Crown’s claim of late filing
+of his 11(b) Application.
+Calculating the Attribution of Time
+[
+35
+]
+There are many ways of assessing the evidence. 
+In these circumstances, I will examine each period of time in a timeline,
+evaluate which periods of time are Defence delay or Defence-caused delay, which
+are Discrete Events, and which are institutional delay.  I do so in these
+exceptional circumstances because of the length of time that transpired between
+the laying of the first information and the date of the last court attendance. 
+That period of time is five years and 2 and-a-half months.  In order to be certain
+that I am not missing any periods of time, I will deal with them in a continual
+timeline.  I will then examine the entire timeframe and apply the
+Jordan
+framework, by deducting Defence caused delay from the total delay to determine
+the net delay.  Next I will deduct the total time attributable to Discrete Events
+which results in determining the remaining delay.
+June 4, 2019 to September 24, 2019 –
+112 days
+[
+36
+]
+The information was laid on June 4, 2019.  The
+Crown and Defence both agree that the period between June 4 and September 24,
+2019 is neither defence delay nor a Discrete Event.  I agree.  It is properly
+characterized as an intake period.  Accordingly, it is institutional delay of
+112 days.
+September 24, 2019 to March 18, 2020
+– 176 days
+[
+37
+]
+The Crown claims that the entire period between September
+25, 2019 to March 18, 2020 is either Defence delay or Defence caused delay,
+due to Mr. Murray’s failure to retain counsel.  The Defence claims that none of
+the period is attributable to the Defence, given that Mr. Murray had made
+ongoing efforts to obtain a Legal Aid Certificate, the difficulties caused by
+conflicts due to the 45 complainants with local counsel, and his ultimate retainer
+of counsel from Elliott Lake.
+[
+38
+]
+I have reviewed the transcripts of that period
+of time, and the copies of the informations.  What is revealed is that Mr.
+Murray was initially charged with 20 counts of fraud, in May of 2019, and the information
+was laid on June 4, 2019.  On his first appearance in court on July 3, 2019, he
+had already obtained disclosure and had already started his application for
+Legal Aid.  On his subsequent attendances in court, Mr. Murray indicated that
+he wanted counsel and was pursuing that.  He also advised the Court of his
+efforts to satisfy Legal Aid’s requirements.
+[
+39
+]
+On his second attendance, he had arranged for an
+agent, Mr. Fournier, to assist him.  Mr. Fournier was retained on unrelated
+matters, and anticipated that he would be retained in relation to the fraud
+allegations.  Mr. Murray was told to “step on the gas” regarding his
+application for Legal Aid, to retain Mr. Fournier.  On the next court
+attendance, Mr. Murray through Mr. Fournier advised the Court that he was
+having trouble obtaining financial information to satisfy Legal Aid.
+[
+40
+]
+The next attendance in court for Mr. Murray was
+August 28, 2019, at which time, he attended and advised the Court through the
+agent who assisted him, that Legal Aid had responded with forms that had to be
+completed.  He had not yet received the forms, but he expected that he would
+get them soon.  He asked for a further adjournment to complete the forms.  By
+the next attendance, on September 25, 2019, Mr. Murray had responded to Legal
+Aid, but indicated that Legal Aid was backlogged and had not yet reviewed his
+material.  He sought a further adjournment and the matter was adjourned to
+October 16, 2019.
+[
+41
+]
+On October 16, 2019, agent for Mr. Fournier
+indicated that Mr. Fournier was retained on this matter, and that a pre-trial
+had been conducted.
+[
+42
+]
+On November 13, 2019, agent for Mr. Fournier
+confirmed that Mr. Murray had been approved for Legal Aid, but that he needed
+some time to retain counsel, as there were new charges coming, first returnable
+on December 11, 2019.
+[
+43
+]
+On December 11, 2019, Mr. Murray advised that
+due to the charges, he was having difficulty finding counsel who was not in
+conflict.  The matters were set for a  self‑represented judicial pretrial
+on January 7, 2020.
+[
+44
+]
+As of January 7, 2020, Mr. Murray had only had
+one prior appearance in relation to the second information.  There was yet a
+third information before the Court for which this was the first return and he
+had not yet received disclosure on the second information.   He was taking
+active steps to address the concerns from Legal Aid.  He had a Certificate from
+Legal Aid, but he had problems finding Counsel who would take the Certificate. 
+He tried local counsel without success.  When he tried out of town counsel,
+they required travel expenses to be covered.  Legal Aid had denied that
+request, but that denial was under appeal.  He had attended all court
+appearances, and he advised the Court either through an agent appearing or
+himself, of his ongoing efforts to retain counsel.  In fact, at one point,
+agent for Mr. Fournier indicated that Mr. Fournier was retained.
+[
+45
+]
+To say that Mr. Murray was doing nothing to
+advance his case would in no sense be accurate.  In fact, Mr. Murray had been
+charged with another set of charges in December of 2019, and had not been able
+to deal with them.  Further, the Crown at the pretrial indicated that he had a
+conversation with the Investigating Officer, and had already determined that he
+was intending to consolidate the entirety of both original  informations into
+one count of fraud over.  However, there had already been sworn an information
+that consolidated all of the charges into one information, with all but one count
+(count 16) naming individual complainants.  Later in the pretrial, the Crown
+indicated that he was going to withdraw the two original informations and
+proceed on the consolidated information.
+[
+46
+]
+In light of these circumstances, it is not
+appropriate to attribute this part of the period to Defence delay.  It is
+apparent that the Crown’s case was evolving given the second information with
+additional counts, the third consolidated information, and the Crown’s
+submissions at the pretrial.
+[
+47
+]
+As well, Mr. Murray did not have disclosure for
+the second set of charges.  He was pursuing Legal Aid, and had in fact been
+granted a Certificate.  What was in issue was who was going to be counsel.   Mr.
+Fournier had attended on his behalf or had sent agents on his behalf, until
+December of 2019.  An inference can be drawn that it was the laying of the
+second information, which caused Mr. Fournier to be in conflict, not anything
+that Mr. Murray did.
+[
+48
+]
+The judicial pretrial judge observed that the
+trial was likely to take 4 weeks time to complete.  The matter was adjourned to
+January 21, 2020, for Mr. Murray to confirm that his Legal Aid matter had been
+straightened out, and that he had counsel.  If counsel was arranged by that
+date, then a subsequent judicial pretrial would be arranged.
+[
+49
+]
+On January 21, 2020, Mr. Murray told the Court
+that he disclosed to Legal Aid additional income information, which then
+prompted Legal Aid to cancel his Certificate.  He had launched an appeal of
+that decision.  The matter was then set to Feb 6, 2020 for a continuing self-represented
+pretrial continuation for half-a-day.  Although Mr. Murray was making efforts to
+retain counsel through Legal Aid, his efforts were not successful.  The period
+between January 7, 2020 and February 6, 2020 is Defence delay.  Although Mr.
+Murray was making efforts, his efforts appear to have not been fruitful.  His
+situation essentially remained unchanged.  It is understandable that he was
+pursuing Legal Aid, and had in fact obtained a Certificate to assist him, but
+he had an obligation to consider his ability to retain counsel without the
+benefit of a Certificate.
+[
+50
+]
+On February 6, 2020, Mr. Murray attended and
+advised that his Legal Aid was still under appeal.  The Court conducted a
+fulsome pretrial regarding the matter, but Mr. Murray was not able to
+elect his mode of trial.  The trial estimate was three to four weeks for the
+Crown’s case.  The estimate was the same, if the matter was to be scheduled for
+a Preliminary Inquiry.  Mr. Murray indicted that he intended to call between 10
+and 30 witnesses, so that also had to factor into the trial estimate.
+[
+51
+]
+Mr. Murray was given time to consider his
+options regarding mode of trial.  The elections available to him were explained
+in detail.  The matter was adjourned to March 10, 2020 in order for Mr.
+Murray to elect, and to set either a Preliminary Inquiry date or a trial date.
+[
+52
+]
+The Court observed that the matter was being
+adjourned for a month, there was some complexity to the charges, there was an
+anticipated witness list of 50 witnesses for the Crown and Mr. Murray did not
+yet have counsel.  An 11(b) was discussed.  In fact, Mr. Murray asked what
+would happen if he waived his 11(b) rights, but he was never asked whether or
+not he intended to waive those rights as a self-represented person.  In fact,
+the Court specifically said that Mr. Murray would need to consider the matter
+before the question was asked of him.  The Crown expressed some concern about
+the passage of time, and wanted to schedule trial dates or Preliminary Inquiry
+dates on March 10, 2020.  The Court observed that if counsel were retained on
+March 10, 2020 he or she might request an adjournment to be properly prepared
+to advise Mr. Murray on that issue.
+[
+53
+]
+The matter was adjourned for a month, the only
+purpose for which was to ascertain whether or not Mr. Murray had retained counsel. 
+This is Defence delay even in light of the substantive step taken by way of the
+pretrial.  Until Mr. Murray elected his mode of trial, the matter was
+essentially at a stand-still, and there could be no forward progress.
+[
+54
+]
+On March 10, 2020, Mr. Murray advised that the
+Legal Aid issues had not been resolved, but he had privately retained Mr.
+Fabris from Elliott Lake.  Mr. Fabris was not available to attend court, but
+that he was seeking an adjournment regarding elections and setting dates, in
+order to properly review the disclosure.
+[
+55
+]
+The next adjournment was to March 27 or March 25,
+2020, which was impacted by the protocols associated with the COVID-19
+Pandemic.  However, it became clear in later attendances that Mr. Murray had
+not yet fully retained Mr. Fabris.  The matter was brought forward to March 18,
+2020.
+[
+56
+]
+At each appearance after September, the Crown
+expressed concern about the passage of time.  The Court and the Crown made
+efforts to move the matter along.  However, the laying of the second and the
+third informations substantively affected Mr. Murray and changed his
+jeopardy.  At no point did Mr. Murray expressly waive delay.
+[
+57
+]
+However, it was only after Mr. Murray attended
+the self-represented pretrial, and all three informations were before the Court
+for at least the second time that the delay falls upon Mr. Murray.  By that
+point, he had been attempting to persuade Legal Aid to assist him for about 7
+months.  He had successfully obtained a Certificate, but then had trouble
+finding a lawyer to take the Certificate.  Then the Certificate was cancelled. 
+I have not considered the first seven months to be delay caused by the Defence,
+partly because of the reasonableness of his pursuit of Legal Aid.  It is only
+after the pretrial, when it was made clear to Mr. Murray that the matter could
+not be delayed any further, that I begin counting Defence caused delay.  The
+Crown did attempt to move the matter forward, and so did the Court.  It was Mr.
+Murray’s insistence that he be given more time to retain a lawyer that was the
+sole cause of the delay after the pretrial.
+[
+58
+]
+Accordingly, the total Defence caused delay
+between September 24, 2019 to March 18, 2020 is limited to between January 7,
+2020 and March 18, 2020 or 71 days.
+[
+59
+]
+The balance of the time is institutional time
+between September 25, 2019 and January 7, 2020 – 105 days
+March 18, 2020 to October 28, 2020 –
+224 days
+[
+60
+]
+The matter was brought forward to March 18,
+2020, in accordance with the COVID‑19 protocols.  The time after this
+date is a Discrete Event directly related to the COVID-19 interruption in the court
+process.  It was completely unforeseen, and there was nothing that any
+participant in the process could do to ameliorate that interruption.  In fact,
+it was a unique event in court history.
+[
+61
+]
+The Defence characterized the first period between
+March 18, 2020 to May 4, 2020 as Defence delay due to an illness by counsel for
+Mr. Murray.  The Crown characterized the same period as a Discrete Event.  In
+my view, it is properly characterized as a Discrete Event, regardless of
+whether or not it was caused by an illness of counsel or the COVID‑19
+pandemic.  Either way, it was unforeseen and the Crown could not have
+ameliorated that delay.
+[
+62
+]
+The Defence agreed that the period of time
+between August 5, 2020 and October 14, 2020 as “Covid Delay” meaning a Discrete
+Event, so I will not examine that period any further other than to observe
+that, in examining the Defence Chart attached to their materials, there appears
+to be some confusion or perhaps a typographical error.  The Defence claims that
+the period between May 4, 2020 and October 14, 2020 is Defence delay of 70
+days.  The next entry claims that the period between August 5, 2020 and October
+20, 2020 is “Covid delay”.  These two date ranges are duplicated.  May 4 to
+August 5, 2020 is 56 days.  August 5, 2020 to October 14, 2020 is 70 days. 
+Defence accounted for two periods of 70 days each.  The first time period is
+clearly in error.
+[
+63
+]
+In light of the unforeseen event of the COVID-19
+pandemic, and the corresponding court shutdown, and restart under restrictions,
+I find that the entire period between March 18, 2020 to October 28, 2020 is
+a Discrete Event of 224 days.
+[
+64
+]
+In the intervening time, based on the emails,
+which were attached to the Crown material, there was a subsequent JPT held, in
+which it appears that both counsel and Justice Buttazoni agreed that the trial
+could be conducted in three weeks.  Defence counsel advised that he was not
+available in the month of April of 2021.  The Trial Coordinator offered 12
+days, and asked if the matter could be finished in 12 days.  The Crown
+indicated that 12 days would not be sufficient and asked for an additional
+three days.
+October 28, 2020 to March 8, 2021 –
+131 days
+[
+65
+]
+The next period of time is time that is allotted
+within the
+Jordan
+framework is a period of institutional delay, or time
+that is not deducted.  It is a period of 131 days.
+[
+66
+]
+The Crown claims that the period between October
+28, 2020 and March 1, 2021 is a Discrete Event.  It is followed by a period of 7
+days, after the confirmation hearing held on March 1, 2021.  The Defence claims
+that this period is “Court delay” or “Crown delay”.
+[
+67
+]
+There does not appear to be a reason for which
+the Crown claims that this is a Discrete Event.  I infer that the claim arises
+from the court coming out of the original COVID-19 restrictions, and the corresponding
+shut-down and the suspension of scheduling of trials until October of 2020. 
+However, on October 28, 2020 trial dates were confirmed for March 8, 9, 10, 11,
+22, 23, 24, 25, 26, 29 and 30, April 1, May 3, 4 and 5, 2021, for a total of 15
+days.  The trial dates were set outside the
+Jordan
+deadlines, given that
+in normal times, the trial would have had to be completed within 18 months of June
+of 2019, or by the end of November of 2020.  Delay was not canvassed during
+this court attendance, and these appear to be the first dates available.  This
+is a period of about four months, and it is a normal amount of time that would
+be required between date setting and the first day of trial.  It is not defence
+delay, and it is not a Discrete Event.  It is part of the
+Jordan
+framework.
+ Defence was offered April 12 to 16, but was not available, which will be
+addressed in the next section.
+March 8, 2021 to April 28, 2021 – 51
+days
+[
+68
+]
+On March 8, 2021 the trial started and continued
+through to April 1, 2021 for 12 days of trial.  What must be noted is that when
+the trial dates were being set, the Defence was not available for the entire
+month of April of 2021.  Trial Coordination offered April 12 through April 18,
+2021 as available dates, for which the Crown was available.  Because of Defence
+unavailability, the anticipated completion of the trial was scheduled into May
+of 2021.  Therefore, 5 days is attributable to Defence caused delay and 46 days
+is inherent time required for trial.
+[
+69
+]
+However, what must also be considered is the
+underestimate of the time needed for trial.  For some reason, despite the Judge
+observing that four weeks was required during the first pretrial, only 15 days
+were scheduled.  There is an inference that there is a combination of
+responsibility for this miscalculation, between Defence, the Crown and the
+Court, given that the change in estimate to three weeks seems to have come
+after a second judicial pretrial in which Defence counsel participated.  I will
+deal with this issue below.
+[
+70
+]
+The trial commenced on March 8, 2021 for the
+scheduled dates.  March 11, 2021 was adjourned after a half-day, due to the
+Defence counsel attending a medical appointment.
+[
+71
+]
+On March 10, 2021, the Crown reached out to
+Trial Coordination, to advise that the trial would not be completed within the
+allotted time, and he requested to secure four more days to be added to the trial
+schedule.  He noted that one reason for additional time required was that
+conducting a trial remotely caused the trial to proceed more slowly than originally
+anticipated.  This phenomenon has become well known, and it is a legitimate
+reason for a trial to take longer than originally anticipated.  When the trial
+date was originally scheduled, it was not anticipated that it would continue
+remotely, and this was unforeseen.  There is no consequence to this part of the
+underestimation.  It will be considered to be inherent time for trial.
+[
+72
+]
+The Trial Coordinator suggested May 24, 25, 26,
+27 and 28, 2021.  The Crown advised that he was not available.  The Defence
+does not appear to have responded.  On March 23, 2021, the Crown sought more
+dates from Trial Coordination.  The Trial Coordinator offered May 17, 2021 but
+neither Crown nor Defence was available.  The Trial Coordinator then offered
+June 8, 9 and 11, 2021.  Defence was not available for any of those dates.  On
+March 26, 2021, the Trial Coordinator then confirmed that June 22 and 24, July
+20, August 24 and September 1, 2021 would be continuation dates.  Despite the agreement
+that August 24, 2021 was a date to be confirmed, and an Order on the record
+that August 24, 2021 was to be endorsed, it was not done.  The other dates were
+endorsed.  This appears to be a clerical error.
+April 28, 2021 to September 1, 2021
+– 126 days Discrete Event
+[
+73
+]
+The Crown claims this entire period is as a
+result of a combination of Discrete Events due to the COVID-19 Directive and
+the need for Defence counsel to undergo surgery.  The Defence claims that this
+entire period, except for 19 days which he claims is Defence delay, due to
+challenges in scheduling continuation dates.
+[
+74
+]
+For the reasons noted below, I find that this
+entire period is due to Discrete Events.
+[
+75
+]
+On April 21, 2021, a Directive was released from
+the Office of the Chief Justice of Ontario, that in an effort to curb a
+resurgence in COVID-19, all trials scheduled between April 26 and May 7, 2021
+for accused who were out of custody were to be adjourned, subject to an Order
+by the trial judge to continue.  Mr. Murray’s trial continuation fell squarely
+in this category.  The trial judge did not order this trial to continue, and
+the May dates were vacated on April 28, 2021, when the matter was brought
+forward.  The matter was adjourned to May 12, 2021 to fix additional trial
+dates, to make up the three vacated May trial dates.
+[
+76
+]
+On May 12, 2021, the matter was adjourned to
+June 9, 2021 to permit finalizing the setting of replacement dates as well as
+continuation dates.
+[
+77
+]
+On June 9, 2021, Mr. Fabris, counsel for Mr.
+Murray, advised the Court that he was not able to continue the trial starting
+on July 20, 2021.  The matter was adjourned to June 11, 2021 for a Motion to
+adjourn the trial dates.  The June and July dates were vacated, and the matter
+was adjourned to June 16, 2021.  The adjournment was as a result of Defence
+counsel’s need for surgery.  For some reason, August 24, 2021 was not endorsed
+on the information as a trial date, and it was not vacated.  It also appears
+that August 24, 2021 did not take place as part of the trial.
+[
+78
+]
+The matter was adjourned one week from June 16,
+2021 to June 23, 2021 to finalize the continuation dates.  On June 23, 2021,
+continuation dates were arranged for October 12, 13 and 14, 2021, but could not
+be confirmed.  The matter was adjourned to July 7, 2021 to confirm the dates.  On
+July 7, 2021 trial continuation dates of September 1 and 20, October 12, and
+14, 22 and November 1, 2021 were confirmed.  It was noted that Defence was
+offered October 13, 2021, but Mr. Fabris was not available.
+[
+79
+]
+The next date that the matter was addressed in court
+was on September 1, 2021 for trial continuation.  Accordingly, regarding the
+time between April 28 and September 1, 2021, five days were for trial, one day
+is Defence caused delay, and the period between is a Discrete Event.  It was
+first affected by the COVID-19 Directives, which prompted the adjournment of
+the matter in May, and then the surgery of Mr. Fabris which prompted the
+adjournment of the June and July trial dates.  Further, the  August 24, 2021
+date was never noted on the record as a continuation date.  Five days for trial
+– and the period of time from the original anticipated completion time for
+trial (15 days of trial completed on October 12, 2022).  Accordingly, the
+period between October 12 and November 4, 2022 is split between the Crown and
+Defence.  Accordingly, an additional 23 days for a total of 24 days, is Defence
+caused delay.
+September 1, 2021 to November 4,
+2021 – 63 days
+[
+80
+]
+On September 1, 2021 the trial recommenced and
+day 13 was completed.  It continued for all scheduled dates, until November 4,
+2021.  Because Mr. Fabris was not available on October 13, 2021 and the Court
+and Crown were available, one day will be noted as Defence caused delay.  In
+the intervening time, additional dates were scheduled for November 3 and 4,
+2021.
+[
+81
+]
+The remaining 62 days are part of the
+Jordan
+framework.
+November 4, 2021 to May 17, 2022 –
+194 days
+[
+82
+]
+On November 4, 2021, the presiding Justice was
+not available to continue.  It was noted on the record that counsel was seeking
+an additional five days for trial, so six days had to be coordinated.  The
+matter was adjourned to November 24, 2021 to coordinate the additional dates. 
+It was noted that the absence of the Judge was unforeseen and unanticipated.  It
+was not noted for how long the Judge was not going to be available.
+[
+83
+]
+The Defence alleges that since there was no
+information provided regarding the unavailability of the Judge to continue,
+there was an obligation on the Crown to ameliorate this delay and, therefore,
+the delay is “Crown delay”.  The Crown correctly observes that there is no
+obligation on the Crown to pry into the reasons for which a judge is
+“unavailable”, and the delay caused by the unavailability of the judge is
+properly considered as a Discrete Event.  Regardless of the underlying reason,
+the judge was not available to conduct the trial.  Her inability to continue
+the trial on November 4, 2021 was unforeseen, and it caused the adjournment of
+the trial to May 17, 2022.
+[
+84
+]
+Emails show Trial Coordination offered May 17,
+19, 30 and 31, June 2 and 9, 2022 as possible continuation dates.  Those dates
+were accepted and all but May 31, 2022 was noted on the record on November 24,
+2021.  There is no explanation as to why May 31, 2022 was not noted.  November
+4, 2021 to May 16, 2022 is 194 days.  This period is  a Discrete Event, being
+the judge was not available to continue the trial in the adjusted trial time.  It
+was noted that six more days were required being one day of the adjusted trial
+time, and an estimated five additional days required to complete the trial.
+May 17, 2022 to November 23, 2022 –
+190 days
+[
+85
+]
+The Defence acknowledges that the delay between
+May 17, 2022 to November 23, 2022 is Defence delay due to a request to
+adjourn the trial on May 17, 2022 to accommodate a change of counsel.  New
+counsel attempted to resolve the matter, but ultimately sought new trial dates,
+which were scheduled on November 23, 2022.
+[
+86
+]
+The Crown agrees that the period between May 17,
+2022 and November 22, 2022 is Defence delay.
+[
+87
+]
+I have examined that period of time, and I agree
+that this period of 190 days is Defence caused delay.
+November 23, 2022 to April 28, 2023 –
+156 days
+[
+88
+]
+The next period of time, the Defence claims is “court
+delay”.  The Crown says the entire period is a “Discrete Event”.
+[
+89
+]
+The matter was adjourned to November 23, 2022 to
+set continuation dates for the trial, after a change in counsel to Mr. Orazietti. 
+There was a pending request to be removed as counsel by Mr. Orazietti, which
+was abandoned.  On November 23, 2022 the matter was set to May 1, 2, 4 and 5,
+2023 for continuation.  A Confirmation Hearing was set for March 7, 2023, at
+which time the continuation dates were confirmed.  Ultimately, the matter was
+brought forward on April 27, 2023.
+[
+90
+]
+It is important to note that earlier dates
+for trial in May and June of 2022 had already been vacated due to a Defence
+request.  But for that adjournment, Mr. Murray’s trial may have been
+completed.  Then Defence spent the next 156 days getting up to speed.  Trial
+completion dates were scheduled.  Defence counsel had advised that he was not
+fully retained, which the evidence supports caused the delay in scheduling trial
+continuation dates.  Accordingly, I find that the period of time between
+November 23, 2022 and April 27, 2023 or 156 days is Defence caused delay. 
+There is nothing in evidence to support that any of this period is due to a Discrete
+Event.
+April 28, 2023 to December 12, 2023 –
+228 days
+[
+91
+]
+On April 28, 2023, the matter was brought
+forward and the anticipated trial continuation dates were vacated, as the
+presiding Judge was unavailable.
+[
+92
+]
+The Crown submits that between April 28, 2023
+and June 1, 2023 is a Discrete Event due to the unavailability of the trial
+Judge.  He argues that the balance of the time is due to Defence caused delay. 
+The Defence says that the entire period is “court delay”.
+[
+93
+]
+After April 28, 2023 the matter was adjourned
+several times, in part to determine if the Judge would be available to
+continue, and in part to attempt to resolve the matter.   Another judicial
+pretrial was scheduled for October 3, 2023, and the matter was next returnable
+in court on October 4, 2023.  On October 4, 2023, the matter was adjourned to
+October 26, 2023.  On October 26, 2023, it was clear that the relationship
+between Mr. Murray and his counsel had broken down, and Mr. Orazietti was
+removed.  The matter was then adjourned for a continuation of the trial on
+December 12, 13, 14 and 15, 2023.
+[
+94
+]
+Between April 28, 2023 and December 12, 2023, 228
+days is a Discrete Event.  It was caused entirely by the unavailability of the trial
+judge to sit.  A review of the email exchanges between Crown, Defence and Trial
+Coordination shows that on April 28, 2023 the Trial Coordinator asked for counsel’s
+availability in December of 2023 to continue the trial.  I infer from this that
+the trial Judge was not going to be available to conduct this continuation
+until December in any event.
+December 12, 2023 to June 20, 2024 –
+191 days
+[
+95
+]
+Defence acknowledges that the period of time
+between December 12, 2023 and February 7, 2024 was defence delay.  The
+remainder of the time is claimed as “Crown delay” or “Court delay”.  The Crown
+claims that the period between December 12, 2023 and February 14, 2024 is
+Defence delay.  The Crown claims that the remainder of the time is a Discrete Event.
+[
+96
+]
+On December 12, 2023, Mr. Murray attended and
+sought an adjournment to April of 2024, in order to fully retain Mr. Perrin. 
+He had partially retained Mr. Perrin, but Mr. Perrin was not present, and
+not prepared to continue the trial on that date.  Mr. Murray advised that he
+needed legal advice prior to waiving his 11(b) right, and the matter was
+adjourned to January 24, 2024.
+[
+97
+]
+It was adjourned again to February 7, 2024 to coordinate
+continuation dates.  A lawyer from Mr. Sheikh’s office attended on February 7,
+2024 and requested an adjournment.
+[
+98
+]
+On February 14, 2024 the matter was adjourned to
+June 20, 2024 for the anticipated one further day for the Crown’s case.  The
+Defence anticipated calling evidence on July 4, 8 and 11, 2024.
+[
+99
+]
+The entire period between December 12, 2023 and
+June 20, 2024 is clearly Defence caused delay.  Mr. Murray requested the
+adjournment on December 12, 2023 so that he could retain new counsel.  He had
+not yet retained counsel by that date, and in fact, had only retained Mr.
+Shaikh’s office as of February 14, 2024.  Mr. Peters, who attended, said that
+he needed time to review 6 banker’s boxes of materials in order to continue the
+trial.  But for Mr. Murray’s request, the trial may have completed in the allotted
+time.  His new counsel was not even retained until February of 2024, and he
+clearly required time to prepare and review the transcripts, so that the trial
+could continue.  191 days is Defence delay.
+June 20, 2024 to July 11, 2024 – 21
+days
+[
+100
+]
+June 20, 2024 was conducted as a trial continuation.  Mr. S. Peters
+attended on behalf of Mr. Sheikh and conducted the trial continuation.  July 4,
+2024 was the argument of the Crown’s Similar Fact Application.  Justice Serre reserved
+her decision, and the trial continued on July 4 and July 8, and July 11, 2024.  There
+is no dispute that this is inherent trial time.
+July 11, 2024 to December 16, 2024 –
+158 days
+[
+101
+]
+The Crown claims that this period is a Discrete Event.  The Defence
+says that entire period is “Court delay” or “Crown delay”.
+[
+102
+]
+On July 11, 2024, the Crown observed that continuation dates were
+being explored with Trial Coordination, and dates were being offered in March
+of 2025.  The Court and the Crown expressed concern with that, and the matter
+was adjourned to August 28, 2024 to attempt to coordinate earlier continuation
+dates.
+[
+103
+]
+On August 28, 2024, earlier dates were scheduled for December 17,
+18, 19 and 20, 2024.  A speak-to date was set for September 18, 2024 to confirm
+the December trial continuation dates.
+[
+104
+]
+On September 18, 2024, the matter was adjourned to October 2, 2024
+to confirm the December dates, as well as two additional dates.  On October 2,
+2024, an agent for Mr. Sheikh indicated that another lawyer in his firm had
+been assigned, confirmed December 17, 18 and 19, 2024 as well as February 13
+and 14, 2025 as additional trial dates, and was looking to schedule another day
+in order to complete the trial.  On October 23, 2024 additional dates of March
+10 and 11, 2025 were confirmed.  The matter was adjourned to December 17, 2024
+to continue the trial.
+[
+105
+]
+July 12, 2024 to December 16, 2024 is solely attributed to the underestimation
+of trial time – 156 days.  The Crown’s case was complete.  The Defence case had
+commenced.  The original trial estimate was three weeks, and the effects of a
+remote trial slowed the trial down.  However, the effect of an underestimation
+of trial cannot be completely explained by remote attendances.  There was a
+serious underestimation of required trial time, even exceeding the original trial
+estimate while Mr. Murray was a self‑represented accused.  Each party has
+to bear the effect of this serious underestimation and, accordingly, I
+apportion this time between Crown and Defence.  Accordingly, I attribute 79
+days to the Crown and 79 days to the Defence.
+December 16, 2024 to June 2, 2025 –
+168 days
+[
+106
+]
+The Crown says that this period of time is due to a Discrete Event,
+or Defence waiver.  The Defence says that the entire time is court delay,
+except between February 5, 2025 and August 15, 2025, which may be
+characterized as either a Discrete Event or “court delay”.
+[
+107
+]
+On December 16, 2024, the matter was brought forward because the presiding
+Justice was not available to continue the trial, and the December dates were
+vacated.  The matter was adjourned to February 5, 2025 as a check-in date.  At
+that time, the next dates to be scheduled were February 13, 14, May 5, 6, 8 and
+26, 2025.  March dates were available, but the Crown was not.  February 13 and
+14, 2025 were confirmed as trial continuation dates.
+[
+108
+]
+On February 5, 2025, Counsel was advised that the presiding Justice
+was not able to continue the trial, and by Order of the Chief Justice, pursuant
+to s. 669.2(3), the trial was to restart before another Judge.  Mr. O’Brodovich
+appeared, and indicated that he was assisting counsel of record, Mr. Sheikh. 
+Another judicial pretrial was set for February 10, 2025.  Mr. Murray was
+given the option of having a new judge simply review the transcripts of
+evidence, rather than start the trial over again.
+[
+109
+]
+The matter was adjourned to March 5, 2025, to confirm new trial
+dates, and the February dates were vacated.
+[
+110
+]
+On March 5, 2025, new trial dates were scheduled, to commence on
+June 2, 2025 and complete on August 15, 2025, for a total of 32 days.  For the
+first time, there is mention of an anticipated 11(b) Application.  Earlier
+dates commencing on April 1 up to May 30, 2025 and June 6 and June 13, 2025
+were offered, but Defence counsel was not available on those dates.  Defence
+counsel anticipated that the bulk of the evidence would go in by way of
+transcript, but did not confirm.  A continuing JPT was scheduled to take place
+on April 2 and the matter was returnable in court for the first day of trial on
+June 2, 2025.
+[
+111
+]
+December 17, 2024 to June 1, 2025 is a Discrete Event – 168 days. 
+The delay is caused entirely due to the unavailability to the trial judge to
+continue the trial, and the need to coordinate a judge to sit for an additional
+32 days, in order to continue the trial.  It is somewhat miraculous that the trial
+continuation was scheduled as quickly as it was, and all parties are to be commended
+for working as quickly as they did in order to get this trial restarted and
+finished within the timeframe.
+June 2, 2025
+to August 15, 2025 – 75 days to complete the evidence
+[
+112
+]
+The trial was completed during this time.  It
+necessitated that all of the evidence, except the evidence regarding the
+investigating officer’s evidence be recalled.  One day was lost due to my
+unavailability, one day was lost due to Mr. Murray being ill, and we finished
+early on two dates.  As well, for reasons unknown, Trial Coordination in
+Sudbury assigned trial dates for five dates for which I was not available.  I
+made myself available on one of those dates, but the others had to be vacated. 
+After discussion with all counsel and court personnel, we started court at 9:00
+a.m., and only took one hour for lunch each day in June and for most of the
+days in August.  In that way, we were able to make up significant time for time
+that would have been lost.  I am grateful for all participants being flexible
+and in ensuring that the evidence in this matter could be completed within the
+scheduled time.  Pending this decision, the parties have scheduled October 9,
+2025 to argue the merits of the Crown’s case.
+[
+113
+]
+After the above assessment was completed, I have
+calculated the total delay attributable to the Defence as 693 days.
+[
+114
+]
+I have calculated the total delay caused by the
+combination of Discrete Events to be 1,002 days.
+[
+115
+]
+Accordingly, the calculation pursuant to the
+Jordan
+framework is as follows:
+Total delay:                                       2,264
+days
+Less Defence
+Caused delay:            693 days
+Net Delay:                                         1,571
+days
+Less Discrete
+Events:                     1,002 days
+Remaining Delay:                            
+  569 days
+[
+116
+]
+In
+R. v. Jordan
+, the Supreme Court
+determined that any delay over 18 months or a total of 548 days, is
+presumptively a breach of the right of the accused to be tried within a
+reasonable time, pursuant to s. 11(b) of the
+Charter of Rights and Freedoms
+. 
+As the remaining delay is 569 days, or 21 days in excess of 18 months, Mr.
+Murray has succeeded in establishing that his right pursuant to s. 11(b) has
+been violated.   Pursuant to s. 24(2), I will enter a stay of proceedings as
+the remedy for the breach of Mr. Murray’s right.
+Released:  September 19,
+2025
+Signed:
+Justice S. Murphy

@@ -1,0 +1,1003 @@
+source url: https://www.canlii.org/en/on/oncj/doc/2025/2025oncj2/2025oncj2.html
+
+ontario youth court of justice
+warning
+the court hearing this matter directs that the
+following notice be attached to the file:
+this is a case under
+the
+youth criminal justice act
+and is subject to subsections
+110(1) and 111(1) and section 129 of the act. these provisions read as
+follows:
+110. identity of offender not to be published —
+(1) subject to this section, no person
+shall publish the name of a young person, or any other information related to a
+young person, if it would identify the young person as a young person dealt
+with under this act....
+111. identity of victim or witness not to be
+published —
+(1) 
+subject to this section, no person shall publish the name of a child or young
+person, or any other information related to a child or a young person, if it
+would identify the child or young person as having been a victim of, or as
+having appeared as a witness in connection with, an offence committed or
+alleged to have been committed by a young person....
+129. no subsequent disclosure —
+no person who is given access to a record
+or to whom information is disclosed under this act shall disclose that
+information to any person unless the disclosure is authorized under this act.
+subsection 138(1) of the
+youth criminal justice act,
+which
+deals with the consequences of failure to comply with these provisions, states
+as follows:
+138. offences —
+every person who contravenes subsection 110(1)
+(identity of offender not to be published), 111(1) (identity of victim or
+witness not to be published)... or section 129 (no
+subsequent disclosure)...
+(
+a
+) is guilty of
+an indictable offence and liable to imprisonment for a term not exceeding two
+years; or
+(
+b
+) is guilty of
+an offence punishable on summary conviction.
+a non-publication and
+non-broadcast order in this proceeding has been issued under
+subsection 486.4(1)
+of the
+criminal code.
+this
+subsection and
+subsection 486.6(1)
+of
+the
+criminal code,
+which is concerned with the consequence of
+failure to comply with an order made under
+subsection 486.4(1), read as follows:
+486.4 
+order restricting publication — sexual offences.
+—(1) subject to
+subsection (2), the presiding judge or justice may make an order directing that
+any information that could identify the complainant or a witness shall not be
+published in any document or broadcast or transmitted in any way, in
+proceedings in respect of
+(
+a
+) any of the following
+offences:
+(i) an offence under section 151, 152, 153, 153.1, 155, 159, 160,
+162, 163.1, 170, 171, 172, 172.1, 173, 210, 211, 212, 213, 271, 272, 273,
+279.01, 279.02, 279.03, 346 or 347,
+(ii) an offence under section 144 (rape), 145 (attempt to commit
+rape), 149 (indecent assault on female), 156 (indecent assault on male) or 245
+(common assault) or subsection 246(1) (assault with intent) of the
+criminal code,
+chapter c-34
+of the revised statutes of canada, 1970, as it read
+immediately before january 4, 1983, or
+(iii) an offence under subsection 146(1) (sexual intercourse with a
+female under 14) or (2) (sexual intercourse with a female between 14 and 16) or
+section 151 (seduction of a female between 16 and 18), 153 (sexual intercourse
+with step-daughter), 155 (buggery or bestiality), 157 (gross indecency), 166
+(parent or guardian procuring defilement) or 167 (householder permitting
+defilement) of the
+criminal
+code,
+chapter
+c-34
+of the revised statutes of canada, 1970, as
+it read immediately before january 1, 1988; or
+(
+b
+) two or more offences
+being dealt with in the same proceeding, at least one of which is an offence
+referred to in any of subparagraphs (
+a
+)(i) to (iii).
+(2)
+mandatory
+order on application.
+— in proceedings in respect of the offences
+referred to in paragraph (1)(
+a
+) or (
+b
+), the presiding judge or
+justice shall
+(
+a
+) at the first reasonable
+opportunity, inform any witness under the age of eighteen years and the
+complainant of the right to make an application for the order; and
+(
+b
+) on application made by
+the complainant, the prosecutor or any such witness, make the order....
+486.6 
+offence.
+—(1) every person who fails to comply with an order
+made under
+subsection 486.4(1), (2) or (3) or 486.5(1) or (2) is
+guilty of an offence punishable on summary conviction.
+citation:
+r. v. a.b., 2025 oncj 2
+date: 
+2025 01 06
+court
+file no.: toronto #23-y4810977
+between:
+his
+majesty the king
+— and
+—
+a.b. (a young person)
+judgment
+before
+justice brock jones
+trial
+heard on october 15-17, 28, and december 19, 2024
+written
+reasons released on january 6, 2025
+e. stimec............................................................................................... counsel
+for the crown
+j. pyzer............................................................................................................. counsel
+for a.b.
+jones j.:
+i.
+introduction
+
+a.b., a young person, was charged with sexual assault with a weapon (to
+wit: a knife), sexual assault – choking, and sexual assault against ms. x.x.
+
+the crown proceeded by indictment. the central issue in this case was the
+identity of the perpetrator.
+
+the case against a.b. was fraught with difficulties from its inception.
+he did not match the description of the suspect responsible for these offences
+in a material way. even his arrest was shrouded in confusion, as the officers investigating
+the offences were initially unsure if they had located the correct suspect. ten
+months after he was charged, results were obtained from the centre of forensic
+sciences (“cfs”) regarding a male dna profile constructed from a bodily fluid
+sample deposited on the victim following the assault. a.b. was excluded as the
+source of this profile.
+
+despite this exculpatory evidence, the crown chose to proceed with the
+prosecution. i acquitted the young person immediately after the trial concluded
+on december 19, 2024, and provided oral reasons. in these written reasons, i
+explain in greater detail why the crown could not prove the central issue of
+the suspect's identity beyond a reasonable doubt.
+ii.
+summary of the case for the crown
+
+ms. x.x. was a sex worker in downtown toronto. she advertised her
+services for sale on the internet. she provided interested customers with
+various means to communicate with her. she was 25 years old when she testified.
+
+on june 25, 2023, she received communications from someone named “david”
+on whatsapp.
+
+the messages had a phone number associated with them. they negotiated a price
+for certain services. these communications took place at approximately 5-6 p.m.
+later that day, she took an uber to the address he provided.
+
+she arrived at approximately 10:03 p.m. she proceeded to the customer’s
+apartment and entered. he met her just inside the front door.
+
+he took her to a bedroom and sat down on the bed. she expected to be
+paid upfront. he did not have the money she was promised. very quickly, he
+assaulted her. he held her down on the bed against her will. he placed his hand
+on her neck and choked her with tremendous force. he had a knife with a red
+handle. the blade was five to six inches long.
+
+he told her to “shut up” repeatedly. she struggled at first but became
+subdued when he wielded the knife in a threatening manner. at one point he
+warned her, “do you want me to beat you up?”
+
+the man then sexually assaulted her. i will not describe the details of
+the assault in this judgment to preserve her dignity, as it is unnecessary to
+explain my conclusions. briefly stated the sexual assault involved him forcing
+his fingers and penis inside her vagina. he placed his hands over other parts
+of her body. the parties did not dispute that these actions established the
+charged offences' essential elements.
+
+she
+was not sure if he used a condom. the trauma overwhelmed her. she felt like she
+fell into a dissociative state.
+
+ms.
+x.x. wore glasses, and they fell off during the assault. this greatly
+diminished her ability to see her attacker and discern any details of his
+appearance. there was low light, and it was “pretty dark.” she could describe
+him as a black male, 5’ 5” or 5’6” tall, a “bit muscular,” with a wide face
+containing high cheekbones and freckles or acne scars on his face. he had black
+hair with short twists or dreadlocks. she estimated he was in his mid or late
+20s.
+
+she
+believed the man ejaculated at some point because she felt his penis become
+flaccid. after he finished his assault, he allowed her to leave. she took an
+uber home and saw her partner. she did not report the assault until the next
+day. the police interviewed her, and she attended at women’s college hospital.
+she was seen by a sexual assault nurse who completed a sexual assault evidence
+kit (“saek”).
+
+before
+the assault, she noticed someone else was inside the apartment as well. that
+person was down the hall, past the kitchen. the person was at least 5’ tall,
+with short hair and darker skin. they appeared to look out of a room’s
+doorway.
+
+ms.
+x.x. testified in a separate room via a video link during the trial. she
+could not see a.b. she was never asked to identify him in court as her
+attacker.
+
+the
+crown next called several police officers to testify, and the parties presented
+some agreed statements of fact.
+
+pc
+sirbos and pc kim attended the address where the sexual assault occurred on
+june 27, 2023, just after 8 a.m. they were allowed to enter the apartment.
+there, they located a.b., a teenage boy of 16 years. they also located his
+mother, another older woman, and another young male approximately the same age
+as a.b. the crown played the body-worn camera (“bwc”) footage of pc kim, which
+captured in clear video the appearances of everyone in the apartment.
+
+eventually,
+a.b. was arrested based, in part, on the description of the suspect provided by
+ms. x.x. the arrest was made by pc kim, who was never called to testify.
+
+in
+cross-examination, pc sirbos agreed it took him and his partner some time to
+determine who to arrest. that was because they were faced with a confusing
+situation when they arrived. assuming the suspect was one of the people in the
+apartment, more than one person there generally matched the description. pc
+sirbos agreed that nothing really separated either of the young males in terms
+of their resemblance to the suspect’s description other than a.b. being more
+“muscular” in his subjective assessment and his height appearing to be closer
+to the 5’5” to 5’6” range. no one clarified the height of the other male
+person.
+
+pc
+sirbos agreed that neither he nor his partner made any effort to determine who
+normally resided in the apartment. when asked if he felt a.b. looked like
+someone in his late 20s, he responded, “age was not at the forefront of my
+mind.” he could not explain why pc kim decided to arrest a.b. or what “tipped
+the scales.” he simply did not remember.
+
+a.b.
+can be seen using an iphone in the bwc footage. that phone was subsequently
+seized by the police and searched pursuant to a search warrant. a forensic
+examination revealed that a whatsapp account on the phone had the same phone
+number associated with it that ms. x.x. said was used to communicate with her.
+some of the messages retrieved from this phone appeared to confirm the suspect
+used it to send her messages before she arrived at the apartment on june 23,
+2023. the phone’s gps data revealed it was present at the apartment during the
+time of the assault, or very close nearby.
+
+an
+officer photographed the apartment on june 27, 2023. in those photographs, a
+knife with a red handle is visible in the kitchen.
+
+cassandra
+henry, a sexual assault nurse examiner at women’s college hospital, examined
+ms. x.x. around 11 pm on june 26, 2023. she noticed swelling on ms. x.x.’s neck
+and she appeared to have difficulty moving her neck due to pain. swabs were taken
+from different parts of her body as part of the completion of a saek.
+
+three
+biology reports were filed on consent from a forensic biologist at the cfs. the
+first report dated november 21, 2023, and the second report, dated
+february 5, 2024, included information that ms. henry took a swab from ms. x.x.’s
+external genitalia during the collection of samples for the saek. that swab sample
+was tested for dna. a mixture of dna from ms. x.x., her partner, and a third
+unknown male person was located.
+
+
+a
+third biology report, dated april 15, 2024, compared this dna profile to a
+known sample of dna from a.b. he was excluded as a contributor to this sample.
+iii.
+positions of the parties
+
+mr.
+stimec submits the case is “overwhelming.” ms. x.x.’s testimony was confirmed
+by several features of the police investigation, including the extraction
+reports from a.b.’s phone, and his presence at the crime scene. he matches the
+suspect’s description. his status as a teenager does not matter. if ms. x.x.
+was mistaken about the suspect’s age that can be explained by the fact people
+often make errors of this nature, or perhaps the poor conditions of visibility
+she faced during a traumatic experience rendered it difficult to make accurate
+observations.
+
+he
+further submits that the dna evidence is not a significant hurdle for the
+prosecution. the suspect may have used a condom, which could explain the lack
+of presence of his dna at the time the saek was processed. i will return to
+this feature of the crown’s arguments.
+
+mr.
+pyzer submits that even if the only issue i focus on is the identity of the
+suspect, the crown’s case is flawed. his client does not match the suspect’s
+description in material ways, including that he is far too young. in addition,
+the dna evidence points to another person as the suspect.
+
+mr.
+pyzer also argued that the crown’s reliance on his client’s phone as a source
+of corroborative evidence is misguided. that does not implicate a.b. as the
+person who assaulted ms. x.x., because it is unknown who was residing at the
+residence when the assault occurred. the crown only introduced evidence of who
+was located there by the investigating officers nearly two days later. a phone
+can be used by someone other than its owner. mr. pyzer also asked me to
+consider that some of the messages sent to ms. x.x. also suggest it was an
+adult responsible because they contained references to and pictures of alcohol.
+iv.
+law and analysis
+
+a.b. is presumed innocent. no one identified him in court as the person
+who sexually assaulted ms. x.x.
+this case is about the identity of the
+suspect. the prosecution will fail unless the only reasonable inference capable
+of being drawn from the facts is that a.b. was the man who sexually assaulted
+ms. x.x.: see:
+r. v. villaroman,
+2016 scc 33, at paras.
+37-8;
+r. v. mcletchie,
+2011
+onsc 1440, at para.
+72.
+
+a trial judge must approach eye-witness identification
+evidence with caution due to its well-recognized frailties: see
+r.
+v. a.w.,
+2024 onca 564, at paras.
+26-29. in
+r. v. hay,
+2013 scc 61,
+the supreme court of canada described the duty of a trial judge to prevent a
+jury from convicting on unreliable eye-witness identification evidence at para.
+41 (my emphasis added):
+although the duty to assess the credibility and weight of
+an eyewitness’ evidence sits with the jury and, in some circumstances, the
+testimony of one eyewitness will support a conviction, the jury should not be
+permitted to convict on the basis of eyewitness testimony that could not
+support an inference of guilt beyond a reasonable doubt. in other words,
+a jury should not be instructed that it may convict based on eyewitness
+testimony alone where that testimony, even if believed, would necessarily leave
+reasonable doubt in the mind of a reasonable juror;
+see
+r. v. arcuri,
+2001
+scc 54,
+ 2 s.c.r. 828, at paras.
+21-25;
+r. v. reitsma,
+1998 canlii 825
+(scc),
+ 1 s.c.r. 769, rev’g
+(1997),
+1997
+canlii 3607 (bc ca),
+97 b.c.a.c. 303;
+r. v.
+zurowski,
+2004 scc 72,
+ 3
+s.c.r. 509;
+united states of america v. shephard,
+1976
+canlii 8 (scc),
+ 2 s.c.r. 1067, at p.
+1080. indeed, where the crown’s case consists solely of eyewitness
+testimony that would necessarily leave reasonable doubt in the mind of a
+reasonable juror, the trial judge must direct an acquittal upon a motion for
+directed verdict (
+arcuri, at para.
+21
+).
+
+in this case, the crown did not rely upon eye-witness
+identification evidence, but rather eye-witness description evidence. that evidence
+is subject to the same frailties as eye-witness identification evidence:
+see
+r. v. dosanjh,
+2022
+onca 689, at paras.
+34-36.
+
+the crown’s theory of its case rested on the court's
+conclusion that a.b.
+resembled
+the perpetrator. however, as explained by
+justice code
+in
+mcletchie
+at para.
+72:
+it is settled law that evidence
+of a mere resemblance or similarity in appearance, as between the accused and
+the perpetrator of an offence, amounts to no evidence of identification
+standing alone. however, evidence of a resemblance, when combined with
+other inculpatory evidence, can amount to proof of identification. the
+existence of dissimilar features, as between the description provided of the
+perpetrator and the accused, can reduce evidence of identification to evidence
+of a mere resemblance. see:
+chartier v. a-g quebec
+(1979),
+1979
+canlii 17 (scc), 48 c.c.c. (2d) 34 (s.c.c.);
+r. v. boucher et al
+(2000),
+2000
+canlii 3270 (on ca), 146 c.c.c. (3d) 52 (ont. c.a.);
+r. v. rybak
+(2008),
+2008
+onca 354 (canlii), 233 c.c.c. (3d) 58 at 85-9 (ont. c.a.);
+r. v. brown
+(2009),
+2009
+onca 563 (canlii), 251 o.a.c. 264 (ont. c.a.).
+
+a resemblance between a.b. and the suspect is, therefore,
+insufficient. decades of jurisprudence have established this basic principle.
+furthermore, material, dissimilar features
+between
+the description of the perpetrator and the accused will be fatal to the crown’s
+case without other confirmatory evidence:
+see
+r. v. grant,
+2022
+onca 337, at paras.
+83-87.
+
+the
+prosecution was thus always tainted by a fundamental problem. no one could
+review the bwc footage of a.b. taken on june 27, 2023, and reasonably conclude
+he might be a man in his late 20s. he looked exactly like what he was – a
+teenage boy. that was the only evidence i had of his appearance at the time
+other than some rici (arrest) photos that were made exhibits. those also
+capture his youthful appearance. the confusion that befell the officers when
+deciding whether to make an arrest resulted from a.b. not matching this
+essential component of the suspect’s description. their confusion was understandable,
+and the same issue pervades this trial.
+
+pc
+sirbos’ testimony that he wasn’t “thinking about age” when debating whether to
+make an arrest is not worthy of belief. he was thinking about age and became
+indecisive when he arrived at a.b.’s residence. he was unable to locate an
+adult male, as he expected. my observations of a.b. in the courtroom, nearly 16
+months after this incident, are that he still looks his age. it defies belief
+that someone would have believed he was an adult approaching 30. while he has
+minor acne on his cheeks in the rici photos, he does not have freckles or noticeable
+acne scars. pc sirbos agreed that he did not notice freckles or acne scars on
+a.b. at the time of his arrest.
+
+a.b.
+was a black male with a similar hairstyle who was found in the apartment
+two days after the assault. pc sirbos stated that a.b.’s height was a factor he
+considered, too, as the suspect was described as approximately 5’6”. however, i
+did not hear evidence of a.b.’s height on june 25, 2023, or even what pc sirbos
+assessed it to be specifically. i cannot accurately discern his height from the
+bwc footage. another officer, pc power, wrote in her notebook that the
+suspect’s height may have been reported as closer to 5’7”.
+
+when
+i asked mr. stimec about these discrepancies, he did not respond convincingly.
+he stated that a.b. was certainly not a “pre-pubescent boy” and could be
+confused for a man in his 20s. he submits a.b. otherwise generally matched the
+suspect description. ultimately, whether a.b. did or did not match the suspect
+description is a factual issue for me to resolve. i find he did not match the
+suspect description in material ways. i reject mr. stimec’s conclusory
+arguments, which are plainly at odds with the evidence.
+
+ms.
+x.x. admitted she observed the suspect in poor lighting, and her glasses were
+knocked off her face for most of her observations. it was a highly stressful
+situation, and she became “disassociated” from what was happening to her. she
+focused on the knife and feared for her life. she agreed that many of the
+details were difficult to remember due to the passage of time and the trauma
+she experienced. therefore, her evidence of the suspect’s physical descriptors
+was of questionable reliability and demanded strict scrutiny: see
+r. v. mills,
+2019 onca 940, at paras.
+184-216;
+r.
+v. jack,
+2013 onca 80, at paras.
+15, 26;
+r. v.
+woodard,
+2009 mbca 42, at para.
+31.
+
+that
+is not to say her evidence was in any way lacking in credibility. i found her
+to be a careful and compelling witness. however, credibility and reliability
+are distinct matters for a trial court to assess.
+
+worryingly,
+the officers took no investigative steps to determine who else lived at this
+address, regularly or occasionally, to determine who otherwise might be a
+suspect. no one testified as to who owns or rents the apartment and who lives
+in each room. indeed, no one testified that a.b. lived there, had personal
+belongings there, or that one of the bedrooms belonged to him. it appears
+these facts were simply assumed. the bwc footage demonstrates that the
+apartment had several occupants. the living room was very cluttered with
+furniture and assorted possessions. i am left to conclude that the
+officers believed a.b. was arrestable on the very thin basis that he bore some
+similarities to the suspect and was found in a common area of the apartment two
+days after the offences occurred.
+
+it
+is worth highlighting that the decision to arrest a.b. required the officers to
+compare him to another black male in the apartment. it took them over half an
+hour to decide who should be arrested. i was never informed what made a.b. the
+more attractive potential suspect from pc kim’s standpoint, who was the officer
+who effected the arrest. i also did not hear if this other person was later investigated
+or excluded as a possible suspect. he, too, generally matched the suspect’s
+description and had a mobile phone. my observations of the bwc footage are
+that there is little to distinguish these two individuals from someone
+unfamiliar with them. their skin colour, hair, and general build are similar.
+their heights appeared roughly similar.
+
+these
+factors cast a shadow on whether there were reasonable and probable grounds to
+arrest a.b. the same concerns are present before me as the trial judge. the
+lack of any meaningful evidence about the regular occupants of the apartment,
+whether a.b. actually lived there as a matter of fact, and the presence of a
+plausible alternative suspect all serve to compromise the proposition that the
+sole reasonable inference available on the whole of the evidence is that a.b.
+must have been the perpetrator.
+
+mr.
+stimec pointed to a.b.’s iphone and his presence at the same location where the
+sexual assault occurred as sources of confirmatory evidence of the suspect’s
+identity. circumstantial evidence can sometimes be of sufficient probative
+value to support even otherwise unreasonable identification evidence: see
+r.
+v. wurtz,
+2024 skca 16, at paras.
+23-27;
+r.
+v. sandoval-barillas,
+2017 abca 154,
+at para.
+37,
+citing
+r. v. mccracken,
+2016
+onca 228. ms. x.x. stated that the suspect
+contacted her through whatsapp with the name “david” and a phone number she
+remembered. through forensic identification, both identifiers were traced to a.b.’s
+phone, and some messages were likely part of this original whatsapp
+conversation with the suspect. the iphone’s apple id was in his name as well.
+
+this
+evidence demonstrates that the iphone was used to communicate with ms.
+x.x., but nothing else.
+
+it does not necessarily mean that a.b. was the person using the phone to
+communicate with her before the assault, and it certainly does not establish
+that he was the man who assaulted her. i did not hear any evidence of who
+was present at the address where the assault occurred at the time of the
+assault or shortly beforehand, except from ms. x.x. she could only identify her
+assailant and one other person whom she saw briefly. she did not venture into
+the entire apartment and was only there for, at most, half an hour.
+
+i
+do not know if the phone had a password or other security features to limit who
+could use it. curiously, some of the messages ms. x.x. recalled sending and
+receiving from the person who contacted her were not present in the extraction
+report either. the conversation that remained appeared to be incomplete. this
+leaves open the possibility some of the messages had been edited or deleted by
+someone before the police seized it.
+
+portable
+phones may be borrowed by another user or used surreptitiously. while one
+inference available from this evidence is that a.b. used the phone to communicate
+with ms. x.x., that inference falls apart in the face of the rest of the
+evidence in this case which overwhelmingly points to someone else as the
+suspect: see
+r. v. c.b.,
+2019 onca 380, at paras.
+69-72. ms. x.x. was
+adamant that the suspect appeared to be in his 20s throughout her
+testimony and agreed that she informed the police of that
+fact when initially interviewed the day following the assault. she denied
+any suggestion the person who assaulted her appeared to be a child.
+
+the
+crown presented no other identification evidence pointing to a.b. i did not
+hear that ms. x.x. completed a photo lineup, for example, or that his
+fingerprints were on the knife or any other piece of property or relevant
+location. nor did the crown argue that he might have been a party to this
+offence, perhaps using his phone to set up the meeting for someone else.
+
+the
+lack of evidence about the knife warrants particular attention. i heard that an
+officer seized it but little else. i do not know if its measurements correspond
+to the suspect’s description of the knife used by her attacker. i do not know
+if any fingerprints were lifted from it. ms. x.x. was never shown a picture of
+the knife and asked to identify if it was the weapon held against her. it
+may have been a regular kitchen knife unrelated to the attack. or it may have
+had more significance as the suspect’s weapon.
+
+while
+a.b. was located at the same address where the assault occurred, it was over a
+day and a half later. he was not located in the bedroom where ms. x.x.
+testified she was taken. as previously explained, i was presented with a
+paucity of evidence regarding this apartment and who normally resided there.
+mere presence at the general scene of a crime after time has passed is of
+little assistance to the crown in this case.
+
+with
+these frailties in mind, the case for the crown became untenable after the
+introduction of the dna evidence. a sample of bodily fluid obtained from ms. x.x.’s
+exterior genitalia taken the day after the assault occurred provided an unknown
+male dna profile for comparison purposes. a.b. was excluded as the source of this
+evidence. the only other source of male dna located on the victim was
+attributable to her partner.
+
+
+in
+response to this exculpatory evidence, mr. stimec argued that there was no reason
+to conclude the unknown male dna profile was the “only one ever on [ms. x.x.]”
+nor did i hear evidence about how long dna may remain on a body – perhaps it
+had been there for weeks, months or even longer. mr. stimec added that the
+suspect furthermore may have used a condom, and from that, i can conclude it’s
+possible his dna would not have been found on ms. x.x. in summary, the crown’s
+position appeared to be that in the absence of a more robust challenge to the
+dna evidence and ms. x.x.’s testimony about a condom being used, a.b. cannot
+point to this dna evidence as anything more than neutral.
+
+i
+utterly reject this argument. ms. x.x.’s testimony about whether the assailant
+used a condom was inconsistent and unreliable. she conceded she simply did not
+remember and appeared to be making assumptions. she was quite forthright about
+these frailties in her memory.
+
+that
+evidentiary point aside, i find two features of this crown argument troubling.
+first, the argument does not respect that it is the crown’s onus to prove an
+accused is guilty and seems to suggest a.b. faced some onus to prove his
+innocence. he did not. if the crown wanted to lead evidence about the dna
+evidence in a more comprehensive manner, it had the opportunity to do so. i
+cannot speculate. a.b. need only point to the existence of reasonable doubt. at
+its core, mr. stimec’s argument would require me to conclude that the presence
+of an unknown male person’s dna on the victim’s body the morning after the
+sexual assault occurred should somehow be dismissed as a source of exculpatory
+evidence. even though the central issue in this trial was identity, and the
+victim’s testimony was that a grown man, not a teenager, committed this assault.
+
+of
+greater concern is that if the crown wished to rely upon evidence of ms. x.x.’s
+sexual activity with other persons proximate to the sexual assault, it was
+required to bring an application pursuant to the common law principles
+articulated by the supreme court of canada in
+r. v. seaboyer,
+1991
+canlii 76: see
+r. v. barton,
+2019 scc 33, at para.
+80.
+
+as noted by justice goldstein in
+canadian
+alliance for sex work law reform v. attorney general,
+2023
+onsc 5197, sex workers “
+receive
+little in the way of recognition or respect from our society”: see para. 11.
+courts must not allow the trial process to exacerbate the stigma sex workers
+already face from their profession through myth-based assumptions and the
+resultant vulnerability that accompanies that stigmatization: see paras. 317-337
+of justice goldstein’s decision, discussing the complex interplay of factors at
+the heart of this pressing social concern.
+
+in
+barton,
+the appellant was charged with first-degree murder in the death
+of an indigenous woman and sex worker. she was found dead in the bathroom of
+his hotel room. the crown, in its opening address to the jury, referred to the
+deceased as a prostitute. it did not bring an application before the trial
+judge to determine if this evidence was admissible and would serve any lawful
+purpose. the majority of the court commented on the need for all justice system
+participants to take reasonable steps to address “systemic biases, prejudice
+and stereotypes” against sex workers: see para. 20. in a partial dissent,
+justices abella and karakatsanis and c.j. wagner noted that “biases against
+sex-trade workers can be “as invasive and elusive as they are corrosive”: see
+para. 231.
+
+unfortunately,
+the crown invited me to draw negative, prejudicial inferences about ms. x.x in
+a misguided effort to somehow detract from the exculpatory nature of the dna
+evidence. we must do better, collectively, to root out terrible prejudices against
+sex workers. for crown counsel, five years after the emphatic warnings from the
+supreme court of canada in
+barton, to implicitly rely upon such
+stereotypes is disappointing.
+
+while not raised by mr. stimec during closing submissions, out of
+an abundance of caution, i note that during the trial, ms. x.x. referred to her
+surprise to learn that a “child raped her.” this did not bolster the crown’s
+case on identification either. as i have explained, she was consistent that she
+observed a man “in his late 20s” assault her. that is what she told the police,
+and that was her testimony in court. however, after the police made an arrest,
+she explained that the officer had told her the accused's name and that this
+was a youth court proceeding.
+
+her references to a “child raping her” show how
+her understanding of what happened to her was tainted by exposure to post-event
+information from the police and crown attorney’s office or victim services. she
+conflated her independent recollection that a grown man assaulted her and her
+subsequent knowledge that a child, a.b., was charged with the offences. what
+explained these utterances was that having learned a young person was charged and
+believing the police must have found the “right person,” she referred to a.b.
+as a child on the assumption that he was responsible. this does not
+somehow rehabilitate the case of the crown. it is an example of a well-documented
+concern that witnesses' memories and perceptions of events can be distorted by
+exposure to other sources of information. see, for example, the department
+of justice’s online publication, “innocence at stake: the need for continued
+vigilance and to prevent wrongful convictions in canada,” chapter 3: eyewitness
+identification and testimony (
+https://www.ppsc-sppc.gc.ca/eng/pub/is-ip/ch3.html
+).
+
+
+i
+must consider all the evidence when deciding whether the inferences the crown
+asks me to draw on the facts are reasonable. drawing those inferences in this
+case would be dangerous. not only does a.b. not match a key component of the
+suspect’s description, but the possibility of an alternative suspect has
+considerable support in the evidence. i emphasize the dearth of evidence about
+who resided at the address where the assault occurred. fundamentally, the dna results
+preclude the interpretation of the evidence the crown has proposed.
+
+
+no
+one could conclude beyond a reasonable doubt that a.b. committed the offences
+against ms. x.x. as a result, i found a.b. not guilty.
+v.
+the role of the crown in youth prosecutions
+
+the
+youth criminal justice system is based on fundamentally different values and
+principles than the adult criminal justice system. it exists because parliament
+has chosen to recognize young persons’ heightened vulnerability in dealing with
+the criminal justice system and their diminished moral culpability: see
+r.
+v. s.j.l.,
+2009 scc 14, at para.
+62. it contains a variety of protections
+for young persons unavailable to adult accused persons due to an acknowledgment
+of their unique susceptibility to the negative collateral consequences
+associated with being a criminal defendant.
+
+for example, the
+youth criminal justice act
+prohibits the
+publication of a young person’s identity who was charged with a criminal
+offence (section 110) and places very strict restrictions on access to youth
+records (sections 118-129). these provisions ameliorate the negative effects of
+labelling a young person as a “criminal.” as stated by binnie j. in
+fn
+(re),
+2000 scc 35, at para.
+14:
+stigmatization or premature
+"labelling" of a young offender still in his or her formative years
+is well understood as a problem in the juvenile justice system. a young person
+once stigmatized as a lawbreaker may, unless given help and redirection, render
+the stigma a self-fulfilling prophecy.
+
+in
+r. v. k.j.m,
+2019 scc 55, the supreme court of canada
+emphasized that
+youth matters should proceed
+“expeditiously and in a “timely manner”: see paras.
+51-55
+and
+72. prolonged
+criminal proceedings “may have a greater psychological impact on a young
+person”: see para.
+52. as the supreme court
+stated in
+catholic children’s aid society of metropolitan toronto v. m.
+(c.),
+1994 canlii 83 (scc), “[a] few
+months in the life of a child, as compared to that of adults, may acquire great
+significance” (p. 206). young persons addressing criminal charges are faced
+with increased “overall feelings of stress, anxiety, and (where applicable)
+loss of liberty”:
+k.j.m
+at para.
+52.
+
+t
+he police are empowered to lay
+criminal charges against young persons, and the crown’s office is vested with
+the constitutional responsibility of choosing whether to prosecute them. i
+acknowledge the crown’s discretion is broad, “ill-suited to judicial review,”
+and should not be subject to “routine second-guessing by the courts”: see
+r.
+v. t.v.,
+1992 canlii 88;
+r. v.
+anderson,
+2014 scc 41, at para.
+46. no one would dispute that crimes of sexual violence must
+be taken seriously regardless of the age of the perpetrator. the
+ycja
+recognizes the heightened societal interest in prosecutions for these offences
+by making them eligible for custodial sentences when the act is otherwise
+focused on rehabilitation and reintegration: see
+ycja
+section 39(1)(a).
+
+the
+offences committed against ms. x.x. were particularly grave. there was a strong
+public interest in bringing the perpetrator to justice. as the supreme court
+held in
+r. v. barton,
+2019 scc 33, “ending sexual violence against women
+is one of the more pressing challenges we face as a society”: see para. 1. had
+the evidence supported the case against a.b., the crown would have been
+entirely justified in prosecuting him.
+
+however, the decision to pursue charges against any defendant, especially
+a young person, carries a high ethical burden.
+i
+n
+r. v. kahsai,
+2023
+scc 20, the supreme court
+of canada described the role of the crown in criminal proceedings at para.
+55
+(my emphasis added). these values take on even greater importance in the youth
+criminal justice system, where the lives of children and their families are
+affected by every decision to prosecute:
+the crown also has considerable
+responsibility in ensuring trial fairness. as local ministers of justice and
+officers of the court, crown counsel have a duty to preserve the fairness of
+the criminal justice system for all parties,
+including the accused,
+victims, and the public (see ontario, ministry of the attorney general,
+crown
+prosecution manual, last updated may 6, 2023 (online)). because of the
+public and quasi-judicial dimension to the crown’s role, their function is not
+adversarial or partisan in the traditional sense. rather, it is driven by their
+purpose to advance the public interest (
+r. v. cawthorne,
+2016
+scc 32, 1 s.c.r. 983, at para.
+27
+). as famously expressed by
+rand j. in
+boucher v. the queen,
+1954 canlii 3
+(scc), s.c.r. 16, the goal of the crown is “
+not to obtain a
+conviction, it is to lay before a jury what the crown considers to be
+credible evidence relevant to what is alleged to be a crime” (p. 23).
+the
+crown must always act fairly, dispassionately, and with integrity, both in
+the courtroom and in all their dealings with the accused (
+r. v. regan,
+2002
+scc 12, 1 s.c.r. 297, at para.
+155, per binnie j., dissenting, but
+not on this point).
+
+
+i
+did not hear that any new investigative steps were taken after the dna results
+were obtained. those results served to potentially exonerate a.b. and were made
+available to the crown on or about april 15, 2024. yet the prosecution
+continued for another six months.
+
+it
+was logical that a.b. was investigated after ms. x.x. reported the assault to
+the police. the crown was entitled to take the time necessary to review its
+case against him carefully. nevertheless, it remains unsettling that he was
+brought to trial in this manner after all the evidence and the absence of other
+evidence that could have been collected was considered.
+
+if
+a.b. was the wrong person to arrest, a dangerous suspect remains to be located.
+if there was a stronger case to be brought against him that might somehow have
+overcome the frailties i have identified, it should have been properly
+presented. if no such case exists, the trial was an exercise in futility, done
+with disregard for the lives of everyone affected by this tragedy.
+
+a.b.
+remained on strict bail conditions from his arrest to the conclusion of the
+trial. he and his family had to endure the agony of continuing to live
+with the stigma of these charges and the extreme financial and emotional
+pressures of having to prepare for a lengthy trial. i was informed they lost
+their housing during the nearly 18 months it took to complete the litigation.
+every day of the proceeding, his mother sat anxiously behind him. he missed
+five days of school.
+
+ms.
+x.x. repeated several times during her testimony that she was traumatized by
+these events. she referenced difficult experiences in her life that had already
+left her vulnerable by the time she was assaulted on june 25, 2023. she had to
+relive this terrible assault over two days in court.
+
+the
+human toll of a criminal prosecution should never be underestimated. in youth
+court, it is felt by the young persons themselves, their parents, and other
+family members who attend to support them. it is difficult to imagine a case
+that could have a “greater psychological impact” on a young person as described
+by the supreme court in
+k.j.m
+than this one. a.b. may carry this
+experience with him for the rest of his life.
+
+respect
+for the administration of justice will be enhanced when those empowered to
+exercise their discretion do so reasonably and professionally while considering
+the hardships inflicted upon every person affected by the trial process: see
+r.
+v. jordan,
+2016 scc 27, at para.
+138.
+released: january 6, 2025
+signed:
+justice brock jones
+
+i am using fictitious initials to protect the identities of
+both a.b. and x.x.
+
+i have used a different, false name to avoid any potential for the young person
+to be identified.
+
+other swabs were taken during the saek process on different parts of ms. x.x.’s
+body. none of them produced a sample suitable for comparison purposes.
+
+i heard no evidence that mr. x.x. went by the
+name “david,” which is not his given name.
+
+i was informed by counsel that a.b. provided a sample of his
+dna for comparison purposes to the police on consent.
+
+i do not mean to presume for a moment that any such evidence even exists, as to
+do so would be itself a form of unlawful stereotyping.
+
+in
+r. v. miaponoose,
+1996 canlii 1268, the
+ontario court of appeal discussed the psychological phenomena of a witness “filling
+in” details,
+citing the
+law reform commission of
+canada study paper on pretrial eyewitness identification procedures (1983): “v
+iewers are inclined to fill in perceived
+events with other details, a process which enables them to create a logical sequence.
+the details people add to their actual perception of an event are largely
+governed by past experience and personal expectations. thus, the final
+recreation of the event in the observer's mind may be quite different from
+reality.
+”
+
+i emphasize that the parties simply placed the
+biology reports before the court, including the expert’s conclusions concerning
+the dna profiles, with no further context. the crown did not call an expert to
+testify about the forms of dna typing or interpretation applied in this case. i
+did not hear evidence about how dna is deposited or transferred through human
+contact. nor did i hear testimony regarding whether environmental factors
+should be considered. it was effectively an agreed statement of fact with respect
+to this evidence.
+
+my emphasis added.

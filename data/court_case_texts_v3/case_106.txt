@@ -1,0 +1,275 @@
+Source URL: https://www.canlii.org/en/on/oncj/doc/2025/2025oncj555/2025oncj555.html
+
+CITATION:
+R. v. Demiri
+, 2025 ONCJ 555
+DATE:  2025·10·20
+COURT
+FILE No.:  4840-998-23-10002702-00
+ONTARIO
+ COURT  OF  JUSTICE
+BETWEEN:
+HIS MAJESTY  THE  KING
+—  AND  —
+VALON DEMIRI
+Before
+  Justice Peter Scrutton
+Heard
+  on June 26 and September 23, 2025
+Reasons
+  for Judgment released on October 20, 2025
+P. Harris....................................................................................................................  
+  for the Crown
+Valon Demiri .........................................................................................................   self-represented
+Scrutton J.:
+Overview
+[
+1
+]
+Valon Demiri is charged with operating a
+conveyance while his ability to drive was impaired by alcohol.  At the time
+police pulled him over just before 3:00 a.m. on April 28, 2023, he was driving
+a pickup truck in the city of Toronto and had rolled through a stop sign. His
+truck had attracted the attention of the police because it was missing a wheel
+and driving on three; the friction between the pavement and the metal
+wheel-well caused loud screeching, sparks, and a fire.  Mr. Demiri told the
+police that he had drunk a couple of beers and was arrested for impaired
+driving almost immediately.
+[
+2
+]
+The key factual issue I must decide is
+whether the Crown has proved beyond a reasonable doubt that Mr. Demiri’s
+ability to drive was impaired by alcohol.  Mr. Demiri represented himself at
+trial.  He admits that he consumed alcohol and was driving that night but
+disputes that his consumption of alcohol had any effect on his ability to
+drive.  While I acknowledge at the outset how unusual and dangerous it was to
+drive a vehicle in that condition, what initially appeared to be an
+overwhelming Crown case was weakened to some extent by Mr. Demiri’s successful
+challenges to some of the potential indicia of impairment that Crown witnesses
+observed, such that determination of whether the Crown has discharged its
+burden requires close scrutiny of the evidence.
+The Officers’ Observations
+[
+3
+]
+Police Constable Ankur Patel was on
+uniformed patrol in the Fort York area of Toronto when he heard a screech and
+saw a pickup truck with sparks coming from its undercarriage heading north on
+Queen’s Wharf Road, east of Bathurst Street.  He watched the truck roll through
+a stop sign at Fort York Blvd.  He and his partner moved their cruiser in front
+of the truck to pull it over.  It was 2:49 a.m.  P.C. Ankur’s initial concern
+was that the vehicle was not safe to drive because of the sparks and the
+rolling stop.  He did not see a tire or a wheel when he went to the front
+passenger side, which was smoking, rusted out, and resting on the roadway.
+[
+4
+]
+When P.C. Ankur came back to the driver’s
+side, he saw the driver, Mr. Demiri, speaking to his partner and heard the
+defendant say that he’d had a few drinks.  P.C. Ankur thought Mr. Demiri’s
+speech was slurred and that he appeared to be slightly confused. His eyes
+appeared to be somewhat glossy.  P.C. Ankur did not smell anything immediately
+but as he got closer he could smell alcohol on Mr. Demiri’s breath, a smell
+that intensified when they were in the cruiser together shortly thereafter. 
+P.C. Ankur arrested the defendant for impaired operation at 2:50 a.m., read him
+rights to counsel at 2:51 a.m., and gave him the approved instrument demand at
+2:53 a.m.  Mr. Demiri indicated that he would like to speak to a lawyer.  They
+left for the station, which was a few minutes away.
+[
+5
+]
+Body-worn camera footage of Mr. Demiri’s
+arrest shows the pickup truck parked past the stop sign, blocking a pedestrian
+crosswalk. Part of the truck’s undercarriage near where the front passenger wheel
+should be was on fire; a considerable amount of smoke billowed from it.  The
+passenger side was damaged.  Mr. Demiri was asked how much alcohol he’d had to
+drink and answered “only two beers.”  P.C. Ankur’s partner, who did not
+testify, appears to be stunned at what he is observing. He made the decision to
+arrest Mr. Demiri for impaired operation on the spot.  Mr. Demiri can be heard slurring
+something indecipherable about his brakes. He made some unusual facial movements
+with his lips and mouth as he was being read his rights to counsel.
+[
+6
+]
+Mr. Demiri was processed at the station and,
+after unsuccessful attempts were made to speak to his lawyer, declined to speak
+to duty counsel.  P.C. Sean Robertson, the Qualified Breath Technician who took
+Mr. Demiri’s samples, described him as unsteady on his feet and having slow,
+slurred speech, droopy eyelids, and a strong odour of alcohol on his breath.
+Eventually, after some false starts and encouragement, Mr. Demiri provided two
+samples of breath that resulted in readings of 89 and 81 milligrams of alcohol
+in 100 ml of blood. He was charged with the offence of over 80 in addition to
+impaired operation.  The Crown did not proceed on the over 80 charge at this
+trial.
+Challenges to the Officers’
+Testimony
+[
+7
+]
+Mr. Demiri asked incisive questions during
+his cross-examination of both officers that had the effect of neutralizing some
+of the indicia of impairment they described.  P.C. Robertson referenced Mr.
+Demiri’s “very droopy eyelids” in the context of some of the physical signs of
+impairment he observed but acknowledged that Mr. Demiri appeared to have the
+same droopy eyelids in court, when there was no suggestion that he was under
+the influence. P.C. Robertson testified (and noted) that Mr. Demiri was
+unsteady on his feet but acknowledged that no such unsteadiness was evident in
+the footage in the breath room; he could not recall whether he had dealt with
+Mr. Demiri in any other room or the basis for that part of his notes or
+testimony.
+[
+8
+]
+P.C. Ankur admitted that the odour of
+alcohol he smelled on Mr. Demiri’s breath did not in and of itself denote how
+much alcohol Mr. Demiri had consumed.  He maintained that the smell was simply
+one of the factors he considered in determining that he had grounds to arrest
+Mr. Demiri. He agreed that it was the condition of the vehicle that initially
+drew his attention to it, as opposed to its manner of driving.  P.C. Ankur
+acknowledged that the defendant had an accent but disputed that he mistook Mr.
+Demiri’s usual manner of speech for slurring.
+The Parties’ Positions
+[
+9
+]
+The Crown submits that it has proven beyond
+any doubt that Mr. Demiri was operating a vehicle at the time he was stopped –
+the only question is whether his ability to do so was impaired by alcohol.  The
+totality of the circumstances prove that Mr. Demiri was impaired.  The Crown
+relies on the fact that Mr. Demiri was driving a truck missing a wheel that was
+screeching along the pavement, sparking, and literally on fire.  Driving a
+vehicle in this unsafe condition is probative of Mr. Demiri’s impaired
+judgment.  The vehicle’s condition supports the inference that it had recently
+been in a collision, which itself is probative of Mr. Demiri’s reduced driving
+skills.  The smell of alcohol that both officers described, the slurred speech
+and glossy eyes that P.C. Ankur described, and the BAC readings, all establish
+that the cause of Mr. Demiri’s impairment was alcohol as opposed to some other
+intoxicant or physical or mental condition.
+[
+10
+]
+Mr. Demiri submits that the Crown has not
+proved impairment.  It is reasonable to infer that he rolled through the stop
+sign because of the truck’s mechanical issues and not because his ability to
+drive was impaired.  Much of the evidence the Crown relies on admits of alternative
+inferences – the officers mistook his accent for slurring, mistook his natural
+facial features for drunken ones, and mistook the fact that he smelled like
+alcohol as probative of his ability to drive.  Mr. Demiri also relies on the
+officers’ admission that videos of him at the station do not show any
+unsteadiness or signs of impairment. Finally (and speciously), he relies on the
+fact that his breath samples were only slightly above the legal limit as
+exculpatory evidence which establishes that he was not impaired or is at least capable
+of raising a reasonable doubt about impairment.
+Relevant Legal Principles
+[
+11
+]
+Mr. Demiri is presumed innocent of these
+charges.  The burden of proof is on the Crown, who must prove beyond a
+reasonable doubt that he is guilty of these offences.  There is no onus on him
+to prove anything.  The standard of proof beyond a reasonable doubt is an
+exacting one, much closer to absolute certainty than to proof on a balance of
+probabilities.  Ultimately, I may only find him guilty if I am sure that his
+operation of the pickup truck that night was impaired by alcohol.
+[
+12
+]
+Mr. Demiri did not testify in this case or otherwise
+call evidence.  Some of his submissions involved factual explanations that were
+not founded in the evidence.  For example, he argued that he did not roll
+through the stop sign because he was driving poorly but because of the truck’s
+mechanical limitations.  In the same vein, he argued that he was not driving
+the vehicle recklessly, he was simply trying to navigate it to a safe place to
+park.  I will not consider exculpatory explanations that are not founded in the
+evidence but, in terms of the former example, accept that the condition of the
+vehicle provides an evidentiary basis upon which to argue that it is possible
+to infer causes other than impairment explain the rolling stop. I appreciate
+that doubt can come from the evidence or the absence of evidence and that here,
+because the Crown must prove impairment circumstantially, Mr. Demiri may only
+be found guilty if this is the only reasonable inference that the evidence
+permits. He must be acquitted if the evidence or absence of evidence gives rise
+to another reasonable inference:
+R. v. Villaroman
+,
+2016 SCC 33
+.
+[
+13
+]
+There is no special test for determining
+impairment.  The offence of impaired operation is established by evidence of
+“any degree of impairment ranging from slight to great”:
+R. v. Stellato
+(1993),
+1993 CanLII 3375 (ON CA)
+, 12 O.R. (3d) 90 (C.A.) at 95, aff'd
+1994 CanLII 94 (SCC)
+, [1994] 2 S.C.R. 478;
+R. v.
+Ramroop
+,
+2021 ONCA 642
+at para.
+11
+.
+Factual Findings
+[
+14
+]
+I accept the Crown’s submission that it has
+irrefutably proven that Mr. Demiri was driving that night and that he had
+consumed alcohol. The key issue in this case is impairment. I do not accept
+P.C. Robertson’s testimony about the potential indicia
+of impairment
+that he observed, given his inability to explain the basis for his notes and
+testimony that Mr. Demiri was unsteady on his feet and had slurred speech when
+they interacted.  I accept Mr. Demiri’s submission that he does not appear to
+be unsteady or slurring in the breath room and that his droopy eyelids are not
+probative of impairment.  In rejecting P.C. Robertson’s testimony, I do not
+mean to suggest that it is fabricated or insincere, only that it is not
+reliable.  I will not consider his evidence in my determination of whether the
+evidence establishes that Mr. Demiri was impaired.
+[
+15
+]
+Conversely, I find that P.C. Ankur was a
+reliable and credible witness. I accept his testimony that Mr. Demiri smelled
+of alcohol at the roadside, a smell which intensified when they were in the
+enclosed area of the cruiser.   I also accept that Mr. Demiri was slurring his
+speech in a way that cannot be explained by his accent and usual manner of
+speech, which is apparent on the body-worn camera footage.  It is not clear to
+me from the video whether Mr. Demiri’s eyes are glossy but I accept P.C.
+Ankur’s testimony that he observed glossy eyes in person.  Based on my review
+of the footage, Mr. Demiri was exhibiting a strange affect and demeanour at the
+roadside that was not apparent later in videos of him at the station.
+[1]
+The
+breath samples the Crown tendered, while not probative of the factual question
+of impairment because they have not been interpreted by an expert, are
+probative of the fact that Mr. Demiri consumed alcohol that night, which is in
+turn partly confirmatory of P.C. Ankur’s testimony that he could smell alcohol
+on him.
+[2]
+[
+16
+]
+When I consider evidence of Mr. Demiri’s
+slurred speech, glossy eyes, the odour of alcohol emanating from him, and his demeanour
+at the roadside in the context of his rolling stop, the fact that he was
+operating a vehicle which had recently been in a collision, and the fact that
+he nonetheless continued to operate that vehicle when it was clearly in no condition
+to be driven safely, I have no doubt that Mr. Demiri’s judgment and ability to
+drive that night were impaired by alcohol.  I find him guilty.
+Dated:   October 20, 2025                                                   ____________________________
+Justice
+Peter Scrutton
+[1]
+See, for example, Exhibit # 1 at timestamp 2:51:09 and following.
+[2]
+R. v. Schen
+,
+2023 ONSC 3847
+at paras.
+58-59
+.

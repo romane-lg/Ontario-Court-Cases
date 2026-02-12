@@ -1,0 +1,1017 @@
+Source URL: https://www.canlii.org/en/on/oncj/doc/2025/2025oncj619/2025oncj619.html
+
+ONTARIO COURT OF JUSTICE
+CITATION:
+R. v. Camara,
+2025 ONCJ
+619
+DATE: 
+2025 11 26
+COURT
+FILE No.:  Hamilton 24-47105343
+BETWEEN:
+HIS
+MAJESTY THE KING
+— AND
+—
+RICCO CAMARA
+Before
+Justice J.P.P. Fiorucci
+Heard
+on August 28, 2025
+Ruling on Admissibility of Expert
+Evidence
+released on November 26, 2025
+Taylor Ormond.................................................................................... counsel
+for the Crown
+Jaime Stephenson............................................  
+counsel for the accused Ricco Camara
+FIORUCCI J.:
+Overview
+[
+1
+]
+On September 22, 2024, Hamilton police were
+dispatched to investigate a report that a male pulled out a gun and pointed it
+at a complainant. The police located the accused, Ricco Camara, who matched the
+description of the suspect. The accused was arrested and searched incident to
+arrest. In a cross-bag strapped to the accused, police located a handgun and
+ammunition in a magazine. In the accused’s pockets, police located drugs and
+cash. The accused was charged with firearms and ammunition offences on one
+information and drugs and proceeds of crime offences on a separate information.
+[
+2
+]
+This prosecution relates to the drugs and
+proceeds of crime. The police charged the accused with possession of three Schedule
+I substances for the purpose of trafficking, cocaine, fentanyl, and oxycodone.
+The proceeds charge relates to $1,660 in Canadian currency in various
+denominations that the police found on the accused’s person. The Crown stayed
+the oxycodone charge and proceeded with the fentanyl and cocaine charges. The accused
+admits knowledge and control of the fentanyl and cocaine. He denies that he
+possessed these substances for the purpose of trafficking and denies that the cash
+is proceeds of crime.
+[
+3
+]
+The Crown seeks to elicit expert opinion
+evidence from Detective Constable Ryan Goch of the Hamilton Police Service to assist
+the court in drawing the inference that the accused was in possession of
+fentanyl and cocaine for the purpose of trafficking. The Crown wants the
+officer qualified as an expert in relation to all three substances
+notwithstanding that the Crown directed a stay of proceedings to be entered in
+relation to the oxycodone charge. The defence contested the admissibility of
+expert evidence through Detective Constable Goch, saying that his evidence is
+not necessary and that he is not properly qualified.
+[
+4
+]
+A
+voir dire
+was held to determine
+the admissibility of the proposed evidence. Detective Constable Goch was
+examined and cross-examined on the
+voir dire.
+These
+reasons explain why I qualify Detective Constable Goch to give expert opinion
+evidence in relation to cocaine and fentanyl but not oxycodone. In this ruling,
+I will set out the nature and scope of the expert evidence the Crown is
+permitted to tender through the officer.
+Agreed Statement of Facts
+[
+5
+]
+The accused entered not guilty pleas to the
+charges of possession of fentanyl and cocaine for the purpose of trafficking
+and possession of proceeds of crime under $5,000. The parties filed an agreed
+statement of facts setting out admissions the accused is prepared to make at
+his trial pursuant to
+s. 655
+of the
+Criminal Code
+.
+[
+6
+]
+The accused admits that, when the police searched
+him incident to arrest, they found $1,660 Canadian in
+his left front jeans pocket, in the following denominations: (i) 4 x $5
+bills, (ii) 4 x $10 bills, (iii) 40 x $20 bills, (iv) 10 x $50 bills, and (v) 3
+x $100 bills.
+[
+7
+]
+In the accused’s right rear jeans pocket, the police located a
+clear plastic bag with a red zip closure holding 30 pills of oxycodone. In his left rear jeans pocket was clear twisted plastic holding 19
+small plastic dime bags containing p-Fluorofentanyl, an analogue of fentanyl. The
+19 individual dime bags each contained the following amounts of p-Fluorofentanyl:
+1. 0.1 grams,
+2. 0.11 grams,
+3. 0.11 grams,
+4. 0.11 grams,
+5. 0.11 grams,
+6. 0.11 grams,
+7. 0.07 grams,
+8. 0.1 grams,
+9. 0.08 grams,
+10. 0.1 grams,
+11. 0.1 grams,
+12. 0.1 grams,
+13. 0.06 grams,
+14. 0.1 grams,
+15. 0.07 grams,
+16. 0.1 grams,
+17. 0.09 grams,
+18. 0.07 grams, and
+19. 0.06 grams.
+[
+8
+]
+The combined weight of the p-Fluorofentanyl in
+the 19 dime bags was 1.75 grams.
+[
+9
+]
+In the accused’s left rear jeans pocket, the
+police found twisted clear plastic holding 10 small, folded paper baggies
+containing cocaine. The 10 folded paper baggies contained the following amounts
+of cocaine:
+1. 0.18 grams,
+2. 0.17 grams,
+3. 0.22 grams,
+4. 0.21 grams,
+5. 0.14 grams,
+6. 0.18 grams,
+7. 0.16 grams,
+8. 0.19 grams,
+9. 0.18 grams, and
+10. 0.18 grams.
+[
+10
+]
+The combined weight of the cocaine in the 10
+paper baggies was 1.81 grams.
+[
+11
+]
+On the ground near the accused, the police located three cell
+phones, a 9-millimetre bullet, and a silver bandana.
+The Scope of the Proposed Expert Opinion
+Evidence
+[
+12
+]
+Exhibit 1 on the
+voir dire
+is a statement
+filed by the Crown setting out the scope of the proposed expert opinion
+evidence. During submissions, Crown counsel made slight amendments to the scope
+of the proposed evidence. The Crown asks that Detective Constable Goch be
+qualified to give expert opinion evidence in relation to cocaine, fentanyl and
+oxycodone drug trafficking generally, and specifically pricing, quantity,
+street terminology and language, consumption habits of users, purchase
+patterns, conduct of drug trafficking and indicia of trafficking.
+[1]
+The Admissibility Framework for
+Expert Opinion Evidence
+[
+13
+]
+Expert opinion evidence is presumptively
+inadmissible. The party tendering the evidence must establish its admissibility
+on the balance of probabilities.
+[2]
+A two-stage analysis governs the admissibility of such evidence. At the first
+stage, the party seeking to introduce the evidence is required to establish the
+following threshold requirements:
+(1)
+that the evidence is
+logically relevant
+to an issue in the specific case;
+(2)
+that the evidence is
+necessary
+;
+(3)
+that the evidence does not infringe on
+an
+exclusionary rule of evidence
+;
+(4)
+that the expert is
+properly qualified
+.
+[3]
+[
+14
+]
+If the threshold criteria are met, the analysis moves
+on to the “gatekeeper” stage, where the judge engages in a case-specific
+cost-benefit analysis to determine whether the benefits of admitting the
+evidence outweigh the costs.
+[4]
+This stage focuses on the legal relevance and reliability of the evidence.
+[
+15
+]
+In the accused’s case, the defence contested
+admission only on the bases that the evidence is not necessary, and Detective
+Constable Goch is not properly qualified. I will nonetheless address the other
+requirements of admissibility for sake of completeness and because it will
+assist in explaining my finding regarding the oxycodone.
+Threshold Inquiry
+Relevance
+[
+16
+]
+At the threshold stage, relevance refers to
+logical relevance. In
+R. v. Abbey,
+Justice Doherty said that the
+evidence must “have a tendency as a matter of human experience and logic to
+make the existence or non-existence of a fact in issue more or less likely than
+it would be without that evidence”.
+[5]
+[
+17
+]
+In
+R. v. (J.-L.)
+, the Supreme Court of Canada
+(SCC) provided a slightly different definition, saying that evidence is
+relevant
+“where it has
+some tendency
+as a matter of logic and human experience to make the proposition for which it
+is advanced more likely than that proposition would appear to be in the absence
+of that evidence”.
+[6]
+The SCC said that this concept of relevance-“some tendency”- provides a low
+threshold. It is different from legal relevance which is assessed at the “gatekeeper”
+stage, where the judge must determine, on balance whether the probative value
+of the evidence outweighs the potential prejudice or impact on the trial
+process.
+[7]
+[
+18
+]
+The accused is charged with possession of
+cocaine and fentanyl for the purpose of trafficking which requires the Crown to
+establish beyond a reasonable doubt that the accused was in possession of these
+illegal substances (the
+actus reus
+) and that the possession was for the
+purpose of trafficking (the
+mens rea
+). The evidence the Crown seeks to
+adduce through Detective Constable Goch - the conduct associated with drug
+trafficking of cocaine and fentanyl, including pricing, quantity, street
+terminology and language, consumption habits of users, purchase patterns, and
+indicia of trafficking - is relevant to the issue of whether the accused was in
+possession of these substances for the purpose of trafficking.
+[
+19
+]
+The Crown has not articulated with sufficient
+clarity how the officer’s proposed expert opinion evidence regarding oxycodone
+is relevant to a fact in issue in this litigation. The Crown stayed the charge
+relating to oxycodone. In submissions, Crown counsel said that evidence about
+the oxycodone was “peripherally relevant” and acknowledged that, on the
+voir
+dire
+, she did not spend as much time questioning Detective Constable Goch
+about oxycodone. Crown counsel alluded to the fact that oxycodone, like the
+cocaine and fentanyl, was an item of value that the police located on the
+accused’s person. However, this does not establish on the balance of
+probabilities that the officer’s proposed expert opinion evidence regarding
+oxycodone is relevant to the material issue in this case, which is the purpose
+for which the accused was in possession of cocaine and fentanyl. The Crown’s
+application to elicit expert opinion evidence about oxycodone fails at this
+stage.
+Necessity
+[
+20
+]
+To be necessary, the opinion must provide information
+“which is likely to be outside the experience and knowledge of a judge or
+jury”.
+[8]
+The evidence must be more than merely helpful, but necessity need not be judged
+by too strict a standard.
+[9]
+Absolute necessity is not required.
+[10]
+The expert evidence must be
+necessary to allow the trier of fact to either “appreciate the facts due to
+their technical nature”, or “to form a correct judgment on a matter if ordinary
+persons are unlikely to do so without the assistance of persons with special
+knowledge”.
+[11]
+[
+21
+]
+Defence counsel says that Detective Constable
+Goch’s evidence is not necessary because the agreed statement of facts shows
+that this is a straightforward case requiring me to determine whether the
+accused was in possession of the cocaine and the fentanyl for the purpose of
+trafficking. The defence submits that I can form my own conclusions on that
+issue from the proven facts, without the expert opinion evidence.
+[
+22
+]
+With respect, the defence position assumes that
+I am approaching the question of the accused’s purpose for possessing the
+illegal substances with experience and knowledge of the consumption and sale of
+cocaine and fentanyl. Because expert opinion evidence regarding drug
+trafficking practices is generally admissible, it may be that certain portions
+of Detective Constable Goch’s evidence will be familiar to me, having heard
+similar evidence in past cases. However, as the officer pointed out in his
+evidence on the
+voir dire
+, he routinely consults with other
+investigators and drug experts to keep current on drug trends including pricing,
+suggesting that the information an officer can provide about drug trafficking
+practices, including things such as pricing and quantities, is not fixed but
+can evolve. The information that Detective Constable Goch would convey to the
+court are not facts upon which judicial notice can be taken because they are so
+commonly accepted as accurate that evidentiary proof is not required.
+[
+23
+]
+Expert evidence is admissible to explain the practices and habits
+of drug traffickers, including the significance of quantities, packaging, and
+pricing, because these matters are outside the knowledge of ordinary jurors and
+judges, and are necessary to assist the trier of fact in determining whether
+possession was for personal use or for the purpose of trafficking.
+[12]
+[
+24
+]
+I find that the evidence about drug trafficking
+in cocaine and fentanyl and consumption habits of users that the Crown seeks to
+adduce is outside my experience and knowledge and is necessary for me to
+form a correct judgment on the issue of whether the
+accused was in possession of the substances for the purpose of trafficking.
+Absence of Any Exclusionary Rule
+[
+25
+]
+It was not argued that any exclusionary rule barred
+the admissibility of the proposed expert opinion evidence, and none presents
+itself on the evidence led on the
+voir dire
+.
+[13]
+Properly Qualified Expert
+[
+26
+]
+To find that the witness is a properly qualified
+expert, the court must be satisfied of two things on a balance of probabilities:
+(1)
+the witness must have “acquired special or
+peculiar knowledge through study or experience in respect of the matters on
+which he or she undertakes to testify”;
+[14]
+and
+(2)
+the witness must be willing and able to
+discharge their duty to the court by providing evidence that is impartial,
+independent, and unbiased.
+[15]
+[
+27
+]
+The accused concedes that the second requirement
+is met in this case. Detective Constable Goch testified that he understands his
+duty as an expert, which he stated is to provide fair, objective, impartial
+information and assistance to the court. He said that he is able to do so. A
+party that opposes the admission of the evidence has the burden of showing that
+there is a realistic concern that the expert’s evidence should not be received
+because he is unable and/or unwilling to comply with his duty to provide
+impartial, independent and unbiased evidence.
+[16]
+The accused did not raise any such concern.
+[
+28
+]
+The focus of the accused’s challenge is on the scope
+of Detective Constable Goch’s expertise. The threshold for becoming qualified
+as an expert is not onerous.
+[17]
+The party calling the expert must simply demonstrate that the expert “acquired
+special or peculiar knowledge through study or experience”. As the SCC stated
+in
+R. v. Bingley
+,
+“[t]he basic requirement of expertise for an expert
+witness is that the witness has expertise outside the experience and knowledge
+of the trier of fact”.
+[18]
+The question is whether Detective Constable Goch meets this requirement. I find
+that he does in respect of both cocaine and fentanyl.
+[
+29
+]
+Detective Constable Goch
+has not previously been qualified by a court to give expert opinion
+evidence. This is the first time that the officer has proposed himself as an
+expert witness. His
+Curriculum Vitae
+is Exhibit 2 on the
+voir dire.
+He was not involved in the investigation of the accused.
+[
+30
+]
+Detective Constable Goch has been a police
+officer with the Hamilton Police Service since December 2015. He was a police
+constable in a uniform capacity until December 2021. In that six-year period, he
+estimated that between 20 and 40 percent of his work involved some type of
+drug-related incident which might arise from investigating non-drug related matters.
+About 5 to 10 percent of his work in uniform patrol was made up specifically of
+CDSA
+investigations, meaning that it was the primary concern of the
+investigation. He gave the examples of a call for service by someone witnessing
+drug activity, or a proactive investigation into drug possession or trafficking,
+for instance during traffic stops. The
+CDSA
+investigations involved a
+mix of simple possession and possession for the purpose of trafficking.
+[
+31
+]
+From January 2022 to September 2023, Detective
+Constable Goch was a police constable in the High Enforcement Action Team,
+known as the HEAT Unit. He described this as a mix between proactive work and
+response to community complaints. Detective Constable Goch testified that the
+majority of community complaints were drug-related, “whether it was
+Crime Stoppers or handling informants, receiving information in person”. He estimated that 60 to 80 percent of his work in the HEAT Unit was
+CDSA
+investigations, close to half of them involving cocaine and about half of them
+involving fentanyl.
+[
+32
+]
+From October 2023 to present, Detective
+Constable Goch has been in the Major Drugs and Gangs Unit. The officer said that
+the main focus of this unit is a higher level of drug trafficking than what the
+HEAT Unit would deal with, as well as weapons possession offences. He testified
+that the majority of the work is
+CDSA
+drug
+investigations, estimating it to be about 95 percent of his work, and mostly
+involving s. 5(2)
+CDSA
+offences. Again, he said that in Major Drugs and
+Gangs about half of the investigations involve cocaine and about half involve
+fentanyl. Some of the investigations involve both cocaine and fentanyl.
+[
+33
+]
+Detective Constable Goch testified that in his
+ten years of police work, he has been involved in over 50 arrests for s. 4(1)
+CDSA
+offences and has participated in
+searches incident to these arrests. During these searches, he has located drugs,
+observed the quantities of drugs, the ways the drugs were packaged, how they
+were separated, the typical weights that they were packaged in, and how the
+drugs were concealed. During these s. 4(1)
+CDSA
+arrests, he had occasion
+to locate paraphernalia of use, which oftentimes included burnt tinfoil, glass
+pipes, lighters and sometimes needles.
+[
+34
+]
+Detective Constable Goch estimated that in the
+same ten-year period, he was involved in over 50 arrests for s. 5(2)
+CDSA
+offences.
+He has been involved in the searches incident to arrest for these matters and
+estimates that 50 percent of them involved cocaine and 50 percent involved
+fentanyl. From these arrests, he was able to observe the quantity of drugs
+seized and has learned other things like “the way in which the drugs are
+packaged”. He has located indicia of trafficking, such as scales, cutting
+agents, and colouring dyes. He testified that weapons are commonly seized when
+executing warrants in the Major Drugs and Gangs Unit.
+[
+35
+]
+In relation to the s. 5(2)
+CDSA
+arrests,
+Detective Constable Goch was asked about the quantity of drugs seized. He
+replied, “[t]he smallest is sometimes a point or two, like, 0.1 grams,
+very, very small packaging.  Up to multiple kilograms at a time”. When asked if
+that was for both fentanyl and cocaine, he said: “Yes.  The fentanyl is I would
+say is more often in the point form.  Cocaine is sometimes in a gram or a few
+grams, something – still small quantities but not quite 0.1 grams.  Up to
+multi-kilo level”.
+[
+36
+]
+Detective Constable
+Goch has debriefed individuals arrested for both s. 4(1) and 5(2)
+CDSA
+offences.
+He has most commonly debriefed users and traffickers of cocaine, fentanyl and
+methamphetamine, but also other drugs like prescription pills, heroin and MDMA.
+From his debriefs with drug traffickers, he has learned, “[a]nything
+from the manner in which drugs are trafficked in terms of whether it’s on foot,
+doing hand-to-hands, or in a vehicle or how they’re meeting up, the quantities
+that they’re typically operating within, the pricing, the lingo and street terminology
+that they refer to these drugs as, the I’m not sure if I mentioned packaging
+but the way they package their drugs, where that particular user/dealer might
+meet the other half to conduct their business, things of that nature”.
+[
+37
+]
+In both the HEAT Unit and the Major Drugs and
+Gangs Unit, Detective Constable Goch has performed tasks which have contributed
+to the officer attaining specialized knowledge about drug trafficking in both
+cocaine and fentanyl. He has been an affiant for numerous section 11
+CDSA
+search warrants for both fentanyl and cocaine. He estimated that half of these
+warrants involved cocaine and half involved fentanyl. Some of the search
+warrants involved both substances. While in Major Drugs and Gangs, he has been
+an affiant in 8 to 10 cases and been the affiant in 5 to 10 cases in HEAT.
+[
+38
+]
+As an exhibit officer in both units, Detective
+Constable Goch has photographed and sometimes created a video of substances
+found during the execution of search warrants. He was tasked with going through
+the exhibits, categorizing them, and submitting information electronically in
+the NICHE system. When asked by Crown counsel what type of information he
+learned from acting as an exhibit officer, Detective Constable Goch replied:
+You frequently see a variety of different drugs.  Not
+only do you have your own experience and knowledge of what you believe it to
+be, but you also have the searching officers with sometimes less experience,
+equal, or more experience than myself and they’re also telling you what they
+believe it is, so that kind of gives you some confidence if you’re kind of on
+that same page.  So, you’re handling these drugs, you’re seeing the different
+textures, the different colours, the way they are packaged, the different,
+like, common weights that they’re found together, things of that nature.
+[
+39
+]
+While in Major Drugs and Gangs, as an exhibit
+officer, he also obtained samples of substances to be sent to Health Canada for
+analysis. He confirmed in his testimony on the
+voir dire
+that he handled
+both cocaine and fentanyl to send samples to Health Canada and in doing so, he
+observed the quantities, how they were packaged and what the drugs looked like.
+While in Major Drugs and Gangs, he has been an exhibit officer 8 to 10 times.
+[
+40
+]
+In both units, Detective Constable Goch has
+handled confidential human sources/informants, obtaining information relating
+to the operations of drug dealers, their way of conducting business, their
+unique language, and their pricing for buyers and dealers. On the
+voir dire
+,
+Detective Constable Goch testified that from informants he learned about “specific
+parties that are dealing drugs, the locations that they’re dealing at, the
+average or range of quantities that they typically get involved in, the
+pricing, the specific drugs themselves, which drugs they offer for sale,
+sometimes the way they’re packaged, if they have, like, a sort of signature or
+trademark way of doing it”.
+[
+41
+]
+The vast majority of informants he dealt with in the Major Drugs
+and Gangs Unit were drug traffickers, but he also handled informants who were
+users. Detective Constable Goch estimated that 50 percent of the information he
+received involved fentanyl and cocaine.
+[
+42
+]
+When he has been an Officer in Charge (OIC) for
+CDSA
+investigations, he has participated in court preparation including
+disclosure. He estimated that he was an OIC 10 times in the Major Drugs and
+Gangs Unit and 5 to 10 times in HEAT. He has conducted surveillance
+in various capacities, covertly
+observing drug dealers and users to determine their means of conducting
+business and lifestyle habits
+.
+[
+43
+]
+He has been a searching officer,
+assisting with the execution of
+warrants for residences and vehicles, during which he has located drugs,
+weapons, cutting agents, debt lists, cell phones and other items. As a
+searching officer,
+Detective Constable Goch
+has
+found cocaine 50 percent of the time and fentanyl 50 percent of the time. In
+this role, he has observed how drug dealers conceal, package and store their
+product. He has been a searching officer 20 or more times in Major Drugs and
+Gangs and between 10 and 20 times in HEAT.
+[
+44
+]
+Another task he has performed in both units is
+the
+review of mobile
+device downloads from devices which were seized during the execution of s. 11
+CDSA
+search warrants. In this role, Detective Constable Goch has gained knowledge
+about the conduct of drug dealers including drug trends, pricing and
+packaging.  In his testimony at the
+voir dire
+, the officer
+expanded on the knowledge he has gained from reviewing cell phone extractions,
+saying that:
+…you see the terminology of various drugs, sometimes
+you see stuff you don’t necessarily recognize; you have to reach out to whether
+it’s coworkers or members.  At that time when I was in the HEAT Unit, sometimes
+members in the Drug Unit with a bit more experience to see what different
+terminology and lingo means.  And then you’re also seeing the manner in which
+they deal, again, whether it’s setting up a deal at their own house or meeting
+in a car.  You also see the pricing that they set for different quantities, you
+get a sense of what quantities they most often deal with based on kind of the
+pattern that is shown in their messages and pictures.
+[
+45
+]
+Detective Constable Goch’s
+Curriculum Vitae
+lists numerous courses he has participated in and training he has received. These
+courses include Introduction to Expert Witness (CISO) in May 2025 and Drug
+Investigator Training (OPC) in November 2024. The latter was a two-week course which
+provided information on investigating drug trafficking, and included case
+studies, warrant drafting, undercover operations, and current trends in the
+illicit drug market. Detective Constable Goch testified that the Drug
+Investigator Training course covered both cocaine and fentanyl and the drug
+trends associated with these substances.
+[
+46
+]
+In addition to courses attended, Detective Constable Goch
+testified that he expands his knowledge about drugs and drug trafficking almost
+daily by consulting with colleagues in both the Major Drugs and Gangs Unit and
+the HEAT unit, as well as experts in the area. He said that they frequently talk
+about how they are doing investigations or the trends they are seeing, such as what
+drugs are most popular at any given time, different packaging methods,
+different textures and colours. Detective Constable Goch said that nearly every
+time he has these conversations with colleagues, they discuss cocaine and
+fentanyl which he said are “two of the most common drugs that we see in the
+city”. He said that “speaking about drugs specifically, it keeps us up-to-date
+on trends, pricing, investigative techniques, other experiences…”.
+[
+47
+]
+In cross-examination, defence counsel asked Detective Constable
+Goch how often he would talk to other Hamilton drug officers who have provided
+expert testimony to ask them specific questions that would impact his ability
+to provide the opinion evidence he seeks to give in this case. Detective
+Constable Goch said this would happen weekly.
+[
+48
+]
+When pressed by defence counsel who asked whether these were “like
+a tutorial”, Detective Constable Goch expanded on the types of discussions he
+would have with other officers. For instance, if an officer was assigned to do
+an expert report: “it’s very common that somebody says, ‘Oh, yeah, I have an
+expert that came up for kind of this set of circumstances, this is what I’m
+thinking’”. This evidence displays a willingness on the part of Detective
+Constable Goch to expand his knowledge base and ensure that he and other
+officers remain knowledgeable and informed on current trends. Based on the
+totality of Detective Constable Goch’s evidence, I remain satisfied that,
+although he consults with other officers, he is willing and able to provide the
+court with his independent, impartial and unbiased opinions, supported by his
+training and experience and not strictly the input of others.
+[
+49
+]
+Detective Constable Goch gave evidence that
+personal observations he has made while, for instance, acting as an exhibit
+officer, are consistent with information he has learned in courses, in
+discussions he has had with other officers about their cocaine and fentanyl
+drug trafficking cases, and information he has received when debriefing users
+and traffickers about cocaine and fentanyl.
+[
+50
+]
+Detective Constable Goch has been designated by the
+Hamilton Police Service Training Branch as an approved instructor for the Drug
+Presentation Seminar for groups of new HPS recruits, Hamilton EMS paramedics
+and for youth in community outreach programs.
+[
+51
+]
+I find that Detective Constable Goch has the
+requisite level of knowledge to testify and provide expert opinion evidence of
+the nature and scope proposed by the Crown for both cocaine and fentanyl. He
+has gained knowledge through personal work experiences, debriefs of drug users
+and traffickers, handling of confidential human sources/informants, attendance
+at courses and conversations with fellow drug officers and drug experts. The
+knowledge he has accumulated is outside the knowledge and experience of this
+court.
+[
+52
+]
+Defence counsel’s challenge to Detective
+Constable Goch’s qualifications focused on dissecting the tasks he performed and
+courses he attended individually, saying that certain tasks and courses would
+not assist him in providing the case-specific evidence he is being asked to
+give in the accused’s case. For instance, being an affiant for a search warrant
+would not assist with gaining knowledge about pricing and packaging of fentanyl
+or cocaine. With respect, it is necessary to consider the officer's
+training and experience holistically to determine whether he is qualified to
+give the proposed expert evidence.  Having done so, I find that he is a
+properly qualified expert in the areas delineated by Crown counsel.
+Discretionary Gatekeeping
+[
+53
+]
+At the second discretionary gatekeeping step, “the
+judge balances the potential risks and benefits of admitting the evidence in
+order to decide whether the potential benefits justify the risks”.
+[19]
+In
+White Burgess,
+the
+SCC said this about the case-specific cost-benefit analysis that happens at
+this stage:
+The required balancing exercise has been described in
+various ways. In
+Mohan,
+Sopinka J. spoke of the “reliability versus
+effect factor” (p. 21), while in
+J.(J.-L.)
+, Binnie J. spoke about
+“relevance, reliability and necessity” being “measured against the counterweights
+of consumption of time, prejudice and confusion”: para 47. Doherty J.A. summed
+it up well in
+Abbey
+, stating that the “trial judge must decide whether
+expert evidence that meets the preconditions to admissibility is sufficiently
+beneficial to the trial process to warrant its admission despite the potential
+harm to the trial process that may flow from the admission of the expert
+evidence”: para. 76.
+[20]
+[
+54
+]
+Despite satisfying the
+Mohan
+criteria,
+the proposed expert evidence may still be ruled inadmissible where its
+probative value is outweighed by its prejudicial effect. The SCC put it this way
+in
+White Burgess
+:
+At this point, relevance, necessity, reliability and
+absence of bias can helpfully be seen as part of a sliding scale where a basic
+level must first be achieved in order to meet the admissibility threshold and
+thereafter continue to play a role in weighing the overall competing
+considerations in admitting the evidence.
+[21]
+[
+55
+]
+In
+Abbey
+, Justice Doherty explained the
+“benefit” and “cost” sides of the analysis as follows:
+The “benefit” side of the
+cost-benefit evaluation requires a consideration of the probative potential of
+the evidence and the significance of the issue to which the evidence is
+directed. When one looks to potential probative value, one must consider the
+reliability of the evidence. Reliability concerns reach not only the subject
+matter of the evidence, but also the methodology used by the proposed expert in
+arriving at his or her opinion, the expert’s expertise and the extent to which
+the expert is shown to be impartial and objective.
+….
+The “cost” side of the ledger addresses the various
+risks inherent in the admissibility of expert opinion evidence, described
+succinctly by Binnie J. in
+J.(J.-L.)
+at para. 47 as “consumption of
+time, prejudice and confusion”. Clearly, the most important risk is the danger
+that a jury will be unable to make an effective and critical assessment of the
+evidence. The complexity of the material underlying the opinion, the expert’s
+impressive credentials, the impenetrable jargon in which the opinion is wrapped
+and the cross-examiner’s inability to expose the opinion’s shortcomings may
+prevent an effective evaluation of the evidence by the jury. There is a risk
+that a jury faced with a well presented firm opinion may abdicate its
+fact-finding role on the understandable assumption that a person labelled as an
+expert by the trial judge knows more about his or her area of expertise than do
+the individual members of the jury:
+J.(J.-L.)
+at para. 25.
+[22]
+[
+56
+]
+Justice Doherty went onto say this about the need
+to consider whether the expert evidence is necessary at this gatekeeper stage
+of the admissibility inquiry:
+The cost-benefit analysis demands a consideration of
+the extent to which the proffered opinion evidence is necessary to a proper
+adjudication of the fact(s) to which that evidence is directed. In
+Mohan,
+Sopinka J. describes necessity as a separate criterion governing admissibility.
+I see the necessity analysis as a part of the larger cost-benefit analysis
+performed by the trial judge. In relocating the necessity analysis, I do not,
+however, depart from the role assigned to necessity by the
+Mohan
+criteria.
+[23]
+[
+57
+]
+The proffered evidence is relevant to the issue
+at the very core of the case which is the reason for which the accused was in
+possession of the fentanyl and cocaine. The evidence Detective Constable Goch
+will give is reliable in the sense that it has been attained by various means
+including professional experience, training and consultation with colleagues
+and the defence concedes that he is able and willing to give impartial,
+independent and unbiased evidence. The evidence is necessary as it is outside
+the knowledge and experience of the court. The costs associated with receiving
+the evidence do not outweigh the benefits in receiving it. The testimony of
+Detective Constable Goch will not consume undue trial time and is not complex.
+This type of evidence is routinely received in cases where the central issue is
+possession versus possession for the purpose of trafficking.
+Conclusion
+[
+58
+]
+Detective Constable Goch is permitted to testify
+as an expert in relation to cocaine and fentanyl drug trafficking generally, and
+specifically pricing, quantity, street terminology and language, consumption
+habits of users, purchase patterns, conduct of drug trafficking and indicia of
+trafficking.
+Released:  November 26, 2025
+Signed:
+Justice J.P.P. Fiorucci
+[1]
+During submissions, Crown counsel, Ms. Ormond, conceded that storage habits of
+drug traffickers is not relevant in the context of the accused’s case and is
+perhaps subsumed in the conduct of drug trafficking.
+[2]
+R. v. Abbey
+,
+2009 ONCA 624
+, at para.
+71
+.
+[3]
+Modern Criminal Evidence,
+Matthew Gourlay, Brock Jones, Jill Makepeace,
+Glen Crisp, Justice Renee Pomerance,
+Toronto, Ont.: Emond Montgomery
+Publications Limited,
+2022, Chapter 4
+, pp. 93-94. See
+R. v. Mohan
+, 1994
+SCC 80, at paras. 17-21. Where an opinion is based on contested science or on
+science being used for a novel purpose, a fifth threshold requirement must be established,
+which is that the
+underlying science
+is sufficiently reliable for that
+purpose. This fifth threshold requirement has no applicability to the accused’s
+case.
+[4]
+White Burgess Langille Inman v. Abbott and Haliburton Co.
+,
+2015 SCC 23
+,
+at paras.
+16 and 24
+.
+[5]
+R. v. Abbey
+,
+2009 ONCA 624
+,
+at para.
+82
+.
+[6]
+R. v. J. (J.-L.)
+,
+2000 SCC 51
+, at para.
+47
+, citing D.M. Paciocco and L.
+Stuesser,
+The Law of Evidence
+(1996), at p. 19.
+[7]
+Ibid,
+at para. 47.
+[8]
+R. v. Mohan, supra,
+at para. 26, citing
+R. v. Abbey,
+1982 CanLII 25 (SCC)
+, [1982] 2
+S.C.R. 24.
+[9]
+R. v Mohan, supra,
+at para. 26.
+[10]
+R. v. D.(D.)
+,
+2000 SCC 43
+, at para.
+21
+.
+[11]
+Ibid,
+at para. 47, citing
+J. Sopinka, S. N.
+Lederman and A. W. Bryant,
+The Law of Evidence in Canada
+(2nd ed. 1999),
+at p. 620.
+[12]
+R. v. Bryan
+(2003)
+,
+2003 CanLII 24337 (ON CA)
+, 175 C.C.C. (3d) 285, [2003] O.J. No. 1960
+(Ont. C.A.).
+[13]
+The authors of
+Modern Criminal Evidence, supra,
+at p. 98, note that “[m]ost,
+if not all, expert opinions are based in part on hearsay evidence in the form
+of academic sources, out-of-court interviews, and other second hand information
+that may never be tested in court”, and that, “[a]lthough the exclusionary
+hearsay rule
+may
+be invoked to limit an opinion based on such evidence, in
+almost all cases this information will find its way before the trier of fact based
+on the principle that if an expert is allowed to give their opinion, they ought
+to also be permitted to give the circumstances upon which that opinion is
+based”. Hearsay that forms the basis of the expert’s expertise are “considered
+part of the tools of the trade of the expert, including knowledge that comes
+from secondary sources, such as books and articles, as well as from attending
+lectures and interacting with colleagues”: See
+R. v. Lavallee
+,
+1990 CanLII 95 (SCC)
+, [1990] 1
+S.C.R. 852, at 898-99;
+R. v. Sheriffe
+,
+2015 ONCA 880
+, at para.
+113
+.
+[14]
+R. v. Mohan, supra,
+at para. 31.
+[15]
+White Burgess Langille Inman v. Abbott and Haliburton Co.
+,
+supra.
+[16]
+Ibid
+, at paras. 47-49.
+[17]
+Qualifying and Challenging Expert Evidence,
+Eric V. Gottardi, Jennifer
+A. MacLellan, Michael Lacy, and Robin Flumerfelt, Emond Montgomery
+Publications Limited, 2022, Toronto, ON, Chapter 3, p. 53.
+[18]
+R. v. Bingley
+,
+2017 SCC 12
+, at para.
+19
+.
+[19]
+White Burgess Langille Inman v. Abbott and Haliburton Co.
+,
+supra
+,
+at para.
+24
+.
+[20]
+Ibid,
+at para. 24.
+[21]
+Ibid,
+at para. 54.
+[22]
+R. v. Abbey
+,
+2009 ONCA 624
+,
+at paras.
+87 and 90
+.
+[23]
+Ibid
+, at para. 93.

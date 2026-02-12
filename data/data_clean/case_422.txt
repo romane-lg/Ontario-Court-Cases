@@ -1,0 +1,926 @@
+source url: https://www.canlii.org/en/on/oncj/doc/2025/2025oncj111/2025oncj111.html
+
+warning
+the court hearing this matter directs that
+the following notice be attached to the file:
+a non-publication and non-broadcast order in this
+proceeding has been issued under
+subsection 486.4(1)
+of the
+criminal code.
+this subsection and
+subsection 486.6(1)
+of the
+criminal code,
+which is
+concerned with the consequence of failure to comply with an order made under
+subsection 486.4(1), read as follows:
+486.4 order
+restricting publication
+— sexual offences.
+— (1) subject to subsection (2), the presiding judge or justice
+may make an order directing that any information that could identify the victim
+or a witness shall not be published in any document or broadcast or transmitted
+in any way, in proceedings in respect of
+(
+a
+) any
+of the following offences:
+(i) an
+offence under section 151, 152, 153, 153.1, 155, 160, 162, 162.1, 163.1, 170,
+171, 171.1, 172, 172.1, 172.2, 173, 213, 271, 272, 273, 279.01, 279.011,
+279.02, 279.03, 280, 281, 286.1, 286.2, 286.3, 346 or 347, or
+(ii) any
+offence under this act, as it read from time to time before the day on which
+this subparagraph comes into force, if the conduct alleged would be an offence
+referred to in subparagraph (i) if it occurred on or after that day; or
+(
+b
+) two
+or more offences being dealt with in the same proceeding, at least one of which
+is an offence referred to in paragraph
+(a).
+(2)
+mandatory
+order on application
+— in proceedings in respect of the offences referred
+to in paragraph (1)(
+a
+) or (
+b
+), the presiding judge or justice
+shall
+(
+a
+) at
+the first reasonable opportunity, inform any witness under the age of eighteen
+years and the victim of the right to make an application for the order; and
+(
+b
+) on
+application made by the victim, the prosecutor or any such witness, make the
+order....
+486.6 offence
+— (1) every person who fails to comply with an order made under
+any of
+subsections 486.4(1)
+to (3) or subsection 486.5(1) or (2) is guilty of
+an offence punishable on summary conviction.
+citation:
+r. v. morelli,
+2025 oncj 111
+date: 2025-02-27
+toronto
+ontario
+ court of justice
+between:
+his majesty the
+ king
+— and —
+robert morelli
+before justice mara greene
+reasons for judgment released february 27,
+2025
+a. speiser…………………………..……………………………………… for the crown
+r. posner ….…………………………..………………………...……...for robert morelli
+ mr. morelli is charged with sexual assault in relation to an
+osteopathic treatment he conducted on his patient, a.m., on march 15, 2013. many
+facts are not in dispute. both parties agree that mr. morelli conducted an
+internal pelvic osteopathic treatment of a.m. on this date. it is also agreed
+that the type of treatment conducted on march 15, 2013 is a “controlled act” that
+ pursuant to the
+regulated health professions act
+only regulated health
+professions may perform. osteopathy is not a regulated health profession and
+pursuant to this regulation, osteopaths are not permitted to perform
+“controlled acts”. despite this fact, osteopaths had historically conducted internal
+pelvic treatment and in 2013 this type of treatment was still being taught at
+the canadian college of osteopathy. at the present time, the osteopathic
+community no longer recommends conducting this kind of treatment.
+ the issues at trial were as follows:
+(a)
+was the touching involved in the osteopathic internal pelvic
+treatment a sexual act so as to make any non-consensual touching a sexual
+assault?
+(b)
+if yes, did the complainant consent to the treatment?
+(c)
+if the complainant did consent, was her consent vitiated by virtue
+of the relationship between the parties?
+(d)
+if the touching was not sexual in nature, is mr. morelli nonetheless
+guilty of a common assault?
+summary of the evidence
+(i)
+background evidence about the clinical
+relationship
+ in 2013, a.m. was in her 5
+th
+year as a student at the
+canadian school of osteopathy. a.m. met mr. morelli a few years earlier while
+walking to school one day. mr. morelli was a supervisor at the school clinic
+and also assisted in teaching some classes. he was not a.m.’s professor and
+did not grade her. he may have indirectly supervised a.m. when she was in her
+second year of school, but he did not otherwise have any role in her formal
+education. mr. morelli was, however, a well-respected osteopath who a.m.
+held in high regard and wanted him to think well of her. a.m. saw mr. morelli
+as a mentor and wanted his assistance with her thesis.
+ a.m. testified that as part of the educational program, students
+at the canadian college of osteopathy would often practice the techniques in
+class on other students. moreover, the college recommended that students
+receive osteopathic treatment in the community. in light of this
+recommendation, a.m. asked mr. morelli if he would treat her. when a.m. first
+spoke to the police she stated that she started seeing mr. morelli as a patient
+in her 5
+th
+year at school. later, when a.m. received her medical
+file from mr. morelli, she realized that she was actually in her second year at
+the college when she became mr. morelli’s patient. the first treatment took
+place in november of 2011. in deciding to become mr. morelli’s patient, a.m.
+liked the fact that he would accommodate her difficult schedule and would even
+see her after hours. moreover, mr. morelli had a strong reputation in the
+community and was well respected.
+ mr. morelli testified at trial. according to mr. morelli, at
+the time of the allegations, he was an osteopath working in the city of
+toronto. he also did some supervising and teaching at the canadian college of
+osteopathy.
+ mr. morelli considered himself to be like a tutor to a.m.. he
+did not grade her, but she was a student, and he did advise her on her thesis
+in an informal capacity. mr. morelli testified that he mentored and treated
+about eight students at the time. it was common in the osteopathy community
+for practitioners to treat students.
+(ii)
+symptoms and course of treatment
+ a.m. did not have a strong recollection of all her appointments
+with mr. morelli but prior to attending court she looked at mr. morelli’s
+medical notes and agreed that the dates included in his file were accurate. a.m.
+saw mr. morelli as a patient five times between november 2011 and march 15,
+2013, the date of the allegation before the court. a.m. sought treatment from
+mr. morelli three times after the alleged sexual assault.
+ when a.m. first started seeing mr. morelli as a patient, she signed
+a consent form. the form was signed on november 18, 2011. on this form, there
+was a place to identify treatment area or symptoms. a.m. wrote “thorax?”. 
+the form then asked about specific complaints and a.m. wrote “open to
+assessment”. the consent form included confirmation that a.m. was told about
+the possible risks and side effects of osteopathic treatment and that she may
+stop treatment at any time.
+ a.m. testified at trial that she had no specific ailment when
+she started to see mr. morelli. she had some general issues but nothing that
+was particularly pressing or concerning.
+ a.m. testified that when mr. morelli recommended the internal
+treatment she was surprised because she had no gynecological or pelvic related
+complaints that warranted this kind of work. a.m. maintained at trial that
+in her opinion the treatment was not necessary.
+ despite a.m.’s denial at trial about having any pelvic related complaints
+when she was being treated by mr. morelli, when asked about the contents of mr.
+morelli’s notes which included reference to a host of symptoms that could be linked
+to pelvic issues, a.m. testified that she could not recall the specifics of
+some of her complaints but agreed that the general nature of the notes was
+accurate.
+ a.m. did recall that on november 18, 2011 she complained of
+having no energy and a hormone shift related to the birth control pill. in
+september 2012, a.m. complained again about hormonal issues related to her
+period. a.m. also agreed that she could have complained of “genitofemoral
+symptoms” but could not recall at trial what the specific symptoms were.
+moreover, a.m. testified that she did have digestive symptoms. a.m. agreed
+that pelvic floor work can help with the above symptoms but did not believe
+that her symptoms were sufficiently severe to justify the internal pelvic
+treatment she received. at the march 15, 2013 appointment when the internal pelvic
+treatment was performed, a.m. complained of breast density issues, advised that
+she had an ultrasound of her breast that came back negative, linked the breast
+lump to her periods and also complained of stomach discomfort and an irritation
+in her right hamstring.
+ mr. morelli at the time of trial could no longer remember specific
+complaints a.m. made, he could only rely on his notes to identify the specific
+symptoms complained of and the treatment provided. mr. morelli testified that
+his notes reflect that a.m. had specific issues with her hormones, digestion,
+genitofemoral symptoms and a lump in her breast that came and went her period. 
+she had an ultrasound conducted but it came back negative. mr. morelli
+testified that in his mind a.m. had acute concerns such that internal pelvic
+treatment was recommended. it was his opinion that the treatment needed to be
+done and was a reasonable and appropriate course of action.
+(iii)
+the treatment on march 15, 2013
+ a.m. testified that she attended at mr. morelli’s office on march
+15, 2013 for a regular treatment. upon attending, mr. morelli conducted a
+visual assessment and then advised a.m. that an internal treatment was
+required. as a fifth-year student, a.m. knew what this involved. a.m.
+testified that internal work includes palpating the inside of the vagina. a.m.
+testified that she was aware that there was a course offered at the college
+specifically on conducting these types of internal exams. she further
+testified that at the time, internal treatments of this nature were discussed
+at the college as being a very important way to treat gynecological issues,
+pelvic pain and incontinence.
+ a.m. testified that when mr. morelli suggested the internal
+treatment, she attempted to avoid it by asking if an external exam could be
+conducted instead. mr. morelli replied that in his opinion they needed to go
+to the next step, which was an internal pelvic treatment. he stated they had
+tried external work and it was “not holding” a.m. testified that she then
+told mr. morelli that she was on her period. she hoped that this would provide
+her an excuse to not have the treatment, but mr. morelli replied that it was
+actually a good time to conduct an internal treatment. he said it was the best
+time to do it because a.m.’s hormones would be neutral. mr. morelli explained
+to a.m. that internal work could be helpful and there was no other way to reach
+the muscles in issue. he further explained that he had performed this
+treatment many times in the past with great results.
+ before a.m. could even ask anything further, mr. morelli started
+to prepare the room for the treatment. he handed a.m. a sheet and instructed
+a.m. to remove her bottoms, lay down on the treatment table and to cover
+herself with the sheet. mr. morelli then left the room while a.m. undressed. 
+upon his return to the room, mr. morelli put on gloves and advised a.m. that he
+was going to use a lubricant. he then touched her thigh and said, “here we
+go”.
+ mr. morelli conducted the treatment by placing his fingers
+inside a.m.’s vagina and palpating differing muscles. during the treatment,
+mr. morelli’s eyes were closed and he narrated to a.m. what he was doing by
+identifying the structures he was working with using the proper anatomical and
+muscle names. during the treatment, which lasted a few minutes, mr. morelli
+told a.m. that her ovary was twisted, and he was treating this. according to
+a.m., at no point did mr. morelli make eye contact with her, nor did he ask
+a.m. how she felt. a.m. testified that she felt that she was “a body for him
+to perform this artistic treatment”.
+ at one point in the treatment, a.m. felt a lot of pressure in a
+particular area – like mr. morelli was pressing on it too hard. it was
+somewhat painful. a.m. did not want to complain, so she attempted to show her
+discomfort by labouring her breath. a.m. testified that mr. morelli responded
+by telling her to calm her breathing and try to relax. a.m. testified that he
+sounded abrasive when he said this.
+ at the end of the treatment, mr. morelli left the room so a.m.
+could get dressed. she laid back down on the table and mr. morelli returned to
+the room and finished the treatment through external treatment measures. a.m.
+testified that she was extremely uncomfortable during this latter part of the
+treatment because she was on her period and was not able to put her menstrual
+cup back in.
+ mr. morelli testified that he could not recall what took place
+on march 15. he confirmed from his notes that he did conduct an internal
+pelvic treatment. his notes reflected that the treatment was necessary and
+appropriate in the circumstances as a.m. was suffering acute symptoms. mr. morelli
+testified that his general process was to explain the problem he identified
+from his assessment and propose a treatment course. he denied that he would
+push or try to sell a particular treatment and would not proceed with this kind
+of exam without the patient’s consent. in his mind a.m. and any other patient
+could refuse treatment at anytime. if a patient was in pain, he would have
+stopped and made sure it was alright to continue. he would have had no problem
+proceeding if a patient was on her period as this was a good time to conduct
+this type of treatment.
+(iv)
+evidence on the issue of consent
+ a.m. testified that when mr. morelli recommended the internal treatment,
+she did not want to have the treatment. she did not, however, tell mr. morelli
+this. instead, she asked if an external treatment could be conducted instead. 
+a.m. testified that mr. morelli dismissed this request and started to try to
+sell her on the idea of the internal treatment telling her that the prior
+external treatments had not worked, that many women feel a lot better after the
+internal treatment and that he is well trained to conduct this kind of treatment. 
+a.m. then attempted to avoid the treatment by indicating that she was on her period. 
+mr. morelli told her that this did not matter and in fact stated that it was a
+good time to conduct the treatment.
+ a.m. ultimately acquiesced to the treatment and did not tell
+mr. morelli that she did not want to have the treatment. she testified, however,
+that despite her acquiescence she did not want the treatment and was
+uncomfortable with it.
+ a.m. testified that she felt that she could not refuse the
+treatment for a number of reasons. mr. morelli sounded so authoritative and confident
+that she was felt she could not say no. mr. morelli was a well-known
+practitioner who had offered to mentor a.m. and as such did not want to look
+like a bad student by refusing the treatment. she was worried about losing mr.
+morelli’s support and respect. mr. morelli was a well-known practitioner and
+she had no reason to doubt his expertise or his recommendation. she tried to
+make excuses to avoid the treatment, but her excuses did not deter mr. morelli.
+ a.m. further noted that mr. morelli was standing between her
+and the doorway when they discussed the procedure.
+ when questioned further about her consent to the treatment, a.m.
+testified that she felt coerced and pressured into the treatment. this is in
+contrast to her original statement to the police where a.m. stated that she
+agreed to the treatment because it helped so many women. she further told the police
+that she has regretted her decision to consent to the treatment because it has
+been so traumatic to think about. a.m. also told police in her original
+statement that she agreed to the treatment in 2013 because she felt that she
+needed to try it. at trial, when it was suggested to her that this was why she
+agreed to the treatment, a.m. denied it.
+ a.m. testified that at the time of the treatment, she felt
+helpless and that she did not really have the opportunity to choose. she now
+regrets not saying “no” to mr. morelli.
+ a.m. also testified about how she felt during the treatment. a.m.
+described her feelings as a dual narrative, on the one hand a.m. did not want
+to do this and on the other hand, she should relax, and it is o.k. because he
+knows what he is doing. on the one hand she was just taking her doctor’s
+advice and he felt certain about it, like he knew better than her. on the
+other hand, she did not want the treatment. at one point in her evidence, a.m.
+stated that she leaned into the narrative that the treatment was medically necessary
+as a way of normalizing the event which made it easier to tolerate the
+treatment.
+ in relation to this dual narrative, a.m. testified that on one
+hand she knew internal treatments like this were a protected act that osteopaths
+were not permitted to perform under provincial legislation, but on the other
+hand mr, morelli advised that he did it all the time and that it was a good treatment. 
+she also knew that it was taught at the college and that other practitioners
+used this method of treatment. a.m. testified that she assumed that mr. morelli
+would not jeopardize his practice by doing something improper so she assumed it
+must be ok.
+(v) subsequent treatments
+ a.m. sought treatment from mr morelli on three occasions after march
+15, 2013. she saw him on april 15, 2013, september 19, 2013 and october 17,
+2014. a.m. testified at trial that she only continued to see mr. morelli as a
+patient because she did not want to seem weird and wanted mr. morelli’s support
+with her thesis.
+ some of a.m.’s email communications with mr. morelli leading up
+to her post march 15, 2013 appointments were filed with the court. on november 
+21, 2013, a.m. wrote to mr. morelli asking for an appointment. she wrote that
+she wanted to see him before taking the “heart course” because she heard “it
+was a good idea to get treated before and after”. mr. morelli offered her a
+number of appointment dates and a.m. responded “i will take the sunday please.
+i think it will be best to be treated at the end of the course. thank you so
+much!!”. this appointment was subsequently cancelled by a.m.
+ on october 14, 2014, a.m. wrote to mr. morelli seeking an
+appointment sometime between october 15 and october 20. a.m. wrote that there
+was no particular issue, she just wanted a check up. she was in town for data
+collection in relation to her thesis for only a few days and wanted to see mr.
+morelli for a treatment. mr. morelli treated her on october 17. this was the
+last appointment.
+(vi) evidence about the use of internal pelvic treatments.
+ a.m. testified that she was well aware that the osteopath
+community conducted internal pelvic and internal anal treatments. there was an
+optional course students could take in their fifth year at the college
+specifically on internal treatments. when a.m. was in her fifth year, the
+course had been cancelled. a.m. was not sure of the reason why.
+ a.m. further testified that she knew that internal exams were 
+a “controlled act” and that osteopaths were not authorized to engage in this
+kind of treatment. it was her personal opinion that osteopaths should not conduct
+internal pelvic treatments.
+ at the time of the allegations, mr. morelli was a well
+respected and qualified osteopath in toronto. he had competed two years of
+premed, five years of education at the canadian college of osteopathy and then
+completed a thesis. in total, he had nine years of training. included in his
+training was a class called “gynecology” where he learned to conduct internal
+treatments of the pelvic and related areas. as part of the training, students
+performed the treatment in class on each other.
+ mr. morelli testified that he was aware at the time that
+osteopaths were not a regulated health care profession and as such were not
+permitted to conduct this kind of treatment. nonetheless, it was taught in
+school and the osteopath community believed that they were entitled to do this
+treatment as they had been engaging in this technique for well over 100 years. 
+mr. morelli testified that it was his belief that osteopaths would be grandfathered
+in to do this kind of treatment. at one point in time the osteopath community was
+lobbying to be permitted to do it. he believed that once they were formally
+regulated it would be permitted. it was his view that his medical opinion
+about the treatment superseded the prohibition. in 2015, the osteopathy
+community decided to stop seeking regulation and encouraged practitioners at
+that point to stop doing internal treatments.
+general legal principles
+ the starting point in understanding any decision in a criminal
+court is understanding the burden of proof. the burden lies on the crown to
+prove each essential element of the offence beyond a reasonable doubt. this is
+a high standard. reasonable doubt is based upon reason and common sense. it
+is logically connected to the evidence or the lack of evidence. it is not
+enough for me to believe that mr. morelli is possibly or even probably guilty. 
+reasonable doubt requires more. as a standard, reasonable doubt lies far
+closer to absolute certainty than it does to a balance of probabilities. in
+order to convict, a trial judge must be sure that every essential element of
+the offence has been made out.
+ in many criminal trials, judges are called upon to make
+assessments of both credibility and reliability. credibility relates to the
+veracity of the witness while reliability focuses on the ability of the witness
+to accurately recall events. in assessing a witness’s credibility and/or reliability,
+judges may consider the presence or absence of inconsistencies in a witnesses’
+evidence, whether the witness was evasive as well as other factors that may
+arise in any given trial. what weight a trial judge will place on an inconsistency
+will depend on the nature of the inconsistency. moreover, when considering evidence
+at trial, it is not an all or none proposition. trial judges may accept some,
+none or all of a witnesses’ evidence.
+legal principles – the offence of sexual assault
+ the offence of sexual assault must be considered in the context
+in which the offence was created. mclachlin c.j. wrote in
+r. v. j.a.
+2011 scc 28 (canlii), 
+s.c.j. no. 28 “it is a fundamental principle of canadian law that a person is
+entitled to refuse sexual contact.” major j., speaking for the majority of the
+court in
+r. v. ewanchuck
+1999 canlii 711 (scc), s.c.j. no. 10 stated at paragraph
+28,
+…society is committed to protecting the personal integrity, both
+physical and psychological, of every individual. having control over who
+touches one’s body, and how, lies at the core of human dignity and autonomy. 
+the inclusion of assault and sexual assault in the code expresses society’s
+determination to protect the security of the person from any non-consensual
+contact or threats of force. the common law has recognized for centuries that
+the individual’s right to physical integrity is a fundamental principle, “every
+mans’ person being sacred, and no other having a right to meddle with it in any
+the slightest manner”: see blackstone’s commentaries on the laws of england (4
+th
+ed. 1770). book iii, at p. 120. it follows that any intentional but unwanted
+touching is criminal.
+ with this backdrop in mind, the
+actus reus
+of a sexual
+assault is made out where the crown has proven beyond a reasonable doubt that:
+the defendant touched someone; where the contact was sexual in nature; and, the
+person did not consent. the presence of absence of consent is subjective to
+the complainant. the defendant’s state of mind or intention is irrelevant at
+this stage.
+ the
+mens rea
+for sexual assault is made out where the
+crown proves beyond a reasonable doubt that the defendant intended to touch the
+complainant in a sexual manner and knew, or was reckless or willfully blind to
+the complainant’s lack of consent. once the
+actus reus
+is established,
+the defendant can only rely on his lack of knowledge about the absence of
+consent if the defendant took reasonable steps to confirm that the victim was
+consenting. moreover, the defence of mistaken belief in communicated consent
+cannot be raised where any consent obtained has been vitiated by
+section
+273.1(2)
+of the
+criminal code.
+ applying this standard to the case at bar, the crown must prove
+the following:
+a)
+that a.m. was touched by mr. morelli;
+b)
+the touching was of a sexual nature;
+c)
+that a.m. did not consent to the touching;
+d)
+that mr. morelli intended to touch a.m.
+e)
+that mr. morelli knew that a.m. did not consent or
+was reckless or willfully blind to her lack of consent and that he took
+reasonable steps to confirm that a.m. was consenting and that consent was not
+vitiated pursuant to
+section 273.1(2)
+of the
+criminal code.
+ in the case at bar, everyone agrees that mr. morelli touched
+a.m. during the course of an osteopathic treatment that involved touching a.m.’s
+vaginal area and inserting his fingers inside her vagina. the main issues at trial
+relate to whether the touching was of a sexual nature and the whether a.m.
+consented to the touching.
+was the touching of a sexual nature?
+ on the issue of whether the treatment at issue amounts to
+conduct of a sexual nature, crown counsel argued that the body part touched is
+determinative. as mr. morelli inserted his fingers into a.m.’s vagina to work
+on the internal muscles, any objective person would conclude that this
+implicated a.m.’s sexual integrity.
+ counsel for mr. morelli argued that given the therapeutic
+context, the absence of expert evidence that the treatment was not reasonable
+and the fact that mr. morelli acted clinically throughout the treatment raises
+a reasonable doubt about the sexual nature of the touching. the context was
+clinical and not sexual and as such i should be left in a reasonable doubt
+about whether the conduct in issue was sexual in nature.
+relevant legal principles
+
+the leading case on whether the alleged conduct was sexual in nature is
+r.
+v. chase
+(1987),
+1987 canlii 23 (scc), 37 c.c.c. (3d) 97 (s.c.c.).
+in that case,
+the court held a sexual assault is committed where assaultive conduct is sexual
+nature such that the sexual integrity of the victim is violated. in assessing
+whether or not the touching was of a sexual nature, mcintyre j. in
+r. v. chase, supra,
+held that the “test
+to be applied in determining whether the impugned conduct has the requisite
+sexual nature is an objective one”. in determining this issue, the court may
+consider “the part of the body touched, the nature of the contact, the
+situation in which it occurred, the words and gestures accompanying the act,
+and all other circumstances surrounding the conduct”. mcintyre j. further held
+that the actor need not have committed the offence for a sexual gratification
+for the offence to be made out.
+
+when looking at the test articulated in
+r. v. chase, it is important to
+be mindful of the context in which this decision was made. it involved an
+appeal from a finding by the court of appeal that the modifier “sexual”
+referred only to the body part touched, particularly the genitalia. in that
+case, since the body part touched was not the genitalia, the appellate court overturned
+the conviction and entered an acquittal. it is in this context that the supreme
+court of canada rejected the notion that the modifier “sexual” referred only to
+the body part touched and elected to have a broader interpretation of the word 
+so as to recognize that a touching not involving one’s genitalia can still be sexual
+in nature. in my view, the decision in
+r. v. chase
+does not preclude a
+court from finding that in some circumstances the body part touched will be
+the most important factor and may very well be determinative. in my view, it
+is open for a trial judge to infer that the touching is of a sexual nature that
+impacted the sexual integrity of the victim solely because the body part
+touched was the genitalia of the victim particularly where the context of the
+touching does not provide an alternative explanation. in other words, absent
+other evidence, in many cases where the body part touched is a person’s genitalia,
+the only reasonable inference will be that the touching was sexual in nature.
+
+the case law consistently states that context is important in assessing whether
+the conduct was of a sexual nature where the alleged touching takes place in
+the medical or therapeutic context. in
+r. v. clottey,
+2018 oncj 536, a
+medical doctor was charged with sexually assaulting his patient. citing many
+authorities, the court held that doctor-patient sexual assault cases require a
+strong consideration of the context in which the touching takes place as
+opposed to a focus largely on the location where the victim was touched. the
+court held that this is because “there can be legitimate medical reasons for a
+practitioner to examine a patient’s sexual organ” (
+r. v. clottey, supra, at
+para
+489
+). the court went on to note that where there is a valid medical purpose
+for examining the breast or genital area, in order to find that the act is
+“sexual in nature”, the touching must have been sexual as opposed to medical in
+nature or as the trial judge stated, “the touching must have been used to
+sexualize the interaction” (
+r. v. clottey
+at para
+490
+). in assessing
+this issue, a question that must be considered is whether the physician
+honestly believed that the examination in question as performed by the
+physician was clinically justified. the court stated at paragraphs 494 and 495
+
+as
+justice epstein stated recently for the ontario court of appeal in a successful
+appeal from conviction of dr. daniel marshall for sexual assault based on a
+single historic genital examination of an adolescent boy, it is relevant to
+consider whether the accused physician
+honestly believed
+that the
+examination in question was
+clinically justified. in that case, not
+only did the accused physician hold an honest, subjective belief as to the
+medical purpose for the genital exam, but also, that belief was medically
+objectively supportable.
+
+if the
+practitioner’s honest belief as to whether the examination would or could be
+clinically useful was
+not
+relevant, physicians could be held
+criminally liable simply for honest errors in judgment as to whether an
+examination was actually necessary, irrespective of their
+bona fide
+intentions.
+ this would subject physicians to an impossibly high standard. even in
+civil negligence law, physicians are not liable for such errors.
+ ultimately in
+r. v. clottey, the court held that where
+“there was a legitimate medical rationale for the examination, and the examination
+was not performed in a sexual fashion, there can be no finding of a sexual
+assault” (
+r. v. clottey, supra,
+at para
+501
+).
+
+similar applications of the law have been made in cases where the practitioner
+was not a medical doctor, but where the therapy involved was still considered
+to be a legitimate form of treatment. for example, in
+r. v. s.l.
+2020
+onsc 4036
+the accused was a practitioner of traditional chinese medicine. it
+was alleged that he sexually assaulted one of his patients when he performed a
+treatment that involved placing his fingers in her vagina. while the act
+involved was a controlled act that those practicing chinese traditional medicine
+are not approved to do, the court still found s.l. not guilty on the basis that
+the crown had not established that the treatment was not legitimate and because
+s.l. did not know of the statutory prohibition.
+ in
+r. v. findlay,
+2021 onsc 5661, a registered massage therapist
+was charged with sexually assaulting a client during a massage. while not a
+medical practitioner, the court held that the touching occurred in a clinical/therapeutic
+context which was relevant to whether the touching was sexual in nature. the
+court in
+findlay
+summarized the relevant legal
+principles as follows:
+344
+in a recent court of appeal
+decision,
+r. v. trachy,
+2019 onca 622, benotto, j.a. wrote the following about the offence of
+sexual assault principles which are relevant to this case:
+73 the objective test requires the
+court to look to all the circumstances surrounding the conduct to determine on
+an objective basis whether it was of a sexual nature and violated the sexual
+integrity of the complainant:
+r. v. litchfield. while
+the intent or motive of the accused may be a factor in considering whether the
+conduct was sexual in nature,
+the supreme court
+in
+chase
+went
+on to state, at p. 302:
+it must be emphasized, however, that
+the existence of such a motive is simply one of many factors to be considered,
+the importance of which will vary depending on the circumstances.
+74 the mental element in sexual
+assault and indecent assault is the intention to touch. proof of sexual purpose
+is not required because the "factors which could motivate sexual assault
+are said to be many and varied... to put upon the crown the burden of
+proving a specific intent would go a long way toward defeating the obvious
+purpose of the enactment", which is to protect the sexual integrity of all
+persons:
+chase, at
+pp. 302-303. as the supreme court
+stated in
+r. v.
+ewanchuk,
+at para.
+28:
+society
+is committed to protecting the personal integrity, both physical and
+psychological, of every individual. having control over who touches one's body,
+and how, lies at the core of human dignity and autonomy... it follows that
+any intentional but unwanted touching is criminal....
+81... there was no analysis with
+respect to the sexual integrity of the complainants and whether that integrity
+was violated by the respondent's touching of their breasts. the trial judge did
+not address the position of trust between the child-students and their teacher.
+he did not address the sexual nature of the touching....
+84 as
+lutoslawski
+makes
+clear, the sexual nature of the touching is determined by an objective standard.
+the question is whether a reasonable observer would perceive a sexual or carnal
+context to the touching in light of all the circumstances. [citations omitted].
+345
+in considering all of the
+circumstances to decide if the touching was of a sexual nature in a medical or
+clinical setting, the court must consider the difference between conduct that
+might suggest professional incompetence or conduct that does not meet
+professional standards and conduct that must meet a criminal standard to be a
+crime.
+ it is important to be mindful that even where the touching is
+for a clinical purpose a patient may still feel violated where in their mind
+the procedure involved is unnecessary. as de sa j. stated in
+r. v.
+r.k.
+2018 onsc 2590, “i have no doubt
+that the complainants perceived the touching as “sexual”, and that they did not
+consent to “sexual” touching. however, their perception of the nature of the
+touching may have been largely influenced by their expectations at that time….the
+unexpected touching was disturbing to both of the complainants. however, this
+perception is not sufficient to satisfy me that the “touching” was of a sexual
+nature”. (
+r. v. r.k., supra,
+at para
+102
+).
+ in assessing whether the touching was part of a reasonable
+medical or therapeutic examination or treatment, many of the cases i have
+reviewed included expert evidence on the appropriateness of the procedure. to
+that end, in
+r. v. r.k.,
+supra,
+where a dermatologist touched his
+patient’s breasts during an examination, de sa j. wrote that medical evidence
+will often be required. he stated, “ whether the examination is a reasonable medical
+approach to the issue will factor into the analysis of whether the touching can
+be characterized as sexual at all. medical evidence may be critical to this
+assessment” (
+r. v. r.k., supra,
+at para
+91
+).
+application to the facts in this case
+ in the case at bar, i accept mr. morelli’s evidence that when
+he treated a.m. on march 15, 2013, he was engaging in what he believed to a legitimate
+clinical treatment. i found mr. morelli to be an honest and reliable witness. 
+he was consistent about his practice, policies and memories of events. he was
+not moved at all in cross-examination and answered all questions posed in a
+very straightforward manner. i accept his evidence in its entirety. i accept
+that mr. morelli did not try to sell his patients on particular treatments or
+pressure them into a treatment. i accept that he listened to the symptoms
+identified by his patients, conducted an assessment and recommended a course of
+action. i am mindful that at times mr. morelli’s evidence differs from a.m.’s
+evidence. for example, a.m. testified that she never actually consented to the
+treatment, but instead she silently acquiesced to it. mr. morelli testified,
+however, that in relation to this kind of treatment it was his practice to ask
+the patient if they were comfortable with going ahead and only proceed with
+their consent. i accept that while mr. morelli could not recall this
+particular patient that as per his testimony, he would not have deviated from
+his general practice and did confirm that she was consenting to the treatment.
+ with this in mind, i find that mr. morelli approached the
+treatment of a.m. in a purely clinical and therapeutic fashion and that nothing
+occurred during the treatment to sexualize the interaction. i note that mr.
+morelli explained the procedure to a.m., he left the room while she undressed, he
+told a.m. at the time why he thought it was necessary to conduct the treatment,
+he described what he was doing as he was doing it in a clinical fashion and explained
+at trial why he thought the treatment was necessary. i am mindful that a.m. testified
+that in her mind mr. morelli seemed to treat the process as a “work of art”. when
+i consider a.m.’s evidence about why she formed this opinion, i am unable to
+find that it accurately portrays mr. morelli’s state of mind at the time of
+the treatment. the only behaviour a.m. identified to explain this opinion was that
+at times mr. morelli’s eyes were closed and he did not look at her face at all
+during the treatment. mr. morelli testified that he did close his eyes while
+doing internal work. this is because he was focused on what he was feeling as
+he administered the treatment. since the treatment was touch based, i find that
+mr. morelli choosing to close his eyes as he treated a.m. and his failure to
+look at a.m. in the face is completely reasonable. mr. morelli testified that
+while his eyes were closed, he did talk to his patients advising them what he
+was feeling and doing. a.m.’s evidence is consistent with this.
+ i am also mindful that a.m. testified that in her opinion the
+treatment was not necessary; but this is not test. the issue is whether it was
+a legitimate treatment that was reasonable in the circumstances. i am satisfied
+that the evidence establishes that a.m. had expressed the types of symptoms
+where internal pelvic treatment was recognized at the time as being a helpful
+treatment. while a.m. could not recall the details of all her symptoms and was
+of the view that her symptoms were not acute, she did admit to having some of
+the symptoms that support mr. morelli’s conclusion that an internal pelvic
+treatment was appropriate. i accept mr. morelli’s evidence that he made a
+clinical decision based on the information received, his training and his
+experience. moreover, i note that i have no expert evidence indicating that the
+treatment was not consistent with osteopathic treatments at the time. given
+the evidence before me, had mr. morelli been identified as a registered health
+professional, i would have no difficulty finding that the crown has failed to
+prove beyond a reasonable doubt that the conduct involved when mr. morelli
+treated a.m. on march 15, 2013 was sexual in nature.
+ this case, however, presents an additional complication. this
+is because at the time of the offence, osteopaths were not permitted to conduct
+the kind of examination performed by mr. morelli. the
+regulated health professions
+act
+states that no person “shall perform a ‘controlled act’ in the course
+of providing health care services to an individual unless the person is a
+member authorized by the
+health profession act
+to perform the controlled
+act’”. a controlled act is defined as “putting an instrument, hand or finger
+beyond the labia majora”. crown counsel argued that because osteopaths are not
+authorized by the
+regulated health professions act
+to perform controlled
+acts, i must find that mr. morelli acted outside what is a reasonable treatment
+and as such, the treatment must be viewed as being sexual in nature. respectfully,
+i disagree.
+ in
+r. v. s.l.,
+supra,
+the accused practiced traditional
+chinese medicine and admitted to conducting a vaginal exam of his client. in
+finding that even though persons practicing traditional chinese medicine are
+not authorized to perform controlled acts, the court held that “the breach of
+regulatory provision does not amount to a criminal act” (
+r. v. s.l., supra,
+at
+para
+131
+). lemon j., in
+r. v. s.l., supra,
+noted that there was no
+evidence that s.l. knew that he was not authorized to conduct this type of
+treatment. as such, at its highest, he inadvertently engaged in a treatment
+that was contrary to provincial regulation.
+ in the case at bar, mr. morelli testified that it was common
+practice in 2013 for osteopaths to perform internal pelvic and anal
+treatments. while he knew it was a ‘controlled act’ and that osteopaths were
+not identified as a regulated profession, in his mind he thought they would be
+grandfathered in to conduct these procedures once they became regulated. this
+is because osteopaths have performed this kind of treatment for years and at
+the time the osteopathic community was lobbying to become a regulated health
+profession. moreover, there was even a course at the canadian college of
+osteopaths that taught students how to perform internal pelvic treatments and
+mr. morelli had been trained at the college to perform this kind of treatment. 
+while a.m. personally believed that osteopaths should not perform this type of
+treatment, this was a personal belief as opposed to the profession’s standard.
+ i appreciate that this case differs from
+r. v. s.l.,
+supra,
+in that mr. morelli, unlike s.l., knew osteopaths were not a regulated profession
+and as such not authorized to perform controlled acts. in my view, mr.
+morelli’s non-compliance of a provincial statute, while a relevant factor in
+assessing if the treatment was reasonable in the circumstances, it is not
+determinative. in the case at bar, there was uncontradicted evidence before
+me that in 2013 osteopaths were conducting internal pelvic treatments. mr.
+morelli testified that it was a recognized treatment within his profession and 
+a.m. confirmed that there had been a course at her college specifically on
+internal pelvic exams. mr. morelli was a trained osteopath and was trained in
+the area of internal pelvic treatments. mr. morelli testified that he believed
+that osteopaths would become a registered health profession and that they would
+be grandfathered into the provision since the practice had existed long before
+the enactment of the
+regulated health professions act. in my view, when
+i look at the case in its totality, while the fact that he was not permitted by
+statute to perform this treatment is one factor to consider, the remainder of
+the evidence presented at trial all supports a finding that mr. morelli was
+engaging in a treatment that was recognized by the profession, that was reasonable
+in the circumstances and one that mr. morelli honestly and legitimately
+believed was the appropriate treatment. moreover, in my view, mr. morelli
+conducted the treatment in a purely clinical fashion. i am therefore left in a
+reasonable doubt that the conduct that makes up the
+actus reus
+of the
+offence was sexual in nature. mr. morelli is therefore not guilty of the
+offence of sexual assault.
+ crown counsel made extensive arguments about the application of
+consent pursuant to
+section 273(2)
+of the
+criminal code.
+given my
+finding that the conduct in question is not sexual in nature i need not address
+these issues.
+assault
+ having found mr. morelli not guilty of sexual assault, i must
+still determine if the crown has proven beyond a reasonable doubt that mr. morelli
+committed the lesser included offence of common assault. an assault is
+committed where the accused touches a victim without her consent. crown
+counsel argued that since a.m. did not consent an assault is still made out in
+law.
+ in assessing whether a.m. consented, i must remind myself that
+a patient is in a position of vulnerability when in the care of a health
+professional. this vulnerable position is important when assessing if the
+consent involved in this case was voluntary.
+ at trial, a.m. testified about her mental state at the time of
+the treatment in march 2013. during the trial, a.m. testified that on the one
+hand, she trusted mr. morelli as a well-respected osteopath, he strongly
+encouraged the treatment, he sounded authoritative about it and she accepted
+that the treatment was necessary. a.m. also wanted mr. morelli’s approval and
+was afraid that he would think poorly of her as a student if she did not agree
+to the treatment and she wanted his assistance with her studies. on the flip
+side, a.m. believed that osteopaths should not perform internal pelvic
+treatments, she did not personally think her symptoms warranted such an invasive
+treatment, she was not comfortable with this kind of treatment and felt
+pressured into it. at trial, it was clear to me that a.m. truly believes
+today that she did not consent. years later, a.m. now looks back at this event and
+feels that in the moment she was pressured into having the treatment and had
+mr. morelli been less authoritative, or given her more time to consider her
+options she would have said no. crown counsel urged me to find that this
+dual narrative was how a.m. managed to get through a distressing event. she
+attempted to normalize the assault by convicting herself that the treatment was
+proper. in light of this, crown counsel argued that i should not view the dual
+narrative as evidence of consent.
+ i generally found a.m. to be an honest witness doing her best
+to describe her state of mind back in 2013 about an event that has clearly been
+distressing to her for some time. there is one area of her evidence, however,
+that i do not accept and do not find credible. at one point, a.m. testified
+that she agreed to the treatment because mr. morelli was standing between her
+and the door. the implication being that she could not physically leave. i
+reject that mr. morelli did anything to physically force a.m. into the
+treatment. firstly, a.m. had ample opportunity to leave. mr. morelli left her
+alone in the room to change prior to the treatment starting. secondly, a.m.’s
+evidence about her dual narrative at no point included concerns about being
+forcibly confined and thirdly, mr. morelli denied blocking the doorway and i
+accept his evidence on this point. mr. morelli described the set up of his
+treatment room and was not challenged on his description.
+ while i accept that a.m. was doing her best to be truthful when
+she testified, there were a number of inconsistencies between a.m.’s evidence
+at trial, her statement to police and other evidence that i do accept that causes
+me to have some doubt about the reliability of her present recollection about
+why she acquiesced to the treatment. firstly, a.m. originally testified that
+she was not suffering from any meaningful symptoms and definitely was not
+suffering from symptoms that were pelvic related. at trial, when questioned
+about the symptoms mr. morelli recorded in her patient file, a.m. agreed that
+she did have hormone complaints, an issue with a lump in her breast and
+digestive issues, all of which can be linked to pelvic issues. secondly, a.m.
+told police that she agreed to the treatment in part because she knew it had
+helped other women. she also told police that she agreed to the treatment in
+part because she felt that she needed to try it. at trial, a.m. denied this.
+thirdly, when questioned about why she continued to seek treatment from mr. morelli
+after march 15, 2013, a.m. testified that she only did this because she was
+worried it would look weird if she abruptly stopped treatment. a.m.’s
+communications with mr. morelli’s office contradict this. reading the emails i
+find that a.m. actively sought out mr. morelli for treatment. moreover, she
+cancelled a treatment in late 2013 without any issue. this was a clear
+opportunity for a clean break from mr. morelli, yet in 2014, a.m. actively
+sought out mr. morelli for a treatment even though she was only in town for a
+few days. in my view, a.m.’s memory as it relates to her treatment and engagement
+with mr. morelli is not completely reliable.
+ i accept that a.m. was significantly impacted by this treatment
+and that she truly believes that she was pressured into a treatment she did not
+want. the emotional toll this has taken on a.m. is obvious. having said that,
+when i consider all the evidence, i am left in a doubt about what was really
+going through a.m.’s mind at the time the treatment took place.
+ regardless of whether or not a.m. truly consented to the
+treatment, i am satisfied beyond a reasonable doubt that mr. morelli had an
+honestly held belief that a.m. consented to the treatment and that his belief
+is objectively reasonable.
+ first of all,
+as previously stated, i found
+mr. morelli to be an honest and reliable witness and i accept his evidence. i
+accept mr. morelli’s evidence that he would not have proceeded without a.m.’s
+actual consent to the treatment and that at the time a.m. verbally agreed to
+the treatment. mr. morelli testified that in relation to this kind of
+treatment it was his practice to ask the patient if they were comfortable with
+going ahead. i accept that while mr. morelli could not recall this particular
+patient that as per his testimony, he would not have deviated from his general
+practice.
+ i am mindful that a.m. asked some questions about the necessity
+of the procedure. a.m. testified that this was her way of showing hesitancy in
+relation to the treatment. when i consider all the evidence, i am not
+satisfied that mr. morelli would have or should have understood that the
+questions posed suggested hesitancy. in my view, the questions a.m. posed were
+the kind of questions any patient might pose to better understand the course of
+treatment being proposed. i accept mr. morelli’s evidence that he did not
+pressure a.m. into the treatment and that he did not try to “sell it” to her. i
+am satisfied that mr. morelli had an honestly held belief that a.m. was consenting,
+and his belief is objectively reasonable. i therefore find that the crown has
+not proven beyond a reasonable doubt the lesser included offence of assault.
+released february 27, 2025 _____________________
+justice
+mara greene

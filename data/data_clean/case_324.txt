@@ -1,0 +1,721 @@
+source url: https://www.canlii.org/en/on/oncj/doc/2025/2025oncj240/2025oncj240.html
+
+warning
+the court hearing this matter directs that the following notice be
+attached to the file:
+a
+non-publication and non-broadcast order in this proceeding has been issued
+under
+subsection 486.4(1)
+of the
+criminal code.
+this subsection and
+subsection 486.6(1)
+of the
+criminal code,
+which is concerned with the
+consequence of failure to comply with an order made under
+subsection 486.4(1),
+read as follows:
+486.4 order
+restricting publication
+— sexual offences.
+— (1) subject to subsection (2), the presiding judge or justice
+may make an order directing that any information that could identify the victim
+or a witness shall not be published in any document or broadcast or transmitted
+in any way, in proceedings in respect of
+(
+a
+) any
+of the following offences:
+(i) an
+offence under section 151, 152, 153, 153.1, 155, 160, 162, 162.1, 163.1, 170,
+171, 171.1, 172, 172.1, 172.2, 173, 213, 271, 272, 273, 279.01, 279.011,
+279.02, 279.03, 280, 281, 286.1, 286.2, 286.3, 346 or 347, or
+(ii) any
+offence under this act, as it read from time to time before the day on which
+this subparagraph comes into force, if the conduct alleged would be an offence
+referred to in subparagraph (i) if it occurred on or after that day; or
+(
+b
+) two
+or more offences being dealt with in the same proceeding, at least one of which
+is an offence referred to in paragraph
+(a).
+(2)
+mandatory
+order on application
+— in proceedings in respect of the offences referred
+to in paragraph (1)(
+a
+) or (
+b
+), the presiding judge or justice
+shall
+(
+a
+) at
+the first reasonable opportunity, inform any witness under the age of eighteen
+years and the victim of the right to make an application for the order; and
+(
+b
+) on
+application made by the victim, the prosecutor or any such witness, make the
+order....
+486.6 offence
+— (1) every person who fails to comply with an order made under
+any of
+subsections 486.4(1)
+to (3) or subsection 486.5(1) or (2) is guilty of
+an offence punishable on summary conviction.
+citation:
+r. v. a.p., 2025 oncj 240
+date: 
+2025 04 30
+toronto
+region
+ontario court of justice
+between:
+his
+majesty the king
+—
+and —
+a.p.
+before justice m. waby
+reasons for judgment released on april 30, 2025
+ms brosh...............................................................................................
+counsel for the crown
+ms khan............................................................................................
+counsel for the accused
+waby m:
+
+a.p. is charged with a single count of sexual
+assault as against j.t. the sexual assault is alleged to have happened on 24th
+december, 2022 at the family home of the accused and allegedly occurred during
+the course of a family christmas gathering where mr a.p. is alleged to have
+laid on top of ms t. while she was on a sofa and ground his pelvis into her
+while attempting to unbuckle her trousers. a.p. pleaded not guilty.
+overview
+
+the case for the crown is
+advanced through the testimony of the complainant ms t. and her estranged wife,
+s.l. and is supplemented by a series of photographs that were entered as exhibits
+which depict the residence and residents and guests in it as well as brief
+evidence from d.c. rescigno, the officer in charge of the case.
+
+mr a.p. testified in his
+defence and called three additional witnesses who were guests at his home that
+evening; his brother j.p. and close friends and neighbours mr r.m. and his wife
+m.m.
+
+it is common ground between
+the parties that the crown’s case stands or falls on my findings of credibility
+and reliability on the whole of the evidence tendered at this trial.
+
+the test that governs the analysis of
+credibility in this context is proof beyond a reasonable doubt. it was
+explained by the supreme court of canada in
+r. v. w.(d.)
+(1991),
+1991 canlii 93 (scc),
+63
+c.c.c. (3d) 397 (s.c.c.)
+and other case
+law as follows:
+
+if i believe
+mr a.p.’s
+evidence, i must
+acquit him.
+
+even if i do not believe his evidence
+but i am left in reasonable doubt by it, or any of the other evidence, i must
+acquit him.
+
+finally, even if i am not left in doubt
+by his evidence, i still must consider it and all of the evidence and ask
+myself, on the basis of the evidence that i do accept, whether the crown has
+proven guilt beyond a reasonable doubt.
+
+proof beyond a reasonable doubt goes
+hand in hand with the presumption of innocence which is a fundamental principal
+of our system of justice.
+
+the
+burden of proof in a criminal trial always rests with the
+crown. the burden of proof is a heavy one. it is proof beyond a reasonable
+doubt in relation to each of the offence’s essential elements. a reasonable
+doubt is not an imaginary, far-fetched, or frivolous doubt. it is not a doubt
+based on sympathy for or prejudice against anyone involved in this trial. it is
+a doubt based on reason and common sense.
+
+i may accept some, all or none of a witness’s evidence.
+
+to
+be clear, it is not sufficient that on the whole of the evidence i am satisfied
+that a.p. is
+probably
+guilty and a criminal trial is
+not a credibility contest. even if i believe the accused is probably
+guilty or likely guilty, that is not sufficient. in those circumstances a judge
+must give the benefit of the doubt to the accused and acquit because the crown
+has failed to satisfy the court of the guilt of the accused beyond a reasonable
+doubt.
+
+in
+r v jhs,
+2008
+scc 30, the supreme court qualified the
+w(d)
+instruction with an additional
+prong, partly in recognition that a trier of fact “may believe some, none, or
+all of the testimony of any witness, including that of an accused” (para 10).
+this prong is that where the trier of fact is unable to decide whom to believe,
+the accused is entitled to an acquittal (paras 11-12).
+
+put
+another way, it reflects that the trier of fact must not treat “conflicting
+testimonial accounts” as a credibility contest, in the sense of deciding
+whether they accept one or the other. “the main point is that lack of
+credibility on the part of the accused does not equate to proof of his or her
+guilt beyond a reasonable doubt”:
+jhs,
+ibid
+at para 13.
+
+the
+burden
+never
+shifts
+to the accused to establish their own innocence, and the onus always lies with
+the crown to prove every essential element (
+r. v. j.h.s.,
+2008 scc 30, 2
+s.c.r. 152, at para.
+13
+).
+issues
+
+the central issues in this case before me are those of reliability and
+credibility.
+summary of
+relevant evidence
+evidence of d.c.
+rescigno
+
+dc rescigno testified as to some of the investigative steps he took
+in respect of the allegations when they were made some 10 months following the
+alleged incident.
+the
+officer testified that this included contacting potential witnesses, only one
+of whom returned his call and indicated that he did not wish to provide any
+information to the officer on the basis of legal advice he had apparently
+received. the officer accepted it was possible he had only reached out to
+potential witnesses on one occasion and confirmed that the accused turned
+himself in when and where requested.
+evidence of
+j.t.
+
+ms t. gave evidence she has known the accused for approximately
+13-15 years. she is married but estranged from her wife s.l. who is the
+step-sister of the accused’s wife. ms t. testified on the first day of her
+evidence with the support of a service dog and briefly testified as to some of
+the mental health challenges that she has been managing for a number of years,
+including ptsd for which she had her own service dog. she candidly explained
+that she is not comfortable in social situations and does not like to be
+touched in any way or enjoy crowded or busy spaces and she does not drink
+alcohol.
+
+it was her evidence that she typically only saw the accused and his
+family on holidays or other intermittent family gatherings and that she was
+supportive of attending the christmas eve gathering as her wife s.l. was keen
+to try and rebuild her relationship with her family. prior to the night of the
+alleged incident she testified that she had experienced no particular issues
+with the accused prior to the alleged incident although he tended to respect
+her physical boundaries a little less when he had consumed alcohol but he had
+not touched her inappropriately before.
+
+on the date of the alleged incident ms t. gave evidence that she,
+s.l. and her service dog reese arrived at the accused’s residence some time
+between 4pm-6pm. present were the accused, his wife k.p. and their two young
+children, s.l.’s father ja. and his wife ma., two friends and neighbours r.m.
+and m.m., their dog and the accused brother j.p.
+
+ms t. testified that that people were chatting and drinking and
+socialising prior to the dinner that they all ate together. she described the
+general level of intoxication at the table among the other adults and her own
+level of anxiety as increasing throughout the meal.
+
+at the end of the meal a family game of cards was played and after
+she was eliminated ms t. left the table and went to sit on a 3-seater couch in
+the adjoining sitting room by herself with her dog and her phone. this room
+was only partially separated from where they had eaten by a wall or large wide
+doorway and she could not recall whether she could see any of the other family
+members from where she was located. she identified herself, her dog and the
+couch and sitting room from photographs that were entered as exhibits.
+
+ms t. testified that she was the only one in the sitting room and
+that after about 10 minutes the accused walked in to the sitting room,
+approached her and removed her phone from her hands and tossed it onto the
+floor. the next thing she recalls was the accused lying directly on top of
+her and being stretched out on her back on the couch. she has no recollection
+of how she came to be lying on the couch and does not recall the accused
+pushing her back or any part of him touching her at that point.
+
+the next thing ms t. recalled was the accused’s head on her chest
+and him grunting while grinding his pelvis into hers. she testified that she
+felt the accused’s erect penis pressing against her and after refreshing her
+memory from her police statement she recalled him trying to pull her pants
+down. it was her evidence that she froze while this was happening and said
+nothing as she was having flashbacks to a previous similar incident that had
+traumatised her.
+
+her evidence was that her dog reese then leapt up and lunged at the
+accused and forced him to move away from her and move to the other end of the
+couch. she testified that her recollection of what happened afterwards was
+vague but she recalls hearing her wife s.l. say words to the effect of “[a.p.],
+that’s my wife, what the hell are you doing?” in a jokey tone.
+
+it was her evidence that she and s.l. then left the residence very
+shortly afterwards and then as they began to drive away the accused came
+running out of the house and briefly clung to their car before they drove away
+and he stumbled back.
+
+subsequent to the alleged incident ms t. has not seen the accused or
+any of the other family members. she accepted that she and s.l. had spoken
+about the incident but testified that the focus had been more on s.l.’s
+excessive alcohol consumption and ms t.’s view that this contributed to what
+had happened and her concerns about her wife’s excessive alcohol consumption. 
+she and s.l. have now separated. when asked why she waited 10 months to report
+this incident ms t. testified that she had something similar happen in her own
+family and it had torn her family apart and she did not wish the same to happen
+to s.l.’s family as she was trying to build a relationship with them.
+
+ultimately it was her evidence that she reported the matter because
+she did not feel she could internalise this incident any longer and was afraid
+the accused would do the same to someone else.
+
+in cross examination ms t. gave evidence that she was confident she
+had been playing hockey with the accused outside before the dinner and that she
+was in goal. she confirmed that some of her memories of the evening were clear
+and others were not and she confirmed screenshots of some texts messages that
+she had taken from her phone and sent to s.l.
+
+ms t. testified that she did not keep original chain of text
+messages on her phone as she found this stressful and that she did not want to
+review messages relating to the alleged incident that she had sent to her
+friend a. she also testified that she did not like keeping long chains of
+messages on her phone. ms t. also accepted that she may have told the police
+that she had an issue with not remembering things, including messages that she
+had sent and received and that this forgetfulness frustrated her
+
+in cross examination ms t. accepted that she suffered from memory
+gaps in general and on a variety of topics. she accepted that in one of the
+text messages she has texted that “s.l. looked over at her while she was on the
+couch during the assault and looked wasted” but testified that she could not
+remember that having happened.
+
+when asked whether she and s.l. had conflict over this alleged
+incident ms t. gave evidence she didn’t blame s.l. as she believed she was very
+drunk at the time and confirmed that she did not like s.l.’s drinking. ms t.
+confirmed that s.l. had attended a family meeting some months later about the
+alleged incident but she did not attend and did not ask her about it as she did
+not want to know what had happened.
+
+ms t. gave evidence that s.l. has apparently recorded the entire
+family meeting but she did not want to listen to it. she denied the family’s
+suggestion that she was making up the allegation because she had some
+significant mental health challenges and had enlisted s.l.’s support.
+
+when it was put to her in cross examination that s.l. had been
+outside the residence during the alleged incident ms t. testified that that she
+did not remember. she also gave evidence that she did not remember whether the
+accused brother j.p. was seated on the love seat in the sitting room when she
+was seated on the sofa and the accused came into the sitting room or whether
+r.m. was also seated in a rocking chair next to her. ms t. gave evidence
+“there could have been a pink elephant in the room and i don’t remember” and
+she didn’t recall whether she had ever been in the sitting room alone or not
+once she left the others guests.
+
+ms t. disagreed with the suggestion that there was no inappropriate
+physical contact between her and the accused and that all the accused did at
+one point was to playfully jostle her shoulder and remove her phone from her
+hands.
+evidence of
+s.l.
+
+ms
+s.l.’s evidence can be summarized thus. she testified that she and ms t. had
+been married for a number of years but had been separated since july 2024.
+there is little significant substantial variation between ms l. or ms t. and
+of any of the witnesses as to the general events leading up to the alleged
+incident which ms l. testified that she witnessed.
+
+it
+was her evidence that the culture of drinking is normal in her family. it was
+her evidence that as the evening wore on she noticed the effects of alcohol
+becoming more apparent on the accused and that he became more touchy-feely,
+slurred his words and was a little unsteady on his feet and that while she
+herself had been drinking she had not drunk to excess and was not drunk.
+
+ms l. gave evidence ms t. left the dinner table during the card game
+and went to the sitting room. she testified that she did not see anyone else
+in the room at that time. subsequently she testified that the accused got up
+from the table and went into the adjoining sitting room. it was ms l.’s
+evidence that shortly after this she stood up and turned and had a clear view
+of the couch that ms t. was on and that she saw the accused lying on top of
+her.
+
+she recalled seeing no other person in the room with them and only
+their dog was also present who was sitting on the floor. it was her evidence
+that she stood on the threshold of the two rooms for 3-4 minutes and said
+nothing and that the accused seemed oblivious to her presence. she described
+the accused as grinding his hips into ms t.’s lower section, his face was close
+to ms t.’s and that he was sweating heavily. she described the accused
+physical movements as ‘sloppy.’
+
+ms l. testified that that ms t. looked directly at her during the
+incident and seemed afraid. she gave evidence that she didn’t do or say
+anything for the 3-4 minutes as she was in shock at what she saw. this incident
+ended when their dog reese jumped up and lunged at the accused.
+
+she testified that the accused got up and off ms t. and lurched
+around towards ms l. and as he did she said to him in a jokey fashion, “hey
+what are you doing that’s my wife”. she gave evidence that the accused then
+hugged her and pulled her close and that she felt his erection on her leg. she
+gave evidence that she saw no one else in the room at this point in time but
+ma. subsequently came into the room to apparently console ms t. but she
+accepted she couldn’t hear what was said.
+
+ms l. gave evidence that she and ms t. left shortly afterwards but
+couldn’t recall if anyone followed them out of the house or where the accused
+was located and that no one said anything to them.
+
+in cross examination ms l. confirmed after the alleged incident she
+had gone over to her father’s house at some point in the winter of 2023 to take
+him to a hockey game and that ma., his wife had told her she wasn’t welcome in
+the house. she also testified that that she went to family meeting in october,
+2023 to try and iron things out.
+
+when asked what led to the meeting, ms l. gave evidence that ms t.
+had been speaking to her care providers and that the incident arose during the
+course of her therapy and that ms l.’s sense was that ms t. needed to have the
+issue addressed and may have wanted to escalate things and she wanted her
+family to know. she also confirmed sending a text message to k.p., the wife of
+the accused, requesting a meeting. it was her evidence that she and ms t. made
+the decision to stop attending family functions as they did not feel safe doing
+so although she still loved her family.
+
+in cross examination ms l. accepted that she and her wife had spoken
+about the incident after it had happened and that ms t. had been upset with
+her. she confirmed that at some point she had been outside the residence
+smoking and that she had seen ms t. playing hockey with the accused.
+
+ms l. could not recall whether the accused brother was present at
+the gathering and testified that that she drank approximately 3-4 drinks
+herself that night. she could not recall whether the accused had latched
+himself on to their car as they left. it was her evidence that she had a good
+view of the events she said happened but she could only place the whereabouts
+of herself, ja. and ma. she testified that she believed that r.m. and m.m.
+had left before the incident.
+
+evidence of a.p.
+
+a.p.’s evidence can summarised as follows. he identified the various
+attendees and family members at his house on the night in question and
+recounted a broadly similar version of events to that of ms t. and ms l.
+leading up to the alleged incident.
+
+it was his evidence that he had been drinking prior to dinner but
+not to excess and that he didn’t drink during dinner as he didn’t like to mix
+the taste of food with alcohol and that after dinner he probably moved on to
+vodka and water as a drink. he described the adults playing cards after the
+dinner table had been cleared. at some point ms t. left the table and after
+the card game had ended mr a.p. testified that people dispersed.
+
+it was his evidence that k.p., m.m. and s.l. all went outside for a
+cigarette, he went in to the sitting room where r.m. was in the rocking chair,
+his brother j.p. was on the love seat and ms t. was seated on the sofa and her
+dog was sitting on the floor. he recalled ma. remaining at the dining table.
+
+a.p. testified that he sat on the arm of the sofa between ms t. and
+r.m. and tried to engage with ms t. who was on her phone. he gave evidence
+that he gently removed the phone from her hands and tossed it onto the far side
+of the couch. further to this he then performed what he called a ‘steam roll’. this was a motion that he described as being a brief, friendly, non-sexual
+movement in which a person physically rolled a part of their body on to that of
+another person. effectively a form of ‘jostling.’
+
+a.p. described turning his body to make contact with ms t.’s left
+shoulder and upper back. he denied at any point that ms t. was horizontal on
+the sofa and denied lying on top of her or placing his head on her chest or
+grinding his pelvis into hers. he further testified that that at no point did
+either ms t.’s dog or the dog belonging to the m.’s bark or lunge at him.
+
+when asked whether ms l. spoke to him at any point during this
+‘steam roll’ incident mr p. gave evidence that she had not as she was not
+present and was outside smoking with his wife and m.m. he denied that there
+was any obvious physical, verbal or emotional reaction from ms t. and that he
+was certain that r.m. and his brother j.p. were present.
+
+after the ‘steam rolling’ a.p. testified that the party just moved
+on and that there was more chatting and nothing unusual and that he stood up
+and spoke with r.m., j.p. and ma. he recalled s.l., m.m. and his wife coming
+back in from their cigarette and hanging their jackets up. the party ended
+when people began to disperse, he recalled that j.t. and s.l. left first as
+they had the longest drive and that r.m. and m.m. left at around midnight. he
+denied hugging s.l. as she alleged and testified that the next time he heard
+from s.l. was on 8
+th
+january when she sent him a text wishing him a
+happy 40
+th
+birthday and welcoming him to the ‘40s club’
+
+mr p. testified that he was shocked when he first learned of the
+allegations once s.l. had initially raised them some time after the party. he
+described attending the family meeting to discus the allegations and that s.l.
+seemed very uncomfortable and that she could barely speak and he formed the
+impression she was lying about what was said. he testified that prior to this
+incident he had no hostility to either s.l. or j.t. and that he considered them
+like sisters and that he did not know or believe that j.t. would have had any
+issue with being touched by him in the playful steam rolling incident he
+described.
+
+in cross examination mr p. agreed that j.t. had not been drinking
+that night. he agreed that he did not ask ms t.’s permission to remove her
+phone from her hands as he described nor did he do so with respect to what he
+described as the playful ‘steam-rolling.’ he denied being ‘sloppy drunk” or
+having drunk to excess on the night of the incident. he accepted that he knew
+ms t. had a service dog for emotional support but was unsure of the specifics
+as to why. he testified that he and j.t. had previously played hockey
+together and it seemed to make her happy but that they had not played on the
+day of the incident and that she was confusing this with another occasion.
+
+mr p. accepted that he saw ma. approach ms t. at some point after
+the steam rolling but did not know what was said between them. he denied
+sexually assaulting ms t. as alleged or that s.l. made any comment to him with
+respect to ”her wife”.
+evidence of
+r.m.
+
+r.m. is a friend and neighbour of the accused and has known him for
+approximately 12 years. he recounted a similar chain of events to other
+witnesses leading up to the alleged incident and of the various individuals
+present at the house that night including his own dog lola who was present.
+
+it was his evidence that after the card game was finished, ja. went
+upstairs and he and some others moved into the sitting room and that the
+television was on. he testified that that he sat in the rocking chair for the
+remainder of the evening and that j.p. was also in the room seated on the love seat
+after dinner and that ms t. was on the couch and they all chatted for a while.
+
+it was r.m.’s evidence that a.p. subsequently came in to the sitting
+room and approached j.t. and said words to the effect of ‘give me a christmas
+hug’ and placed his arms around her to hug her but she pulled away and said
+‘no.’ it was his evidence that this amounted to the entirety of the physical
+interaction between the accused and ms t.
+
+he gave evidence that neither dog at any point jumped up and barked
+and that if reese had done so his own dog, lola, would have done likewise and
+he was sure that this had not happened. he was also sure that s.l., his wife
+m.m. and k.p. were all outside smoking when the attempted hug occurred. he
+recalled s.l. and j.t. leaving shortly after s.l. returned from her cigarette
+and that a.p. said he would walk them to their car.
+
+in cross examination mr r.m. agreed that he considered the accused a
+good friend and that they had previously spoken about the progress of the case
+but not his own recollection of the events. he testified that after the women
+came back in from smoking, extra chairs were brought in the sitting room and
+everyone chatted for a while before anyone left.
+evidence of
+m.m.
+
+the evidence of mrs m.m. can be summarised as follow. her evidence
+broadly aligned with that of the other witnesses prior to the alleged incident
+occurring after dinner and the card game. she accepted that she and her
+husband had discussed the allegations and that she had taken the accused to the
+police station to turn himself in. she testified that that once a.p. retained
+counsel they stopped talking about the incident.
+
+it was her evidence that after the card game had finished she
+decided to go outside for a cigarette and that k.p. and s.l. also went outside
+with her to smoke too. she estimated that they were outside for about 5 minutes
+as it was quite cold and that once they returned, she and k.p. and s.l. went
+into the sitting room and she grabbed a drink and sat on the floor and resumed
+chatting with people. it was her evidence that at no point did she witness any
+physical interaction between the accused and j.t.
+
+m.m. testified that she has keep a journal for many years in which
+she writes daily. it she testified that she had also noted nothing of any
+significance in her journal for the date of the alleged incident and would have
+written it in there had she done so.
+
+in cross examination m.m. accepted that she may have left the siting
+room for short breaks throughout the evening but testified that it would not
+have been for any significant period of time. she gave evidence that there was
+nothing unusual about the timing or manner of j.t. and s.l.’s departure from
+the house and that the accused escorted them to the car as he always does with
+any guests. m.m. along with her husband also denied being contacted by the
+police with respect to the alleged incident.
+
+it was her evidence that she vaguely recalled the accused sitting on
+the same sofa as j.t. at some point and that everyone was in and out of the
+room throughout the balance of the evening and she recalled no physical
+interaction between the accused and j.t. at any point. she described the
+evening as pleasant but unremarkable.
+evidence of
+j.p.
+
+mr j.p. also described the evening as unremarkable as indeed was his
+general recollection of the events of the night in question. he testified that
+that he had no real recollection of events before dinner and that he had
+consumed about 5-7 drinks throughout the night. he recalled his brother being
+on the sofa next to j.t. but did not recall any conversation between them or
+any physical interaction while he was seated on the love seat in the sitting
+room. he denied receiving any call from the police abut the incident.
+summary
+
+it is abundantly clear that there are very different accounts of
+what occurred on the christmas eve of 2022 at the residence of mr a.p. not
+only is there a fundamental difference as between the versions provided by ms
+t. and ms l. and that of the other witnesses but there are significant
+differences in the versions provided by the accused, r.m. and his wife m.m. 
+the accused brother j.p. may fairly be described as a marginal character in
+these alleged events. he is one whom several witness’s initially forgot was in
+attendance and whose evidence is most accurately summarised as “i don’t
+remember”.
+
+i am mindful that courts should not assume a credibility gap in a
+complainant, or indeed an accused person, in sexual assault cases because of
+inconsistencies in their evidence around minor issues which may have a
+legitimate explanation.
+
+given the necessarily high standard of proof required in a criminal
+trial, it is not enough for a judge to find that an accused is probably
+guilty. as previously indicated, a judge must be satisfied beyond a reasonable
+doubt of the guilt of the accused. as i have previously indicated a criminal
+trial is not a credibility contest between the parties and it cannot be reduced
+to that.
+
+ms t. and ms l. presented as consistent and credible witnesses who
+each gave their evidence in a candid, clear and forthright manner. the
+evidence they recalled was not meaningfully undermined in cross examination. 
+they each made reasonable concessions where appropriate and were open to
+reasonable suggestions by defence counsel.
+
+both witnesses were clear and unshaken in the core elements of the
+allegations as well as their versions of the surrounding circumstances to the
+extent that they remembered them, although they do differ significantly as to
+the level of ms l.’s intoxication and when r.m. and m.m. departed. i note that
+these allegations involve an obvious and sustained sexual assault occurring
+during the course of a family gathering in a room readily open to view and
+access by nearby family and guests at any point in time and in which ms t.
+concedes others may have been present, although she does not recall.
+
+ms t. was open and candid about the considerable memory gaps she
+suffers from, both generally and in her recollection of specifics of the night
+of the alleged incident. it is important to note that ms t.’s self-declared
+mental health challenges do not in and of themselves undermine her reliability
+or credibility and her evidence is to be viewed through the same lens as that
+of any other witness testifying before a court. it is clear that at times ms
+t. found the experience of testifying a challenging and upsetting experience
+but it is to her credit that she persevered and was able to deliver her
+recollection of the events.
+
+similarly, ms l. presented as a consistent witness for whom the
+experience of testifying was not easy and for whom this incident has had a
+significant adverse impact on her relationship with both ms t. and her own
+family.
+
+both ms brosh for the crown and ms khan for the defence have rightly
+identified the central issues in this case as being those of credibility and
+reliability and that the outcome in this case is necessarily guided by the
+principles in
+w.d.
+and other related case law.
+
+crown and defence had both raised the spectre of collusion on the
+part of the witnesses each side called. in fairness, and perhaps
+unremarkably, all witnesses acknowledged discussing the allegations among
+themselves. it would not have enhanced their credibility had they denied the
+natural and inevitable inclination to do so. nevertheless, while there are
+starkly different versions of what occurred, there is no evidence before me to
+enable me to conclude any improper collusion occurred as between any of the
+various witnesses.
+
+ms t.’s partial recall describes the accused writhing and moaning on
+top of her on the sofa in a sitting room adjacent to a kitchen dining area
+where numerous family members are present and moving around. she is candid
+that she cannot recall whether other guest were in the room when this was
+happening or how she went from sitting up to lying down or whether anything was
+said to her by anyone.
+
+ms l. describes standing for 3-4 minutes and observing this
+encounter from the threshold between the rooms but cannot recall whether she
+saw anyone else present and described being ‘ frozen’ throughout this
+considerable period of time, unable to speak or move.
+
+r.m. describes sitting in an adjacent chair and seeing the accused
+attempt to briefly hug ms t. and seeing her pull back and say “no” while s.l. and
+his wife and the accused wife were outside for a cigarette. mrs m.m. also
+testified that s.l. left with her and k.p. to go outside for a cigarette after
+the card game and that on her return she saw no physical interaction between
+a.p. and j.t. and subsequently saw nothing untoward at all take place.
+
+the accused mr. a.p. described his actions as a ‘steam-roll’
+movement. namely a brief, non-sexual form of friendly jostling that he employed
+to try and engage ms t. in conversation at the party.
+
+given
+the necessarily high standard of proof required in a criminal trial, it is not
+enough for a judge to find that an accused is probably guilty and that a.p.
+probably did some or all of what is alleged. as previously indicated, a judge
+must be satisfied beyond a reasonable doubt of the guilt of the accused. as i
+have previously indicated, a criminal trial is not a credibility contest
+between the parties and it cannot be reduced to that. nor does the mere fact
+one party calls more witnesses than the other imbue those witnesses with more
+credibility. quality of evidence and not quantity is determinative.
+
+a reasonable doubt can
+also co-exist with a credible
+complainant. there is no doubt that ms t. and her partner ms l. both presented
+as credible witnesses. similarly, the evidence of the accused was consistent
+and he was similarly unshaken from his evidence in cross examination. he
+presented as an earnest witness and also made reasonable concessions where
+appropriate but was clear and unshaken in his recollection of the key events of
+that night.
+
+while he would have probably have done well to be more circumspect about
+ms t.’s comfort levels and boundaries, on
+his
+evidence his contact with
+her was at worst, boisterous and slightly irritating but certainly not sexual
+in nature and did not represent the application of anything more than transient
+and trifling physical contact of an unremarkable kind in this type of family
+setting.
+
+similarly r.m. and his wife m.m. presented as down to earth and credible
+witnesses who presented their evidence in a clear and unembellished manner.
+they similarly possessed all the hallmarks of an honest witnesses. they were
+clear about their recollection of s.l. exiting for a cigarette and when and
+with whom she did this. r.m. also testified clearly as to a clumsy attempt at
+a friendly hug by a.p. on ms t. and nothing more.
+
+i accept, as do all the witnesses, that with the exception of ms t., all
+parties had been consuming alcohol to a greater or lesser extent on the night
+of the alleged incident. i am unable to determine the extent to which, if at
+all, this may have impacted the accuracy of the evidence of any particular
+witness. it is also abundantly clear that these allegations and the subsequent
+trial have had a profoundly significant impact on the relationship between ms
+t. and ms l. as well as on the broader family relationships.
+
+nevertheless, given the various irreconcilable and conflicting versions
+of events, i have before me and the associated evidential issues that exist, on
+the totality of the evidence, i am unable to conclude that the crown has proven
+beyond a reasonable doubt that a.p. sexually assaulted ms t. as alleged and
+accordingly i find him not guilty.
+released: 30
+th
+april, 2025
+signed:
+justice m waby

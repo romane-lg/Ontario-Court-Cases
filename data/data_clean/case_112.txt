@@ -1,0 +1,435 @@
+source url: https://www.canlii.org/en/on/oncj/doc/2025/2025oncj542/2025oncj542.html
+
+ontario court of justice
+citation:
+r. v. r.k.1,
+2025 oncj
+542
+date: 2025 10 10
+information no.: 998 24 12101077
+central west region - burlington
+between:
+his majesty the
+king
+— and —
+r.k.1
+before justice brian g. puddington
+reasons for judgment on a directed verdict application
+released on october 10, 2025
+s. hamilton........................................................................................... counsel
+for the crown
+g. henderson........................................................................ counsel
+for the accused r.k.1
+contents
+facts..
+1
+analysis..
+2
+the directed verdict application..
+2
+section 162.1(1) –
+publication,
+etc., of an intimate image without consent
+2
+the surreptitious photo of r.k. in the bra.
+3
+the digitally altered photo.
+5
+conclusion..
+6
+puddington j.:
+facts
+
+r.k.1 is charged with one
+count of publishing, distributing or transmitting an intimate image of a
+person, to wit, his wife r.k., knowing that she did not give her consent to do
+so, contrary to
+section 162.1(1)
+of the
+criminal code.
+
+r.k. and their daughter
+p.k. were the only two witnesses for the crown at this trial. they testified
+that they discovered that their father had opened a snapchat account and sent
+various photos of r.k. to an unknown male.
+
+while some of those
+photos were of r.k. wearing clothes, there were two where she was in a state of
+undress. in one, she was only wearing a bra. in another, it appeared that she
+was completely naked with her breasts exposed. when testifying, r.k. stated
+that the one of her in the bra was in fact her, while the photo with the
+exposed breasts was fake, and was her head digitally manipulated to be on top
+of a naked body that was not her own.
+analysis
+the
+directed verdict application
+
+at the close of the
+crown’s case, mr. henderson brought a motion for a directed verdict (also known
+as a “no-evidence” or “non-suit” motion). in making such a motion, the accused
+asserts that the prosecution has failed to make out a
+prima facie
+case
+to meet and he should therefore be acquitted without having to decide whether
+or not to call evidence.
+
+the test for a directed
+verdict was articulated by the supreme court of canada in
+united states of
+america
+v.
+sheppard,
+1976 canlii 8 (scc),
+ 2 s.c.r. 1067 (s.c.c.),
+where the
+court held that a trial judge must decide “whether or not there is any evidence
+upon which a reasonable jury properly instructed could return a verdict of
+guilty”. the court elaborated on this
+test in
+r.
+v.
+monteleone,
+1987 canlii 16 (scc),
+
+2 s.c.r. 154 (s.c.c.)
+as follows at paragraph 8:
+where there is before the
+court any admissible evidence, whether direct or circumstantial, which, if
+believed by a properly charged jury acting reasonably, would justify a
+conviction, the trial judge is not justified in directing a verdict of
+acquittal. it is not the function of the trial judge to weigh the evidence, to
+test its quality or reliability once a determination of its admissibility has
+been made. it is not for the trial judge to draw inferences of fact from the
+evidence before him. these functions are for the trier of fact, the jury.
+
+the existence of some
+evidence on every essential element will result in a dismissal of the directed
+verdict motion. the assessment of the evidence will vary, however, depending
+on whether the crown’s evidence is direct or circumstantial. where there is
+direct evidence on each element of the offence, no weighing of the evidence
+will be required by the trial judge. where the crown’s case involves
+circumstantial evidence, the trial judge must engage in a limited weighing of
+the evidence to determine whether the evidence can reasonably support an
+inference of guilt.
+section
+162.1(1) –
+publication, etc., of an intimate
+image without consent
+
+the
+offence
+in question in this case is contained in
+section
+162.1(1)
+of the
+criminal code:
+162.1 (1)
+everyone
+who knowingly publishes, distributes, transmits, sells, makes available
+or advertises an
+intimate image
+of a person knowing that the
+person depicted in the image did not give their consent to that conduct, or
+being reckless as to whether or not that person gave their consent to that
+conduct, is guilty
+(a)
+of an indictable offence and liable
+to imprisonment for a term of not more than five years; or
+(b)
+of an offence punishable on summary
+conviction.
+
+“intimate image”
+is defined in section 162.1(2) as
+a visual recording of a person made by any means
+including a photographic, film or video recording,
+(a)
+in which
+the person is nude, is exposing
+his or her
+genital organs
+or anal region or
+her breasts
+or is engaged in explicit sexual activity;
+(b)
+in respect of which, at the time
+of the recording, there were circumstances that gave rise to a reasonable
+expectation of privacy; and
+(c)
+in respect of which the person
+depicted retains a reasonable expectation of privacy at the time the offence is
+committed.
+
+it is therefore an
+essential element of the offence charged in this case that the photo(s) in
+question be, in fact, an “intimate image”. there is no issue on this
+application for a directed verdict with respect to whether r.k. had a
+reasonable expectation of privacy and retains a reasonable expectation of
+privacy in the image of her in a bra. her evidence is that she was unaware of
+that photo being taken and did not consent to it being distributed. obviously,
+in these circumstances, a person would have a reasonable expectation of
+privacy.
+
+there are two issues,
+therefore, for me to decide on this application.
+1)
+is the image of r.k. in
+her bra, which was allegedly taken surreptitiously and distributed, a photo where
+“the person is nude”, is exposing “his or her genital organs or anal region” or
+“her breasts” or is engaged in explicit sexual activity; and
+2)
+is the digitally
+manipulated image a photo where
+the person
+is nude or exposing
+her
+genital
+organs or breasts, thereby meeting the definition of “intimate image”
+the
+surreptitious photo of r.k. in the bra.
+
+exhibit 2 at the trial are
+snapchat messages allegedly sent by mr. r.k.1 to the unknown male. p.k., mr.
+r.k.1’s daughter, testified that she saw these images on her father’s phone in
+what was apparently his snapchat account. for the purposes of the directed verdict
+motion, the crown has called sufficient evidence that mr. r.k.1 “distributed”
+or “transmitted” the images contained in those messages. the defence, on this
+motion, does not appear to dispute that. this does not mean, of course, that
+it has been demonstrated beyond a reasonable doubt that he distributed them. it
+only means that the crown has introduced enough evidence on this element of the
+offence to get past the motion for a directed verdict. as mentioned, the
+dispute arises as to whether those images are “intimate images”.
+
+while several of the
+photos are of r.k. in clothing, there is one, on pages 7 and 8 of exhibit 2,
+where r.k. identified herself as being in a bra in their bathroom. in that
+photo, her face has been concealed with scribbling over her face. her breasts
+are fully covered in the photo, albeit, she clearly appears to be in a bra or
+at least a top that shows a significant portion of her breasts.
+
+section 162.1 is still
+a relatively new provision, and few cases have dealt with the definition of
+“intimate image”. mr. henderson, on behalf of mr. r.k.1, provided
+the case of
+r.
+v. winsor,
+2024 abcj 5. in that case, the accused was found not guilty
+under this section, as the crown had not proven that the complainant was
+“nude”. while the accused’s actions were deplorable, when he took photos of
+her, she was able to cover her body with clothing as she was getting dressed.
+
+interestingly,
+the
+alberta court of justice in
+winsor
+found at paragraph
+44
+of the decision
+that “a photograph of someone in their underwear would not fall under the
+provisions of section 162.1, regardless of how much or little the underwear concealed
+or revealed.”
+
+in
+r. v. verner,
+2017
+oncj 415, an ontario decision, the image in question met the definition of
+“intimate image”, as it depicted the complainant at a time when she was having
+sex with the accused. she was also “nude” in the image, though you could not
+see her genital organs, anus or breasts.
+verner
+is a helpful decision,
+in that it finds (and i agree) that the definition of “intimate image” in
+section 162.1(2)(a) is not conjunctive, but rather disjunctive. the court
+finds at paragraph 43:
+i read this section
+disjunctively. in other words, the offence could be committed in one of
+three ways; where the person is nude; where the person’s genital organ, anal
+region or breasts are exposed; or where they have engaged in explicit sexual
+activity.
+
+more recently,
+the
+quebec court of appeal in
+r. v. malogrosz,
+2025 qcca 667
+(a decision i
+could only find in french), dealt with the definition of an intimate image. in
+that case, the complainant took
+a selfie
+of herself posing in front of a mirror and showing her upper body, from the
+bottom of her chin to the top of her thighs, completely undressed. her right
+arm is positioned to hide her breasts, while her left hand holds the phone she
+used to photograph herself. the lighting makes it impossible to discern her
+genitals.
+
+the quebec court of appeal found
+that, whatever the applicable test, the court had no trouble concluding that it
+has been met because, from the perspective of the potential violation of
+intimacy, integrity, autonomy, and dignity of the person at issue, there is no
+material difference between an image showing her completely bare and the image
+in dispute showing her to be bare down to her upper thighs. the judge was therefore
+right to find that the image at issue was an intimate image.
+
+in
+malogrosz,
+the complainant was completely nude, but covering herself. it appears from
+that decision, therefore, that the photograph met the definition of intimate image
+because the complainant was “nude” in the photo.
+
+r.k. is not nude in the
+photo, nor is she engaged in explicit sexual activity. the question that
+remains, then, is whether her breasts are “exposed” for the purpose of the
+definition. i find that they are not.
+
+in my view, while taking a photo
+of someone, without their knowledge in their underwear and sending it to
+another person is disgusting and disgraceful, it does not meet the clear
+definition of “intimate image” as outlined in
+section 162.1
+of the
+criminal
+code. had parliament intended the definition to include photos or videos
+of people in their underwear, it would not have been so specific in its definition
+as to require the person to be nude or to have their genitals or breasts
+exposed.
+
+it is also clear from
+the reading of the definition that the word “exposed” is meant to mean “without
+clothing”. if the definition were interpreted too broadly, to include
+situations where the breasts or genitals are partially clothed, then it becomes
+difficult to understand where the criminal liability starts and where it ends. 
+for example, a low-cut shirt or bikini may expose part of the breasts. would
+these be considered intimate images, whereas a tight shirt or full piece
+bathing suit would not? this level of ambiguity is not appropriate or
+workable for an offence that attracts a potential criminal record or jail
+time. it is for this reason that a strict reading of the section is required. 
+“exposed”, therefore, should be read to mean that the body parts at issue are
+bare and not covered by any clothing.
+
+given that r.k. is not nude in the
+photo, nor are her breasts exposed, the photo in this case does not meet the
+specific definition of “intimate image” required by parliament.
+the
+digitally altered photo.
+
+as noted, there was
+also a photo in exhibit 2 where r.k.’s head was placed on a nude body that was
+not hers.
+
+this photo similarly does
+not meet the definition of “intimate image”. the reason being, in short,
+because it is not
+her
+nude body and, it is not
+her
+breasts – both
+of which are necessary to meet that definition.
+
+if this type of photo
+were meant to be captured by this section, parliament would have specifically done
+so.
+
+an image of a person’s actual
+exposed genitals or breasts or naked body carries with it a specific level of integrity
+and privacy. this is not to say that a fake image does not cause harm and embarrassment,
+but that harm is not captured by the current provisions under
+section 162.1. 
+again, it is clear from the definition of intimate image that parliament set
+out to protect “the person” from having nude photos of themselves distributed, or
+having “his or her” genital organs or anal region or “her”
+breasts made
+public without their consent.
+
+parliament did not seek
+to capture fake images in their definition of “intimate image”. if they had,
+they would not have used the words “the person” or “his or her”.
+
+given that the photo in
+question is clearly not a photo of r.k.’s nude body, or
+her
+breasts, the
+photo does not fall within the definition of intimate image.
+
+none of this is to say
+that creating and distributing these fake images is not morally reprehensible
+and, frankly, obscene. it may be that parliament will turn its mind to
+criminalizing this conduct in the future. i will note that in the first
+reading of the proposed
+online harms act,
+an act that has not become
+law, the drafters proposed defining “intimate content communicated without
+consent” as:
+(a)
+a visual recording, such as a photographic, film or
+video recording, in which a person is nude or is exposing their sexual organs
+or anal region or is engaged in explicit sexual activity, if it is reasonable
+to suspect that
+(i)
+the person had a reasonable expectation of privacy at
+the time of the recording, and
+(ii)
+the person does not consent to the recording being
+communicated; and
+(b)
+a visual recording, such as a photographic, film or
+video recording,
+that
+falsely presents in a reasonably convincing manner a person as being nude or exposing
+their sexual organs or anal region or engaged in explicit sexual activity,
+including a deepfake that presents a person in that manner, if it is reasonable
+to suspect that the person does not consent to the recording being
+communicated.‍
+(emphasis
+added).
+
+this proposed language
+appears to be, at least in part, an acknowledgment by parliament that the
+legislation as currently contained in section 162.1(2) does not address fake
+images.
+
+parliament may also
+expand the offence of distributing intimate images to include the
+non-consensual distribution of people in their underwear. but as i already
+found, as the section currently stands, it specifically requires the person to
+be nude or for the breasts to be “exposed”. for the reasons given, neither of these
+apply to the photo of r.k. in her bra.
+conclusion
+
+on this motion for a directed verdict, i
+find that the crown has not shown some evidence of an important element of the
+offence – that the images in question were “intimate images” as defined in the section. 
+it may be that the proper charge in this case, with respect to r.k. in her bra,
+would have been a charge of voyeurism pursuant to
+section 162
+of the
+criminal
+code.
+but mr. r.k.1 was not charged with that offence, and there is
+nothing to suggest that voyeurism is a lesser and included offence of
+distributing intimate images under section 162.1.
+
+while there is some evidence that photos were
+sent under disturbing circumstances, those photos are not captured by the
+definition of “intimate image” as it currently stands in the
+criminal code,
+and therefore there was no evidence called by the crown in this case upon which
+a reasonable jury properly instructed could return a verdict of guilty.
+
+i will conclude by saying that nothing in
+these reasons should be read as saying that r.k. did not experience an
+embarrassing and humiliating event. while mr. r.k.1 remains innocent and it
+has not been determined he had anything to do with the images in question, the
+fact remains that the photos somehow exist, and r.k. had to endure viewing and
+describing them in a courtroom full of people. those photos may have also made
+their way into the public domain. she was emotional in court, and rightfully
+so.
+
+while i am sympathetic to her, that
+sympathy cannot play any role in my judgment. i must apply the law dispassionately,
+and not try to shoehorn images into a definition simply because i find the
+photographs deplorable.
+
+the application for a
+directed verdict is granted and mr. r.k.1 is found not guilty.
+released: october 10, 2025
+justice b.g. puddington

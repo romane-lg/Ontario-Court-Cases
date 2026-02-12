@@ -1,0 +1,205 @@
+source url: https://www.canlii.org/en/on/oncj/doc/2025/2025oncj128/2025oncj128.html
+
+citation:
+r. v. dumfeh,
+2025 oncj 128
+date: february 28, 2025
+file
+no.
+4911-998-24-91101142-00
+ontario court of justice
+his majesty the king
+v.
+samuel
+dumfeh
+excerpt of proceedings
+before the
+honourable justice e. prutschi
+on february 28, 2025, at newmarket,
+ontario
+appearances:
+z. sethna counsel for the crown
+n. debellefeuille counsel for samuel dumfeh
+friday, february 28, 2025
+prutschi, j.
+(orally):
+in the early morning hours of october 31
+st, 2023, mr. samuel
+dumfeh was stopped by police for a sobriety check. an investigation ensued. 
+after approximately five minutes of that investigation while talking to the
+investigating officer, mr. dumfeh suddenly drove off accelerating away from
+constable yellapah even as the officer was leaning against the driver’s side
+roof of the car. officer yellapah returned to his cruiser and aired to
+dispatch that mr. dumfeh was arrestable for obstruct police. the officer
+inquired about air support but none was available. he was advised by his
+sergeant not to engage in a formal pursuit of mr. dumfeh. the officer
+proceeded to drive at a leisurely pace with his emergency lights off towards
+the last known direction of mr. dumfeh’s vehicle. he testified that this was
+not a pursuit, but, since he had mr. dumfeh’s key fob in his police possession,
+he thought he would at least drive in that direction and see whether the
+vehicle had become involved in an accident or simply become disabled.
+mr. dumfeh was not located at that time but was later arrested and
+charged only with the offence of flight from police, pursuant to
+s. 320.17
+of
+the
+criminal code. this section is headed “flight from police officer”
+within the
+criminal code
+and reads as follows:
+everyone commits an offence who
+operates a motor vehicle or vessel while being pursued by a peace officer and
+who fails, without reasonable excuse, to stop the motor vehicle or vessel as
+soon as is reasonable in the circumstances.
+constable
+yellapah was the sole crown witness. at the close of the crown case mr. dumfeh
+brought an application for a directed verdict. he argues that he was not
+“being pursued” at the time and, therefore, an essential element of the offence
+is missing.
+he relies on the ontario court of appeal
+decision of
+r. v. quinn,
+2014 onca 650. at paragraph 10 of that decision the court of appeal adopts the
+dictionary definition of ‘pursue’, namely, to “follow with intent to overtake
+or capture”. this same definition was cited with approval in the summary
+conviction appeal court
+decision of
+r. v. jensen,
+2015 onsc 1040.
+the defence, therefore, argues that although mr. dumfeh might well be
+guilty of obstruct police or even dangerous operation he cannot be guilty of
+flight from police as constable yellapah had no intention to “overtake or
+capture” as the definition of ‘pursue’ seems to require.
+neither of these cases address a factual situation where an accused’s
+flight from police takes place after the accused first complied with a traffic
+stop and where police subsequently made a public safety decision not to engage
+in a formal pursuit.
+such a situation was addressed much more recently by justice garg of
+the
+ontario court of justice in
+r. v. parnell,
+2024 oncj 310. at paragraphs
+27 to 29 justice garg addresses exactly the factual scenario facing us here
+with mr. dumfeh. like here,
+in
+r. v. parnell
+there was no dispute that
+the officer had pursued the accused and demanded he stop by activating emergency
+lights on the cruiser. like mr. dumfeh, mr. parnell did indeed stop, and upon
+stopping it was clear that he was not free to leave until the conclusion of the
+investigation. mr. parnell “took off for the very purpose of evading police”. 
+justice garg continues at paragraph 29,
+the only question is whether the
+offence remains available in circumstances where the accused had initially
+stopped as directed. in a sense there was no active pursuit after mr. parnell
+had pulled over. but the case law makes clear that a driver who pulls over in
+response to an officer’s direction and then speeds away before the interaction
+is complete is rightfully guilty of this offence. the driver cannot reasonably
+think that their conduct would not result in a pursuit”.
+at
+this point justice garg cites the cases of
+r. v. athwal,
+2016 oncj 89
+as
+well as referring to the
+r. v. jensen
+case
+that i previously referred to
+at paragraph 30. he then continues,
+in effect, the passages in
+s. 320.17
+of ‘while being pursued’ and ‘who fails...to stop the motor vehicle’ are
+interpreted broadly to give effect to the legislative purpose while respecting
+the statutory text. in this context, the pursuit remains ongoing until the
+driver is free to leave, and the obligation to stop includes the obligation to
+stay stopped.
+i
+find justice garg’s reasoning to be very compelling. it respects the clear
+legislative purpose of
+s. 320.17
+which is designed to criminalize the
+extraordinarily dangerous act of fleeing police while in a car. there is no
+doubt that if constable yellapah took any steps to further pursue mr. dumfeh,
+even steps as simple and ineffective as running a few paces after the car as it
+peeled away, flight from police would be made out. i cannot endorse the
+absurdity that would short-circuit a charge of flight from police simply
+because police made a strategic decision, informed by public safety concerns,
+not to engage in a highly dangerous chase.
+counsel for mr. dumfeh urges me to be bound by the ontario court of
+appeal
+decision in
+r. v. quinn,
+but i note that the court
+in
+r. v.
+quinn
+at paragraph
+10
+explicitly declined to decide “the outer limits” of
+flight from police.
+i accept instead the crown’s argument that pursuit in this case began the
+moment constable yellapah activated his emergency lights. the pursuit did not
+end when mr. dumfeh stopped. ‘pursuit’ is a continuous act which, as justice
+garg put it
+in
+r. v. parnell,
+“remains ongoing until the driver is free
+to leave, and the obligation to stop includes the obligation to stay stopped”.
+moreover, while constable yellapah did not consider himself to be in
+formal pursuit of mr. dumfeh, it is clear to me that the officer is using that
+word in the context of police policy on formal high-risk pursuits. despite
+saying that he did not pursue mr. dumfeh, the officer did in fact engage in a
+form of pursuit. as soon as mr. dumfeh sped away constable yellapah quickly
+got back into his cruiser. he radioed for assistance and began driving in the
+last known direction of mr. dumfeh. his thought was that he might come across
+the vehicle in an accident or otherwise disabled by virtue of its distance from
+the key fob. he testified that he lost sight of the vehicle at one point but
+at another time he was able to see its taillights well off in the distance.
+a pursuit under s. 320.17 need not be a high-speed chase, but simply an
+active effort to overtake and capture the accused. had constable yellapah
+managed to find mr. dumfeh’s vehicle, the inference is quite clear that he
+would have detained mr. dumfeh again and continued his investigation. this
+broad interpretation of ‘pursuit’ is most in keeping with the legislative
+purpose of s. 320.17 which is to deter and punish the dangerous act of
+vehicular flight from lawful police investigations. the existence of
+alternative charges, such as obstruct police or dangerous operation, do not
+negate the reality that mr. dumfeh’s actions could also meet the definition of
+flight from police as articulated in
+s. 320.17.
+for these reasons, i find that the crown has presented at least some
+evidence on all the essential elements of the offence. the motion for directed
+verdict is therefore dismissed.
+**********
+form 3
+electronic certificate of transcript (subsection 5
+ (2))
+evidence act
+i,
+michelle waters,
+(name of authorized person)
+certify that this document is a true and accurate
+ transcript of the recording of
+samuel dumfeh
+in the
+ontario court of justice
+(name of case)
+(name of court)
+held at
+50 eagle street west, newmarket on
+ l3y 6b1
+(court address)
+taken from recording
+4911_303_20250228_084616, which has been certified in form 1.
+march 7, 2025
+(date)
+(electronic signature of authorized person)
+2695391641
+(authorized court transcriptionist’s identification
+ number –
+if applicable)
+ontario, canada.
+(province of signing)
+a certificate in form 3 is admissible
+ in evidence and is proof, in the absence of evidence to the contrary, that
+ the transcript is a transcript of the certified recording of evidence and
+ proceedings in the proceeding that is identified in the certificate.

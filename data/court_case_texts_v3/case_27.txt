@@ -1,0 +1,1830 @@
+Source URL: https://www.canlii.org/en/on/oncj/doc/2025/2025oncj660/2025oncj660.html
+
+WARNING
+The court hearing this matter directs that the following notice be
+attached to the file:
+A
+non-publication and non-broadcast order in this proceeding has been issued
+under
+subsection 486.5(1)
+or
+(2)
+of the
+Criminal Code
+.  These subsections
+and
+subsection 486.6(1)
+of the
+Criminal Code
+, which is concerned with
+the consequence of failure to comply with an order made under
+subsection 486.5(1)
+or
+(2)
+, read as follows:
+486.5  ORDER
+RESTRICTING PUBLICATION
+— VICTIMS AND WITNESSES
+—     (1)
+Unless an order is made under section 486.4, on application of
+the prosecutor in respect of a victim or a witness, or on application of a
+victim or a witness, a judge or justice may make an order directing that any
+information that could identify the victim or witness shall not be published in
+any document or broadcast or transmitted in any way if the judge or justice is
+of the opinion that the order is in the interest of the proper administration
+of justice.
+(2)
+JUSTICE SYSTEM PARTICIPANTS —
+On
+application of the prosecutor in respect of a justice system participant who is
+involved in proceedings in respect of an offence referred to in subsection
+(2.1), or on application of such a justice system participant, a judge or
+justice may make an order directing that any information that could identify
+the justice system participant shall not be published in any document or
+broadcast or transmitted in any way if the judge or justice is of the opinion
+that the order is in the interest of the proper administration of justice.
+.   .   .
+(2.1) OFFENCES
+–
+The offences for the purposes of subsection (2)
+are
+(a)   an offence under section
+423.1, 467.11, 467.111, 467.12, or 467.13, or a serious offence committed for
+the benefit of, at the direction of, or in association with, a criminal
+organization;
+(b)   a terrorism offence;
+(c)   an offence under
+subsection 16(1) or (2), 17(1), 19(1), 20(1) or 22(1) of the
+Security of
+Information Act
+; or
+(d)   an offence under
+subsection 21(1) or section 23 of the
+Security of Information Act
+that
+is committed in relation to an offence referred to in paragraph (c).
+(3)
+LIMITATION
+– An order made under this section does not apply
+in respect of the disclosure of information in the course of the administration
+of justice if it is not the purpose of the disclosure to make the information
+known in the community.
+. . .
+486.6  OFFENCE
+—
+(1)
+Every person who fails to comply with an order made
+under any of subsections 486.4(1) to (3) or
+subsection 486.5(1)
+or
+(2)
+is
+guilty of an offence punishable on summary conviction.
+ONTARIO COURT OF JUSTICE
+CITATION:
+R. v. A.C.,
+2025 ONCJ 660
+DATE: 
+2025 12 11
+COURT
+FILE No.:  Pembroke 24-37100497
+BETWEEN:
+HIS MAJESTY THE KING
+— AND —
+AC
+Before
+Justice J.R. Richardson
+Heard
+on November 13, 2025
+Reasons
+for Judgment released on December 11, 2025
+Richard Morris.................................................................................... Counsel
+for the Crown
+Michael Figol............................................................................... Counsel
+for the Defendant
+J.R. RICHARDSON,
+J.:
+Introduction
+[
+1
+]
+AC is charged with:
+a)
+Assaulting BB on April 2, 2024;
+b)
+Assaulting SB on April 2, 2024; and
+c)
+Breaching a Recognizance pursuant to
+section 811
+of the
+Criminal
+Code
+.
+[
+2
+]
+The Crown elected to proceed summarily.
+[
+3
+]
+I was advised at the outset of the trial that
+identity and jurisdiction are admitted.
+[
+4
+]
+The Crown invited the Court to acquit AC of the
+charge of assaulting SB and breaching his recognizance.   Consequently, the
+issue in this case is whether the Crown has proven beyond a reasonable doubt
+that AC assaulted BB.
+[
+5
+]
+For the reasons that follow, I find AC not
+guilty as charged.
+The Context of this Case
+[
+6
+]
+This case involves allegations of assault made
+by a parent or person in place of a parent, AC, against an eleven-year-old boy,
+BB, who suffers from mental health issues.
+[
+7
+]
+In pleading not guilty, AC advanced several
+defences, including section 43 which exempts some exercises of physical control
+over children for the purpose of correction.
+[
+8
+]
+The availability of the defence in section 43 continues
+to be very controversial, despite the passage of over twenty years since the
+Supreme Court found it constitutional and provided detailed direction to trial
+courts on its interpretation.
+[
+9
+]
+I have touched on some of those controversies
+below.
+[
+10
+]
+Parenting is one of the most difficult
+endeavours known to humankind.
+[
+11
+]
+Children do not come with an owner’s manual.
+[
+12
+]
+Children with mental health issues are even
+harder to understand and manage.
+[
+13
+]
+Parenting skills are passed from generation to
+generation.
+[
+14
+]
+Good parenting is something that one often learns
+from observing the examples that their elders have set.  If a person is subjected
+to poor parenting – or they are robbed of the opportunity to be parented at all
+– there is a stronger likelihood that they themselves will turn out to be poor
+or absent parents.
+[
+15
+]
+Sometimes, experiencing poor parenting will
+result in the opposite effect.  A child who has been reared by poor parents
+will sometimes be able to develop the insight to try to be a better parent and dedicate
+themselves to doing so.
+[
+16
+]
+There is increasing polarization in Canadian
+society about when it is appropriate for the law to intervene with respect to
+the parenting of the children.
+[
+17
+]
+Many see parenting as a private matter upon
+which the state should not tread.
+[
+18
+]
+Others see it as a public matter about which
+there needs to be considerable education.  In their view, the state should
+intervene to ensure that people parent appropriately and correct those who do
+not.  Systemic poor and absent parenting can have devastating and far-reaching
+social and financial costs.
+[
+19
+]
+As I illustrate herein, the legislation and
+caselaw attempts to balance these competing views.  Like any balancing
+exercise, for many, the resolution will never be perfect.
+[
+20
+]
+It is an ongoing process that must be informed
+by advances in child psychology.
+[
+21
+]
+It must also recognise that like any human
+endeavour, there is no such thing as a perfect parent and the law must resist
+imposing that standard.
+[
+22
+]
+This case exposes this tension.
+The Evidence of CC and the Video
+Surveillance of the Incident
+[
+23
+]
+CC is the spouse of AC.  They have four
+children:
+a)
+SB who was 12 at the time of the incident;
+b)
+BB who was 11 at the time of the incident;
+c)
+W who was five at the time of the incident; and
+d)
+L who was a baby at the time of the incident.
+[
+24
+]
+BB
+has been diagnosed with ADHD and has a history of anger issues.  On April 2,
+2024, he became extremely agitated despite having taken his prescribed
+medication, Risperdal. That morning, he began throwing objects, including one
+item which struck L’s bouncy chair. This made him angrier. Shortly afterward, BB
+went to the kitchen drawer, retrieved a large knife, and threatened to kill
+everyone in the house, saying he would “slit their throats”. CC stated that
+this was not the first time BB had made such threats.
+[
+25
+]
+CC
+intervened after BB struck her. She restrained him and managed to take the
+knife from his hands. AC got up during the altercation.  She surmised that he
+was “protecting others” from BB.  AC grabbed BB by the legs, but BB quickly got
+to his feet and sustained no injuries. CC tried to get BB to the medicine
+cabinet for additional medication, but he refused.
+[
+26
+]
+CC
+described BB’s ongoing hostility toward L, suggesting jealousy or middle-child
+syndrome. She said BB hated L and abused L whenever possible. This was the
+first time BB had thrown something at L, but he had previously accessed knives
+in unrelated incidents involving his sister. CC noted that BB remains difficult
+to discipline and that neither her nor AC has a definitive method of control. 
+She opined that AC is generally calmer.
+[
+27
+]
+CC
+also disclosed that Family and Children’s Services (“FCS”) have been involved
+from time to time and that she has previously called the police in August for
+similar threats involving knives and harm to family members.
+[
+28
+]
+CC
+explained that her father pressured her to call the police and report the
+incident.  She did not consider AC’s actions abusive and she believed that they
+were justified in the circumstances.
+[
+29
+]
+With
+respect to how she succumbed to her father’s pressure, CC stated that she had
+suffered a prior sexual assault and postpartum challenges.
+[
+30
+]
+BB
+remains in CC’s custody. Since the incident, the dosage for his medication has
+been significantly increased, which has helped reduce his outbursts. CC has
+also engaged in school counselling and attempted to learn coping strategies,
+calming techniques and grounding methods.  She stated that before April 2, 2024
+she had no formal training to manage BB’s behavior.
+[
+31
+]
+When
+the incident occurred, CC first attempted to get BB to take his medication, but
+he refused. She then tried to place him in a time-out.
+[
+32
+]
+A
+video of the incident from a security camera installed in the kitchen was
+entered into evidence as Exhibit 1.  CC stated the system was installed partly
+on the suggestion of FCS. The purpose of the cameras was to protect the family,
+as the children had previously made statements that turned out to be false.
+Cameras were placed in the kitchen, downstairs, in the garage, and at the door.
+CC did not recall when the system was installed but believes it uses a hard
+drive for storage.
+[
+33
+]
+The
+quality of the video is not great.  Rather than properly extract the video so
+it could be clearly shown in Court, the police took a video of the video with
+their own cell phone.  The video, which was 38 seconds long, reveals the
+following:
+a)
+When the video
+opens, the camera shows the kitchen of the home where the incident occurred.  A
+kitchen island is in the foreground.  CC has her back to the camera.  BB is
+facing CC.  There is another child seated at the island.  CC testified that
+this child was her son W, who was eating and watching something with headphones
+on his Ipad.  CC is holding BB’s hands and she moves away from the camera
+toward the counter behind the island while holding his hands.
+b)
+At 0:07, BB
+yanked CC away from the kitchen counter in the corner more toward the centre of
+the kitchen counter located behind the kitchen island.
+c)
+At 0:10, another
+child, who CC identified as SB, entered the kitchen.  CC and BB were
+struggling.
+d)
+At 0:13, BB
+stopped yanking on CC’s arm and moved toward her.  CC put her arm around BB. 
+AC enters the kitchen by walking around the island and approaching BB and CC
+from the left.  CC testified that at this point she turned her head and spoke
+to AC.  She does not recall what she said.  She also stated that BB will often
+start hugging her in the midst of a tantrum.  That is what he was doing when he
+moved toward her.  She stated that BB was also now focused on AC.  She believed
+that BB was aware that he was about to be disciplined.
+e)
+At 0:14, BB
+moved so that CC was between him and AC.  CC has her back to AC.
+f)
+At 0:18,
+AC moved toward BB. AC moved CC out of the way to get closer to BB.  Up to this
+point, CC stated that she was trying to take BB from AC and lead BB to a
+time-out. She did not recall feeling AC’s physical presence, although the video
+clearly depicts this.  She stated that she backed away to allow AC to
+discipline BB.
+g)
+At 0:20 AC moves
+so that BB is out of the view.  BB is now between AC and the kitchen counter
+which runs behind the island. AC has his back to the camera.   CC is to AC’s
+left by a distance (given their arm lengths) which I estimate at four to five
+feet (two arm lengths).
+h)
+At 0:24, AC and BB struggle.  CC moves past them to go toward the
+corner on the right of the kitchen counter behind the island.  CC testified
+that the cupboard where BB’s medication is stored is in this corner and she was
+trying to get more medication.  She also stated that she was trying to defuse
+the situation and stop the “chaos in the house” which she attributed to BB. 
+She stated that in her belief, AC did not contribute to the “chaos in the
+house”.
+i)
+At 0:28, AC lifts BB up by the shoulders.  BB falls forward.  AC
+bends over BB.   AC grabbed BB by his legs or feet.  They continued to struggle
+while BB was on the floor.
+j)
+At 0:29, CC turned her head to watch.  She is still at the right
+side of the counter that is behind the kitchen island.
+k)
+At 0:32, CC left her position and moved closer to AC and BB who were
+still struggling.  She is motioning with her arm.
+l)
+At 0:38, the video ends.
+[
+34
+]
+CC explained that the video was taken after the
+incident with the knife.  She stated that she looked for a longer video which
+showed the knife incident and events before what was recorded but she could not
+find it.
+[
+35
+]
+CC stated that during the altercation, BB struck
+her on her right cheek. She restrained him by holding his arms and told him he
+was not going to hurt her. The strike did not leave a mark, as BB was a child
+and could not hit hard, however CC emphasized the principle of the act and her
+concern for safety. She stated that she was worried about BB hurting her and
+others.
+[
+36
+]
+CC stated that she was concerned about the knife
+and the overall situation. Her plan was to get BB to the medicine cabinet,
+located up and to the right, administer additional medication, and then place
+him in a time-out to calm down. She acknowledged that a verbal interaction
+occurred but could not recall specific words, explaining that she was
+flustered, overstimulated, and overwhelmed. BB was angry, defiant, and unruly.
+She attempted to reason with him for about 15 minutes.
+[
+37
+]
+CC recalled telling BB they were going to get
+his medication, while BB repeatedly said, “No.” She admitted she did not
+remember what she was trying to accomplish at that moment beyond calming him
+down.
+[
+38
+]
+CC
+stated that she did not want BB to get into trouble and she admitted feeling
+upset with AC for intervening. She believed AC’s involvement would make the
+situation worse because when both parents “tag-team” BB, his anger escalates.
+[
+39
+]
+CC
+explained that in the last ten to twelve seconds of the video she was trying to
+get AC to stop, walk away and let BB cool down.  She wanted to stop the matter
+from escalating further.  She stated that the other children were present, and
+L was screaming.
+Cross-Examination of CC
+[
+40
+]
+CC
+does not recall what occurred immediately after the incident. She reported the
+matter to police a couple of weeks later, after speaking with her father and
+showing him the video. CC explained that her father convinced her to report it
+because she was in a very bad mental state at the time. She added that she
+believed her father’s dislike for AC influenced his advice.
+[
+41
+]
+Regarding
+BB throwing objects at L, CC could not recall the specific object but confirmed
+it hit near L’s head while L was in a bouncy seat close to where CC was
+standing. CC said that when BB took the knife, he made a throat-slashing
+gesture with his right hand, moving from left to right.
+[
+42
+]
+CC
+confirmed BB did not scream in pain during the incident and he did not complain
+of being hurt. CC explained that BB has a designated time-out spot in the
+hallway near the garage door. When BB cannot calm down, he is placed there
+until he is ready to be quiet; detention there can sometimes last up to an
+hour. She stated that before the events depicted on the video, CC and AC were
+trying to put BB in time-out, but BB resisted. Eventually, BB calmed down, went
+downstairs, but later returned “on the warpath.”
+[
+43
+]
+CC
+confirmed that after the offence, BB was assessed by a behavioral pediatrician
+for possible bipolar disorder.  Those evaluations started in August 2024 and
+continued into mid-September.  When the incident occurred, BB was taking 0.5 mg
+of Risperidone up to four times daily. CC explained that administering
+medication depends on BB’s mood. She noted BB becomes dangerous when
+sleep-deprived or if off his medication for several days.
+[
+44
+]
+CC
+described BB’s history of violence toward his siblings.  He gave his five-year-old
+brother a bloody nose, he punched his sister in the head, threatened to kill
+her, and kicked her.
+[
+45
+]
+At
+school, BB’s behavior is worse than at home. She stated that in his last academic
+year, BB was suspended 12 times for violent behavior; this year, as of November
+when she testified, BB has already been suspended four times. She stated that one
+incident involved BB dragging a girl by her head and smashing her head into
+concrete after she insulted him. She complained that the school board responds
+with immediate suspensions but does not offer behavioral support. She stated
+that BB has now started running away from school, and she expressed frustration
+that the school has no plan to manage him.
+[
+46
+]
+CC
+stated that she was seeking help through the Phoenix Centre for counseling, and
+she maintains regular appointments with the behavioral pediatrician and family
+doctor. BB’s medication is being adjusted frequently as his weight increases. His
+current Risperidone dosage has been adjusted to two pills five times daily and he
+is also prescribed Ritalin for ADHD. Despite this, there are still days when BB
+refuses medication and struggles to control himself.
+[
+47
+]
+CC
+stated that advice on restraining BB varies depending on the source. Police
+told her to physically restrain BB when necessary. CC described an incident
+where an officer stood by “useless” while BB was demolishing the house, calling
+the situation “absolute insanity.” BB was breaking pictures, throwing items off
+the wall, overturning furniture such as his little brother’s highchair, and
+spilling things. When CC asked about the degree of force required, police
+advised her to physically restrain BB.
+[
+48
+]
+CC
+stated that BB’s behavior on the day in question is consistent with how he has
+behaved in the past:  he tries to escape when he anticipates discipline. CC
+compared this to her own childhood reactions. CC suggested BB may have simply
+“woken up on the wrong side of the bed.”
+[
+49
+]
+When
+asked if she would take the same action again in a similar scenario, CC
+responded, “Absolutely.”
+Questions of CC from the Court
+[
+50
+]
+I
+asked CC for some additional background details.  She stated that she does not
+work outside the home. She holds a Bachelor’s Degree in Criminology and a
+diploma in addictions counseling. CC and AC have been married for seven years.
+They are physically separated due to a court order related to this case. CC
+hopes to reconcile after the case concludes, noting that the children want
+their father back home. FCS has never apprehended BB and is no longer involved
+with the family.
+Evidence of AC In-Chief
+[
+51
+]
+AC
+testified in his own defence.
+[
+52
+]
+AC
+was just shy of his 39
+th
+birthday when he testified.  He is a member
+of the Canadian Armed Forces where he works as a Flight Engineer and
+Instructor.  He has 15 years of service.
+[
+53
+]
+AC
+stated he has a vivid recollection of the events of April 2, 2024, because he
+was removed from his home a couple of weeks later and he has replayed the
+incident in his mind ever since. He described the entire day with BB as
+volatile.  It escalated around 5:00 p.m.
+[
+54
+]
+Before
+the incident, AC was sitting on the couch just off camera, playing Xbox. BB had
+been hanging out in the basement, where there is another TV. BB was placed in
+time-out by AC and CC but came out shortly afterward. At that point, AC saw BB
+throw an object from the counter at L’s chair.
+[
+55
+]
+AC
+intended to intervene immediately, but CC said she had the situation under
+control. BB then ran to the knife drawer, said, “I am going to kill all of
+you,”.  He then dropped the knife. CC managed to grab BB’s hands, but not
+before BB struck her.
+[
+56
+]
+AC
+got up when BB jerked CC. AC thought BB was trying to reach for the knives
+again and feared CC might get hurt. AC stated, “If someone in the house is
+going to get injured, it might as well be me, not the mother of four kids.” He
+said he was concerned for everyone’s safety. AC grabbed BB’s hands, holding
+them out in front of him, and tried to get BB to stand up. BB lunged forward,
+ended up on his side, and AC attempted to grab BB’s lower body while BB kicked
+his legs to break free.
+[
+57
+]
+Afterward,
+when CC had BB’s medication ready, AC stood BB up, and CC administered the
+medication. BB was then ushered by both AC and CC to his time-out spot on the
+staircase near the garage door. AC estimated BB stayed in time-out for at least
+a couple of minutes. Later that evening, BB returned downstairs to play. AC
+explained the household rule: BB must speak calmly to leave time-out;
+otherwise, he returns to the spot. Once BB felt calm, he came to talk, and AC
+tucked him into bed.
+[
+58
+]
+Following
+the incident, AC and CC discussed sending BB away temporarily to give BB and
+his siblings a break. With a four-month-old baby and limited sleep, they
+arranged for BB to stay with AC’s parents in Toronto for about a week and a
+half. AC and CC dropped BB off together, and AC later picked him up. When they
+returned home, police were waiting. AC said an officer met him as they pulled
+in and began questioning him while BB sat upstairs with another officer. AC confirmed
+BB interacted with police but did not discuss the event.
+[
+59
+]
+AC
+explained why only a certain sequence of the video was recorded. The camera
+system has a small hard drive and cannot store continuous footage for an entire
+week. It is set to record only events, which causes gaps in the footage. AC
+noted that the system is not ideal and mentioned that they had a similar issue
+during a previous car theft from their driveway. He stated that if the system
+had captured everything, it would have shown BB throwing an object at L’s
+chair, AC picking BB up and standing near the pantry, CC arriving with BB’s
+medication, and BB being taken to his time-out spot.
+[
+60
+]
+AC
+confirmed CC’s testimony with respect to the help that they have sought in
+controlling BB’s behaviour.  He added that their family doctor also initiated a
+referral to Canada Kids in Kanata for behavioral support and medication
+adjustments.
+[
+61
+]
+AC
+emphasized that his goal during the incident was to remove BB from the area and
+wait for CC to administer medication. He stated that he did not lose his
+temper, though he was upset and worried. When asked why he intervened after CC
+said she had control, AC explained that he feared CC might get hurt, especially
+given her fragile mental state following the birth of their child.
+[
+62
+]
+AC
+expressed his belief that BB could have followed through on his threat with the
+knife and confirmed he was equally concerned for the safety of the other
+children in the room.
+[
+63
+]
+When
+asked if he could have acted differently, AC said he could have stayed seated
+and let CC handle the situation, but it appeared she needed help. He noted that
+the medication was stored in a high cabinet, and he was unsure what BB might
+have done if CC had turned her back to retrieve it. AC stated that his primary
+focus was ensuring BB received his medication and preventing harm.
+[
+64
+]
+Finally,
+AC acknowledged that he was under a peace bond at the time but believed his
+actions were not wrong. He stated that he acted to stop BB from hurting people.
+Cross-Examination of AC
+[
+65
+]
+AC
+stated that he was seriously concerned BB might have had the knife in his hand
+or could access it again. He explained that he thought BB was pulling CC toward
+the area where knives were kept. When asked why he did not react when BB
+initially took the knife from the drawer, AC said CC told him she had the
+situation under control. AC agreed that even after BB struck CC in the face, he
+did not intervene immediately because he believed CC could manage the
+situation.
+[
+66
+]
+AC
+admitted he does not recall CC’s first reaction or BB’s initial reaction but
+agreed BB’s behavior did not change significantly from these other incidents.
+[
+67
+]
+Crown
+counsel questioned AC’s claim of having a vivid recollection, pointing out that
+he could not recall the object BB threw or the nature of BB’s anger when he
+came upstairs shouting. AC conceded these details were unclear.
+[
+68
+]
+Crown
+counsel highlighted the fact that when AC approached BB, BB pulled in the
+opposite direction, and CC was between AC and BB. AC agreed that he placed his
+hands on CC’s shoulders and moved her aside, stating he did so gently and
+without intent to cause injury. AC explained that he wanted to help CC and
+believed the situation was escalating. He said he initially respected CC’s wish
+for him to stay out of it but felt it was the appropriate time to intervene.
+[
+69
+]
+AC
+admitted that he did not know BB’s exact intention when pulling away, but he
+did not want to take chances. He agreed BB often resisted taking medication but
+said he did not understand why BB would pull away from the time-out spot or
+medication. Crown counsel suggested to AC that he “snapped” and decided to take
+control.  AC disagreed with the term “snapped,” but agreed that he wanted to
+resolve the situation. AC again reiterated that his initial thought was BB was
+attempting to get a knife and he acted to prevent anyone from getting hurt.
+[
+70
+]
+AC
+confirmed he was trying to restrain BB and move him to a safer area. He
+acknowledged there was a struggle but said his goal was to separate BB and
+maintain control. AC agreed that BB could have broken a window or caused other
+harm and stated he acted to prevent such outcomes.
+Defence Submissions
+[
+71
+]
+Defence
+counsel described the family’s situation as highly unusual and emphasized that
+both parents have made significant efforts to obtain assistance for BB’s
+behavioral issues. Counsel noted that BB was on medication at the time of the
+incident, but the dosage was insufficient to control his unpredictable and
+assaultive behavior. Since then, adjustments to medication and dosage have improved
+the situation, though the process remains ongoing.
+[
+72
+]
+Defence
+counsel submitted that during the incident: BB was out of control; he had
+threatened to kill everyone, retrieved a knife and made a slashing gesture, and
+he threw an object at L. Defence argued that both parents reacted differently
+but were aligned in their overall approach:  attempting to talk to BB, enforce
+time-outs, and administer medication.
+[
+73
+]
+CC
+managed to control the knife aspect of the situation despite being under
+extreme stress, postpartum, and caring for multiple children. Counsel
+acknowledged that gaps in CC’s memory is understandable given her
+circumstances.
+[
+74
+]
+Defence
+counsel stressed BB’s history of violent behavior and his demonstrated
+propensity for aggression, noting that he is capable of serious harm. He
+maintained that the video evidence only captured 38 seconds of the event and
+does not reflect the full context. He argued that this is not a family trying
+to be violent, but rather parents developing coping mechanisms in the absence
+of systemic support. The disconnect between their actions was based on their
+subjective perceptions during a chaotic moment.
+[
+75
+]
+Defence
+counsel submitted that AC did not act with criminal intent. His actions were
+those of a parent with no assistance from authorities, acting to prevent harm.
+[
+76
+]
+Defence
+referenced prior advice from police, who told the family to do what was
+necessary to prevent an assault. Counsel questioned why, if AC’s conduct were
+criminal, the family subsequently implemented a safety plan, sought help from
+relatives, and pursued healthcare interventions.
+[
+77
+]
+At
+the Court’s reminder, defence counsel also relied on the defence of correction
+in
+section 43
+of the
+Criminal Code
+.
+He stated that AC’s actions were
+clearly to defuse the situation.
+Crown Submissions
+[
+78
+]
+Crown
+counsel argued that I should reject any notion of self defence or defence of
+other.  He reminded me that CC essentially told AC, “I’ve got this” and never
+changed those instructions.
+[
+79
+]
+Crown
+counsel also noted that the video clearly shows CC acting in a manner as to
+protect BB from the approach of AC.
+Analysis
+The Legal
+Framework Against Which the Evidence in this Case is Applied
+[
+80
+]
+As an accused person, AC is presumed innocent
+until the Crown proves his guilt beyond a reasonable doubt.
+[
+81
+]
+Only when the Crown proves that AC committed the
+elements of the offence charged beyond a reasonable doubt, is the presumption
+of innocence overcome.
+[
+82
+]
+A
+reasonable doubt is not an imaginary, far-fetched or frivolous doubt.  It is
+not a doubt based on sympathy for or prejudice against anyone.  It is a doubt
+that is based on reason and common sense.  It is a doubt that logically arises
+from the evidence or the absence of evidence.
+[
+83
+]
+To be satisfied beyond a reasonable doubt, I
+have to be sure with respect to AC’s guilt.  If I am not sure, I must find AC
+not guilty.
+[
+84
+]
+If I don’t know who to believe, I must find AC
+not guilty.  Even if I believe that AC probably committed the offence, that is
+not a sufficient basis on which to find AC guilty.  Probable guilt is not proof
+of guilt beyond a reasonable doubt.
+[
+85
+]
+The appellate authorities set out the path I
+must follow in considering whether the Crown has established guilt beyond a
+reasonable doubt:
+a)
+First, if I believe the exculpatory evidence, I must find AC not
+guilty.
+b)
+Second, even though I do not believe the exculpatory evidence, if I
+am left with a reasonable doubt by it, I must find AC not guilty.
+c)
+Third, even if I do not believe the exculpatory evidence and am not
+left in doubt by it, if I am left with a reasonable doubt on the basis of the
+other evidence I do accept, I must also find AC no guilty.
+Only if, at
+the end of this exercise, I am satisfied as to the guilt of AC beyond a
+reasonable doubt, must I find him guilty.
+[
+86
+]
+I cannot compare the accounts and decide guilt based
+on which account I like better.
+[
+87
+]
+In following this path, I rely on my experience,
+reason and common sense.  I must not, however, engage in stereotypical or
+mythological reasoning which masquerades as “common sense”.
+[
+88
+]
+The evidence that is led before me is assessed
+by me on the basis of whether it is credible and reliable.  Evidence must be
+both credible and reliable.
+[
+89
+]
+A witness who is credible, is not necessarily
+reliable.  A witness may be sincere and credible, but their evidence may also
+demonstrate that their recollections are not reliable.
+[
+90
+]
+The same issue can arise where a witness “fills
+in the blanks” with respect to what took place.  A witness may honestly and
+sincerely believe that a certain aspect of their evidence is true; analysis rooted
+in logic, reason and common sense might suggest however, that what the witness
+says – as honest, sincere and credible as the witness may seem – is not
+reliable.
+[
+91
+]
+Memories fade.  They can also be faulty and
+frail.  Sincere, honest and credible witnesses can simply be wrong or make
+assumptions about things because of the passage of time.
+The Law With Respect to
+Common Assault
+[
+92
+]
+In
+order to find AC guilty of assaulting BB, Crown counsel must prove each of the
+following essential elements of assault beyond a reasonable doubt:
+a)
+That AC
+intentionally applied force to BB;
+b)
+That BB did not
+consent to the force that AC applied; and
+c)
+That AC knew
+that BB did not consent to force that AC applied.
+[
+93
+]
+I
+have little difficulty concluding that AC intentionally applied the force.
+[
+94
+]
+The
+question of “deemed consent” is trickier.
+[
+95
+]
+With
+respect to the issue of consent, in
+R. v. A.E.,
+2000 CanLII 16823
+(Ont.
+C.A.), Justice Weiler of our Court of Appeal noted that in certain
+circumstances, a child is deemed to have consented to force applied by a
+parent, subject to the following limits:
+a)
+the common law
+recognizes the right of a parent to apply force
+in a reasonable manner
+for the benefit of the child (at paragraph 26);
+b)
+children may be
+uniquely vulnerable to the quality of care and the decisions made on their
+behalf by their parents (at paragraph 28);
+c)
+“…the law must
+protect children and those who are defenceless from unwarranted bodily
+interference” (at paragraph 29);
+d)
+“…on the other
+hand, persons engaged in looking after a child must be protected from state
+interference when acting in the best interests of the child.” (also at
+paragraph 29);
+e)
+the deemed
+consent of the child is a “narrow exception” that is “strictly limited to
+conduct which is consistent with the purpose and rationale underlying the
+policy basis for the consent….  …the force used must have been for the purpose
+of caring for the child.”  (at paragraph 33);
+f)
+“…deemed
+consent will not apply where the force is excessive” (at paragraph 37);
+g)
+the deemed consent
+of a child is limited to “the customary norms of parenting or what a reasonable
+parent would do in similar circumstances.  This is an objective standard.”  (at
+paragraph 40).  For greater certainty, Justice Weiler noted that “[w]here the
+amount of force clearly exceeds what is reasonable in the circumstances or is clearly
+beyond the ordinary norm of parental conduct, the defence of deemed consent
+will not apply (at paragraph 42);
+h)
+“… a parent has
+the right to apply force to a child when it is necessary to protect the child,
+to protect others (such as a younger sibling), and to teach a child social
+values and behavioural limits.”  (also at paragraph 40);
+i)
+this
+defence “dovetails” with section 43 (defence of use of force for correction)
+(at paragraph 41).
+[
+96
+]
+Despite
+the passage of time,
+AE
+continues to be good law.  See, for example,
+R.
+v. BW,
+2016 ONCA 96
+.
+[
+97
+]
+Commenting
+on
+AE,
+and the later case of
+R. v. Palombi,
+2007 ONCA 486
+,
+Professor Stewart offered this helpful restatement of the law of deemed consent
+as it relates to children:
+Parents
+and other caregivers (including teachers) are justified in applying reasonable
+force to children under their care for the purpose of carrying out their duties
+to the children, including providing the children with the necessaries of life,
+caring for the children, providing the children with medical treatment and
+care, protecting the children from danger, enforcing the rules of the home or
+the school, preventing and responding to inappropriate behaviour by the
+children, and demonstrating appropriate limits on behaviour.  The force used
+must not be excessive to the purpose; moreover, the defence of deemed consent
+does not justify the intentional infliction of harm, degrading treatment, or
+actions taken in anger.  The justification for the use of force is assessed
+from the perspective of the reasonable parent in the circumstances.
+(see
+Hamish Stewart, Parents, Children, and the Law of Assault,
+2009 32-1
+Dalhousie Law Journal
+1,
+2009 CanLIIDocs 494
+at page 25)
+[
+98
+]
+I
+will apply the law as it relates to “deemed consent” to the facts as I find
+them below.
+The Law with Respect to the
+Defence of “Correction” in
+section 43
+of the
+Criminal Code
+[
+99
+]
+Section
+43
+of the
+Criminal Code
+states:
+Every schoolteacher, parent or person standing in the place
+of a parent is justified in using force by way of correction toward a pupil or
+child, as the case may be, who is under his care, if the force does not exceed
+what is reasonable under the circumstances.
+[
+100
+]
+In
+Canadian
+Foundation v. Canada,
+2004 SCC 4
+, the majority of the Supreme Court of
+Canada found that this section was constitutional and did not offend the rights
+of children.  In doing so, at paragraphs 24, 25, 30, 35, 37, 40, 46, 51, 60 and
+62, the Court interpreted the section in the following way:
+a)
+The person applying the force must have intended it to be
+for “educative or corrective purposes”.
+b)
+The section does not save “outbursts of violence motivated
+by anger or animated by frustration.”  “[O]nly sober, reasoned uses of force
+are permitted.”
+c)
+The use of force must “address the actual behaviour of the
+child”.
+d)
+The use of force must be “designed to restrain, control or
+express some symbolic disapproval” of the child’s behaviour.
+e)
+The purpose of the force must always be education or
+discipline.
+f)
+“Reasonable
+force” does not except “conduct that causes harm or raises a reasonable
+prospect of harm”.  It is limited to the mildest forms of assault.
+g)
+The gravity of
+the child’s wrongdoing which is said to have led to the use of force is not
+relevant.   The focus is on correction.
+h)
+Corporal
+punishment of children under two is harmful and is not reasonable.
+i)
+Corporal
+punishment of children with a disability is not corrective because the child
+may be incapable of learning from the application of force.
+j)
+Corporal
+punishment of teenagers is harmful because it can “induce aggressive and
+antisocial behaviour”.  It therefore is not reasonable.
+k)
+Corporal
+punishment involving the use of objects such as rulers and belts is physically
+and emotionally harmful and is therefore not reasonable.
+l)
+Corporal
+punishment involving slaps or blows to the head is harmful and is therefore not
+reasonable.
+m)
+“Generally, s.43 exempts
+from criminal sanction only minor corrective force of a transitory or trifling
+nature.”
+n)
+“There may be
+instances where a parent or a school teacher reasonably uses corrective force
+to restrain or remove an adolescent from a particular situation.”
+o)
+The decision to
+“declin[e] to bring the blunt hand of the criminal law down on minor
+disciplinary contacts… reflects the resultant impact this would have on the
+interest of the child and family and school relationships.”
+p)
+Section 43 is
+designed to avoid “expos[ing] the family to the incursion of state law
+enforcement for every trivial slap or spanking.”
+q)
+“[W]ithout
+section 43, Canada’s broad assault law would criminalize force falling far
+short of what we think of as corporal punishment, like placing an unwilling
+child in a chair for a five-minute “time-out”.
+[
+101
+]
+In the 21 years
+that have passed since the
+Canadian Foundation
+decision was released,
+there have been widespread calls for the repeal of section 43.  In 2015, the
+Truth and Reconciliation Commission called for the repeal of section 43 (Truth
+and Reconciliation Commission Call for Action 6).  More recently, in December
+2025, Dr. Benjamin Roebuck, the Federal Ombudsperson for Victims of Crime,
+submitted as follows to Senate Committee on Legal and Constitutional Affairs:
+The potential harm inflicted by
+corporal punishment extends beyond immediate physical effects, impacting
+children’s psychological and cognitive development. This contradicts the core
+principles of children’s rights, as recognized by various international conventions,
+including the United Nations
+Convention on the Rights of the Child
+. In
+the 2004 Canadian Foundation decision, Justices Deschamps, Binnie, and Arbour
+highlighted in their dissent opinion that
+section 43
+of the
+Criminal Code
+implies
+that children are less worthy of protection and that this is a violation of
+their equality rights under
+section 15
+of the
+Canadian Charter of Rights and Freedoms
+.
+Nearly two decades later, the
+law has not changed. By allowing corrective force, we undermine the crucial
+concept of consent, which is increasingly emphasized in educational settings.
+In schools, anti-bullying and sexual violence prevention programs share the
+message that no child should be hit, kicked, or touched in a way that makes
+them uncomfortable. As children learn more about their rights and bodily
+autonomy, experiences of physical discipline violate the values children are
+internalizing. We send mixed messages to children if we allow physical
+punishment. Furthermore, under the law, we recognize that except for some
+particular circumstances such as in sports, adults cannot consent to physical
+violence. It is assault. However, Section 43 of the
+Criminal Code
+allows
+parents, caregivers, and teachers to use
+reasonable
+force against a child for correction.
+Research
+from well-known scholars in the field has found that corporal punishment can
+have long-term psychological impacts (Durrant & Ensom, 2012). Recent
+studies have found that even punishment that does not leave a physical mark,
+such as spanking, can significantly harm a child’s brain development. The act
+may expose or threaten a child, which can have similar impacts on the brain as
+severe maltreatment (Cuartas et al., 2021).
+Children
+may also experience adverse outcomes, including increased aggression, mental
+health issues, and diminished cognitive abilities (Heilmann et al., 2021;
+Gershoff & Grogan-Kaylor, 2016, as cited in Durrant & Kutcher, 2023).
+If a parent uses physical punishment, but the child does not respond or change
+their behaviour, the parent may increase the severity of the punishment, which
+could result in physical abuse (Durrant et al., 2017, as cited in Durrant &
+Kutcher, 2023). Studies have proven that corporal punishment does not
+effectively correct a child’s behaviour, challenging its intended benefit
+(Heilmann et al., 2021).
+See
+Study
+of Bill S-251: An Act to Repeal Section 43 of the Criminal Code - Canada.ca
+[
+102
+]
+It may well be
+that the continuing efficacy of section 43 should be re-examined in light of
+this new research.  Chief Justice McLachlin, the author of the majority decision
+in
+Canadian Foundation
+noted at paragraphs
+36 and 37
+that “[d]etermining
+what is “reasonable in the circumstances” in the case of child discipline is
+also assisted by social consensus and expert evidence on what constitutes
+reasonable corrective discipline.”  The Chief Justice also noted that her
+interpretation was largely “[b]ased on the evidence currently before the Court”
+and “the significant areas of agreement among the experts on both sides of the
+issue” (quoting from the trial decision at paragraph 17).
+[
+103
+]
+A full record on
+the issue of the continuing efficacy of section 43 is not before me.  It will
+have to be left to legislative action or another Court on another day.
+[
+104
+]
+That is not to
+say that the section and the decision in
+Canadian Foundation
+cannot be
+applied flexibly and purposively.  Every case turns on its particular facts.
+[
+105
+]
+In
+R. v. BS,
+2008
+CanLII 10389
+(Ont. S.C.J.), Justice Robertson was sitting on summary conviction
+appeal in a case where a father restrained his 15-year-old daughter in the back
+of his vehicle to keep her from seeing an undesirable boyfriend.  The trial
+judge, citing section 43 and
+Canadian Foundation
+’s apparent prohibition
+on the use of corrective force on teenagers, convicted and granted a
+conditional discharge.  On appeal, Justice Robertson found that there can be an
+“acceptable use of force to correct a child’s safety risk”.
+[
+106
+]
+Her Honour
+further noted at paragraph 19:
+He corrected her by applying
+force in order to control or restrain his child so as to protect her from going
+to an inappropriate party.  He used force to express “symbolic disapproval” of
+her behaviour.  It was clear that she was not going to stop based on common
+sense and discussion.  His parenting toolbox was empty.
+[
+107
+]
+With respect to
+whether the child in
+BS
+was capable of “benefiting from the correction”,
+Justice Robertson noted at paragraph 24,
+The fact that a child will not
+immediately respond to correction or that the benefit of the correction is not
+directly visible does not mean that section 43 is inapplicable.  A positive
+benefit or consequence of correction is not always immediately obvious in children.
+[
+108
+]
+Likewise, since
+Canadian
+Foundation
+trial judges have tempered the prohibition against “
+outbursts of violence motivated by anger or animated by
+frustration”.
+In
+R. v. Hume,
+2020 ONCJ 619
+, Justice Clark commented as
+follows with respect to a principal’s restraint of an unruly nine year old in a
+schoolyard:
+Even
+if there was a very human dimension of frustration, or even a form of anger
+attached to some part of his overall actions, anger and correction are not
+mutually exclusive concepts.  It is unrealistic to assume that parents and
+educators may discipline children, whatever the nature of the infraction, in a
+state of detached calm.  Anger is part and parcel of correction.
+[
+109
+]
+As Justice Berg summed up
+in
+R. v. Bender,
+2023 ONCJ
+569
+at paragraph
+9
+, “the presence of strong emotion does not necessarily deny
+an accused recourse to section 43.”
+[
+110
+]
+I will discuss
+the application of section 43 to the facts of this case below.
+The Law With Respect to
+Defence of Person
+[
+111
+]
+AC claims that his
+behaviour towards BB was to prevent BB from stabbing and killing CC or other
+children.  This raises “defence of person” in
+section 34
+of the
+Criminal
+Code
+.
+[
+112
+]
+Defence of
+person is based on the concepts of “self defence” and “defence of other”.  It
+states:
+34
+(1)
+A person is not guilty of an offence
+if
+(a)
+they believe on reasonable grounds
+that force is being used against them or another person or that a threat of
+force is being made against them or another person;
+(b)
+the act that constitutes the offence
+is committed for the purpose of defending or protecting themselves or the other
+person from that use or threat of force; and
+(c)
+the act committed is reasonable in
+the circumstances.
+(2)
+In
+determining whether the act committed is reasonable in the circumstances, the
+court shall consider the relevant circumstances of the person, the other
+parties and the act, including, but not limited to, the following factors:
+(a)
+the nature of the force or threat;
+(b)
+the extent to which the use of force
+was imminent and whether there were other means available to respond to the
+potential use of force;
+(c)
+the person’s role in the incident;
+(d)
+whether any party to the incident
+used or threatened to use a weapon;
+(e)
+the size, age, gender and physical
+capabilities of the parties to the incident;
+(f)
+the nature, duration and history of
+any relationship between the parties to the incident, including any prior use
+or threat of force and the nature of that force or threat;
+(f.1)
+any history of interaction or
+communication between the parties to the incident;
+(g)
+the nature and proportionality of
+the person’s response to the use or threat of force; and
+(h)
+whether the act committed was in
+response to a use or threat of force that the person knew was lawful.
+[
+113
+]
+In
+R. v.
+Khill,
+2021 SCC 37
+, the Supreme Court interpreted section 34(1) as a focus
+on “the catalyst” (section 34(1)(a)), “the motive” (section 34(1)(b)) and “the
+response” (section 34(1)(c)).
+[
+114
+]
+With respect to
+section 34(1)(a), “the catalyst”, the Supreme Court noted that the actions of
+the accused are to be judged on the basis of a modified objective standard. 
+Justice Martin defined it this way at paragraph 57:
+The
+question is not therefore what the accused thought was reasonable based on
+their characteristics and experiences, but rather what a reasonable person with
+those relevant characteristics and experiences would perceive….
+[
+115
+]
+With respect to
+section 34(1)(b), “the motive”, the Supreme Court noted at paragraph 59 that
+the actions of the accused are judged on a subjective basis having regard to the
+following:
+The
+second element of self‑defence considers the accused’s personal purpose
+in committing the act that constitutes the offence. Section 34(1)(b) requires
+that the act be undertaken by the accused to defend or protect themselves or
+others from the use or threat of force. This is a subjective inquiry which goes
+to the root of self‑defence. If there is no defensive or protective
+purpose, the rationale for the defence disappears.  The motive provision thus
+ensures that the actions of the accused are not undertaken for the purpose of
+vigilantism, vengeance or some other personal motivation.  [Citations omitted].
+[
+116
+]
+With respect to
+section 34(1)(c), “the response”, at paragraph 62, the Supreme Court stated
+that the section:
+…operates
+to ensure that the law of self‑defence conforms to community norms of
+conduct.  By grounding the law of self-defence in the conduct expected of
+a reasonable person in the circumstances, an appropriate balance is achieved
+between respecting the security of the person who acts and security of the
+person acted upon. The law of self-defence might otherwise “encourage hot‑headedness
+and unnecessary resorts to violent self‑help”. [Citations omitted.]
+[
+117
+]
+With respect to
+the interpretation of section 34(2), the Supreme Court noted that:
+a)
+reasonableness is measured according to
+“the relevant circumstances of the person, the other parties and the act”. The
+Court must consider how the act happened and what role each person played.  It “modifies
+the objective standard to take into account characteristics of the accused” (“including
+size, age, gender, and physical capabilities”), and “certain experiences of the
+accused, including the relationship and history of violence between the
+parties.”
+b)
+The Court must not “
+simply slip into
+the mind of the accused. The focus must remain on what a reasonable person
+would have done in comparable circumstances and not what a particular accused
+thought at the time.”
+c)
+“[T]he “relevant circumstances of the
+accused” in s. 34(2) can also include any mistaken beliefs reasonably held
+by the accused. If the court determines that the accused believed wrongly, but
+on reasonable grounds, that force was being used or threatened against them
+under s. 34(1)(a), that finding is relevant to the reasonableness inquiry
+under s. 34(1)(c). However, while s. 34(1)(a) and (b) address the
+belief and the subjective purpose of the accused, the reasonableness inquiry
+under s. 34(1)(c) is primarily concerned with the reasonableness of the
+accused’s
+actions
+, not their mental state.”
+d)
+“[T]he person’s role in the incident”
+refers to the person’s conduct — such as actions, omissions and exercises of
+judgment — during the course of the incident, from beginning to end, that is
+relevant to whether the ultimate act was reasonable in the circumstances.”
+The
+Findings of Fact and the Application of the Rubric in W.(D.):
+Do I believe the Exculpatory
+Evidence?
+[
+118
+]
+No.
+[
+119
+]
+AC testified that he was sitting on the couch playing with
+his Xbox.  He continued to do so when BB threatened to kill everyone, got a
+knife, was involved in a struggle with CC which resulted in the knife being
+removed from BB’s grasp, hit CC and was restrained by CC.  CC told him that she
+had things under control.  He stated that once BB started pulling CC away from
+the cabinet where BB’s medicine was kept and back toward the location of the
+knives, he intervened.
+[
+120
+]
+In these circumstances, given AC’s relative inaction
+through most of what transpired before BB started yanking CC, I do not believe
+that his actions were based on the need to defend CC, or others in the house,
+from BB to resorting to a knife.  Rather, I believe that AC intervened out of
+anger and frustration.  He also decided that it was necessary to restrain BB to
+prevent further insolence and misbehaviour and have him go to his “time-out”
+chair.
+[
+121
+]
+I further find, based on a reasoned and considered
+acceptance of the video evidence, that by the time that AC arrived to the area
+where BB was yanking CC, BB realized his father was coming and had turned to
+cower near his mother, going so far as to go on the opposite side of his mother
+and placing his mother between himself and AC.  In these circumstances, the
+threat to the safety of CC and the family had passed.  It was not necessary for
+AC to restrain BB to defend others.
+[
+122
+]
+AC also admitted
+in cross-examination that by then his primary purpose had shifted to restraining
+BB for the purpose of assisting CC to administer medication.
+[
+123
+]
+It is also clear
+that following the medication being administered, BB was escorted to and remained
+in his time-out chair.
+[
+124
+]
+AC’s evidence
+with respect to it being better that he have a knife “buried” in him than have
+it buried in the mother of the children was completely over the top and I do
+not accept it.
+Am I left in a Reasonable Doubt
+by the Exculpatory Evidence?
+[
+125
+]
+No.  Based on a considered and reasoned acceptance of the
+videotaped evidence, I am not left in doubt by the exculpatory evidence.
+On
+the basis of the evidence I do accept, am I left in a reasonable doubt?
+[
+126
+]
+Yes and no.
+[
+127
+]
+I do not accept much of what CC had to say about her view
+of AC’s reactions, her recantation with respect to the decision to report what
+happened to the police, her hearsay evidence with respect to what she was told
+by some unnamed police officer (who was not called to testify) about how violent
+BB is and the need to restrain him any way she can.
+[
+128
+]
+I am skeptical about the lack of video evidence which
+respect to what happened before and after the 38 seconds that were put in
+evidence, evidence which CC, AC or both had exclusive control over.
+[
+129
+]
+I am skeptical with respect to her evidence about the involvement
+of the school and FCS, all of which was also unsupported hearsay.
+[
+130
+]
+I find, however, that managing BB’s behaviour is a
+significant challenge for CC and this family.  Despite the lack of detailed independent
+evidence about this, I find that BB has some mental health problems that are
+difficult to manage.  I find that he needs medication to assist with that.
+[
+131
+]
+I agree with CC that, generally speaking, there are
+insufficient resources to deal with children who have significant behavioural
+and mental health problems in general and in Renfrew County in particular.  I
+agree that parents are often left to fend for themselves.
+[
+132
+]
+I also find that when the incident arose, it was difficult
+for her to cope.  I accept that she had post-partem issues as a result of the
+birth of her fourth child.  I also accept that she had been through some other trauma
+which also affected her ability to cope.  I note that this matter was originally
+scheduled to come on for trial on July 24, 2025 and the Crown sought (and was
+granted) an adjournment on the basis that CC was visiting her extended family
+in the United States.  I find that without AC, she does not have a lot of
+extended family support.
+[
+133
+]
+The simple reality is that CC needs AC to assist her with
+the children.  She is between the veritable rock and hard-place and has chosen
+AC because she simply cannot cope with the children on her own.  As I stated to
+counsel during submissions, with some exceptions, it was clear to me from the
+tenor of her evidence that CC was definitely on “Team AC”.
+[
+134
+]
+I find that CC and AC were not, at the time of the
+incident, equipped to cope with four children, one of whom had serious mental
+health and behaviour issues.
+[
+135
+]
+As I outlined with respect to the first two branches, the
+video evidence is a sufficient basis on which to find that when AC approached
+CC and BB to intervene, BB de-escalated.  The video, and CC’s evidence about
+what happened at that point in time, makes it clear that BB feared his father’s
+intervention and changed from struggling with CC to being more compliant.
+[
+136
+]
+I accept CC’s evidence that she told AC she had the
+situation under control and that she was annoyed at AC for intervening.  Reflecting
+on the “rock and hard-place” position that she was in, she felt bad for the
+child that AC had intervened and she did not wish to get BB into trouble.  I
+also find that it was her experience that BB’s behaviour escalated when she and
+AC “tag-teamed” him.  From her vantage point, AC’s intervention was unwelcome
+and unnecessary.
+[
+137
+]
+Importantly, I find that she was trying to tell AC to stand
+down, back away and let things get back under control.  Although there is no
+sound, the video evidence supports the proposition that even after AC moved her
+out of the way, she remained engaged in the area and can be seen gesturing with
+her arms and hands.
+[
+138
+]
+I note that this happened over a course of seconds.  I will
+have more to say about that in a moment.
+[
+139
+]
+I find based on the video evidence, that by this time, AC
+simply had enough.  He intervened not to protect his wife and the other
+children from a serious assault by BB. Rather he intervened to assist his wife
+in restraining the child for the purpose of administering medication and
+ultimately putting the child in a time-out.
+[
+140
+]
+I find, given that he did not stop and proceeded to move CC
+out of the way and restrain BB, even though BB had retreated from him, that he
+was also motivated by anger and frustration.  He continued to engage BB when the
+situation changed, and he should have simply stood by to reinforce and support
+CC.
+[
+141
+]
+I find that AC intended to apply force to BB, BB did not
+consent to the application of force and that AC knew that BB was not
+consenting.
+The
+Impact of Deemed Consent
+[
+142
+]
+With respect to the issue of “deemed consent”, I find as
+follows:
+a)
+The force was applied for the purpose
+of providing BB with the necessaries of life, to wit, medication and to control
+his behaviour;
+b)
+The force was applied for the purpose
+of providing medical care to BB, i.e. his medication;
+c)
+The force was applied for the purpose of preventing and
+responding to BB’s inappropriate behaviour;
+d)
+Was the force reasonable in the circumstances or excessive?  This
+is where I have the most difficulty.  AC did not set out to intentionally
+inflict harm on BB.  The force that was applied was not degrading.  There was
+no bodily harm.  The force applied was intended to restrain.  There is no
+suggestion that AC hit BB or used objects to hit AC.  There is no evidence he
+struck BB in the head.  The actions consisted of grabbing BB to get control of
+him.  There were elements of anger and frustration involved, but not overtly
+so.  While some reasonable parents in similar circumstances would have, as CC asked
+AC to do, stand down and back away at that moment in time, others would have
+proceeded exactly as AC did to obtain control of BB for the purpose of ensuring
+he obtained his medication and proceeded to his time-out.
+[
+143
+]
+On balance, I am
+satisfied that deemed consent is made out.
+[
+144
+]
+For this reason,
+notwithstanding my findings with respect to the credibility of AC, I am unable
+to find him guilty and he is entitled to an acquittal.
+The Impact of Section 43
+[
+145
+]
+Applying the
+rubric set out above with respect to section 43, I find as follows:
+a)
+AC applied the
+force for corrective purposes. It is clear that BB was capable of learning from
+such correction, on the basis that when BB approached, he de-escalated, cowered
+to CC and moved so that CC was between him and BB.  I am satisfied that the use
+of force was necessary to restrain BB and remove him from a situation of non-compliance
+with his medication and time-out towards compliance with medication and time-out. 
+“Time-out” is recognized as a valid parenting tool.   It cannot, however, be
+imposed if the child refuses to abide by it.
+b)
+While there may
+have been elements of anger and frustration, following cases such as
+BS
+,
+Hume
+and
+Bender
+, AC’s and CC’s parental toolbox was empty.  I agree
+that it is a matter of common sense that it is unreasonable to expect that to
+avoid criminal liability, parental discipline must be emotionless and devoid of
+natural reactions to what unfolds.  Parents cannot be held to a standard of
+perfection.  They are human.
+c)
+The use of force
+was intended to address the actual behaviour of the child as it existed when AC
+first started to intervene.  By the time AC was within grasp of BB, however, BB’s
+behaviour had changed.  BB was cowering to CC and attempted to separate himself
+from AC by placing CC in the middle.  It is clear to me that he feared what was
+coming next. This happened, however, over the course of seconds.  As much as we
+value sober and reasonable reflection, it is unreasonable to expect a parent to
+pivot so quickly.  I repeat:  parents cannot be held to a standard of
+perfection.
+d)
+The use of force
+was designed to restrain and control the BB.  It was not intended to punish BB.
+e)
+The use of force
+was intended for discipline in the sense of making BB mind, stop misbehaving,
+take his medication and go to his time-out spot.
+f)
+The use of
+force – at least that which is observable in the span of the 38 second video in
+evidence --  was relatively mild.  There was no bodily harm or a reasonable
+prospect of harm.  AC did not strike BB in the head.  AC did not use an object
+such as a belt or a ruler.  He grabbed BB with his hands.   The use of force
+was minor.   While acknowledging the broader questions that have arisen with
+respect the long-term effects of physical discipline on children, I find that
+it was transitory and trifling.
+g)
+From a policy
+perspective, this is not a case that is deserving of the blunt hand of the
+criminal law.
+[
+146
+]
+For all of these
+reasons, I find that the accused is entitled to recourse to section 43 and thus
+I would also acquit him on this basis.
+The Impact of Section 34
+[
+147
+]
+I will deal with
+this issue summarily.  I do not find that the accused would be entitled to
+avail himself of the defence in section 34.  I cannot find that a reasonable
+person with the accused’s experiences would have continued to anticipate a
+threat to themselves or others.  In my view, recourse to this section was
+completely eliminated when CC told AC that she had control of the situation,
+and when BB stopped yanking CC and cowered.
+[
+148
+]
+As I also stated
+in my review of AC’s evidence, I did not believe his evidence about this, nor
+did it leave me in doubt.  I thought it was a completely “over the top”
+justification.
+Conclusion
+[
+149
+]
+For all of these
+reasons, AC is found not guilty.
+Postscript
+[
+150
+]
+In cases such as
+this involving young children, who are at the mercy of their parents, the
+situation is unsettling.
+[
+151
+]
+The family had
+gone to the unusual step of installing video surveillance inside their house. 
+I am aware of the increasing popularity of video surveillance for a variety of
+reasons, but it was odd in this case.  There was some vague reference to the
+children having previously made untrue allegations as the reason for the video
+installation.
+[
+152
+]
+As I indicated
+in my judgment I was also skeptical of the reasons that there was only a 38
+second portion of the video available.
+[
+153
+]
+The only truly
+objective evidence I had with respect to what transpired was that 38 second
+video.
+[
+154
+]
+The way that BB cowered
+to his mother in the video was unsettling.  It may well be that this was simply
+a natural response to seeing his father enter the arena and becoming aware that
+his behaviour was about to be restrained.  It may also be an expression of fear
+of something else more sinister that was to come.
+[
+155
+]
+I was told that
+there had, at some point, been FCS involvement but that organization was no
+longer in the picture.
+[
+156
+]
+I was told that
+the family has had significant difficulties accessing mental health services
+and supports for BB.
+[
+157
+]
+I considered
+ordering AC to obey a common law peace bond preventing him from using physical
+discipline on any of the children.  I reasoned against this because I do not
+have the full picture of what was going on in this family.  I also reasoned
+against this on the basis that I have found that CC is unable to cope without
+help and there may well be situations in the future where AC will have to be
+called upon to assist with BB and that assistance will involve physical
+restraint.
+[
+158
+]
+In the final
+analysis, I will send a copy of this judgment to FCS to determine what, if any,
+further steps or investigations ought to be taken.
+Released:  December
+11, 2025
+Signed:
+Justice J.R. Richardson

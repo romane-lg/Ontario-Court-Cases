@@ -1,0 +1,715 @@
+source url: https://www.canlii.org/en/on/oncj/doc/2025/2025oncj443/2025oncj443.html
+
+warning
+the
+court hearing this matter directs that the following notice be attached to the
+file:
+a non-publication and
+non-broadcast order in this proceeding has been issued under
+subsection
+486.4(1)
+of the
+criminal code.
+this subsection and
+subsection 486.6(1)
+of the
+criminal code,
+which is concerned with the consequence of failure
+to comply with an order made under
+subsection 486.4(1), read as follows:
+486.4 order
+restricting publication
+— sexual offences.
+— (1) 
+subject to subsection (2), the presiding judge or justice may make an order
+directing that any information that could identify the victim or a witness
+shall not be published in any document or broadcast or transmitted in any way,
+in proceedings in respect of
+(
+a
+) any of the following offences:
+(i) an offence under section 151, 152, 153,
+153.1, 155, 160, 162, 162.1, 163.1, 170, 171, 171.1, 172, 172.1, 172.2, 173,
+213, 271, 272, 273, 279.01, 279.011, 279.02, 279.03, 280, 281, 286.1, 286.2,
+286.3, 346 or 347, or
+(ii) any offence under this act, as it read
+from time to time before the day on which this subparagraph comes into force,
+if the conduct alleged would be an offence referred to in subparagraph (i) if
+it occurred on or after that day; or
+(
+b
+) two or more offences being dealt with
+in the same proceeding, at least one of which is an offence referred to in
+paragraph
+(a).
+(2)
+mandatory order on
+application
+— in proceedings in respect of the offences referred to in
+paragraph (1)(
+a
+) or (
+b
+), the presiding judge or justice shall
+(
+a
+) at the first reasonable opportunity,
+inform any witness under the age of eighteen years and the victim of the right
+to make an application for the order; and
+(
+b
+) on application made by the victim, the
+prosecutor or any such witness, make the order....
+486.6 offence
+— (1) 
+every person who fails to comply with an order made under any of
+subsections
+486.4(1)
+to (3) or subsection 486.5(1) or (2) is guilty of an offence
+punishable on summary conviction.
+ontario court of justice
+citation:
+r.
+v. amorocho, 2025 oncj 443
+date: 2025 08 27
+court file no.: windsor
+22-81100429
+between:
+his majesty the king
+— and —
+gabriel amorocho
+before justice s.
+g. pratt
+heard on 1 august
+2025
+reasons for
+judgment released on 27 august 2025
+citally maciel....................................................................................... counsel
+for the crown
+alexandra cardella.................................................................... 
+ counsel for the defendant
+ruling
+on defence application to re-open
+pratt j.:
+
+on
+19 february 2025, i found the defendant gabriel amorocho guilty of sexual
+assault and sexual interference. prior to the imposition of sentence, counsel
+for the defendant brought an application to re-open the trial and make further
+argument. the crown opposed the application. this is my ruling.
+positions of the parties
+
+counsel
+for the defendant argues re-opening of the case is required to prevent an
+injustice. further, the need to re-open only became apparent after my reasons
+for conviction were released. this is an exceptional case that merits setting
+aside the conviction and permitting further argument.
+
+crown
+counsel denies that this is an exceptional case. re-opening would cause
+significant prejudice to the crown and would interfere with the notion that
+trial decisions are final. the argument sought to be made could have been made
+at trial. the crown argues the proper course at this point is an appeal, not a
+re-opening of the trial.
+the law
+
+in
+the usual course, a trial moves from arraignment to the calling of evidence, to
+a finding, and, if that finding is guilty, to sentencing. in most cases, it is
+a one-way street. once a finding is made, that finding stands unless it is set
+aside or otherwise modified by an appellate court. the trial court does not
+typically back up to re-visit findings after they have been made.
+
+the
+law does, however, permit a trial judge to reverse a finding of guilt in proper
+circumstances. as
+stated by justice martin in the case of
+r.
+v.
+lessard
+1976 canlii 1417 (on ca),
+ o.j. no. 74 (c.a.):
+12 i see no reason why a trial
+judge who has made a finding of guilt on disputed facts is not also empowered
+to vacate the adjudication of guilt at any time before the imposition of the
+sentence, although it is a power which, i cannot stress too strongly, should
+only be exercised in exceptional circumstances and where its exercise is
+clearly called for.
+
+it
+is an unusual remedy only given in exceptional circumstances. justice
+rosenberg confirmed this point
+in the more recent decision of
+r.
+v.
+griffith
+2013 onca 510. in that case, the crown argued for a stricter and more demanding
+test for re-opening than merely showing exceptional circumstances. justice
+rosenberg found the creation of a new test unnecessary. this is from paragraph
+23:
+third, in my view,
+the phrase "exceptional circumstances" already captures the essential
+point that it will only be in very rare cases that a judge would reopen a
+conviction. indeed,
+in
+lessard, at para.
+12, this court said that the exercise
+of vacating an adjudication of guilt must be "clearly called for".
+such a principle will recognize the strong interest in finality, as well as
+other institutional concerns that are so deeply ingrained in our common law
+system.
+
+the
+court of appeal for ontario specifically considered the question of re-opening
+a trial for further evidence after a conviction
+in the case of
+r.
+v.
+kowall
+1996 canlii 411 (on ca),
+ o.j. no. 2715.
+the test for re-opening the
+defence case when the application is made prior to conviction has been laid
+down by
+this court in r. v. hayward
+(1993),
+1993 canlii 14679
+(on ca),
+86 c.c.c. (3d) 193. however, once
+the trial judge has convicted the accused a more rigorous test is required to
+protect the integrity of the process, including the enhanced interest in
+finality. it seems to have been common ground in this case
+that the most appropriate test for determining whether or not to permit the
+fresh evidence to be admitted is the test for the admissibility of fresh
+evidence on appeal laid down in palmer and palmer v. the
+queen
+(1979),
+1979 canlii 8 (scc),
+50
+c.c.c. (2d) 193, at page 205 (s.c.c.)
+(
+see: r. v.
+mysko
+(1980),
+1980 canlii 2057 (sk ca),
+2
+sask. r. 342 (c.a.).) that test is as follows:
+(1) 
+ the evidence should generally not be admitted if, by due
+diligence, it could have been adduced at trial provided that this general
+principle will not be applied as strictly in a criminal case as in civil
+cases...;
+(2) 
+ the evidence must be relevant in the sense that it bears upon a decisive
+or potentially decisive issue in the trial;
+(3) 
+ the evidence must be credible in the sense that it is reasonably
+capable of belief;
+(4) 
+ it must be such that if believed it could reasonably, when taken
+with the other evidence adduced at trial, be expected to have affected the
+result.
+these criteria provide helpful
+guidance to a trial judge faced with an application to reopen after
+conviction.
+in addition to
+the palmer criteria, a trial judge must consider whether the
+application to reopen is in reality an attempt to reverse a tactical decision
+made at trial. counsel must make tactical decisions in every case. 
+assuming those decisions are within the boundaries of competence, an accused
+must ordinarily live with the consequences of those decisions.
+should
+the trial judge find that the test for reopening has been met, then the judge
+must consider whether to carry on with the trial or declare a mistrial.
+
+while
+the exceptional circumstances test applies, the present case offers a different
+situation. here, counsel does not seek to call further evidence. rather, the
+request is simply to make further legal argument. the argument would be made
+on the basis of the evidentiary record as it now stands.
+
+in
+the case of
+r.
+v.
+calero-viteri
+ o.j. no. 6706 (c.j.), my
+sister justice tuck-jackson considered re-opening to allow for the presentation
+of a new defence. her honour cited the windsor decision of justice abbey in
+r.
+v.
+d.d.
+ o.j. no. 760
+(prov. ct. (fam. div.)). justice abbey
+referred
+to the
+lessard
+decision and said this at paragraph 10:
+i
+would think that based upon the principle in that case, in appropriate and
+exceptional circumstances, the defence may also invite the trial judge to set
+aside the finding not for the purpose of calling further evidence but for the
+purpose of submitting argument which was not presented at the trial such that
+it would be an apparent injustice not to permit the accused or, in this case,
+the young person to advance that argument.
+
+at
+paragraphs 16 and 17 of
+calero-viteri, justice tuck-jackson succinctly
+summarized the requirements for such a re-opening:
+16 in my view,
+guidance on this issue can be gleaned from the line of authority that
+delineates when a new legal argument can be advanced for the first time on
+appeal. in r. v. ullrich,
+ b.c.j. no. 3721 (b.c.c.a.), that court
+identified the following factors as relevant:
+there are
+authorities which establish that in exceptional circumstances a court of appeal
+may allow a defence not raised at trial to be considered. those exceptional
+circumstances include a case where the balancing of the interests of justice
+indicates that an injustice has been done, or where the new defence is based
+upon an issue of law alone and not on an issue of fact in relation to which it
+might have been necessary to adduce additional evidence at trial, or on appeal,
+or on a new trial:
+see r. v. vidulich,
+1989 canlii 231 (bc ca),
+ b.c.j. no. 1124 (supra)
+at p.
+399; r. v. speerbrecker
+(1986),
+47 m.v.r. 271 (b.c.c.a.)
+at p. 273; r. v. schultz,
+ b.c.j. no. 2757,
+ca012697, september 27, 1991, (b.c.c.a.), at p. 21.
+17 similarly,
+in
+r. v. brown
+(1993),
+1993 canlii 114 (scc),
+83 c.c.c. (3d) 129, the supreme court of canada, in
+upholding the dissenting opinion of justice harradence of the alberta court of appeal
+at
+(1992),
+1992 canlii 12795 (ab ca),
+73 c.c.c. (3d) 481, confirmed
+that where an appellate court has a
+sufficient factual foundation to appraise a new defence raised on appeal
+without prejudice to the parties and particularly where refusing to do so will
+result in unfairness, it is proper for the appeal court to hear and determine
+the question. i see no reason not to adopt a similar standard when the matter
+is still before the trial court. in my respectful view, leave ought to be
+granted to permit the defence to raise a new defence after a verdict has been
+rendered where; 1) doing so prevents an injustice or unfairness to the accused;
+and 2) there is no prejudice to the crown which cannot otherwise be remedied.
+in considering the second factor, it is relevant to consider whether there is a
+sufficient factual record before the court which permits a fair assessment of
+the issue from the perspective of both parties. put another way, it would be
+unfair to the prosecution to permit an accused to advance a new defence after
+the verdict has been rendered if, in retrospect, the crown would have called a
+different case or cross-examined defence witnesses in a different fashion with
+the benefit of earlier notice that the defence was a live issue.
+
+finally,
+on the issue of tactical decisions, justice tuck-jackson said this at paragraph
+20:
+in addition to
+observing that the crown would not be prejudiced in the sense outlined above, i
+note that there is no suggestion that mr. stastny's failure to raise the new
+defence earlier was the product of a tactical decision. as he has very fairly
+put it to the court, the argument simply did not occur to him until he had had
+the opportunity to digest my findings of fact and law.
+analysis
+
+i
+must consider if the present circumstances are indeed exceptional. i remind
+myself that the defendant has a broad right to appeal the conviction. he is
+free to raise myriad issues on appeal, and can also seek to make new arguments
+not advanced at trial. this appeal process, broad as it is and largely available
+as of right, is a big part of the reason why re-openings should be rare. 
+finality at the trial stage is important.
+
+what
+are the circumstances that give rise to the application?
+
+taken
+from the crown’s factum, the charges against the defendant were laid on 25
+march 2022. on 2 april 2024, trial dates were set in the ontario court of
+justice. following trial in october and november of 2024, i provided my
+reasons for conviction on 19 february 2025. on 8 may 2025, following the
+preparation of a pre-sentence report, counsel for the defendant sought an
+adjournment to consider bringing this application. it was brought, and the
+parties made submissions on 1 august 2025.
+
+defendant’s
+counsel has argued that the application only became necessary on reviewing the
+reasons for conviction. in my decision, i found the evidence of the
+complainant incapable of proving the offences beyond a reasonable doubt. 
+rather, the conviction was based on the statement provided by the defendant to
+police. that statement was admitted to be both voluntary and
+charter-compliant. it was led as part of the crown’s case. in it, the
+defendant told police on two occasions what he understood the complainant’s age
+to be. i set out the exchanges with the interviewing officer at paragraphs 40-42
+of my decision.
+
+how
+counsel interpreted that statement is important and will inform my view on why
+the proposed defence was not argued at trial.
+
+the
+second instance where the defendant mentions the complainant’s age was, in my
+view, misheard by counsel. in written submissions, counsel said the statement
+was “but i thought, i realized like, um i didn’t realize she was 15 man”. 
+after listening to the statement, i found his words actually were “but i
+thought, i realized like um, i realized that she was 15 then.”
+
+if
+the entire re-opening argument was based on this passage, i would be inclined
+to grant the application. i certainly ascribe nothing nefarious to counsel’s
+hearing of the audio. it seems we simply disagree. counsel would not have
+known about that disagreement prior to my decision, so an opportunity to
+respond to it doesn’t seem inappropriate.
+
+there
+is more to the issue, however. as i said, that was the second instance where
+the defendant mentioned the complainant’s age. the first is longer and,
+candidly, more compelling. i will set out the passage in totality, taken from
+paragraph 40 of my reasons (“pp” is constable phil peladeau):
+pp how old
+is she?
+ga she’s uh
+15 turning 16.
+pp she is
+15?
+ga turning
+16.
+pp she’s
+turning 16?
+ga turning
+16.
+pp and how
+old are you?
+ga i’m 18.
+pp you’re
+18? when did you turn 18?
+ga november
+1
+st.
+pp november
+1
+st
+?
+ga yeah.
+pp so how do
+you know she’s 15 turning 16?
+ga
+she
+told me a little bit after that she was 15 turning 16.
+pp but you
+thought she was older than that?
+ga no, no,
+no.
+i knew the age of consent is 16.
+pp okay.
+ga and i’m
+only 18 you understand what i mean? so it’s like a two age difference, it’s
+like if you’re dating…
+pp yeah.
+ga …it’s
+like two year difference, it’s fine, you understand what i mean?
+pp okay.
+ga so i was
+like,
+i know i’m not supposed to be doing anything with like a, like a minor,
+you understand what i mean?
+pp yeah.
+ga
+so i
+was like, if she’s 16, it’s fine, but if she’s anything lower than that i
+can’t, i can’t go for it, you understand what i mean?
+(emphasis added)
+
+the
+defendant was clear in this passage that he knew the complainant to be “15
+turning 16”. he was asked when he learned that and said she “told me a little
+bit after”.
+
+when
+i brought this passage to counsel’s attention during argument, the response was
+that we don’t know what the “after” is referring to. was it after the first
+sexual encounter? was it after the complainant’s mother kicked him out of her
+house? we don’t know. consequently, there is a question when he came to
+believe the complainant was 15 years old. the corollary to that question is
+that perhaps he still believed her to be 16 at the time of the second sexual
+encounter.
+
+i
+reject this submission. there is no evidence before me that after the
+defendant left the complainant’s home on 22 march, they ever had any further
+contact. i heard about texts between the defendant and the complainant’s mother,
+but nothing related to the complainant directly. these charges were laid that
+day. there is no basis to believe the “after” refers to after their second
+encounter. such a finding would require me to hold that there had been
+additional contact after the confrontation by the complainant’s mother. there
+is no evidence of that. the only reasonable inference to be drawn is that the
+word refers to after their first encounter.
+
+the
+evidence led by the crown is clear on this point. the defendant told police he
+believed the complainant to be 15 years old. no evidence was led to clarify
+what was meant by the word “after”. in any event, this is a side issue not
+related to the argument counsel seeks to make. the idea that throughout their
+dealings, the defendant thought the complainant was 16 was put forward at
+trial. that was the core of the defence. the application does not seek to
+make that argument again.
+
+it
+is relevant, though, to the underlying reason for the application. courts
+should take a dim view of re-opening applications that seek to reverse a
+tactical decision made at trial. again, this is from the
+kowall
+decision:
+in addition to
+the palmer criteria, a trial judge must consider whether the
+application to reopen is in reality an attempt to reverse a tactical decision
+made at trial. counsel must make tactical decisions in every case. 
+assuming those decisions are within the boundaries of competence, an accused
+must ordinarily live with the consequences of those decisions.
+
+could
+the argument that the defendant believed the complainant to be 15 at the time
+of the second encounter, and was therefore eligible for the close in age
+exception in s. 150.1, have been made at trial?
+
+the
+answer is clearly yes.
+
+the
+statement of the defendant was taken on 25 march 2022, long before the trial,
+and was provided to the defence in the ordinary course of disclosure (at least,
+i haven’t heard any suggestion otherwise). i can assume the statement was
+carefully reviewed because it was admitted to be voluntary. it became an
+exhibit on the trial on consent of both parties.
+
+at
+trial, the core of the defence was the lack of credibility and reliability of
+the complainant, together with the defendant’s mistaken belief that she was
+16. it was open to the defence throughout the trial to argue the close in age
+exception based on his statement. that avenue was not pursued.
+
+in
+calero-viteri, counsel conceded that the argument he wished to make had
+simply not occurred to him before hearing the trial judge’s findings. failing
+to make that argument, therefore, was not a tactical decision. respectfully, i
+don’t see how i can come to the same conclusion. in that case, the offender
+was convicted of obstructing a police officer by misidentifying himself in the
+course of a traffic stop. the trial was a blended trial and charter voir
+dire. in the result, justice tuck-jackson found a breach of the offender’s s.
+9 rights and dismissed some of the counts the offender was facing. her honour
+still convicted him of the obstruct charge.
+
+in
+the application to re-open, counsel said he wanted to argue that the officer
+was not in the execution of his duty at the time of the alleged obstruction. 
+this argument appears to be based on the charter violation found by the court. 
+that is, given that the traffic stop violated the offender’s charter rights, he
+wanted to argue the officer was not in the lawful execution of his duty when
+the misidentification was made.
+
+it
+makes sense that the argument would not have occurred to counsel in advance. 
+it is based on the specific findings made in the charter ruling. those
+findings had not been made at the time of trial. crucially, the proposed
+argument was entirely dependent on the charter ruling.
+
+that
+is not the case here. the admission by the defendant that he believed the
+complainant to be 15 was available throughout the life of this case. the close
+in age argument was there to be explored. it was not. instead, the defence
+focused on other aspects of the evidence. this is not to say that choice was
+unreasonable; it wasn’t. but that is precisely what it was: a choice. nothing
+in my ruling suddenly activated the close in age exception as an available
+argument.
+
+i
+find i must disagree with the submission made by counsel for the defendant:
+it’s not so much
+that a different defence is being advanced, tactically or otherwise, it’s that
+the defence that was previously advanced can be applied differently now in
+light of this exception and in light of your honour’s findings.
+
+my
+ruling did not reveal an argument that was not previously available.
+
+later
+in submissions, after noting that the complainant was never asked if she told
+the defendant she was 15, counsel said the following:
+and in hindsight,
+your honour, i will absolutely say, looking at that again, i would have said
+and if your honour finds that she’s 15 years old, if you believe that, here are
+the reasons why it was reasonable, the same reasons that he took, he didn’t
+have to take any further steps to determine she was six—to believe she was 16
+years old, that can also apply to the 15 year old age belief, belief in age, or
+mistaken belief in age. but i would have then added, in which case, this
+exception applies because it’s within five years. and i think that it would
+have been open to your honour to apply that exception given your findings
+because the exception is not necessarily a defence, the defence is mistaken
+belief, which was advanced.
+
+the
+argument counsel says she would have made is one she could have made. while
+that fact is not dispositive of the application, it is a significant
+consideration.
+prejudice
+
+the
+crown argues it would be prejudiced by the granting of the application. if
+further argument is permitted, the crown says it would have to recall the
+complainant to address the new evidence. for the reasons i will now set out, i
+do not see prejudice as a compelling problem in this case.
+
+counsel
+has made it clear that re-opening would not involve any further evidence. at
+most, it would be additional legal argument. the close in age exception would
+be based solely on the evidence as it now stands. given that there would be no
+new defence evidence, i’m not sure i see why the crown would need to recall the
+complainant. it is the defendant who would bear the burden of showing an air
+of reality to the mistake in age defence. only if that was done (again, on the
+evidentiary record as it now stands) would there be an onus on the crown to
+disprove one or more of the constituent elements. given that the claim would
+rise or fall only on the existing evidence, i don’t see the utility, let alone
+the necessity, of recalling the complainant. if anything, from a purely
+tactical perspective, recalling the complainant and exposing her to further
+cross-examination could result in the defence being strengthened.
+
+i
+find no significant prejudice would be caused if the application were to be
+granted.
+
+i
+have considered whether the circumstances in the present case are exceptional. 
+in my view, they are not. this is not the same situation as
+calero-viteri,
+supra, where the new argument was engendered by the court’s ruling. 
+here, the argument was always present. the candid position of counsel comes
+down to this: had i known the court would find that portion of the statement to
+be important, i would have paid it more attention. this is not a case of
+inadvertence or a change in circumstances brought about by my ruling. it is a
+different view of the case taken with the benefit of hindsight.
+
+if
+i am wrong in my determination of exceptional circumstances and should have
+permitted a re-opening for the close in age exception to be considered, i will
+briefly address that issue.
+
+in
+my view, there is no air of reality to the mistake in age defence as it relates
+to the defendant thinking the complainant was 15 years old. as chief justice
+tulloch summarized at paragraph 35 of
+r.
+v.
+hason
+2024 onca 369:
+parliament
+resolved this dilemma and enhanced protections for young people by enacting
+section 150.1(4)
+of the
+criminal code: george, at paras. 7-8; carbone, at
+paras. 111-113. that provision modifies the mistake of age defence by requiring
+the accused to take all reasonable steps to ascertain the complainant’s age.
+the modified defence has two elements: (1) the accused honestly believed that
+the complainant was at least 16 years old at the time of the alleged offence,
+and (2) the accused took all reasonable steps to ascertain the complainant’s
+age. if the accused shows an air of reality to both elements, then the crown
+must negate the defence by proving beyond a reasonable doubt that either
+element is lacking: r. v. w.g.,
+2021 onca 578,
+405 c.c.c. (3d) 162, at paras.
+54-57, leave to appeal refused, s.c.c.a. no. 381.
+
+while
+the chief justice refers in this passage to a belief that a complainant is 16
+years old, given the interplay in the present case between mistaken belief and
+the close in age exception, i can substitute 16 years old with 15.
+
+has
+the defendant shown he honestly believed the complainant to be 15 after their
+first sexual encounter? there is no evidence he can point to that supports
+that contention. based on his statement to police, she told him when they met
+that she was 16. after the first encounter she told him she was actually 15. 
+as i put to counsel during submissions, that means she admitted initially lying
+about her age. i am asked to find that he subjectively believed this new
+information to be true. why would he? what is there in the evidentiary record
+he can point to that shows his subjective belief? i see nothing. an air of
+reality requires some evidence that, if accepted by a trier of fact, could lead
+to acquittal. i must view the evidence in a light most favourable to the
+defence. but there must be some evidence to view. here, there is none. she
+tells him one age, which he believes. she then tells him another age. i have
+no evidence he believed or disbelieved her.
+
+if
+there was a subjective belief that she was 15, he would then have had to take
+all reasonable steps to ascertain her true age. counsel urges me to apply my
+findings about the first encounter to the second. at paragraph 49 of my
+decision, i stated:
+as it is covered
+by the date range in the information, i must also consider the alleged sexual
+contact from the sunday night/monday morning. on that occasion, the defendant
+was told (and the complainant agrees she said this) that the complainant was 16
+years old and in high school. in this context, i do not find any additional
+investigation was necessary on the part of the defendant. he asked her age,
+and she told him. her answer was not obviously suspicious. i am not persuaded
+that he should have done more. in the circumstances, i will give the defendant
+the benefit of the doubt on this first encounter.
+
+i
+cannot apply this finding to the situation facing the defendant after the first
+encounter. when the complainant changed what she told him about her age, she
+fundamentally changed the state of affairs. in his statement, the defendant
+himself acknowledged that 15 was an age line he couldn’t cross. finding out
+that a) she had apparently lied about her age when she said she was 16, and b)
+she was actually 15 and therefore, in the defendant’s words, “a minor”, meant
+that further inquiry was absolutely necessary. at that point, he had no reason
+to believe 15 was her true age given her dishonesty. it was incumbent on him
+to take further steps. he took none.
+
+support
+for this finding is taken from the supreme court of canada’s
+decision in
+r.
+v.
+morrison
+2019 scc 15 (canlii),
+ s.c.j. no. 15
+at paragraph
+108:
+relatedly, if the accused takes some
+initial steps that could reasonably support a belief that the other person is
+of legal age, but "red flags" are subsequently raised suggesting he
+or she may not be, then the accused may be required to take additional steps to
+ascertain the other person's age: see dragos, at paras. 62-64 and 66. if
+the accused takes no such additional steps, then he or she may be found not to
+have satisfied the reasonable steps requirement. the requirement is
+thus an ongoing one.
+
+the
+complainant telling the defendant that she was actually 15 must surely be a
+very red flag necessitating additional steps. that he was reasonable in
+believing her to be 16 initially does not inoculate everything that followed. 
+his obligation was, as justice moldaver said, an ongoing one.
+
+there
+is no air of reality to a claim that the defendant took all reasonable steps to
+ascertain the complainant’s true age based on the situation that confronted
+him.
+
+had
+i granted the application to allow consideration of the close in age exception
+related to a mistaken belief in age, i would have found the claim lacked an air
+of reality. the defence would not have been successful.
+result
+
+the
+application is dismissed. we will proceed to sentencing.
+released: 27 august 2025
+signed: justice s.
+g. pratt

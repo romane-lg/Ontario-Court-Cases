@@ -1,0 +1,841 @@
+source url: https://www.canlii.org/en/on/oncj/doc/2025/2025oncj305/2025oncj305.html
+
+ontario court of justice
+citation:
+r. v. pentland, 2025 oncj 305
+date: 
+2025 06 04
+court
+file no.: sudbury 4011-998-23-40102978-00
+between:
+his
+majesty the king
+— and
+—
+michael pentland
+before
+justice g. jenner
+heard
+on january 14, march 20, and april 24, 2025
+reasons
+for judgment released on june 4, 2025
+adam lachance.................................................................................. counsel
+for the crown
+mikael savitsky............................................................................... counsel
+for the accused
+jenner j.:
+i.
+introduction and issues
+
+mr. pentland is charged with (i) impaired
+operation of a conveyance and (ii) having a blood alcohol concentration (bac)
+equal to or above 80 mg of alcohol in 100 ml of blood within two hours of
+operating a conveyance (“80 plus”).
+
+it is alleged that on august 21, 2023, mr.
+pentland was driving too closely behind mr. maverik cuff’s vehicle when mr.
+pentland’s vehicle left the roadway and collided with a driveway raised above
+the ditch. mr. cuff stopped to assist. when police arrived, mr. pentland was in
+the ambulance. cst. vachon made an approved screening device (“asd”) demand,
+which mr. pentland failed. mr. pentland was arrested, brought to the police
+detachment, and was required to provide breath samples. the lower of his two
+readings was 230 mg of alcohol in 100 ml of blood.
+
+on consent, the trial proceeded as a blended
+voir
+dire
+addressing a
+charter
+application and the voluntariness of
+certain alleged utterances.
+
+the evidentiary issues to be determined are:
+(1)
+voluntariness:
+were
+mr. pentland’s utterances at the police detachment concerning his identity as
+the driver of the crashed vehicle, the cause of the accident, and his level of
+intoxication voluntary?
+(2)
+grounds for asd demand:
+were mr. pentland’s rights under ss. 8 and 9 of the
+charter
+infringed because, when cst. vachon detained mr. pentland and made an asd
+demand, he lacked the requisite reasonable suspicion that mr. pentland had
+alcohol in his body?
+(3)
+timing of asd demand:
+was mr. pentland’s right under s. 8 of the
+charter
+infringed
+because cst. vachon’s asd demand was not made immediately upon his developing a
+reasonable suspicion?
+(4)
+delay in right to counsel:
+was mr. pentland’s s. 10(b)
+charter
+right breached because
+cst. vachon failed to provide the informational component of the right without
+delay?
+(5)
+counsel of choice:
+was mr. pentland’s s. 10(b) right breached because cst. vachon did
+not provide mr. pentland with a meaningful opportunity to contact counsel of
+choice?
+(6)
+charter
+remedy:
+if any of the alleged
+charter
+breaches are made out, ought the evidence to be excluded?
+
+the ultimate issues to be determined are:
+(7)
+identity and care and control:
+was mr. pentland in care and control of the crashed motor vehicle at
+the relevant time?
+(8)
+impairment:
+was
+mr. pentland’s ability to operate his vehicle impaired by alcohol?
+
+the parties agree the additional issue of
+whether mr. pentland had a bac ’80 plus’ turns entirely on the
+charter
+application.
+that is, if the application fails to exclude the breath readings, then this
+element of the 80 plus offence is proven. if the application succeeds in
+excluding the breath readings, there must be an acquittal on that count.
+
+the court heard from the following witnesses:
+(i) mr. maverik cuff, a civilian motorist who partially observed the motor
+vehicle accident and stopped to assist; (ii) opp cst. vachon, the first officer
+to arrive on scene, and the arresting officer; (iii) cst. dokis, a second
+officer who attended the accident scene; and (iv) cst. joyal, the breath
+technician.
+ii.
+analysis
+2.1 voluntariness
+
+the crown failed to prove beyond a reasonable
+doubt that mr. pentland’s utterances to the breath technician, cst. joyal, were
+voluntary. i must weigh the entire circumstances surrounding the statements,
+but the determining factor in this case was the inducement contained in the
+following exchange shown on the booking room video:
+officer:
+okay, so michael, if you don’t cooperate, you don’t cooperate.
+mr. pentland:
+i’ll cooperate.
+officer:
+you’ll be here all night if you don’t cooperate.
+
+the crown points out this exchange occurred
+after mr. pentland provided a fictional name as his legal counsel of choice.
+the crown suggests the officer’s statement here is an unfortunately worded but
+ultimately innocuous caution to curb mr. pentland’s insincere behaviour. that
+may have been the officer’s intention, but i do not find the comment to be
+innocuous. a reasonable interpretation of the officer’s retort is that
+failure to cooperate would mean mr. pentland would be held in custody
+overnight.
+
+not every threat or inducement will render a
+statement involuntary. in
+r. v. spencer,
+2007 scc 11, at para.
+15,
+deschamps j., writing for the majority, stated that “while a
+quid pro quo
+may
+establish the existence of a threat or promise, it is the strength of the
+alleged inducement that must be considered in the overall contextual inquiry
+into voluntariness.”
+
+the accuracy of a threat or inducement, while
+not determinative, is relevant factor: see, for example,
+r. v. othman,
+2018 onca 1073
+at para.
+16;
+r. v. backhouse,
+2005 canlii 4937
+(ont.
+c.a.), at paras.
+120-121. the officer’s statement here was inaccurate. while
+lack of cooperation might have slowed the investigation and delayed mr.
+pentland’s release, complete non-cooperation, including by refusal to comply
+with breath tests, would more likely see mr. pentland charged with that
+additional offence. that would not necessarily translate to an immediate
+release, but it would not cause him to be held meaningfully longer than if he
+was fully cooperative.
+
+the prospect of spending a night in a detention
+cell is no small matter. i am concerned that the officer’s statement may have
+influenced mr. pentland to opt to answer questions he might not have otherwise.
+the subsequent cautions given by cst. joyal were general in nature and not
+specific enough to dispel the risk of the inducement. the crown’s onus is high.
+it must establish voluntariness beyond a reasonable doubt. the crown has not
+met that standard here. impaired driving investigations often require officers
+to navigate vexing and obstructive detainee behaviour, but officers must be
+cautious not to inaccurately convey to detainees that their liberty is
+contingent on cooperation.
+2.2 grounds
+for asd demand
+
+cst. vachon possessed the necessary grounds to
+make the asd demand. he subjectively believed mr. pentland both operated a
+motor vehicle in the previous three hours and had alcohol in his body. this
+belief was objectively reasonable. cst. vachon testified that he was
+dispatched to a motor vehicle collision. his first point of contact on scene
+was an ambulance attendant who told him that the male involved in the accident
+was being assessed medically, that they could smell alcohol on the male’s
+breath, and that the male admitted he had consumed two beers the night before.
+when he spoke to mr. pentland in the ambulance, cst. vachon could himself smell
+alcohol on mr. pentland’s breath, and noted he had red and glossy eyes and
+slurred speech. cst. vachon testified he had reasonable suspicion to believe
+that mr. pentland had alcohol in his body.
+
+the defendant urges me to reject cst. vachon’s
+evidence because the civilian witness, mr. cuff, did not detect an odour of
+alcohol on mr. pentland, and that the in-car video evidence of mr. pentland’s
+transport from the scene does not demonstrate any slurred speech or indicia of impairment.
+there is nothing inconsistent between cst. vachon detecting an odour of alcohol
+in the enclosed space of the ambulance and mr. cuff’s not having detected such
+an odour while interacting with mr. pentland outdoors. i do not find the video
+evidence of mr. pentland at any stage of the investigation undermines cst.
+vachon’s testimony as to his observations. in any event, the information
+conveyed to cst. vachon by the ambulance attendants would, standing alone,
+constitute grounds to suspect alcohol in mr. pentland’s body. cst. vachon’s
+evidence on these points was uncontradicted, and i accept it. this ground of
+the
+charter
+application fails.
+2.3 timing
+of asd demand
+
+the defendant argues that cst. vachon’s asd
+demand was unlawful because after forming his grounds cst. vachon delayed and
+did not make the demand immediately.
+
+section 320.27
+of the
+criminal code
+says nothing about the period
+between an officer forming the grounds for a demand and the making of the
+demand. however, like its predecessor,
+s. 254(2)
+of the
+criminal code,
+the provision has been interpreted to have an ‘immediately’ or ‘forthwith’
+requirement:
+r. v. quansah,
+2012
+onca 123, at paras.
+24-44;
+r.
+v. woods,
+2005 scc 42, at para.
+15;
+r. v. breault,
+2023 scc 9, at
+para.
+34.
+
+cst. vachon’s evidence was that he arrived at
+the scene at 2:56 pm. he parked on the opposite side of the highway from the
+accident. he made observations of the scene and made his way to the ambulance.
+outside the ambulance he spoke to one ambulance attendant. he then spoke to his
+colleague, cst. dokis. they had a conversation about the male in the ambulance,
+and about who would speak to witnesses at the scene. cst. vachon then entered
+the ambulance where mr. pentland was being assessed. he identified mr. pentland
+and made further observations: the odour of alcohol on breath, red and glossy
+eyes, and slurred speech. at 3:13pm, he made the asd demand. the defence
+challenged him as to whether description of events would realistically take the
+17 minutes he said elapsed between his arrival and the demand. cst. vachon
+agreed the various events were brief but was not able to provide any answer
+beyond that. cst. vachon agreed that after speaking to the ambulance attendant
+outside the ambulance, and before entering the ambulance, he was starting to
+develop suspicion.
+
+i accept that, subjectively, cst. vachon’s
+grounds to make an asd demand crystalized when he was in the ambulance with mr.
+pentland. it would, in my view, have been reasonably open to him to form such a
+belief based on the information provided to him by the ambulance attendant
+outside the ambulance. if, however, he did not in fact form a subjective
+belief, an earlier objective basis is immaterial:
+r. v. franco,
+2024
+onsc 2444, at para.
+12.
+
+but were i to reject cst. vachon’s evidence on
+this point; were i to find he is being disingenuous about when his reasonable
+suspicion crystalized, i would still not find an infringement of the
+applicant’s
+charter
+rights, on the basis that any associated delay would
+have occurred before mr. pentland was detained. the implicit immediacy
+requirement in a case where the delay precedes a detention must be approached
+differently. i cannot summarize the justification for this more effectively
+than davies j. has recently in
+r. v. franco,
+2024 onsc 2444, at paras.
+16-18:
+there is, of course, jurisprudence that states that the
+police are required to make a demand immediately if they intend to do so.
+the
+criminal code
+does not explicitly require a police officer
+to make the demand immediately after establishing reasonable grounds to suspect
+the driver has alcohol in their body. however, canadian courts have repeatedly
+held that, to be constitutional,
+s. 320.27(1)
+of the
+criminal
+code
+(and its predecessor) must be interpreted to mean that the police
+have an implicit obligation to make a demand as soon as they form the
+reasonable suspicion that the driver has alcohol in their body:
+r. v.
+breault,
+2023 scc
+9
+at para.
+34,
+r. v.
+quansah,
+2012 onca
+123
+at paras.
+24 to 44,
+r.
+v. woods,
+2005 scc
+42
+at para.
+15,
+r. v.
+pierman
+(1994),
+1994 canlii 1139 (on ca),
+19 o.r. (3d) 704
+at para.
+5. this is because
+the police are allowed to detain the driver for the purpose of seizing a sample
+of their breath without giving the driver an opportunity to speak to counsel
+before the sample is taken. the statutory power to demand a breath sample
+before the driver has an opportunity to speak to counsel has been found to be a
+reasonable limit on the driver’s
+charter
+rights because of
+“the extreme danger” posed by impaired drivers, but only if the police exercise
+that power without delay:
+quansah
+at
+para.
+22.
+the cases on the constitutionality of
+s. 320.27(1)
+of
+the
+criminal code
+(and its predecessor) were decided in the
+context that the driver had been detained by the police before the demand was
+made. for example,
+in
+pierman
+at
+para.
+5, arbour j.a. (as she then was) explained the rationale for
+requiring the police to make the demand as soon as they have reasonable grounds
+to suspect the driver has alcohol in their body as follows:
+this is the only interpretation which is consistent
+with the judicial acceptance of an infringement on the right to counsel
+provided for in s. 10(b) of the
+charter. if the
+police had discretion to wait before making the demand, the suspect would be
+detained and therefore entitled to consult a lawyer. the basis upon which the
+courts have held that parliament may infringe on a suspect's right to counsel
+is that there is no opportunity for the police to accommodate that right if the
+breath sample must be taken "forthwith". it follows, in my view, that
+for the section to maintain its constitutional integrity, we must assume it
+also contemplates that there be no opportunity for the suspect to consult
+counsel before the demand is made.
+however,
+in
+r.
+v. macm
+illan,
+2013 onca 109, the court of appeal for
+ontario held that “greater flexibility” is permitted if the driver is not
+detained between the time the officer forms the grounds to make a demand and
+when the demand is made. the court made that finding because the rights
+under ss. 9 and 10 of the
+charter
+are not
+engaged if the driver is not detained. in other words, if the driver is not
+detained, any delay between the officer formulating grounds and making the
+demand will not interfere with the driver’s
+charter
+rights and
+the need for immediate action on the part of the police disappears.
+
+i note further that the court in
+macmillan,
+applying a flexible approach, tolerated a 29-minute delay while the suspect was
+not detained as reasonably necessary in the circumstances: para. 39.
+
+adopting a flexible approach here, cst. vachon
+was not conducting a standard vehicle stop. he was responding to a motor
+vehicle collision. he made observations of the scene. he spoke to his
+colleague, cst. dokis, to determine who would be responsible for speaking with
+witnesses at the scene. he spoke to the ambulance attendant about the suspected
+driver they were assisting. mr. pentland was being seen by another ambulance
+attendant, a process cst. vachon was required to be sensitive to. cst. vachon’s
+approach was reasonably necessary, and in the context of mr. pentland not being
+detained by police, i do not find that cst. vachon breached any temporal
+obligation with respect to the demand.
+2.4 delay
+in right to counsel
+
+the defence complains of a four-minute delay
+between the arrest and cst. vachon’s providing mr. pentland with the
+informational component of the s. 10(b) right to counsel. this is argued as a
+breach of the immediacy requirement upheld in
+r. v. suberu,
+2009 scc 33
+at para.
+42.
+
+cst. vachon’s evidence is that the arrest
+occurred at “approximately 3:14pm” and that he read mr. pentland the standard
+right to counsel language at “approximately 3:17pm”. i note that the times
+given are approximate—understandable given the dynamic reality of police
+duties—and that it is not necessarily the case that a full four minutes elapsed
+between these events. in any event, examining the evidence as to what occurred
+in this short timeframe, i am not persuaded that cst. vachon failed to comply
+with the immediacy component of the right to counsel.
+
+cst. vachon testified that he advised mr.
+pentland that he was going to be arrested. he showed him the result of the asd.
+he attempted to explain that “he was involved in a motor vehicle collision,
+that [the officer] could smell alcohol, and that he had registered a fail on
+the approved screening device.” he was attempting, not succeeding, because as
+cst. vachon was trying to explain that mr. pentland would be going back to the
+station to provide proper samples of his breath, mr. pentland was talking over
+him, trying to relay his own information. additionally, the ambulance
+attendants were providing their own information, and advising that they were
+clearing mr. pentland medically, indicating there were no injuries that would
+require a hospital attendance. these things were all happening at once. cst.
+vachon was trying to listen as well, and to be polite and respectful.
+
+cst. vachon was unshaken on this point in
+cross-examination, testifying that,
+…before i could finish all this, which was
+a time delay to get to my rights to counsel and caution, he kept talking and
+making those comments. so, by the time i was able to finish explaining to your
+client those steps that i want or those things that i wanted to tell him, with
+the comments that he was telling me, that’s the time that i was able to provide
+the rights to counsel, was at the time that i provided in my notes.
+
+cst. vachon added that he tried several times to
+ask mr. pentland to stop speaking so he could finish explaining what he needed
+to. he was cross-examined as to why this was not reflected in his notes. i do
+not find this to be the type of information that would make it into an
+officer’s notebook. i do not find the omission to be of concern.
+
+in
+r. v. lee,
+2023 oncj 251, at paras.
+52-54, a brief two-minute delay in providing the informational component of s.
+10(b) rights was justified where the officer was allowing for paramedics to see
+to the accused. in this case, i am not persuaded of a breach following a delay
+of mere minutes given (i) the officer was attempting to explain the reason for
+the detention—itself a constitutional imperative pursuant to s. 10(a) of the
+charter,
+(ii) the detainee was interrupting and talking over the officer, and (iii)
+paramedics were executing their own important duties. this ground of the
+application is dismissed.
+2.5 counsel
+of choice
+
+cst. vachon’ testified he read the accused the
+standard right to counsel language, which includes a specific direction that
+the detainee has “the right to telephone any lawyer [they] wish,” and
+information about the availability of free advice from a legal aid lawyer. mr.
+pentland responded at first by advising he did not understand. cst. vachon
+explained the right to counsel a second time, using his own words. in response,
+mr. pentland would not say whether he understood his rights to counsel but said
+he was not drinking, before ultimately providing the name of a lawyer, “labr”,
+of toronto. mr. pentland could not provide a full name or a phone number. cst.
+vachon acknowledged this request and indicated mr. pentland would be provided
+the opportunity to call the lawyer. mr. pentland was then cautioned, read the
+breath demand, and transported to the police detachment.
+
+cst. vachon testified that at the detachment
+booking area he again explained to mr. pentland his rights to counsel. mr.
+pentland advised that he had made up the name ‘labr’. he said he did not have a
+lawyer. cst. vachon then asked mr. pentland if he would like duty counsel
+called on his behalf, or if he wanted to pick a lawyer of his choice. mr.
+pentland declined to call or lawyer or to speak with duty counsel.
+
+the audio/video recording at the detachment
+which was admitted into evidence on consent confirms this exchange and offers
+greater detail:
+station officer:
+…so when i read you your right to counsel, you only gave me one
+name for your, for lawyers.
+mr. pentland:
+i do not have a lawyer.
+station officer:
+okay, so what was the first name that you gave? what? i can’t hear
+you.
+mr. pentland:
+i made it up.
+…
+mr. pentland:
+i don’t need a lawyer.
+cst. vachon:
+would you like to, would you like to speak with one? would you like to, would
+you like for us to call duty counsel for you, which is free legal advice for
+your, because it’s your right? and this is my third time telling you this. i
+told you twice in the ambulance with ems. i’m telling you again, you gave me a
+bogus name in the ambulance… that didn’t make any sense at all.... but again,
+we are here right now. it’s your right. if you want to speak to a specific
+lawyer, you have one?
+mr. pentland:
+i do not have one.
+cst. vachon:
+or ok, if you do not have one that’s fine. you can, we can try to
+find a lawyer for you. you can choose.
+mr. pentland:
+why do i need one?
+cst. vachon:
+well, because right now you’re under arrest for impaired driving by alcohol.
+when someone gets under arrest, it’s their right to speak, if they want to talk
+to a lawyer or a duty counsel. we can call duty counsel for you if you’d like.
+mr. pentland:
+i don’t know what that is.
+cst. vachon:
+a duty counsel is another. it, it’s a lawyer and they can be from wherever for
+free legal advice. so it is like another lawyer, they could be from wherever.
+so they’ll, we call, we request for a lawyer – duty counsel – and they’ll call
+us back if there’s someone available right away and you get to speak with them.
+mr. pentland:
+what’s the other option?
+cst. vachon:
+what’s that?
+mr. pentland:
+i said what’s the other option?
+cst. vachon:
+so you, you, what we’re gonna do is i’m gonna call the lawyer for, and i’m
+gonna let you talk to a lawyer. i read your right to counsel, i provided you
+with a number on there and that’s the number that we call for duty counsel.
+would you like us to call them? would you like us to call that number for you?
+it’s regulated by the ontario government. it’s a group of lawyers that are
+free. you don’t want that?
+
+a short time later, cst. joyal, the breath
+technician, takes over for cst. vachon, and tells mr. pentland the following:
+cst. joyal:
+alright. i just want to go through a couple things here before we start. did you
+want to speak to counsel at all? i just gotta re-read you the, um, other rights
+to counsel. okay? right to counsel is your right, is your right to speak to a
+lawyer, okay? i’m gonna read it to you.. okay?
+
+cst. joyal then re-read the standard right to counsel
+language, which, again, stipulates that mr. pentland can contact “any lawyer
+[he] wishes” and references the availability of duty counsel. the exchange
+continues as follows:
+cst. joyal:
+do you understand?
+mr. pentland:
+yes.
+cst. joyal:
+yes.
+mr. pentland:
+what if i don’t?
+cst. joyal:
+uh, i can explain it to you further.
+mr. pentland:
+can i call one?
+cst. joyal:
+that’s your right. how about we call you, if you don’t have a lawyer, we’ll
+call you duty counsel. and worst-case scenario, you speak to that lawyer. it is
+free. it’s for people who can’t afford a lawyer. don’t have a lawyer. it’s a
+service provided by the province.
+mr.
+pentland:
+i can afford one.
+cst.
+joyal:
+okay.
+mr.
+pentland:
+but do i wanna call one that?
+cst.
+joyal:
+that’s up to you. you’re an adult. you need to choose.
+mr.
+pentland:
+i’d rather call, call my father.
+cst. joyal:
+you, you can call a lawyer.
+mr. pentland:
+my father’s a lawyer.
+cst. joyal:
+is your father a lawyer?
+mr. pentland:
+yeah.
+cst. joyal:
+who’s your father?
+mr. pentland:
+dave (inaudible)
+cst. joyal:
+sorry?
+mr. pentland:
+dave.
+cst. joyal:
+dave who?
+mr. pentland:
+(inaudible)
+cst. joyal:
+so if you, if, if, if you’re gonna, if you’re gonna continue lying-
+mr. pentland:
+-i’m not. it’s not a lie.
+cst. joyal:
+-you’re gonna be charged. well is he a lawyer or not?
+mr. pentland:
+it doesn’t matter. i’m not calling a lawyer.
+cst. joyal:
+you’re not calling a lawyer?
+mr. pentland:
+no.
+cst. joyal:
+okay. that’s fine. okay. so you don’t wish to speak to a lawyer then? okay.
+mr. pentland:
+at this time, no.
+cst. joyal:
+at this time, no. okay, alright.
+(brief pause)
+mr. pentland:
+in the future, yes.
+cst. joyal:
+what’s
+that? sorry?
+mr. pentland:
+i said in the future, yes.
+
+these exchanges, considered in their entire
+context, including the previous discussion in the ambulance, do not give the
+impression that mr. pentland’s options were improperly limited. it may have
+been beneficial for cst. vachon to respond to mr. pentland’s question about the
+“other option” by reminding him again of the option to contact other counsel.
+it would have been open to either officer to suggest methods of considering
+other counsel, such as a local list, a phone book, or an internet search. but
+the officers were not obligated to take such steps. an accused has a duty to be
+reasonably diligent in attempting to contact counsel:
+r. v. willier,
+2010 scc 37, at para.
+33. here, mr. pentland was advised multiple times that he
+had the right to contact a lawyer of his choosing. he responded that he did not
+have a lawyer. he was told the police could try and find a lawyer for him. mr.
+pentland did not pursue that suggestion. he was clearly advised many times
+about the availability of duty counsel, but he did not accept that offer. he
+was reminded of the various options when cst. joyal re-read the standard right
+to counsel language.
+
+i further reject the notion that mr. pentland
+sought to contact his father as a conduit to obtaining the name of a lawyer.
+had mr. pentland communicated he wished to contact his father for this purpose,
+this may have triggered a further obligation on the police: see
+r. v.
+pileggi,
+2021 onca 4. but the evidence shows mr. pentland initially told
+police his father was a lawyer. on being pressed, he obfuscated, before telling
+police that it did not matter because he was “not calling a lawyer.” this
+exchange placed no obligation on police to continue to make inquiries of mr.
+pentland to implement his s. 10(b) right.
+
+i am satisfied that mr. pentland understood his
+proper options. he clearly knew he could choose a lawyer. he was not steered
+inappropriately or given a false impression of his choices. he had given the
+false name of one lawyer, and had offered up another, a family member, which he
+retreated from when pressed on whether that person was a lawyer. he firmly
+conveyed that he did not wish to call a lawyer at that time. i reject this
+ground of mr. pentland’s
+charter
+application.
+2.6
+charter
+remedy
+
+having found no
+charter
+breach, there is
+no need to consider remedy.
+2.7 identity
+and proof of care and control
+
+as an essential element of both offences, the
+crown must prove beyond a reasonable doubt that mr. pentland was in care and
+control of a motor vehicle. practically speaking, the crown must prove mr.
+pentland was the driver of the crashed vehicle (the “mvc driver”). to meet this
+onus the crown must rely on the cumulative effect of evidence that begins with
+mr. cuff and continues through to the arresting and assisting officers.
+
+once mr. cuff witnessed the accident, he drove
+about 20 feet further, saw a turnaround point, turned his vehicle around, and
+drove to the crash site as quickly as possible, where he pulled over, put his
+four-way lights on, and ran over to the other vehicle. he estimated this all
+took place within approximately 30-45 seconds of the accident. the crashed
+vehicle was in a ditch past the driveway it had hit. it was upright on its
+passenger side. the mvc driver was crawling out of the vehicle. the mvc driver
+was the only person in the vehicle. mr. cuff’s physical descriptions of the mvc
+driver were limited to him being a “shorter man, kind of bald up top.” neither
+of these quite generic descriptors is particularly helpful to the crown, but
+each is consistent with mr. pentland’s appearance.
+
+a dog was present in the vehicle. mr. cuff
+testified that the mvc driver seemed more concerned about his car and his dog
+than himself. the individual proclaimed his connection to the vehicle when he
+said “my car is fucked.” mr. cuff and the mvc driver had the dog on a leash,
+petting him, making sure he was okay as well. mr. cuff did not notice any
+injury, blood, or bruising on the mvc driver. he did not smell an odour of
+alcohol. he did describe that the mvc driver was slurring his words a little
+bit, though surmised that could have been from the shock.
+
+mr. cuff was highly credible. he was quick to
+say when he did not remember and was not sure. he was thoughtful. he made
+concessions that could tend to benefit the defence, such as offering up an
+alternate explanation for the mvc driver’s slurred speech. his description of
+the scene of the accident was largely, with one exception to be addressed,
+consistent with that of cst. vachon. i accept mr. cuff’s evidence as a
+generally accurate, if incomplete account of the motor vehicle accident and
+events at the roadside. i infer from that account that the individual mr. cuff
+observed climbing out of the vehicle was the lone human occupant and was the
+driver. there was no time for a second individual to exit the vehicle and
+disappear from the scene before mr. cuff arrived. this hardly requires
+corroboration but is nonetheless strengthened by the fact that the mvc driver
+refers to the crashed vehicle as his car, and expresses only concern for the
+canine occupant, rather than another person. there simply was no other person.
+
+cst. vachon’s and cst dokis’s evidence confirms
+that the man mr. cuff interacted with at the roadside was the very same man
+they interacted with in the ambulance and police detachment, and ultimately the
+very same mr. pentland in court.
+
+when cst. vachon arrived on scene, he noted a
+black acura suv on its side. his evidence was that the vehicle was standing
+upright on the driver’s side as opposed to the passenger side. this is the
+difference in evidence i alluded to previously. as cst. vachon never approached
+the vehicle to examine it closely, i prefer and accept mr. cuff’s evidence on
+this point, though ultimately, the specific positioning of the vehicle is not a
+material fact. cst. vachon noted tire tracks on the gravel shoulder leading
+into the ditch and driveway culvert. cst. vachon spoke to one ambulance
+attendant, then entered an ambulance. inside was a second ambulance attendant,
+and another person who was seated on a bench being medically assessed. cst.
+vachon asked that other person for his identification and name. that person
+identified himself as michael pentland. cst. vachon later confirmed the
+information he received by conducting a ministry of transportation query at the
+police detachment which included a photograph. cst. vachon went on to arrest
+that same person, who also appears on the in-car video which was made a trial
+exhibit. cst. vachon recognized that individual as the accused in court, mr.
+pentland. i draw the same conclusion in comparing the two.
+
+cst. dokis testified that he arrived on scene at
+the same time as cst. vachon. he approached a civilian witness who was holding
+a german shepherd. i cannot rely on the hearsay utterances made to cst. dokis
+that the dog belonged to the driver, who was in the ambulance. based on the
+admissible evidence, however, the only reasonable inference is that individual
+in the ambulance was indeed the driver who had the dog. this was a single
+vehicle motor collision. there was one human occupant of the vehicle, and one
+canine occupant. no person at the scene claimed ownership of the dog. no other
+person but the individual in the ambulance would have been rendered
+unavailable. cst. dokis testified that the civilian he spoke with, who had
+taken temporary responsibility for the dog, was a municipal worker. this
+corresponds strongly with mr. cuff’s evidence that he was in a work truck with
+a colleague traveling between two sites: an arena and a cemetery, and that he
+assisted with the dog. cst. dokis ultimately had to take steps to contact a
+third party come and collect the dog. the only reasonable explanation for these
+events is that the dog’s guardian was otherwise occupied, in the ambulance.
+2.8 
+impairment
+
+the element of impairment is made out where the
+evidence establishes, beyond a reasonable doubt, any degree of impairment by
+alcohol:
+r. v. stellato,
+1994 canlii 94 (scc), s.c.j. no. 51. the following evidence,
+which i accept, bears on the issue:
+•
+mr. cuff described mr. pentland’s vehicle following
+closely—maybe five or ten feet away—before hearing a loud bang, then seeing in
+his rear-view mirror the car flying in the air. before the accident, both
+vehicles were traveling about 100 km per hour. the speed limit was 80 km per
+hour. mr. cuff reasonably deduced that the vehicle had hit a driveway and was
+forced upward. the driveway was built across a ditch. mr. cuff also described a
+curve in the road at that point and indicated that the mvc driver simply did
+not turn. the weather was clear. the road was in good, dry condition. there
+were no traffic signals or signs in the immediate vicinity of the accident. a
+strong inference is available that mr. pentland did not notice the curvature of
+the road or did not react to it.
+•
+according to mr. cuff, despite the car appearing
+very badly damaged, while waiting for emergency services to arrive, the mvc
+driver kept saying “let’s just flip the car over, i’m going to drive it out.”
+any reasonable observer of sober mind would see the absurdity of such a suggestion,
+given the damage to and resting position of the vehicle. that mr. pentland made
+such a suggestion is evidence his thinking was impaired.
+•
+mr. pentland had an odour of alcohol on his
+breath in the ambulance following the collision. the odour of alcohol was also
+observed at the police station by cst. joyal. odour speaks to the consumption
+of alcohol, though not directly to the level of impairment, if any.
+•
+mr. pentland had red, glossy eyes, and slurred
+speech in the ambulance. cst. vachon’s observations of slurred speech are
+corroborated by mr. cuff’s evidence.
+•
+mr. pentland had a bac of 230 mg of alcohol in
+100 ml of blood. absent expert toxicological evidence, i can draw no direct
+inference from that as to the level, if any, of impairment. but it remains
+some evidence that, prior to the testing, mr. pentland consumed alcohol:
+r.
+v. dinelle,
+ nsj no. 246 (c.a.);
+r. v. tusiuk,
+ o.j. no.
+802 (s.c.), at para. 4. the evidence further permits no reasonable inference
+that mr. pentland consumed alcohol after driving but before testing.
+
+while i did hear evidence from cst. vachon with
+respect to mr. pentland stumbling after he left the ambulance, cst. dokis, who
+was also present, made no such observation. mr. pentland was also under the
+physical control of police at that time. i place no weight on this particular
+evidence.
+
+there may be alternate inferences, unrelated to
+alcohol impairment, available with respect to several of these indicia. for
+example, mr. pentland’s vehicle missing the turn in the road is something that
+might, in isolation, be explained by distraction. certain observations, such as
+slurred speech, could perhaps be attributable, in isolation, to a head injury
+during the accident and airbag deployment. but, as in any criminal trial, i am
+not to assess the evidence in a piecemeal fashion. the criminal standard of
+proof beyond a reasonable doubt applies to the evidence as a whole, and not to
+individual items of evidence. examining the totality of the evidence in this
+case, there is only one reasonable conclusion: mr. pentland consumed alcohol to
+a degree which impaired his ability to operate a motor vehicle, and which
+resulted in his failing to notice or failing to react to the curvature in the
+road, leading to the accident.
+iii.
+conclusion
+
+the crown has proven the essential elements of
+both offences beyond a reasonable doubt. mr. pentland is found guilty on both
+counts.
+released: june 4, 2025
+signed:
+justice g. jenner
+
+the argument was framed using the language of “as soon as practicable,” but i
+will employ the appropriate terms.

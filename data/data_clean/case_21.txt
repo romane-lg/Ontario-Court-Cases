@@ -1,0 +1,701 @@
+source url: https://www.canlii.org/en/on/oncj/doc/2025/2025oncj698/2025oncj698.html
+
+citation:
+r. v. culp, 2025 oncj 698
+date:
+ december 15, 2025
+ontario
+ court of justice
+between:
+her majesty the queen
+— and —
+shane culp
+before
+justice fergus odonnell
+reasons for judgment released on 15 december, 2025
+michael
+lucifora.................................................................................................... 
+for the crown
+mark
+evans................................................................................. 
+for the defendant, shane culp
+fergus
+odonnell j.:
+overview
+1.
+most people go
+through life without ever being investigated for impaired driving. some
+get investigated once in their lives. an even smaller number get
+investigated for impaired driving twice. it is exceedingly rare, however,
+for a person to be investigated for impaired driving twice in the same
+day. shane culp is one of that exceedingly small number of people. 
+he was investigated by the police twice in the same evening, in very similar
+circumstances, about three hours and twenty kilometres apart. on the
+first occasion the two responding officers sent mr. culp on his way, much
+to the consternation of the citizen who called them. the responding
+officer on the second occasion, however, arrested mr. culp for operating or
+having care and control of his car while allegedly being impaired by a drug, a
+charge that mr. culp contested over a two-day trial.
+2.
+the facts are
+fairly straightforward, being unusual mostly in their slightly
+deja-vu
+character. it is mid-october, 2023. victoria cardill's neighbour in
+niagara falls alerts her to a man in a parked car and ms. cardill accompanies
+her neighbour and sees mr. culp slumped over in the driver's seat of his car,
+with the engine running and the interior light on. he is holding a
+lighter in one hand and some tin foil with something crystalline on it in the
+other.
+
+there are other pieces of tin foil on the passenger seat. ms. cardill
+calls 911, not knowing if mr. culp is alive or dead. after a while two
+police officers attend and speak with mr. culp and ms. cardill shows them
+videos of what she had seen when she first approached mr. culp's car. 
+the officers said there was no reason to hold mr. culp and ms. cardill berated
+them, asking what if it was their child that mr. culp killed on the road. 
+this tongue-lashing apparently did not cause the officers to reconsider their
+appraisal of mr. culp's driving condition. ms. cardill provided her video
+and photo of mr. culp in his car to the police after being told the next day
+that mr. culp had been arrested by another officer in stevensville later that
+night.
+3.
+neither the
+crown nor the defence called either of the two responding niagara falls
+officers at the trial.
+4.
+perhaps an hour
+later and about twenty kilometres away, lorelai laverne is rounding out her
+evening shift at tim horton's in stevensville when she sees mr. culp's car
+parked across the street in a plaza whose businesses are all closed at
+that hour. when she finishes work two hours after that first observation,
+she rides past the car and sees mr. culp inside, his head bobbing up and
+down. she thinks he is drunk or high, more likely the latter. 
+ she rides to grandma's house nearby and returns with grandma, donna
+burton, who also testified, whereupon they call the police. she is worried about the
+driver's and other people's safety.
+5.
+constable kayla
+bays responds to the stevensville 911 call; she also has access to the details
+of the police response in niagara falls earlier that evening. her trial
+testimony demonstrates her to be a capable, clear and balanced
+witness. she finds mr. culp in the driver's seat of his
+car, "not awake",
+
+with his head slouched down. on his lap she sees tin foil with burn marks and a
+glass pipe, also with burn marks. the engine is running. mr. culp is
+non-responsive, but wakes up, seemingly startled, when constable bays opens the
+driver's door. she sees him put the tin foil and pipe on the passenger
+seat. he is unable to find his driver's licence, although it was also on
+the passenger seat, but there are a lot of things on that seat. he
+is very nervous, speaking quickly and stuttering. he turns off the car as
+directed and is very cooperative. constable bays arrests him for
+drug-impaired driving. she finds only drug paraphernalia (there is no
+realistic dispute about its nature) in his car, not any non-prescription
+controlled substances. in her cruiser mr. culp starts to blurt out comments
+about how any drug paraphernalia or drugs in the car are not his and about the
+many travails he has been enduring in his personal life. in her
+communications with mr. culp, constable bays says he seems to understand what
+she is saying and that his responses make sense.
+6.
+at the station
+constable bays describes everything she has observed to the drug recognition
+expert ("dre"), constable frank chadwick before handing mr. culp over
+to him for examination.
+7.
+constable
+chadwick is both a breath technician and a dre. he obtained his dre
+qualifications about sixteen months before these events, including training in
+canada and the united states. in performing his duties as a dre he is
+guided by that specialized training and by a script of factors to test for and
+assess before coming to a conclusion about whether or not a test subject is
+impaired by a drug and, if so, what drug or drugs he believes to underlie that
+impairment. if a dre makes a finding of impairment by drug, he or she can
+then require a urine sample which is then sent for laboratory analysis to
+determine the presence of particular drugs in the subject's urine. the
+dre could also require a blood sample, a more powerful evidentiary tool than
+urinalysis, but that was not done here.
+8.
+in his
+testimony constable chadwick first went through the various steps involved in
+dre examinations, explaining the relevance of each test in general terms. 
+he thereafter went through mr. culp's particular results on each step, explaining
+the possible significance of various results within the context of indicators
+of use of various drug types, what are deemed to be "normal" ranges
+for people (e.g. a range of blood pressures or pulses or measured time
+estimates) and some external factors that might affect the outcomes on some of
+the stages. he stressed on a couple of occasions that no individual
+marker was determinative and that his conclusion was based on a consideration
+of all of the results, negative and positive (my words, not his) taken
+cumulatively as run through his dre "matrix" (his word).
+9.
+constable
+chadwick testified in a thorough and detailed way, clearly familiar with
+and comfortable with the subject matter of his expertise. constable
+chadwick concluded that mr. culp was impaired by a central nervous system
+stimulant, which would include cocaine and amphetamines,
+and
+by a narcotic analgesic, which would
+include fentanyl, methadone and suboxone. a urine sample was taken from
+mr. culp in light of constable chadwick's conclusion and the lab report was
+entered in evidence; drugs from the two categories identified by constable
+chadwick were indeed identified in the urinalysis from the lab, along with
+various prescription drugs. as a matter of science, the report makes
+it clear that the presence of a drug in a urine sample demonstrates only prior
+drug use or exposure and that drugs present only in urine in no way impair a
+person's ability to operate a motor vehicle, nor do they prove the presence of
+those drugs in a person's blood at the time of the sample.
+10.
+a blood sample, along with
+very brief scientific evidence, would provide more robust evidence of what, if
+any, drugs were actually active in mr. culp's system. as noted, there was
+no blood sample taken in this case. it is, of course, a decision for the
+police to make about whether or not to seek a blood sample. resource
+issues may play into that decision. if the case can be proved beyond a
+reasonable doubt with only a urinalysis, so be it. if the case falls
+short as a result of the absence of a blood sample and supporting expert
+evidence, that is an outcome that the state must live with in light of the
+investigative choices made.
+11.
+with respect to the dre
+examination, constable chadwick testified that it was recorded, but no video of
+the dre examination was presented in court. here again, those are choices
+outside the court's control. how the parties present their case is their
+business, but those choices may affect the strength of either the crown or
+defence case depending on the circumstances. generally speaking, however,
+the old adage that "a picture is worth a thousand words" is magnified
+a thousandfold when it comes to video evidence: a witness's verbal description
+of an event, hampered by normal human frailties such as limits on observation,
+retention, recounting and objectivity
+
+pales vastly compared with the harshly objective camera lens and its ability to
+see all, capture all and recite all unbound by those human limitations. 
+universally speaking, the onus is on the crown to prove its case beyond a
+reasonable doubt, whereas the defence almost never bears any onus (other than
+perhaps to rebut a legal presumption that runs contrary to the defendant's
+interests).
+12.
+the following provisions
+of
+s. 320.31
+of the
+criminal code
+are relevant to constable chadwick's
+evidence:
+(5)
+an
+evaluating officer’s opinion relating to the impairment, by a type of drug that
+they identified....of a person’s ability to operate a conveyance is admissible
+in evidence without qualifying the evaluating officer as an expert.
+(6)
+if the
+analysis of a sample provided under subsection 320.28(4) demonstrates that the
+person has a drug in their body that is of a type that the evaluating officer
+has identified as impairing the person’s ability to operate a conveyance, that
+drug.....is presumed, in the absence of evidence to the contrary, to be the
+drug.... that was present in the person’s body at the time when the person
+operated the conveyance and, on proof of the person’s impairment, to have been
+the cause of that impairment.
+13.
+thus:
+(a). the crown is not
+required to prove constable chadwick's expertise; his expertise is established
+by the
+criminal code
+and
+by his designation as a drug recognition expert accredited by the international
+association of chiefs of police (the criterion for an "evaluating
+officer" established in the regulations under the
+criminal code.
+)
+(b). if a blood or urine
+sample shows the presence of a drug or drugs matching those identified by the
+dre as a result of his physical testing of mr. culp, the court is required to
+accept that that drug or those drugs were also present at the time of the
+alleged offence (since the dre testing and urine or blood samples may be some
+hours apart from the time of driving). also, if the court determines that
+mr. culp's ability to operate the conveyance was impaired to any extent, the
+drug(s) identified are presumed to have been the cause of that impairment.
+(c) the two presumptions
+established above can be overcome by "evidence to the contrary", for
+example evidence that creates reasonable doubt about the validity of the
+presumption.
+14.
+given constable chadwick's
+opinion and the urinalysis which showed the presence of drugs of the classes he
+identified in mr. culp's urine and as a result of s. 320.31(6) there is thus a
+rebuttable presumption that those drugs were in mr. culp's body at the time he
+had care and control of the car in stevensville (i.e. that his state of
+impairment was the same at the time of arrest as it was at the time of evaluation)
+and, if he is proved to have been impaired in relation to operating a
+conveyance, that those drugs were the cause of the impairment.
+15.
+mr. culp testified. 
+the first question he was asked was whether he was nervous and he said he
+was. my very strong impression from watching mr. culp through the whole
+of the trial was that he is a person who spends a lot of his life being
+nervous. indeed, he testified to suffering from an anxiety disorder as
+well as borderline personality disorder, attention deficit disorder and
+depression. constable bays’s evidence also supports mr. culp’s evidence
+about being anxious. mr. culp is 37 years old. he testified that he was
+born with one leg shorter than the other, which causes him problems with
+balance and which specifically affected his ability to perform the heel-to-toe
+test and the one-leg balance test. he says he has trouble walking
+straight at the best of times. at five feet and three inches tall, mr. culp
+weighs two-hundred-and-fifty pounds. his physical ailments include high
+blood pressure.
+16.
+mr. culp has also been a
+user of non-prescription controlled substances, starting around 2017. he
+began with morphine and has used fentanyl and cocaine (the latter two of which
+were in his urinalysis), but not methamphetamine (which was also one of the
+substances in his urinalysis).
+
+he testified that as of the time of the trial the only controlled substance he
+was on was methadone (also in the urinalysis), which he had been on for about
+six years in order to control his addiction. he testified that he is
+allowed "full carries", which means he only has to visit the
+methadone clinic once a week, whereupon he is allowed to leave with his
+methadone for self-administration for the next six days. he said that he
+is subject to urinalysis every two weeks and that failing a test would
+disqualify him from his full carries and require him to attend daily for his
+methadone. he testified that he had had clean urine tests for almost two
+years, which would have taken him back to around the time of the alleged
+offence (nineteen-and-a-half months before the trial). he said that with
+the help of the methadone he has his drug issue under control. he said
+that his arrest scared him straight and that he no longer associates with the
+people he had been associating with the weekend of his arrest.
+17.
+mr. culp said that when he
+was stopped by the police he was on his way home to ridgeway on a sunday night
+after spending saturday and sunday at a friend's birthday celebration in
+niagara falls, where he and some now-former friends hung out and
+"chilled." he said that he didn't sleep much at all
+because he was sleeping on the couch and people were arguing during the night. 
+he said that around midday on saturday he had taken some fentanyl and some cocaine. 
+he was unaware that either of those was adulterated with any of the other
+street drugs in his urinalysis. he didn't take any other drugs after
+about five o'clock on saturday afternoon because he ran out. he had last
+taken his prescribed methadone when he left his home on saturday morning.
+18.
+mr. culp testified that he
+pulled over only a few blocks after leaving his friend's house in niagara falls
+because he was too tired and wanted to sleep. this would have been in
+front of ms. cardill’s home. he was awakened by the first police
+officers. he testified that he had not used any drugs in the car because
+he didn't have any but admitted the presence of the foil, lighter and so
+on. he said that the officers searched his car and let him go. he
+then proceeded on his way home but stopped again about twenty minutes later
+because he was tired and didn't feel it was safe to continue the last ten or
+fifteen minutes to his house. he said that he was awakened again, this
+time by constable bays who he said rushed him and didn't really allow him time
+to find his documents. at the station he described his anxiety as a 10/10
+and said he was shaking and fidgeting. he attributed his failure to tell
+constable chadwick about his balance and other issues to his nervousness:
+ "i was a mess."
+19.
+when cross-examined about
+why he had a lighter in one hand and tin foil in the other when he was passed
+out in niagara falls, mr. culp said he had just picked up the foil and that he
+might have been planning on smoking a cigarette. to be charitable to a
+witness i consider to have been mostly reliable, this was not the most
+convincing part of his evidence; even he agreed that most people wouldn't
+believe it and would think he had just smoked drugs. his testimony that
+he was surprised that there was any methamphetamine in his system, that he had
+lent his car to another person at the party on saturday and that another piece
+of foil and crack pipes in the car were not his was more convincing. 
+within the context of the supreme court of canada decision in
+r. v. w. (d.),
+that testimony at a minimum
+creates doubt about the relevance of some pieces of evidence to mr. culp’s
+guilt.
+20.
+in cases of this nature,
+the key questions a court has to address are whether or not the crown has
+proved beyond a reasonable doubt that:
+(a)
+mr. culp was
+operating or had care and control of a conveyance. mr. evans made no
+contest about this issue, reasonably so.
+(b)
+mr. culp's
+ability to operate that conveyance was impaired at least to some extent.
+(c)
+that impairment
+was caused by alcohol or a drug.
+21.
+those determinations have
+to be made on all of the evidence. the crown has the benefit of certain
+"helping hands" in making its case, including, for example, the
+statutory recognition of the dre officers as experts and the rebuttable
+presumption that if the dre's drug identifications are consistent with the
+urinalysis results, then those drugs are proved to have been in the defendant's
+body at the time of driving and, if he was impaired, to have been the cause of
+the impairment. it goes without saying that a rebuttable presumption is
+not necessarily determinative of the outcome of the trial, nor is the dre's
+status as a statutorily recognized expert. as in any trial, the ultimate
+question is whether or not the crown has proved its case beyond a reasonable
+doubt, taking into account the quality of the crown's evidence and the impact
+of any defence evidence.
+22.
+the defendant, mr. culp,
+has the benefit of certain helping hands in this case also. these include
+the presumption of innocence, the burden of proof on the crown to prove its
+case in a criminal prosecution and the crown's burden being to prove its case
+beyond a reasonable doubt, a very high standard. having testified, mr.
+culp's evidence must also be assessed as described by the supreme court of
+canada in
+r. v. w.(d.),
+1991 canlii 93 (scc).
+23.
+in
+r. v. bingley,
+2017 scc 12, the supreme court of
+canada made the following observations about the roles of different players in
+drug-impaired driving cases:
+ 
+ the statutory framework does not undermine a trial judge’s
+important role as gatekeeper to safeguard the trial process and ensure that it
+is not distorted by improper expert opinion evidence. the trial judge always maintains
+residual discretion to exclude evidence if its probative value is outweighed by
+its prejudicial effect. limitations, such as the absence of a standardized
+approach to weighing the various tests in reaching a determination, may affect
+the probative value of a dre’s opinion evidence. a dre may be unable to explain
+how he or she made the determination based on the application of the 12-step
+evaluation. if the probative value of an individual dre’s evidence is so
+diminished that the benefits in admitting the evidence are outweighed by the
+potential harm to the trial process, a trial judge retains the discretion to
+exclude that evidence. i reiterate here that the focus of the analysis must be
+on the dre’s administration of the evaluation, not on the reliability of the
+steps underlying the evaluation, which have been prescribed by
+parliament.
+
+it is also important to note that the determination
+of the dre is not conclusive of the ultimate question of whether the accused
+was driving while impaired by a drug. the dre’s task is to determine whether
+the evaluation indicates drug impairment. the dre’s evidence does not presume
+the ultimate issue of guilt; it is merely one piece of the picture for the
+judge or jury to consider.
+
+that parliament has established the reliability of the
+12-step drug evaluation by statute does not hinder the trier of fact’s ability
+to critically assess a dre’s conclusion of impairment or an accused person’s
+right to test that evidence. cross-examination of the dre may undermine his or
+her conclusion. evidence of bias may raise doubt about the officer’s
+conclusion. the officer may fail to conduct the drug recognition evaluation in
+accordance with his or her training.
+a
+dre may draw questionable inferences from his or her observations.
+bodily sample evidence obtained
+under s. 254(3.4) may refute the dre’s assessment, as may evidence of
+bystanders or other experts. it will always be for the trier of fact to
+determine what weight to give a dre’s opinion. any weight given to a dre’s
+evidence will necessarily respect the scope of the dre’s expertise and the fact
+that it is not conclusive of impairment.
+(emphasis added)
+(obviously, the comments above are subject to
+the post-
+bingley
+statutory changes, such as the presumption that is
+now found in
+s. 320.31(6)
+of the
+criminal
+code
+).
+24.
+mr. evans suggested that
+mr. culp should be found not guilty because, to mr. evans's recollection
+constable chadwick referred in his conclusion only to mr. culp being
+"impaired" and not to "his ability
+to drive
+being impaired". mr. evans
+may be correct that constable chadwick did not use that precise incantation in
+his final statement of opinion in the stand (my notes show that he did not use
+the word "drive" or something similar), but he did say earlier, right
+after outlining the process, that the entire purpose of his examination was,
+"to determine if his ability to operate a conveyance was impaired by a
+drug or alcohol". i have no doubt that constable chadwick's
+conclusion related specifically to mr. culp's ability to drive.
+25.
+the crown opened his
+submissions with an admonition
+
+that in determining the outcome of the case the court should consider that
+constable chadwick was "right" because in his dre examination he
+properly identified two classes of substance that were later identified in mr.
+culp's urinalysis. i, "need to keep that in mind in considering his
+evidence," he said.
+26.
+i am forced to demur on
+the relevance or at least the force of that conclusion.
+to the extent
+that it applies, i am obviously bound by the presumption set out in the
+criminal code, but i am also
+bound to remember that it is a rebuttable presumption and by the simple reality
+that the dre is not the trier of fact, the court is.
+
+presumptions can be rebutted in a variety of ways, including from weaknesses in
+the evidence of the party relying on the presumption or in contradictions or
+strengths from other evidence. with respect to constable chadwick
+"getting it right", there is one glaring counterpoint (as well as
+more issues below): the classes of drugs identified by constable chadwick
+happened to coincide perfectly with the paraphernalia observed by constable
+bays in mr. culp's car. while the drug recognition framework is set out
+by parliament and by regulation, it remains that the framework is only one
+piece of evidence and that it must be measured like any other piece of evidence
+(albeit with a rebuttable presumption, where triggered) in terms of any
+weaknesses or counterpoints (indeed weaknesses and counterpoints may on the
+facts of a given case be what rebuts the presumption). if this were a
+case in which constable chadwick had not been given any helping hand with his
+analysis based on items found in mr. culp's vicinity, then the crown's
+submission would have greater force, but the inclusion of those factors within
+his determination does force one to be alive to the issue of
+potential pre-judgment based on criteria arguably outside those
+established in the regulations. it is obviously parliament's prerogative
+to establish the dre scheme (and regulations) to combat a real and present
+danger to users of the roads, but the determination of any given prosecution
+will necessarily involve consideration of any weaknesses in the evidence,
+including any features in the legislative formula that could undermine
+reliability of the dre's conclusions in some cases.
+(i also note that when challenged in
+cross-examination with an alternate explanation for mr. culp's test results,
+constable chadwick's response was that he was right because mr. culp was in a
+car with a crack pipe and the drugs he identified matched the urinalysis
+results.
+ex post facto
+“confirmation”, especially
+ex post facto
+confirmation only of the presence of some undefined amount of various
+substances in the defendant’s body at some undefined point in the past, which
+is what the urinalysis results are limited to, is far from the sturdiest of
+backstops).
+27.
+i also disagree with the
+crown's position that mr. culp admitted his driving was affected by his
+sleepiness.
+
+it is true that he admitted he stopped driving on two occasions because he felt
+it was imprudent to carry on because of sleep (not drugs), but he also
+testified that he had not fallen asleep at the wheel and felt it would be more
+responsible to park because he was losing focus. that thought process,
+which i accept as true, is a sign of rational decision-making, not impaired
+judgment. there is, in this case, absolutely no evidence of unsafe or
+erratic driving. to the contrary, there is evidence of mr. culp pulling
+over, even despite being close to his home, parking safely and sleeping for up
+to two hours before being roused, all of which could be taken as evidence of prudence
+rather than impairment.
+28.
+obviously, the greatest
+weakness in mr. culp's testimony is the image of him holding a lighter and tin
+foil when he parked the car in niagara falls. i agree with the crown that
+that piece of his evidence does not make much sense. it is, by far, the
+most challenging part of mr. culp's evidence, so much so that even mr. culp
+recognizes that to be so, a recognition he offered with no
+resistance. at the same time, the evidence establishes to my satisfaction
+that the first two police officers (in niagara falls) interacted with mr. culp,
+searched him and told him to drive home (despite being berated by ms. cardill
+for endangering the public by doing so), hours before constable bays arrested
+him. i am not satisfied that constable bays's evidence about his
+difficulty getting his driver's licence is more reliable than mr. culp's
+evidence that she allowed him no time to get it before arresting him. if
+he ingested anything in niagara falls, there is no strong evidence of what it
+was, what effect it would have had on his ability to drive or how long those
+effects would have lasted (a blood sample might well have determined those
+issues one way or the other). there is no evidence of ingestion in
+stevensville. there is no suggestion that alcohol was involved at any
+point.
+29.
+realistically, what we
+have in this case is ms. cardill's observations in niagara falls, the
+observations of the civilian witnesses and constable bays in stevensville and
+constable chadwick's analysis, plus mr. culp's own evidence.
+30.
+i accept mr. culp's
+evidence about his physical and emotional health issues and, at a minimum i am
+left with a reasonable doubt about his actual ingestion of controlled
+substances at any time after around 5 p.m. on saturday (the arrest having taken
+place about thirty hours later). i accept that he failed to notify constable
+chadwick about some of those health issues that would have been relevant to the
+administration or analysis of the dre examination, but i do not doubt the
+existence of those issues as described by mr. culp and i accept his anxiousness
+as the reason he failed to mention them. some of his various issues seem
+plausible or probable simply upon his physical presentation (e.g. the anxiety,
+balance issues) and some of them are consistent with the crown's own
+scientist's urinalysis notes (e.g. medications for depression and high blood
+pressure).
+31.
+the crown's dre evidence suffers
+from the following weaknesses:
+(a)
+i have only
+constable chadwick's description of events rather than the video evidence of
+the examination. as noted earlier, this is a poor substitute for the
+video, not because of any weakness inherent in constable chadwick but because
+the video will almost always provide a more complete, more nuanced and more
+reliable record. i do not propose to get into a detailed discussion of
+the ambit of the "best evidence" rule, but commend the comments of
+the alberta court of appeal some thirty years ago (albeit in a very different
+context) at paragraphs 6 and 7 of
+r. v. after dark enterprises ltd.,
+1994 abca 360, wherein the general
+benefits of video evidence over fallible human descriptions of events are
+noted. this is not to say that i think constable chadwick was making
+things up, only that better evidence was available and not presented so i
+cannot be as confident as i might be about the details, for example, of the
+physical coordination tests.
+(b)
+constable
+chadwick was self-contradictory about the relevance of a test subject's
+personal details for his testing. at one point in cross-examination, he
+specifically said that age, height, body shape, etc. had no relevance to the
+testing (and presumably the conclusions). when asked if mr. culp's body
+shape ("carrying an extra sixty or seventy pounds" in mr. evans's
+words, which is consistent with mr. culp's own evidence) would not create more
+difficulty with the coordination tests, constable chadwick answered, "i'm
+not a doctor. i can't say." quite apart from those dismissive
+answers being patently absurd on the facts of this case, in re-examination
+constable chadwick said that he would take into account if a person needed extra
+accommodation for age or fitness, adding, "i'm not going to expect a
+one-leg stand to go well for a ninety-year-old". the inconsistency
+in his responses seemed to align with whether he was being examined by
+defence or crown counsel.
+(c)
+as with other
+legal concepts such as reasonable grounds, the dre conclusion is supposed to be
+a totality of the circumstances process, where individual results are not
+determinative. that being said, when there are weaknesses or real
+ambiguities in multiple factors, the ultimate conclusion necessarily becomes increasingly
+frail. i am not confident that constable chadwick truly recognized that
+reality and meaningfully applied it in his analysis and conclusion. for
+example, mr. culp was one second out of the "normal" range in his
+estimate of how long thirty seconds was. obviously it was outside
+"normal", but only by the smallest of measures, and mr. culp
+explained that he got to that point by counting it out-individual results may
+vary. mr culp's failure of the one-leg balance test including his tremors
+at that time strike me as having zero reliability as a consideration in the
+circumstances of this case; i would suspect that the likelihood of someone with
+his body composition passing the one-leg balance test is approximately
+nil. i accept mr. culp's evidence about his legs being unequal since
+birth, which undermines any reliance on loss of balance. as set out herein
+there were sufficient of the criteria being assessed by constable chadwick that
+suffered from such frailties for his ultimate conclusion to become
+unsupportable. it is not so much a situation of “nothing plus nothing makes
+nothing” as “not much plus not much plus maybe plus perhaps does not equal
+proof beyond a reasonable doubt.”
+(d)
+it also seemed
+that whenever there was a result that appeared neutral or innocent, constable
+chadwick was a bit too ready to reject any innocent explanation. for
+example, mr. culp's muscle tone was normal. some drugs would cause
+rigidity he said, some drugs would cause muscles to be flaccid, but he went on
+to explain that antagonistic drugs might even out for normal muscle tone. 
+he chose to go with the antagonistic explanation rather than another
+explanation, the rejection of which he did not explain, i.e. that, the absence
+of
+any
+drugs could lead to normal muscle tone just as readily as the
+presence of multiple antagonistic drugs. any weight to be given to a
+factor like that seems dubious when it is so ambiguous. the same was done
+with mr. culp's pulse and pupil size, which were normal.
+(e)
+mr. culp's
+vital signs were generally fine, other than his blood pressure, for which he
+was taking medication.
+(f)
+mr. culp's
+drowsiness could have been the effect of a narcotic analgesic as constable
+chadwick opined or it could have been the effect of someone who had slept very
+poorly as mr. culp testified.
+32.
+having considered all of
+the evidence, i accept the bulk of mr. culp's evidence as being truthful,
+although i have concerns about what exactly he was doing before he passed out
+or fell asleep in his car in niagara falls with the lighter and tin foil in his
+hands. in particular, leaving that aside i accept his evidence about his
+drug consumption otherwise ending late in the afternoon of saturday, a version
+that is implicitly bolstered by the fact that when the police officers in
+niagara falls interacted with him they took no steps to stop him from driving,
+even in the face of condemnation from the redoubtable ms. cardill.
+33.
+i have no reason to doubt
+the honesty or for that matter the reliability of any of the crown's factual
+witnesses, but as noted i have precious little reason to doubt mr. culp's
+honesty or reliability, subject to my concerns about what ms. cardill saw in his
+hands in niagara falls. more than that, i accept much of what he said as
+true. the simple reality is that the crown's case here leans very, very heavily
+on constable chadwick's opinion evidence and given the concerns i have raised
+that evidence is simply not convincing enough.
+34.
+in the result, having
+considered all of the evidence and argument:
+(a). i am not
+satisfied that the crown has proved beyond a reasonable doubt that mr. culp's
+ability to operate a conveyance was impaired that day.
+(b). even if his
+ability to operate a conveyance was impaired in any way by some influence, the
+evidence does not establish that that influence was alcohol, a drug or a
+combination thereof.
+(c). to the extent
+that the presumption in
+s. 320.31(6)
+of the
+criminal
+code
+might have been triggered, that presumption has clearly been
+overcome by the weaknesses in constable chadwick's evidence and the strengths
+in mr. culp's.
+it is for these reasons that i have found
+mr. culp not guilty
+released:
+15 december, 2025
+
+there was no analysis of any of the
+items or residue on them that were observed in mr. culp’s car during either of
+his police interactions that evening, although judicial notice can certainly be
+taken of the fact that the foil, lighter, glass pipes, etc. are consistent with
+the inhalation by someone at some prior time of controlled substances. in
+particular, whether the crystalline substance on the foil during mr. culp’s
+first police interaction was a controlled substance that he was ingesting or
+simply evidence of the past consumption of a controlled substance remains
+unclear, at least unclear to the required evidentiary standard in a criminal
+trial.
+
+different terminology was used to
+describe mr. culp’s condition at the outset of the two stops. “not awake” is
+probably the most neutral formula used, with “asleep” and “passed out” also
+being used at different times. “asleep” is probably the most innocent-sounding
+descriptor. “passed out” is not inherently pejorative but does carry a greater
+likelihood of implying a state brought about by drink or drugs.
+
+subject, of course, to technical
+issues.
+
+traffickers in illicit controlled
+substances are not known for their truth in marketing and the adulteration of
+the drug they say they are selling with other substances, either inert or
+different controlled substances that are cheaper, is commonplace, so i am
+inclined to accept mr. culp’s evidence about the methamphetamine.
+
+“admonition” is a word with a broad
+range of meanings, from stern chastisement at the high end to enthusiastic
+advocacy at the low end. to be clear, i use it in the latter meaning here; mr.
+lucifora was a model of professionalism throughout the trial, as was his
+slightly older opponent, each representing their client with focus and skill.
+
+i do not believe the presumption
+actually serves in any way to reinforce the dre’s conclusions or to safeguard
+them from scrutiny based simply on the fact that his or her drug selections
+ultimately match the urinalysis or blood analysis. the presumptions are
+narrower, focused on two specific issues. that is to say, the coincidence of
+dre and analysis conclusions about drug type: (a) creates a presumption of
+identity between what drugs were present at the time of the dre examination and
+the time of driving, thus avoiding a debate about some intervening change in
+facts that would make the driving innocent; (b) creates a presumption of
+causation, i.e. that if the court finds impairment and if the dre and the
+urinalysis (or blood) both identify the same substances, then those substances
+are the cause of the impairment.
+
+unless
+sleepiness is drug- or alcohol-related, driving while sleepy does not make out
+the criminal offence of impaired driving, although it might make out another
+offence.

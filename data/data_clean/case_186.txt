@@ -1,0 +1,429 @@
+source url: https://www.canlii.org/en/on/oncj/doc/2025/2025oncj433/2025oncj433.html
+
+warning
+the court hearing this matter directs that the following notice be
+attached to the file:
+a
+non-publication and non-broadcast order in this proceeding has been issued
+under
+subsection 486.4(1)
+of the
+criminal code.
+this subsection and
+subsection 486.6(1)
+of the
+criminal code,
+which is concerned with the
+consequence of failure to comply with an order made under
+subsection 486.4(1),
+read as follows:
+486.4 order
+restricting publication
+— sexual offences.
+— (1) subject to subsection (2), the presiding judge or justice
+may make an order directing that any information that could identify the victim
+or a witness shall not be published in any document or broadcast or transmitted
+in any way, in proceedings in respect of
+(
+a
+) any
+of the following offences:
+(i) an
+offence under section 151, 152, 153, 153.1, 155, 160, 162, 162.1, 163.1, 170,
+171, 171.1,172, 172.1, 172.2, 173, 213, 271, 272, 273, 279.01, 279.011, 279.02,
+279.03, 280, 281, 286.1, 286.2, 286.3, 346 or 347, or
+(ii) any
+offence under this act, as it read from time to time before the day on which
+this subparagraph comes into force, if the conduct alleged would be an offence referred
+to in subparagraph (i) if it occurred on or after that day; or
+(
+b
+) two
+or more offences being dealt with in the same proceeding, at least one of which
+is an offence referred to in paragraph
+(a).
+(2)
+mandatory
+order on application
+— in proceedings in respect of the offences referred
+to in paragraph (1)(
+a
+) or (
+b
+), the presiding judge or justice
+shall
+(
+a
+) at
+the first reasonable opportunity, inform any witness under the age of eighteen
+years and the victim of the right to make an application for the order; and
+(
+b
+) on
+application made by the victim, the prosecutor or any such witness, make the
+order....
+486.6 offence
+— (1) every person who fails to comply with an order made under any
+of
+subsections 486.4(1)
+to (3) or subsection 486.5(1) or (2) is guilty of an
+offence punishable on summary conviction.
+ontario court of justice
+citation:
+r. v. j.b., 2025 oncj 433
+date: 
+2025 08 25
+court
+file no.: hamilton 24-47103169
+between:
+his
+majesty the king (respondent)
+— and
+—
+j.b.
+(applicant)
+ruling
+on privilege
+before
+justice davin m.k. garg
+heard
+june 26 and july 24, 2025
+ruling
+delivered august 19, 2025
+reasons
+released august 25, 2025
+carolyn leblanc.................................................................... counsel
+for the applicant j.b.
+raymond woloshyn-chick....................................... counsel
+for the respondent crown
+garg j.:
+overview
+
+the applicant and the complainant were married
+for many years. their relationship was marked by turbulence and disagreements.
+despite these challenges, the pair remained committed to working through their
+issues and sought help from a couples’ therapist. they explored a range of
+topics during these sessions, including the applicant’s alleged sexual assault
+of the complainant—an event that forms the basis of the current criminal
+charges.
+
+the question before me is whether the state
+should have access to the admissions made by the applicant to the therapist
+during the counselling. specifically, does case-by-case privilege shield the
+communications from being used by the prosecution?
+
+i recognize a privilege in this case. the
+communications between the applicant and the therapist were confidential. that
+confidence is essential to the therapist-client relationship and the
+effectiveness of couples’ counselling. the power to speak freely enables the
+kind of open dialogue that supports meaningful therapeutic progress. the hope
+of healing rests in words spoken without fear of self-incrimination. i conclude
+that the crucial truth-seeking function of a criminal trial does not justify
+breaching the confidentiality in this case.
+general legal principles
+
+the law does not recognize a class privilege for therapist-client
+communications:
+r. v. mcclure,
+2001 scc 14
+at para.
+29. rather,
+the applicant must convince the court to recognize a privilege in this case.
+the court can recognize a case-by-case privilege if four criteria are met:
+
+1)
+the
+communications must originate in a confidence that they will not be disclosed.
+2)
+this element of
+confidentiality must be essential to the full and satisfactory maintenance of
+the relation between the parties.
+3)
+the relation
+must be one which in the opinion of the community ought to be sedulously
+fostered.
+4)
+the injury that
+would inure to the relation by the disclosure of the communications must be
+greater than the benefit thereby gained for the correct disposal of litigation.
+
+traditional categories of privilege (e.g., solicitor-client privilege)
+are absolute and necessarily run the risk of occasional injustice by excluding
+relevant information from a criminal trial. case-by-case privilege is
+different. the court must consider the risk of injustice before recognizing a
+privilege. “[i]f the court considering a claim for privilege determines that a
+particular document or class of documents must be produced to get at the truth
+and prevent an unjust verdict, it must permit production to the extent required
+to avoid that result”:
+m. (a.) v. ryan,
+1997 canlii 403 (scc), 1 s.c.r. 157 at para.
+33.
+the court recognized that this case-by-case approach does not offer the public
+any guarantees that communications with their therapists will remain
+confidential: para. 35.
+
+while i must conduct an analysis specific to the circumstances before
+me, the general approach in the common law has been to recognize a privilege in
+communications with a marriage counsellor:
+duits v. duits,
+2006 canlii 14407
+(ont. sup. ct.) at para.
+20; see also
+r. v. r.s.
+(1985),
+1985 canlii 3575 (on ca), 19 c.c.c. (3d) 115 (ont. c.a.) at 133.
+analysis
+
+i find that the criteria have been met to
+recognize a privilege in this case.
+(1) the communications originated in a
+confidence of non-disclosure
+
+i start with the general proposition that
+individuals who consult a therapist likely expect their communications to
+remain confidential. a major reason for attending counselling is the
+opportunity to share intimate details about one’s life with a trusted
+professional.
+
+the evidence in this case permits me to draw an
+inference that the applicant’s communications originated in a confidence
+that they would not be disclosed. the applicant and the complainant met with
+karen zicari, who is a mental health practitioner and a registered
+psychotherapist.
+
+she is certified by the canadian professional counsellors association and the
+international association of trauma professionals.
+
+the evidence on confidentiality is rooted in the professional
+practice standards of the college of registered psychotherapists of ontario.
+
+on the subject of confidentiality, standard 3.1.1 reads: “registrants do not
+collect, use, or disclose information about a client without the informed
+consent of the client or their authorized representative, except as permitted
+or required by law”.
+
+standard 3.1.2 adds: “registrants familiarize themselves and comply with
+relevant privacy laws”. there is no suggestion that the applicant consented to
+the disclosure of his communications.
+
+the evidentiary support on this issue was limited. counsel
+appeared to rely on an assumption that the “therapist” designation alone would
+suffice to establish that the communications were made in confidence. however,
+as emphasized in
+l.s. v. b.s.,
+2022 onsc 5796
+at paras.
+137-139, the
+claim of confidentiality requires evidentiary grounding. direct testimony from
+the applicant or the therapist would have provided a firmer foundation.
+
+nevertheless, based on the evidence before me, i am satisfied
+that the communications originated in a confidence of
+non-disclosure. while the crown challenged whether ms. zicari was
+working as a psychotherapist in her specific dealings with the applicant, i
+rely on the applicant’s affidavit in which he described working on their
+relationship through “therapy” and regularly discussing issues with their
+“couples therapist”. i add that i do not see a meaningful distinction between
+“therapist” and “psychotherapist”—the terms were used interchangeably in this
+case.
+
+the complainant’s presence during the
+counselling sessions did not undermine the applicant’s expectation of
+confidence. her presence is not equivalent to a third party attending a meeting
+between a lawyer and their client. rather, the applicant and the complainant
+were jointly participating in couples counselling. it is expected that both
+would be present as the therapist helped to facilitate their communication; see
+r.s.
+at 131.
+(2) confidentiality is essential to the maintenance of the
+relationship
+
+i am satisfied that confidentiality is
+essential to the full and satisfactory maintenance of the therapist-client
+relationship, including in the context of marriage counselling. without it, the
+therapeutic process risks becoming superficial and ineffective. ms.
+zicari’s description of her practice underscores this point. she describes her
+work as “personal” and aimed at addressing the “challenges at hand”. her goal
+is for clients “to feel safe, genuinely cared about”, and to know that they
+have her “full support”. she “works with couples to shift from destructive
+patterns to connecting experiences”, striving to create a space “that is safe
+and joyful”.
+
+the effectiveness of marriage counselling
+depends on the clients’ ability to speak freely, without fear that their words
+might later be used against them in a legal proceeding. clients might withhold
+important perspectives if they are worried about the risks of
+self-incrimination. ms. zicari’s work focuses on rebuilding “communication,
+trust, or intimacy”. these pillars of a healthy relationship cannot be
+meaningfully addressed unless clients are encouraged to be honest and
+vulnerable throughout the process. indeed, the complainant’s statement outlines
+the role that the counselling played in the pair’s reconciliation efforts.
+
+“we kind of took some time to,
+kind of build trust and get used to each other. we started going to therapy
+together. … we were trying to work on the relationship”.
+(3) the relationship ought to be sedulously
+fostered
+
+the relationship between a couples’ therapist
+and their clients should be carefully protected and supported. i rely on how
+turnbull j. described the importance of couples’ counselling in
+duits
+at para.
+48:
+marriage counselling for the
+purpose of exploring reconciliation is encouraged and statutorily privileged in
+divorce proceedings. … in our court system in ontario, there has been major
+systemic change to over the past ten to fifteen years to encourage mediation,
+collaborative family law mediation, case conferences, settlement conferences,
+pre-trial management conferences, pre-trial conferences, and mid trial
+settlement conferences. these processes are aimed at allowing the parties
+to work out their differences themselves. the costs, stress, emotional
+damage and waste of time of much litigation can thereby be avoided. it is
+this court’s view that the sanctity of such social and judicial processes
+should be recognized in most cases.
+
+healthy relationships form the quiet
+architecture of a well-functioning society. the qualities found within these
+connections, like communication, trust, and conflict resolution, help
+strengthen families and communities alike. this is especially true when
+children are involved, as in this case, where the applicant and complainant are
+raising three children. while written in a different context, the words of
+tulloch c.j. in
+r. v. habib,
+2024 onca 830
+at para.
+46
+apply here: “our
+society depends on families to raise and nurture children, transmit knowledge,
+skills, and values from generation to generation, and provide love, care,
+emotional, economic, and social support to their members … interfering with
+this foundational social institution, even for just reasons, can endanger
+community safety and society’s well-being”. in the protected setting of couples’
+counselling, healing is not only personal but also a public good; see also
+r.
+v. pabani,
+1994 canlii 8723 (on ca), o.j. no. 541 (c.a.) at para.
+12.
+
+(4) the
+interests served by protecting the communications outweigh the costs
+
+the role of confidential couples’ counselling to
+building healthy relationships is not the only relevant consideration. the
+final criterion considers the importance of giving the crown an opportunity to
+prove that the applicant committed a sexual assault against the complainant.
+specifically, i must consider whether the interests served by protecting the
+communications with the therapist are outweighed by the interests of pursuing
+the truth and reaching a just verdict at trial:
+ryan
+at para.
+29.
+this criterion “does most of the work” in the analysis. “having established the
+value to the public of the relationship in question, the court must weigh
+against its protection any countervailing public interest such as the
+investigation of a particular crime”:
+r. v. national post,
+2010 scc 16
+at para.
+58.
+
+if there were any risk that protecting the communications would
+shield the alleged sexual assault from the court’s purview, then i would have
+little difficulty rejecting the privilege claim. recognizing a privilege in
+that instance would promote an injustice and undermine parliament’s legislative
+efforts to encourage the reporting and fair litigation of sexual assault
+charges; see also
+ryan
+at para.
+30.
+
+cognizant of this context, i am satisfied that recognizing a
+privilege would not undermine the truth-seeking function of the criminal trial.
+
+first, the complainant is available and expected to give evidence
+about the alleged sexual assault. although she was asleep when the alleged
+sexual touching began, she said in her police statement that she woke up and
+observed the applicant’s actions. she then immediately confronted him, and he
+is said to have admitted further details.
+
+the complainant will have a voice at this trial, which distinguishes this case
+from
+pabani, relied on by the crown. the courts there declined to
+recognize a privilege over communications made during marital reconciliation.
+but the charge in that case was murder, and with the victim thus unavailable to
+testify, a finding of privilege would have stripped the trial of crucial
+evidence on animus and motive (para. 9).
+
+second, the applicant has already admitted to touching the
+complainant in a sexual manner while she slept, in an affidavit that he filed
+in a separate pre-trial application. that admission suggests there will likely
+be little dispute regarding the
+actus reus
+of the alleged offence.
+should the applicant offer a conflicting account at trial, the crown could use
+the affidavit to impeach his credibility: see
+r. v. h.p.,
+2022 onca 419
+at paras.
+38-39, 50. the availability of the affidavit limits the applicant’s
+ability to present a materially different account from what he disclosed to the
+therapist, without risking damage to his credibility.
+
+the applicant’s affidavit is not a
+perfect substitute for adducing his admissions to the therapist. the crown
+identified other passages in the therapist’s notes that it considers relevant.
+the crown might have also sought to introduce the admissions during its
+case-in-chief. shielding the communications with the therapist will deprive the
+court of some relevant evidence. however, it will not come close to gutting the
+crown’s case or subverting its opportunity to challenge the applicant’s
+defence. recognizing a privilege is not akin to the case of
+r. c. n.s.,
+2024 qcca 876, where excluding the accused’s admissions to the psychiatrist
+prevented the crown from proving its case (para. 10).
+
+
+nothing in the record suggests that anything said by the
+applicant would have required the therapist to proactively disclose his
+admissions to the authorities, unlike in cases of suspected child abuse:
+r.s.
+at 134. in those cases, legislatures have imposed mandatory reporting
+obligations, reflecting a public policy judgment that the protection of
+children must take precedence over confidentiality. no such obligation applies
+here, which may reflect a different public policy—one that respects the
+autonomy of adult complainants to decide whether and when to report. that fact,
+in conjunction with the circumstances outlined above, convinces me that the
+laudable societal goal of effectively prosecuting sexual assault allegations is
+not undermined by recognizing a privilege in this case.
+conclusion
+
+the application is granted. the communications
+between the applicant and the therapist are privileged. this privilege extends
+to the notes of the session on february 22, 2024, that purports to
+summarize the applicant’s discussions of the alleged sexual assault, among
+other topics.
+released: 
+august 25, 2025
+signed: justice davin m.k. garg
+
+the criteria make up what is known as the “wigmore test”.
+
+see exhibit 5.
+
+the standards were tendered into evidence on this application.
+
+“registrants” refers to the psychotherapists.
+
+the complainant’s statement to police on march 2, 2024, was included in the
+evidence on this application.
+
+“[i]n matrimonial disputes, the state is more interested in reconciliation than
+divorce and the rule as to privilege tends to promote the prospects of
+reconciliation”.
+
+the applicant is presumed innocent and the complainant’s statement is unlikely
+to become evidence at the trial. i only use the statement in my evaluation of
+the privilege claim, on the consent of the parties.
+
+the québec court of appeal nonetheless upheld the privilege, even though it
+prevented the crown from proving very serious charges of arson (paras. 32-33).

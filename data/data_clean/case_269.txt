@@ -1,0 +1,2702 @@
+source url: https://www.canlii.org/en/on/oncj/doc/2025/2025oncj327/2025oncj327.html
+
+ontario court of justice
+citation:
+r. v. kellerman, 2025 oncj 327
+date: 
+2025 06 10
+court
+file no.: brampton 24-31100301
+between:
+his
+majesty the king
+— and
+—
+robert kellerman
+before
+justice p.t. o’marra
+heard
+on april 7 and 8, 2025
+reasons
+for judgment released on june 10, 2025
+mashal hakimi..................................................................................... counsel
+for the crown
+ravi sahota................................................ 
+counsel for the defendant robert kellerman
+p.t. o’marra,
+j.:
+introduction:
+
+on december 17, 2023, mr. kellerman was charged
+with impaired operation of a motor vehicle and operating a motor vehicle with a
+blood alcohol concentration exceeding 80 mg of alcohol per 100 ml of blood. the
+crown proceeded summarily. mr. kellerman pleaded not guilty. the trial lasted
+two days. i adjourned the matter and reserved my decision for today.
+
+mr. kellerman brought a
+charter
+application to exclude the breath test results, all evidence of the impairment,
+and all other evidence obtained after the alleged breaches of his rights under
+sections 7, 8, 9, and 10(b) of the
+charter. the application proceeded as
+a blended
+voir dire. two witnesses testified for the crown: pc podyma,
+the arresting officer, and pc anderson, the assisting officer. documents
+regarding the operation of the approved instrument and a certificate of
+qualified technician were provisionally introduced as exhibits, subject to the
+charter
+application. the body-worn camera videos of both officers were also introduced,
+which captured the interaction between the police and mr. kellerman at his
+front door and inside his residence.
+
+a voluntariness
+voir dire
+was also
+conducted to determine the admissibility of mr. kellerman’s statements to the
+breath technician, pc champagnie. the breath room video was entered as an
+exhibit to these proceedings, subject to a voluntariness ruling.
+factual background:
+
+at approximately 9:19 p.m. on december 17, 2023,
+a civilian complainant called peel regional police and reported that a red
+toyota corolla with the licence plate cppe721 was travelling southbound on
+southdown road and truscott drive, in mississauga, and was weaving in traffic.
+
+pc podyma and pc anderson attended the address
+of mr. kellerman, the vehicle's registered owner, at 1060 walden circle, unit
+#38, in mississauga.
+
+pc anderson was training pc podyma.
+
+pc podyma and pc anderson arrived at mr.
+kellerman’s residence. mr. kellerman’s vehicle was parked on the driveway. pc anderson
+felt the hood of the vehicle, which was warm and mentioned this to pc podyma.
+she observed that the right front wheel was deflated.
+
+both pc podyma and pc anderson were wearing
+body-worn cameras.
+
+at 9:36 p.m., pc podyma knocked on the front
+door. mr. kellerman answered the door. pc podyma asked mr. kellerman if he had
+driven the vehicle in the driveway. he replied, “yes…about an hour ago.” when
+asked if he knew he was driving on a flat tire, he responded, “i guess so, i
+don’t know.” pc podyma advised mr. kellerman that the police had been called because
+an individual had observed his vehicle weaving all over the road. he was asked
+if he had anything to drink that evening. mr. kellerman replied, “yes…two coors
+lite…at a friend’s home to watch the buffalo bills.” pc podyma confirmed his
+name and then asked mr. kellerman for his driver’s licence to verify his
+identity.
+
+pc podyma could smell the odour of alcohol on mr.
+kellerman’s breath.
+
+pc podyma remained at or near the threshold of
+the front door as mr. kellerman went to retrieve his wallet. pc podyma placed
+her hand on the front door to keep it open.
+pc podyma
+advised mr. kellerman that she was “investigating an impaired incident. i just
+want to caution you that, so anything you say might be used.”
+
+at 9:38 p.m. pc podyma asked mr. kellerman to
+put on his shoes and step outside because he was under arrest for drinking and
+driving. when he inquired why she was arresting him, she replied, “because
+you’re impaired and you admitted to me that you drove the car.”
+
+mr. kellerman sat on his stairs and put on his
+shoes. mr. kellerman asked to use his washroom before he was transported to 11
+division.
+
+the police advised that they would have to
+follow him upstairs to his washroom as he was in police custody.
+
+both officers escorted mr. kellerman to his
+upstairs washroom. mr. kellerman was instructed to leave the door open while he
+used the bathroom, and they stood guard. both officers looked around with their
+flashlights and whispered that they did not see any alcohol. he was in the washroom
+from 9:41:15 p.m. until 9:43:14 p.m. he was asked if he had a house key to lock
+up his house. he wondered what was going to happen, and pc podyma answered, “you
+have to come to the 11th division, and i have to read the rights to counsel”.
+she asked him for his phone and the car keys, as the vehicle was going to be
+towed. the police enquired if he had medication that he needed to bring. he
+brought out a list of medications that he is on, but confirmed that he did not
+need any of his medications for the next 12 hours. while they descended the
+stairs, pc anderson seized mr. kellerman’s car keys off a shelf. his house key
+was removed.
+
+at approximately 9:46 p.m., mr. kellerman was
+escorted out of his residence and taken to a police cruiser, handcuffed, and searched
+incident to arrest. pc anderson took a photograph of his licence.
+
+at 9:49 p.m., he was placed in the cruiser.
+
+at 9:50 p.m., pc anderson searched mr.
+kellerman’s vehicle. she seized an open bottle of liquor that she located in
+the centre console of the vehicle.
+
+at 9:50 p.m., pc podyma read to mr. kellerman
+his rights to counsel. mr kellerman indicated that he wished to call a lawyer.
+pc podyma said he could speak to a lawyer at 11 division privately.
+
+mr. kellerman arrived at 11 division at 10:13 p.m.
+for the formal breath testing.
+
+from 10:22 p.m. until 10:30 p.m., mr. kellerman
+spoke to duty counsel.
+
+at 11:13 p.m., mr. kellerman provided two breath
+samples. mr. kellerman’s first sample registered truncated results of 180 mg of
+alcohol in 100 ml of blood. the second sample was taken at 11:36 p.m. and
+registered truncated results of 170 mg of alcohol in 100 ml of blood.
+issues:
+
+mr. sahota raises the following issues:
+(1)
+despite knowing that they were investigating a
+crime when they arrived at mr. kellerman’s residence, pc podyma and pc anderson
+did not try to caution mr. kellerman or advise him that he was not obligated to
+speak with them. therefore, the police violated mr. kellerman’s right to remain
+silent, contrary to section 7 of the
+charter.
+(2)
+mr. kellerman’s statements in the breath room
+were not voluntary.
+(3)
+when the police demanded that mr. kellerman keep
+the washroom door open, he went to the bathroom while they were still recording
+this interaction, which breached mr. kellerman’s right to privacy, contrary to
+section 7 of the
+charter.
+(4)
+when the police approached the threshold of mr.
+kellerman’s residence, they imposed a psychological detention and thereby
+arbitrarily detained mr. kellerman, contrary to section 9 of the
+charter.
+(5)
+the police unlawfully entered mr. kellerman’s
+residence without a warrant or an invitation, contrary to section 8 of the
+charter.
+(6)
+the police unlawfully searched mr. kellerman’s
+residence by looking for alcohol and seizing his car keys without a warrant,
+contrary to section 8 of the
+charter.
+(7)
+pc anderson unlawfully searched mr. kellerman’s
+vehicle, contrary to section 8 of the
+charter.
+(8)
+pc podyma did not have reasonable grounds to
+arrest mr. kellerman for impaired operation. there was insufficient evidence of
+impairment to support the low reasonable and probable grounds threshold.
+therefore, contrary to sections 8 and 9 of the
+charter, mr. kellerman
+was unlawfully and arbitrarily arrested.
+(9)
+as soon as mr. kellerman was detained, the
+police were obligated to advise the reasons for his detention, contrary to
+section 10(a) of the
+charter.
+(10)
+pc podyma delayed the informational component of mr. kellerman's
+rights to counsel for approximately 12 minutes, contrary to section 10(b) of
+the
+charter.
+the right to silence
+and voluntariness – pre-cautioned statements, the right to silence and the
+failure to call all persons in authority who had contact with mr. kellerman:
+
+the crown seeks to tender statements made by mr.
+kellerman to the breath technician. during the
+voir dire, the booking
+sergeant did not testify as he is now retired. the issue is whether the failure
+to call this officer is fatal to the crown's ability to establish
+voluntariness.
+
+the crown suggested at one point in the trial
+that it intended to rely on mr. kellerman’s pre-cautioned utterances at the
+door, which were captured on the officers’ body-worn cameras.
+
+i would want to first address the statements
+made to the officers at the door and the right to silence.
+right to silence at the door:
+
+the defence argued that mr. kellerman’s right to
+silence was violated when officers questioned him at his front door without
+first cautioning him or advising that he was not obligated to speak. however, i
+have rejected this argument for the following reasons.
+
+the officers attended mr. kellerman’s residence
+to investigate a report of impaired driving. their initial purpose was to
+identify the driver of the vehicle reported in the 911 call, not to gather
+incriminating evidence.
+
+police, like any member of the public, are
+permitted to approach a residence and knock on the door to communicate with the
+occupant. this includes asking preliminary investigative questions.
+
+mr. kellerman voluntarily answered the door and
+engaged in conversation. he was not detained at that point and was free to
+decline to speak or close the door.
+
+i find no evidence that mr. kellerman was
+psychologically detained during the initial interaction. he showed no signs of
+intimidation and continued to engage with the officers freely.
+
+i emphasized that any statements made before mr.
+kellerman was cautioned could not be used to incriminate him at trial. they
+could only be used to assess whether the officers had reasonable grounds to
+proceed with an arrest or breath demand.
+
+to be clear, the crown cannot rely on any conscripted evidence,
+such as mr. kellerman’s pre-cautioned statements at the front door, to prove
+the issue of identity. statements of the accused without the right to counsel
+can only be used as an investigative tool to confirm or reject the officer's
+suspicion that the driver might be impaired. they cannot be used as direct
+evidence to incriminate the driver. (see:
+r. v. elias,
+2005
+scc 37 (canlii), s.c.j. no. 37 (scc).)
+
+in
+r. v. soules, o.j. no. 2500,
+2011 onca
+429, leave to appeal refused s.c.c.a. no. 375 (s.c.c.), the ontario
+court of appeal ruled that any statements compelled by statute are not
+admissible in evidence against the person; such derivative use would violate
+the right against self-incrimination. soon after, parliament responded by
+enacting section 320.31(9) of the
+code.
+
+police are empowered to investigate drivers for impaired driving
+both at common law and pursuant to provincial highway legislation. evidence obtained
+from questioning the driver or compelled roadside sobriety tests before the
+detained person can access counsel goes only to the officer’s grounds for
+making an arrest and approved instrument demand. it may not be used to
+incriminate the accused at trial. in that way, the limit on the right to
+counsel at the roadside has been considered reasonable. statements made to a
+peace officer, including a statement compelled under a provincial act, are
+admissible for the limited purpose of justifying a demand under s. 320.27 or s.
+320.28. (see s. 320.31(9) of the
+code.)
+the evidence:
+the booking hall:
+
+after mr. kellerman was booked and consulted
+with duty counsel, he waited on a bench at 10:38 p.m. while pc podyma
+communicated her grounds to the breath technician. the booking video captured
+the exchange between mr. kellerman and the booking sergeant, although there was
+no audio recording. during the approximately 12 minutes, he initially sat on
+the bench and spoke with the booking officer before lying down on his back on
+the floor in the booking hall, where he stretched. the booking sergeant
+remained at his desk, several feet away, watching his video monitor as he
+occasionally observed and engaged with mr. kellerman, who continued his
+exercise routine.
+the breath room:
+
+mr. kellerman was brought into the breath room
+at 11:02 p.m. the breath technician confirmed that he had spoken to duty
+counsel. he was cautioned that if any other police officer had previously
+spoken to him, it should not influence his conversation with the breath
+technician, followed by the formal breath demand. mr. kellerman’s interactions
+in the breath room were routine. he was friendly, relaxed, and very talkative
+with the breath technician. during the procedure, they discussed a range of
+topics, including the recent success of the buffalo bills and the toronto maple
+leafs, his health, playing music at doolans and the clarkson pump and patio,
+bitcoin, stocks, bonds, debt, a new cancer-fighting drug, as well as his
+children.
+
+at 11:17 p.m., mr. kellerman was asked, “what
+happened tonight?” he explained that he was at his friend’s home in erin mills,
+near burnhamthorpe, watched the bills game until 6:30-7:00 p.m., drank three
+caesars, and then drove home. when he got home, he drank a couple of shots of
+rye in his car before going into his house. he estimated that the police showed
+up 20-30 minutes later.
+the positions of the parties:
+
+the defence argues that, due to the absence of
+an audio recording during the 13 minutes, the court is uncertain about what was
+said between the booking sergeant and mr. kellerman. the failure of the crown to
+call this officer raises a reasonable doubt about the voluntariness of the
+statements in the breath room.
+
+the crown submits that it has discharged its
+burden of proving the voluntariness of mr. kellerman’s statement to the breath
+technician. there were no promises, inducements, or threats made to mr.
+kellerman. he was also further cautioned that he did not have to say anything
+in the breath room after speaking to duty counsel.
+the applicable legal principles:
+
+where the crown seeks to tender a statement made
+by an accused to a person in authority, the crown must establish the
+voluntariness of that statement beyond a reasonable doubt. broadly speaking,
+this means calling every person in authority who had meaningful contact with
+the accused up until the statement was given. however, whether the failure to
+call a witness who had meaningful contact with the accused will result in the crown's
+failure to meet its burden depends on the circumstances of the case.
+
+in
+r. v. healy,
+2020 abca 197, the
+alberta court of appeal held that calling witnesses is discretionary since the
+issue is not the number of witnesses called to testify, but whether the
+evidence can adequately explain the context of the statement. the court, at para.
+67, held:
+[...] not all persons in authority who may
+have had contact with the accused must be called as witnesses; however, the
+crown must call sufficient evidence to account for all surrounding
+circumstances leading to a subsequent statement. necessary proof of surrounding
+circumstances "depends upon the circumstances of the case and upon what
+other evidence is available." in that case, there was "no evidence at
+all of the surrounding circumstances leading to the statement" such that
+this court could "know how he was treated or what was said to him or by
+whom. [emphasis added]
+
+in
+r. v. bools,
+2016 onca 554, the court
+of appeal for ontario recognized that there was no rule of law that the crown
+must call each and every police officer who had any contact with the appellant before
+giving his statement: “… while the unexplained absence of a witness may raise a
+reasonable doubt, this is to be assessed by the trial judge on the basis of the
+record.” in dismissing the ground of appeal relating to the admission of the
+appellant’s statement, the court of appeal also noted that the trial judge had
+the benefit of the video of the appellant’s statement, the testimony of several
+witnesses regarding their contact with the appellant from the time of his
+arrest up until the time the statement was made, and his mother’s evidence
+about how he had behaved in the past after overdosing on his medication.
+
+in
+r. v. menezes,
+2001 canlii 28426 (on sc), o.j. no. 3758,
+justice hill stated at para. 19:
+there is no absolute rule that every person
+in authority irrespective of the degree of contact with the accused need be
+called on a confessional
+voir dire. each case turns on its own facts. a
+flexible rule designed to examine the role of any police officer with real
+investigatory or custodial contact generally promotes meaningful scrutiny of
+relevant governmental conduct.
+
+in
+r. v. fulford,
+2024 onsc 1436, the
+court similarly considered whether the crown had met its onus in establishing
+that the accused’s statement was voluntary where not all witnesses who had
+contact with the accused were called. the court considered the nature of the
+contact between the accused and the officers who were not called to testify, as
+well as the videotape of the statement itself. in all of these circumstances,
+the court found the crown had met its burden and the statement was admitted.
+
+in
+r. v. l.s.,
+2021 onsc 3928, the court
+similarly found that the failure to call all witnesses was not fatal to proving
+voluntariness, where there was no evidence that the officers who were not
+called had said anything to the accused. the court held that, notwithstanding
+the various dealings they had with the accused (searching him, placing him in
+the cell), it was rank speculation that they said anything to him which
+influenced his statement to the police such that a reasonable doubt was raised
+as to the voluntariness of the accused’s subsequent statement.
+
+in
+r. v. king,
+ n.b.j. no. 19, the
+accused appealed his conviction of criminal negligence causing death concerning
+the death of a young employee on one of his construction sites. his statement
+to workplace investigators was admitted at trial. one ground of appeal related
+to the trial judge’s admission of the statement, notwithstanding the crown’s
+failure to call one of the investigators – who had since retired and was
+unavailable. the new brunswick court of appeal dismissed this ground of appeal,
+finding that two investigators had conducted the investigation; the other
+investigator was present for almost all of the interactions, and that this
+investigator and a third investigator were able to provide evidence of the
+‘context’ in which the accused agreed to speak with the investigators. the
+court of appeal held that:
+20 two of the three individuals involved
+in the investigations were able to provide context for the statements. as
+discussed in
+healy, the standard is not that all potential witnesses
+must be called, but rather that the crown must call sufficient witnesses to
+provide adequate evidence regarding the surrounding events. therefore, it was
+sufficient that only one of the investigators gave evidence at the
+voir dire.
+
+in
+r. v. kisil,
+2009 oncj 424 (canlii), o.j. no. 3821, the
+defence argued the crown had not proved the voluntariness of the accused’s
+statement to the breath technician because the officer who lodged the accused
+in the cell before the breath testing did not testify. the court dismissed the
+argument, as this officer was neither involved in the interrogation of the
+accused nor in taking his statement. the statement was ruled admissible.
+
+in
+r. v. c.b.,
+ o.j. no. 1501, the
+police officer who escorted the accused from the holding cell to the interview
+room was found to be an immaterial witness who was not necessary on the
+voluntariness
+voir dire. the court in that matter also considered that
+the accused stated he had not said anything to this officer during the six
+minutes it took the officer to transport the accused.
+
+conversely, if the person in authority had a
+meaningful presence in the accused’s “surrounding circumstances” in making the
+statement, in that case, failure to call this witness might raise a reasonable
+doubt regarding the voluntariness. in
+r. v. bou-chahine,
+ o.j. no.
+4737, the crown’s failure to call the officer who accompanied the arresting
+officer to the accused’s home raised a reasonable doubt regarding
+voluntariness. at the time of arrest, the accompanying officer spoke to the
+19-year-old accused’s mother, who was visibly upset. no details were provided
+about this conversation, which took place within earshot of the accused and the
+arresting officer. the court determined that certain persons in authority were
+required to testify to establish proof of voluntariness; these were persons
+who:
+(1) have legally meaningful contact with
+the accused,
+i.e.
+officers who had real investigative or custodial
+contact with the accused,
+(2) any officer who had contact and would
+have been in a position to affect whether the accused gave a statement,
+(3) any officer who would have been in a
+position to influence the giving of a statement of the accused and if not, was
+that person's absence explained satisfactorily,
+(4) any officer who is not sufficiently
+remote from the taking of the statement,
+(5) any officer who, if failed to be
+called, would leave a material evidentiary gap as to all the surrounding
+circumstances leading to the confession. where material evidentiary gaps are
+present, it is not for the accused to prove that something untoward took place;
+it is for the crown to prove it did not.
+
+in
+r. v. bonsu,
+ o.j. no. 5841, a
+search warrant was executed inside the accused’s home. members of the emergency
+task force (etf) entered the house first, with guns drawn. three minutes later,
+members of the guns and gangs (g&g) unit entered. shortly thereafter, the
+accused told the officers that the drugs and guns in the house were his. the
+crown sought to lead the statement into evidence but did not call any evidence regarding
+what occurred during the three minutes that the etf were in the residence, before
+the entry of the g&g officers. although the preliminary inquiry judge found
+that there were no threats or inducements by the g&g officers, there was a
+material gap in the evidence as to what occurred during the time the etf
+officers were present, such that the crown did not discharge its onus in
+proving the statement voluntary.
+analysis:
+
+what i have gleaned from the caselaw is that
+whether the crown’s failure to call all witnesses on a voluntariness
+voir
+dire
+is fatal depends on whether the crown has otherwise called sufficient
+evidence to account for all surrounding circumstances leading to the statement.
+the trial judge may consider all of the evidence heard on the
+voir dire,
+including the evidence of other officers who were present for the interaction
+with the ‘uncalled’ officer(s); the role of the ‘uncalled’ officers; their
+involvement with the accused; the lack of evidence as to whether they may have
+influenced the accused (such that the concern would be impermissible
+speculation); and any video or audio or other evidence of the statement itself.
+
+counsel argued that the booking sergeant was not
+merely a bystander whose evidence was not inconsequential in determining
+voluntariness. (see:
+r. v. jeganathan,
+ o.j. no. 6438, at para. 9,
+and
+r. v. dehaney, (unreported) april 10, 2013.) at most, the evidence
+suggests that the booking sergeant was alone with mr. kellerman for 13 minutes
+in the booking area within full view of a surveillance video recording camera.
+the idea that this officer, who had no direct involvement in a routine impaired
+driving investigation, would have made a threat or promise to mr. kellerman to
+induce him to make statements inside the breath room seems quite far-fetched to
+me. (see:
+r. v. mcgregor,
+ o.j. no. 6441.)
+
+as long as i can determine that the statement
+was made voluntarily, based on the evidence, the statement is admissible,
+regardless of who did or did not testify. (see:
+kisil, paras.
+8-13.)
+there were no threats, promises or inducements made to mr. kellerman. i observed
+no oppressive circumstances, far from it. the environment was friendly and
+professional. mr. kellerman had an operating mind. there was no police
+trickery.
+
+mr. kellerman displayed a relaxed and carefree
+attitude while in the booking hall and the breath room. he was comfortable in
+the presence of the booking sergeant to the extent that he exercised in full
+view.
+
+he did not display any fear or discomfort while
+in the breath room. he engaged in friendly conversation with the breath
+technician.
+
+i disagree with counsel that the statements in
+the breath room were involuntary and should be excluded from the trial based on
+the crown's failure to call the booking sergeant. the statements in the breath
+room were voluntary.
+section 9 - did pc podyma have
+reasonable and probable grounds to arrest mr. kellerman?
+the evidence:
+
+the grounds cited by pc podyma included the 911
+call that a red vehicle was swerving within its lane. the caller provided the
+police with the licence plate. upon arriving at the registered owner’s address,
+1060 walden circle, unit #38, in the city of mississauga, both officers
+confirmed that a red toyota corolla with the matching licence plate was parked
+in the driveway facing the townhouse. the front driver’s side tire was
+deflated.
+
+pc anderson reported to pc podyma that the hood
+was “lukewarm,” suggesting the recent operation of the vehicle. pc podyma
+knocked on the front door. mr. kellerman answered the front door. pc podyma
+asked if mr. kellerman had recently driven the vehicle. mr. kellerman responded
+that he had. pc podyma advised mr. kellerman that someone had called in that he
+had been swerving all over the road and the description of his vehicle was
+provided. mr. kellerman had confirmed that he had been drinking that evening at
+a friend’s place to watch the buffalo bills game. he claimed that he arrived
+home approximately an hour ago.
+
+at this point, pc anderson was heard saying to
+pc podyma, “there were enough grounds.” mr. kellerman admitted that he had been
+drinking coors lite. at this point, mr. kellerman was asked to provide his
+identification. as he turned around to retrieve his wallet, pc podyma remarked,
+“just so you know, i am investigating an impaired driving incident, so i
+caution you that anything you say may be used against you.”
+
+at 9:38 p.m., after confirming his identity with
+his driver’s licence, pc podyma advised mr. kellerman to get his shoes as he was
+under arrest for “impaired operation of a vehicle.”
+
+pc podyma testified that during her interaction
+with mr. kellerman, she observed that mr. kellerman had an odour of alcohol on
+his breath, bloodshot eyes, and slurred speech.
+
+pc podyma observed that as mr. kellerman walked
+back to retrieve his wallet, he was unsteady and stumbled into the door.
+however, the body-worn camera video did not seem to corroborate this
+observation.
+
+pc anderson stood directly behind pc podyma
+during her interaction with mr. kellerman and heard him admit that he had been
+driving and drinking at a friend’s home. she also observed that mr. kellerman’s
+eyes were bloodshot, and he was slightly swaying.
+positions of the parties:
+
+counsel argued that the reasonable and probable
+grounds were not objectively established and, therefore, the arrest occurred
+inside mr. kellerman’s home without a warrant or proper grounds.
+
+the crown submitted that mr. kellerman’s detention became lawful once the reasonable and probable grounds were
+formed based on the police officer’s observations and admissions. the arrest
+was supported by numerous grounds, including a civilian complaint with specific
+details and corroborated vehicle details, the presence of the matching vehicle
+at the registered owner’s home, the accused’s admission that he had just
+driven, admission to consuming alcohol, and physical signs consistent with
+impairment as observed by trained officers.
+applicable legal principles:
+
+pursuant to
+section 495(1)
+of the
+criminal
+code, a peace officer may make a warrantless arrest where, on reasonable
+grounds, he believes that the person has committed an indictable offence. this
+power of arrest has two components. first, the officer must subjectively
+believe that there are reasonable grounds to arrest. secondly, this belief must
+be objectively reasonable concerning the information available to the officer
+at the time. (see:
+r. v. storrey, s.c.r. 241.)
+
+reasonable grounds, whether to arrest or make a
+breath demand, must be based upon the totality of the circumstances known to
+the officer at the time. it is sufficient that the officer subjectively
+believes that the driver's ability to operate a motor vehicle is slightly
+impaired due to the consumption of alcohol or drugs and that such belief is
+objectively reasonable. allowance must be made for the context of an arrest, as
+police acting in the field, in a dynamic situation, may not have the luxury of
+detached reflection. (see:
+r. v. bush,
+2010 onca 554 (canlii), o.j. no. 3453 (c.a.) at
+paras.
+36-57.)
+
+where one or both of these elements are absent,
+the arrest and resulting detention is unlawful and, therefore, a breach of the
+detainee's right to be free from arbitrary detention as provided by section 9
+of the
+charter. (see:
+r. v. grant,
+2009 scc 32 (canlii), 2 s.c.r. 353 at para.
+54.)
+analysis:
+
+the officers were responding to a legitimate
+civilian complaint that contained specific details: erratic driving, a clear
+description of the vehicle, and a matching licence plate.
+
+upon arrival, officers asked non-coercive
+preliminary questions which do not constitute detention under s. 9 of the
+charter.
+(see:
+r. v. suberu,
+2009 scc 33;
+r. v. mann,
+2004 scc 52.) mr.
+kellerman voluntarily provided his identity, confirmed he had just arrived
+home, admitted to drinking, and confirmed he had been driving the vehicle. only
+after these admissions and observations did the officers formally arrest him.
+
+during their interaction with mr. kellerman,
+both officers remained outside the house. mr. kellerman stood at the front door
+of his home.
+
+i reject that mr. kellerman was psychologically
+detained in these circumstances. he was always free not to answer any of the
+officers’ questions. he could have closed the door on the officers. however, mr.
+kellerman displayed no signs of confusion or intimidation when he initially
+answered the officers’ questions. moreover, he continued to engage with the
+officers, asking questions and eventually freely moving inside his home.
+
+based on the totality of her observations, pc
+podyma testified that she believed mr. kellerman was impaired by alcohol.
+
+in my view, pc podyma had reasonable and
+probable grounds based on objectively discernible facts, considering the totality
+of the circumstances. there had been a report of a red vehicle swerving on the
+road. the licence plate matched the vehicle that was found in the driveway of
+mr. kellerman’s home. the hood was lukewarm. mr. kellerman admitted to drinking
+alcohol at his friend’s house and then driving home. he smelled of alcohol, his
+eyes were bloodshot, and his speech was slurred. it was observable that mr.
+kellerman’s speech was slurred and slow on the body-worn camera. however, i
+cannot say that his eyes were bloodshot.
+
+while reasonable and probable grounds must be
+objectively based on facts, there is also a subjective requirement for the
+officer.
+
+the testimony must provide subjective grounds to
+support the requisite grounds relied upon by the officer. pc podyma testified
+that she had observed bloodshot eyes, slurred speech, an odour of alcohol on
+his breath and mr. kellerman’s admission that he had consumed alcohol and had
+recently driven home when she advised that she was arresting mr. kellerman. the
+only reasonable inference from this constellation of facts is that pc podyma
+had subjectively believed mr. kellerman was driving while his ability to do so
+was impaired by alcohol. as i found earlier, this belief was objectively
+supported.
+
+accordingly, i find no violation of mr. kellerman’s
+ss. 8 and 9
+charter
+rights.
+did pc podyma unlawfully enter the residence and
+arrest mr. kellerman without a
+feeney
+warrant and invitation? did the
+police unreasonably search mr. kellerman’s residence?
+the evidence:
+
+the police attended mr. kellerman’s home to investigate the
+offence of impaired driving. after speaking with mr. kellerman at the threshold
+of the door, pc podyma formed grounds to believe that he was the driver of the
+vehicle and that he was impaired at the time of driving. he was advised that he
+was being arrested for impaired operation and to get his shoes. at that point, pc
+podyma entered the house while he went to the stair area to put on his shoes.
+
+mr. kellerman asked how long this process would take. the
+officers advised approximately two hours. mr. kellerman asked to use the
+washroom. the officers agreed to allow him to use the washroom before
+transporting him to 11 division, which was approximately 10 minutes away. mr.
+kellerman gestured to the officers to follow him to the second-floor bathroom.
+as mr. kellerman entered the bathroom, he was told to leave the door ajar.
+
+before exiting the house, the police seized his car keys as the
+vehicle was going to be impounded.
+the positions of the
+parties:
+
+the defence’s position is that the police unlawfully entered mr.
+kellerman’s residence when they arrested him. furthermore, once the police
+gained entry into mr. kellerman’s home, they scanned the surroundings with
+their flashlights, searched for alcohol, and seized his car keys. this
+constituted a breach of his ss. 8 and 9
+charter
+rights. the
+circumstances indicate that the admission of any evidence would bring the
+administration of justice into disrepute and, therefore, ought to be excluded
+pursuant to section 24(2) of the
+charter.
+
+the crown’s position is that mr. kellerman has not established a
+violation of his ss. 8 and 9 rights when the police arrested him.
+alternatively, even if the police conduct infringed his rights, the
+circumstances are such that the admission of the accused’s statement in
+evidence would not bring the administration justice into disrepute.
+
+the crown submits that the officers did not enter the residence
+unlawfully or without reasonable justification. the accused left the door open
+voluntarily and did not object to the officers’ limited entry, which was
+incidental to his request to retrieve his identification, use the bathroom, and
+collect his items. the police did not rummage through any private spaces or
+inspect drawers or cabinets.
+
+moreover, the observations made inside the residence were
+incidental and in plain view—not the product of an active or warrantless search
+(see:
+r. v. mellenthin,
+1992 canlii 50 (scc), 3 s.c.r. 615). the officers’ limited use
+of flashlights was primarily for officer safety and observation in low-light
+conditions, rather than a deliberate investigatory search.
+
+their action falls within the expectations of s. 8 protections in
+the context of a lawful arrest, where limited entry and observation are
+incidental to arrest and not intrusive or exploratory (see:
+cloutier v.
+langlois,
+1990 canlii 122 (scc), 1 s.c.r. 158).
+
+while mr. kellerman was in the washroom, the door was slightly
+ajar, and the officers did not point their body-worn cameras into the bathroom,
+nor did they peek or look in on mr. kellerman. they stood at the door for
+officer safety and to maintain proximity and continuity with mr. kellerman. there
+was minimal interference with mr. kellerman’s privacy.
+the applicable legal principles: re:
+feeney
+warrant and implied invitation
+
+generally, police are not entitled to enter a person’s home to
+effect an arrest without a
+feeney
+warrant
+
+unless they are in hot pursuit, there are exigent circumstances, or they have
+the express or voluntary consent of the homeowner. a
+feeney
+warrant is
+required (absent the exceptions noted above) where police attend a house to
+arrest someone (
+i.e., they already have grounds to believe the person
+inside has committed an offence).
+
+the
+feeney
+decision does not stand for the proposition
+that police cannot attend a home to engage in an investigation. on the
+contrary, police are not only permitted but are duty-bound to investigate
+crimes, including questioning any person, whether suspected or not, from whom
+useful information can be obtained. (see:
+r. v. esposito,
+1985 canlii 118 (on ca),
+ o.j. no. 1002.) the
+implied invitation to knock is a corollary of this proposition.
+
+in
+r. v. ndikurivo,
+2018 onsc 7592 (canlii), the
+court held at para. 137:
+…the attendance of a police officer to a dwelling house is
+governed in part by the “implied invitation to knock” principle as
+explained
+in
+evans v.
+the queen
+(1996)
+1996 canlii 248 (scc),
+104 c.c.c. (3d) 23;
+this provides that the police, as does any member of the public, have a right
+to approach the front door of a residence to knock for the sole purpose of
+communicating with the occupants. this implied licence ends at the door of the
+dwelling; it does not include authority to effect a warrantless entry to arrest.
+the police officer’s purpose or intention in attending a
+dwelling is a significant consideration.
+i take this from paras. 25 and 26 of the ontario court of
+appeal’s decision in
+r. v. reid,
+ o.j. no. 6471:
+“25. in my view, the facts do not
+support mr. reid’s assertion that sergeant dey entered the unit to arrest him.
+rather, and as the trial judge found, sergeant dey was investigating…various
+possible criminal acts. as such, this case
+is distinguishable from those cases recognizing that
+a
+feeney
+warrant
+is required where
+police enter a dwelling for purposes of arresting an occupant.
+26. because i could reject mr.
+reid’s starting premise that sergeant dey needed a
+feeney warrant
+before
+entering the apartment, the balance of his argument that his detention and
+arrest were illegal because they flowed from the officer’s illegal entry into
+the apartment, cannot stand.”
+
+the implied knock investigation applies to police officers
+attending on a person’s property to investigate an offence, as was the case
+here. in this instance, after speaking with mr. kellerman, the officers formed
+the requisite grounds to believe that he was the driver of the vehicle and that
+he was impaired at the time of driving. the question is whether their
+subsequent entry into the house breached the accused’s
+charter
+rights.
+
+in
+r. v. renouf,
+2013 skpc 34, the situation was similar
+to the case here. the police attended the accused’s apartment in the
+investigation of a motor vehicle offence. after speaking with the accused at
+the threshold of the door, the officer entered approximately five feet into the
+house. the officer then read an asd demand to the accused. the accused sought
+to exclude evidence of the subsequent breath tests, alleging the officer’s
+attendance and entry constituted a
+charter
+breach. the court found:
+ in my view, cst. forrester had
+the right to enter this property and approach the apartment door, i adopt the
+reasoning of provincial court judge barley
+in
+r. v. hyde,
+2010 abpc 30,
+approved by provincial court judge kerby
+in
+r. v. chomik,
+2011 abpc
+152, at paragraph
+43
+“...there
+is no doubt that the police have the right to enter onto a person’s property
+for the purpose of communicating with them. they can approach the door of
+the residence, knock and speak to anyone who chooses to answer the door and
+speak and reply...this right extends to a person on a driveway. however,
+the occupant may tell the police to leave...”
+…
+
+in
+r. v. evans
+(1996),
+1996
+canlii 248 (scc),
+45 c.r.
+(4
+th
+) 210,
+ 1 s.c.r. 8, the supreme court of
+canada considered the scope of activities authorized by the implied invitation
+to knock. sopinka j. stated at pages 217 to 218:
+15 in
+determining the scope of activities that are authorized by the implied
+invitation to knock, it is important to bear in mind the
+purpose
+of the
+implied invitation. according to the british columbia court of appeal
+in
+r. v. bushman
+(1968),
+1968
+canlii 802 (bc ca),
+4
+c.r.n.s. 13, the purpose of the implied invitation is to
+facilitate communication between the public and the occupant. as the
+court
+in
+bushman
+stated,
+at p. 19:
+the purpose of the implied leave
+and licence to proceed from the street to the door of a house possessed by a
+police officer who has lawful business with the occupant of the house is to
+enable the police officer to reach a point in relation to the house where he
+can conveniently and in a normal manner communicate with the occupant.
+ i agree with this statement of the law. in my view,
+the implied invitation to knock extends no further than is required to permit
+convenient communication with the occupant of the dwelling. the
+"waiver" of privacy rights embodied in the implied invitation extends
+no further than is required to effect this purpose. as a result, only those
+activities that are reasonably associated with the purpose of communicating
+with the occupant are authorized by the "implied licence to knock".
+where the conduct of the police (or any member of the public) goes beyond that
+which is permitted by the implied licence to knock, the implied
+"conditions" of that licence have effectively been breached, and the
+person carrying out the unauthorized activity approaches the dwelling as an
+intruder.
+…
+ in
+r. v. van wyk,
+ o.j. no. 3515,
+the intention was to identify the driver of the truck that caused the accident
+and that was found to be within the invitation to knock. at paragraph 26,
+mr. justice hill states as follows:
+a police investigator is at
+liberty, and indeed is obliged, in the execution of lawful duties, to ask
+questions to solve a crime. this entirely appropriate exercise by the police of
+their investigatory function, directed to any person whether suspected or not,
+includes inquiries directed to the identity of the party who may have committed
+an offence.
+[emphasis added]
+ justice hill goes on at
+paragraph 33 and states:
+where the sole purpose of the
+police officer is to ask questions of the homeowner, nothing can be gathered by
+the government, in the sense of unwitting disclosure by the occupant, until he
+or she chooses to speak. the police intent of facilitating communication, even
+investigative questioning, does not exceed the bounds of the implied right to
+approach and knock and is, accordingly, not trespassory or in breach of s.
+8 of the
+charter.
+ in the within
+case,
+cst. forrester did not snoop around the perimeter of the residence, or try to
+look in the window, or gain evidence in any other way.
+ cst. forrester was
+involved in a
+criminal code
+investigation of impaired driving
+that had occurred very recently. she had reason to believe the offence
+had been committed by someone driving a specific vehicle, with a specific
+licence plate, which was now parked in the parking lot at this apartment
+address on algoma. she had received information that the owner of this
+vehicle resided in apartment number 4. …
+…
+ however, the
+difference in the present case [to
+macooh,
+a case involving hot pursuit]
+is that here cst. forrester found no one in the truck with the licence plate
+number she had been given. however, she was told by a tenant that the
+owner of the truck lived in apartment 4 and she was let into the
+building.
+ cst. forrester’s purpose at
+apartment 4 was to communicate with the occupant. she was investigating a
+criminal offence of impaired driving that had occurred very recently. as
+a result of the conversation with mr. renouf, cst. forrester was satisfied he was
+the owner and driver of the truck. in other words, the person who was
+possibly impaired.
+ as mr. renouf was
+talking to the police officer and providing this information he was backing up
+into his apartment. she testified she entered, at the most, five feet
+into the apartment. she noticed an unopened beer on the counter and also
+noted mr. renouf was looking for something in his apartment, which was likely
+his driver’s licence and registration which she had requested. it was at
+this time she observed mr. renouf had slurred speech, bloodshot eyes, and was
+visibly upset. no doubt these observations could have been made from the
+doorway or entrance to the apartment. she testified the apartment was
+very small.
+ therefore, at this
+point, cst. forrester testified she had sufficient information to believe that
+mr. renouf was impaired and had been operating a motor vehicle. however,
+despite the above noted conclusion, cst. forrester was of the opinion that she
+should make an asd demand on mr. renouf. …
+…
+ the crown submits that the court
+of appeal
+decision of
+r.
+v. grotheim,
+2001 skca 116, is right on point. in
+that case the police officer had received a dispatch about an accident in the
+town of outlook. he discovered a tree which had been struck and noticed
+tracks leading to grotheim’s driveway where a truck was parked. he
+noticed bark from the tree stuck in the front of this vehicle. he knocked
+on the door of this house where he knew mr. grotheim lived. he was told
+to “come in” and the police officer entered the house. the police officer
+did not proceed very far from the door when mr. grotheim approached him about a
+work order from an auto shop. when asked by the police officer, mr.
+grotheim admitted he had been driving the truck. the police officer also
+noted slurred speech, bloodshot eyes, and from his previous knowledge of this
+individual, the officer was positive mr. grotheim was displaying signs of
+intoxication. at that point the officer decided that mr. grotheim had
+committed a criminal offence, an indictable offence of impaired driving, and
+that it was his duty to place mr. grotheim under arrest to preserve any
+evidence. the demand for a breath test was made after arrest in the
+police vehicle.
+the court of appeal concluded that the police officer
+was authorized to arrest mr. grotheim in his home.
+…[emphasis added]
+
+similarly,
+in
+r. v. moser,
+2012 oncj 209 (canlii), the police attended the
+accused’s residence, having reasonable grounds to believe he had been driving
+while impaired. while the court found that, generally, police have an implied
+invitation to knock on a door, their purpose in doing so was not to initiate
+communication or investigation – it was to effect an arrest. the accused also
+revoked the implied investigation. the court then considered the accused’s
+reasonable expectation of privacy, stating:
+
+assuming
+then that there was some reasonable expectation of privacy in the detached
+garage on the part of mr. moser and further assuming that the invitation to
+knock had been revoked by his comments once the door was open the court still
+must consider the circumstances surrounding the door being opened in the first
+place which are as follows:
+1. there was a
+legitimate concern that an impaired driver had left the bar.
+2. the driver was
+riding a motor vehicle with a licence plate associated with the address where
+the police attended.
+3. that information
+was received promptly by the police and acted upon in the same manner. 
+they arrived at the residence noted to the plate owner very shortly after the
+information had been received from dispatch which in turn was received shortly
+before from the bar employee.
+4. the arrival of cst.
+gardner and the exit of mr. moser from the garage took place over a very short
+period of time. …
+5. cst. gardner
+attempted to gain access with permission. when that failed the unlocked
+door was opened. cst. gardner only made a minimal intrusion into the
+garage with no intention to arrest within the garage for the reasons he noted.
+6. i find that mr.
+moser voluntarily exercised his options and made a decision to exit the garage
+pursuant to the command and/or request of the officers. the further
+observations by cst. smith took place outside of the garage and cst. smith
+relied on no other information other than his own observations and the
+information received from dispatch to affect the arrest.
+
+given
+the evolving case law and the facts in this particular case, it is the court’s
+ultimate finding that there has not been a breach of mr. moser’s
+s. 8
+rights by
+virtue of cst. gardner lifting the garage door and opening it and stepping a
+minimal distance into the garage and thereafter requiring mr. moser to exit.
+ his actions were, in effect, reasonable steps to take in the
+circumstances here. if there is a concern about cst. gardner’s actions at all,
+it is his position that he had grounds to arrest. however, he had near
+grounds and they were certainly enhanced once he had an ability to observe mr.
+moser who had purposefully and intentionally tried to avoid such observations
+by the officer by closing the door when the officer’s presence was readily
+apparent. further, it is clear that cst. smith, the arresting officer,
+relied on nothing other than the presence of mr. moser and his own observations
+and the information from the bar in affecting the arrest as noted.
+
+the court in
+moser
+did not find a
+charter
+violation
+in these circumstances.
+analysis:
+
+while i agree with the submission of counsel for mr. sahota that
+citizens have the right to be promptly informed of the reason for police
+attendance and why they may be under investigation, i disagree with the
+assertion that this was denied to mr. kellerman.
+
+the evidence, as i find it on this point, is clear. officers
+attended mr. kellerman's residence for the purpose of communicating with him in
+the investigation of a possible impaired driver. he was informed of this by pc
+podyma shortly after he opened the door, as they were investigating a driver
+who was weaving all over the road.
+
+pc podyma's questions focused on confirming the driver's identity
+and whether he had been drinking that evening. it was implicit from those
+questions that this was an investigation into impaired driving.
+
+counsel also submits that the police unlawfully crossed the
+threshold of the houses without mr. kellerman’s consent and a warrant.
+
+in
+r. v. desrochers,
+2008 onca 255, the court dismissed
+the appeal in an endorsement. the court recognized that the trial judge
+affirmed a summary conviction appeal from the superior court of justice,
+finding that a police officer's entry into a home to conduct a preliminary
+investigation was not unconstitutional. the summary conviction court found it
+permissible for a police officer to knock on a residence door and make
+inquiries.
+
+in
+the present case, pc podyma and pc anderson attended the residence to
+investigate a report of a possible impaired driver. i accept and find as a fact
+that their purpose for attending the residence was to speak with the potential
+driver of the red vehicle. they had received a description of the driving from
+dispatch, as well as a description of the motor vehicle, including the licence
+plate. the officers knocked on the door of mr. kellerman's residence. he
+immediately answered to the name "robert." they ultimately spoke with
+mr. kellerman to inquire if he was the operator of the red vehicle in the
+driveway. while speaking with mr. kellerman, pc podyma noticed signs of
+impairment, including bloodshot eyes, slurred speech, and a strong odour of an
+alcoholic beverage emanating from mr. kellerman.
+
+i
+accept and find as a fact that the officers did not attend the residence to
+gather evidence of mr. kellerman's impairment. at that point, they were trying
+to ascertain who the driver of the motor vehicle was. they engaged mr. kellerman
+in conversation to determine just that. mr. kellerman was free to choose
+whether to communicate with the officers.
+
+i
+note that the officers did not encroach on the residence beyond knocking and
+engaging in a conversation. they did not enter the residence. they did not
+exhibit any coercive conduct capable of exercising compulsion upon mr. kellerman.
+they did not engage in any other form of search beyond accessing the door. they
+were never asked to leave the property.
+
+in
+my view, the officers were permitted to attend mr. kellerman's residence to
+speak with him about their investigation, even if that conversation included investigative
+questioning.
+
+in
+the result, i do not find a breach of mr. kellerman's section 8 rights based on
+the police's attendance at the door of his residence.
+
+the
+defence additionally argued that the officers exceeded any implied licence to
+attend mr. kellerman's residence by traversing beyond the front door of the
+residence.
+
+when
+pc podyma crossed the threshold of the front door, she stepped only a few feet
+into the front hall, as mr. kellerman put on his shoes.
+
+in
+considering this argument, i note the comments of justice mckinnon in the r.
+v. desrochers,
+2007 canlii 12896 (on sc), summary conviction appeal, at
+para. 18:
+while citizens are entitled to a high expectation of privacy
+with respect to their homes, a criminal is not immune from arrest in his own
+home and there are strong policy considerations militating against making a
+home a sanctuary against arrest and encouraging individuals to see the police:
+see
+eccles v. bourque,
+1974 canlii 191 (scc), 2 s.c.r. 739 at 743;
+r. v. macooh,
+1993 canlii 107 (scc), 2 s.c.r. 802 at para.
+32.
+
+while
+mr. kellerman did not specifically invite the officers into his house, and he
+did not consent to their entry, i am not convinced that his consent was
+required. even if the entry was not consensual, it does not necessarily follow
+that a
+charter
+breach occurred. i adopt the very compelling logic of
+justice duncan in the decision of
+r. v. golubentsev,
+ o.j. no.
+4608 (c.j.), at paragraphs 18 to 26.
+
+it
+would be entirely impractical for pc podyma to obtain a (
+feeney
+) search
+warrant. given the nature of the timing and timelines involved in
+drinking-driving investigations, it would be necessary for the police to act as
+quickly as possible to preserve evidence, considering the dissipation of
+alcohol from the body, and the opportunity to consume additional alcohol (or
+claim to do so), all of which renders immediate action imperative.
+
+there
+was no violation of section 8 of the
+charter.
+did the police violate mr. kellerman’s right to
+privacy by demanding that he keep the washroom door open while still recording
+this interaction, contrary to section 7 of the
+charter
+?
+the evidence:
+
+after
+being arrested at his home, mr. kellerman requested to use the bathroom before
+being transported to the police station. pc podyma allowed him to do so, citing
+concerns about his age, health, and the undesirability of him urinating in the
+cruiser. both officers—pc podyma and pc anderson—were female. no male officer
+was called to supervise. the bathroom door was left ajar, and the officers’
+body-worn cameras continued to record during this time. mr. kellerman was not
+informed that he was being recorded. there is no evidence that the officers
+deliberately tried to observe him while he was using the toilet.
+position of the parties:
+
+the
+defence submits that the officers made no effort to shield mr. kellerman’s
+privacy (
+e.g., turning off cameras, closing the door, or averting their
+gaze).
+
+there
+was no operational necessity to record him at this moment. the officers could
+have waited or called a male officer to supervise the situation.
+
+the
+crown submits that allowing mr. kellerman to use his bathroom was a humane and
+practical choice, given his age and health. the door was left ajar for officer
+safety and to prevent mr. kellerman from destroying evidence or harming
+himself. the officers did not attempt to observe him directly. the body-worn
+camera footage did not capture any intimate acts. once under arrest, mr. kellerman’s
+expectation of privacy was diminished, especially in a custodial context.
+applicable legal principles: re: right to privacy:
+
+once a person has been arrested and is in custody, the police have a
+positive duty to carefully monitor their actions to protect both the detainee
+and themselves. when individuals are in custody outside a police-controlled
+environment, the officers must also ensure that the person does not harm
+themselves, harm the police, or flee. in cases of impaired driving, there may
+also be a concern that the accused does not consume additional alcohol after
+their arrest but before providing breath samples.
+
+there are many cases which have considered a person’s reasonable
+expectation of privacy, particularly where they need to use the washroom while
+at a police station. while these cases are not directly on point because they
+arise in circumstances where the accused is at the station, they are helpful in
+the context of this case. the
+courts have found:
+a person in the custody of the police
+ will have a substantially reduced expectation of privacy. (see:
+weatherall
+ v. canada (ag),
+1993 canlii 112 (scc), s.c.j. no. 81
+(para.
+5
+);
+r. v. beare;
+r. v. higgins,
+1988 canlii 126 (scc), 
+ s.c.j. no. 92
+(para.
+59
+).)
+people in custody have a substantially reduced
+ expectation of privacy. however, some expectations remain, particularly
+ when it comes to using the washroom. (
+r. v. mok,
+2012 oncj 291
+).
+analysis:
+
+the following factors should be considered when assessing whether
+mr. kellerman’s right to privacy was breached by allowing him to use the
+bathroom in his own home while the female officers kept the door ajar:
+was the decision to let mr. kellerman use the
+ washroom at home, rather than taking him to the police station, reasonable
+ in the circumstances?
+whether it would have been realistic to call a male
+ officer to attend the scene to guard the bathroom, and the impact on
+ rights to counsel and timeliness of the request for breath samples?
+whether the officers tried to – or were able to -
+ see the accused while on the toilet?
+whether the officers did everything they could to
+ safeguard his privacy to the extent possible,
+i.e., what efforts did the police make to help preserve the privacy of
+ the person in custody (while they used the facilities)? (see:
+r. v.
+ wilczewski,
+2023 onsc 3820.
+)
+was
+ there a blatant disregard of police policies to preserve mr. kellerman’s
+ privacy?
+is the issue
+ systemic?
+
+pc podyma testified that she considered mr. kellerman’s age and
+health when deciding to allow him to use the washroom instead of waiting until
+they arrived at 11 division. she noted that he appeared to be an older man and
+expressed concern about the discomfort or indignity of having him urinate in
+the back of the cruiser, given her past experiences. in my view, that was a
+compassionate and reasonable position to take under the circumstances.
+
+the suggestion that a male officer should have been called to supervise
+mr. kellerman while he was in the washroom was unrealistic without causing
+undue delay, especially considering the time-sensitive nature of the breath
+demand procedures under section 320.27 of the
+code.
+
+the door was left ajar, and the officers’ body-worn cameras were
+recording. however, there was no evidence that the officers deliberately tried
+to observe mr. kellerman while he was using the toilet. the officers maintained
+a respectful distance and did not attempt to view the intimate act of urination;
+therefore, the severity of the privacy intrusion has been significantly
+reduced.
+
+although the police did not inform mr. kellerman that he was being
+recorded, the cameras were not aimed at the area; instead, they directed their
+cameras away and minimized exposure.
+
+although the police did not reference or follow any policy regarding
+privacy during bathroom use, i cannot conclude whether there was a blatant
+disregard for internal policies or best practices, if any existed. i am
+skeptical that this issue is systemic, given the unusual circumstances in this
+case—an arrest in the home and a request to use the washroom before leaving.
+
+i accept that the officers needed to maintain visual contact with
+mr. kellerman for safety reasons, as he was under arrest and had not yet been
+searched. courts have occasionally allowed limited intrusions into privacy when
+justified by legitimate safety concerns, particularly in custodial settings.
+mr. kellerman was lawfully arrested; therefore, his expectation of privacy was
+diminished, especially in the context of police supervision. given the presence
+of officers and the ongoing investigation, a reasonable person in mr.
+kellerman’s position would not expect complete privacy while in custody and
+under observation.
+
+i
+find that the officers allowing mr. kellerman to use his bathroom was a humane
+and reasonable accommodation, especially if the alternative was to delay
+transport or deny access. ideally, in the future, the body-worn camera could be
+turned off to guarantee the detainee’s privacy further, but as i have said
+before, the camera did not capture the intimate act in this case.
+
+i
+find there was no violation of mr. kellerman’s right to an exception of
+privacy, contrary to section 7 of the
+charter.
+search of mr. kellerman’s vehicle: re: seizing the keys and the inventory
+search
+the evidence:
+
+after mr. kellerman was arrested and removed from the home, the police
+took his car keys and did an ‘inventory’ search of the car, which revealed an
+open bottle of rye in the front part of the vehicle.
+
+pc podyma initially testified that mr. kellerman handed her the
+keys. later, she said that was incorrect, and possibly pc anderson gave her the
+keys. ultimately, pc podyma admitted that she did not remember who had given
+her the keys or exactly how she had come into possession of them. pc anderson
+testified that pc podyma found the keys and gave them to her, but she was also
+not sure about the exact sequence.
+
+the body-worn camera footage showed that while escorting mr.
+kellerman to the cruiser, pc podyma took the keys from the shelf near the front
+door and handed them to pc anderson. the house key was removed and placed with
+mr. kellerman's wallet. the police informed him that the keys were being taken
+because his car was being towed.
+
+pc anderson testified that the purpose of the search was to secure
+mr. kellerman’s vehicle since he was now under arrest and in custody. she
+claimed it was standard procedure to ensure there were no valuables or hazards
+left in the vehicle.
+
+during this search, she found an open bottle of canadian club rye in
+the center console.
+positions of the parties:
+
+the defence argued that this was not a valid inventory search but
+rather an evidentiary search conducted without a warrant or legal
+justification.
+
+the crown argued that the search was administrative, not
+investigative. it was conducted to secure the vehicle and document its contents
+after mr. kellerman was taken into custody.
+the applicable legal principles:
+
+there is a difference between the search of a vehicle incident to
+arrest and an ‘inventory’ search. the former is to protect the police, the
+accused or the public and is conducted for valid law enforcement purposes
+incident to a person’s arrest. the latter occurs most often when a vehicle is
+being seized or impounded and is conducted to ensure a proper accounting of
+what is in the vehicle at the time it is removed from the accused’s custody.
+
+a search incident to arrest is lawful if it meets three key criteria
+established under common law and affirmed by the supreme court in cases like
+r.
+v. caslake,
+1998 canlii 838 (scc), 1 scr 51. first, the arrest must
+be lawful. second, the search must be truly incidental to the arrest, meaning
+it must be conducted for a valid law enforcement purpose such as ensuring
+officer safety, preventing escape, or preserving evidence. third, the search
+must be reasonable in scope and manner, tailored to the circumstances and not
+overly intrusive. these principles are grounded in
+section 8
+of the
+canadian
+charter, which protects individuals against unreasonable search and seizure.
+
+cloutier v. langlois,
+1990 canlii
+122 (scc)
+was an early scc decision which considered the issue of a search
+incidental to arrest as extending to the surroundings of the search location.
+the court held that the power to search an arrested person extended to
+encompass a search of the “surroundings of the arrest location,” to ensure that
+the evidence found on the accused and “in his immediate surroundings” is
+preserved. (see: para. 187.) however, the court was careful to note that the
+power to search incidental to arrest was not automatic or unlimited, stating at
+para. 186:
+1. this power [to be permitted to search incident to an
+arrest] does not impose a duty. the police have some discretion in
+conducting the search. where they are satisfied that the law can be
+effectively and safely applied without a search, the police may see fit not to
+conduct a search.
+2.
+the search must be for a valid objective in
+pursuit of the ends of criminal justice, such as the discovery of an object
+that may be a threat to the safety of the police, the accused or the public, or
+that may facilitate escape or act as evidence against the accused.
+the purpose of the search must not be unrelated to the objectives of the proper
+administration of justice, which would be the case for example if the purpose
+of the search was to intimidate, ridicule or pressure the accused in order to
+obtain admissions.
+3. the search must not be conducted in an abusive fashion
+and in particular, the use of physical or psychological constraint should be
+proportionate to the objectives sought and the other circumstances of the
+situation. [emphasis added]
+
+the court emphasized that a search that did not meet the above
+objectives could be characterized as unreasonable and unjustified at common
+law.
+
+since
+cloutier,
+supra,
+the supreme court of
+canada has considered various iterations of the issue. see, for
+example,
+r. v. stillman,
+1997 canlii 384 (scc), at para.
+35
+(preservation
+of evidence from destruction by a detainee and the discovery of evidence could
+be valid objectives, but did not include an invasive search and seizure of hair
+and buccal samples and teeth impressions);
+r. v. caslake, (motor
+vehicle searches);
+r. v. golden,
+2001 scc 83
+(strip
+searches); and
+r. v. nolet,
+2010 scc 24
+(motor vehicle
+searches).
+
+in
+caslake,
+a case involving the search of a
+motor vehicle, lamer cjc summarized the importance of the limit that the
+search must be truly incidental to the arrest, at para. 25:... if the law on which the crown is relying for
+authorization is the common law doctrine of search incident to arrest, then the
+limits of this doctrine must be respected. the most important of these
+limits is that the search must be truly incidental to the arrest. this means
+that the police must be able to explain, within the purposes
+articulated
+in
+cloutier,
+supra
+(protecting the police, protecting
+the evidence, discovering evidence), or by reference to some other valid
+purpose, why they searched. they do not need reasonable and probable
+grounds. however, they must have had some reason related to the arrest for
+conducting the search at the time the search was carried out, and that reason
+must be objectively reasonable....
+
+in
+caslake, the majority of the court held that an inventory
+search of a motor vehicle conducted in accordance with rcmp policy was not consistent
+with a valid police objective, as articulated in
+cloutier. 
+interestingly, the majority held that if the police had searched the vehicle
+with the stated objective of obtaining evidence which could be used at the
+accused’s trial relating to the drug charges for which he had been arrested,
+the search would have been incidental to his arrest.
+
+in
+r. v. nolet,
+2010 scc 24,
+the scc held that a vehicle search, conducted to discover evidence
+related to the offence for which the accused had been arrested, constituted a
+lawful search pursuant to the power to search incidental to arrest. the
+court confirmed that a search incident to arrest does not require reasonable
+and probable grounds, and the basis of the warrantless search is
+not
+exigent
+circumstances, but rather, connection or relatedness. (see: paras. 51 and 52.) see
+also:
+r. v.
+fearon,
+2014 scc 77
+at para.
+71,
+r. v. tontarelli,
+2009 nbca 52 (canlii),
+and
+r. v. ibrahim,
+2021 mbca 12 (canlii),
+which confirm that exigent circumstances are not required. even after
+the accused has been removed from the vehicle, searched at the roadside, and
+placed under arrest, a subsequent search of the vehicle is permissible as
+incident to arrest to preserve or gather evidence related to the arrest or for
+public or officer safety. (see:
+r. v. polashek
+(1999),
+1999
+canlii 3714 (on ca);
+r. v. macdonald,
+2014 scc 3
+at paras.
+33, 41-42;
+r. v. majedi,
+2009 bcca 276 (canlii)
+(
+para.
+25
+).)
+
+it should be noted that the courts have emphasized the need for a
+reasonable, identifiable purpose for the search, and cautioned that undertaking
+a search for the sake of “due diligence, or completeness, runs the risk of
+impacting the privacy rights of an individual where there is no legal basis to
+do so”: (see:
+r. v. johnstone,
+2020 bcsc 316
+(canlii)
+at para.
+70.)
+
+therefore, while searches that are truly
+incidental to a lawful arrest do not themselves have to be based upon
+reasonable and probable grounds, the police must, when undertaking such searches,
+be seeking “to achieve some valid purpose connected to the arrest.” this
+will turn on what the police are searching for and why they are searching for
+it. the police must have in mind, when searching, one of the purposes for
+a valid search incident to arrest and must reasonably believe that this purpose
+may be served by the search that is undertaken. (see
+r. v. caslake, at
+paras.
+19-25;
+r. v. nolet, at paras.
+49-52;
+r. v. muller,
+2014 onca 780 (canlii), 122 o.r. (3d) 721 (c.a.) at para.
+38.)
+
+the jurisprudence appears clear that a search incident to arrest can
+include a search of the motor vehicle of the accused where the arrest took
+place when the accused was in or had care and control of the vehicle at the
+time of the arrest, and the search was rationally related to the reason for the
+arrest. this may include searching the passenger compartment, the trunk, or
+even removing interior panels. (see:
+r. v. pearson,
+2017 onca 389;
+r. v. stonefish,
+2019 onca 914;
+r. v. smellie,
+1994 canlii 1612 (bc
+ca), 53 bcac 202.) indeed,
+fearon
+suggests there is no categorical limit on searches incident to
+arrest. cromwell j. explained, at paras. 13 and 14,
+that:
+this question about the scope of the power to search incident to
+arrest cannot be answered in too categorical a fashion. as
+lamer c.j. explained
+in
+caslake, the permissible scope of
+a search incident to arrest turns on several different aspects of the search
+including the nature of items seized, the place of search and the time of
+search in relation to the time of arrest: paras. 15-16. each of
+these aspects may engage distinct considerations that cannot be addressed in
+very general terms.... it follows that the permissible scope of
+searches incident to arrest will be affected by the particular circumstances of
+the particular arrest. the courts will rarely be able to establish any
+categorical limit applicable to all arrests and all purposes incidental to
+them.
+there is no question that there is a common law police power to
+search incident to arrest.... to determine the precise scope of this
+common law power, the court must weigh the competing interests involved,
+particularly whether the search “is reasonable in light of the public purposes
+served by effective control of criminal acts on the one hand and on the other
+respect for the liberty and fundamental dignity of individuals”:
+cloutier
+v.
+langlois,
+1990 canlii 122 (scc),
+ 1
+s.c.r. 158, at pp. 181-82;
+caslake, at para.
+17. the court’s task is “to delineate
+the scope of the common law power... in a way that is consistent with
+the
+charter
+right to be protected against
+unreasonable search and seizure”:
+r. v. golden,
+2001
+scc 83,
+ 3
+s.c.r. 679, at para.
+87.
+inventory searches:
+
+in
+r. v. nicolosi,
+1998 canlii 2006 (on
+ca), the court of appeal concluded that inventory searches of vehicles after
+arrest are not automatically justifiable as a search incident to the arrest.
+this is so because inventory searches do not necessarily serve the criminal law
+objectives which justify the power to search as an incident of arrest. (see
+also:
+r. v. wint,
+2009 onca 52.)
+
+in
+r. v. dunkley,
+2016 onca 597, the accused had
+parked his vehicle in the parking lot of a commercial establishment. he was
+unaware that police officers had followed him to that location to question him
+about robberies. the court of appeal overturned his conviction and
+concluded he had not parked the vehicle with the intent of abandoning it, and
+the subsequent warrantless search was unlawful. in doing so, the court offered
+a summary of the basic principles concerning warrantless inventory searches:
+i)
+in
+caslake,
+the supreme court declined to decide whether there should be an inventory
+exception under
+s. 8
+of the
+charter;
+ii)
+the
+police have a responsibility to keep an impounded vehicle safe. to do so, they
+must have the authority to search and inventory the contents;
+iii)
+applying
+r. v. wint,
+2009 onca 52, the fact the police may have been looking for
+something else while conducting an inventory search, does not
+prima
+facie
+render the search unlawful;
+iv)
+when
+itemizing visible property, the police have the authority to open bags or other
+containers in order to itemize their contents (
+wint
+at paras.
+14-15
+); and
+v)
+an
+inventory search of a vehicle will be unconstitutional where there is no
+statutory authority invoked for the search (
+nicolosi, at para.
+34;
+caslake, at para.
+30;
+r. v. nolet,
+2010 scc 24,
+ 1 s.c.r. 851, at para.
+53
+).
+
+the police, when impounding a motor vehicle, are entitled to search
+it to itemize property of apparent value. in doing so, the police are
+also permitted to itemize the contents of items, such as purses and bags, found
+within the vehicle.
+
+in
+r. v. lukasci,
+2011 oncj 758, at para.
+22, the court found that an inventory search could include the
+vehicle’s glove compartment:
+although
+wint
+did
+not speak directly to a search of the trunk of a vehicle, in my view a search
+of the trunk or glove compartment or centre console falls within the spirit
+of
+wint’s
+recognition of a reasonable power to survey the
+property in the vehicle, including its contents. in that sense, i believe
+wint
+has
+overtaken any narrow reading of
+nicolosi, and recognizes a
+reasonable search power to inventory and document property for which the police
+are responsible throughout the vehicle, whether or not it is in plain view.
+analysis:
+
+the
+police are generally entitled to extend a search incident to an arrest to
+include the vehicle in which the accused was travelling. while the accused is
+typically arrested in this vehicle, this is not always the case if there is a
+temporal location.
+
+it
+would be harder to justify the search of the vehicle as a proper “inventory”
+search, as the vehicle was not being seized or impounded by police.
+
+mr. kellerman was not found in his vehicle at the time of the
+arrest, although the officers noted that the vehicle was ‘still warm’ in the
+driveway. this lack of immediate temporal connection is not fatal, and delay
+and distance do not automatically rule out a search from being incidental to
+arrest. still, they may cause the court to draw an adverse inference. 
+however, that inference may be rebutted by a proper explanation. (see:
+caslake,
+para.
+27.)
+
+in this case, mr. kellerman was under arrest and his vehicle was
+being impounded. the seizure of his car keys was incidental to his lawful
+arrest. the search of his car was administrative and not for investigative
+purposes. pc anderson's search of the console for valuable items was proper.
+(see:
+lukasci
+and
+wint.) opening the centre console and seizing
+the bottle of rye was not an unreasonable search and seizure.
+
+there was no violation of
+section 8
+when the police seized mr.
+kellerman’s car keys and searched his car before impounding it.
+was mr. kellerman informed of the
+reasons for his detention or arrest, contrary to
+section 10(a)
+of the
+charter
+?
+was the delay of the informational
+component of mr. kellerman's rights to counsel for approximately 12 minutes,
+contrary to
+section 10(b)
+of the
+charter
+?
+the evidence:
+
+mr.
+kellerman was arrested at approximately 9:38 p.m. he was not informed of his
+rights to counsel until 9:50 p.m. by pc podyma while seated in her cruiser.
+this is a 12-minute delay. during that time, mr. kellerman put on his shoes and
+was permitted to use his upstairs washroom. he was asked if he needed his
+medication, where his house, car keys, and his cellphone were. he was escorted
+from the house, handcuffed, and searched before his rights to counsel were read
+to him in the cruiser.
+
+pc
+podyma admitted that she did not immediately advise mr. kellerman of his rights
+to counsel. she explained that she needed her yellow notebook to read the
+caution properly. she also said mr. kellerman requested to use the bathroom,
+and she prioritized that. she acknowledged she could have told him, “you have
+the right to call a lawyer,” but chose not to.
+
+however,
+pc anderson confirmed the delay and described it as “typical” in such
+situations. she did not express any concern about the timing or suggest that
+there was any urgency.
+positions of the parties:
+
+the
+defence submits that the officers failed in their obligations to inform mr.
+kellerman of the reasons for his arrest and detention.
+
+the
+defence argues that the delay in informing mr. kellerman of his rights to
+counsel was unjustified and unlawful. there were no officer or public safety
+concerns that justified the delay. during the delay, he made certain
+incriminating statements. the delay reflects a systemic disregard for
+constitutional rights.
+
+the
+crown submits that mr. kellerman was informed of his rights to counsel promptly
+upon his arrest, and implementation occurred as soon as practicable, at 11
+division. the police were justified in delaying the informational component to
+allow mr. kellerman to use the washroom. after the caution, pc podyma said,
+“come outside so we can arrest you and read you your rights to counsel.”
+furthermore, after mr. kellerman used the washroom, pc podyma said, “let’s go
+outside so i can read the rights to counsel.”
+
+the
+delay was brief and did not prejudice his ability to speak to duty counsel
+eventually.
+
+in
+brief, the crown submits that the delay was for practical and compassionate
+reasons. it was not tactical, but rather a matter of respecting mr. kellerman’s
+dignity and health.
+
+if
+there is a finding of a breach, the crown argues that officers acted in good
+faith and not for any malevolent purpose. the evidence should not be excluded.
+applicable legal principles: sections 10 (a) and (b) – informing
+the detainee of the reasons for detention and delayed rights to counsel
+
+sections
+10(a)
+and
+10(b)
+of the
+charter
+states the following:
+everyone has the right to on arrest or detention.
+(a)to be informed promptly of the reasons therefor.
+(b)to retain and instruct counsel without delay and to be
+informed of that right.
+
+the
+purpose of section 10(a) is to ensure that an individual understands the legal
+jeopardy they face so that they may make informed decisions, including whether
+to exercise their right to counsel under section 10(b). the information
+provided need not be in precise legal language, but it must be sufficient to
+allow the detainee to understand the nature of the investigation or the reason
+for the arrest.
+
+if
+the stop or detention is not part of a check-stop program or under provincial
+highway legislation, the police officer must have articulable cause or
+“reasonable grounds” to detain a driver. (see
+r. v. mann, 3
+s.c.j. 59 (s.c.c.), at para. 33.)
+
+the
+reasons for detention must be explained to the detainee "in clear and
+simple language." (
+mann, at para.
+21.)
+
+police
+are authorized to check drivers' sobriety by provincial legislation and at
+common law. physical sobriety tests, roadside questioning regarding alcohol
+consumption, and roadside questioning to assess whether the driver’s speech is
+slurred are all reasonable roadside investigative procedures. any investigative
+procedure must be performed at the detention site, with dispatch, with minimal
+inconvenience and no danger to the detainee's safety. (see:
+r. v. smith,
+1996 canlii 1074 (on ca), o.j. no. 372 (c.a.).)
+
+doherty
+j.a. of the ontario court of appeal described reasonable grounds to detain as
+“a constellation of objectively discernible facts which give the detaining
+officer reasonable cause to suspect that the detainee is criminally implicated
+in the activity under investigation.” (see:
+r. v. simpson,
+1993 canlii 3379 (on ca), o.j.
+no. 308 at para.
+61
+(c.a.).)
+
+in
+r. v. nguyen,
+2016 onsc 4980, the court held that a statement such as
+“you are being investigated for an impaired incident” was sufficient to satisfy
+section 10(a), even if the precise statutory language was not used.
+
+police
+have an obligation, upon arrest, to advise the person arrested of their right
+to counsel
+without delay. without delay refers to both informing the
+detainee of their right to counsel and implementing that right. the words
+“without delay” in section 10(b) have been interpreted to mean immediately,
+“subject to concerns for officer or public safety, and such limitations as
+prescribed by law and justified under
+s. 1
+of the
+charter.” this is to
+protect against the risk of self-incrimination that results from the
+individuals being deprived of their liberty by the state, and to assist them in
+regaining their liberty. (see:
+r. v. suberu,
+2009 scc 33 (canlii), 
+para.
+41.)
+
+at
+para. 42, the court closed the door on the flexibility of reading the rights to
+counsel subject to officer or public safety concerns:
+in our view, the words 'without delay' mean 'immediately'
+for s. 10(b). subject to concerns for officer or public safety, and such
+limitations as prescribed by law and justified under
+s. 1
+of the
+charter,
+the police have a duty to inform a detainee of his or her right to retain and
+instruct counsel, and a duty to facilitate that right immediately upon
+detention.
+
+regrettably,
+this decision did not resolve the ongoing litigation concerning the timing of
+the right to counsel.
+
+where
+officers delay reading the accused their right to counsel, there may be a
+section 10(b) breach. the following cases have considered the issue.
+
+justice
+schwarzl reviewed the applicable caselaw in
+r. v. braich,
+2022 oncj 81
+(canlii), a case in which there was a five-minute delay between arrest and rtc:
+[17.]
+when
+an individual is arrested or detained,
+s. 10(b)
+of the
+charter
+guarantees the individual the right to retain and
+instruct counsel “without delay” and to be informed of that right.
+ subject to concerns for officer or public safety, or limitations
+prescribed by law and justified under
+s. 1
+of
+the
+charter, “without delay” means “immediately”:
+r.
+v. bartle,
+1994 canlii 64 (scc),
+ 3 s.c.r. 173;
+r.
+v. suberu,
+2009 scc 33 (canlii),
+ s.c.j. no. 33;
+r.
+v. rover,
+2018 onca 745;
+r.
+v. thompson,
+2020 onca 264 (canlii),
+ o.j. no. 1757 (c.a.).
+[18.]
+the
+suspension of the
+right to counsel
+is an
+exceptional step that should only be undertaken in cases where urgent and
+dangerous circumstances arise or where there are concerns for officer or public
+safety. police officers considering whether circumstances justify
+suspending the
+right to counsel
+must
+conduct a case by case assessment aided by their training and experience.
+ even if such circumstances exist, the police must take reasonable steps
+to minimize the delay in granting access to counsel. a policy or practice
+routinely or categorically permitting the suspension of the
+right to counsel
+in certain types of investigations
+is inappropriate:
+r. v. rover, at
+paras.
+27 and 28;
+r. v. la,
+ o.j. no. 5357 (c.a.), at paras. 38 and 39.
+[19.]
+some
+ontario provincial court judges have held that delays of between five and seven
+minutes in providing
+rights to counsel
+after
+arrest where no conspicuous safety concerns exist can be justified where the
+officer first tends to investigative, rather than administrative, duties such
+as searching the arrestee incident to arrest, lodging the arrestee in a police
+car, arranging for other officers to assist, arranging a tow, or checking the
+arrestee’s criminal history:
+r. v. singh,
+ o.j. no. 3017 (o.c.j.);
+r. v.
+foster,
+2017 oncj 624;
+r. v.
+rossi,
+2017 oncj 443;
+r. v.
+turcotte,
+ o.j. no. 5607 (o.c.j.);
+r.
+v. selvashanmugathasan,
+ o.j. no.
+261 (o.c.j.);
+r. v. agnihotri,
+ o.j. no. 4133 (o.c.j.);
+r. v.
+bhimlal,
+ o.j. no. 1759 (o.c.j.);
+r.
+v. coates,
+ o.j. no. 2774 (o.c.j.);
+r.
+v. brown,
+ o.j. no. 4695 (o.c.j.).
+[20.]
+other
+ontario provincial court decisions have gone the other way in similar
+circumstances:
+r. v. davis,
+
+o.j. no. 1220 (o.c.j.);
+r. v. ranger,
+ o.j. no. 3203 (o.c.j.);
+r. v.
+krasausks,
+ o.j. no. 5580 (o.c.j.);
+r.
+v. pillar,
+ o.j. no. 3791 (o.c.j.);
+r.
+v. toth,
+ o.j. no. 2350 (o.c.j.);
+r.
+v. davidson,
+ o.j. no. 3559 (o.c.j.).
+[21.]
+having
+reviewed the authorities, i find that determining the question of whether
+rights were given immediately must not be based solely on time, but also an
+examination of all the circumstances. context is important because
+immediately does not always mean instantly:
+r.
+v. fisk,
+ o.j. no. 707
+(o.c.j.)
+at para 51;
+r. v. kuznetsoff,
+2021
+oncj 124 (canlii),
+ o.j. no. 1125
+(o.c.j)
+at para.
+21
+…. [emphasis
+added]
+….
+[22.]
+in
+this case the five-minute delay in providing
+rights to
+counsel
+was the result of several factors.
+[23.]
+one
+factor is that p.c. clapham took time to complete the arrest by taking physical
+control of the defendant. she then took time to search him, handcuff him,
+and put him into the back of her car. no evidence was led as to how long
+this process took, but it would be reasonable to think this would take only a
+minute or two especially since the defendant was cooperative and did not hinder
+the officer.
+[24.]
+another
+factor is that the officer also took time to speak to p.c. drinkwalter about
+handling the search and tow of the defendant’s car. she also called
+dispatch to arrange for a breath technician. no evidence was led on the
+time taken to perform these activities, but i find that a reasonable amount of
+time would be a minute or two for these events to unfold.
+[25.]
+i
+find that these first two factors were brief investigative functions that took
+a few minutes or so. as such they did not undermine the immediacy of the
+provision of
+rights to counsel. this case
+is different from the situation in
+r. v. kou,
+ o.j. 6811 (o.c.j.)
+where retrieving a
+notebook from a duty bag was done at the officer’s leisure. it is also
+different from
+r. v. odrowski,
+
+o.j. no. 6018 (o.c.j.)
+where the court found the officer’s decision
+to delay reading rights by putting the screening device away and jotting things
+in his notebook to be unreasonable. in these two cases, the trial judges
+clearly felt that the officer’s languid approach violated the immediacy
+requirement of providing
+rights to counsel. 
+here, the officer’s conduct in searching incident to arrest involved an
+inherent consideration of safety even though she did not articulate this. 
+i also find that p.c clapham’s discussion with her partner regarding the
+defendant’s car involved unarticulated safety considerations. even though
+the car was on the shoulder, it was on a busy road. discussions to deal
+with its search and removal not only protected the safety of other motorists,
+but also the safety of the defendant’s automobile.
+[26.]
+another factor is that p.c. clapham wanted to ensure that
+when she read
+rights to counsel, they were not
+going to be interrupted and that it was done in a private environment. 
+she wanted to remove distractions like dealing with his car or calling dispatch
+from interfering with her duty to ensure that the defendant not only received,
+but understood, his rights. this provides important context because the
+officer appears to have been alive to the idea that reciting the rights without
+ensuring comprehension is futile. i find that in this case, being given
+his rights immediately included a consideration of doing so at a time when, and
+in a place where, the officer could be sure he understood those rights. 
+implicit in these circumstances is that it was quieter in the officer’s car
+than standing on the side of the road. once she completed the brief
+investigative tasks the officer gave her full attention to the defendant:
+r.
+v. pileggi,
+ o.j. no. 32
+(c.a.)
+at para. 62. that said, the officer could have given
+his
+rights to counsel
+prior to calling for
+a breath technician, but any delay caused by this task was minimal and did not
+negate the overall immediacy of providing the defendant with his
+right to counsel.
+[27.]
+the
+final factor in the delay of giving rights was the mixed evidence of p.c.
+clapham. she said that she was trained that
+rights
+to counsel
+are to be given as soon as practicable after arrest but
+also right away. i find that the officer believed that she had to give
+the person their
+right to counsel
+right
+away provided that the person could hear and understood those rights. 
+this belief was completely reasonable. at no point did she suggest she
+felt she could delay the reading of rights as a matter of convenience to
+her.
+[28.]
+the
+situation before me is similar that in
+r. v. agnihotri,
+ o.j. no. 4133 (o.c.j.)
+where rahman j.
+found no breach in a four-minute delay where the officer took time to deal with
+the defendant’s car and where the officer testified that he wanted to place the
+applicant in the cruiser where there was some peace and quiet to read his
+rights.
+[29.]
+based on the constellation of factors in this case, i find
+that the defendant has not shown on a balance of probabilities that the delay
+of five minutes between his arrest and receiving
+rights
+to counsel
+resulted in a breach of his
+s.10(b)
+charter
+rights. 
+if the postponement in reading his rights was sufficient to shift the burden to
+the crown to show that the delay was reasonable, they have done so for the
+reasons i have
+stated:
+r. v. taylor,
+2014
+scc 50 (canlii),
+ 2 s.c.r. 495
+at
+para.
+24.
+
+in
+r. v. bhimlal,
+2021 oncj 203 (canlii), there was a five-minute delay
+between arrest (following failed roadside test) and the rights to counsel. the
+court accepted that, subject to concerns for officer or public safety, “without
+delay” means “immediately”. however, the court acknowledged that specific
+circumstances may justify some delay in providing a detainee access to counsel.
+those circumstances often relate to public safety or the need to preserve
+evidence. the court found there was no breach, but not before canvassing a
+series of cases on the issue:
+
+counsel for mr. bhimlal provided me with a
+number of cases where seven-minute delays were held to be an infringement of
+the accused person’s section 10(b) rights.
+
+in
+r. v. sandhu,
+2017
+oncj 226,
+schreck j. found a breach
+where the seven-minute delay occurred while the officer spoke to the arrestee's
+passengers.
+
+in
+r. v. simpson,
+ o.j. no. 2594,
+ocj schreck j. found a
+breach where the arresting officer delayed informing the impaired driving
+arrestee of his right to counsel for seven minutes while he retrieved the
+arrestee's wallet and some unspecified object from the center console of his
+vehicle. in this case, crown counsel conceded that this was a violation
+of section 10(b).
+
+in
+r. v. campbell,
+2017
+oncj 570,
+felix j.
+found a breach where there was a seven minute delay while the officer
+determined his legal authority to tow the arrestee's vehicle from a private
+driveway, summoned another officer to assist with towing, counted money he had
+seized from the arrestee and secured open liquor.
+
+crown counsel referred me to cases going the
+other way.
+
+in
+r. v. singh,
+ o.j. no. 3017 (o.c.j.),
+botham
+j. found no breach in a five-minute delay for a pat-down search, and running
+the arrestee's name on the officer's in-car computer did not lead to a breach.
+
+in
+r. v. foster,
+2017
+oncj 624, jaffe j.
+found no breach in a five-minute delay while the officer conducted a pat-down
+search and lodged the arrestee in the back of the cruiser.
+
+in
+r. v. rossi,
+2017
+oncj 443,
+henschel j. found no breach
+where the female arresting officer delayed for seven minutes so a male officer
+could search the arrestee incident to arrest and so she could retrieve his cell
+phone at his request and calm him down so he would be able to absorb what she
+was telling him about his right to counsel.
+
+in
+r. v. turcotte,
+
+o.j. no. 5607 (o.c.j.),
+mcinnes j. found no breach in a
+five minute delay during which the police officer handcuffed the man, performed
+a pat-down search incident to arrest and stored the man's property.
+ during this interaction he asked the defendant where his car keys were.
+ the defendant replied he had left them on the ground near "the
+corner of the building" which was evidently a short distance from where
+his truck and the police cruiser were parked. the officer then moved his
+police cruiser close to the corner of the building to ensure nothing happened
+to the keys before he had the chance to search for them and he initiated
+arrangements for another officer and a tow truck to attend and he entered the
+defendant's particulars into his in-car computer system to determine if there
+were any outstanding warrants, charges or prior judicial interim release orders
+and the like. taking these steps comported with the immediacy
+requirement.
+
+in
+r. v. agnihotri,
+ o.j. no. 4133 (o.c.j.),
+rahman j. found no breach in a four minute delay. his
+reasons were as follows:
+9
+ further, the four-minute delay in advising the applicant of his right to
+counsel after he was arrested did not breach the immediacy requirement of s. 10(b). the requirement to read a detained person
+his or her right to counsel immediately does not mean it must happen
+instantaneously after arrest. context matters. the officer explained that he
+wanted to place the applicant in the cruiser where there was some peace and
+quiet. while it is true that he briefly called for assistance to have the car
+towed, one minute before advising the applicant of his right to counsel, that
+does not mean it was not done immediately. this is not a case where the officer
+did several non-urgent, administrative tasks before advising the applicant of
+his right to counsel. in the context of this arrest, the four-minute delay did
+not fall afoul of the immediacy requirement. there was no breach of
+s. 10(b)
+of the
+charter.
+
+in
+r. v. fisk,
+
+o.j. no. 707 (o.c.j.),
+o’marra j. held that the immediacy
+requirement dictated that the accused should have been provided with meaningful
+rights to counsel while he waited for the arrival of the asd. relevant to the
+present case however, he went on to state that:
+51 
+in my view, the applicant did not prove on a balance of probabilities that
+there was a further section 10(b)
+violation as a result of a delay of four (4) minutes between the time of the
+"fail" and the arrest, to the time that the right to counsel was
+provided to the applicant seated inside the cruiser. the right to counsel is to
+be provided 'immediately not instantaneously'. police officers are not required
+to hand cuff the accused with one hand and with the other hand read the right
+to counsel from their notebooks. besides, the police did not attempt to elicit
+any evidence from the applicant during this period that would have been
+admissible. (
+see:
+r. v. culotta,
+2018 onca
+665 (canlii),
+ o.j.
+no. 3946 (ont. c.a.)
+at para.
+35.
+)
+
+in
+r. v. taylor,
+2014 scc 50 (canlii),
+the accused rolled his truck, injuring three
+passengers. he was arrested for dangerous driving causing bodily harm, treated
+at the scene, and taken to the hospital, where he was treated for over four hours.
+although he was read his rights to counsel at the scene, no effort was made
+during this time to facilitate his access to counsel. the court ruled that the
+police have a duty to provide phone access to the detainee to contact counsel
+“at the earliest practical opportunity.”
+
+in
+r. v. hansraj,
+2022 oncj 258 (canlii), there was an 11-minute delay
+between arrest and the reading of the rights to counsel. during that time,
+police were speaking with each other, trying to determine if the passenger in
+the accused’s car should also be arrested. the court found that their ‘further
+investigation’ into the passenger did not justify the delay in reading the
+accused the information component of his rights to counsel and a breach was
+found.
+
+in
+r. v. tharmalingam,
+2022 oncj 304 (canlii), there was a 5-minute delay
+between arrest and reading of the rights to counsel. following the accused’s
+arrest for impaired driving, the officer placed him in the cruiser and then
+returned to the accused’s vehicle, where he retrieved the accused’s driver's
+licence, cell phone, and called for a tow. it was unclear whether the phone was
+retrieved at the request of the accused or the police officer’s initiative. the
+court found that there was no evidence of officer safety or intervening actions
+of others on the scene, which might have otherwise accounted for the delay. the
+court found the delay breached the accused’s
+charter
+rights. however,
+the court also found that the officer did not intentionally find other things
+to do to delay providing the accused with their rights to counsel; the delay
+was not excessively lengthy; and the officer did not attempt to elicit a
+statement from the accused before informing them of their rights to counsel. in
+balancing other factors, the court dismissed the
+charter
+application to
+exclude evidence.
+
+in
+r. v. tsivin,
+2016 oncj 72 (canlii), there was a 27-minute period between
+arrest and the rights to counsel, which was only given at the station. the
+arresting officer explained that the accused spoke russian, so he arranged for
+a russian-speaking officer to meet them at the police station. the contact
+between the police and the accused in the interim was perfectly professional
+and courteous. the police did not gather evidence in the 27 minutes before the rights
+to counsel was given. the court also observed that, had the police not provided
+the language interpretation services, they would have been exposed to a
+constitutional claim of language comprehension. the court found that, within
+this catch-22 situation, the police conduct was appropriate.
+
+in
+r. v. odrowski,
+2019 oncj 852 (canlii), an 8-minute gap occurred between
+the arrest and the rights to counsel, during which time the officer put the asd
+away, took some time to jot down notes, and another officer conducted a
+pat-down search of the accused. the officer testified that he thought the
+obligation to provide rights to counsel was “as soon as practicable”. the trial
+judge found a breach of section 10(b), concluding that there was no justifiable
+reason for the delay, such as concerns for officer or public safety. however,
+evidence of breath samples was admitted following section 24(2) analysis.
+
+in
+r. v. alipourbati,
+2022 oncj 202 (canlii), there was a 26-minute delay
+between the arrest and reading of the rights to counsel. this was a dynamic
+situation and an evolving investigation. a breach of s. 10(b) was found, but
+the handgun was admitted into evidence following a 24(2) analysis. the ruling
+was recently upheld on appeal:
+2025 onca 64 (canlii).
+analysis:
+
+in
+these circumstances, i am not prepared to find a violation of
+sections 10(a)
+and (b) of the
+charter. i will explain why.
+
+first,
+i see no merit in the argument that mr. kellerman was not advised in plain
+language of the reasons for his detention. pc podyma advised mr. kellerman
+within seconds of opening the door that she was “investigating an impaired
+incident. i just want to caution you that, so anything you say might be used.”
+
+the
+officers used plain language in addressing mr. kellerman. this was stated
+clearly and promptly after she formed her grounds for arrest. the body-worn
+camera footage confirms that this occurred at the time of arrest, and that mr.
+kellerman responded appropriately, indicating he understood the nature of the
+arrest.
+
+although
+mr. sahota argued that the officer did not use the term “criminal offence” or
+explain the full legal implications, the law does not require such precision.
+the officer’s language was clear and sufficient to convey the essential reason
+for the arrest.
+
+moreover,
+mr. kellerman’s responses—such as inquiring about the duration of the process
+and discussing his medical needs—demonstrate that he understood he was in
+police custody and the nature of the investigation.
+
+i
+find that mr. kellerman was informed promptly and clearly of the reason for his
+arrest. the information provided was sufficient to satisfy the requirements of
+section 10(a)
+of the
+charter.
+
+accordingly,
+there is no breach of section 10(a).
+
+regarding
+the delay in providing the informational component of the rights to counsel, i
+begin by examining what transpired during the 12 minutes between the arrest and
+pc podyma informing mr. kellerman of his rights to counsel. i observed the
+following events on the body-worn camera:
+•
+at 9:38 p.m., mr kellerman was advised he was under arrest for
+impaired operation.
+•
+pc podyma explained her grounds, asked him not to say anything
+further, come outside, and get his shoes.
+•
+mr. kellerman asked what he had done while driving that was so
+bad. he did not understand why he was being arrested.
+•
+he returned to his front hall, searched for his most comfortable
+shoes, and sat down to put them on.
+•
+pc podyma asked if he was on any medication and whether he needed
+it. mr. kellerman inquired how long he was going to be “detained.” he was
+informed that he was under arrest and that it may take a few hours at minimum.
+pc podyma stated that she still needed to read him his rights to counsel.
+•
+at 9:40 p.m., mr. kellerman announced that he had to go “pee”.
+•
+mr. kellerman was still asking questions and displayed
+exasperation.
+•
+at 9:41 p.m., mr. kellerman finally put on his shoes. at this
+point, both he and the officers went upstairs.
+•
+mr. kellerman was in the washroom from 9:41:15 p.m. until 9:43:10
+p.m., or approximately two minutes.
+•
+as he exited the washroom, pc podyma asked him if he had any
+house keys to lock up. they went downstairs to the front hall area. mr.
+kellerman began searching for the house key in his jacket. the officers found
+his car keys that had the house key attached. it was removed and placed with
+his wallet. he was asked if he had a cell phone to call someone afterwards.
+•
+at 9:45 p.m., he was followed upstairs to search for his
+cellphone. he informed the officers that he had all his medical information on
+it.
+•
+he was asked about what medication he needed to bring with him.
+mr. kellerman began pulling out pieces of paper and said, “it's all right
+here.” he proceeded to inform them that he had lupus and was on blood thinners.
+the officers inquired if he had taken his medication. after attempting to
+recall when he took his blood thinner, both the police and mr. kellerman were
+satisfied that he did not need to bring any medication with him.
+•
+mr. kellerman tried to look for his car keys, and the police told
+him that they already had the car keys.
+•
+at 9:47:15 p.m., mr. kellerman was escorted outside and
+handcuffed. the police locked his front door.
+•
+at 9:47:45 p.m., mr. kellerman asked again what was happening,
+and pc podyma advised him that he needed to get in the car, and she would read
+him his “rights”. he was walked to pc podyma’s cruiser.
+•
+at 9:48:35 p.m., pc anderson searched mr. kellerman’s vehicle.
+•
+at 9:49:06 p.m., he was placed in the cruiser.
+•
+the police secured his property.
+•
+at 9:50:06 p.m., pc podyma sat in the cruiser with the property
+bag.
+•
+at 9:50:46 p.m., pc podyma commenced the rights to counsel from
+her yellow notes.
+
+as
+previously stated, determining whether mr. kellerman was informed immediately
+of his right to counsel is not based solely on a measure of time; an
+examination of all the circumstances is required.
+
+the
+majority of the 12 minutes was spent assisting mr. kellerman by ensuring he had
+everything he needed, including his phone, making sure his health was not
+compromised or jeopardized without his medication, ensuring his house was
+secure, ensuring he had shoes on, and fulfilling his request to use the washroom,
+as well as answering his questions to clear up his confusion about what was
+occurring. at the same time, they reiterated that they needed to remove him
+from the house and into the cruiser to read him his right to counsel.
+
+a
+portion of the delay was due to officer safety concerns related to handcuffing
+and searching mr. kellerman and securing his property.
+
+the police were accommodating his needs. as pc podyma testified, mr.
+kellerman was older and had health issues.
+
+the
+court should not second-guess every step taken by a police officer during an
+arrest. the officer may need to listen to the arrested person and respond to
+them; see
+r. v. rossi,
+2017 oncj 443, at paras.
+34 and 35.
+
+pc
+podyma did not need to inform mr. kellerman of his rights to counsel before
+placing him in the police cruiser, nor was she obligated to summarize those
+rights rather than read them verbatim from the back of her yellow notes. such
+an approach could result in officers providing incomplete or incorrect
+information. the information regarding the right to counsel is crucial. it was
+appropriate for pc podyma to delay reading the rights until the police could
+address mr. kellerman’s personal and health concerns and clarify his confusion,
+ensuring they were in a secure location where she could clearly and thoroughly
+convey the rights to counsel to mr. kellerman and mr. kellerman could
+understand the information.
+
+i
+find that pc podyma informed mr. kellerman, without delay, of his rights to
+counsel. considering mr. kellerman’s personal circumstances and health issues,
+as well as his exasperation regarding his situation, the delay in providing
+information about the right to counsel does not constitute an infringement or
+denial of mr. kellerman’s 10(b) rights and was justified.
+conclusion:
+
+there
+will be a finding of guilty on the over 80 count.
+impaired
+driving:
+the evidence:
+
+pc podyma testified that she detected a strong odour of alcohol on
+mr. kellerman’s breath. his eyes were bloodshot, red, and glassy, and his
+speech was slurred during their conversation. she observed mr. kellerman
+stumble into the doorway and stagger backward; however, this was not visible on
+the body-worn camera footage. she later admitted that the lighting was poor,
+and the hallway was cluttered. mr. kellerman acknowledged having consumed two
+coors light beers and revealed in the breath room that he had been driving
+earlier that evening from his friend’s home after the bills game.
+
+pc anderson testified that she noted a faint smell of alcohol when
+standing closer to mr. kellerman. she confirmed that his eyes appeared red. she
+observed that he was swaying slightly while standing. she did not specifically
+describe slurred speech. pc anderson located an open bottle of liquor in the
+centre console of mr. kellerman’s vehicle.
+
+pc champagnie observed that mr. kellerman had a noticeable odour of
+alcohol.
+his entire face was flushed
+red, and he had red-rimmed, watery eyes. he was co-operative, polite,
+talkative, and at times excited. mr. kellerman appeared balanced when entering
+the breath room, and his speech was described as “fair.”
+
+the body-worn, booking and breath room videos also detailed the
+characteristics of mr. kellerman’s intoxication.
+
+in the body-worn video, mr. kellerman slurred his words, appeared
+disoriented and confused, and often could not answer simple questions.
+
+in the booking video, there were no signs of staggering, swaying, or
+stumbling, but his decision to lie on the floor of 11 division to stretch and
+exercise was inappropriate and irrational.
+
+in the breath room video, mr. kellerman was composed, respectful,
+and cooperative; however, i also observed that mr. kellerman slurred his words,
+laughed, and chortled with pc champagnie.
+the applicable legal principles:
+
+the test for impaired operation of a motor vehicle has been set out
+in
+r. v. stellato,
+1993 canlii 3375 (on ca), 78 c.c.c.
+(3d) 380 (on ca), affirmed
+1994 canlii 94 (scc), 90 c.c.c. (3d) 160
+(s.c.c.):
+the trial judge
+must be satisfied that the accused's ability to operate a motor vehicle was
+impaired by alcohol or a drug. if the evidence of impairment is so frail as to
+leave the trial judge with a reasonable doubt as to impairment, the accused
+must be acquitted. if the evidence of impairment establishes any degree of
+impairment ranging from slight to great, the offence has been made out. the
+offence is not met merely by someone drinking alcohol and being in care or
+control of a vehicle. neither is it made out by evidence of impairment alone.
+the impairment must be such to be a contributing factor to an impairment of the
+ability to operate a motor vehicle.
+
+the “
+stellato
+test” is now incorporated into the wording
+of s. 320.14(1)(a) of the
+code. slight impairment to drive involves
+a reduced ability in some measure to perform the complex task of driving
+through reduced physical ability in motor function or balance, or a reduction
+in the many mental faculties necessary to drive safely such as vision, reaction
+time, perception, divided attention, processing multiple tasks and regard for
+rules of the road. indicia of impairment are not considered individually;
+rather, the totality of the evidence as a whole must be considered. (see:
+r.
+v. grant, o.j. no. 1143 at para.
+50,
+2014 onsc 1479;
+r.
+v. bush, o.j. no. 3453 at para.
+47,
+2010 onca 554.)
+
+the legal test of impairment to any degree does not mean that slight
+evidence will be sufficient to prove impairment beyond a reasonable doubt. as
+the alberta court of appeal explained in
+r. v. andrews, a.j.
+no. 8,
+1996 abca 23, leave refused s.c.c.a. no. 115, the “
+stellato
+test,”
+speaks to the degree of impairment in the ability to drive, which must be
+proved.
+analysis:
+
+the crown is not required to prove a specific level of
+impairment—only that the accused’s ability to operate the vehicle was affected
+in some way by alcohol.
+
+here, the crown has met that burden. the combination of physical
+symptoms, the admission of alcohol consumption, and the contextual evidence supports
+the conclusion that mr. kellerman’s ability to operate a motor vehicle was
+impaired.
+
+there will be a finding of guilt for operating a motor vehicle while
+impaired.
+conclusion:
+
+mr. kellerman is guilty of both counts on the information. i will
+hear submissions on the
+kienapple
+issue.
+released: june 10, 2025
+signed:
+justice p.t. o’marra
+
+section 529.3
+of the
+criminal code
+was enacted
+in response to the scc’s decision in
+r. v. feeney.
+it provides as
+follows:
+529.3
+(1) without limiting or restricting any power a peace officer may have to enter
+a dwelling-house under this or any other act or law, the peace officer may
+enter the dwelling-house for the purpose of arresting or apprehending a person,
+without a warrant referred to in section 529 or 529.1 authorizing the entry, if
+the peace officer has reasonable grounds to believe that the person is present
+in the dwelling-house, and the conditions for obtaining a warrant under section
+529.1 exist but by reason of exigent circumstances it would be impracticable to
+obtain a warrant.
+exigent circumstances
+(2)
+for the purposes of subsection (1), exigent circumstances include circumstances
+in which the peace officer
+(a)
+has reasonable grounds to suspect that entry into the dwelling-house is
+necessary to prevent imminent bodily harm or death to any person; or
+(b)
+has reasonable grounds to believe that evidence relating to the commission of
+an indictable offence is present in the dwelling-house and that entry into the
+dwelling-house is necessary to prevent the imminent loss or imminent
+destruction of the evidence.

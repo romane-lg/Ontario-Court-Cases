@@ -1,0 +1,446 @@
+source url: https://www.canlii.org/en/on/oncj/doc/2025/2025oncj377/2025oncj377.html
+
+ontario court of justice
+citation:
+r. v. russell, 2025 oncj 377
+date: 
+2025 07 14
+court
+file no.: pembroke 24-37100746
+between:
+his
+majesty the king
+— and
+—
+ashley russell
+before
+justice j.r. richardson
+heard
+on june 11, 2025
+reasons
+for judgment released on july 14, 2025
+richard morris and grace dazé.................................................... counsel
+for the crown
+nemee bedar................................................................................ counsel
+for the defendant
+richardson, j.:
+introduction
+
+this is my ruling on whether a crown witness, constable
+emmanuelle boucher of the ontario provincial police (“opp”), can testify
+remotely at the trial in this matter.
+
+the accused is charged with operating a conveyance
+while being prohibited from doing so contrary to
+section 320.18(1)
+(a) of the
+criminal
+code. the offence is alleged to have taken place on june 20, 2024 at the
+city of pembroke.
+
+the crown proceeded summarily.
+
+the matter is set for trial on september 8, 2025.
+
+the crown makes the application for the following
+reasons:
+a)
+at the time of the incident, constable boucher was assigned to the
+upper ottawa valley detachment of the opp. she is now assigned to thunder
+bay.
+b)
+if required in person, constable boucher would be required to be
+away from her position in thunder bay for a “prolonged period.”
+c)
+by affidavit evidence, which was not contested, constable boucher
+stated that she has the technology and a private space where she can testify
+without interference. she suggests that she give evidence by zoom.
+
+defence opposes the application for the following
+reasons:
+a)
+the trial is only scheduled for one day. constable boucher will, therefore,
+not have the sort of uncertainty as to when she would testify which she would
+have if the matter was a multi-day trial.
+b)
+there is plenty of time for her to make travel arrangements to
+appear for trial – the trial is in september and the application was heard in
+june.
+c)
+constable boucher would appear by making a “short flight” to ottawa
+or toronto and then driving to pembroke.
+d)
+constable boucher is the only officer who interacted with ms
+russell. she is the officer in charge of the investigation.
+e)
+there was confusion at the scene as to whether ms russell was
+prohibited.
+f)
+ms russell was detained at the scene for over an
+hour and a half while this determination was being made.
+g)
+the crown is seeking a custodial sentence on conviction. this is,
+therefore, a serious matter.
+h)
+“in
+person” evidence is “different” and “adds something” to the quality of the
+evidence that is not captured when a witness testifies remotely.
+
+during argument, the parties agreed as follows:
+a)
+the
+authenticity of transcripts, court documents, transcript of previous conviction
+are all admitted.
+b)
+ms
+russell was operating a conveyance when she was pulled over by constable
+boucher.
+c)
+ms
+russell made admissions to constable boucher about driving.
+d)
+there
+was confusion at the scene as to whether ms russell was prohibited.
+e)
+the
+issue at trial will be whether ms russell had a “reasonable excuse”.
+analysis
+trials are presumed to take place in person
+
+section 715.21
+of the
+criminal code
+states: 
+“except as provided in this act, a person who appears at, participates in or
+presides in a proceeding shall do so in person.”
+
+thus, there is a presumption in the
+code
+that
+witnesses will testify in person.
+
+bad habits attributable to covid-19 have resulted in an environment
+where participants feel entitled to appear remotely. it has been difficult to
+put the zoom genie back in the bottle.
+section
+714.1 – when the presumption of in-person evidence for witnesses can be
+overcome
+
+section 714.1
+of the
+criminal code
+states:
+a court may order that a witness in canada give evidence by
+audioconference or videoconference, if the court is of the opinion that it
+would be appropriate having regard to all the circumstances, including
+(a)
+the
+location and personal circumstances of the witness;
+(b)
+the
+costs that would be incurred if the witness were to appear in person;
+(c)
+the
+nature of the witness’ anticipated evidence;
+(d)
+the
+suitability of the location from where the witness will give evidence;
+(e)
+the
+accused’s right to a fair and public hearing;
+(f)
+the
+nature and seriousness of the offence; and
+(g)
+any
+potential prejudice to the parties caused by the fact that the witness would
+not be seen by them, if the court were to order the evidence to be given by
+audioconference.
+
+after considering the argument in this case, i find that this is a
+case which will largely turn on two issues:
+a)
+whether ms russell was in fact prohibited.
+b)
+whether ms russell knew that she was prohibited.
+general
+interpretation of section 714.1 and the issue of credibility
+
+this case does not, on the limited record before me, appear to be a
+case that turns on the credibility of constable boucher.
+
+the courts of appeal of three provinces have weighed in on the
+interpretation of section 714.1.
+
+in
+r. v. sdl,
+2017 nsca 58
+at paragraph
+32,
+the nova
+scotia court of appeal established the following principles when considering
+section 714.1 applications:
+1.
+as long
+as it does not negatively impact trial fairness or the open courts principle,
+testimony by way of video link should be permitted. as the case law suggests,
+in appropriate circumstances, it can enhance access to justice.
+2.
+that
+said, when credibility is an issue, the court should authorize testimony via
+714.1 only in the face of exceptional circumstances that personally impact the
+proposed witness. mere inconvenience should not suffice.
+3.
+when the
+credibility of the complainant is at stake, the requisite exceptional
+circumstances described in #2 must be even more compelling.
+4.
+the more
+significant or complex the proposed video link evidence, the more guarded the
+court should be.
+5.
+when
+credibility will not be an issue, the test should be on a balance of
+convenience.
+6. 
+barring unusual circumstances, there should be an evidentiary foundation
+supporting the request. this would typically be provided by affidavit. should
+cross examination be required, that could be done by video link.
+7. 
+when authorized, the court should insist on advance testing and stringent
+quality control measures that should be monitored throughout the entire
+process. if unsatisfactory, the decision authorizing the video testimony should
+be revisited.
+8. 
+finally, it is noteworthy that in the present matter, the judge authorized the
+witnesses to testify “in a courtroom…or at the offices of victims’ services…”.
+to preserve judicial independence and the appearance of impartiality, the video
+evidence, where feasible, should be taken from a local courtroom.
+
+in
+r. v. kz,
+2021 oncj 321
+at paragraph
+11, justice kenkel of
+this court declined to follow
+sdl
+for the following reasons:
+•
+the
+sdl
+decision considered a prior
+version of s 714.1 that set out minimal criteria for the order.
+in the subsequent amendments,
+parliament expanded the relevant considerations but did not adopt a special,
+discrete test for witness credibility cases.
+•
+criminal
+trial courts have decades of experience in assessing the credibility of
+complainants and other witnesses who testify by way of video technology. courts
+have gained further experience during the covid pandemic. no special test is
+required beyond the statutory criteria.
+•
+during
+the pandemic in a province where lockdown stay-at-home orders are in place and
+courtrooms have added restrictions for public health and safety, the use of
+videoconference technology can provide a better opportunity to assess
+credibility than in-person testimony.
+•
+videoconference
+technology shows and records both the demeanour and the responses of a witness.
+when evaluating concerns about the ability to fully assess demeanor, it’s
+important to remember the limited role demeanour plays in assessing witness
+credibility.
+•
+in
+my view, courts should decline to add a special, highly restrictive test that
+will be often be applied in matters of alleged sexual assault such as
+sdl
+and
+this case, that would limit access to videoconference technology where an
+application otherwise meets the statutory criteria.
+
+in
+r. v. jlk,
+2023 bcca 87, the british columbia court of
+appeal declined to follow
+sdl
+on the basis of justice kenkel’s decision
+in
+kz.
+most recently, in
+r. v. dms,
+2025 mbca 16, the manitoba
+court of appeal followed suit. as simonsen, j.a. wrote in
+dms
+at
+paragraph
+84:
+the goal of
+section 714.1 is to balance the practical and logistical issues of testifying
+in court with any potential impact from remote testimony on the fairness of the
+trial and on an accused person’s right to make full answer and defence (see
+jlk
+at para
+50
+). an order is appropriate having regard to the circumstances
+when it strikes this balance.
+it is not necessary
+to have the best trial, but rather a fair trial.
+(emphasis
+mine)
+
+thus, even if constable boucher’s credibility is in issue, given the
+issues in this particular case, i am not satisfied that her personal attendance
+in pembroke is necessary.
+
+i agree with the principles first enunciated by justice kenkel and
+followed in
+jlk
+and
+dms.
+i agree that the court must take a flexible
+approach to applications of this nature, particularly in cases such as this.
+the
+location and personal circumstances of the witness
+
+there is no evidence that constable boucher will suffer any personal
+hardship if she were required to appear personally in pembroke. i am not
+satisfied that she will have to be absent from thunder bay for “a prolonged
+period” in order to testify in pembroke. this factor works in favour of
+requiring her to appear personally.
+the costs
+that would be incurred if constable boucher were to appear personally
+
+her employer, the ontario provincial police, or the crown, would be
+responsible for covering the cost of her flights and accommodations.
+
+i am mindful, however, of the need to be prudent with the public
+purse when considering these applications. in 2025, the notion of the
+“unlimited resources of the state” is not necessarily accurate. courts should
+not be seen as being unnecessarily spendthrift with the public purse.
+
+i find that if constable boucher is required to testify personally, travelling
+and testifying will likely consume three days: one day for travel from thunder
+bay to pembroke (which will involve flying to toronto and/or ottawa and renting
+a car), one day for her evidence, and one day for travel to return to thunder
+bay from pembroke.
+
+thus, the crown would be required to go to the expense of constable
+boucher’s flights, rental car, overnight accommodations, meals and incidentals
+in addition to two additional days away from her work as a police officer in
+thunder bay. this is not insignificant.
+
+this factor works in favour of permitting her to appear virtually.
+the
+suitability of the location from which constable boucher would give evidence
+
+i am satisfied that if the order permitting constable boucher to
+testify remotely is made, she will be able to appear from a suitable location.
+
+i note, in passing, that it is not appropriate for police witnesses
+who testify remotely to appear from their police car or a busy squad room.
+
+testifying remotely is a privilege, not a right.
+
+this factor works in favour of permitting her to appear virtually.
+the
+accused’s right to a fair and public hearing
+
+i further find that ms russell’s right to a fair and public hearing
+will not be compromised if constable boucher testifies remotely. i say that
+for the following reasons:
+a)
+on the limited record before me, the case appears to be largely a
+technical one and turns on whether the crown can prove the offence beyond a
+reasonable doubt.
+b)
+as i have pointed out, on the limited record before me, it does not
+appear that constable boucher’s credibility will be a live issue. even if it
+is, observing constable boucher give evidence will not be of much assistance to
+the court given the limited weight of observations of a witness’ demeanour.
+c)
+everyone else involved in this trial will be appearing personally. 
+only constable boucher will be appearing remotely. members of the public can
+also observe the proceedings remotely.
+d)
+there is no concern that constable boucher will have to be monitored
+while she is giving evidence to ensure that other persons do not contaminate
+her evidence or that she does not contaminate the evidence of other persons.
+the nature
+and seriousness of the offence
+
+i accept that in light of the fact that the crown is seeking a
+period of custody, for ms russell, this is a serious matter. her liberty is
+potentially at stake.
+
+in the grand scheme of the nature of the offences that this court
+routinely hears, however, this is not so serious as to require that all
+witnesses are to appear personally.
+
+this factor is neutral.
+prejudice
+to the parties if the witness testifies by audioconference
+
+in light of the fact that constable boucher will appear by zoom, with
+a fully operable camera, the provisions of section 714.1(g) do not apply. i
+will not permit constable boucher to appear by audioconference only.
+any other
+applicable factor that favours remote or in person testimony
+
+the law is clear that the factors set out in section 714.1 are not
+exhaustive and the court is free to consider any other factors necessary to
+make the determination of whether the order for remote testimony should be
+made:
+r. v. jlk, supra,
+at para.
+52
+and
+r. v. dms, supra,
+at
+para
+86.
+
+i am not aware of any other factor that would work to the advantage
+of either cause in this case. no other factors were pointed out to me by
+counsel in their submissions.
+order to go
+
+accordingly, i find that the presumption that constable boucher will
+testify in person has been overcome and the following order is made:
+a)
+subject to the terms of this order, constable emmanuelle boucher may
+testify remotely from thunder bay at the trial of this matter.
+b)
+constable boucher shall give her evidence in the following manner:
+i) by
+audio and videoconference (zoom), at coordinates to be provided by the court
+prior to giving evidence.
+ii) she
+shall testify in a quiet place where the public is excluded. she will be the
+only person in the room when she testifies.
+iii)
+she may not testify from a motor vehicle.
+iv)
+she shall test the computer equipment with the
+court at least seven days in advance of the trial.
+v)
+she will not look at her notes, reports or any
+other documents until she is advised by the court that she may do so. if
+referring to notes, reports or other documents, they shall be visible and she
+shall make it clear that she is referring to them.
+c)
+crown and defence counsel shall ensure that all documentary evidence
+on which constable boucher will be questioned, or might reasonably be
+questioned will be in appropriate electronic form so that it may be produced in
+court and referred to by constable boucher without undue delay.
+released: july 14, 2025
+signed:
+justice j.r. richardson
+
+on this point, see most recently, the decision of the court of appeal
+in
+r. v. reimer,
+2024 onca 519
+at paragraphs
+91 to 93.

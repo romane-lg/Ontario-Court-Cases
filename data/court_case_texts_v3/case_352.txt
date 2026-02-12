@@ -1,0 +1,944 @@
+Source URL: https://www.canlii.org/en/on/oncj/doc/2025/2025oncj197/2025oncj197.html
+
+ONTARIO COURT OF JUSTICE
+CITATION:
+R. v. Battiston
+, 2025 ONCJ 197
+DATE: 
+April 10, 2025
+City
+of Toronto
+Court
+File Numbers:
+4860 999
+24 24100008-00 1 FA
+4860 999
+24 24100008-00 2 FA
+4860 999
+23 23101035-00 1 FA
+4860 999
+23 23101035-00 2 FA
+4860 999
+23 23100878-00 1 FA
+4860 999
+23 23100878-00 2 FA
+BETWEEN:
+HIS
+MAJESTY THE KING
+—
+AND —
+LUCIANO BATTISTON
+Before
+Justice of the Peace R. Shawyer
+Heard
+on April 4, 2025.
+Reasons
+for Judgment released on April 10, 2025
+McPherson, J ........................................................................... counsel
+for the Prosecution
+Tomovski, R................................................................................. 
+counsel for the Defendant
+JUSTICE OF THE PEACE SHAWYER:
+Introduction
+[
+1
+]
+On April 4, 2025, the Court heard the defendant, Luciano Battiston’s
+(hereinafter the “defendant”), Charter Application (hereinafter “application”).
+The relief that the defendant sought in his application was a stay of proceedings.
+The defendant argued that because it took more than 18-month for his matter to
+be resolved,
+his 11b rights under the
+Charter of Rights and Freedoms
+,
+Part 1 of the
+Constitution Act
+, 1982, being Schedule B to the
+Canada Act 1982
+(UK),
+1982, c 11 (hereinafter the “
+Charter
+”) were violated.
+[
+2
+]
+The charges before the Court stem from an accident that took place on October
+30, 2023. On this date the defendant was making a left turn onto Dufferin
+Street from Ridelle Avenue in the City of Toronto (hereinafter the “City”).
+While making this left turn the defendant struck two pedestrians (hereafter the
+“accident”). As a result of the accident both pedestrians were injured and one
+of the pedestrian’s eventually succumbed to their injuries while in hospital.
+Information before the
+Court
+[
+3
+]
+After the accident on October 30, 2023, the Toronto Police Service
+(“TPS”) officers called to the scene and charged with investigating the
+accident did not charge the defendant. As a result, the defendant was allowed
+to leave the scene of the accident.
+[
+4
+]
+On November 2, 2023, an information (hereinafter the “original
+information”) relating to the accident was sworn by a member of the TPS. After
+the information was sworn the defendant was contacted by a member of the TPS.
+He was asked to attend a TPS Station in relation to the accident. When the
+defendant attended at the TPS Station as requested he was charged with two counts of careless driving causing bodily harm contrary to
+s.
+130(3)
+of the
+Highway Traffic
+Act
+, R.S.O. 1990, c. H.8 (hereinafter “
+HTA
+”). At the same time the defendant was also
+issued a summons to appear in Court for the first time on January 4, 2024.
+[
+5
+]
+On December 19, 2023, a replacement information was sworn. This
+information replaced the original information (hereinafter the “second information”).
+[
+6
+]
+On January 5, 2024, a third information (hereinafter the “third
+information) was sworn. The difference between the original information(s) and
+the third was that the original information(s) charged the defendant with
+careless driving causing bodily harm (x2). Whereas the third information charged
+the defendant with one count each of careless driving causing death and
+careless driving causing bodily harm pursuant to
+s. 130(3)
+of the
+HTA
+.
+The third information was laid to reflect the fact that after the first two information’s
+were laid one of the pedestrians that the defendant is alleged to have hit with
+his vehicle on October 30, 2023, succumbed to their injuries.
+[
+7
+]
+On September 20, 2024, both the original two information’s and the third
+information were before the Court. After confirming which information’s were
+before the Court the prosecution advised that it would only be proceeding on
+the third information and requested that the first two information’s be marked
+withdrawn on consent.
+The Law and Analysis
+[
+8
+]
+Section 11(b)
+of the
+Charter
+provides that any person charged with an offence has
+the right to be tried within a
+reasonable time. In
+R
+v. Jordan,
+2016 SCC 27
+,
+2016 CSC 27
+(hereinafter “
+Jordan
+”) at paragraph 19 the Supreme Court of
+Canada (hereinafter “Supreme Court”) reiterated the importance of a defendant’s
+right to be tried within a reasonable time:
+[The] right to
+be tried within a reasonable time is central to the administration of Canada's
+system of... justice. It finds expression in the familiar maxim: "Justice
+delayed is justice denied". An unreasonable delay denies justice to the
+accused...and the public as a whole.
+[
+9
+]
+Four years later the Supreme Court again opined on a defendant’s 11b
+rights. In
+R v. K.G.K.
+,
+2020 SCC 7
+,
+2020 CSC 7
+(hereinafter “
+K.G.K.
+”) Moldaver J writing on behalf of the majority said
+at paragraph 25:
+Section 11(
+b
+) of the
+Charter
+provides that “[a]ny person charged
+with an offence has the right ... to be tried within a reasonable time”. This
+provision reflects and reinforces the notion that “[t]imely justice is one of
+the hallmarks of a free and democratic society” (
+Jordan
+, at para.
+1
+).
+Section 11(
+b
+)
+protects both an accused’s interests and society’s interests.
+The individual dimension of
+s.
+11(
+b
+)
+protects an
+accused person’s interests in liberty, security of the person, and a fair
+trial. The societal dimension of
+s. 11(
+b
+)
+recognizes, among other things, that timely trials are beneficial to victims
+and witnesses, as well as accused persons, and they serve to instill public
+confidence in the administration of justice (see
+R. v. K.J.M.
+,
+2019 SCC 55
+(S.C.C.)
+, at para.
+38
+).
+[
+10
+]
+In a provincial court of justice, the Supreme Court has decided that 18
+months is a reasonable time.
+In
+Jordan
+the
+Supreme Court said:
+1      Timely
+justice is one of the hallmarks of a free and democratic society. In the
+criminal law context, it takes on special significance.
+Section 11(b)
+of the
+Canadian Charter of Rights
+and Freedoms
+attests to
+this, in that it guarantees the right of accused persons “to be tried within a
+reasonable time”.
+2
+     Moreover, the Canadian public expects their
+criminal justice system to bring accused persons to trial expeditiously. As the
+months following a criminal charge become years, everyone suffers. Accused
+persons remain in a state of uncertainty, often in pre-trial detention. Victims
+and their families who, in many cases, have suffered tragic losses cannot move
+forward with their lives. And the public, whose interest is served by promptly
+bringing those charged with criminal offences to trial, is justifiably
+frustrated by watching years pass before a trial occurs.
+3      An
+efficient criminal justice system is therefore of utmost importance. The
+ability to provide fair trials within a reasonable time is an indicator of the
+health and proper functioning of the system itself. The stakes are indisputably
+high.
+4      Our
+system, however, has come to tolerate excessive delays. The circumstances in
+this appeal are illustrative. Notwithstanding a delay of over four years in
+bringing a drug case of modest complexity to trial, both the trial judge and
+the Court of Appeal were of the view that the appellant was tried within a
+reasonable time. Their analyses are reflective of doctrinal and practical
+difficulties plaguing the current analytical framework governing
+s. 11
+(
+b
+)
+. These difficulties have fostered a
+culture of complacency within the system towards delay.
+5      A change
+of direction is therefore required. Below, we set out a new framework for
+applying
+s. 11
+(
+b
+)
+. At the centre of this new framework is
+a presumptive ceiling on the time it should take to bring an accused person to
+trial: 18 months for cases going to trial in the provincial court, and 30
+months for cases going to trial in the superior court. Of course, given the
+contextual nature of reasonableness, the framework accounts for case-specific
+factors both above and below the presumptive ceiling. This framework is
+intended to focus the
+s.
+11
+(
+b
+)
+analysis on
+the issues that matter and encourage all participants in the criminal justice
+system to cooperate in achieving reasonably prompt justice, with a view to
+fulfilling
+s. 11
+(
+b
+)
+’s important objectives.
+….
+19      As we
+have said, the right to be tried within a reasonable time is central to the
+administration of Canada’s system of criminal justice. It finds expression in
+the familiar maxim: “Justice delayed is justice denied.” An unreasonable delay
+denies justice to the accused, victims and their families, and the public as a
+whole.
+20      Trials
+within a reasonable time are an essential part of our criminal justice system’s
+commitment to treating presumptively innocent accused persons in a manner that
+protects their interests in liberty, security of the person, and a fair trial.
+Liberty is engaged because a timely trial means an accused person will spend as
+little time as possible held in pre-trial custody or living in the community
+under release conditions. Security of the person is impacted because a
+long-delayed trial means prolonging the stress, anxiety, and stigma an accused
+may suffer. Fair trial interests are affected because the longer a trial is
+delayed, the more likely it is that some accused will be prejudiced in mounting
+a defence, owing to faded memories, unavailability of witnesses, or lost or
+degraded evidence.
+….
+24      Timely
+trials allow victims and witnesses to make the best possible contribution to
+the trial, and minimize the “worry and frustration [they experience] until they
+have given their testimony” (
+Askov
+,
+at p. 1220
+). Repeated
+delays interrupt their personal, employment or business activities, creating
+inconvenience that may present a disincentive to their participation.
+25      Last
+but certainly not least, timely trials are important to maintaining overall
+public confidence in the administration of justice. As McLachlin J. (as she
+then was) put it in
+Morin
+, “delays are of consequence not only
+to the accused, but may affect the public interest in the prompt and fair
+administration of justice” (p. 810). Crime is of serious concern to all members
+of the community. Unreasonable delay leaves the innocent in limbo and the
+guilty unpunished, thereby offending the community’s sense of justice (see
+Askov
+, at p. 1220
+). Failure “to deal fairly, quickly and efficiently with criminal
+trials inevitably leads to the community’s frustration with the judicial system
+and eventually to a feeling of contempt for court procedures” (p. 1221).
+26
+     Extended delays undermine public confidence in
+the system. And public confidence is essential to the survival of the system
+itself, as “a fair and balanced criminal justice system simply cannot exist
+without the support of the community” (
+Askov
+,
+at p. 1221
+).
+27
+     Canadians therefore rightly expect a system that
+can deliver quality justice in a reasonably efficient and timely manner.
+Fairness and timeliness are sometimes thought to be in mutual tension, but this
+is not so. As D. Geoffrey Cowper, Q.C., wrote in a report commissioned by the
+B.C. Justice Reform Initiative:
+... the widely perceived conflict
+between justice and efficiency goals is not based in reason or sound analysis.
+The real experience of the system is that both must be pursued in order for
+each to be realised: they are, in practice, interdependent.
+(
+A Criminal Justice System for the
+21st Century
+(2012), at p. 75)
+28
+     In short, timely trials further the interests of
+justice. They ensure that the system functions in a fair and efficient manner;
+tolerating trials after long delays does not. Swift, predictable justice, “the
+most powerful deterrent of crime” is seriously undermined and in some cases
+rendered illusory by delayed trials (McLachlin C.J., “The Challenges We Face”,
+remarks to the Empire Club of Canada, published in (2007), 40
+U.B.C. L. Rev.
+819, at p. 825).
+….
+49
+     The most important feature of the new framework
+is that it sets a ceiling beyond which delay is presumptively unreasonable. For
+cases going to trial in the provincial court, the presumptive ceiling is 18
+months from the charge to the actual or anticipated end of trial. For cases
+going to trial in the superior court, the presumptive ceiling is 30 months from
+the charge to the actual or anticipated end of trial.
+2
+We note the 30-month ceiling would also apply to cases
+going to trial in the provincial court after a preliminary inquiry.
+3
+As we will discuss, defence-waived or - caused delay
+does not count in calculating whether the presumptive ceiling has been reached
+— that is, such delay is to be discounted.
+50      A
+presumptive ceiling is required in order to give meaningful direction to the
+state on its constitutional obligations and to those who play an important role
+in ensuring that the trial concludes within a reasonable time: court
+administration, the police, Crown prosecutors, accused persons and their
+counsel, and judges. It is also intended to provide some assurance to accused
+persons, to victims and their families, to witnesses, and to the public that
+s. 11(
+b
+)
+is not a hollow promise.
+….
+57      There
+is little reason to be satisfied with a presumptive ceiling on trial delay set
+at 18 months for cases going to trial in the provincial court, and 30 months
+for cases going to trial in the superior court. This is a long time to wait for
+justice. But the ceiling reflects the realities we currently face. We may have
+to revisit these numbers and the considerations that inform them in the future.
+….
+105      The
+new framework for
+s. 11(
+b
+)
+can be summarized as follows:
+• There is a ceiling beyond
+which delay becomes presumptively unreasonable. The presumptive ceiling is 18
+months for cases tried in the provincial court, and 30 months for cases in the
+superior court (or cases tried in the provincial court after a preliminary
+inquiry). Defence delay does not count towards the presumptive ceiling.
+•
+Once the presumptive ceiling is
+exceeded
+, the burden shifts to the Crown to rebut the presumption of
+unreasonableness on the basis of exceptional circumstances. Exceptional
+circumstances lie outside the Crown’s control in that (1) they are reasonably
+unforeseen or reasonably unavoidable, and (2) they cannot reasonably be
+remedied. If the exceptional circumstance relates to a discrete event, the
+delay reasonably attributable to that event is subtracted. If the exceptional
+circumstance arises from the case’s complexity, the delay is reasonable.
+[
+11
+]
+The Supreme Court’s decision in
+Jordan
+has been considered on
+many occasions. One such occasion was in
+R. v. Coulter,
+2016 ONCA 704
+(hereinafter “
+Coulter
+”). In
+Coulter
+the Ontario
+Court of Appeal (hereinafter “ONCA”) at paras. 34-41 provided
+a useful guide to lower courts for applying the
+Jordan
+framework. Under
+the heading “[a] new framework summarized” the ONCA laid out the following
+steps that a Court must follow when applying the Supreme Court’s decision in
+Jordan
+:
+Step
+1:  Calculate the total delay, which is the period from the charge to the
+actual or anticipated end of trial.
+Step 2:  Subtract
+defence delay from the total delay, which results in the “Net delay.”
+Step 3:  Compare
+the Net Delay to the presumptive ceiling.
+Step
+4:
+If the Net Delay exceeds the presumptive ceiling, it is presumptively unreasonable.
+To rebut the presumption, the Crown must establish the presence of exceptional
+circumstances. If it cannot rebut the presumption, a stay will follow. In general,
+exceptional circumstances fall under two categories: discrete events and
+particularly complex cases.
+Step
+5:  Subtract delay caused by discrete events from the Net Delay (leaving the “Remaining
+Delay”) for the purpose of determining whether the presumptive ceiling has been
+reached.
+Step
+6:
+If the Remaining Delay exceeds the presumptive ceiling, the court must consider
+whether the case was particularly complex such that the time the case has taken
+is justified and the delay is reasonable.
+Step
+7:  If the Remaining Delay falls below the presumptive ceiling, the onus is on
+the defence to show that the delay is unreasonable.
+Step
+8:  The new framework, including the presumptive ceiling, applies to cases
+already in
+the system when
+Jordan was released (the “Transitional Cases”).
+[
+12
+]
+After the
+Jordan
+decision cases were litigated over how to apply
+the
+Jordan
+framework. This led to the Supreme Court’s decision in
+K.G.K.
+In
+K.G.K.
+at paragraph
+31
+Moldaver J, under the heading “[t]he Temporal
+Scope of the Jordan Ceilings”, clarified how
+Jordan
+should be operationalized
+by lower courts:
+[p]roperly
+construed, the
+Jordan
+ceilings apply from the date of the charge until
+the actual or anticipated end of the evidence and argument. That is when the
+parties’ involvement in the merits of the trial is complete, and the case is
+turned over to the trier of fact….this date permits the straightforward
+application of the
+Jordan
+framework in a manner consistent with its
+design and goals.
+[
+13
+]
+The Supreme Court’s decision in
+K.G.K.
+means that the clock
+starts running as of the date a charge is laid and it stops when the charges
+are resolved. In accordance with
+K.G.K.
+anything that transpires from
+the time a charge is laid until the time the charge is resolved may slow down
+but never stop the 18-month clock.
+[
+14
+]
+The
+Jordan
+framework is like a timer that has been started in an action
+movie. Once the clock has started it cannot be stopped unless either the correct
+wires have been cut (i.e. a plea is entered, a Court orders a withdrawal, or a
+Court orders a stay of proceedings) or the device explodes (a trial has
+started, all of the evidence has been led, closing submissions have concluded
+and the case is turned over to the trier of fact for a decision).
+[
+15
+]
+If a defendant chooses to try and resolve their charges before the Court
+by engaging in an early resolution process but ultimately decides to proceed to
+trial,
+time continues to tick away: See
+Halton
+(Regional Municipality) v. Grewal
+,
+2024 ONCJ 470
+. If a defendant decides that
+they want to plead guilty, enters a plea but then their plea is struck, time
+continues to tick away. This is because as Moldaver J wrote in K.G.K. “
+the
+Jordan
+ceilings apply from the date of the
+charge until the actual or anticipated end of the evidence and argument”.
+[
+16
+]
+The
+Jordan
+framework applies to
+POA
+proceedings
+as well as criminal proceedings. In
+R. v. Nguyen
+2020 ONCA 609
+(hereinafter “
+Nguyen
+”), the ONCA made it clear that the presumptive
+ceiling of 18 months applies to provincial offences as well. Specifically, the
+ONCA said the 18-month ceiling applies to both charges contained in Part I and
+Part III of the
+Provincial Offences Act
+,
+R.S.O.
+1990, c. P.33
+(hereinafter the “
+POA
+”): See
+Nguyen
+at para(s). 21, 22, and 26 and
+R. v. Battigaglia
+,
+[2023] O.J. No. 5267 at para. 19
+(hereinafter “
+Battigaglia
+”).
+[
+17
+]
+Finally, as argued by defence counsel,
+the
+seriousness of the charges before the Court do not factor into whether a
+defendant’s 11b rights have been infringed. The Supreme Court in
+R v.
+Williamson
+,
+2016 SCC 28
+at paras.
+33 – 38
+wrote:
+34      First,
+a person’s right to a trial within a reasonable time cannot be diminished based
+solely on the nature of the charges he or she faces. As this Court wrote
+in
+R.
+v. Harrison
+,
+2009 SCC
+34
+,
+[2009] 2 S.C.R. 494
+(S.C.C.)
+, at para.
+40
+, “
+Charter
+protections must be construed so as to
+apply to everyone, even those alleged to have committed the most serious
+criminal offences.” Many appellate courts across the country, including this
+one, have stayed serious charges, even when the total delay (minus defence
+delay) was
+less
+than that in this appeal.
+1
+35
+     In this regard, we note that
+s. 11
+(
+b
+)
+guarantees the right “to be tried
+within a reasonable time”. It does not admit of gradients of reasonableness
+where the charges are serious. For example, it does not guarantee the right to
+be tried within “somewhat longer” than a reasonable time, or within a time that
+is “excessive but not so long as to be clearly unreasonable” when the charges
+are serious (Cromwell J., at paras. 43 and 80). Delay is either unreasonable,
+or it is not. As a result, our point of departure with our colleague is on what
+we consider reasonable. In short, we have different perspectives on a
+subjective standard.
+36      Second,
+while our colleague uses the seriousness of the offence to dilute the
+constitutional right to a trial within a reasonable time, we consider that
+the
+Charter
+right is respected, and the public
+interest is best served, by trying serious charges on their merits in a timely
+fashion. These are
+precisely
+the cases that should be heard promptly, on
+the strongest possible evidence.
+37      Third,
+the seriousness of the offence does not sit comfortably with the notion of
+reasonable
+time
+. Some grave charges require very little time to be
+tried, while some less serious charges require more time.
+38      We
+agree with our colleague that the charges against Mr. Williamson are grave.
+Like the Court of Appeal, we reach our conclusion “with great reluctance”
+(para. 68). The victim underwent the ordeal of a criminal trial, and Mr. Williamson
+was eventually convicted by a jury of his peers. But as we
+discussed in
+Jordan
+, timely justice is one of the hallmarks of a free and
+democratic society. This case is an example of how delay works to the detriment
+of everyone. Conversely, timely justice accrues to the benefit of all.
+[
+18
+]
+The charges before the Court stem from an accident on October 30, 2023. Three
+days later, November 2, 2023, an officer employed by the TPS swore and filed an
+information with the Ontario Court of Justice in Toronto (hereinafter “OCJ”).
+That information charged the defendant with two counts of
+careless driving causing bodily harm”. The defence argues that the anticipated end of the defendant’s trial is 550 days (or 18.5
+months) after the original Information was sworn. Therefore,
+defence counsel argues that the defendant’s 11b rights have been violated
+[1]
+.
+[
+19
+]
+Since the defendant was charged, no delay can be attributed to the
+defence when applying the
+Jordan
+framework: See
+Toronto (City of) v. Battiston
+,
+2025 ONCJ 162
+(“hereinafter “
+Battiston
+”) at para 42. Therefore, as the
+defendant’s matter is scheduled to take 550 days (approximately 18.5 months) to
+be completed, the time it will have taken is presumptively unreasonable as the
+completion of evidence and submissions falls outside of the ceiling set in
+Jordan
+:
+See
+Coulter
+at para
+36
+. As the Copeland J.A. wrote on behalf of the
+majority in
+R v. Vrbanic
+,
+2025 ONCA 151
+at para
+20
+, once an application
+Justice has found the delay excessive (1 day or more over 18 months on a net
+basis) they are obligated to find a breach of a defendant’s 11b rights and stay
+the charges against them.
+(a)
+Discrete event
+[
+20
+]
+On the first day of trial, March 21, 2025, Court was not able to start
+right at 9 a.m. because the prosecution had computer issues. Rather Court was
+only able to start at 11:05 a.m. The delay in starting Court together with the
+length of time it took to hear from the prosecution’s only witness, from a practical
+standpoint, the defence was not able to begin calling witnesses during the
+first day of trial. This necessitated scheduling a third day of trial. The date
+for the third day of trial, when evidence and closing submissions would
+conclude, was set for a day more than 18-months since the information before
+the Court was laid.
+[
+21
+]
+The main thrust of the hearing was whether the delay occasioned by connectivity
+issues that the prosecution had on the first day of trial was a discrete event
+and therefore an exceptional circumstance. In his submissions counsel for the
+defendant argued that “[t]he internet connectivity occurrence was not
+reasonably unforeseen”, which means that it was not a discrete event and an
+exceptional circumstance. Whereas the prosecution argued that (1) the internet connectivity
+issue was reasonably foreseeable because of the lack of internet connectivity in
+POA Courtrooms in Toronto, (2) they took meaningful efforts to avoid internet
+connectivity issues, (3) the internet connectivity issue that occurred on the
+first of day of trial was a discrete event and (4) was an exceptional
+circumstance.
+[
+22
+]
+It can be argued that the delay in starting court on the first day can
+be classified as a discrete event. However, computer issues are a recurring
+event in the POA Courts in Toronto that routinely delay matters before the
+Court as conceded by the prosecution in her submissions. In fact, on February
+6, 2025, when this matter was before the Court there were significant computers
+issues that required the matter to be traversed to another Courtroom before the
+matter could be addressed.
+[
+23
+]
+With that being said, turning to the Crown’s position, the prosecutor argued
+that she knew coming out Covid that doing in person trials was going to be a
+problem. She argued that unlike in
+R. v. J.M.
+,
+2017 ONCJ 4
+where the Crown did not take steps to mitigate delay, the emails she sent dated May 27, 2024, and October 11, 2024,
+to the director of Crown operations about the lack of internet connectivity in
+POA
+Courtrooms in Toronto
+[2]
+demonstrate that she was proactive in trying to prevent the issue she encountered
+on the first day of trial. She argued this because her emails led to the
+installation of Mi-Fi Eggs
+[3]
+in or around January 30, 2025. In short, the prosecution argued that it was:
+“the
+position of the Crown that having taken steps to mitigate the shortfalls that
+are as a direct result of Court’s Administration City of Toronto choosing not
+to have…internet access in the post-pandemic world where everything literally
+revolves around the use of technology”
+the internet connectivity issue
+that arose on the first day of trial was a discrete event and therefore an
+exceptional circumstance. The fact that a prosecutor must make these types of
+arguments when a Court is tasked with deciding whether a defendant’s 11b rights
+were infringed means as the defence argued that:
+[t]here’s
+something wrong when a criminal justice system, and here the
+Provincial
+Offences Act
+, the administration of that system, has the accused, in an
+adversarial position, relying on the Crown for access to internet by a personal
+Wi-Fi that the Crown has set up for just itself, and the court system itself
+has not made available to people it prosecutes or hears being prosecuted.
+There’s something fundamentally wrong with that.
+With that said, with the greatest
+amount of respect, the internet connectivity
+issue
+that arose on the first day of trial was not a discrete event. Therefore, it cannot
+be treated as an exceptional circumstance.
+[
+24
+]
+As Paciocco J, as he was then, said in
+R. v. M. (J.)
+,
+2017 ONCJ 4
+at paragraph
+161
+:
+161
+     I know that the loss of this time was not the
+fault of the prosecuting Crown. Delay caused by a lack of technical support is
+nonetheless state caused delay. It is not unlike delay caused by the
+unavailability of interpreters,
+10
+or of courts or judges. The time lost may
+have been outside the control of the prosecutor, but, on the evidence before
+me, it was not outside the control of the state.
+In this case the loss of time on
+the first day of trial was not the fault of the prosecutor. Nevertheless,
+despite that it was out of the control of the prosecutor in this matter, the delay
+caused by a lack of technology in the Court and a need for a work around that
+required technical support, which led to a delay in starting the defendant’s
+trial on day one, is state caused delay. It is because the Crown is an
+indivisible actor as acknowledged by the prosecution in answer to a question
+from the Court during submissions. Therefore, the loss of time, when
+calculating whether the 18-month ceiling has been breached, must be attributed
+to delay on part of the Crown.
+[
+25
+]
+The technology issues in Toronto
+POA
+Courts cannot be considered
+a discrete event in this case like the technology issues were in
+R. v. Simeu
+,
+2024 ONSC 1031
+: See para 54. They cannot because the City has made a deliberate
+decision not to install internet in any of the 29 POA Courts across Toronto as
+noted in the materials filed by prosecutor. Whereas in
+Simeu
+it was not
+a lack of technology in the Courtroom but rather with the technology “being down”,
+which is a circumstance outside the Crown’s control.
+[
+26
+]
+In 2016 the City tore down the existing SLMN and began construction a
+new SLMN building, which houses one of its three POA Court locations. During
+construction the City had to contend with the COVID-19 pandemic, which
+necessitated the pivot from a paper based in person court system to a fully
+electronic system and then a hybrid system. Despite this the City choose not to
+pivot and alter the construction plans for the new SLMN building. Further, despite
+the effects of the COVID-19 pandemic on the POA Court system in Toronto the
+City did not install internet in the Courtrooms located at its other 2 POA
+Court locations after the COVID-19 pandemic abated.
+[
+27
+]
+As the prosecutor in her submissions said, the “current policy or
+position of the City of Toronto with respect to internet in the courtrooms…is
+appalling.” This Court agrees. As argued by the defence in their submissions, the
+State cannot be forgiven for what it doesn’t provide when it prosecutes
+accuseds.” Again, this Court agrees.
+[
+28
+]
+This Court does not excoriate the City of Toronto for its lack of
+investment in internet in its courtrooms lightly. Rather it does so to drive
+home the point that in this electronic age the State has an obligation to equip
+its courtroom with the required technology. If the State does not live up to
+that obligation, then it runs the risk of having prosecutions stayed if the
+lack of resourcing causes delay in prosecuting individuals in their Court
+system under 18 or 30 months as the case maybe.
+[
+29
+]
+For the foregoing reasons the Prosecution has not established the
+presence of exceptional circumstances that would rebut the presumption of
+unreasonable delay: See
+Coulter
+at para
+37
+. Therefore, the Court now
+turns to analyzing whether the matter before the Court was so complex that the
+presumption of unreasonableness can be dislodged.
+(b)
+Was the defendant’s case complex?
+[
+30
+]
+The Prosecution, if it can demonstrate that the case was complex, can
+also rebut the presumption of unreasonableness: See
+Coulter
+at para
+37
+. However, this case was not complex as was conceded by
+the Prosecution on February 27, 2025: See
+Battiston
+at para
+45
+.
+Therefore, again, the Prosecution has not established the presence of
+exceptional circumstances that would rebut the presumption of unreasonable
+delay.
+Conclusion
+[
+31
+]
+After accounting for exceptional circumstances, the net delay does not
+fall below 18-months. As a result, the onus does not shift back to the defence
+(
+Coulter
+at para
+40
+.) Therefore, the length of time the defendant’s
+matter takes must be considered presumptively unreasonable and a violation of
+their 11b rights.
+[
+32
+]
+The defendant sought a stay of proceedings. If the Court finds
+that the defendant’s 11b rights were violated a stay is the only remedy that a
+Court can order: See
+Battiston
+at para(s) 74 and 75,
+R. v. Charley
+2019
+ONCA 726
+,
+147 O.R. (3d) 497
+, and
+R. v. Hartling
+2020 ONCA 243
+,
+150 O.R. (3d) 224
+.
+[
+33
+]
+For the foregoing reasons this Court finds that
+the defendant’s 11b rights have been infringed upon. Therefore, a stay of proceedings
+in this matter is ordered pursuant to
+s. 24(1)
+of the
+Charter
+.
+Released:  April
+10, 2025
+Signed:
+Justice of the Peace R. Shawyer
+[1]
+This Court’s decision in
+Toronto (City of) v. Battiston,
+2025 ONCJ 162
+for
+a detailed chronological history of the defendant’s charges before the Court.
+[2]
+Prior to the closing of Old City Hall (“OCH”) in Toronto OCH was the only POA
+Court in Toronto with internet connectivity because it used to operate as both
+a criminal and POA Court. When OCH closed on February 27, 2025, no POA
+Courthouse in Toronto had internet connectivity. This became the situation in
+Toronto POA Courts despite the opening of a new POA Courthouse located at 92
+Front Street East at the new St. Lawrence Farmers Market also known as St.
+Lawrence Market North (“SLMN”).
+[3]
+MiFi devices are compact, battery-powered routers
+that function like mobile hotspots, enabling internet access through a cellular
+network. They use a SIM card to connect to a mobile network (like 4G or
+5G), and then create a Wi-Fi signal that other devices (phones, tablets,
+laptops) can connect to. Further, MiFi devices are generally used in situations
+where a person needs internet access away from home or a Wi-Fi network, such as
+travel, remote work, or areas with limited internet infrastructure.

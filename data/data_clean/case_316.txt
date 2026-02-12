@@ -1,0 +1,367 @@
+source url: https://www.canlii.org/en/on/oncj/doc/2025/2025oncj726/2025oncj726.html
+
+ontario court of justice
+citation:
+r. v. g.c.,
+2025 oncj 726
+date: may
+7, 2025
+court
+file no.: brampton 998 23 31101266
+between:
+his
+majesty the king
+— and
+—
+g.c.
+before
+justice g.p. renwick
+heard
+on 06 and 07 may 2025
+reasons
+for judgment released on 07 may 2025
+s. gerdun................................................................................... counsel
+for the prosecution
+d. pledge.............................................................................. counsel
+for the defendant g.c.
+reasons for judgment following a trial
+renwick j.:
+introduction
+
+the defendant is charged on a five-count
+information alleging assaults and one threat to his wife, s.k. the prosecution
+proceeded summarily.
+
+the prosecution called one witness, the
+complainant. some photographs and an affidavit made by the complainant were
+also introduced into evidence during this brief trial. the defendant did not
+call any evidence.
+
+the sole issue for determination is whether the
+prosecution has met its burden of proof in respect of the allegations.
+governing legal
+principles
+
+the supreme court of canada has recently
+reiterated the legal principles that govern the fact-finding process engaged
+during a trial.
+
+
+the onus during a criminal trial begins and ends with
+the prosecution to prove the guilt of a defendant beyond a reasonable doubt.
+everyone charged with a criminal offence is presumed innocent and that
+presumption remains throughout the whole of the trial, unless and until the
+court is satisfied that the charges have been proven beyond a reasonable doubt.
+the prosecution’s burden of proof never shifts during the trial. in this case,
+if at the end of my consideration of the evidence and submissions i am not
+satisfied that the prosecution has proven any element of an alleged offence
+beyond a reasonable doubt, and more specifically, if i have a reasonable doubt
+that the defendant committed any assault or threat, he will be acquitted of the
+charges.
+
+a reasonable doubt is not an imaginary or
+frivolous doubt. it must be based upon reason and common sense and it logically
+derives from the evidence or the lack of evidence adduced during a trial. while
+likely or even probable guilt is not enough to meet the criminal standard,
+proof to an absolute certainty is inapplicable and unrealistic. the supreme
+court of canada has cautioned that there is no mathematical precision to proof
+beyond a reasonable doubt, but it lies much closer to absolute certainty than
+to proof on a balance of probabilities.
+
+if after considering all of the admissible evidence, i am sure that
+the defendant committed an alleged offence and i am not left with any
+reasonable doubt, i must convict him since this demonstrates that i am
+satisfied of his guilt beyond a reasonable doubt. likewise, if i am not sure,
+or some reasonable doubt remains, then the charge has not been proven to the
+required degree and an acquittal must follow.
+
+this case involves credibility and reliability assessments. in
+assessing credibility and reliability i have considered the general capacity of
+the witness to make her observations, to remember what she perceived, and her
+ability to accurately testify and communicate her recollections. it is also
+important to determine whether the witness was trying to tell the truth and
+whether the witness was sincere, candid, biased, reticent, or evasive. a court
+may accept some, none, or all of what a witness says while testifying.
+
+a valuable means of assessing the credibility of any witness is to
+examine the consistency between what the witness said throughout their
+testimony. i must also assess what is testified to in the context of all of the
+evidence in the case and not on an isolated basis. this is true for any
+inconsistencies and whether these are significant or inconsequential to the
+case. if an inconsistency is significant, then i must pay careful attention to
+it when assessing the reliability of the witness' testimony.
+
+admissibility and the weight attached to evidence are two distinct
+considerations. in addition to the testimony received, there are photographs
+and an affidavit to consider. the probative value of evidence is not presumed.
+in all cases, a trier of fact must determine the appropriate weight to give
+each piece of evidence and what, if anything, is established or proven and to
+what degree.
+
+triers of fact must consider both credibility
+and reliability in determining the facts in a given case. credibility is
+shorthand for truthfulness and believability. reliability is the lens through
+which one evaluates the accuracy of evidence. trial judges must be careful not
+to conflate credibility with reliability otherwise the fact-finding net might
+entangle even the least reliable piece of evidence.
+
+it is important to remember that in some cases
+credibility takes a back-seat to reliability. for example, there are
+prosecutions where the suspect is unknown to the complainant and the latter may
+be honestly mistaken about the identity of the perpetrator. in such a case,
+reliability concerns govern the analysis because credibility does not guarantee
+accuracy. credible witnesses can be mistaken or otherwise inaccurate. thus,
+credibility is not a proxy for reliability.
+
+
+where witness testimony is highly credible,
+consistent, plausible, not inconsistent with other evidence, not found to be
+the product of bias or motive, largely undisturbed upon a vigorous
+cross-examination, and not found to be otherwise unreliable, truth and accuracy
+are likely established.
+
+assessments of credibility and reliability can
+be the most important and challenging judicial determinations in a criminal
+trial. our highest court has reminded us:
+credibility
+and reliability assessments are also context-specific and multifactorial: they
+do not operate along fixed lines and are “more of an ‘art than a science’.”
+with respect to credibility in particular, while coherent reasons are crucial,
+it is often difficult for trial judges to precisely articulate the reasons why they
+believed or disbelieved a witness due to “the complex intermingling of
+impressions that emerge after watching and listening to witnesses and
+attempting to reconcile the various versions of events.” the task is further
+complicated by the trial judge’s ability to accept some, all, or none of a
+witness’ testimony.
+
+
+judicial fact-finding is often based on
+inductive reasoning and evaluations of “probable interpretations of the
+evidence.”
+
+it necessarily depends on common-sense inference-drawing.
+
+to again quote the supreme
+court:
+reasoning
+about how people generally tend to behave, and how things tend to happen, is
+not only permissible, it is often a necessary component of a complete
+testimonial assessment.
+
+the
+evidence
+
+in this part, i will outline some of the evidence and provide an
+assessment of the testimony, with references to specific portions of the
+evidence. although i will not refer to all of what the witness said, i listened
+to the witness carefully, i have taken detailed notes, and i have assessed all
+testimony for intrinsic and extrinsic consistency, plausibility, balance,
+motive, and the witness’ ability to recall and communicate.
+
+i
+will not recapitulate all of the evidence received during this trial. suffice
+it to note that i have used several opportunities during the trial and
+subsequent to the completion of the submissions to review my notes and to
+listen to parts of the digital audio recordings of the proceedings. i have
+thoroughly reviewed the evidence in this case, and i will only discuss parts of
+the evidence where it serves to underscore my findings. lastly, despite any
+verbal exchanges during the evidentiary phase of the trial or submissions, i
+came to no conclusions about any of the evidence received until all of the
+closing submissions were made and my review of the evidence, submissions, and
+the law was complete.
+the
+testimony of the complainant
+
+the complainant testified about her marriage to the defendant.
+initially, things were smooth. they married abroad and she came to canada in april
+2021, before her spouse. the defendant arrived in september 2022. things in the
+marriage began to deteriorate within months of his arrival. within six months
+of the defendant’s arrival, the complainant attended the police station on 30
+january 2023 and made the allegations before the court.
+
+the complainant first testified about the incident that gave rise
+to her attendance at the police station. on 30 january 2023, the couple were
+headed to their local temple for religious observance. at a bus stop, the
+complainant told the court about the defendant “pushing and pulling” her
+because she only had one ear bud to listen to music, not two (apparently, the
+other was inadvertently left at home). she also said that the defendant had “pushed”
+her on her face, he punched her on her face, and he tried “pushing” on her
+neck. the complainant also used the word, “abusing” to describe how the
+defendant had been blaming her and her parents for her behaviour.
+
+it was obvious that the complainant spoke english as a second
+language. she did not wish to use a court interpreter to testify, and this may
+explain her use of the word “push” to mean several things: to push, to punch or
+to grab (as in around her neck).
+
+the complainant testified that the defendant first “beat” her at
+the bus stop, on their way to the temple. as a result, the complainant returned
+home, to their basement apartment. the defendant presumably went to the temple
+and returned home later that evening.
+
+the arguing and physical violence continued, according to the
+complainant. the defendant confronted the complainant in the kitchen and the
+complainant testified that during this argument, the defendant punched her on
+the right side of her face. exhibit 1a and 1b are photographs taken that night
+by the upstairs tenants. the right side of the complainant appears red in ex.
+1b. interestingly, when the complainant demonstrated this assault, she held a
+closed fist up to the
+left
+side of her face. the defendant also
+allegedly grabbed the complainant by the throat and held onto her for either
+one or two minutes or two to three minutes, depending on the which account she
+gave during her evidence in chief. at this point, the complainant had “a little
+bit, not that much” trouble breathing and she began shouting. this gained the
+attention of the upstairs neighbours and when they came downstairs the violence
+ended.
+
+the complainant was uncertain when she called police. she
+believed it was about an hour after she had gone to sleep. when the complainant
+called the police, the defendant was not present.
+
+the complainant also testified about a threat that the defendant
+made about 10-15 days before the assaults of 30 january 2023. on that occasion,
+the defendant told her that he was not afraid of the police. the complainant
+had mentioned that she would call the police, because the arguments were
+happening every two or three days. she was clear that there was no violence in
+these interactions, only arguments. in that context, the defendant said that he
+would kill the complainant and then he would go to jail.
+
+cross examination of the complainant was
+fruitful.
+
+the complainant confirmed that 30 january had
+been the only time when things became physically violent.
+
+the complainant became uncertain that the
+defendant had left their home after the punch to the face and neck grab. when
+asked if they slept together that night, the complainant answered, “i didn’t
+remember, maybe.” it was put to her that they slept together and when the
+defendant left for work, she called the police. to this suggestion, the
+complainant responded, “maybe, i’m not sure.”
+
+the complainant was also cross examined about
+the photographs from that time period. interestingly, photo 1a shows redness on
+the complainant’s face, but when the police took the photograph that became
+exhibit 1c, the redness was gone and two small scratches were present. the
+complainant had no explanation for this.
+
+cross examination also covered an affidavit that
+the complainant swore on 27 july 2023, some six months after making her
+statement to the police. this became exhibit 2. the affidavit contradicts much
+of the complainant’s testimony. she explained that she felt pressured to write
+it because after he was charged, the defendant’s family kept calling her and
+her family every 15-20 minutes.
+
+lastly, there was another incident at a bus stop
+that the complainant mentioned in her statement to the police, that she claimed
+not to remember when she was testifying in chief. during that incident, the
+defendant allegedly threw the complainant’s cap into the road and he was
+pulling her “hairs.”
+analysis
+
+the complainant was a poor witness, overall. i
+found her evidence to be shifting and inconsistent, internally. i was troubled
+by her apparent willingness to lie in a sworn affidavit and her poor memory on
+the whole. several examples of the difficulties i had in the evidence follow.
+
+when asked in chief how hard she was pushed into
+the mirrors at the bus stop, she said, “not that much, just a little bit.” apparently,
+it did not hurt her. she also described being pushed on her shoulders. this is
+a stark contrast from the “beating” she initially said had happened at the bus
+stop.
+
+i do not find that the exhibits support the complainant’s
+version of events. if anything, the photographs undermine the complainant’s
+testimony, because the redness on the complainant’s cheek/upper jaw line
+conflicted with the side of her face she used to demonstrate the closed fist
+punch while testifying. also, the redness in photograph 1b is not visible in
+1a. lastly, the redness on the complainant’s neck in 1a is replaced with
+scratches, without any apparent redness, in photograph 1c. i have some doubt
+about the lack of a police photo of the complainant’s face. the complainant
+testified that her pain lasted one to two days, but one strong inference is
+that there was no mark on her right (or left) cheek) when she spoke to the
+police.
+
+i am not as perplexed by the complainant’s
+affidavit. i understand why victims of intimate partner violence may be coerced
+into recanting their statements. i would say, however, that the complainant is
+not believable when she said that the defendant’s family members called her and
+her family every 15-20 minutes. there was no period of time given for this
+apparent pressure, but even if this lasted for one day, it is excessive and
+incomprehensible. there was no evidence that the complainant went to the police
+about this pressure. instead, she resiled from her police statement. none of
+which explains why she testified that she told the lawyer drafting the
+affidavit to include that she did not want to resume cohabitation with the
+defendant. this is the one detail she wanted to see included and it is not; the
+end of paragraph 5 suggests she wanted to resume cohabitation.
+
+in the end, even if i believed the complainant,
+which is difficult in the circumstances of the totality of her testimony and
+all of the other evidence, she is completely unreliable as a witness for
+several reasons:
+i.
+she was inconsistent in her testimony;
+ii.
+she has a poor memory in significant areas (did
+the defendant sleep at their home after the assaults on 30 january 2023; when
+did the complainant call and go to police to report the assaults);
+iii.
+was the threat made in person or on the
+telephone as alleged;
+iv.
+was there a history of physical violence as
+alleged, or merely a history of arguments and possibly a threat;
+v.
+why did the complainant swear to a false
+affidavit; and
+vi.
+why was the complainant’s one wish about the
+affidavit (the reason she was willing to sign it) missing.
+
+where, as here, there are significant indicators
+that undermine a witness’ reliability, the court must exercise caution before
+accepting the uncorroborated testimony of a single witness.
+conclusion
+
+i find that i have a reasonable doubt about what
+happened on 30 january 2023 and in the month or so leading up to that date.
+
+in the circumstances, it would be unsafe to rely
+upon the complainant’s testimony.
+
+for these reasons, the charges are not proven
+beyond a reasonable doubt and g.c. is acquitted of all counts.
+released: 07 may 2025
+justice
+g. paul renwick
+
+r.
+v. kruk,
+2024 scc 7
+at paras.
+59-62.
+
+r.
+v. starr,
+2000 scc 40 (canlii), s.c.j. no. 40 at para.
+242.
+
+r.
+v. h.c.,
+2009 onca 56
+at para.
+41.
+
+r. v. kruk,
+2024 scc 7
+at para.
+81.
+
+kruk, supra, at paras.
+71 and 75.
+
+ibid.
+
+kruk, supra, at para.
+72.

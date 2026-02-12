@@ -1,0 +1,1334 @@
+source url: https://www.canlii.org/en/on/oncj/doc/2025/2025oncj276/2025oncj276.html
+
+ontario court of justice
+citation:
+r. v. singh,
+2025 oncj 276
+date: 2025 04 24
+court file no.: brampton 24-31100137
+between:
+his majesty the king
+— and —
+lovejit singh
+before justice p.t. o’marra
+heard on march 5 and 6, 2025
+reasons for judgment released orally on april 24, 2025
+r. keenan and s.
+mehra................................................................... counsel
+for the crown
+d. lent............................................................................... 
+ for the defendant lovejit singh
+p.t. o’marra, j.:
+introduction:
+
+on november 3, 2023, mr. singh was charged with
+impaired operation of a motor vehicle, operating a motor vehicle with a blood
+alcohol concentration exceeding 80 mg of alcohol per 100 ml of blood, and
+dangerous driving. the crown proceeded summarily. mr. singh pleaded not guilty.
+the trial took place over two days. i adjourned the matter and reserved my
+decision for today.
+
+mr. singh brought a
+charter
+application
+to exclude the breath test results, all evidence of the impairment and all
+other evidence obtained after the alleged breaches of his rights under sections
+7, 8, 9, and 10(b) of the
+charter. the application proceeded as a
+blended
+voir dire. three witnesses testified for the crown: jennie
+nguyen, who witnessed the single motor vehicle accident at the exit ramp from
+highway 401 onto hurontario street in the city of mississauga; the arresting
+opp officer, officer hickey; and the qualified breath technician, sergeant
+nasr. documents regarding the operation of the approved instrument and a
+certificate of qualified technician were provisionally introduced as exhibits,
+subject to the
+charter
+application. portions of officer hickey’s in-car
+camera footage and a still photograph of mr. singh’s heavily damaged car were
+entered as exhibits. mr. singh testified during the
+voir dire
+with the
+assistance of an interpreter only for sections 8 and 9 of the
+charter.
+factual background:
+
+on november 3
+rd, 2023, at
+approximately 8:42 p.m., jennie nguyen observed the white suv strike the
+dividing barrier between highway 401 westbound collectors and the off-ramp to
+hurontario street in the city of mississauga. ms. nguyen was a passenger in a
+car driven by her boyfriend. they pulled over to check on the driver, the
+vehicle's lone occupant, and then called 911. ms. nguyen and her boyfriend stayed
+on the scene until paramedics arrived.
+
+officer hickey arrived on the scene at
+approximately 8:55 p.m. he first located the vehicle and checked if anyone was
+still inside; no one was. he then proceeded to the ambulance, where he found
+mr. singh, whom the paramedics assessed.
+
+officer hickey spoke with mr. singh to confirm
+whether he was the driver and if there had been any other occupants. mr. singh
+confirmed that he was the driver and that no other occupants were in the
+vehicle. mr. singh then provided officer hickey with his driver’s licence. mr.
+singh advised officer hickey that he was not injured, which the paramedics
+confirmed.
+
+officer hickey then asked mr. singh how the
+accident happened. mr. singh stated that he did not know but believed something
+crossed before him. officer hickey noticed that mr. singh’s eyes appeared
+bloodshot and glossy. officer hickey then asked mr. singh if he had anything to
+drink, to which he responded that he had “drank a few shots of tequila.”
+
+when the paramedics released mr. singh, officer
+hickey directed mr. singh to sit in the rear of his cruiser. after mr. singh
+entered his cruiser at 9:06 p.m., officer hickey informed him that he would
+leave the door open as it was extremely windy and cold, and that mr. singh was
+not under arrest. mr. singh was also told that the cruiser's interior was audio
+and video recorded.
+
+at approximately 9:07 p.m., officer hickey read
+the alcohol screening demand, which mr. singh indicated he understood. mr.
+lovejit was removed from the rear of the cruiser to be tested.
+
+at approximately 9:08 p.m., officer hickey
+demonstrated how to use the asd to mr. singh. at approximately 9:10 p.m., mr.
+singh performed the alcohol screening demand / test and registered a failure.
+
+officer hickey then placed mr. singh under
+arrest, performed a search incident to arrest, handcuffed and placed him back
+into the cruiser.
+
+at approximately 9:15 or 9:16 p.m., mr. singh
+was read his rights to counsel, which he understood. mr. singh stated that he
+did not have his own lawyer but would like to speak with duty counsel. officer
+hickey then cautioned mr. singh and read him the formal breath demand.
+
+at approximately 9:29 p.m., officer hickey began
+transporting mr. singh to the opp station.
+
+officer hickey arrived at the station with mr.
+singh at approximately 9:43 p.m.
+
+officer
+hickey called duty counsel and left a voicemail message. mr. singh then asked
+if he could speak with any lawyer, and officer hickey said he could.
+consequently, mr. singh provided his preferred counsel's name and phone number.
+
+at
+approximately
+9:54
+p.m.,
+officer hickey
+called
+counsel
+of
+choice,
+and
+mr.
+singh spoke to his counsel privately.
+
+mr.
+singh finished his call at approximately 9:59 p.m. and said he was satisfied.
+
+at
+approximately 10:04 p.m., mr. singh entered the breath room, where officer hickey
+turned him over to the qualified breath technician, sergeant nasr. sergeant
+nasr issued a primary and secondary caution and demanded a breath sample.
+
+mr.
+singh subsequently
+provided
+two
+breath
+samples.
+
+the
+first test was at
+10:18 p.m.
+and
+registered
+201mg
+of
+alcohol
+in
+100 ml
+of
+blood.
+the
+second
+test
+took
+place
+at
+10:41 p.m. and registered 185mg of alcohol
+in 100 ml of blood.
+
+mr.
+singh was released on an undertaking at approximately 11:17 p.m.
+the issues:
+
+mr.
+lent has raised the following issues:
+1.
+did the crown prove beyond a reasonable doubt that mr. singh was the
+driver?
+if the answer to that issue is ‘’yes,” then the
+following issues are left to be determined:
+a)
+could officer hickey reasonably rely on the “fail” on the asd due to a
+potential mouth alcohol issue?
+b)
+after forming a
+reasonable suspicion that mr. singh may have alcohol present in his system, was
+officer hickey's decision to place mr. singh in the rear of his cruiser with
+the doors secured with the intent to administer the alcohol screening demand
+considered arbitrary detention thereby constituting a breach of section 9 of
+the
+charter
+?
+c)
+was officer hickey’s delay of 5 to 6 minutes in giving the rights to
+counsel to mr. singh a violation of section 10(b) of the
+charter
+?
+d)
+did the crown prove beyond a reasonable doubt that mr. singh’s ability
+to operate a vehicle was slightly impaired by alcohol, contrary to section
+320.14(1)(a) of the
+code
+?
+e)
+did the crown
+prove that mr. singh drove in a manner that, having regard to all the
+circumstances, was dangerous to the public, contrary to section 320.17 of the
+code
+?
+
+if
+the
+charter
+arguments fail, the crown will have established the elements
+of the offence of “80 plus”, contrary to section 320.14(1)(b) of the
+code.
+the standard of proof and onus:
+
+every
+person charged with a criminal offence in canada is presumed innocent until the
+crown has proven beyond a reasonable doubt that that person committed the
+offence with which that person is charged. the onus of proof, as regards
+proving guilt, never switches from the crown to the accused. i must consider
+all the evidence to decide whether the crown has proven its case to the
+criminal standard. i may only convict if satisfied that the crown has
+established mr. singh's guilt beyond a reasonable doubt.
+
+in
+r. v. kruk,
+2024 scc 7, the supreme court noted that the
+"overarching principle of the presumption of innocence, enshrined in s.
+11(d) of the
+charter, and the correlative principle of the crown's
+burden of proof must always govern the fact-finding process. the presumption of
+innocence -- a 'hallowed principle lying at the very heart of criminal law' (
+r.
+v. oakes,
+1986 canlii 46 (scc), 1 s.c.r. 103, at p. 119) -- requires the crown to bear the
+onus of proving all essential elements of the offence charged, beyond a
+reasonable doubt, before a conviction may be entered.” (see:
+oakes
+at
+para.
+59.)
+
+in
+r. v. lifchus,
+1997 canlii 319 (scc), 3 s.c.r. 320, the supreme court of canada
+indicated that proof beyond a reasonable doubt "does not involve proof to
+an absolute certainty, it is not proof beyond any doubt nor is it an imaginary
+or frivolous doubt" (at para. 36). in
+r. v. starr,
+2000 scc 40 (canlii), 2 s.c.r.
+144, however, the court pointed out that the burden of proof placed upon the
+crown lies "much closer to absolute certainty than to a balance of
+probabilities". (see:
+starr
+at para.
+242.)
+has the crown proved that mr. singh was the driver?
+the evidence:
+jennie nguyen’s testimony:
+
+ms.
+nguyen was the passenger in her boyfriend’s car travelling behind a westbound
+white suv on highway 401, approaching the exit to hurontario street. as they
+entered the exit lanes, she observed the white suv was “wavering” between
+lanes. the exit lanes consisted of two lanes, and both vehicles were in the
+left exit lane.
+
+interestingly,
+at the outset of her testimony, ms. nguyen stated they were following directly
+behind “lovejit”. i will return to this characteristic of ms. nguyen’s
+testimony later in my reasons.
+
+ms.
+nguyen witnessed the white suv drive directly into the divider that separated highway
+401 and the exit lanes to hurontario street. the white suv went airborne and
+came to rest on the left shoulder of the exit lanes.
+
+after
+they stopped on the shoulder of the exit lanes, ms. nguyen looked back and
+observed “a man standing outside of his car.” they exited their car, approached
+the male, and asked if he was hurt or if anyone else was inside the vehicle.
+the male was uninjured and confirmed that he was alone. ms. nguyen did not see
+anyone else in the vicinity. she called 911.
+
+ms.
+nguyen described the male as tall, approximately six feet, “well kept,” and
+“looked clean cut.” he had a “tan skin colour.” his “facial hair” was “very
+well kept,” and he “looked dressed proper.” the male never re-entered his
+vehicle or left the area. they asked him to “step further away” from the car as
+they were concerned about the male waiting beside the damaged vehicle.
+
+ms.
+nguyen testified that the paramedics were the first to arrive, approximately 15
+to 20 minutes after she called 911, not the police. she testified that the
+paramedics did a “quick check” on the male. after the paramedics confirmed that
+she had called 911, she was told they could leave. she thought they left the
+scene between 9:00 and 9:30. she described the weather as “fine” that evening.
+officer hickey’s testimony:
+
+officer
+hickey received the call about this accident at 8:43 p.m. he was advised that a
+white lexus suv was involved in a collision. he arrived at 8:55 p.m.
+
+first
+responders and a tow truck were already on the scene when he arrived. the
+heavily damaged white suv was blocking two lanes of the exit ramp to hurontario
+street.
+
+after
+officer hickey exited his police cruiser, he approached the white suv and found
+no occupants.
+
+officer
+hickey testified that he was “directed” to the paramedic's vehicle, where he
+located mr. singh in the rear being assessed by the paramedics. he believed the
+individual who directed him to the paramedic vehicle was “the independent
+witness,” who was female and had stopped to check on the driver's well-being.
+
+officer
+hickey spoke to mr. singh, who identified himself with his driver’s licence.
+mr. singh confirmed that he was the driver and that no one else was in the car.
+analysis:
+
+there
+was evidence that mr. singh was operating his vehicle when it collided with the
+barrier, as ms. nguyen saw. she observed him standing outside of the damaged
+vehicle. no one else was nearby or close to the damaged vehicle. there was no
+evidence that anyone other than mr. singh had been in the vehicle.
+
+the
+crown cannot rely on any conscripted evidence, such as mr. singh’s
+pre-cautioned statements inside the ems van, to prove the issue of identity. statements
+of the accused without the right to counsel can only be used as an
+investigative tool to confirm or reject the officer's suspicion that the driver
+might be impaired. they cannot be used as direct evidence to incriminate the
+driver. (see:
+r. v. elias,
+2005 scc 37 (canlii), s.c.j. no. 37 (scc).)
+
+in
+r. v. soules, o.j. no. 2500,
+2011 onca 429, leave to appeal
+refused s.c.c.a. no. 375 (s.c.c.), the ontario court of appeal ruled
+that any statements compelled by statute are not admissible in evidence against
+that person; such derivative use would violate the right against
+self-incrimination, soon after parliament responded by enacting section
+320.31(9).
+
+police
+are empowered to investigate drivers for impaired driving both at common law
+and pursuant to provincial highway legislation. evidence they obtain from
+questioning the driver or compelled roadside sobriety tests before the detained
+person can access counsel goes only to the officer’s grounds to make an arrest
+and approved instrument demand. it may not be used to incriminate the accused
+at trial. in that way, the limit on the right to counsel at the roadside has
+been considered reasonable. statements made to a peace officer, including a
+statement compelled under a provincial act, are admissible for the limited
+purpose of justifying a demand under s. 320.27 or s. 320.28. (see: section
+320.31(9).)
+
+officer
+hickey attended the ems van to find only one person being tended to by the
+paramedics. he was alone. the police cruiser’s dashboard video camera showed
+officer hickey attending to the ems van.
+
+in
+a single-car collision, mr. singh was alone and being tended to by ems
+personnel. a reality-based analysis would logically conclude that the person in
+the ambulance was the driver who smashed into the guardrail. there was
+independent evidence that mr. singh was directed into the care of the emergency
+personnel.
+
+any
+suggestion that there may have been an unidentified third party who went
+unnoticed by ms. nguyen lacks any basis in this record to provide even the
+slightest support for this far-fetched claim. engaging in such idle speculation
+would be a legal error. a reasonable doubt based on an inference not supported
+by facts misapplies the law. (see:
+r. v. polley,
+ n.s.j. no. 347
+at para. 18, c.a.)
+
+there
+is a strong chain of custody of mr. singh from the moment of the collision to
+his arrest by officer hickey. there was other evidence, as i have mentioned, to
+support the claim that mr. singh was the vehicle's driver. there is nothing to
+raise a reasonable doubt about the driver’s identity.
+
+mr.
+singh only testified on the
+voir dire
+and not the trial proper. i have
+not considered his testimony nor ms. nguyen’s identification of “lovejit” as
+the person they followed before the collision. still, i have determined that
+the crown has proven beyond a reasonable doubt that he was the vehicle’s
+driver.
+could officer hickey reasonably rely on the “fail” on
+the asd due to a potential residual mouth alcohol issue?
+the evidence:
+officer hickey’s testimony:
+
+officer
+hickey testified that after the paramedics had cleared mr. singh and observed
+that his eyes were very bloodshot and glossy, he asked mr. singh if he had
+consumed any alcohol during the “evening or prior to”, to which mr. singh
+replied that he had “a few shots of tequila”.
+
+this
+response also formed part of his suspicion that mr. singh had alcohol in his
+body while driving. this led officer hickey to read the alcohol screening
+demand to mr. singh at 9:07 p.m.
+
+officer
+hickey was uncertain whether he had asked about mr. singh’s alcohol consumption
+while he was in the paramedic van or the back of his police cruiser. officer
+hickey did not inquire when mr. singh had consumed the tequila shots, nor the
+time of his last drink. he was also aware that a false high reading or failure
+on the asd could occur if a person had consumed alcohol within 15 minutes of
+the test being administered.
+the residual mouth alcohol issue:
+
+for
+police to arrest someone, they must have reasonable and probable grounds
+("rpg"). rpg requires, among other things, a subjectively held honest
+belief by the arresting officer that the person has committed an offence, and
+that subjective belief must be objectively reasonable.
+
+a
+residual mouth alcohol problem can lead to a false positive reading if the alcohol
+screening demand test is done within 15 minutes of alcohol consumption. if an
+officer knows that residual mouth alcohol will make a result unreliable, then
+there can be no honestly held subjective belief that an offence has been
+committed. (see:
+r. v. notaro,
+2018 onca 449
+at para.
+38.)
+
+the
+court of appeal stated in that decision the following, at paragraph 43, concerning
+the objective grounds for the rpg test:
+(a)
+if the information known to an arresting officer about a suspect's
+residual mouth alcohol would make it unreasonable for the officer to rely on
+the accuracy of an asd fail result, reasonable and probable grounds will not be
+established, whether or not the arresting officer turned her mind to the
+presence or effect of residual mouth alcohol.
+(b)
+if it is reasonable for the arresting officer to rely on an asd fail
+result based on the information known to her, then the failure of the arresting
+officer to turn her mind to the presence or effect of residual mouth alcohol is
+immaterial.
+
+the failure of an officer to turn their mind to the residual mouth
+alcohol issue will not, in and of itself, amount to a
+charter
+breach. (see:
+notaro
+at para.
+50.)
+analysis:
+
+in this case, officer hickey’s first contact with mr. singh was at 9:06
+p.m. the failure was ultimately received at approximately 9:10 p.m. he
+understood that the accident had occurred at approximately 8:43 p.m., close to when
+the 911 call was made to report the accident. officer hickey arrived at 8:55
+p.m. despite mr. singh’s admission of consuming alcohol, officer hickey did not
+turn his mind to the possibility of residual mouth alcohol.
+
+in
+this case, i infer that officer hickey had a subjective belief that the asd he
+was using was in proper working order. he had checked the calibration on the
+device, and he did a self-test at the beginning of his shift, which gave a zero
+reading, and this made sense to him because he had not been drinking. when the
+failure test result was received from mr. singh, he reasonably believed that
+mr. singh had just been operating a motor vehicle with over 80 mg of alcohol in
+100 ml of blood.
+
+this
+belief was objectively reasonable. officer hickey had information that the asd
+was calibrated correctly, and his self-test at the beginning of the shift
+confirmed this belief. further, it was consistent with other information that
+officer hickey had, namely, mr. singh’s single-car collision into the bullnose
+of the guardrail and his very bloodshot and glassy eyes. officer hickey
+conceded that he did not have reasonable and probable grounds based on all the
+information to arrest mr. singh for impaired operation. officer hickey's
+subjective belief, in all the circumstances, that an offence of 80 plus had
+been committed was objectively reasonable.
+
+there
+was no evidence at all which would cause officer hickey to believe that mr. singh
+had been drinking “a few tequila shots” in the 15 minutes before the alcohol
+screening demand failure. the mere possibility that he had been drinking during
+that time is not enough to undermine the subjective belief that the offence of 80
+plus had been committed here. i repeat that his subjective belief was
+objectively reasonable.
+
+in
+my view, there was no section 8 violation. the immediacy requirement for an alcohol
+screening demand and provision of a breath sample was met. i am also satisfied
+that there was no residual mouth alcohol problem present here.
+after forming a reasonable suspicion that mr. singh
+may have alcohol present in his system, was officer hickey's decision to place
+mr. singh in the rear of his cruiser to administer the alcohol screening demand
+considered arbitrary detention and did it constitute a breach of section 9 of
+the
+charter
+?
+the evidence:
+officer hickey’s testimony:
+
+as
+mentioned above, officer hickey formed a reasonable suspicion that mr. singh
+had alcohol in his body, based on his observations of mr. singh and an
+admission that he had consumed alcohol and had been driving.
+
+officer
+hickey testified that it was “very, very windy, very cold” that evening and
+that mr. singh was placed in his cruiser to keep him warm at mr. singh’s request.
+he maintained that the door was kept open all the time. he informed mr. singh
+that the in-car camera was turned on and activated. he was also advised that he
+was not under arrest.
+
+officer
+hickey did not think that there was anything wrong with complying with mr.
+singh’s request to sit in the rear of the cruiser for the test, since it was a
+cold evening. he could not recall if mr. singh had his coat with him that
+evening. however, in the video, mr. singh had his jacket with him but did not
+wear it while seated in the back of the cruiser.
+
+whether
+or not mr. singh asked to sit in the cruiser, officer hickey testified he was “not
+comfortable with the public standing on the side of the road while i’m
+investigating a motor vehicle collision. it’s a very dangerous scene so i most
+likely would have even offered to him to sit in the vehicle.”
+
+he
+also commented that despite the completely blocked roadway, he was concerned
+about passing motorists and still considered the scene dangerous.
+
+officer
+hickey was adamant that he did not direct mr. singh into his cruiser. he
+testified, “he wasn’t forced to sit in the cruiser. i would have offered it. if
+he said no, he would have been able to just stand by the side of the road or
+sit in the tow truck while his vehicle was being hooked up.”
+
+officer
+hickey testified that he agreed to mr. singh’s request to sit in the back of
+his cruiser because it was cold, and mr. singh was cooperative.
+officer hickey’s in-car camera video:
+
+when
+mr. singh was about to sit in the rear of the cruiser, as the door opened,
+officer hickey instructed him to sit in the cruiser so they could chat. he
+advised mr. singh that he was not under arrest.
+
+as
+he entered the cruiser, mr. singh carried his jacket, which he placed on the
+seat beside him.
+
+officer
+hickey told mr. singh he needed to read something, and mr. singh responded that
+he felt under arrest.
+
+incorrectly,
+officer hickey told mr. singh that he had a suspicion that mr. singh was impaired
+by alcohol.
+
+on
+two occasions, the rear passenger door closed. on one occasion, mr. singh remarked
+that he was “very” cold, and on another occasion, he expressed concern that the
+door was closed on him.
+mr. singh’s testimony:
+
+mr.
+singh’s testimony on the
+voir dire
+was intended to address the ss. 8 and
+9 arguments.
+
+mr.
+singh is 38 years old. he is married with three children. he is a mortgage
+broker. he has no criminal record.
+
+mr.
+singh testified that after he left the ambulance, he stood outside for approximately
+three minutes until officer hickey directed him to his cruiser because it was
+cold outside.
+
+mr.
+singh confirmed that it was windy that night, but he never complained about the
+cold to officer hickey and that he never asked to sit in the cruiser.
+
+mr.
+singh testified that when sitting in the cruiser and the door closed twice, he
+felt “scared, a little bit nervous and was uncomfortable.”
+
+in
+cross-examination, he conceded that he was also nervous in the ambulance, but
+not because of drinking, but rather that he had been involved in a collision
+with his father’s car.
+
+in
+cross-examination, he agreed that the door was opened quickly after it closed
+on both occasions.
+reasonable suspicion, section 320.27(2) of the
+code,
+and roadside testing in a police cruiser:
+
+i
+am satisfied for the following reasons that officer hickey had a reasonable
+suspicion and had also complied with the prerequisites in section 320.27(2) of
+the
+code
+in making a demand.
+
+section
+320.27 of the
+code
+provides the police with two authorities through
+which they may demand an alcohol screening sample. these are the
+"reasonable suspicion" found in s.320.27(1) of the
+code
+(reasonable suspicion) and the "mandatory alcohol screening" under
+s.320.27(2) of the
+code
+(mandatory alcohol screening) powers.
+
+the
+first authority is grounded in the
+charter
+standard that police may
+detain a person for investigation, provided they possess "reasonable
+grounds to suspect" criminal activity. in the context of alcohol screening,
+an officer may demand a screening sample provided they have a "reasonable
+suspicion" that "a person has alcohol... in their body and that the
+person has, within the preceding three hours, operated a conveyance."
+
+the
+second power, mandatory alcohol screening, does not require any grounds. the
+police may issue a mandatory alcohol screening demand, provided:
+i. the subject of the demand "is operating a motor
+vehicle";
+ii. the officer is in the "lawful exercise" of
+their duties;
+iii. the officer possesses an approved screening device on
+hand, and
+iv. the demand and ensuing sample are
+"immediately" provided.
+
+the
+immediacy requirement of the demand and breath test is integral to the
+constitutionality of the screening regime and supports the suspension or deferral
+of engaged
+charter
+rights.
+
+the
+mandatory alcohol screening provision has been repeatedly found to be
+constitutional. the
+charter
+permits the police to employ this
+investigatory step without any grounds. the police must comply with the
+statutory requirements before demanding that a driver provide an alcohol
+screening sample of breath.
+
+officer
+hickey satisfied all statutory preconditions before relying on the mandatory
+screening authority. mr. singh was "operating a motor vehicle". in investigating
+the cause of the collision and then checking whether the driver may have been
+impaired by alcohol, officer hickey was in the "lawful exercise" of his
+duties. the officer had an approved screening device in his possession. there
+was an "immediate" demand and ensuing screening process.
+
+section
+320.27(1)(b) permits an officer to demand an alcohol screening sample upon
+forming a "reasonable suspicion" that the ostensible driver has
+alcohol in their body. "reasonable grounds to suspect" is a lower and
+less rigorous standard than reasonable grounds to believe". this lower
+charter
+threshold authorizes less intrusive investigatory steps (for example, alcohol
+screening) where a person's privacy interests are diminished (for example,
+while one engages in the highly regulated act of driving).
+
+the
+"reasonable suspicion" standard must be based on "objectively discernible
+facts," considering the totality of the circumstances. (see:
+r. v.
+chehil,
+2013 scc 49, para.
+26.) it engages reasonable
+"possibilities" as opposed to "probabilities" of criminal activity.
+a reasonable suspicion need not be the only available inference to be drawn
+from all the facts. "exculpatory, neutral, or equivocal information cannot
+be disregarded when assessing a constellation of factors", but the
+threshold may still be satisfied when innocent inferences are also present. (see:
+chehil, at para.
+5.)
+
+officer
+hickey had reasonable suspicion that mr. singh had alcohol in his body before
+he made his alcohol screening demand. there had been a single-car collision.
+mr. singh had admitted to driving and having a few tequila shots. officer
+hickey had observed mr. singh’s eyes to be very bloodshot and red.
+
+while
+"reasonable suspicion" must be objectively based on facts, there is
+also a subjective requirement for the officer.
+
+the
+testimony must provide objective grounds to support the requisite suspicion
+relied upon by the officer. officer hickey testified that he had observed very
+bloodshot and glossy eyes, and mr. singh’s admission that he had consumed
+alcohol by the time he issued the screening demand. the only reasonable
+inference from this constellation of facts is that the officer subjectively
+believed mr. singh was driving with alcohol in his system. as i found earlier,
+this belief was objectively supported.
+
+accordingly,
+i find no violation of mr. singh’s ss. 8 and 9
+charter
+rights. to
+reiterate, reasonable suspicion is no longer required for alcohol screening if
+the officer has an approved screening device - see s. 327.27(2).
+
+i
+now turn to the other argument, that officer hickey arbitrarily detained mr.
+singh by directing him to sit in the rear of his cruiser to conduct the alcohol
+screening test.
+
+based
+on mr. singh’s testimony, it was argued that officer hickey told or directed
+mr. singh to sit in his cruiser. however, the crown submits that officer hickey
+followed mr. singh’s request to sit in the cruiser as he stated that he was
+cold, despite having a jacket. furthermore, the defence submitted, and i accept,
+based on the video evidence, that the passenger rear door of the cruiser did
+not remain open the entire time while mr. singh was seated. the door closed
+twice, possibly caused by the wind that evening. officer hickey denied that he
+closed the door on purpose. both times, officer hickey opened the door. it was apparent
+officer hickey wanted to keep the door open as a matter of convenience for mr.
+singh. it was a windy night, as evidenced by officer hickey’s pants, which
+could be seen flapping in the wind. he made it clear to mr. singh that he was
+not under arrest.
+
+i
+do not believe that i need to reconcile this difference in opinion as to how or
+why mr. singh ended up in the rear of officer hickey’s cruiser. in the final
+analysis, mr. singh was detained pursuant to a lawful investigation at the
+roadside.
+
+in
+support of his position that ss. 8 and 9 were breached in these circumstances, mr.
+lent provided the following decisions:
+r. v. romaniuk,
+ o.j. no.
+1735;
+r. v. dimaria,
+ o.j. no. 2067;
+r. v. comrie,
+ a.j.
+no. 1422
+and
+r. v. orde,
+ o.j. no. 6317. these cases are all distinguishable
+on their facts. these cases all involved handcuffing the accused as part of the
+alcohol screening demand. absent exceptional circumstances, courts have ruled
+that handcuffing a person for the alcohol screening demand / test is a
+violation of the right to be free from unreasonable search and seizure and
+arbitrary detention as set out in ss. 8 and 9 of the
+charter. mr. singh
+was placed in handcuffs after he failed the alcohol screening demand / test and
+was arrested.
+
+in
+r. v. klotz,
+ o.j. no. 4137, justice botham found fault with the
+officer conducting the test inside his cruiser rather than on the other side of
+his cruiser, so both would have been protected from passing traffic. she found
+that the officer chose to conduct this test and other screening tests that
+evening in his cruiser solely based on a location he had chosen and did not
+turn his mind to whether a less restrictive manner of detention would have been
+possible. her honour found that the officer’s decision to conduct the roadside
+testing of the accused inside his cruiser was not reasonably necessary and did
+constitute a breach of the accused's section 9 rights. (see:
+klotz, at paras.
+26-27.) she was entitled to make that decision. given the brief detention, i
+am unsure i would make the same decision. given the circumstances, i am certain
+i am not making the same finding in this case.
+
+i
+prefer the reasoning of justice duncan in his decision in
+r. v. mahipaul,
+ o.j. no. 2688, at para. 20, in which he expressed the following view:
+20 placing defendant in police car: i do not think that the
+case of
+aucoin
+stands for the proposition that placing a detainee in the
+back seat of a police car is per se unlawful or a
+charter
+violation.
+this would particularly be so in the asd demand situation where the officer is
+specifically authorized to require the detainee to accompany him for the
+purpose of conducting the test. the interior of a police car might reasonably
+be seen as an appropriate place for reasons of safety, warmth, quiet or other
+circumstance. in my view,
+aucoin
+decides that a police officer cannot
+unilaterally expand his own powers of search by making an unnecessary and
+unreasonable decision as to where to place a detainee. in this case there is no
+evidence that placing the defendant in the police car involved any further
+search of his person. accordingly, that placement did not infringe the
+charter.
+
+he
+further expanded upon this, in the context of placing the accused in a cruiser
+that triggers a search that is not authorized, in his decision in
+r. v.
+chandarh,
+ o.j. no. 7199 at paras. 14-15:
+14 to expand somewhat: in my view application of
+aucoin
+to roadside sobriety investigation should be approached with caution in that
+the roadside law permits such investigations, even randomly conducted, and
+provides the police with exceptional powers to conduct them;
+r v orbanski.
+a motorist can be detained, subjected to asd testing, field sobriety testing,
+questioning and obviously be the subject of observation of smells, slurs,
+stumbles etc. if all these things can be done at the scene, detaining the
+motorist in the process, it seems to me to be of little significance as to
+where that investigation takes place - in or out of the police car. it might be
+apt to ask the question: did the placement of the defendant in the police car
+permit the police to do something, such as search, that they otherwise would
+not lawfully have been permitted to do? it is only if that occurs that the
+reasonable necessity issue is reached.
+15 in this case, for the reasons given, there was no
+unlawfulness in placing the defendant in the police car. however, if i am wrong
+in that conclusion and must consider the issue of reasonable necessity, i would
+further conclude that it was reasonably necessary. this was a major
+intersection, traffic was still moving through the area, the defendant was
+unsteady, possibly from the collision, his car was wrecked, leaving the police
+car the only reasonable alternative to standing outside or sitting on wet
+ground.
+
+officer
+hickey was a credible and reliable witness, despite two minor inconsistencies
+in his testimony. firstly, officer hickey testified that he believed he entered
+the ambulance from the rear door, but the video showed him entering the side
+door. secondly, he thought that the door to his cruiser was never closed when
+mr. singh was in the rear of his cruiser. the video showed that the door closed
+twice momentarily. i do not see anything turned on these inconsistencies very
+much, nor do i see that undermining officer hickey’s reliability. the fact that
+he felt he went through the rear door versus the side door is inconsequential.
+the point is that when he entered the ambulance, he found only mr. singh being
+treated and no one else, and he made his observations. i can understand if
+officer hickey mistakenly thought the door closed on mr. singh, as it may have
+been the case that the wind blew the door closed or he inadvertently closed it.
+in any event, it was never officer hickey’s intention to lock mr. singh in the
+rear of his cruiser at this point. finally, it is understandable not to recall
+those details accurately when testifying about an event from nearly 16 months
+ago.
+
+mr.
+singh was a fair witness. i am not prepared to find that he was only scared in
+the rear of the cruiser because the door was closed twice for a few seconds. as
+he said in his evidence, he was already a little nervous for other reasons.
+
+there
+is no doubt that the ambit of section 9 extends beyond the mere basis for
+detention and protects an individual's right against an unreasonable manner of
+detention. (see:
+r. v. aucoin,
+2012 scc 66 (canlii), 3 s.c.r. 408 at para.
+35.) the
+question, therefore, is whether, having regard to the other options available,
+the brief detention of mr. singh in the rear of officer hickey’s cruiser during
+the alcohol screening demand / test was unreasonable. i do not believe it was.
+
+i find that there
+was no unlawfulness in placing mr. singh in the cruiser's rear to administer
+the test. whether mr. singh asked to go into the cruiser to keep warm or if it
+was a kind suggestion by officer hickey is not a relevant consideration, but
+rather, was placing mr. singh in the cruiser's rear reasonably necessary?
+
+officer hickey
+appeared to be alone. mr. singh’s car had significant front-end damage. in my
+view, it was unsafe and unreasonable to perform the alcohol screening demand /
+test on the shoulder or the blocked-off exit lanes of highway 401. it was a
+cold and windy night. for example, mr. singh admitted on video that he felt
+cold while sitting in the rear of the cruiser with the door open. additionally,
+he was visibly shaking in the back of the cruiser.
+
+there was no
+other reasonable place or means besides the cruiser to administer the test. the
+risks identified by the officer justified taking precautions, and briefly
+placing mr. singh in the rear of his cruiser,
+unrestrained,
+as a minimally intrusive means to mitigate these risks. this
+was a clear case of “reasonable necessity.”
+
+even if i am
+incorrect in my assessment of this detention being reasonably necessary, i
+would not exclude the evidence as the detention was “brief” and there was a
+reasonable excuse for mr. singh’s detention.
+
+there were no
+breaches of mr. singh’s sections 8 and 9 rights.
+was officer hickey’s delay
+of five to six minutes in giving the rights to counsel to mr. singh a violation
+of section 10(b) of the
+charter
+?
+the evidence:
+officer hickey’s testimony and the in-car video
+recording:
+
+after mr. singh
+failed the alcohol screening demand / test at 9:10 p.m., officer hickey
+arrested mr. singh at 9:10 p.m. the video recording showed that mr. singh was
+removed from the cruiser, turned around and placed his hands on the side of the
+cruiser. officer hickey testified that he handcuffed and searched mr. singh. the
+rights to counsel commenced at five or six minutes later. there was no evidence
+from officer hickey as to what he did after handcuffing and searching mr. singh
+until he began reading the rights to counsel.
+the right to counsel without delay:
+
+section 10(b) of
+the
+charter
+states the following:
+everyone has the right to on arrest or detention.
+(b)to retain and instruct counsel without delay and to be
+informed of that right.
+
+with respect to
+section 10(b), the police must immediately inform the detainee of their right
+to counsel when the detention arises. (see:
+r. v. suberu,
+2009 scc 33,
+para.
+41.) at para. 42, the court closed the door on the flexibility of
+reading the rtc subject to officer or public safety concerns:
+in our view, the words 'without delay' mean 'immediately'
+for s. 10(b). subject to concerns for officer or public safety, and such
+limitations as prescribed by law and justified under s. 1 of the
+charter,
+the police have a duty to inform a detainee of his or her right to retain and
+instruct counsel, and a duty to facilitate that right immediately upon
+detention.
+
+regrettably,
+this decision did not resolve the ongoing litigation concerning the timing of
+the right to counsel.
+
+however, a short
+delay in reading rights to counsel while the police conduct necessary tasks,
+such as handcuffing and searching the accused or bringing them back to the
+police cruiser, will not violate s. 10(b). (see:
+r. v. fisk,
+2020 oncj
+88
+at para.
+51;
+r. v. agnihotri,
+2019 oncj 551
+at para.
+9;
+r. v.
+singh,
+2017 oncj 386
+at para.
+19.)
+
+further, the
+ontario court of appeal has held that a brief delay in searching, securing the
+parties, and gaining control of the scene is a reasonable limitation on the
+immediacy requirement. (see:
+r. v. pileggi,
+2021 onca 4
+at paras.
+57-62.)
+
+it is sufficient
+for arresting officers to rely on generalized safety concerns in support of a
+decision to place an arrested individual in the rear of a police cruiser before
+informing the individual of their right to counsel. (see:
+r. v. lep'okhina,
+2023 onsc 2850, at para.
+21.) police officers are not required to handcuff the
+accused with one hand and, with the other hand, read the right to counsel from
+their notebooks. (see:
+fisk, at para.
+51.)
+the analysis:
+
+the case law is
+clear that the “immediacy requirement” for the rights to counsel has less
+flexibility.
+
+i agree with the
+defence that there was a section 10(b) violation with respect to the delay in
+providing rights to counsel in this case. as mentioned above, the arrest was at
+9:10 p.m., and the rights to counsel were provided at 9:15-9:16 p.m. in my
+view, the delay is not quite six minutes. officer hickey testified that he
+handcuffed and patted down mr. singh but did not provide a time or estimate of how
+long that process took. i would deduct about two minutes from the five or six-minute
+delay between 9:10 p.m. and 9:15-9:16 p.m. to allow for the handcuffing, which
+is an officer safety issue and may be deducted from the right to counsel delay.
+let me say that whether the delay was three minutes or four minutes, the delay
+here was relatively minor in my view.
+
+no reason for
+the delay in providing rights to counsel was apparent. the right to counsel
+should have been provided right after the handcuffing. allowing two minutes for
+the handcuffing, the delay was about three to four minutes, which was a breach
+of s. 10(b), albeit a minor one.
+section 24(2) of the
+charter:
+
+i have concluded
+that there was a three-to-four-minute violation with respect to giving the
+rights to counsel that caused a section 10(b) breach.
+
+let me say that
+the section 10(b) breach does not support the exclusion of the breath sample
+evidence under section 24(2) in any material way. the section 10(b) breach was
+brief, only three to four minutes. the delay in giving rights to counsel was never
+explained. on my view of the facts, the police did not seek to obtain evidence
+from mr. singh during the delay or without allowing him to consult duty counsel.
+but that is not determinative of the issue. as justice paciocco recently stated
+in
+r. v. smith,
+2023 onca 227, at para.
+67, if the police did not seek
+to elicit incriminating evidence during the delay by not committing a second
+breach, it does not lessen the impact of the informational breach. officer
+hickey should have provided the rights to counsel immediately after handcuffing.
+however, according to my calculation, the delay was only three to four minutes.
+there should have been no delay, but i consider the breach to be of low
+seriousness and to have had a minimal impact on mr. singh's
+charter
+rights. i am aware of the alleged "systemic" issues concerning the
+delay in providing rights to counsel in peel. still, i consider that the
+section 10(b) breach here was not serious, had little impact on mr. singh, and
+does not justify the exclusion of evidence.
+
+society's
+interest in adjudication on the merits favours the inclusion of the evidence.
+balancing all the
+grant
+factors and considering the s. 10(b) breach, the
+admission of the breath samples would not bring the administration of justice
+into disrepute.
+
+in summary, on
+the section 24 issue, the section 10(b) breach does not support excluding the
+breath sample evidence. the application is dismissed.
+did the crown prove beyond a reasonable doubt that
+mr. singh’s ability to operate a vehicle was slightly impaired by alcohol,
+contrary to section 320.14(1)(a) of the
+code
+?
+the evidence:
+jennie nguyen’s testimony:
+
+ms. nguyen
+testified that she spoke with mr. singh; he did not slur his speech or stutter,
+nor did she smell the odour of alcohol on his breath. he did not have any
+difficulty walking, nor did he display any problems with his motor skills.
+officer hickey’s testimony:
+
+officer hickey
+observed that mr. singh had very bloodshot and glossy eyes.
+sergeant nasr’s testimony:
+
+the qualified
+breath technician, sergeant nasr observed mr. singh on the video in the booking
+area and agreed that he had no difficulty walking. what he did note that
+evening, however, was that mr. singh did have an odour of alcohol on his breath.
+on the other hand, mr. singh’s speech was not slurred, his gait was fine, and
+there was no swaying. he did find that, based on the readings and the
+observations, that the effects of alcohol were “slight.” he conceded in cross-examination
+that had he not known what mr. singh’s readings were, he would not have concluded,
+based on his observations and interactions, that mr. singh’s ability to operate
+a motor vehicle was impaired by alcohol.
+impaired driving:
+
+the test for
+impaired operation of a motor vehicle has been set out in
+r. v. stellato,
+1993 canlii 3375 (on ca), 78 c.c.c. (3d) 380 (on ca), affirmed
+1994 canlii 94 (scc), 90 c.c.c. (3d) 160 (s.c.c.):
+the trial judge must be satisfied that the accused's ability
+to operate a motor vehicle was impaired by alcohol or a drug. if the evidence
+of impairment is so frail as to leave the trial judge with a reasonable doubt
+as to impairment, the accused must be acquitted. if the evidence of impairment
+establishes any degree of impairment ranging from slight to great, the offence
+has been made out. the offence is not met merely by someone drinking alcohol and
+being in care or control of a vehicle. neither is it made out by evidence of
+impairment alone. the impairment must be such to be a contributing factor to an
+impairment of the ability to operate a motor vehicle.
+
+the “
+stellato
+test” is now incorporated into the wording of s. 320.14(1)(a) of the
+code.
+slight impairment to drive involves a reduced ability in some measure to
+perform the complex task of driving through reduced physical ability in motor
+function or balance, or a reduction in the many mental faculties necessary to
+drive safely such as vision, reaction time, perception, divided attention,
+processing multiple tasks and regard for rules of the road. indicia of
+impairment are not considered individually; rather, the totality of the
+evidence as a whole must be considered. (see:
+r. v. grant, o.j.
+no. 1143 at para.
+50,
+2014 onsc 1479;
+r. v. bush, o.j. no. 3453
+at para.
+47,
+2010 onca 554.)
+
+the legal test
+of impairment to any degree does not mean that slight evidence will be
+sufficient to prove impairment beyond a reasonable doubt. as the alberta court
+of appeal explained in
+r. v. andrews, a.j. no. 8,
+1996 abca 23,
+leave refused s.c.c.a. no. 115, the “
+stellato
+test,” speaks to
+the degree of impairment in the ability to drive, which must be proved.
+analysis:
+
+the arresting
+officer never smelled the odour of alcohol on mr. singh’s breath—sergeant nasr
+did record the presence of alcohol on his breath. but i remind myself that the
+smell of alcohol alone, by itself, does not establish the amount of alcohol in
+a driver’s blood nor establish that the driver's ability to operate a motor
+vehicle was impaired due to the consumption of alcohol. (see:
+r. v. singh,
+ o.j. no. 1164 at paras. 7 and 10.)
+
+mr. singh’s unexplained
+(or something or someone cut him off) collision with the bullnose of the
+guardrail between the 401 collector lanes and the exit lanes to hurontario
+street at 9 p.m. is not by itself an indication of impairment in the ability to
+drive. it is evidence of careless driving. careless driving could be an
+indicium of impaired ability, involving
+inter alia, an inability to pay
+due care and attention or a failure to control the vehicle too quickly. (see:
+r.
+v. chung, o.j. no. 5325,
+2004 oncj 347.)
+
+there was no
+evidence of how long ms. nguyen observed mr. singh wavering in his lane. i did
+not find her evidence very compelling on this point. the driving was not
+lengthy or imperilling, and what she observed was not necessarily consistent with
+impairment by alcohol, but a sudden and late change of course to continue in
+the westbound collector lanes rather than exiting at hurontario street.
+
+i have observed
+mr. singh in the cruiser and booking videos; he displayed no physical signs of
+impairment. furthermore, ms. nguyen did not notice any signs of impairment. it
+is a relevant consideration in my analysis that sergeant nasr would not have
+concluded mr. singh was impaired by alcohol without being aware of the
+readings.
+
+although the
+readings are admissible, they can only be used to confirm that alcohol had been
+consumed and nothing more. (see:
+r. v. tusiuk,
+ o.j. no. 802 (s.c.j.)
+at para. 4
+and
+r. v. dinelle,
+ n.s.j. no. 246 (c.a.).)
+
+despite the
+unexplained accident, consumption of some alcohol before the accident (based on
+the readings), the odour of alcohol detected on his breath in the breath room,
+along with his bloodshot eyes, does still leave me with reasonable doubt about
+mr. singh’s ability to operate a motor vehicle while impaired by alcohol.
+did the crown prove that mr. singh drove in a manner
+that, considering all the circumstances, was dangerous to the public, contrary
+to section 320.17 of the
+code
+?
+the evidence:
+jennie nguyen’s testimony:
+
+as mentioned
+above, the only evidence regarding mr. singh’s motor vehicle operation was from
+jennie nguyen, a passenger following behind mr. singh.
+
+she observed
+that mr. singh’s car was “wavering between heading straight on the highway or
+exiting.” (transcript dated march 5, 2025, page 2, line 10.) she testified that
+the vehicle was “wavering between the two lanes.” (transcript dated march 5,
+2025, page 2, lines 21 and 22.) she observed mr. singh’s vehicle strike the
+divider separating highway 401 from the exit lanes to hurontario street and
+lift into the air. ms. nguyen testified that they observed the vehicle for some
+time, but it was just before the accident that she noticed the “wavering”.
+dangerous driving:
+
+dangerous
+operation of a motor vehicle or a conveyance is defined in section 320.13(1) of
+the
+code
+as follows:
+everyone commits an offence who
+operates a conveyance in a manner that, having regard to all of the
+circumstances, is dangerous to the public.
+
+these
+circumstances include, for motor vehicles, the nature, condition, and use of
+the place at which the motor vehicle is being operated and the amount of
+traffic that at the time is or might reasonably be expected to be at that place.
+
+dangerous
+driving involves a “significant” or “marked” departure from the standard of a
+reasonable, prudent person. (see:
+r. v. macgillivray,
+1995 canlii 139 (scc), s.c.j. no.
+20, 1 s.c.r. 890 (s.c.c.).) it is erroneous to equate dangerous driving
+to failing to exercise the standard of care of a prudent driver. (see:
+r. v.
+bartlett,
+1998 canlii 2998 (on ca), o.j. no. 1608, 124 c.c.c. (3d) 417 (ont. c.a.).) a
+momentary act of negligence (crossing the highway's centre line) was
+insufficient evidence to support a finding of dangerous operation. (see:
+r.
+v. beatty,
+2008 scc 5 (canlii), s.c.j. no. 5, 1 s.c.r. 49 (s.c.c.).) the minority
+held that the “marked departure” requirement applies to both the
+actus reus
+and the
+mens rea
+of the offence of dangerous operation of a motor
+vehicle.
+
+the distinction
+between a mere departure, which may support civil liability, and the marked
+departure required for criminal fault is a matter of degree. still, the trier
+of fact must identify how and in what way the driver went markedly beyond mere
+carelessness. evidence of a single and momentary error in judgment, albeit with
+tragic consequences, did not provide evidence on which a properly instructed
+trier of fact, acting reasonably, could convict. (see:
+r. v. roy,
+2012 scc 26 (canlii), 
+s.c.j. no. 26, 281 c.c.c. (3d) 433 (s.c.c.). however, in applying
+roy, a
+trial judge must not allow the “momentary” nature of the dangerous driving to
+obscure the central issue: what a reasonable person would have foreseen and
+done in the circumstances of the accused. (see
+r. v. chung, 
+s.c.j. no. 8,
+2020 scc 8 (s.c.c.).)
+
+the onus lies on
+the crown to prove both the
+actus reus
+and the
+mens rea
+of the
+offence of dangerous operation of a motor vehicle. for the
+actus reus,
+the accused’s conduct must be measured against the wording of section 320.13.
+the trier of fact must be satisfied beyond a reasonable doubt that, viewed
+objectively, the accused was driving in a manner that, “having regard to all of
+the circumstances, [was] dangerous to the public”.
+
+how the motor
+vehicle was operated is at issue, not the consequence of the driving. the trier
+of fact must also be satisfied beyond a reasonable doubt that the required
+mens
+rea
+accompanied the accused’s objectively dangerous conduct. in making the
+objective assessment, the trier of fact should be satisfied based on all the evidence,
+including evidence about the accused’s actual state of mind, if any, that the
+conduct amounted to a marked departure from the standard of care that a
+reasonable person would observe in the accused’s circumstances. moreover, suppose
+an explanation is offered by the accused. in that case, to convict, the trier
+of fact must be satisfied that a reasonable person in similar circumstances
+ought to have been aware of the risk and the danger involved in the conduct
+manifested by the accused.
+analysis:
+
+in my view, neither
+the
+actus reus
+nor the
+mens rea
+of the offence of dangerous
+driving has been made out.
+
+there was no
+evidence of the vehicle’s speed before impact. indeed, there was no evidence
+that mr. singh was speeding. the only term to describe mr. singh’s driving was
+“wavering” before the collision. ms. nguyen used this term to describe her
+impression that mr. singh was indecisive about exiting or continuing in the
+collector lanes. she also used the term to describe mr. singh moving from side
+to side between two lanes.
+
+there was no
+evidence of the amount of traffic or the traffic flow at this time.
+
+there was no
+evidence of erratic driving beyond “wavering” between lanes.
+
+i am uncertain
+that this was a case of careless driving or an indecision on whether to exit at
+hurontario street or continue along highway 401.
+
+it is an error
+to consider alcohol consumption in deciding a dangerous driving case. (see:
+r.
+v. churchill,
+ b.c.j. no. 2949 (b.c.c.a.).)
+
+for these
+reasons, i cannot be satisfied beyond a reasonable doubt that the driving was a
+marked departure from the standard of care expected of a reasonable person in
+the circumstances.
+conclusion:
+
+the
+charter
+application is dismissed. the breathalyzer readings are admitted into evidence.
+there will be a finding of guilt on count #2. for the reasons already stated,
+mr. singh is not guilty of counts #1 and #3.
+released: april 24,
+2025
+signed: justice paul t. o’marra

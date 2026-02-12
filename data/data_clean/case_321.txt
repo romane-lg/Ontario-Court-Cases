@@ -1,0 +1,872 @@
+source url: https://www.canlii.org/en/on/oncj/doc/2025/2025oncj725/2025oncj725.html
+
+ontario court of justice
+citation:
+r. v. hanna, 2025 oncj 725
+date: may
+2, 2025
+court
+file no.: brampton 998 24 31101820
+between:
+his
+majesty the king
+— and
+—
+alex andrew hanna
+before
+justice g.p. renwick
+heard
+on 28, 29, and 30 april 2025
+reasons
+for judgment released on 02 may 2025
+n. di-biase and s. weinstock............................................... counsel
+for the prosecution
+f. davoudi.............................................. counsel
+for the defendant alex andrew hanna
+ruling on
+charter
+applications under
+ss. 8, 9, 10(b)
+renwick j.:
+introduction
+
+the defendant is charged on a single count information that he possessed
+a schedule i substance, namely cocaine (benzoylmethylecgonine), for the purpose
+of trafficking, contrary to s. 5(2) of the
+controlled drugs and substances
+act. this is an indictable offence and the defendant chose to have a trial
+in the ontario court of justice.
+
+prior to trial, the defendant filed a written application for
+charter
+relief on the basis of alleged violations of the defendant’s ss. 8, 9, and
+10(b) rights. at trial, the prosecution also brought an application to adduce
+the defendant’s utterances to police. the parties agreed to have a “blended”
+voir
+dire
+where the evidence taken on the trial could also apply to the
+charter
+application and the voluntariness
+voir dire
+for the defendant’s statements.
+
+the prosecution called two police witnesses on the trial proper. also, many
+facts were established by the introduction of a statement of agreed facts (exhibit
+#1). in addition to the police witnesses, the defendant testified on the
+charter
+application. during final submissions, the defendant conceded the
+voluntariness of his statements to police.
+
+the parties agree that the result of the
+charter
+application will
+determine the outcome of the trial. if the defendant succeeds on his
+application under s. 24(2) of the
+charter, the evidence obtained by the
+search of the defendant’s vehicle will be excluded and he will be acquitted.
+conversely, if the 26.66g of cocaine found under the driver’s seat of the
+defendant’s vehicle is admissible, the defendant can be found guilty.
+the
+evidence received
+general considerations
+
+in this part, i will outline some of the
+evidence with references to specific portions of the testimony and other evidence.
+although i will not refer to all of what a witness said, i listened to each
+witness carefully, i have taken detailed notes, i have reviewed the exhibits, i
+have had access to the digital record of the proceedings, and i have assessed
+all testimony for intrinsic and extrinsic consistency, plausibility, balance,
+possible interest, and the witness’ ability to recall and communicate.
+
+i do not propose to recapitulate all of the evidence received
+during this trial. suffice it to note that i have used ample and many
+opportunities during the trial and subsequent to the completion of the
+submissions to consider the testimony heard, to review the exhibits, and to re-play
+parts of the video evidence or the digital audio recording of the proceedings.
+i have thoroughly reviewed the evidence in this case, and i will only discuss
+parts of the evidence where it serves to underscore my findings. lastly, despite
+any exchanges with counsel during submissions, i came to no conclusions about
+any of the evidence received until all of the arguments were made and my review
+of the evidence was complete.
+the police testimony and
+evidence
+
+constable (“cst.”) tyler satino was the main prosecution witness.
+his partner, cst. suraj sandhu, assisted him during the investigation and mostly
+dealt with the defendant’s passenger (e.l.) on the morning in question.
+
+the police testimony established that the officers entered the
+parking lot where they eventually encountered the defendant in his toyota motor
+vehicle. as the officers initially drove past where the toyota was parked, both
+officers testified that they had their windows rolled down, as was their
+general practice in similar circumstances, and they both detected the odour of
+freshly burnt cannabis. constable satino testified that he also saw the spark
+of what he believed to be a “spliff” (cannabis cigarette) ignited near the
+driver’s mouth.
+
+all of the evidence, including the defendant’s, proved that the
+police vehicle would have been between six and 10’ in front of the front end of
+the defendant’s parked toyota when the police initially drove past.
+
+exhibit 6a is the video recording captured from cst. satino’s
+body-worn camera (“bwc”). when the video starts, cst. satino is already
+engaging with the defendant, who is going through his documents before handing
+his driver’s license to the officer. the audio for the camera did not start
+until 29 seconds into the video clip at 06:35:18 according to the time stamp on
+the top of the video.
+
+the discussion between this officer and the defendant began as follows:
+defendant: i’m literally going
+to work, sir (as he handles a plastic bag with his documents).
+officer satino: i hear you, my
+friend, but, people that smoke and people that drink in their cars, it’s a
+serious issue, right. because there’s a lot of impaired drivers here.
+defendant: i understand,
+completely. (hands his driver’s license to the officer)
+satino: thanks man.
+defendant: i’m not under the
+influence or anything.
+satino: fair enough. i’ll be
+right back. (officer walks around to speak to and obtain the passenger’s
+identification)
+
+before watching the bwc footage in court, this officer testified
+that as he approached the defendant, he explained why they were in the area and
+conducting patrols, “to ensure people are not consuming alcohol or drugs”
+because this can lead to impaired drivers.
+
+the bwc footage also demonstrates that cst. satino maintained a
+cordial, professional, and respectful tone and demeanor at all times in dealing
+with the defendant.
+
+on the whole, cst. satino was a good witness. i found that his
+testimony aligned well with both the sequence of events and the content
+recorded on his bwc.
+
+this witness was challenged in cross-examination about several
+areas. among the major areas of concern were:
+i.
+the inability to smell burnt cannabis as they drove in the
+parking lot toward the defendant’s vehicle;
+ii.
+the inability to see that the driver’s window of the toyota was
+cracked open, as they drove toward and past the defendant’s vehicle;
+iii.
+the inability to see the cannabis cannister above the glove box while
+standing on the driver’s side and to recognize that it was a cannabis
+container;
+iv.
+the inability to see that the seal of the cannabis container was broken;
+v.
+the failure to mention these observations/perceptions to the
+defendant;
+vi.
+the mention of “occupant
+s
+” (plural) smoking in the
+officer’s notes and the arrest report despite the testimony that cst. satino
+only saw the spliff near the driver’s mouth;
+vii.
+whether the officer’s window was up or down when he drove into
+the parking lot and past the defendant’s vehicle, given the window is up when
+the officer goes to his cruiser to check the defendant’s identity; and
+viii.
+why the officer never mentioned to his partner or the defendant
+that he had seen the defendant smoking what he thought was a cannabis cigarette.
+
+these challenges are critical areas of this officer’s testimony
+because the entire justification for the police interaction and the claim of
+statutory authority to search the occupants and the vehicle began with the
+claim of a smell of burnt cannabis, the claim of the sighting of an ignited
+spliff, followed by the claim of the observation of an unsealed cannabis
+container within reach of the driver.
+
+constable sandhu’s testimony corroborated cst.
+satino’s evidence to the extent that he too claimed to have smelled the burnt
+cannabis as they entered the parking lot and drove in the area of the
+defendant’s toyota.
+
+there were at least two differences in the
+testimony of the two witnesses:
+i.
+cst. satino claims to have been about 50’ away
+from the defendant’s vehicle when he became aware of the smell of burnt
+cannabis, while cst. sandhu’s evidence was that it was when they passed the
+vehicle approximately six feet away; and
+ii.
+cst. satino saw the spark of a lit cigarette,
+which he assumed was cannabis, near the driver’s mouth; cst. sandhu never saw
+this.
+
+constable sandhu was not a confident witness. he
+seemed unsure of some of his testimony and overall, seemed to be over-reliant
+on his notes to assist him while testifying. i do not find that cst. sandhu was
+untruthful or less than accurate while testifying, but given his juniority at
+the time, his lack of confidence while testifying, his uncertainty during the
+investigation (as depicted on his bwc video), and the apparent over-reliance on
+his notes during his evidence, i cannot safely rely on his testimony where it
+is not corroborated by the bwc footage or other evidence. i find that his claim
+of having smelled burnt cannabis is weak corroboration of cst. satino’s
+testimony on the point.
+
+in the end, in terms of the issues to be
+decided, save for whether or not he smelled burnt cannabis, i am not concerned
+with the ultimate credibility or reliability of cst. sandhu’s testimony or his
+mediocre presentation while testifying. to the extent that i must determine whether
+the police had a lawful basis to detain the defendant, whether the detention
+was arbitrary, whether the police had the requisite grounds (a subjectively
+held belief that was objectively reasonable) to rely on the search authority
+within the
+cannabis control act (“cca”), whether the searches were
+carried out reasonably, and whether the defendant’s s. 10(b)
+charter
+right was violated, i am satisfied that the testimony of cst. satino is
+determinative. constable satino took control of the investigation, he advised
+the defendant of his concerns and the reason for their interaction, he
+investigated the identity of the defendant and e.l., he told them he would be
+searching the vehicle and the defendant’s person, and he twice attempted to
+carry out his obligations pursuant to the defendant’s s. 10(b) right.
+the
+defendant’s testimony
+
+the defendant was a hesitant witness. he
+answered questions carefully, but with a level of insecurity similar to the
+testimony given by cst. sandhu.
+
+the defendant denied that either of them were
+smoking cannabis before or as the police arrived in the plaza that morning. interestingly,
+the defendant did admit to having a cigarette while he drank his coffee, but he
+claimed that it was about 15 to 20 minutes before the police arrived. it was
+also somewhat coincidental that he too (like cst. satino) described his
+driver’s window as “cracked” open while he smoked his cigarette. but the
+defendant testified that he had closed the window before the police arrived. the
+defendant was quite candid that he had smoked cannabis in his vehicle on
+occasion prior to this day, but he could not account for the end of a cannabis
+cigarette (exhibit #3) found in his vehicle during the police search. the
+defendant used the modifier “believed” (possibly indicating some uncertainty) for
+many of his answers while testifying (he said this twice, for example, in
+respect of e.l.’s ownership of the blue cannabis container, exhibit #2). this
+detracted from his credibility. in response to his last question about his
+knowledge of the contents of the blue cannabis container, he answered, “i
+believe it was empty, but i’m not 100% sure.” i found it odd that there was no
+explanation for how he would possess this belief given his claim that he was
+not even aware of the existence of the container (despite the fact that it was
+plainly visible above the glove compartment in cst. sandhu’s bwc footage), before
+the police found it.
+analysis
+
+the defendant applied for
+charter
+relief. the applicant has
+the onus to establish his allegations on a balance of probabilities. if the
+defendant’s
+charter
+rights have been violated, the exclusion of evidence
+is not automatic. in order to have the seized contraband excluded from his
+trial, the defendant must establish that it is more likely the case than not
+that the admission of this evidence in the circumstances of one or more
+charter
+violations would tend to bring the administration of justice into disrepute.
+
+the parties also agree that the search of the
+defendant’s vehicle was warrantless, purportedly authorized by statute. thus,
+the prosecution must establish on a balance of probabilities that the police
+complied with the statutory regime authorizing their search.
+credibility and
+reliability generally
+
+this case involves conflicting evidence and credibility
+assessments. in assessing witness credibility and reliability i have taken into
+account the general capacity of the witness to make their observations, to
+remember what they perceived, and their ability to accurately testify to their
+recollections. it is also important to determine whether the witness was trying
+to tell the truth and whether or not the witness was sincere, candid, biased,
+reticent, and/or evasive. a trier of fact is entitled to accept some, none, or
+all of a witness’ testimony.
+
+a valuable means of assessing the credibility of any witness is
+to examine what is testified to in the context of all of the evidence in the
+case and not on an isolated basis. this is true for any inconsistencies and
+whether these are inconsequential or significant to the case. if the
+inconsistency is significant, then i must pay careful attention to it when
+assessing the reliability of the witness' testimony.
+
+triers of fact must consider both credibility
+and reliability in determining the facts in a given case. credibility is
+shorthand for truthfulness and believability. reliability is the lens through
+which one evaluates the accuracy of evidence. trial judges must be careful not
+to conflate credibility with reliability otherwise the fact-finding net might
+entangle even the least reliable piece of evidence.
+
+it is important to remember that in some cases
+credibility takes a back-seat to reliability. for example, there are
+prosecutions where the suspect is unknown to the complainant and the latter may
+be honestly mistaken about the identity of the perpetrator. in such a case,
+reliability concerns govern the analysis because credibility does not guarantee
+accuracy. credible witnesses can be mistaken or otherwise inaccurate. thus,
+credibility is not a proxy for reliability.
+
+
+where witness testimony is highly credible,
+consistent, plausible, not inconsistent with other evidence, not found to be
+the product of bias or motive, largely undisturbed upon a vigorous
+cross-examination, and not found to be otherwise unreliable, truth and accuracy
+are likely established.
+
+assessments of credibility and reliability can
+be the most important and challenging judicial determinations in a criminal
+trial. our highest court has reminded us:
+credibility
+and reliability assessments are also context-specific and multifactorial: they
+do not operate along fixed lines and are “more of an ‘art than a science’.”
+with respect to credibility in particular, while coherent reasons are crucial,
+it is often difficult for trial judges to precisely articulate the reasons why
+they believed or disbelieved a witness due to “the complex intermingling of
+impressions that emerge after watching and listening to witnesses and
+attempting to reconcile the various versions of events.” the task is further
+complicated by the trial judge’s ability to accept some, all, or none of a
+witness’ testimony.
+
+
+judicial fact-finding is often based on
+inductive reasoning and evaluations of “probable interpretations of the
+evidence.”
+
+it necessarily depends on common-sense inference-drawing.
+
+to again quote the supreme
+court:
+reasoning
+about how people generally tend to behave, and how things tend to happen, is
+not only permissible, it is often a necessary component of a complete
+testimonial assessment.
+
+there was no violation of s. 9 or s.
+8 of the charter
+
+initially, through his factum, the defendant
+argued that his s. 9
+charter
+right was violated when the police boxed in
+his vehicle. during submissions the defendant resiled from this submission.
+
+the defendant also argued that police evidence
+was inconsistent because the officer’s notes indicated that one officer smelled
+cannabis while the other saw the occupants apparently smoking a spliff. this
+submission was not entirely accurate. both officers testified that they smelled
+burnt cannabis and that was a reason for their interest in the defendant’s
+vehicle. constable satino had an additional reason, he believed that he saw the
+driver smoking a cannabis cigarette (based on the spark of the spliff).
+
+i accept the testimony of cst. satino that he
+smelled cannabis as they drove into the parking lot and toward the defendant’s
+vehicle. both officers testified, and it was not challenged or contradicted,
+that burnt cannabis has a distinctive, strong odour. i also accept his evidence
+that he could see what he believed was the driver smoking or holding a lit cannabis
+cigarette as they drove toward the area where the toyota was parked. the spark
+or lit end of a cigarette would have stood out in an otherwise dark car in a
+dark parking lot. i find that there was no other reason why the police would
+have stopped near the defendant’s vehicle but for cst. satino’s observations
+and perceptions.
+
+the bwc of cst. satino captured some of the
+initial conversation between the defendant and the officer. the conversation
+first captured also provides support for the testimony that at the start of
+their interaction, cst. satino explained his concern (smell of burnt cannabis)
+and the police presence to investigate a
+cca
+violation (cannabis readily
+accessible to a driver).
+
+though the defendant testified that the officer
+did not indicate why he had approached the toyota, i do not accept this
+evidence. it makes no sense that there was no introduction or any reason given by
+the police for demanding the driver’s documentation. the bwc footage completely
+contradicts the defendant’s narrative. the officer and the defendant were
+clearly talking about the officer’s concerns (people smoking cannabis in their
+car), to which the defendant responded that he was “not under the influence.”
+
+to a limited extent, the testimony of cst.
+sandhu provides some corroboration of cst. satino’s evidence, because cst.
+sandhu also thought that the odour of burnt cannabis existed in the area of the
+toyota. exhibit #3 (the cannabis butt) was found somewhere in the toyota. the
+presence of this butt also provides circumstantial support for cst. satino’s
+testimony.
+
+i also accept that cst. satino saw the defendant
+smoking. the defendant admitted that he had been smoking at some point,
+although he said it was well before the police approached. in fact, a cigarette
+pack is seen stored in the “centre dash” (where the defendant testified that he
+kept his cigarettes) on cst. satino’s bwc video at 06:43:50. i reject the
+defendant’s testimony about the timing of cigarette smoking.
+
+in the end, given that i accept that cst. satino
+was truthful, reliable, and accurate when he testified that he smelled burnt
+cannabis and that he saw the driver apparently smoking a cannabis cigarette, i
+am not troubled if he was wrong about the substance being smoked. the smell of
+cannabis in the area and the lit cigarette near the driver’s mouth would have
+provided ample grounds (more than a reasonable suspicion of a provincial
+offence) to approach the toyota to investigate the occupants for a possible
+cca
+infraction.
+
+i accept as valid the logic of cst. satino in
+withholding his belief that he had seen the defendant smoking or his awareness
+of the presence of the blue cannister when he first dealt with the defendant. there
+was no need to seek to incriminate or confront the defendant when they first
+spoke. it makes sense that the police would want to confirm the identity of the
+occupants before confronting them with information that could cause the driver
+to flee or become aggressive. the police check would possibly provide the
+officer with information about outstanding charges, warrants, or other cautions
+(“armed and dangerous”) so that he could determine a strategy to best investigate
+his concerns.
+
+despite the defendant’s evidence that he was
+fearful from the moment the police approached, i am not satisfied that it is
+proven that the initial interaction created a detention. police are entitled to
+interact with motorists for a variety of reasons (check sobriety, vehicle
+registration, insurance, roadworthiness, and license status). not every
+interaction with the police is a detention. in
+r.
+v. suberu, the
+supreme court makes this clear:
+…not every interaction between the police and members of the
+public, even for investigative purposes, constitutes a detention within the
+meaning of the
+charter. section 9 of the
+charter
+does
+not dictate that police abstain from interacting with members of the public
+until they have specific grounds to connect the individual to the commission of
+a crime. likewise, not every police encounter, even with a suspect, will
+trigger an individual's right to counsel under s. 10(
+b
+). as
+iacobucci j. aptly observed, "[t]he person who is stopped will in all
+cases be 'detained' in the sense of 'delayed', or 'kept waiting'. but the
+constitutional rights recognized by ss. 9 and 10 of the
+charter
+are
+not engaged by delays that involve no significant physical or psychological
+restraint" (para. 19).
+
+
+i do not find that there was a detention until
+cst. satino advised that he would be searching the vehicle and occupants
+pursuant to the
+cca, less than five minutes into the police
+interaction.
+
+i find that there was nothing arbitrary or otherwise
+improper in the decision of the police to approach and speak to the defendant that
+morning.
+
+the demeanor of cst. satino during his recorded
+interactions with the defendant support his testimony that if he had not seen
+the unsealed container of cannabis, he would have discontinued the interaction
+and left the car’s occupants after checking their names.
+
+constable satino testified that he saw the unsealed
+blue cannabis container very soon after he began his interaction with the
+defendant. if true, this observation, coupled with the prior detection of burnt
+cannabis and the observation of the driver holding a lit cigarette, would
+provide ample grounds as required in s. 12(3) of the
+cca
+for a search of
+the vehicle and occupants.
+
+it is hardly surprising that cst. satino said
+that he saw the blue container (the colour alone attracts attention). constable
+sandhu also saw it, in plain view, in the area above the glove box. both
+officers used their flashlights to illuminate the vehicle’s interior. both
+officer’s would have been watching the defendant as he reached into the glove
+box. the beam of cst. sandhu’s flashlight is seen pausing in the area where the
+cannabis container was found. i have no difficulty relying on cst. satino’s
+testimony in this area. the bwc footage of both officer’s support his
+testimony. similarly, i reject the submission that it would not have been
+obvious that the container was the type used to sell legal cannabis or that the
+seal was broken. constable satino was looking inside the vehicle. he had a
+suspicion that the driver had been smoking cannabis. constable sandhu used his
+flashlight to communicate what he had found, inches from where he was standing.
+also, before there was any opportunity for the two officers to speak, upon his
+return to the toyota after checking his police computer, cst. satino said “there
+is open cannabis in here from what i can see with that container,” at 06:39:00.
+this provided ample reasonable grounds to believe that there was cannabis in
+the vehicle, which gave authority for the search that took place.
+
+at all times, this officer seemed knowledgeable
+of his authority and the limits of the law. for example, his search incident to
+arrest was considerably more thorough than his search for cannabis during his
+cca
+search. indeed, the officer testified that the search incident to arrest also
+involved the search for evidence, items that could be used as weapons, or
+implements for use to escape. moreover, the search for cannabis was restricted
+to the areas that were readily accessible to the driver (the driver’s compartment,
+around his seat, his door, and the centre console areas). there was nothing
+excessive or unreasonable about either the
+cca
+search or the search
+incident to arrest. the written complaint that search of the passenger’s
+pockets exceeded the scope of the statutory authority is misplaced. section
+12(3) of the
+cca
+clearly provides authority to search “any person” not
+just the driver.
+there were
+violations of s. 10(b) of the charter
+
+the defendant argued that his s. 10(b)
+charter
+right was violated in two ways: there was a failure to provide the required
+information, and the police did not facilitate the defendant’s request to speak
+to counsel.
+
+upon detention, cst. satino provided the rights
+to counsel, informally. he did not read the rights from his notebook. rather,
+he explained the following:
+i.
+the occupants had the right to speak to any
+lawyer they wished, to understand their detention;
+ii.
+the occupants did not have to say anything;
+iii.
+if the occupants wanted free advice from a legal
+aid lawyer that was available and he provided (from memory) the telephone
+number; and
+iv.
+he reiterated that they did not have to say
+anything to police during the search.
+
+during this provision of s. 10(b) information,
+the defendant asked about refusing the search. constable satino explained that
+it was a lawful demand and he could be arrested.
+
+the defendant submitted that the informational
+component was deficient because the officer failed to ask the most important
+questions: do you understand and do you wish to call a lawyer now.
+
+i am not troubled by the failure to ask if the
+defendant understood the information he had just received. he was asked if he
+would cooperate with the search and he did. he had asked about refusing the search
+and that was explained to him.
+
+the failure to ask if the defendant wanted to
+exercise his right is a breach of s. 10(b).
+
+the defendant also claimed that the
+implementational component of s. 10(b) was frustrated after the defendant’s
+arrest, when he clearly asked how he might speak with counsel while he sat in
+the back of the police car. constable satino explained that if they went back
+to the police station, there would be an opportunity to call a lawyer or duty
+counsel from there.
+
+the parties agree that the defendant was
+released at approximately 7:30 a.m., some 56 minutes after the police
+interaction began and 45 minutes after his arrest. constable satino explained
+that he could not facilitate a private call with a lawyer because he did not
+have a phone he could use for that purpose and he was unwilling to permit the
+defendant to use his personal phone to speak with a lawyer.
+
+
+i am satisfied that there was no phone that was
+available for the defendant to call a lawyer. i accept the officer’s
+explanation that it would be inappropriate to allow the defendant to use one of
+his phone’s which had been seized as evidence, incident to his arrest, to call
+counsel. allowing someone in custody to have access to one of their phones would
+be to permit a detainee to have access to a possible source of evidence. it was
+not unreasonable to seize the defendant’s two cell phones as possibly
+containing evidence of the offence. cell phones are a recognized tool of drug
+traffickers. it would be equally inappropriate to permit the defendant to
+access the suspected cocaine.
+
+i also find that the law does not compel the
+police to use their personal cell phone to permit access to counsel. counsel
+for the defendant could not point the court to any contrary authority in law.
+
+the fact remains, the defendant wanted to access
+counsel. he could have been taken back to the police station. there is no doubt
+it would not have taken 45 minutes to travel to the police station, although it
+is unknown how long it may have taken to put the defendant in touch with a
+lawyer. it is also not lost on the court that the defendant was released at the
+scene. he was free to return to his vehicle and continue on his way. had he
+been taken to the station, he may have completed a call to counsel before 7:30
+a.m., he may not have been searched, lodged, and released before 7:30 a.m.
+
+charter
+rights
+are non-negotiable. the defendant asserted his right to speak to a lawyer at
+06:54:03. rather than bringing the defendant to the police station to
+facilitate the right to counsel, cst. satino kept the defendant handcuffed in
+the police car until he was eventually released from the scene.
+
+constable satino had options. he could have
+asked cst. nicholson to search the toyota while officers sandhu and satino
+brought the defendant to the police station.
+section 24(2)
+of the charter
+
+
+section 24(2) recognizes that if evidence gained by constitutional
+infringements is regularly admitted in criminal trials this may weaken public
+confidence and bring the administration of justice into disrepute. this
+subsection seeks to mitigate the negative effects of inappropriate state
+conduct by requiring a qualitative analysis of the long-term effect that
+tainted evidence could have upon public confidence in the justice system.
+
+to perform the balancing exercise required by s. 24(2) of the
+charter,
+i must consider:
+i.
+the seriousness of the
+charter
+-infringing
+state conduct;
+ii.
+the impact of the breach(es) on the
+charter
+-protected
+interests of the applicant; and
+iii.
+society’s interest in the adjudication of the
+case on its merits.
+
+the first two factors serve to mitigate the loss
+of civil liberties by requiring exclusion of evidence when the
+charter
+-infringing
+conduct is serious and the impact upon
+charter
+-protected interests is
+significant. the third factor “pulls in the opposite direction toward the
+inclusion of evidence. that pull is particularly strong where the evidence is
+reliable and critical to the crown’s case.”
+
+
+it is also the case that the third factor can
+also pull in the opposite direction, requiring evidential exclusion, when the
+state conduct is so subversive of protected freedoms that the only way to
+protect public confidence in the administration of justice is to have the
+evidence excluded from the trial process.
+the seriousness of the charter-infringing state conduct
+
+as our court of appeal has remarked:
+…the
+evaluation of the seriousness or gravity of the offending state conduct –
+focuses upon the level of fault of the breaching officers in the
+circumstances…the more serious the offending conduct, the more pressing the
+need for the court to dissociate itself from the fruits of that conduct.
+
+
+further, the seriousness of any breach is
+aggravated where the evidence establishes a systemic problem or a pattern of
+charter
+non-compliance.
+
+
+courts must view the matter holistically to
+determine if there circumstances that mitigate or exacerbate the offending
+state conduct and the level of state culpability.
+
+
+the failure to ask the defendant if he wished to
+call a lawyer before or during the
+cca
+search is moot. at paragraph 47
+of his factum, the defendant concedes that the common law permits the
+suspension of s. 10(b) during
+cca
+searches. i find that this violation
+is technical and it had no discernable impact upon the defendant, in the
+circumstances.
+
+the failure to facilitate the right to counsel
+is more serious. it is somewhat mitigated because it was impractical to
+facilitate the right to counsel at the scene and it was also impractical to
+take the defendant away from his vehicle without any clear idea if he would be
+released from the scene before he could realistically receive access to legal
+advise.
+
+the defendant had no personal lawyer of his
+choice. there would have been some delay to drive to the police station and
+book the defendant. there may have been a delay in connecting duty counsel to
+the defendant.
+
+if police had left the toyota unattended, the
+police would be responsible to safeguard the vehicle and it’s contents. it was parked
+on private property in a publicly accessible commercial plaza. this may have
+required an inventory search of the vehicle’s contents and/or a tow to the
+police station.
+
+i have taken into account that cst. satino did
+not try to elicit incriminating information from the defendant. i am equally
+cognizant that the defendant made incriminating statements in order to assume
+all liability and exculpate e.l.
+
+after a careful weighing of all of the
+circumstances, i find that the s. 10(b) violation was of modest significance
+given the further loss of autonomy the transport to the police station would
+have entailed. constable satino made a decision. he learned after speaking with
+a detective that he would be releasing the defendant from the scene. he knew
+this would permit the defendant an opportunity to access any lawyer he wished.
+he had twice given the defendant the telephone number for access to “free legal
+advice.”
+the impact of the charter-infringing state conduct
+
+there are a number of factors that bear upon the
+impact of the
+charter
+violation upon the defendant’s fair trial rights:
+evidence discoverability, the absence of a causal link between the
+charter
+breach and the evidence to be excluded, and the nature of the evidence itself.
+these considerations do not move the needle even incrementally toward excluding
+evidence in this case.
+
+by holding the defendant at the scene, until his
+release, the defendant was able to maintain visual contact with his vehicle and
+he did not suffer any further loss of his liberty or mobility. moreover, the
+defendant did not have to undergo lodging, questioning by the booking sergeant,
+the inventory of his personal property, or having to attend inside a cell if
+duty counsel was not immediately available.
+
+nonetheless, the decision not to facilitate the
+right to counsel had a modest impact upon the defendant. he was kept in the
+dark about his legal jeopardy and he did make utterances that were somewhat inculpatory.
+
+balancing whether
+a remedy is required
+
+our court of appeal has confirmed, “[t]he more
+important the evidence is to the crown’s case, the greater the risk of
+disrepute from it’s exclusion.”
+
+
+it must be remembered, however, that the third
+line of inquiry can cut both ways:
+while the public has a heightened interest in a determination on the
+merits where the offence is serious, it also has a vital interest in
+maintaining a justice system that is above reproach.
+
+
+in this case, the cocaine and other items seized
+are objective, reliable pieces of evidence that are critical to proving the alleged
+offence. if the results are excluded, the case for the prosecution will
+disintegrate.
+
+in the end, i do not believe that this factor
+requires exclusion in order to protect the integrity of the justice system and
+public confidence.
+
+the balance of convenience favoured the route
+chosen by cst. satino, even if this meant that he breached the defendant’s s.
+10(b) right to counsel.
+
+all things considered, i would not exclude from
+admissibility the reliable evidence, properly seized in these circumstances. i
+find that both officers, and especially cst. satino, were professional,
+courteous, respectful, aware of the limits of their lawful authority while
+attempting to protect the public and discharge their duties.
+
+after careful deliberation and a weighing of all
+considerations, and mindful that the cumulative effect of the first two
+grant
+factors does not strongly pull toward exclusion of the evidence, i am satisfied
+that the long-term effect of admitting the contraband into evidence in the
+circumstances of this case would not bring the administration of justice into
+disrepute, whereas exclusion of this reliable evidence would have the opposite
+effect.
+conclusion
+
+although i have found two modest breaches of the
+defendant’s s. 10(b)
+charter
+right, i do not find it appropriate to
+exclude any evidence from the defendant’s trial.
+
+this decision does not condone inattention or
+deliberate police conduct that violates clear constitutional requirements. had
+i found that there was even a hint of over-reach or intentional police
+misconduct, the seriousness of the
+charter
+breaches would have increased
+exponentially, and i would not have hesitated to exclude the evidence sought to
+be used to prove the charge before the court. here, the police conduct was
+exemplary in many respects. constable satino is not very experienced but he
+demonstrated a superior understanding of his role and the law. his choices were
+understandable and not entirely unreasonable.
+
+for these reasons, the application fails.
+released: 02 may
+2025
+justice
+g. paul renwick
+
+the police witnesses authenticated the time and date stamped onto
+the bwc videos.
+
+r.
+v. h.c.,
+2009 onca 56
+at para.
+41.
+
+r. v. kruk,
+2024 scc 7
+at para.
+81.
+
+kruk, supra, at paras.
+71 and 75.
+
+ibid.
+
+kruk, supra, at para.
+72.
+
+r.
+v. suberu,
+2009 scc 33
+at para.
+3.
+
+initially, the officer also testified about the lack of privacy given that the
+vehicle has a camera that records what happens inside the police cruiser.
+however, the officer also admitted that he could turn the interior camera off.
+
+for the origins of this analysis, see
+r.
+v. grant,
+2009 scc 32.
+
+r.
+v. mcguffie,
+2016 onca 365
+at para.
+62.
+
+r.
+v. o’brien,
+2023 onca 197
+at para.
+24.
+
+o’brien, supra, at para.
+25.
+
+r.
+v. mccolman,
+2023 scc 8
+at paras.
+57, 58, and 64.
+
+this
+deserves little weight given their unprompted origins and the timing of these
+utterances, which was likely before the defendant would have accessed counsel
+even if he had been taken to the police station immediately after receiving s.
+10(b) information.
+
+o’brien, supra, at para.
+53.
+
+mccolman, supra, at para.
+70.

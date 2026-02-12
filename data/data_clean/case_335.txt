@@ -1,0 +1,923 @@
+source url: https://www.canlii.org/en/on/oncj/doc/2025/2025oncj226/2025oncj226.html
+
+ontario court of justice
+citation:
+r. v. lindo, 2025 oncj 226
+date: 
+2025 04 23
+court
+file no.: 23-31100474
+between:
+his
+majesty the king
+— and
+—
+morgan lindo
+before
+justice a.r. mackay
+heard
+on september 24, 2024
+oral
+reasons released on september 24, 2024
+written
+reasons released on april 23, 2025
+sydney hopkins......................................................... counsel
+for the crown/respondent
+jonah parkin............................................................ 
+counsel for the defendant/applicant
+a.r. mackay j.:
+ruling on s.
+11(b) application
+introduction
+
+the applicant alleges her right to a trial within a reasonable
+time has been breached and request a stay pursuant to ss. 11(b) and 24(2) of
+the
+charter.
+ms. lindo is charged with impaired operation, possession
+of a controlled substance and fail to provide a breath sample, contrary to
+ss. 320.14(1)
+(a),
+320.15(1)
+and
+4(1)
+of the
+criminal
+code of canada
+(the “
+code
+”) and
+control drugs and substances act
+(“
+cdsa
+”), respectively.
+
+the chronology of events is laid out in the parties’ materials. for ease
+of reference, i refer to the crown’s chart setting out a summary of the
+proceedings.
+
+it is attached as appendix a.
+
+section 11(b) of the
+charter
+guarantees that any person charged
+with an offence has the right “to be tried within a reasonable time.” in
+r.
+v. jordan,
+the supreme court identified a presumptive ceiling of 18 months for trials
+to be completed in the ontario court of justice.
+
+the
+jordan
+framework for s. 11(
+b
+) can be summarized as
+follows:
+there is a ceiling beyond
+which delay becomes presumptively unreasonable. the presumptive ceiling is 18
+months for cases tried in the provincial court, and 30 months for cases in the
+superior court (or cases tried in the provincial court after a preliminary
+inquiry). defence delay does not count towards the presumptive ceiling.
+once the presumptive ceiling
+is exceeded, the burden shifts to the crown to rebut the presumption of
+unreasonableness on the basis of exceptional circumstances. exceptional
+circumstances lie outside the crown’s control in that (1) they are reasonably
+unforeseen or reasonably unavoidable, and (2) they cannot reasonably be
+remedied. if the exceptional circumstance relates to a discrete event, the
+delay reasonably attributable to that event is subtracted. if the exceptional
+circumstance arises from the case’s complexity, the delay is reasonable.
+below the presumptive
+ceiling, in clear cases, the defence may show that the delay is unreasonable.
+to do so, the defence must establish two things: (1) it took meaningful steps
+that demonstrate a sustained effort to expedite the proceedings; and (2) the
+case took markedly longer than it reasonably should have.
+for cases currently in the system,
+the framework must be applied flexibly and contextually, with due sensitivity
+to the parties’ reliance on the previous state of the law.
+the total delay
+
+the period of delay in this case is from january
+12, 2023 (the date the information was sworn) until january 23, 2025 (the
+applicant’s last trial date), which is 742 days or approximately 24 months and
+11 days. the applicant concedes 83 days or 2 months and 22 days of defence
+delay, which brings the net delay to 659 days or 21 months and 21 days.
+
+the first step in determining whether the delay
+is unreasonable is to determine whether there is any defence delay. the
+following are four time periods in which the respondent alleges are the
+responsibility of the applicant. i will now turn to each of those time
+periods.
+wrong email
+
+there was some delay due to the crown recording
+an incorrect email for counsel and as a result, notification of disclosure was
+not received. however, while this is true, the crown did attempt to confirm
+counsel’s email at the following set date, but agent for counsel did not
+correct the crown with respect to the correct email. it took the defence 57
+days, from june 23, 2023, until august 18, 2023, to provide the correct email
+to the crown. i will apportion the 57 days as defence
+delay. while the delay was inadvertent, it cannot be categorized as crown or
+systemic delay.
+delay in scheduling a trial scheduling
+conference
+
+the defence conceded that there was some delay
+in setting a trial scheduling conference after the crown pre-trial (cpt). it
+is mr. parkin’s submission that half of this time period can be considered
+defence delay. the crown pre-trial (cp) was held on
+october 27, 2023 however, the defence did not book a trial scheduling
+conference until february 16, 2024. this is a significant delay of 101 days. 
+it likely was in part because defence was waiting for the cell video. however,
+they did not advise the crown that they could not set a trial date without
+it. once they received the trial estimate sheet on october 27, they emailed
+the trial coordinator’s office (tc), these were the instructions provided in
+the email. however, the crown advised, and mr. parkin did not contest the
+following: once you email the brampton tc’s office, an automated ‘bounce
+back’ email will inform counsel to go through the app to schedule a date with
+the tc’s office. mr. parkin’s office emailed the tc’s office on december 15,
+2023. it is likely that they received a message that they had to go through
+the scheduling app. counsel eventually pursued the route set out in the automated
+email and ultimately scheduled the trial scheduling conference for february 26,
+2023. i would allow defence two weeks to digest the discussions with the crown
+and to get instructions from their client, and i would allow a further week to
+sort out the miscommunication about how to set a date. defence delay would
+therefore be 80 days.
+delay in bringing an 11(b) application
+
+once the trial date was set, an 11(b)
+application was not filed until august 12, 2024, 5 months and 13 days after the
+trial date was set (169 days). the recent case law has held that where
+defence counsel waits to file an 11(b) and do not advise the crown and the
+court early in the proceedings, that they should then be responsible for part
+of this time period. the reasoning being that had they brought their 11(b)
+application sooner or set a date for an 11(b) at the time they set the trial
+date, the crown would have had the opportunity to take steps to mitigate delay.
+
+in this case i am of the view that it is
+reasonable to allow the defence two weeks to consider whether they would bring
+an 11(b) application. mr. parkin did meet with the crown on april 9, 2024,
+and advised the crown that they would be bringing an 11(b) application,
+however, there was no follow up for over 5 months by either party.
+
+given the caseload the brampton crowns are
+dealing with, it is reasonable to assume their office will focus on those cases
+where in fact 11(b) applications have been brought. still, i would grant the
+defence a further two weeks to await to hear from the crown: 4 ½ months remain
+of the delay in bringing an 11(b) application. both parties are at fault,
+therefore i would deduct as defence delay, 2 months and
+15 days or 75 days.
+applicant not available for trial dates
+offered
+
+defence counsel fairly acknowledged that 83
+days should be deducted as defence delay as counsel was not available for trial
+when the court and the crown were on october 31, 2024, and november 1, 2024.
+deducting the total defence delay of 295 days from the total delay of 742
+leaves a net delay of 447 days or 14.7 months. this is just under the
+jordan
+presumptive ceiling.
+delay under presumptive ceiling
+
+when
+the remaining delay falls below the presumptive ceiling, the onus is on the
+defence to show that the delay is unreasonable:
+
+the
+defence must establish two things to support a claim that the delay below the
+ceiling is unreasonable: (1) it took meaningful steps that demonstrate a
+sustained effort to expedite the proceedings;
+and
+(2) the case took
+markedly longer than it reasonably should have. judicial stays beneath the
+ceiling are rare and will only be granted in “clear cases”.
+where the defence has not established both requirements, the s. 11(b)
+application must fail.
+
+
+the
+supreme court in
+jordan
+provided the following instruction regarding
+defence counsel’s obligation, at para. 85:
+to satisfy this criterion, it
+is not enough for the defence to make token efforts such as to simply put on
+the record that it wanted an earlier trial date. since the defence benefits
+from a strong presumption in favour of a stay once the ceiling is exceeded, it
+is incumbent on the defence, in order to justify a stay below the ceiling, to
+demonstrate having taken meaningful and sustained steps to be tried quickly.
+while the defence might not be able to resolve the crown's or the trial court's
+challenges, it falls to the defence to show that it attempted to set the
+earliest possible hearing dates, was
+cooperative
+with and responsive to
+the crown and the court, put the crown on timely notice when delay was becoming
+a problem, and conducted all applications (including the s. 11(b) application)
+reasonably and expeditiously. at the same time, trial judges should not take
+this opportunity, with the benefit of hindsight, to question every decision
+made by the defence. the defence is required to act reasonably, not perfectly.
+
+i
+find that the defence did, at times show an interest in moving the case along,
+however, they did not do so consistently. counsel did send a letter to the
+crown requesting an earlier trial date and counsel parkin had a crown pre-trial
+where he advised he wanted to mitigate delay. while the defence did proceed to
+setting a trial date despite not having the cells video, they took over two
+months to schedule a trial scheduling conference date to set a trial date. in
+addition, they did not bring an 11(b) application for close to 5 months after
+the trial dates were set. further, counsel did not take advantage of the
+backlog reduction court initiative. commencing on april 18, 2023, acting
+regional senior justice leitch disseminated an invitation to the criminal bar,
+to participate in the backlog reduction court whereby earlier trial dates could
+be obtained. on november 1, 2023, this court issued a practice direction on
+section 11(b) applications requiring that 11(b) motions be scheduled at the
+same time the trial dates are set. in conclusion, looking at the defence
+action throughout i cannot find that they took meaningful and sustained efforts
+to ensure the trial was conducted in a reasonable time.
+markedly longer
+
+as
+the applicant has failed to establish this first condition, i am not required
+to consider whether the case took markedly longer than it should have. however,
+i will review this issue briefly. this second criterion involves
+consideration of such factors as case complexity, local considerations, and
+whether the crown took reasonable steps to expediate the proceedings. the case
+was not complex, given the backlog from covid-19 back in 2023, this time frame
+for a two-day trial was not out of the ordinary.
+
+the
+crown could have taken further steps to expediate the proceedings once they
+were alerted by defence. on april 8, 2024, counsel worsoff emailed the “virtual
+crown” indicating an interest in obtaining earlier trial dates. it should be
+noted that the ‘virtual crown” is manned by the administrative staff who mostly
+manage disclosure. i am of the view that such an email represents more of a
+“token effort”. counsel parkin attended a cpt on april 9, 2024, and advised
+that ms. lindo wanted an earlier trial date. despite these communications, no
+crown responded to their request. however, the procedure to seek earlier dates
+was to schedule another trial scheduling conference. the most effective way to
+get the crown’s attention would be to schedule and file an 11(b) application.
+
+i
+find that in all the circumstances, that 15 months for a 2-day trial in
+brampton while not ideal, was not markedly longer in all the circumstances. 
+in the result, the application to stay the charges for unreasonable delay
+pursuant to s. 11(b) of the
+charter
+is dismissed.
+released: april 23, 2025
+signed:
+justice a. r. mackay
+appendix
+a
+procedural
+history
+of
+r.
+v.
+morgan
+lindo
+[information
+#23-
+31100474]
+date
+adjournment
+date
+description
+of
+time
+delay
+and
+attribution
+january
+1,
+2023
+offence
+date.
+january
+12,
+2023
+information
+sworn.
+[
+applicant's
+record,
+tab
+2]
+jordan
+clock
+starts.
+february
+14,
+2023
+april
+28,
+2023
+first
+appearance.
+disclosure is
+not
+available.
+[
+applicant's
+record,
+tab
+6]
+may
+ 29,
+2023
+disclosure
+shared
+with
+counsel. [
+applicant's
+ record,
+tab
+8]
+[
+respondent's record,
+tab i]
+april
+28,
+2023
+june
+23,
+2023
+second
+appearance. crown
+is
+in
+the process of reviewing disclosure. [
+applicant's
+ record,
+tab 7]
+june
+23,
+2023
+august
+18,
+2023
+third
+appearance.
+crown
+advises that
+ disclosure was shared with
+counsel
+on
+may
+29,
+2023 with
+email address
+ mitchell(a)worsofflaw.ca. counsel does not advise that the email was
+ incorrect. crown elects to proceed summarily. [
+applicant’s record,
+tab
+ 8]
+august
+ 18, 2023
+october
+ 13, 2023
+fourth appearance. defence advises
+ they do not have disclosure. crown advises that disclosure was shared with
+ counsel on may 29, 2023 with email address mitchell@worsofflaw.ca
+counsel advises that email address was
+ not correct and further advises he would follow up with the crown's office.
+ counsel changes his screen name to his email address to provide the correct
+ email to counsel. counsel advises that he will have a crown pre-trial before
+ next date. [
+applicant's record, tab 9]
+crown shares disclosure with correct
+ email address as provided by counsel on record daniel@worsofflaw.ca [
+respondent’s
+ record, tab 2]
+defence delay between june 23, 2023 and august 18, 2023
+ is a defence delay due to defence failing to promptly correct their contact
+ information to receive disclosure.
+discrete event: 57 days
+september
+ 1, 2023
+defence
+ counsel books cpt.
+october
+13,
+2023
+december
+15,
+2023
+fifth appearance. counsel
+ confirm that
+they
+have
+received and
+reviewed
+ disclosure
+and
+have
+scheduled a
+cpt for october
+ 27, 2024.
+[
+applicant's
+record,
+tab
+10]
+october
+27,
+2023
+crown
+pre-trial
+was
+conducted
+and
+a
+ trial time estimate form was completed and sent to counsel. [
+applicant's
+record,
+tab 5] [
+respondent's
+record,
+tab 3]
+november
+7,
+2023
+earliest
+available
+trial
+scheduling
+ conference date available as of october 31, 2023.
+[
+respondent's
+record,
+tab
+4]
+december 15,
+2023
+february
+16,
+2024
+sixth
+appearance.
+defence
+counsel
+ advises they have emailed the trial coordinator the trial estimate form and
+ the scheduling form and are waiting to hear back.
+[
+applicant's
+record,
+tab
+ii]
+february
+16,
+2024
+march
+15,
+2024
+seventh
+appearance.
+counsel
+advises
+ that trial scheduling conference has been set for february 26, 2024. [
+applicant's
+ record,
+tab 12]
+february
+26,
+2024
+defence
+attended
+a
+trial
+scheduling meeting
+and
+obtained trail dates of january 22, 2025
+ to 23, 2025.
+[
+applicant's
+record,
+tab
+3
+&
+5]
+delay
+ between november
+7,
+2023, to february 26, 2024,
+is
+defence delay due
+to failure to schedule a trial
+ scheduling conference
+once
+defence
+was
+in
+possession of the ttef.
+defence
+delay:
+112
+days.
+march 12-13,
+2024
+first
+set
+of
+trial
+dates
+offered by
+the trial
+ coordinator on february 26, 2024. neither crown nor defence
+available.
+[
+applicant's
+record,
+tab
+5]
+march
+15,
+2024
+eight appearance. counsel placed trial
+ dates on the record for january 22-23, 2025, in courtroom 303 at 10:00 am.
+ the crown requests that defence advise as soon as
+possible as to
+any
+issue
+with
+11(b).
+defence does not provide any comment. [
+applicant's
+ record,
+tab 13]
+february
+16,
+2024
+march
+15,
+2024
+seventh
+appearance.
+counsel
+advises
+ that trial scheduling conference has been set for february 26, 2024. [
+applicant's
+ record,
+tab 12]
+february
+26,
+2024
+defence
+attended
+a
+trial
+scheduling meeting
+and
+obtained
+ trail dates of january 22, 2025, to 23, 2025.
+[
+applicant's
+record,
+tab
+3
+&
+5]
+delay
+ between november
+7,
+2023, to february 26, 2024,
+is
+defence delay due
+to failure to schedule a trial
+ scheduling conference
+once
+defence
+was
+in
+possession of the ttef.
+defence
+delay:
+112
+days.
+march 12-13,
+2024
+first
+set
+of
+trial
+dates
+offered by
+the trial
+ coordinator on february 26, 2024. neither crown nor defence
+available.
+[
+applicant's
+record,
+tab
+5]
+march
+15,
+2024
+eight appearance. counsel placed trial
+ dates on the record for january 22-23, 2025, in courtroom 303 at 10:00 am.
+ the crown requests that defence advise as soon as
+possible as to
+any
+issue
+with
+11(b).
+defence does not provide any comment. [
+applicant's
+ record,
+tab 13]
+march
+20-21,
+2024
+second set of trial dates offered
+ by the
+trial
+coordinator
+on
+february
+26, 2024. neither crown nor defence
+available.
+[
+applicant's
+record,
+tab
+5]
+april
+8,
+2024
+defence
+emails
+the
+crown's office requesting an earlier
+ trial date. [
+applicant's record,
+tab 14]
+april
+9,
+2024
+defence asserts that a
+pre-trial was conducted
+with
+crown
+mr.
+michael morris to request cell video
+ and earlier trial dates.
+[
+applicant's
+record,
+tab
+3]
+april
+18,
+2024
+letter sent
+to
+all
+counsel from justice anthony f. leitch,
+ acting regional senior justice advising of the backlog
+reduction
+court
+initiative
+to be scheduled commencing april 29, 2024, and ending june 26,
+ 2024. [
+respondent's record,
+tab 5]
+june
+26,
+2024
+final
+backlog
+reduction
+court
+date as per justice anthony
+f. leitch's letter of april 18, 2024. [
+respondent's
+record,
+tab 5]
+august
+12,
+2024
+defence
+emails
+the
+trial
+coordinator to request a date for 11(b)
+ motion. [
+respondent's
+record,
+tab
+ 6]
+delay
+ between february 26, 2024 and august
+12,
+2024
+is
+a
+defence delay
+due
+to defence failing to properly advise of
+ the 11(b)
+issue.
+defence
+delay:
+169
+davs.
+october
+31,
+2024-
+november
+1,
+2024
+third
+set
+of
+trial
+dates
+offered by
+the trial coordinator on february 26,
+ 2024. crown available. defence not
+available.
+january
+22-23,
+2025
+trial
+dates
+scheduled.
+fourth
+set
+of
+ trial dates offered by the trial coordinator on
+february 26, 2024. [
+applicant's
+record,
+tab 5]
+delay between november
+i, 2024 and january 23,
+2025
+is
+defence delay
+due
+to
+ defence
+unavailability.
+defence
+concedes this delay.
+defence
+delav:
+84
+davs.
+total
+delay
+information
+sworn
+date of
+january
+12,
+2023
+to
+last
+day
+of
+scheduled trial
+of
+january
+23,
+2025.
+743
+days.
+defence delay:
+june
+23,
+2023
+to
+august
+18,
+2023
+defence fail
+to
+provide
+crown
+with
+correct
+contact
+information.
+57
+days.
+defence
+delay:
+november
+7,
+2023
+to
+february
+26,
+2024
+defence
+do
+not
+schedule a
+trial scheduling
+conference.
+112
+days.
+defence
+delay:
+february
+26,
+2024
+to
+august
+12,
+2024
+defence
+lay
+in
+weeds
+on
+11(b)
+issue.
+169
+days.
+defence
+ delay:
+november
+ 1, 2024 to january 23, 2025
+conceded. defence unable
+to
+accept
+ earlier
+trial
+dates.
+[
+applicant's factum at paragraph
+ 16]
+84
+days.
+total
+defence
+delay
+422
+days.
+net
+delay
+321
+days.
+[10.55
+months]
+for
+ the purposes of s. 11(b) calculations,
+to
+ convert days to months, the following formula should be
+applied: days -;-
+30.417* -
+months (*where 30.417 is approximately
+365
+-;-
+12)
+r.
+v.
+shaikh,
+2019
+onca
+895;
+r.
+v.
+chung,
+2021
+onca
+188
+
+crown’s 11(b) response application record, tab 7, pages 40 to 46: appendix a - procedural
+history of
+r. v. morgan lindo.
+
+2016 scc 27, at paras.
+5 and 46.
+
+r. v. coulter,
+2016 onca 704
+at paras.
+34-41.
+
+appointment online tool that the trial coordinator uses to schedule trial
+scheduling conferences.
+
+r. v.
+kullab,
+2023 oncj 458, at paragraph
+2;
+r. v. nigro,
+2023 oncj 41, at
+paras
+32-38;
+r. v. yizhak,
+ o.j. no 4624 (oncj), at para. 39.
+
+jordan, para.
+48.
+
+r. v. jordan, at paras.
+48, 82–83.
+
+r. v. jordan,
+2016 scc 27
+at paras.
+82-83.

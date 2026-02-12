@@ -1,0 +1,639 @@
+source url: https://www.canlii.org/en/on/oncj/doc/2025/2025oncj351/2025oncj351.html
+
+citation:
+r. v. osorio, 2025
+oncj 351
+date: june 25, 2025
+ontario
+ court of justice
+toronto
+between:
+his
+ majesty the king
+— 
+ and —
+francisco osorio
+)
+)
+)
+)
+)
+)
+)
+)
+)
+)
+)
+)
+)
+)
+)
+)
+for
+ the crown
+e.
+ brosh
+for
+ the defendant
+t. dhaliwal
+heard: december 16 – 17,
+ 2024, may 5, 2025
+reasons for
+judgment
+russell
+silverstein, j.:
+a.
+introduction
+
+mr. osorio is charged with having a blood
+alcohol concentration equal to or exceeding 80 mg in 100 ml of blood within two
+hours of ceasing to operate a conveyance. he is also charged with impaired
+operation of a conveyance.
+
+the charges arise out of a march 4, 2023, minor
+rear-end collision involving mr. osorio and carlos ferreira.
+
+police arrived shortly after the minor
+collision. p.c. annouza (the officer) performed a standard field sobriety test
+(sfst) on the defendant following which he arrested the defendant and made a
+demand for a breath sample into an approved instrument. the officer drove the
+defendant to the police station where he provided two samples of his breath, the
+first registering 140 mg of alcohol in 100 ml of blood, the second registering
+130 mg of alcohol in 100 ml of blood.
+
+mr. dhaliwal, on behalf of mr. osorio, has
+brought a
+charter
+application alleging that:
+(1)
+the
+officer’s demand that the defendant participate in the sfst was not timely, resulting
+in a breach of the defendant’s s.8
+charter
+rights.
+(2)
+the
+officer lacked reasonable grounds to arrest the defendant and lacked reasonable
+grounds to demand a breath sample into an approved instrument. the seizure of
+that breath sample thus constituted a s.8 breach.
+(3)
+the
+police breached the defendant’s s. 10(b)
+charter
+rights by not securing
+an interpreter for him before reading him his rights to counsel.
+(4)
+the
+police breached the defendant’s s. 9
+charter
+rights by holding him in
+custody too long after the investigation was over.
+
+mr. dhaliwal further argues that the
+numerous
+charter
+violations support the exclusion of the breath sample readings
+pursuant to s. 24(2) of the
+charter. he also argues that the crown has
+failed to prove impairment beyond a reasonable doubt.
+
+ms. brosh argues that mr. osorio’s
+charter
+rights were not violated, but if they were, the violations do not support the
+exclusion of the breath sample readings. she seeks findings of guilt on both
+counts.
+b.
+the
+evidence
+(a)
+introduction
+
+the trial proceeded in a blended fashion. the
+evidence relevant to the
+charter
+issues consists of police video and
+audio of their interaction with mr. osorio, the testimony of p.c. annouza, and the
+testimony of mr. osorio who testified on the
+charter
+application but did
+not testify nor call any evidence on the trial proper. mr. ferreira testified
+for the crown. his evidence was relevant to both the trial issues, and the
+defendant’s
+charter
+application. p.c. annouza’s testimony also applies
+to the trial proper.
+
+i will summarize the evidence that is
+relevant to the issues. a complete transcript of the evidence is available.
+(b)
+mr. ferreira’s testimony
+
+on march 4, 2023, mr. ferreira was driving
+south on black creek when he saw a van behind him swerving from side to side. just
+after he had passed eglinton avenue the van struck the back of his vehicle as
+he was stopped.
+
+mr. ferreira got out of his truck and
+approached the driver of the van (the defendant) who did not respond verbally.
+mr. ferreira could smell the odour of alcohol through the open window of the
+van. mr. ferreira called 911 when the defendant refused to provide mr. ferreira
+with his particulars. it appeared to mr. ferriera that the defendant was
+preparing to flee the scene.
+
+while waiting for the police, mr. ferreira
+saw the defendant eating some snow that had accumulated at the side of the
+road.
+
+it was apparent to mr. ferreira that the
+defendant was not fluent in english, although the defendant seemed to
+understand what mr. ferreira was saying to him.
+(c)
+the salient details of mr. osorio’s interaction
+with police
+
+almost all of mr. osorio’s interactions with
+police are clearly captured on video or audio, making fact finding relatively
+straight forward.
+
+p.c. annouza arrived on scene at 13:49. the
+defendant was standing outside his van. the officer asked the defendant for his
+“information” and the defendant immediately went to his van, sat in it, and began
+looking for something. at 13:51:47 he handed his driver’s licence to the
+officer who was standing at the open window of the driver’s side of the
+defendant’s van. at 13:52 the officer told the defendant that he was
+investigating the accident and a “potential impaired situation”, and he then cautioned
+the defendant. when asked for more documents the defendant looked further and
+produced his insurance pink slip. the officer then asked for his permit and the
+defendant handed over his registration document. up until this point, the
+defendant had understood all the officer’s requests for documents and had not
+expressed any difficulty in understanding english.
+
+at 13:53 the officer walked towards mr.
+ferreira and continued to examine the defendant’s documents while making notes
+in his memo book until 13:55:50.
+
+the officer then returned to his cruiser
+after telling the defendant to remain in his car. the officer then interacted
+with his in-car computer until 13:57:11, immediately after which he went into
+the trunk of his cruiser and began gathering the necessary materials to conduct
+an sfst on the defendant.
+
+at 14:00 the officer walked back to the
+defendant’s van and at 14:01:00 he demanded of the defendant that he participate
+in the sfst. when asked if he understood the demand the defendant said “yes”.
+
+between 14:01:27 and 14:21:39 the officer
+performed the sfst. during the test the officer asked the defendant several
+questions and gave certain directions, all of which the defendant seemed to
+understand, although the defendant’s english was accented and broken when he
+said anything to the officer.
+
+during the test, at approximately 14:07, the
+defendant, in response to a question from the officer as to whether the
+defendant had any balance problems, gave the officer a piece of paper with the
+words “benign paroxysmal positional vertigo (bppv)” written on it.
+
+at 14:23:52 the officer arrested the
+defendant, handcuffed him, and took him to his police car.
+
+at 14:25:43 the officer told the defendant
+what he was charged with impaired operation and read him his rights to counsel
+from the back of his memo book. when asked if he understood, the defendant said
+“yes, yes”. the officer then cautioned him and made a breath demand from the back
+of his memo book.
+
+at 14:40 the officer began the drive to the
+police station. they arrived there at approximately 15:02. the defendant was
+removed from the car at 15:15 and taken into the station. the defendant entered
+the booking hall at 15:32 after a brief bathroom break.
+
+at 15:38:32 the officer asked the defendant
+for the first time what language he speaks and if he would like an interpreter
+while speaking to duty counsel.
+(d)
+p.c. annouza’s testimony
+
+as he drove to the scene the officer knew
+that mr. ferreira had told police dispatch that there had been a rear-end
+accident and that mr. ferreira had smelled alcohol on the other driver.
+
+upon his first dealings with the defendant
+the officer noted the smell of alcohol and that he had bloodshot and glossy
+eyes.
+
+when the defendant showed the officer the
+doctor’s note the defendant told the officer that the syndrome (bppv) caused
+vertigo. the officer was not familiar with the diagnosis.
+the officer asked the defendant if the bppv would stand in
+the way of him preforming the sfst and the defendant said that it would not.
+
+the defendant’s performance on the sfst led
+the officer, who had undergone training in the area, to believe that the
+defendant’s ability to drive was impaired.
+
+on cross-examination the officer recalled
+that the defendant said “i’m not sure” when asked if he wanted to contact a
+lawyer.
+
+at no time did the defendant ask for an
+interpreter or request that any of the officer’s instructions be given in a
+language other than english. he followed all english instructions quite
+accurately. it was not until 15:38 that the officer turned his mind to whether
+there might be a language problem.
+
+because the defendant did not name a lawyer
+he wanted to speak to, out of an abundance of caution and for the defendant’s
+benefit, the officer called duty counsel for the defendant.
+
+the defendant never expressed any
+dissatisfaction with his consultation with duty counsel.
+
+the officer was instructed by a superior
+officer not to release the defendant immediately after the breath tests were
+completed. he understood that this was because of the defendant’s level of
+intoxication and the fact that there was no one readily available to care for
+him if he were to be released immediately. the officer had no knowledge of when
+the defendant was in fact released. the officer left the station at 18:34.
+
+during the officer’s dealings with the
+defendant at the roadside he did not detect an accent.
+(e)
+the agreed statement of fact
+
+the agreed statement of fact reads as
+follows:
+1.
+mr.
+osorio’s medical doctor diagnosed him with benign paroxysmal positional vertigo
+(bppv) on december 21, 2022.
+2.
+on
+march 4, 2023, mr. osorio was investigated and arrested for impaired driving.
+3.
+mr.
+osorio attended his physician’s office on november 20, 2024 and received a
+medical note from dr. calvin tai (license number 120331).
+4.
+dr.
+calvin tai wrote and signed a medical note on behalf of mr. osorio on november
+20, 2024, indicating the following:
+“to whom it
+may concern,
+this is to
+confirm that francisco osorio had previously been diagnosed with benign
+paroxysmal positional vertigo (bppv) on 21/dec/2022.
+symptoms
+include dizziness, vertigo, impaired coordination and nystagmus.
+in my
+medical opinion, a person with bppv will likely have impaired performance on
+the standardized field sobriety test.
+sincerely,
+dr. calvin
+tai”
+5.
+dr.
+calvin tai specializes in family medicine, was certified by the college of
+family physicians of canada, and is in good standing with the college of
+physicians and surgeons of ontario (cpso#: 120331).
+6.
+dr. calvin tai’s
+medical diagnosis of mr. osorio’s bppv is not in dispute.
+(f)
+the defendant’s testimony
+
+the defendant was a 56-year-old machine
+operator on the day of the incident. he was born in mexico city and came to
+canada in 1992. he is married to a woman who is also from mexico city. they
+speak only spanish in the home. he speaks mostly spanish at work. he testified
+through a spanish interpreter.
+
+he described his bppv diagnosis as an “ear
+balance” problem that sometimes causes him to be confused and off balance.
+
+as concerns his understanding of the
+officer’s english on the afternoon in question he said that he understood 50%
+of what was said to him and relied on his interpretation of the officer’s body
+language for the other 50%.
+
+he tried to tell the police at the station
+that he wanted to access his phone to call his daughter to help him get a
+lawyer, but the police would not let him finish voicing his concern.
+
+the defendant’s discussion with duty counsel
+was in english.
+
+he never told the officer or any of the
+police he dealt with that he didn’t understand what they were telling him in
+english because “he understood most of what was said”.
+c.
+the
+alleged s. 8 violation
+(a)
+introduction
+
+mr. dhaliwal argues that:
+•
+p.c. annouza waited too long to demand of the
+defendant that he participate in the sfst, rendering its administration
+unlawful. as a result, the test results could not supply reasonable grounds for
+the arrest and breath demand.
+•
+alternatively, p.c. annouza did not perform the
+tests according to accepted protocols and thus could not rely on the results to
+form reasonable grounds for the arrest and breath demand.
+•
+given all the information available to p.c.
+annouza, his reliance on the test results was unreasonable.
+
+ms. brosh disagrees with those assertions.
+(b)
+the timeliness of the demand
+
+the parties correctly agree that the
+warrantless seizure of mr. osorio’s sfst results was presumptively unreasonable
+and will only be
+charter
+compliant if the crown demonstrates, on a
+balance of probability, that the search was authorized by law - in this case by
+s. 320.27(1)
+(a) of the
+criminal code
+which required the defendant to
+perform physical coordination tests (the sfst) when demanded to do so by the
+officer
+immediately
+after the officer suspected that the defendant had
+alcohol in his body and that the defendant had, within the last three hours, operated
+a conveyance.
+
+a demand to perform the sfst is not lawful
+if it does not come immediately after the development of the requisite suspicion.
+r. v. woods,
+2005 scc 42;
+r. v. quansah,
+2012 onca 123;
+r. v.
+haist,
+2023 onca 465.
+
+as ms. brosh says in her written materials,
+immediately does not mean instantly. screening demands require a
+prompt
+demand
+by the officer and whether the demand is in fact
+prompt
+requires a
+textual analysis.
+r. v. woods, supra
+at para
+44;
+r. v. quansah, supra
+at paras.
+45-49.
+
+assuming the officer developed his suspicion
+within a minute of his arrival on scene, only 11 minutes went by before the
+officer made his demand. during this period the officer had to ascertain who
+was involved in the accident, make sure the roadway was safe for other
+motorists, complete licence and record checks, make notes and gather his sfst
+materials, all of which were necessary steps in the officer’s discharge of his
+duties. in the circumstances of this case the officer’s demand was timely.
+r.
+v. quansah, supra, at paras.
+45-49;
+r. v. li,
+2016 oncj 284
+at para
+20;
+r. v. cheng,
+2020 onsc 881 at para 19;
+r. v. macmillan,
+2013
+onca 109
+at para
+39.
+(c)
+adherence to protocols
+
+the officer was cross-examined at length
+about how certain aspects of his administration of the sfst might have not been
+in strict compliance with the police manual’s instructions. defence counsel
+discovered, hours into his cross-examination that the manual referred to in
+cross-examination was not the manual that governed the sfst administration on
+the afternoon in question. nor was any evidence led as to how the alleged minor
+protocol errors might have impacted the reliability of the results.
+
+no s. 8 breach arises in the officer’s alleged
+protocol shortcomings in the administration of the sfst.
+(d)
+was it unreasonable for the officer to rely on
+the results of the sfst?
+
+mr. dhaliwal argues that because the officer
+knew that the defendant suffered from
+benign paroxysmal positional vertigo
+(bppv) it was unreasonable for him to continue administering the sfst and to rely
+on it. i disagree.
+
+the officer is not a doctor, nor did he have
+any other expertise that would have informed his understanding of the
+diagnosis. the officer understood from the defendant that the bppv meant he
+sometimes suffered from vertigo. he asked the defendant if the bppv would stand
+in the way of him preforming the sfst and the defendant said that it would not.
+
+even though it has been established
+at
+the trial
+that symptoms of bppv include dizziness, vertigo, impaired coordination,
+and nystagmus and that a person with bppv will likely have impaired performance
+on the standardized field sobriety test, the officer did not know this at the
+time. as the court of appeal explains in
+r. v. bush,
+2010 onca 554
+at
+para
+66, “the important fact is not whether the officer’s belief was accurate.
+it is whether it was reasonable at the time of the arrest…what must be assessed
+are the facts as understood by the peace officer when the belief was formed.”
+see too,
+r. v. notaro,
+2018 onca 449, at para
+24.
+
+the officer had ample and reasonable grounds
+to believe that the defendant had driven while impaired. the arrest and
+subsequent breath demand were constitutional.
+d.
+the
+alleged s. 9 violation
+
+mr. dhaliwal argues that the police
+arbitrarily detained the defendant by not releasing him soon enough after the
+completion of the breath tests.
+
+ms. brosh disagrees.
+
+i have searched the record for evidence as
+to what time the defendant was released from the station. the defendant did not
+testify to the time of his release and the officer did not know. yet, the
+parties seem to implicitly agree that it was 21:19 when the defendant was
+released from the station.
+
+assuming this to be true, i nonetheless find
+that the defendant has failed to make out a s. 9
+charter
+breach. there
+is a convincing explanation for the delay. the defendant was too intoxicated to
+release immediately and there was no one to take care of him if he were to be
+released immediately. what’s more, after the final breath test at 17:05 the
+police immediately began to prepare a fair amount of paperwork, which, ms.
+brosh concedes in her materials, was not completed until 18:28. the release
+process began at 21:01. the defendant’s release was only delayed for 2 ½ hours.
+this delay does not support a finding of arbitrary detention without further
+proof of police misbehaviour, of which none was offered.
+r. v. ruscica,
+2019 onsc 2442
+at para
+54;
+r. v. cayer,
+1988 canlii 9879 (on ca), o.j. no. 1120 (ca);
+r.
+v. chaly,
+2020 onca 35
+at para
+5;
+r. v. iseler,
+2004 canlii 34583 (on ca), o.j. no. 4332
+(ca) at paras
+22-25;
+r. v. jones,
+ o.j. no. 4295 (ocj) at paras
+5-18.
+e.
+the
+alleged 10(b) violations
+
+to reiterate, mr. dhaliwal alleges two s.
+10(b)
+charter
+violations. he argues that:
+•
+the police breached the defendant’s s. 10(b)
+charter
+rights by not securing an interpreter for him before reading him his rights to
+counsel.
+•
+the police breached the defendant’s 10(b) rights
+by steering him to duty counsel.
+
+ms. brosh disagrees.
+(a)
+the failure of the police to address the
+circumstances of mr. osorio’s difficulty with the english language
+
+i do not accept p.c. annouza’s testimony
+that he did not detect an accent in his first dealings with the defendant, nor
+do i accept his assertion that it did not occur to him that there might be a
+language problem until he and the defendant were together in the booking hall.
+it is readily apparent from the earliest body worn camera video, and the
+testimony of mr. ferreira that the defendant spoke with a thick accent and that
+his first language was not english.
+
+that having been said, i find that the
+defendant understood when he was told that he had the right to speak to a
+lawyer. that is clear from the audio/video evidence and the defendant’s
+admissions on cross-examination.
+
+in my view, the police ought to have erred
+on the side of caution and offered the defendant the services of an interpreter
+at the roadside. no
+charter
+violation occurred however since,
+notwithstanding their failure to do so the defendant understood his rights and
+both of the officer’s demands. and, finally, the police in the booking hall did
+offer the defendant the services of an interpreter for his call to duty counsel
+and he refused the offer. see
+r. v. nguyen,
+2020 onsc 7783;
+r. v.
+nagalingam,
+2020 onsc 4519;
+r. v. vanstaceghem,
+1987 canlii 6795 (on ca), o.j. no. 509
+(ca).
+(b)
+the alleged steering to duty counsel.
+
+the defendant has not met the onus upon him
+of demonstrating that the police improperly steered him to duty counsel.
+
+it is clear from his testimony that he
+understood he had the right to contact counsel of choice. the police in the
+booking hall clearly told him that he could use the phone to make calls to find
+counsel. the defendant never told the police that he had private counsel, nor
+did he ask to call his wife or daughter which he knew was an option.
+
+where an accused does not tell the police
+they have counsel of choice, and they accept the offer to speak to duty
+counsel, there is no breach of 10(b). moreover, the police are not required to
+inform the accused of the right to access resources to find a lawyer.
+r. v.
+ghotra,
+2020 onca 373
+at para
+41;
+r. v. ruscica,
+2019 onsc 2442
+at
+paras
+36-46;
+r. v. persaud,
+2020 onsc 3413
+at paras
+105-117;
+r, v. mumtaz,
+2019 onsc 468
+at paras
+41-49;
+r. v. ferose,
+2019 onsc 1052
+at paras
+72-75;
+r. v. lombardi,
+2020 onsc 4772
+at paras
+10-31;
+r. v. hudson;
+2016 onsc 5582
+at para
+76.
+
+the
+charter
+application is dismissed.
+the breath sample readings are admitted.
+f.
+the
+impaired operation charge
+
+although the crown need only prove some
+degree of impairment by alcohol, there is scant and ambiguous evidence of
+impairment in this case. while the agreed statement of fact concerning the
+impact of the defendant’s bppv was not helpful to the defendant on the
+charter
+application, it does significantly undermine the strength of the sfst results
+as evidence of impairment on the impaired charge. apart from that, there is
+evidence of a minor rear-end collision, the odour of alcohol and red glossy
+eyes.
+
+i am left with a reasonable doubt on the
+impaired charge.
+g.
+conclusion
+
+mr. osorio is not guilty on count one. he is
+guilty on count two.
+released on june 25,
+2025
+justice russell
+silverstein

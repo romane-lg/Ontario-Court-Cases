@@ -1,0 +1,842 @@
+source url: https://www.canlii.org/en/on/oncj/doc/2025/2025oncj727/2025oncj727.html
+
+ontario court of justice
+citation:
+r. v. bonsu, 2025 oncj 727
+date: may
+8, 2025
+court
+file no.: brampton 998 23 31111153
+between:
+his
+majesty the king
+— and
+—
+gideon bonsu
+before
+justice g.p. renwick
+heard
+on 01 and 02 may 2025
+reasons
+for judgment released on 08 may 2025
+k. holmes................................................................................... counsel
+for the prosecution
+c. levien........................................................... counsel
+for the defendant gideon bonsu
+ruling on application under ss. 9 and
+10(b) of the
+charter
+renwick j.:
+introduction
+
+the defendant is charged with six firearms
+offences in relation to a loaded, prohibited firearm found in his pants pocket during
+a traffic stop on 09 october 2023. the prosecution proceeded by indictment and
+the defendant chose to have a trial in the ontario court of justice.
+
+prior to trial, the defendant brought a written
+charter
+application alleging violations of his ss. 9 and 10(b) rights.
+
+the parties agreed that the
+evidence on the
+charter
+application could run concurrent to the trial
+proper, during the prosecution’s case.
+
+the parties also agreed that the outcome of the
+charter
+application would be determinative of the trial result: if the defendant
+succeeds under s. 24(2) of the
+charter, the evidence obtained from the
+search of the defendant will be excluded and he will be acquitted. conversely,
+if the firearm found by police is admissible, the defendant may be found
+guilty.
+the evidence
+general
+considerations
+
+in this part, i will outline some of the
+evidence with references to specific portions of the testimony and other
+evidence. although i will not refer to all of what a witness said, i listened
+to each witness carefully, i have taken detailed notes, i have reviewed the
+exhibits, i have had access to the digital record of the proceedings, and i
+have assessed all testimony for intrinsic and extrinsic consistency,
+plausibility, balance, possible interest, and the witness’ ability to recall
+and communicate.
+
+i do not propose to recapitulate all of the evidence received
+during this trial. suffice it to note that i have used ample and many
+opportunities during the trial and subsequent to the completion of the
+submissions to consider the testimony heard, to review the exhibits, and to
+re-play parts of the video evidence or the digital audio recording of the
+proceedings. i have thoroughly reviewed the evidence in this case, and i will
+only discuss parts of the evidence where it serves to underscore my findings.
+lastly, despite any exchanges with counsel during submissions, i came to no
+conclusions about any of the evidence received until all of the arguments were
+made and my review of the evidence was complete.
+the police testimony and other
+evidence
+
+police constables (“p.c.”) alex ahn, chris bazinet, and brendon
+rodriquez testified for the prosecution. the body-worn camera footage of
+officers ahn, deng, bazinet, and rodriguez became exhibits 1a, 1b, 1c, and 1d,
+respectively.
+
+p.c. ahn was the main prosecution witness. given
+the significance of p.c. ahn’s testimony in determining the s. 9
+charter
+application,
+i will concentrate on this evidence, almost exclusively in this part.
+
+this officer testified about his interactions
+with the defendant. this witness testified about his first observations of the
+defendant and why he chose to conduct a traffic stop of the defendant’s vehicle
+
+minutes later. the traffic
+stop and the officer’s reason for detaining the defendant is squarely in issue.
+
+p.c. ahn testified that at the time of this
+incident, he was a police officer for approximately two years. this case was
+the officer’s first time testifying in criminal court.
+
+on the morning in question, p.c. ahn was on
+general patrol. he was responding to radio calls for service and patrolling for
+“deterrence” of offences under the
+highway traffic act
+or “possible”
+impaired drivers. for this reason, he was equipped with an approved screening
+device (“asd”) in his police cruiser.
+
+p.c. ahn testified that he was in the area of
+the midway invader strip club, a liquor licensed establishment, around closing
+time, to deter patrons from driving while impaired by alcohol. he first
+encountered the defendant upon entering the parking lot for the club. the
+defendant was standing outside next to a female who was seated in the driver’s
+seat of a mercedes vehicle. p.c. ahn had never met the defendant prior.
+
+the officer testified that as he drove past, he
+interacted with the unknown male and female. he asked what they were doing and
+if they had come from the strip club. p.c. ahn testified that the defendant
+answered, “i am here to pick up my girlfriend,” who the officer assumed was the
+female in the driver’s seat of the mercedes. the officer then asked if the
+female had anything to drink. he testified that he asked the question to “both”
+the male and female and the male answered, “no,” while the female shook her
+head from side to side. p.c. ahn told them to have a good night and continued
+into the parking lot.
+
+p.c. ahn told the court that this brief
+interaction was cordial and momentary. once he was satisfied that the driver
+had not been drinking, he let two proceed on their way. this interaction was
+not recorded on the officer’s body-worn camera (“bwc”). it was a very brief
+encounter and the officer never left his cruiser, so he did not activate his
+bwc.
+
+as he drove away, p.c. ahn saw in his rear-view
+and side mirrors that the defendant walked away from the mercedes and entered
+another vehicle. the officer then saw the mercedes and the other car drive out
+of the parking lot. p.c. ahn found this odd. he wondered whether the male had
+misrepresented the nature of the relationship between the parties. he turned
+his cruiser around and like he had done with the female driver, he decided to
+stop the male driver for a sobriety check.
+
+the officer was candid that once he saw the
+license plate for the hyundai driven by the male, he queried the plate on his
+police computer and learned that the vehicle was a rental car. when asked if he
+had queried the license plate of the mercedes, p.c. ahn testified that he had.
+
+approximately 50m from the driveway to the strip
+club, p.c. ahn and two other police vehicles performed a “tandem stop” of the
+defendant in the hyundai. officers deng and bazinet were the other officers
+involved in the traffic stop. p.c. ahn had not called for the other officers to
+assist in the traffic stop, he just did it, “and they followed [him].”
+
+p.c. ahn explained that a tandem stop is a
+common practice used to pull over vehicles for sobriety checks, given that some
+motorists may try to flee from police when they have been drinking alcohol.
+with one or two other police vehicles, the police can position their cruisers
+so that the target vehicle has no choice but to pull over.
+
+once he approached the driver (the defendant),
+p.c. ahn indicated the reason for the traffic stop and he asked for the usual
+documents (license, ownership, and insurance). the officer found it odd that
+the driver asked to get his jacket from the back seat, which he then draped
+over his right leg, but none of the requested documents were located in the
+jacket. at first, p.c. ahn thought that the driver may be impaired [by
+alcohol]. also strange to the officer, the defendant was on his hands-free
+phone in the car, speaking to his “lawyer.” he knew this because the contact
+for the person on the other end of the phone call said, “lawyer” on the
+vehicle’s display monitor, and the defendant advised him that his lawyer was on
+the phone. p.c. ahn did not believe that it was the defendant’s lawyer given
+the time of day (after 2:00 a.m.), so, he advised the defendant to end the
+call. this request was ignored, but the officer did not insist.
+
+the officer took the driver’s license and
+requested the rental agreement and other documents as he left to query the
+license in his cruiser. once there, he observed that p.c. deng moved into the
+spot he had been, closest to the driver. he called p.c. deng over, because he
+was a newer officer, and told him to be cautious, to watch p.c. bazinet, and to
+observe that p.c. bazinet had his hand near his firearm, to be ready in case
+things went “bad.”
+
+at his computer, p.c. ahn learned that there was
+a caution for the defendant as “armed and dangerous.” at this point his senses
+were heightened and he wanted to alert his partners about the caution he had
+seen for the driver. p.c. ahn also testified about his conversation with the
+defendant and why he had not left with the female in the parking lot. when that
+female called the defendant, p.c. ahn testified that he permitted the defendant
+to speak to her because “she was waiting for him” and he believed that she had
+a reasonable right to know what was happening with the defendant.
+
+during this encounter, p.c. ahn eventually saw
+p.c. bazinet make a gesture that he took to mean the other officer could not
+see the defendant’s right leg or the centre console area. at this time, the
+defendant’s jacket was still covering his right leg. p.c. ahn asked the
+defendant to move his jacket to the rear several times before the defendant
+complied. the officer testified that when the defendant reached back to put the
+jacket into the rear seat, he observed the bulge in the defendant’s right front
+pant pocket and what he believed was the “butt” of a gun. he was 100% certain of
+this.
+
+p.c. ahn next moved to the passenger side of the
+hyundai to advise p.c. bazinet of his observation. he whispered, “firearm right
+pocket” to p.c. bazinet.
+
+at this point, p.c. ahn testified that the
+sobriety check had become an investigation into an unauthorized possession of a
+firearm. when asked if he had alerted his dispatcher of his belief that the
+driver had a firearm, p.c. ahn testified, no. when asked if he had advised the
+defendant what he had seen, he said, “no, especially not [him].” his rationale
+was that he did not want to alert the defendant to the fact that he knew that
+the defendant was armed. he felt this would “jeopardize officer safety.” p.c.
+ahn explained, if the defendant became aware that the police knew he was armed,
+it may “escalate” the situation to where multiple firearms would be drawn.
+
+p.c. ahn then testified that he decided to use
+“trickery” to lure the defendant out of his vehicle safely. he decided to tell
+the defendant that he smelled alcohol and he would be administering a roadside
+breath screening with an asd. this way, once the defendant stepped out of his
+car he could be safely apprehended without an escalation of the situation.
+unfortunately, around this time, p.c. rodriguez returned from another traffic stop
+and while looking inside the car on the passenger side, he saw the defendant’s
+firearm and yelled, “gun, gun, gun,” pursuant to his training, and drew his own
+firearm. p.c. ahn then dove into the car to hold onto the defendant’s right arm
+and quickly remove the defendant from his car. the officers tussled with the
+defendant on the ground and even tasered him twice until he was subdued and
+handcuffed and the loaded, sub-compact firearm
+
+was safely retrieved.
+
+p.c. ahn arrested the defendant at 2:43 a.m. and
+provided him with his rights to counsel at 2:49 a.m. in between those times,
+p.c. ahn testified that he continued to restrain the defendant and he “paused”
+the whole situation as other officers were arriving on scene. at 3:08 a.m.,
+p.c. ahn called the defendant’s counsel of choice and from 3:09 a.m. until 3:49
+a.m. the defendant spoke in private with mr. levien while in the back of the
+police car. the defendant was re-read his rights to counsel at 4:36 a.m. at the
+police station and again spoke with mr. levien from 4:43 a.m. until 4:49 a.m.
+
+cross examination focused on several areas,
+including:
+i.
+whether the officer was certain which side of
+the mercedes the defendant stood while speaking with the female driver;
+ii.
+what was discussed during the initial
+interaction with the defendant and the female driver;
+iii.
+whether the officer was telling the truth about
+this being a sobriety check versus an investigation into some other type of
+criminal activity;
+iv.
+whether the officer held conscious or
+unconscious bias against young black men and his awareness of whether they are
+stopped by police disproportionately because of their race;
+v.
+whether the officer could have asked for the
+name of the “lawyer” to research if he was actually a lawyer;
+vi.
+whether the officer was “entitled” to tell a
+motorist to discontinue a call with counsel during a traffic stop;
+vii.
+how many officers can be involved in a tandem
+stop;
+viii.
+whether the officer thought the defendant and
+the female may be discussing sexual services for money, or he was her pimp;
+ix.
+how he wrote his notes and who he spoke with
+before adding to his notes; and
+x.
+whether the officer became suspicious of the
+defendant before seeing him get into the hyundai.
+
+much of the other police testimony confirmed the
+evidence given by p.c. ahn. for instance, p.c. bazinet was clear that they were
+in the area to deter patrons leaving a licensed establishment from driving
+after they had been drinking. p.c. bazinet also confirmed that he simply
+followed p.c. ahn and activated his emergency lights and became involved in the
+traffic stop once he observed p.c. ahn pulling over the defendant. to a lesser
+extent, p.c. rodriguez also corroborated the reason for police presence in the
+area and the rule that officers assist each other for purposes related to
+officer safety.
+
+as well, the bwc footage of all four officers
+tended to support the testimony of the prime prosecution witness. p.c. ahn is
+seen on p.c. deng’s bwc footage communicating his belief that the driver was
+armed: at 4:45 of exhibit 1b, p.c. ahn tries to get p.c. bazinet’s attention
+and he is seen tapping his firearm several times. also, p.c. ahn is heard
+telling p.c. bazinet, “firearm right pocket.” lastly, at 1:34 of p.c. rodriguez’
+bwc video, a black object is visible inside the defendant’s right pant pocket.
+
+although i was initially skeptical of the
+testimony of both officers ahn and rodriguez respecting their claims to have
+seen the handgun inside the defendant’s pocket, exhibit 1a clearly shows the
+bulge of the object from p.c. ahn’s vantage point and exhibit 1d confirms that
+a black object can be seen by p.c. rodriguez. moreover, p.c. deng’s bwc footage
+clearly shows p.c. ahn moving around and getting a view of the defendant from
+different angles. the defendant was also moving around as he placed his jacket
+into the backseat. i have no doubt that p.c. ahn may have been influenced by
+having learned of the police caution in respect of the defendant, but his
+observations were not challenged or proven inaccurate during his testimony, and
+i accept this evidence as truthful.
+analysis
+
+the defendant applied for
+charter
+relief.
+the applicant has the onus to establish his allegations on a balance of
+probabilities. if the defendant’s
+charter
+rights have been violated, the
+exclusion of evidence is not automatic. in order to have the seized contraband
+excluded from his trial, the defendant must establish that it is more likely
+the case than not that the admission of this evidence in the circumstances of
+one or more
+charter
+violations would tend to bring the administration of
+justice into disrepute.
+credibility and
+reliability generally
+
+this case involves various first-hand accounts and credibility
+assessments. in assessing witness credibility and reliability i have taken into
+account the general capacity of the witness to make their observations, to
+remember what they perceived, and their ability to accurately testify to their
+recollections. it is also important to determine whether the witness was trying
+to tell the truth and whether or not the witness was sincere, candid, biased,
+reticent, and/or evasive. a trier of fact is entitled to accept some, none, or
+all of a witness’ testimony.
+
+a valuable means of assessing the credibility of any witness is
+to examine what is testified to in the context of all of the evidence in the
+case and not on an isolated basis. this is true for any inconsistencies and
+whether these are inconsequential or significant to the case. if the
+inconsistency is significant, then i must pay careful attention to it when
+assessing the reliability of the witness' testimony.
+
+triers of fact must consider both credibility
+and reliability in determining the facts in a given case. credibility is
+shorthand for truthfulness and believability. reliability is the lens through
+which one evaluates the accuracy of evidence. trial judges must be careful not
+to conflate credibility with reliability otherwise the fact-finding net might
+entangle even the least reliable piece of evidence.
+
+it is important to remember that in some cases
+credibility takes a back-seat to reliability. for example, there are
+prosecutions where the suspect is unknown to the complainant and the latter may
+be honestly mistaken about the identity of the perpetrator. in such a case,
+reliability concerns govern the analysis because credibility does not guarantee
+accuracy. credible witnesses can be mistaken or otherwise inaccurate. thus,
+credibility is not a proxy for reliability.
+
+
+where witness testimony is highly credible,
+consistent, plausible, not inconsistent with other evidence, not found to be
+the product of bias or motive, largely undisturbed upon a vigorous
+cross-examination, and not found to be otherwise unreliable, truth and accuracy
+are likely established.
+
+assessments of credibility and reliability can
+be the most important and challenging judicial determinations in a criminal
+trial. our highest court has reminded us:
+credibility
+and reliability assessments are also context-specific and multifactorial: they
+do not operate along fixed lines and are “more of an ‘art than a science’.”
+with respect to credibility in particular, while coherent reasons are crucial,
+it is often difficult for trial judges to precisely articulate the reasons why
+they believed or disbelieved a witness due to “the complex intermingling of
+impressions that emerge after watching and listening to witnesses and
+attempting to reconcile the various versions of events.” the task is further complicated
+by the trial judge’s ability to accept some, all, or none of a witness’
+testimony.
+
+
+judicial fact-finding is often based on
+inductive reasoning and evaluations of “probable interpretations of the
+evidence.”
+
+it necessarily depends on common-sense inference-drawing.
+
+to again quote the supreme
+court:
+reasoning
+about how people generally tend to behave, and how things tend to happen, is
+not only permissible, it is often a necessary component of a complete
+testimonial assessment.
+
+there was no violation of s. 9 of the charter
+
+initially, through his factum, the defendant
+argued that his s. 9
+charter
+right was violated when the police detained
+him and prolonged his detention by asking him questions. during submissions,
+the s. 9 application morphed into an allegation of racial bias or unconscious
+bias and arbitrary detention. no issue was taken by the prosecution with the
+revised focus of the inquiry and there was no suggestion that the prosecution
+was unable to respond to the actual thrust of the s. 9 application.
+
+a s. 9 claim has two parts: was there a
+detention, and was it arbitrary. as with other constitutional freedoms, the
+supreme court has adopted a purposive approach that seeks to balance individual
+autonomy and freedom from unjustified restrictions on liberty with effective
+law enforcement.
+
+
+during submissions, the defendant also raised,
+for the first time, that he had been detained when p.c. ahn conversed with the
+defendant and ms. moradi in the parking lot.
+
+despite the defendant’s submissions, i am not
+satisfied that it is proven that the initial interaction in the parking lot created
+a detention. police are entitled to interact with motorists for a variety of
+reasons (check sobriety, vehicle registration, insurance, roadworthiness, and
+license status). not every interaction with the police is a detention. in
+r.
+v. suberu, the supreme court made this clear:
+…not every interaction between the police and members of the
+public, even for investigative purposes, constitutes a detention within the
+meaning of the
+charter. section 9 of the
+charter
+does
+not dictate that police abstain from interacting with members of the public
+until they have specific grounds to connect the individual to the commission of
+a crime. likewise, not every police encounter, even with a suspect, will
+trigger an individual's right to counsel under s. 10(
+b
+). as
+iacobucci j. aptly observed, "[t]he person who is stopped will in all
+cases be 'detained' in the sense of 'delayed', or 'kept waiting'. but the
+constitutional rights recognized by ss. 9 and 10 of the
+charter
+are
+not engaged by delays that involve no significant physical or psychological
+restraint" (para. 19).
+
+
+i cannot agree that the defendant was detained
+at all during this brief encounter with police. first, i accept p.c. ahn’s
+testimony that he was not investigating the defendant. he stopped to inquire
+into the female motorist’s sobriety. this was not unreasonable and it was
+exactly what happened. second, there was no suggestion that the officer’s
+questions required the defendant to answer. third, there is no evidence that
+the defendant felt detained. although psychological detention can arise in
+brief police encounters, there is no evidence to suggest that this brief,
+friendly encounter was at all intimidating, or uncomfortable for the defendant.
+i have no idea of his age or familiarity with police interactions, however, the
+defendant is observed on the bwc footage to be confident, knowledgeable of his
+rights (when told to exit his car for the asd sampling he says, “don’t i have
+to blow something”), and comfortable asking questions or making requests (for
+his jacket, for instance). in these circumstances, there is not even a
+scintilla of evidence to suggest that he was psychologically detained when p.c.
+ahn first arrived.
+
+in respect of the traffic stop, the parties
+agreed that once the defendant pulled his vehicle over, he was detained. the
+larger question is whether it is proven on a balance of probabilities that p.c.
+ahn detained the defendant for an improper (arbitrary) purpose.
+
+i am not satisfied on a balance of probabilities
+that the traffic stop of the defendant was motivated by conscious or
+unconscious bias or anti-black sentiment for the following reasons:
+i.
+p.c. ahn left the female driver and the
+defendant shortly
+
+after a cordial, professional interaction about the female’s sobriety. if he
+were truly suspicious of some undefined criminal activity, it would have been
+counter-intuitive to leave the couple to proceed on their way. it also defies
+credulity that the detention of someone suspected to be a pimp, or someone
+possibly soliciting sexual services, would yield any evidence of this
+criminality;
+ii.
+p.c. ahn immediately turned his vehicle around
+and began to follow the defendant once he observed the defendant get into a
+different vehicle. i find as a fact that the defendant’s vehicle was stopped within
+a short distance (50m) of the driveway of the strip club. this evidence
+supports the officer’s testimony respecting the reason for the traffic stop,
+close in time with the officer’s concerns for the male driver’s sobriety;
+iii.
+p.c. ahn was candid that he had discovered that
+the defendant was in a rental vehicle before he approached the hyundai. the
+fact that the officer knew that the vehicle was rented, could found a suspicion
+that the officer was concerned with unspecified criminal activity, however, the
+officer was candid about this knowledge. furthermore, he had already made the
+decision to stop the hyundai before he learned that it was a rental;
+iv.
+p.c. ahn was quick to advise the defendant of
+the reason for the traffic stop and it was consistent with his testimony – he
+had observed the defendant leaving the strip club [property], which is a
+licensed establishment, and he was unaware whether the defendant had been
+drinking;
+v.
+at the five minute mark of his bwc footage,
+after confirming the defendant’s identity on his police computer, p.c. ahn
+asked the defendant whether he had “nothing to drink in there [the strip club].”
+in response to the claim that the defendant had gone there to pick up his
+girlfriend, he followed up by asking “how come you’re not leaving with her.”
+this evidence is consistent with his earlier indication of a sobriety check and
+it aligns with the officer’s notes and his testimony about his suspicions from
+his prior contact with and observations of the defendant (leaving separately
+from the female);
+vi.
+the bwc footage proves that p.c. ahn was
+respectful of the defendant at all times when dealing with him. though the
+officer asked mr. levien to end their phone call, he did not insist on this.
+also, when the defendant’s girlfriend called, and the defendant asked the
+officer if he could answer the phone, p.c. ahn said, “yeah, ya;” and
+vii.
+the police testimony was consistent that the
+purpose for their presence in the area of the strip club, a liquor licensed
+establishment, at that time of night, was the deterrence and investigation of
+driver insobriety. this is also plausible in light of the juniority of p.c. ahn
+and his partners and consistent with their role as patrol officers; these were
+not drug or gang or morality investigators.
+
+i have also taken into account that p.c. ahn was
+relatively inexperienced as a police officer that night. he was not a grizzled
+veteran who may have been trained at a time before racial profiling was deemed
+unacceptable. as a racialized individual, he may even have lived experience
+with anti-asian sentiment. none of this means that he could not harbour
+unconscious bias or racist views, however, the likelihood of
+mala fides
+is reduced where there are no outward signs of disrespect, inarticulable
+concerns, prejudicial thinking, or subtle intolerance. the rationale offered
+for stopping the defendant was entirely reasonable in the circumstances.
+
+i find that the traffic stop of the defendant
+was not arbitrary. i accept as truthful and reliable the testimony of p.c. ahn
+that once he saw the defendant driving, he wondered whether the defendant had
+misled him about picking up his girlfriend, possibly to obscure the fact that
+he had been drinking inside the club. i accept as truthful and reliable the
+reason offered by p.c. ahn for the traffic stop of the hyundai: to investigate
+the sobriety of the driver. this is an appropriate reason to detain motorists
+leaving licensed venues.
+there was a
+violation of s. 10(b) of the charter
+
+in all, there are three periods of time where
+the defendant alleged that his s. 10(b) rights were violated:
+i.
+during the police interaction in the parking
+lot;
+ii.
+while he was stopped in his car and speaking
+with his counsel; and
+iii.
+after his arrest and prior to receiving both
+components of the right to counsel.
+
+in respect of the first concern, as indicated
+above, there was no detention when p.c. ahn first spoke with the defendant in
+the strip club parking lot. thus, there was no necessity to provide the
+defendant with his s. 10(b) rights.
+
+in respect of the second concern, the
+defendant’s written application asserted that his s. 10(b) right was violated
+when the police attempted to end his phone call with his counsel during the
+traffic stop. this complaint included the failure to provide the defendant an
+opportunity to speak privately with his counsel while he was detained in his
+car. counsel produced no jurisprudence to support the view that there is a
+right to speak to a lawyer
+during
+a traffic stop. to the contrary, it is
+well recognized that the police may suspend s. 10(b) rights during drink-driving
+investigations, which are supposed to be brief in duration.
+
+the third concern was meritorious. the defendant
+was arrested at 2:43 a.m. and received the informational component of his
+rights to counsel at 2:49 a.m. his lawyer was called at 3:08 a.m. and they
+spoke from 3:09 a.m. until 3:49 a.m. in addition, the defendant was also put in
+touch with his lawyer while he was at the police station.
+
+after his arrest, p.c. bazinet testified toward
+the end of his evidence in chief that the defendant had to be seen by the
+paramedics to safely remove taser barbs from him. once that was completed, the
+defendant was walked to p.c. ahn’s cruiser, where he was patted down for any
+other contraband (“we double check, triple check to make sure there was nothing
+else”), before p.c. ahn provided the rights to counsel. i do not find that
+there was any unacceptable delay in providing the informational component of the
+rights to counsel during the six minutes following the defendant’s arrest.
+
+however, there was a further delay of 19 minutes
+before the police facilitated the exercise of the right to counsel (2:49 a.m.
+to 3:08 a.m.). there was no real explanation for this delay. i find that this
+19 minute delay was not justified and as a result, i am satisfied on a balance
+of probabilities that this constituted a violation of s. 10(b) of the
+charter.
+section
+24(2) of the charter
+
+
+section 24(2) recognizes that if evidence gained by constitutional
+infringements is regularly admitted in criminal trials this may weaken public
+confidence and bring the administration of justice into disrepute. this
+subsection seeks to mitigate the negative effects of inappropriate state conduct
+by requiring a qualitative analysis of the long-term effect that tainted
+evidence could have upon public confidence in the justice system.
+
+to perform the balancing exercise required by s. 24(2) of the
+charter,
+i must consider:
+i.
+the seriousness of the
+charter
+-infringing
+state conduct;
+ii.
+the impact of the breach(es) on the
+charter
+-protected
+interests of the applicant; and
+iii.
+society’s interest in the adjudication of the
+case on its merits.
+
+the first two factors serve to mitigate the loss
+of civil liberties by requiring exclusion of evidence when the
+charter
+-infringing
+conduct is serious and the impact upon
+charter
+-protected interests is
+significant. the third factor “pulls in the opposite direction toward the
+inclusion of evidence. that pull is particularly strong where the evidence is
+reliable and critical to the crown’s case.”
+
+
+it is also the case that the third factor can
+also pull in the opposite direction, requiring evidential exclusion, when the
+state conduct is so subversive of protected freedoms that the only way to
+protect public confidence in the administration of justice is to have the
+evidence excluded from the trial process.
+the seriousness of the charter-infringing state conduct
+
+as our court of appeal has remarked:
+…the
+evaluation of the seriousness or gravity of the offending state conduct 
+focuses upon the level of fault of the breaching officers in the
+circumstances…the more serious the offending conduct, the more pressing the
+need for the court to dissociate itself from the fruits of that conduct.
+
+
+further, the seriousness of any breach is
+aggravated where the evidence establishes a systemic problem or a pattern of
+charter
+non-compliance.
+
+courts must
+view the matter holistically to determine if there circumstances that mitigate
+or exacerbate the offending state conduct and the level of state culpability.
+
+
+here, the violation was not explained. it is
+difficult on the evidentiary record to establish how avoidable was the 19
+minute delay to facilitate the defendant’s exercise of the right to counsel.
+
+the seriousness of this violation was somewhat
+attenuated by the quick decision to provide a cell phone and to permit the
+defendant to speak again with mr. levien while in the back of the police car.
+he was certainly given an adequate period of time (40 minutes) to fully exhaust
+his s. 10(b) rights once police put him in contact with his lawyer. moreover,
+the right was also exercised, briefly, at the police station.
+
+these extensions of assistance modulate the
+seriousness of the violation because they demonstrate the officer’s interest in
+complying with his obligation to facilitate contact with counsel. there is no
+suggestion that the police made any attempts to have the defendant implicate
+himself during the pause before he was given an opportunity to exercise his s.
+10(b) right.
+
+this mitigates the police misconduct and reduces
+the seriousness of the
+charter
+breach to “low.”
+the impact of the charter-infringing state conduct
+
+there are a number of factors that bear upon the
+impact of the
+charter
+violation upon the defendant’s fair trial rights:
+evidence discoverability, the absence of a causal link between the
+charter
+breach and the evidence to be excluded, and the nature of the evidence itself.
+these considerations do not move the needle even incrementally toward excluding
+evidence in this case.
+
+nonetheless, the decision not to facilitate the
+right to counsel in a timely way had a modest impact upon the defendant. though
+he would have been helpless, handcuffed in the back of a police car, waiting
+for the police to help him to exercise his right to counsel, the police did not
+elicit any incriminating statements or otherwise interfere with his bodily
+integrity during this delay.
+balancing
+whether a remedy is required
+
+our court of appeal has confirmed, “[t]he more
+important the evidence is to the crown’s case, the greater the risk of
+disrepute from it’s exclusion.”
+
+
+it must be remembered, however, that the third
+line of inquiry can cut both ways:
+while the public has a heightened interest in a determination on the
+merits where the offence is serious, it also has a vital interest in
+maintaining a justice system that is above reproach.
+
+
+there is no doubt that the firearm and
+ammunition are real pieces of evidence that existed independently of the
+charter
+violation. this evidence is critical to proving the alleged offences. if the
+firearm and ammunition are excluded from the trial, the prosecution will
+disintegrate.
+
+the
+charter
+violation is technical: the
+police provided the defendant with the right to counsel, but they did not
+facilitate the exercise of this right in a timely way. the violation was
+mitigated by the good faith of the police, which was demonstrated by the
+efforts to facilitate contact with counsel in the back of a police car, and the
+provision of a second chance to speak to counsel back at the station.
+
+in the end, i do not believe that this factor
+requires exclusion in order to protect the integrity of the justice system and
+public confidence. all three of the
+grant
+factors provide weak (if any)
+justification for the exclusion of real evidence. the interest in admitting the
+firearm and ammunition into evidence outweighs the requirement to exclude the
+evidence to maintain public confidence.
+conclusion
+
+though i have found a minor
+charter
+violation, i rule that the firearm and ammunition remain admissible in the
+trial.
+
+for these reasons, the
+charter
+applications are dismissed.
+released: 08 may
+2025
+justice
+g. paul renwick
+
+interestingly, the first page of the application (the table of
+contents) lists both
+charter
+rights allegedly violated, while page 2
+(applicant’s factum) did not refer to s. 9 of the
+charter
+in the
+heading. this is consistent with para. 2, which only referenced s. 10(b).
+paragraph 9, however, alleges that the “prolonged questioning” of the defendant
+was problematic. unfortunately, the factum does not disclose any actual s. 9
+concerns beyond the questioning mentioned.
+
+the defendant was operating a white hyundai rental car that
+night. i have used the phrase “defendant’s vehicle” merely for simplicity sake,
+and not to denote ownership or association.
+
+the parties never referred to the firearm as a “sub-compact.”
+however, given its diminutive size, and its designation as a
+prohibited
+firearm (by definition, a handgun with a barrel length less than 105mm is
+prohibited: see
+s. 84
+of the
+criminal code
+), this is an appropriate
+description.
+
+r.
+v. h.c.,
+2009 onca 56
+at para.
+41.
+
+r. v. kruk,
+2024 scc 7
+at para.
+81.
+
+kruk, supra, at paras.
+71 and 75.
+
+ibid.
+
+kruk, supra, at para.
+72.
+
+r.
+v. thompson,
+2020
+onca 264
+at para.
+29.
+
+r.
+v. suberu,
+2009 scc 33
+at para.
+3.
+
+according to the female, sarah moradi, who also testified on
+the
+charter voir dire, the interaction lasted “maybe a minute or less.”
+
+for the origins of this analysis, see
+r.
+v. grant,
+2009 scc 32.
+
+r.
+v. mcguffie,
+2016 onca 365
+at para.
+62.
+
+r.
+v. o’brien,
+2023 onca 197
+at para.
+24.
+
+o’brien, supra, at para.
+25.
+
+r.
+v. mccolman,
+2023 scc 8
+at paras.
+57, 58, and 64.
+
+o’brien, supra, at para.
+53.
+
+mccolman, supra, at para.
+70.

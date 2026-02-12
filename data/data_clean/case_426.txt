@@ -1,0 +1,1837 @@
+source url: https://www.canlii.org/en/on/oncj/doc/2025/2025oncj103/2025oncj103.html
+
+ontario
+court
+of
+justice
+citation:
+r. v. ellis, 2025 oncj 103
+date:
+2025
+02
+25
+court
+file
+no.:
+hamilton
+23
+47106254
+b
+e
+t
+w
+e
+e
+n:
+his
+majesty
+the
+king
+— and — kyle
+ellis
+before
+justice
+amanda
+j.
+camara
+heard
+on january 23, 2025
+reasons
+for
+judgment
+released
+on
+february
+25,
+2025
+matthew
+moser.................................................................................... counsel
+for
+the
+crown
+katrina
+friesen............................................................. counsel
+for
+the
+accused
+kyle
+ellis
+camara
+j.:
+
+kyle
+ellis
+seeks
+a
+stay
+of
+the
+proceedings
+pursuant
+to
+section
+24(1)
+of
+the
+charter
+of
+rights
+and
+freedoms
+arguing
+that
+his
+right
+to
+a
+trial
+within
+a
+reasonable
+time
+pursuant
+to section 11(b) has been breached.
+
+mr.
+ellis
+submits
+that
+the
+total
+delay
+in
+this
+matter
+is
+18-months
+and
+14-days
+from the
+date
+the
+information
+was
+sworn
+which
+is
+above
+the
+presumptive
+ceiling
+of
+18-months as set out by the supreme court
+of canada in
+jordan.
+mr. ellis submits that this delay is not
+reduced by defence delay or justified by exceptional circumstances.
+
+the
+crown
+submits
+that
+there
+are
+2
+periods
+of
+time
+that
+ought
+to
+be
+deducted
+from the overall delay which would bring the time to trial under the
+18-month ceiling. furthermore,
+even
+if
+the
+total
+delay
+exceeds
+the
+18-month
+ceiling,
+the
+crown
+submits
+that exceptional
+circumstances
+contributed
+to
+the
+complexity
+of
+the
+case
+and
+which
+justify
+the time to trial.
+
+the issues
+i am
+to
+determine
+are:
+1.
+when
+does
+the
+11(b)
+clock
+begin?
+2.
+is
+there
+any
+delay
+attributable
+to
+the
+defence?
+3.
+was
+this
+a
+complex
+case
+that
+would
+justify
+the
+delay?
+legal
+framework
+
+the supreme court
+of
+canada held in
+jordan
+
+that there is
+a presumptive ceiling on
+the
+time
+it
+should
+take
+to
+bring
+an
+accused
+to
+trial.
+in
+the
+ontario
+court
+of
+justice,
+this presumptive ceiling is 18-months.
+
+how
+to
+apply
+the framework
+was
+summarized in
+coulter
+
+as
+follows:
+i.
+calculate
+the
+total
+delay,
+from
+the charge
+to
+the
+anticipated
+end
+of
+trial
+ii.
+subtract
+from
+this
+total
+delay
+any
+defence
+delay
+to
+get
+the net
+delay
+iii.
+compare
+this
+net
+delay
+to
+the
+presumptive
+18-month
+ceiling
+iv.
+if the net delay exceeds the
+presumptive ceiling, it is presumptively unreasonable.
+the
+crown
+can
+rebut
+this
+presumption
+if
+it
+can
+establish
+the presence of exceptional circumstances.
+if
+it cannot rebut the presumption, a stay will follow.
+in general, exceptional circumstances fall under two categories:
+discrete events and particularly complex
+cases
+v.
+subtract
+delay
+caused
+by
+discrete
+events
+from
+the
+net
+delay
+leaving
+the remaining
+delay
+for
+the
+purpose
+of
+determining
+whether
+the
+presumptive ceiling has
+been reached
+vi.
+if the remaining delay exceeds the
+presumptive ceiling, the court must consider whether the case was particularly
+complex such that the time the case has taken is justified and the delay is
+reasonable.
+vii.
+if
+the
+remaining
+delay
+falls
+below
+the
+presumptive
+ceiling,
+the
+onus
+is
+on the defence to show that the delay is
+unreasonable.
+when
+does
+the
+11(b)
+clock
+begin?
+
+in this case
+the information charging mr. ellis
+was sworn on october 24, 2023. mr.
+ellis
+was
+charged
+with
+break
+and
+enter
+of
+a
+non-dwelling
+and
+possession
+of
+property
+obtained by crime over $5000 with two co-accused: joelle
+mackay and michael mask. mr. ellis was not arrested until november 10, 2023.
+
+the
+crown
+submits
+that
+the
+pre-arrest
+delay
+in
+this
+case
+ought
+to
+be
+deducted
+from the overall delay.
+
+the
+general
+rule
+is
+that
+the
+jordan
+clock
+starts
+running
+from
+the
+date
+the
+person
+is charged.
+the scc ruled in
+kalanj
+that a person is charged upon the
+swearing of an information.
+the ontario court of appeal affirmed this
+principle in
+allison.
+
+the crown submits
+that the
+allison
+and
+kalanj
+are factually distinguishable from
+the case at bar.
+in
+allison
+and
+kalanj
+the arrest preceded the information being sworn. mr. ellis was
+arrested after the information was sworn.
+to
+support the proposition that the jordan clock can start when the offender is
+arrested, the crown relies upon
+magiri,
+millar
+
+and
+jk
+
+in which the courts found evidence
+that the accused had been evading arrest and that the police had taken a number
+of steps to effect an earlier arrest of the individual.
+based upon the evidence that the police tried to arrest the
+offender sooner and that he had been evading arrest, the court held that the
+11(b) clock started on the date of the arrest.
+
+the defence
+argues that the police in this case were not reasonably diligent in attempting
+to execute the arrest warrant before november 10, 2023.
+in fact, at the time the information was sworn and the arrest
+warrant issued, mr. ellis was bound by an house-arrest interim release order
+which listed his surety’s address and the address at which mr. ellis was
+to
+be
+residing.
+despite that information,
+there is no evidence before me
+that
+the
+police
+ever
+attempted to
+execute the warrant at mr. ellis's
+residence
+or
+even
+communicate
+with
+mr.
+ellis
+or
+his
+surety
+to
+advise
+him
+of
+the
+warrant
+for
+his
+arrest.
+rather, the
+police
+choose
+to
+attend
+the
+courthouse
+on
+november
+10,
+2023,
+a
+date
+that
+had
+been scheduled
+for
+mr.
+ellis’
+trial
+on
+another
+matter,
+and
+execute
+the
+warrant
+as
+he
+entered
+the courthouse.
+practically, that
+had
+a significant impact
+on mr. ellis
+and delayed
+the trial
+in another matter.
+
+in the case
+before me, i find that there is no evidence before me that would support the
+proposition that the police acted with reasonable diligence in executing an
+arrest
+warrant.
+it
+is
+expected
+that
+police
+make
+more
+than
+perfunctory
+efforts
+to
+locate
+an accused once they have an arrest
+warrant and in this case there is no evidence that the police made any efforts
+before november 10, 2023 to effect the arrest of mr. ellis.
+
+the pre-arrest
+delay
+will not be deducted from the
+overall delay. the 11(b) clock starts from the date the information was sworn.
+is
+there
+any
+delay
+attributable
+to
+the
+defence?
+
+the
+supreme
+court
+of
+canada
+clarified
+what
+constitutes
+defence
+delay
+in
+r
+v.
+cody:
+defence delay
+arises from a defence waiver or is caused
+solely by the conduct of defence.
+the only deductible defence delay under
+this component
+is,
+therefore,
+that
+which:
+1.
+i
+s
+solely
+or
+directly
+caused
+by
+the accused person; and
+2. flows from defence action that is illegitimate insomuch
+as
+it
+is
+not
+taken
+to
+respond
+to
+the
+charges.
+as
+we
+said
+in
+jordan, the most straightforward
+example is “deliberate and calculated defence tactics aimed at causing delay
+which include frivolous applications and requests (
+jordan, at para 63).
+similarly, where the court and crown are
+ready
+to
+proceed,
+but
+the
+defence
+is
+not,
+the
+resulting
+delay
+should
+also
+be deducted
+(
+jordan,
+at
+para
+64).
+these
+examples
+were,
+however,
+just
+that
+– examples.
+they
+were
+not
+stated
+in
+jordan,
+nor
+should
+they
+be
+taken
+now, as exhaustively defining deductible defence delay.
+again, as we made clear in
+jordan,
+it remains “open to trial judges to find that their other defence actions or
+conduct have caused delay” warranting a deduction (para 64).
+the
+determination of whether defence conduct is legitimate is “by no means an exact
+science” and is something that “first instance judges are uniquely positioned
+to gauge” (
+jordan, at para 65).
+it
+is highly discretionary,
+and
+appellate
+courts
+must
+show
+a
+correspondingly
+high
+level of
+deference thereto.
+while trial judges
+should take care to not second- guess steps taken by defence for the purposes
+of responding to the charges, they must not be reticent about finding defence
+action to be illegitimate where it is appropriate to do so.
+
+
+the crown submits
+that the 36-day period between december 16, 2024 to january 21, 2025 is delay
+that ought to be attributed to the defence.
+the
+first set of trial dates
+offered
+were
+december
+16-19,
+2024; the
+crown
+and mr.
+mask
+were
+available, mr. ellis's counsel and ms.
+mackay's counsel were not.
+the next
+set
+of dates offered were january
+21, 23, 24, and 28, 2025.
+both the
+applicant, mr. mask and the crown were available but ms. mackay’s counsel was
+unavailable.
+
+relying upon
+gopie,
+the defence argues that even if counsel for mr. ellis had been available for
+the first offered trial dates, those dates were not available for ms. mackay's
+counsel.
+therefore, the delay that
+was caused was not solely or directly caused by mr. ellis and ought not be
+characterized as defence delay.
+
+moreover,
+mr.
+ellis
+argues
+that
+trial
+scheduling
+did
+not
+begin
+until
+july
+17,
+2024
+due to
+delay
+caused
+by
+the
+co-accused.
+mr.
+ellis
+had
+taken
+steps
+to
+move
+proactively
+through the justice system and was ready
+to set trial dates months before the co-accused were
+ready.
+
+i agree with the submissions made
+by the applicant.
+on the record
+before me, counsel for mr. ellis was diligent
+and
+proactive in moving the
+matter forward on a timely basis.
+mr.
+mask's actions, or inactions, caused the delay in arriving at the date to
+finally set the trial date which was months after mr. ellis was prepared to set
+the date for trial.
+
+the unavailability of ms. mackay's
+counsel caused several months of delay
+in
+hearing the trial as evidenced from the trial scheduling form.
+counsel for ms. mackay was unavailable for
+the trial dates offered in december 2024, the dates offered in jan 2025,
+february 2025, and march 2025.
+the
+first date counsel for ms. mackay was available
+was
+in
+april
+2025.
+even
+if
+counsel
+for
+mr.
+ellis
+had
+been
+available
+for
+the
+dates offered
+in
+december
+2024,
+those
+dates
+would
+have
+still
+been
+unavailable
+to
+ms.
+mackay's counsel and the trial would not
+have been set
+to conclude within the
+jordan
+time frame. mr. ellis did
+not solely cause that delay.
+therefore,
+the 36-days between december 16, 2024 and january 21, 2025 will not be
+attributed to the defence.
+is
+this
+a
+complex
+case that
+would
+justify
+the
+delay?
+
+the
+crown
+argues
+that
+where
+the
+time
+to
+trial
+is
+above
+the
+18-month
+ceiling,
+it
+falls to
+the
+crown
+to
+show
+that
+the
+delay
+is
+reasonable
+because
+of
+the
+presence
+of
+exceptional
+circumstances.
+exceptional
+circumstances
+fall
+under
+two
+categories:
+1.
+discrete
+events and 2. particularly complex cases.
+
+in this case the crown submits
+that the decision to proceed jointly against co- accused
+is
+justified
+as
+an
+exceptional
+circumstance
+which
+added
+to
+the
+complexity
+of
+the
+proceeding.
+i agree with the crown
+when he submitted that there a
+re strong
+policy reasons for accused persons charged with offences arising out of the
+same event or series
+of
+events
+to
+be
+tried
+jointly.
+delays
+resulting
+from
+the
+fact
+that
+there
+are
+jointly charged
+accused
+are
+considered
+under
+the
+exceptional
+circumstances
+analysis.
+
+but the
+analysis
+does
+not
+end
+there.
+
+the
+scc
+in
+jordan
+cautioned
+that
+any
+portion
+of
+the
+delay
+that
+the
+crown
+and
+the
+system could reasonably have mitigated may not be subtracted.
+
+in
+this
+case,
+counsel
+for
+mr.
+ellis
+had
+proactively
+sought
+disclosure
+and
+conducted
+a crown pre-trial at an early stage.
+on
+march 18, 2024, counsel for mr. ellis indicated that
+she
+was
+ready
+to
+set
+a
+judicial
+pre-trial.
+the
+other
+two
+accused
+had
+not
+yet
+retained
+counsel.
+and mr. ellis' matter was
+adjourned; his matter was waiting for the other two accused
+to
+retain
+lawyers.
+on
+april
+9,
+2024,
+mr.
+ellis
+was
+again
+ready
+to
+set
+a
+date
+for
+a judicial pre-trial.
+the court was advised one of the accused
+had retained counsel while the
+third,
+mr.
+mask,
+had
+not
+retained
+a
+lawyer.
+the
+matter
+was
+adjourned
+to
+may
+7,
+2024.
+
+on may 7, the crown advised that
+mr. mask needed to have a crown pre-trial before
+the judicial pre-trial was set.
+the crown pre-trial was scheduled for may 21.
+the crown at that point suggested that the
+lawyers create an email chain with the trial coordinator to obtain a judicial
+pre-trial date.
+the matter was
+adjourned to june 11.
+
+during these
+weeks, counsel for mr. ellis communicated with the crown’s office suggesting a
+judicial pre-trial be scheduled with counsel.
+there had been difficulty in communicating
+with
+mr.
+mask
+as
+he
+indicated
+he
+didn't
+have
+email.
+the
+crown
+called
+him
+for his crown pre-trial but he did not answer his phone. counsel for mr. ellis
+proactively bought the challenges with mr mask to the attention of the crown
+via email during this time frame.
+in
+response to the concerns counsel had communicated over email, the crown’s
+office replied via email on june 5:
+the
+cpt
+was
+scheduled
+for
+may
+21
+st,
+but
+the
+accused
+did
+not
+answer
+and
+it
+does not appear that the cpt was rescheduled by the accused.
+no
+other
+suggestions
+or
+steps
+were
+taken
+by
+the
+crown
+to
+mitigate
+the
+delay
+being occasioned by the self-represented
+litigant.
+
+on june 11, mr. mask explained to
+the presiding justice of the peace the challenges he had been facing and his
+understanding of what was to occur.
+the
+court:
+you’re
+self-
+representing?
+michael
+mask:
+i
+don’t
+–
+my
+phone
+got
+stolen,
+and
+my
+disclosures,
+and
+my
+video,
+they
+give
+me
+the
+video
+stuff,
+and
+went
+all
+the
+way
+back
+to
+ajax
+to
+find
+out
+that
+you
+need
+a
+passcode.
+so
+it
+took
+me
+a
+week
+to
+get
+back
+here.
+and
+they
+gave
+it
+to,
+and when
+i
+went
+to
+sleep
+on
+the
+train
+to
+go
+home,
+someone
+grabbed
+my
+bag,
+my
+phone, so i missed my....
+the
+court:
+have
+you
+applied
+for
+legal
+aid?
+michael mask: don’t have a phone, can’t. i got a phone
+purposely just for this when i come....
+the
+court:
+what
+have
+you
+been
+doing
+in
+the
+last
+year?
+this
+–
+this
+didn’t
+happen yesterday. you had a year to obtain legal aid.
+michael
+mask:
+we’ve
+only
+been
+charged
+several
+months
+ago.
+the court: all right. so even – the – yes, the – the
+charges are for – from july – your first appearance was in - december the 5
+th, seven
+months. so this didn’t happen yesterday.
+michael
+mask:
+yeah,
+so
+they...
+the court: you’ve had...
+michael
+mask:...charged
+in
+december....
+the
+court:...seven
+months
+to
+apply
+for
+legal
+aid.
+so
+you
+just
+got
+a
+phone
+that’s got stolen, i’m sorry to hear that, but what have you been doing
+all of the other
+months?
+michael
+mask:
+well,
+i’ve
+been
+calling
+legal
+aid
+every
+second
+day
+and
+they don’t call you back. so, i just
+self-represent and just...
+the
+court:
+so,
+sir....
+michael
+mask:...go
+for
+it.
+the
+court:
+sir,
+with
+a
+great
+-
+great
+respect,
+that
+is
+absolute
+nonsense.
+nonsense.
+michael
+mask: they don’t have an office anymore, so i don’t know. i haven’t done
+this
+in
+a
+while,
+but
+–
+i
+thought
+i
+was
+supposed
+to
+come
+do
+a
+–
+some
+sort
+of
+a pre-trial today.
+
+
+the
+crown
+explained
+its
+position
+during
+this
+proceeding:
+m. larrett: your worship, ms. bezzina has not
+indicated yet - from my understanding, from both ms. goldlist and ms.
+stephenson’s offices, they have grave
+concern
+as
+mr.
+mask
+is
+essentially
+holding
+these
+matters
+up.
+a
+pre-trial
+was to be
+held may 21
+st, as an example, he was called by ms. ross, there was
+no answer, the voicemail doesn’t have any personal identifiers, so she’s unable
+to leave a voicemail....
+michael
+mask:
+no,
+today’s
+my
+pre-trial.
+that’s
+what
+i
+was
+told. the court:
+okay. it’s rude to talk...
+michael
+mask:
+sorry.
+the
+court:...over
+people. michael mask: sorry.
+m. larrett: there is no email that he’s left. the
+email the crown’s provided is “no email at no email dot com”. i know that email
+because i use that sometimes, myself, for superfluous junk mail. and in
+essence, counsel – senior counsel, goldlist
+and
+stephenson,
+are
+both
+ready
+to
+move
+for
+a
+joint
+pre-trial,
+a
+judicial,
+but yet mr. mask still has not had a
+crown pre-trial to be able to move this matter forward.
+these
+charges
+are
+seven-plus
+months
+old.
+the
+court
+is
+correct,
+the
+arrest date was in or
+around november with an offence from last year. and mr. mask is indicating that
+he’s been unable to hear from duty counsel – he’s been unable to hear
+from
+legal
+aid.
+as
+i
+indicated
+with
+the
+last
+matter,
+that’s
+great;
+there’s
+a
+form
+right
+here
+with
+phone
+numbers.
+there’s
+1-800
+numbers
+there
+on
+it,
+and
+there’s
+pay phones, including at the back at the end of the hall, your worship.
+i’m content to stand this matter down while mr. mask sorts out what he’s doing.
+the
+court:
+no,
+i’m
+putting
+it
+into
+a
+judge’s
+court.
+you
+can
+tell
+the
+judge
+why you haven’t been doing anything in the
+last seven months, and see if – if...
+michael
+mask:
+i
+just... the court:...his....
+michael
+mask:...want
+to
+represent
+myself
+and
+i... the court: yeah, okay. you can – you
+can do...
+michael
+mask:...thought
+today
+was
+supposed
+to
+be
+a
+pre-trial. the
+court:...whatever you want.
+
+the justice of the peace adjourned
+the matter into the judge-led case management court on june 26, 2024 without
+requiring the parties to schedule a judicial pre-trial.
+this decision just added to the delay in this case because when
+the parties returned
+to
+court
+on
+june
+26,
+2024
+in
+front
+of
+a
+judge,
+the
+parties
+were
+no
+further
+ahead.
+
+on june 26, 2024, the judge
+directed the parties to set a judicial pre-trial rather than
+continue
+to
+wait
+for
+the
+crown
+pre-trial
+to
+take
+place
+with
+mr.
+mask.
+the
+judicial
+pre- trial was conducted on july 9, 2024.
+the matter was adjourned to july 17, 2024
+to set 3.5
+days
+for
+trial.
+
+in
+my
+view,
+the
+time
+from
+march
+18,
+2024
+to
+june
+26,
+2024
+was
+a
+period
+of
+delay that ought to have
+been mitigated by the court and the crown.
+in
+this case, it was apparent
+to
+all
+that
+a
+judicial
+pre-trial
+was
+required.
+the
+ontario
+court
+of
+justice
+practice direction issued by chief justice nicklas effective november 1,
+2023 directs:
+15. if the parties anticipate that a judicial
+pre-trial is going to be required in a case, the
+parties should schedule the
+judicial pre-trial within four months of the information sworn date.
+a judicial pre-trial must be
+scheduled
+if
+substantial
+disclosure
+has
+not
+been
+received
+within
+four
+months
+of
+the
+information
+sworn
+date.
+if
+necessary,
+the
+parties
+can
+schedule
+the judicial
+pre-trial
+before
+the
+crown
+pre-trial
+has
+been
+conducted,
+if
+they undertake
+to
+conduct
+the
+crown
+pre-trial
+before
+the
+date
+of
+the
+judicial
+pre-
+trial.
+in this case,
+the purpose of the crown pre-trial was significantly diminished by the fact
+that the lawyers all recognized that a judicial pre-trial was required.
+mr. mask was struggling to manage as a
+self-represented litigant.
+he claimed he didn't have email. on
+june
+11,
+2024,
+the
+crown
+or
+the
+court
+could
+have
+simply
+directed
+that
+the
+judicial
+pre- trial date be set right then and
+there.
+there
+was no need to schedule the matter in front of a judge to then
+set a judicial pre-trial. once the matter reached the judge-led case management
+court, the requirement for a crown pre-trial was dispensed with and the
+judicial pre-trial was set.
+requiring
+a crown pre-trial to be conducted with mr. mask before setting a judicial
+pre-trial wasted 3-months of time.
+
+in
+my view, the crown
+and
+court had
+an
+obligation
+to
+move
+this
+matter forward in much more
+expeditious fashion and in accordance with chief justice nicklas’ practice
+directive.
+the
+decision
+to
+dispense
+with
+the
+requirement
+of
+a
+crown
+pre-trial
+for
+mr.
+mask
+is
+one
+that
+ought
+to
+have
+been
+made
+much sooner
+in the
+process.
+
+the facts before me are
+distinguishable from the facts in
+albinowski
+
+where the delay that ensued was the result of the
+collective actions of the defence.
+in
+albinowski, all the accused presented a united front as they moved
+through the system.
+that is not the
+situation with mr. ellis and his co-accused.
+
+i find that joint trials can make
+a matter more complex than a charge against a single individual.
+that challenge does not absolve the crown
+and the court of their responsibilities to ensure that the
+matter is moving expeditiously through
+the system. to the
+contrary,
+there
+was
+a
+positive
+obligation
+on
+the
+crown
+and
+court
+to
+mitigate
+any
+delay.
+
+in
+this
+case,
+there
+are
+no
+other
+aspects
+of
+this
+prosecution
+that
+would
+make
+this
+a
+complex case.
+
+i find that any delay occasioned
+because of the complexity of this prosecution does not justify the time that
+this matter has taken to reach trial.
+conclusion
+
+the delay is presumptively unreasonable.
+the application is granted.
+the applicant’s rights pursuant to
+section
+11(b)
+of the
+charter
+to be tried without reasonable delay have been
+breached and he is entitled to a remedy.
+
+in
+accordance
+with
+section
+24(1)
+of
+the
+charter,
+i
+impose
+a
+stay
+of
+proceedings
+of the charges against mr. ellis.
+released:
+february
+25,
+2025
+signed:
+justice
+amanda
+j.
+camara
+
+2016
+scc
+27
+(s.c.c.)
+
+r
+v.
+jordan,
+at
+para
+5
+
+r
+v.
+wookey,
+2021
+onca
+68
+at
+para
+3
+
+r
+v.
+coulter,
+2016
+onca
+704
+in
+paragraphs
+34-
+40
+
+r
+v.
+kalanj
+1989 canlii 63 (scc), 
+1
+s.c.r.
+1594
+at
+para
+16
+
+2022
+onca
+329
+at
+para
+35-
+43
+
+2017
+onsc
+2818
+
+2016
+bcsc
+2144
+
+2020
+oj
+no
+3518
+
+r
+v.
+cody,
+2017
+scc
+31
+at
+paras
+30-
+31
+
+2017 onca 728 (canlii), 2017
+oj
+no
+4963
+at
+para
+128-
+136
+
+gopie
+2017
+onca
+728
+at
+para
+142.
+
+jordan,
+para
+75
+
+june
+11,
+2024
+transcript
+of
+proceedings,
+pages
+2-
+3.
+
+june
+11,
+2024,
+transcript
+of
+proceedings
+pages
+3-
+4
+
+i
+do
+not
+have
+all
+the
+transcripts
+from
+mr.
+mask’s
+appearances
+but
+from
+the
+transcripts
+i
+do
+have
+it
+is apparent he was struggling to move his
+matter forward as a self-represented litigant.
+
+albinowski,
+2018
+onca
+1084

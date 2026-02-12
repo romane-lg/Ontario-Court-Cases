@@ -1,0 +1,353 @@
+source url: https://www.canlii.org/en/on/oncj/doc/2025/2025oncj184/2025oncj184.html
+
+citation:
+r. v. ibarra, 2025 oncj 184
+court
+file no.: 0611-998-61101652
+date:
+ march 14, 2025
+ontario
+court of justice
+central
+west region
+between:
+his
+ majesty the king
+—
+ and —
+javier ibarra
+heard before mr. justice richard h.k. schwarzl at
+orangeville on march 12, 2025
+reasons released on march 14, 2025
+mr.
+j. chaaya................................................................................. 
+for the crown / respondent
+mr.
+d. o’connor........................................................................... 
+for the defendant / applicant
+schwarzl,
+j.:
+ruling on s.11(b) charter
+application
+1.0: introduction
+[
+1.]
+the applicant,
+mr. javier ibarra, has brought an application alleging that his right to be
+tried within a reasonable time pursuant to
+section 11(b)
+of the
+canadian
+charter of rights and freedoms.
+if granted, he seeks a stay of the charges
+which are scheduled to proceed to trial before me on may 5 and 8, 2025.
+[
+2.]
+for
+reasons i will explain, the application is dismissed. in coming to this
+conclusion, i have relied on the transcripts, the information, the trial
+scheduling sheet, the application record, the crown response, the legal
+authorities provided to me, and the submissions of counsel.
+2.0: 
+analysis under the
+r. v. coulter,
+2016 onca 704
+framework
+[
+3.]
+information
+23-61101652 was sworn on november 20, 2023. the last day set for the 1.5-day trial
+is may 8, 2025. the total delay in this case
+536 days, or 17.6 months, which is below the presumptive
+ceiling
+set out
+in
+r.
+v. jordan,
+2016 scc 27.
+[
+4.]
+there were no
+express waivers by the defence.
+[
+5.]
+i assess defence
+caused delay as 103 days, or 3.4 months, based on the following chart:
+period
+reason &
+ transcript (by tab #)
+days
+february
+ 6 to february 15, 2024
+on
+ february 6, 2024 matter adjourned at defence request to february 15, 2024 for
+ possible guilty plea. (tab 4)
+9
+february
+ 15 to february 23, 2024
+crown
+ ready to proceed with plea. defendant decides to have a trial and requests
+ to adjourn to february 23 to set jpt. (tab 5)
+8
+february
+ 23 to march 1, 2024
+on
+ february 23, defence requested adjournment to march 1 to set jpt because
+ counsel not sure how to arrange a jpt. on march 1, jpt was set for march 11
+ with chaffe, j. (tab 6). trial estimate of 1.5 days was made. (see p. 3,
+ tab 14).
+15
+april
+ 24 to april 30, 2024
+on
+ march 11, 2024 jpt held. matter was adjourned to march 27 to set continuing
+ jpt. on march 27, continuing jpt fixed for april 24. on april 24, jpt not
+ held because defence asked to reschedule ongoing jpt to april 30. (tab 10)
+6
+may
+ 10 to may 17, 2024
+(conceded
+ by defence)
+on
+ may 10, request by defence for more time to schedule ongoing jpt because they
+ failed to do so prior to that day. over to may 17 to set continuing jpt (tab
+ 12). on may 17, continuing jpt set for june 20, 2024. (tab 13)
+7
+june
+ 20 to july 18, 2024
+on
+ june 20, 2024 jpt not held as defence trying to resolve. request by defence
+ adjourn to july 18 to meet tc to select tr dates. (tab 14)
+28
+july
+ 18 to august 7, 2024
+on
+ july 18, dates not set because counsel did not contact the tc until july 11,
+ 2024, thus insufficient time to have trial scheduling meeting before july
+ 18. defence requests adjournment to august 7 to set trial dates. (tab 15)
+21
+august
+ 7 to august 13, 2024
+on
+ august 7, counsel had not yet met with the tc and he requested an adjournment
+ to august to meet tc to select tr dates (tab 16). on august 16, trial dates
+ set for may 5 and 8, 2025. (tab 18)
+6
+may
+ 5 to may 8, 2025
+defence
+ turned down the first available date of december 30, 2023 meaning this case
+ could have completed on may 5, 2025, not may 8, had it taken. (trial
+ scheduling form).
+3
+total defence caused
+ delay
+103
+[
+6.]
+the net delay in
+this case is 433 days,
+or 14.2 months, which is under the
+jordan
+presumptive ceiling of 18
+months in the provincial court. as such, there is no need to consider any
+exceptional circumstances nor the complexity, if any, of the matter.
+[
+7.]
+in this case the
+total delay is below the presumptive ceiling and therefore there was no need
+for me to assess either net delay or remaining delay, including defence caused
+delay. however, the exercise was relevant to the assessment of whether the
+defendant has met his onus of demonstrating that the time to trial in this case
+was unreasonable.
+[
+8.]
+to succeed in a stay
+application where the delay is under the presumptive ceiling, an applicant must
+establish both of the following conditions. first, that he made a sustained
+effort to expedite the proceedings to trial. second, that the case took
+markedly longer than it should have. a stay of proceedings in cases falling
+beneath the presumptive ceiling will be granted only in the clearest of cases.
+[
+9.]
+with respect to the
+first condition, and upon hearing from counsel and reviewing the transcripts,
+the information, the correspondences in the application record, and the trial
+scheduling sheet, it would appear that:
+(a)
+following
+the first appearance in november 2023, the case seemed to be on track to
+resolve without a trial. to this end, a potential guilty was scheduled for
+february 15, 2024;
+(b)
+on
+february 15, 2024, the defendant did not plead guilty and decided to deal with
+the matter in two simultaneous, but distinct tracks. first, he wanted to
+pursue a trial. second, he also continued to negotiate a resolution to a
+reduced offence. in furtherance of these objectives, as well discussing a
+complaint about disclosure of the audio of a police video, a jpt was held on
+march 11, 2024.
+(c)
+at the
+pretrial held march 11, 2024, it appears the parties agreed the case would take
+1.5 days regardless of the outstanding disclosure.
+(d)
+despite
+the crown persistently urging the matter to be set down for trial, the defence
+only did so on august 16, 2024, some six months after the time estimate was
+made. the trial was set for 1.5 days, just as agreed to in the spring.
+[
+10.]
+between march and august
+2024, defence counsel spent much of this period trying to convince the crown to
+resolve the matter in a manner favourable to his client instead of setting the
+case for trial. he also sent numerous requests for disclosure for an
+unredacted copy of the investigating officer’s in-car camera. instead of
+setting the trial as soon as possible and continue his efforts at persuasion in
+the interim, he seemed content to exhaust all efforts to resolve before having
+to set the trial.
+[
+11.]
+in november 2023 the
+chief of our court issued the
+jordan
+-compliant scheduling practice
+direction. 
+it is designed to counter the “culture of complacency” in criminal matters
+lamented by
+the supreme court in
+jordan
+and ensure that a person’s right
+to trial within a reasonable time is respected. the direction represents a fundamental
+transformation of how criminal cases proceed in the ontario court of justice. being
+practice direction, counsel are professionally obligated to follow it and
+courts are responsible for enforcing it. counsel are dutybound to (a) inform
+themselves of all practice directions issued by the chief of the court and (b)
+adhere to those directions, whether they like it or not. this direction was
+in force as of november 1, 2023, and applied to the entire history of this
+case. given the duty of everyone to know and follow the direction, there was
+never a need to bring it to anyone’s attention at any point in the proceedings.
+[
+12.]
+one aspect of the
+direction is to set a trial date within six months of the charge being laid,
+even where (a) there are disclosure issues, (b) the parties are negotiating a
+resolution, or (c) both. i find the crown and court were ready to set a trial
+within six months but the defence was not.
+[
+13.]
+mr. ibarra took a
+more traditional, pre-direction approach by expending a great of energy in
+pursuing resolution instead following the direction by setting a trial and then
+working backwards from there to resolve it and/or address disclosure issues.
+mr. o’connor is an experienced, highly respected,
+and excellent lawyer who has been in practice for many years before our chief
+implemented a major shakeup of how we do business. mr. o’connor appeared to be
+content to deal with the case in the “old way” as he had been accustomed to for
+many years. while habits are hard to break and customs difficult to change,
+the
+jordan
+-compliant scheduling direction has effectively put a kibosh
+on this way of practice by every justice participant.
+[
+14.]
+examining the
+situation objectively, it cannot be said that the defence worked as
+expeditiously as was reasonable in the circumstances for the reasons just
+discussed. more to the point, i find that a trial date should have been set
+shortly after the march 11, 2024, pre-trial instead of doing so in august 2024. 
+this unnecessary delay resulted in a squandered opportunity to secure trial
+dates much earlier than those selected.
+[
+15.]
+additionally, the
+record demonstrates that counsel for the defence delayed the setting of jpts
+and the trial by stating that he was not familiar with the practice in
+orangeville. indeed, mr. o’connor said as much in his submissions but blamed
+what he called an unfamiliar and unnecessarily byzantine trial scheduling
+process in orangeville that requires parties to schedule jpt and trial dates
+through a trial coordinator. one could countenance that excuse being proffered
+once, but not more than that after being informed of what was expected.
+[
+16.]
+here, counsel was
+met with having to navigate the local scheduling process in early march 2024. at
+that point he knew or ought to have known how things work in dufferin county. in
+his submissions, mr. o’connor acknowledged that he “did not cotton onto” the local
+scheduling system until mid-july. unfortunately, counsel was not diligent to
+move the case forward because he did not readily educate himself or conform
+with local and long-established procedures, however arcane and inefficient he
+feels they are.
+[
+17.]
+the defence submits
+that the delay in setting the trial came in no small measure from unanswered
+complaints about disclosure. i respectfully disagree because:
+(a)
+it turns out these
+complaints about disclosure had no impact on either the trial estimate or when
+the trial could reasonably be scheduled;
+(b)
+given that the determination of disclosure
+issues is ultimately the purview of the trial judge, the defendant should have
+set trial dates as soon as possible and set a disclosure hearing if he was
+unhappy with the responses (or lack thereof) of the crown; and
+(c)
+in this case, the defendant was given
+substantial core disclosure at the very earliest of dates. all defendants are
+entitled to full, but not perfect, disclosure. he was aware of the case he had
+to meet early on, and he does not appear to have been prejudiced by the absence
+of complete disclosure prior to setting the trial. in submissions, it was
+acknowledged that the defence received the unredacted in-car video in march
+2024 which means that outstanding disclosure was not an impediment to setting
+trials dates sooner than they did.
+[
+18.]
+taking a
+bird’s eye view as i must, i find that on the record before me that the defence
+did not make sustained efforts to bring the matter to trial for the reasons i
+described. as a result, he has not met his onus on the first condition to be
+satisfied by him. consequently, his application to stay the proceeding fails.
+[
+19.]
+if i am
+wrong on my assessment of the first condition, this case did not take longer (let
+alone “markedly” so) than it reasonably should have in the circumstances. it is
+a simple 1.5-day drink/drive trial, and had it been set shortly after the time
+estimate was made in march 2024 it is very likely that it would have been
+completed well before may, 2025. given my finding that the remaining delay in
+this case is just over 14 months, this is well within the acceptable scheduling
+parameters for the ontario court of justice and significantly under the
+jordan
+presumptive ceiling. as a result, the defendant has not met his onus on the
+second condition and the stay application must be dismissed on this basis.
+[
+20.]
+even if i am wrong
+on both points, this is not the “clearest of cases” in which a stay should be
+entered given the situation as i have assessed because the crown and the court
+did nothing to stymie the applicant’s access to timely justice.
+[
+21.]
+the application
+dismissed. parties shall appear for trial commencing on may 5, 2025, at 10:00
+a.m. in orangeville courtroom 101.
+_______________________________
+richard
+h.k. schwarzl,
+justice
+of the ontario court of justice
+
+as per
+r. v. shaikh,
+2019 onca 895
+at
+para.
+33,
+the total delay is calculated in
+months by dividing the total number of days by 30.417.
+
+total delay of 536 days minus defence
+caused delay of 103 days.
+
+https://www.ontariocourts.ca/ocj/notices/jordan-compliant-trial-scheduling/

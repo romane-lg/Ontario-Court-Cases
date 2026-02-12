@@ -1,0 +1,716 @@
+source url: https://www.canlii.org/en/on/oncj/doc/2025/2025oncj99/2025oncj99.html
+
+warning
+the court hearing this matter directs that the following notice be
+attached to the file:
+a
+non-publication and non-broadcast order in this proceeding has been issued
+under
+subsection 486.4(1)
+of the
+criminal code.
+this subsection and
+subsection 486.6(1)
+of the
+criminal code,
+which is concerned with the
+consequence of failure to comply with an order made under
+subsection 486.4(1),
+read as follows:
+486.4 order
+restricting publication
+— sexual offences.
+— (1) subject to subsection (2), the presiding judge or justice
+may make an order directing that any information that could identify the victim
+or a witness shall not be published in any document or broadcast or transmitted
+in any way, in proceedings in respect of
+(
+a
+) any
+of the following offences:
+(i) an
+offence under section 151, 152, 153, 153.1, 155, 160, 162, 162.1, 163.1, 170,
+171, 171.1,172, 172.1, 172.2, 173, 213, 271, 272, 273, 279.01, 279.011, 279.02,
+279.03, 280, 281, 286.1, 286.2, 286.3, 346 or 347, or
+(ii) any
+offence under this act, as it read from time to time before the day on which
+this subparagraph comes into force, if the conduct alleged would be an offence referred
+to in subparagraph (i) if it occurred on or after that day; or
+(
+b
+) two
+or more offences being dealt with in the same proceeding, at least one of which
+is an offence referred to in paragraph
+(a).
+(2)
+mandatory
+order on application
+— in proceedings in respect of the offences referred
+to in paragraph (1)(
+a
+) or (
+b
+), the presiding judge or justice
+shall
+(
+a
+) at
+the first reasonable opportunity, inform any witness under the age of eighteen
+years and the victim of the right to make an application for the order; and
+(
+b
+) on
+application made by the victim, the prosecutor or any such witness, make the
+order....
+486.6 offence
+— (1) every person who fails to comply with an order made under any
+of
+subsections 486.4(1)
+to (3) or subsection 486.5(1) or (2) is guilty of an
+offence punishable on summary conviction.
+ontario court of justice
+citation:
+r. v. collinge, 2025 oncj 99
+date: 
+2025 02 24
+court
+file no.: brampton (central west) 23-31106771
+between:
+his majesty the king
+— and —
+shawn collinge
+before
+justice a. neil singh
+heard
+on september 23-25, 2024 & january 22, 2025
+reasons
+for judgment released on february 24, 2025
+gregory hendry.................................................................................. counsel
+for the crown
+alan sobcuff...................................................... counsel
+for the accused shawn collinge
+contents
+introduction..
+3
+factual background..
+3
+discussion..
+6
+issue #1 – the relevant inquiry is
+who mr. collinge believed he was communicating with, not who he was actually
+communicating with.
+6
+analysis and discussion.
+7
+issue #2 – mr. collinge had the
+required state of mind regarding h.o.’s age when he communicated to her
+8
+analysis & discussion..
+9
+conclusion..
+11
+singh j.:
+introduction
+
+shawn collinge is charged with three child
+luring offences. it is alleged that between april 1, 2023, and april 4, 2023,
+he:
+1.
+communicated with h.o., a person under the age
+of 16 for the purpose of facilitating the offence of sexual interference
+contrary to
+s.172.1(1)
+(b) of the
+criminal code;
+2.
+communicated
+with h.o., a person under the age of 16 for the purpose of facilitating the
+offence of invitation to sexual touching contrary to
+s.172.1(1)
+(b) of the
+criminal code; and
+3.
+communicated
+with h.o., a person under the age of 18 for the purpose of facilitating the
+offence obtaining sexual services for consideration contrary
+to
+s.172.1(1)
+(a) of the
+criminal code.
+
+much of the case against him was conceded when
+mr. collinge testified in his own defence. there are two principal issues that
+i need to determine in coming to a verdict in this case. they are (1) does it
+matter that mr. collinge may have been unknowingly communicating with mr. s.l. when
+the information specified that the prohibited com­munication was with h.o.?; and
+(2) did mr. collinge have the required state of mind to for a finding of guilt
+when he testified that he believed h.o. was 18-20 years old, and not 14?
+
+these reasons explain that my answer to issue #1
+is no. my answer to issue #2 is yes. i find mr. collinge guilty of the three
+offences before the court. these are my reasons.
+factual background
+
+much of the factual background in this matter is uncontested. mr.
+collinge acknowledged most of it in his testimony.
+
+on april 1, 2023, mr. collinge contacted h.o. on facebook messenger. his
+username was “shawn collinge.” his profile picture was of him.
+
+h.o. is a real person. she was 14 years-old at the time.
+
+h.o. replied to mr. collinge asking if she knew him. from there, over
+the next few days the chat devolved into an explicit conversation with mr.
+collinge propositioning h.o. sexually. the facebook messenger chat was entered
+as an exhibit on the trial. i will review and summarize some important aspects
+of the chat.
+
+mr. collinge and h.o. discuss their ages.
+•
+in the chat, h.o. tells mr. collinge that she is 14 in three
+separate messages. mr. collinge tells h.o. he is 36.
+•
+mr. collinge tells h.o. he is ok with her being 14.
+•
+during the portion of the recorded phone call / video chat, h.o.
+asks mr. collinge if he’s ok with the fact that she is 14. mr. collinge
+responds that he is if she is.
+
+mr. collinge and h.o. also have discussions that
+are relevant to h.o.’s age.
+•
+early in the conversation, mr. collinge tells h.o. that she is
+very cute – an indication that he has seen what she looks like.
+•
+at one point when mr. collinge asks h.o. if she’s busy, h.o.
+responds by saying that she’s busy with her family and that “my mommy is going
+shopping with me.”
+•
+when mr. collinge initially asks if h.o. wants to meet “this
+saturday” she tells him she wants to meet and her “parents won’t be home this
+weekend.”
+•
+h.o. asks mr. collinge if he’d like her to bring a friend to
+their meeting. when h.o. asks how old her friend should be, and suggests 12-17
+years old, mr. collinge responds 18-17. when h.o. asks why, his response was
+because h.o. was “young enough.”
+•
+during their discussions about meeting up, h.o. tells mr.
+collinge that her parents are home almost every day, and it would be hard to
+meet unless mr. collinge picks her up or they meet at a park.
+•
+mr. collinge asks h.o. if she wants him to come in her bedroom
+when her parents are not home.
+•
+mr. collinge after the recorded phone/video chat tells h.o. “i
+know you don’t want your dad knowing about us right babe, because we are a
+secret relationship.”
+
+the conversations, including the texts and the
+recorded call/video chat include sexually explicit content.
+•
+mr. collinge first suggests giving h.o. a foot massage. he tells
+her he wants her feet in his lap.
+•
+he then says he wants a footjob.
+•
+mr. collinge asks h.o. if she made her boyfriend cum with her feet.
+•
+mr. collinge asks h.o., “will you do a footjob on me and make me
+cum”?
+•
+mr. collinge tells h.o. “i want to go inside you”
+•
+mr. collinge asks h.o., “wanna squeeze my cock with your red toes
+to stiffen it up”?
+•
+mr. collinge says to h.o. “i hope your toes and heels are
+extremely red and super sweaty”
+•
+mr. collinge then says, “i love when a girl makes me cum with her
+sexy feet.”
+•
+he says to h.o. “if my hard cock goes inside you i want you to
+push it further inside with your feet.”
+•
+and later, “i hope you like guys with a serious foot fetish”
+•
+then, “how long does it take for you to make your boyfriend cum
+with your hot and sexy red toes and red heels during a footjob”
+•
+followed by, “i bet you love that hard cock after jerking it off
+with your feet.”
+•
+the last message captured from mr. collinge to h.o. reads, “babe
+how long can you jerk off my cock without stopping to make my body shake and
+eyes roll.”
+•
+in the recorded call, mr. collinge mentions doing “vaginal” with
+h.o. he confirmed it takes her 20 minutes to make the guy cum and that she
+keeps going after. he also asked her if anything sticky goes on her feet when
+she makes a guy cum with her feet.
+
+regarding the obtaining of sexual services for
+consideration, the following communications are captured.
+•
+h.o. offers mr. collinge “pussy pics” in
+exchange for $30.
+•
+when mr. collinge tells h.o. that he wants to
+“go inside” of her, she responds by telling him to “send me some money come see
+me tonight.”
+•
+h.o. then asks for $40. mr. collinge says he
+wants to meet her first and “bang” h.o. “soo hard.” h.o. tells mr. collinge
+that he must “pay” her to “see her.” in response, mr. collinge asks if “that
+includes the works and footjob.” mr. collinge confirmed in cross-examination
+that the “works” possibly means sexual intercourse.
+•
+h.o. tells mr. collinge that she’s 14 and needs
+money. she said $40 plus $60 for her body if he wanted to “fuck” her. h.o. then
+tells mr. collinge, “pay me or nothing.” mr. collinge’s response: “i agree.”
+
+mr. collinge made efforts to meet up with h.o.
+the following texts were captured in the facebook chat:
+•
+mr. collinge asks h.o. if she wants to meet up.
+at first, it is just a coffee shop. then there are discussions about meeting at
+a park. mr. collinge asks, “which park should we meet at on saturday?”
+•
+throughout their discussions on this topic, they
+discuss meeting on saturday. h.o. suggests that either mr. collinge picks her
+up or they meet at a park. mr. colling asks about what park is near where she
+lives, and h.o. and mr. collinge discuss the location of a park near where she
+lives.
+
+mr.
+collinge testified that he sent the messages that were captured by h.o. and provided
+in evidence. he also confirmed that it was him who participated in the recorded
+phone call with h.o.
+
+mr.
+collinge confirmed several important pieces of information in his testimony.
+they include:
+1.
+that he communicated to h.o. that he wanted to
+penetrate her vaginally with his penis.
+2.
+that he wanted to go into her bedroom and have
+sex with her.
+3.
+that he let h.o. know that she could make his
+erection harder by squeezing it with her feet.
+4.
+that he invited her to squeeze his cock with her
+feet.
+5.
+that he was trying to get h.o. to make him cum
+with her feet
+6.
+that much of the texts communicated his
+intention to have sexual relations with h.o.
+7.
+that he was willing to pay h.o. for her sexual
+services, and that was his intention at the time he sent the messages.
+8.
+that at the time he sent the messages, he wanted
+to do these things with h.o., but then changed his mind.
+9.
+in fact, everything he said to h.o. represented
+his intentions at the time he sent the messages or said what he said
+discussion
+issue #1 – the relevant
+inquiry is who mr. collinge believed he was communicating with, not who he was
+actually communicating with
+
+counsel
+for mr. collinge argued that the information is particularized to allege that
+he committed the three offences by communicating with h.o. the defence argues
+that this problematic because the evidence established that mr. collinge may
+have been communicating instead with mr. s.l., h.o.’s friend at the time.
+
+in her examination in chief, h.o. stated that she sent some of
+the messages and mr. s.l. sent some. this was clarified in her
+cross-examination. h.o. stated that she was the driving force behind the
+messages. she was not being directed by mr. s.l. she clarified that there were
+a couple times that he told her what to say when she didn’t know what to say,
+but that it was “my free will.” h.o. confirmed that a couple messages were sent
+by mr. s.l. when she went to the bathroom. ultimately, she conceded that the
+messages could have been a 50/50 split between her and mr. s.l. indeed, she
+went so far as conceded that upwards of 90% of the messages could have been
+sent by mr. s.l.
+analysis and discussion
+
+the
+elements of the offence of child luring are (1) an intentional communication by
+computer; (2) with a person who is
+or
+who the accused believes is
+underage; and (3) for the specific purpose of facilitating the commission of an
+enumerated secondary offence with respect to that person.
+
+the
+purpose of the child luring provisions of the
+criminal code
+is to “shut the
+door on predatory adults, who generally for a sexual purpose, troll the
+internet for vulnerable children and adolescents.
+
+
+regarding
+the recipient of the communication, the ontario court of appeal, in
+r v.
+alicandro,
+has provided guidance regarding the importance of age. the court
+stated that the age of the person
+to whom
+(
+emphasis added
+)
+the communication is made, or the accused’s belief as to the age of that
+person, is also a part of the conduct prohibited by the offence. if the person
+to
+whom
+(
+emphasis
+added
+) the communication is made
+is under 14 years of age, his or her age is a condition or circumstance that
+must be proven by the crown to complete the actus reus.
+
+
+the
+use of the phrase “to whom” the communication is made is important. it makes
+clear that the analysis on the second element of the offence is focused on who
+the accused believes they are (and intends on) speaking to, regardless of who
+the ultimate recipient is.
+
+indeed,
+the law has clearly demonstrated that when an accused person communicates with an
+undercover officer, where they believe the undercover officer to be a person
+under the age of 16, they are not absolved of criminal liability.
+
+it
+would be absurd that an accused could escape criminal liability where they have
+committed the act in question, with the required frame of mind, solely because
+the recipient of the message might be someone other than their intended one, a
+factor completely outside of the accused’s control. this defies common sense
+and cannot be the law.
+
+the
+supreme court of canada unanimously found that the offence can be made out by a
+single message.
+this means that for the offence, to be made out, it does not require a response
+from the recipient. therefore, the actual recipient of the message is
+immaterial to the analysis of criminal liability. for example, if mr. collinge
+sent a single message to h.o. (who was under 16) that made out the offences,
+and it were received by her parent or guardian without a response, he could not
+escape criminal liability because h.o. did not personally receive the message.
+if all other elements of the offence were established by the crown to their
+burden of proof, he would be guilty.
+
+i
+find that it does not matter whether it was h.o or mr. s.l. who sent the
+messages to mr. collinge. to assess criminal liability, what matters are mr.
+collinge’s actions and intentions. in other words, who did mr. collinge believe
+he was communicating with, and intending on communicating with?
+
+i
+find as a fact, however, that h.o. was the driving force behind the messages.
+she stated clearly that she sent the messages through her own free will, and
+that it was only a couple messages that were sent by mr. s.l., and a couple
+others where he helped her with what to say. while h.o. conceded in
+cross-examination that mr. s.l. could have sent upwards of 90% of the messages,
+i find that the entire evidentiary record establishes that she sent most of the
+messages.
+•
+h.o. stated initially that she sent the vast majority of the
+messages. she also stated that when she received help in crafting messages, she
+ultimately decided to send them with her own free will.
+•
+that mr. s.l. sent some messages when she was in the bathroom does
+not detract from this.
+•
+in addition, it is clear from the recorded call and the sexually
+explicit content in them that h.o. was aware of and involved in the earlier
+discussion about sex, footjobs, and paying for sexual services.
+
+it is clearly h.o. and mr. collinge who are
+communicating in the recorded call.
+
+the evidence overwhelmingly establishes that mr.
+collinge believed he was communicating with h.o. who was 14 years old at the
+time. i find that mr. collinge specifically intended to communicate with h.o.
+when he sent the messages. i also find that h.o. was 14 years old at the time.
+i reject the defence argument.
+issue #2 – mr. collinge
+had the required state of mind regarding h.o.’s age when he communicated to her
+
+mr.
+sobcuff, on behalf of the defence, argues that mr. collinge honestly believed
+that h.o. was over the age of 18. mr. sobcuff asserts that, in the
+circumstances before me, the court should find that mr. collinge took
+reasonable steps to ascertain h.o.’s age. mr. collinge should therefore be
+acquitted upon the court’s finding that he took those reasonable steps.
+
+the
+crown urges the court to reject mr. collinge’s evidence in this regard. mr.
+hendry argues that the evidentiary record establishes that mr. collinge
+believed h.o. to be 14 years old. alternatively, the crown argues that mr.
+collinge failed to take reasonable steps to determine h.o.’s age. further, in
+this case, where the alleged victim is an actual person under the age of 16
+years old, the crown submits that the court can find mr. collinge guilty based
+on his recklessness as to h.o.’s age.
+
+analysis &
+discussion
+
+mr.
+collinge testified that he believed h.o. to be somewhere in the range of 18 to
+20 years old. mr. collinge testified it was his belief that to be registered on
+facebook, a user had to be at least 18 years old. he obtained this belief from
+doing research on facebook and trying to read their guidelines. it is on this
+basis that mr. collinge believed that h.o. to be above 18 years old.
+
+i
+do not accept this evidence. i find that mr. collinge lied to the court. i come
+to this conclusion for several reasons.
+1.
+when asked by his counsel why he thought people
+had to be over the age of 18, mr. collinge testified that he had several
+experiences in the past where people lied about their ages.
+2.
+mr. collinge testified that he knew people would
+make fake accounts. mr. collinge knew when he was communicating with h.o. that
+people on the internet engage in catfishing,
+where they pretend to be someone entirely different.
+3.
+mr. collinge testified that he had been tricked
+many times before by people online.
+
+with this knowledge and experience, there is no
+logical reason to believe that mr. collinge would accept that people on
+facebook are 18 years or older. he knows this, as a fact, not to be the case.
+he has had several experiences on facebook where people were pretending to be
+something other than they were. he knows that people on the internet lie about
+their identities, and their age.
+
+mr.
+collinge’s evidence about reporting h.o.’s profile also makes no sense. he
+testified that he tried to report the profile, but never received any feedback.
+mr. collinge stated that he tried to tell facebook that h.o. was trying to scam
+him for money. he also tried to tell them that he believed she was 19 or 20,
+but she was saying she was 14 years old and putting down a year of birth of 2006
+(making her 16 years old).
+
+i
+find that mr. collinge lied about this. i come to this conclusion due to a
+glaring internal inconsistency in his evidence. while h.o. testified that she
+may have registered 2006 as her year of birth with facebook (making her 16
+years old), mr. collinge’s evidence on this point is telling. at numerous
+points throughout his testimony, mr. collinge stated that he never saw a date
+of birth on h.o.’s profile. it would therefore be impossible for mr. collinge
+to notify facebook about her fake year of birth were this the case.
+
+interestingly,
+mr. collinge’s testimony that he tried to notify facebook about the year of
+birth, completely undermines his purported belief that users need to be 18
+years and above to be on facebook. if facebook prohibits people under the age
+of 18 from participating on their platform, why would h.o. be permitted to put
+2006 as her year of birth? h.o. would have at least had to have had a year of
+birth in 2004 or earlier to comply with the guidelines mr. collinge believed
+were in place.
+
+finally,
+when asked by his counsel about who he communicated with on facebook back in
+2023, mr. collinge stated that he’d
+mainly
+(emphasis added) try
+to communicate with people 18 years old and above, but not underage. he stated
+this was because underage is against the law and not the right thing to do.
+
+the
+fact that mr. collinge stated that he’d mainly try to communicate with people
+18 years or older, his evidence on this point makes it clear that he knew there
+were people under 18 years old on the platform. it is also evident from this
+evidence, that he had previously communicated with people under the age of 18
+on facebook. this completely undermines his evidence that he believed you
+needed to be at least 18 to be on facebook.
+
+mr.
+collinge knew there were underage people on facebook. he knew people lied about
+their identity and their age. he had been tricked several times in the past. he
+knew to be cautious about these things. there is no sensible or defensible
+reason to accept his evidence. i reject it and find, as a fact, that he lied to
+the court.
+
+having
+rejected his evidence on this point, i find that mr. collinge knew and believed
+h.o. to be 14 years old.
+
+if
+i am wrong in my conclusion that mr. collinge knew and believed h.o. to be
+under 16 or 18 (as the relevant counts allege), i find that mr. collinge did
+not only fail to take reasonable steps to ascertain h.o.’s age, but he took
+absolutely no steps. the following are reasons why i (i) find mr. collinge knew
+/ believed h.o. to be under 18/16, and (ii) why i find that he took no
+reasonable steps in the alternative.
+1.
+based
+on my reasoning above, i find that it was completely unreasonable to think that
+h.o. was 18. she never stated she was 18. mr. collinge never observed anything
+that told him she was 18.
+2.
+h.o.
+stated on numerous occasions, both over text and on the recorded call that she
+was 14 years old. mr. collinge, indicated on numerous occasions, he was ok with
+the fact that she was 14 years old.
+3.
+the
+specific content in the messages between the mr. collinge and h.o. make it
+clear that she is underage, or at the very least, mr. collinge believed h.o. to
+be a child. for example,
+•
+h.o. telling mr. collinge that her parents won’t be home this
+weekend when he tries to set up a meeting with her “this saturday.” h.o. makes
+several references to her “parents” in the texts.
+•
+mr. collinge told h.o. she was “young enough” when he asked why
+she wanted him to bring a 17- or 18-year-old to their meet up and not someone
+younger.
+•
+mr. collinge asks h.o. if she wants him to come in her bedroom
+when her parents are not home.
+•
+mr. collinge after the recorded phone/video chat texted h.o. “i
+know you don’t want your dad knowing about us right babe, because we are a
+secret relationship.”
+
+these factors, in addition to h.o. repeatedly
+stating she was 14, make it very clear that h.o. was underage, or at the very
+least, that mr. collinge should have been concerned about that were he truly not
+interested in engaging in sexual conduct with a minor. in fact, the messages demonstrate
+that mr. collinge knew and believed h.o. to be the age she professed, 14. in
+the face of this evidence, to do nothing, and simply assume everyone on
+facebook is over 18 is completely unreasonable.
+
+any reliance that mr. collinge’s placed on his
+purported belief that h.o. was 18 was objectively unreasonable in the
+circumstances. as he stated in cross-examination, he simply assumed she was. the
+evidentiary record makes clear that mr. collinge did not take any steps to
+ascertain h.o.’s age in the face of clear and compelling evidence that h.o. was
+14 years old.
+conclusion
+
+the crown has proven their case. there is no reasonable doubt. while
+mr. collinge was neither a reliable nor credible witness, i accept his
+admissions to the court regarding his conduct. i do so because they come in the
+face of significant, compelling confirmatory evidence.
+
+specifically,
+i find that:
+1.
+mr.
+collinge communicated with h.o.
+2.
+h.o.
+was 14 years old at the time.
+3.
+mr.
+collinge knew and believed h.o. was 14 years old based on her telling him.
+4.
+mr.
+collinge directed communications to h.o. through facebook messenger.
+5.
+mr.
+collinge spoke directly to h.o. on the recorded audio/video call.
+6.
+all
+the communications were telecommunications within the meaning of
+s.172.1
+of the
+criminal code.
+7.
+mr.
+collinge wanted to have vaginal intercourse with h.o. as he testified, that was
+his intention at the time he sent the messages and otherwise communicated with
+her.
+8.
+mr.
+collinge wanted to invite h.o. to touch his penis with her foot. as he
+testified, that was his intention at the time he sent the messages and
+otherwise communicated with her.
+9.
+mr.
+collinge wanted and agreed to pay h.o. to obtain her sexual services. i rely on
+the texts where mr. collinge asks what his payment would include (“the works
+and footjob”). i also rely on the fact that when h.o. tells him she needs $40
+plus $60 for her body if he wants to fuck her, and that she’ll do a “hook up”
+with him for $100, and then she says, “pay me or nothing” mr. collinge
+responds, “i agree.” as he testified, these were his intentions at the time he
+sent the messages and otherwise communicated with h.o.
+10.
+mr.
+collinge’s specific purpose in communicating with h.o. was to facilitate the
+commission of a number of secondary offences.
+•
+with respect to count #1, mr. collinge communicated with h.o.
+with the specific purpose of facilitating the commission of the offence of
+sexual interference. he did so in communicating with h.o. for the specific
+purpose of trying to facilitate sexual intercourse and a footjob with her.
+•
+with respect to count #2, mr. collinge communicated with h.o.
+with the specific purpose of facilitating the commission of the offence of
+invitation to sexual touching. he did so in communicating with h.o. for the
+specific purpose of inviting her to touch his penis with her feet.
+•
+with respect to count #3, mr. collinge communicated with h.o.
+with the specific purpose of facilitating the commission of the offence of
+obtaining sexual services of a person under 18 for consideration. he did so by
+engaging in communications and agreeing to pay h.o. for her sexual services.
+
+mr. collinge will be found guilty as charged on all three counts
+before the court. my thanks to counsel.
+released: february
+24, 2025
+signed:
+justice a. neil singh
+
+r v. levigne,
+2010 scc 25
+at
+para
+23;
+r v. morrison,
+2020 onca 343
+at para
+43.
+
+r v. levigne,
+supra at para
+2.
+
+2009 onca 133
+at para
+30
+
+r v. morrison,
+supra at para
+146
+and 182
+(on this issue, moldaver j. spoke for the majority. karakatsanis j.
+concurred. abella j. dissented in part, but unrelated to this aspect of the
+analysis).
+
+see
+r v. fox,
+2022 onca 674
+at
+paras
+19-37.
+
+“catfishing”
+is defined by
+merriam-webster dictionary as “to deceive (someone) by creating a false
+personal profile online.”
+https://www.merriam-webster.com/dictionary/catfish

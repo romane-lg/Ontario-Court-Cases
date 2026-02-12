@@ -1,0 +1,791 @@
+Source URL: https://www.canlii.org/en/on/oncj/doc/2025/2025oncj567/2025oncj567.html
+
+ONTARIO COURT OF JUSTICE
+CITATION:
+R. v. Sabourin
+, 2025 ONCJ 567
+DATE: 
+2025 10 20
+COURT
+FILE No.:  Cornwall 24-39101606
+BETWEEN:
+HIS
+MAJESTY THE KING
+— AND
+—
+Marcel SABOURIN
+Before
+Justice J.R. Lalande
+Heard
+on Sept 10-11, 2025
+Reasons
+for Judgment released on October 20, 2025
+B. Underwood..................................................................................... counsel
+for the Crown
+I. Paul.....................................................................  
+counsel for the accused Mr. Sabourin
+Lalande J.:
+Overview
+[
+1
+]
+Mr. Sabourin is charged with one count of assault, contrary to
+s. 266
+of
+the
+Criminal Code
+. The allegation stems from an incident in the complainant’s
+home on June 9, 2023. The matter proceeded to trial on September 10 and 11,
+2025. The central issues are credibility and whether the Crown has proven an
+intentional application of force.
+[
+2
+]
+The complainant, Ms. Linda Lappan, was the sole witness for the
+prosecution. Photos of the injury to Ms. Lappan’s left breast were filed under
+seal. The Crown also filed an audio recording taken by the complainant a short
+while after the alleged assault, which captures her arguing with the accused
+about the events in question.
+[
+3
+]
+Mr. Sabourin testified in his own defence and submitted a photo of his
+television remotes and cellular phone as an exhibit.
+[
+4
+]
+On October 1
+st
+, 2025, I requested additional submissions from
+counsel. The submissions were filed in writing and addressed two issues: (1)
+Whether the “intentional application of force” as defined in section 265(1)(a)
+could be established on the basis of recklessness; and (2) Mr. Sabourin’s
+apparent statement on the recording where he says, “I’m drunk” or “I’m a
+drunk”. This statement had not been addressed by either party in evidence or
+submissions. At trial, the complainant testified that the accused was drinking
+at the time of the confrontation. Mr. Sabourin denied drinking.  The parties agree
+that the statement as to the accused being drunk ought not to be considered or
+given “much weight” as it was not referred to or put to the accused.
+Facts
+[
+5
+]
+The complainant and accused were involved in a relationship for some
+years. The accused moved in with her in the fall of 2019. By the spring of
+2023, the relationship had deteriorated. Mr. Sabourin was expected to move out
+of the residence but taking longer than planned. As he explained in evidence,
+he had been to a funeral out of the country days before the incident in
+question and was working to establish temporary accommodations while he shopped
+for a house.
+[
+6
+]
+According to the complainant, a dispute occurred between the parties on
+June 9, 2023. Ms. Lappan had arrived home from work around 7pm. She had an argument
+with the accused and described him to be name-calling and verbally abusive. At
+around 930pm, Mr. Sabourin was in bed in an upper-level bedroom and the parties
+were arguing with one another from a distance. Ms. Lappan entered the bedroom.
+She testified that she intended to grab the television remote to turn the
+volume down so that she could tell Mr. Sabourin to leave the residence. During
+the dispute, the accused is alleged to have lunged at the complainant while
+attempting to retrieve the device in her hand. In doing so, he allegedly
+grabbed and twisted her left breast, causing bruising. He is also alleged to
+have pushed her into a nearby wall.
+[
+7
+]
+Mr. Sabourin claims that the complainant barged into the room and seized
+his phone while he was in bed. He maintains that any physical contact between
+them was incidental to his efforts at retrieving his phone which the
+complainant had clutched to her chest. While Mr. Sabourin acknowledges that he
+was involved in the altercation, he denies any intention to apply force to Ms. Lappan’s
+person. Instead, he testified that he was simply grabbing at the object in her
+hand. Mr. Sabourin explained that his hand got caught in her top while he was
+grabbing at his phone. He agreed in cross-examination that this may have caused
+the bruising on her chest. He adamantly denied pushing her into the wall.
+Legal Principles
+Generally
+[
+8
+]
+An accused person is presumed to be innocent.  The onus is on the Crown
+to prove the charges against the accused beyond a reasonable doubt. That onus
+never shifts.  An accused person is not required to testify or to call any
+evidence, nor is he obligated to explain anything.
+[
+9
+]
+To succeed in gaining a conviction, the Crown must prove the specific
+charges beyond a reasonable doubt. This is a heavy standard, designed to
+prevent the conviction of innocent persons.
+[
+10
+]
+A
+reasonable doubt has been defined as one that is not based on sympathy or
+prejudice but logically connected to the evidence or absence of evidence. It
+has also been described as not being an imaginary or frivolous doubt.
+[
+11
+]
+It
+is not enough to convict, for a trial judge to conclude that accused persons
+are probably guilty. Nor is it necessary that their guilt be proved to an
+absolute certainty:
+R. v. Lifchus
+(1997),
+1997 CanLII 319 (SCC)
+, 9 CR (5th) 1 (SCC). The
+standard beyond a reasonable doubt is much closer to a certainty, however, than
+it is to the balance of probabilities measure:
+R v Starr
+2000 SCC 40 (CanLII)
+, [2000] 2 SCR
+144.
+Evaluation of Evidence
+[
+12
+]
+A
+Court may accept all, some or none of a witness’ evidence. In determining
+which, if any portions, to accept, a trial judge must evaluate the credibility
+and reliability of a witness’ evidence. Of course, the same level of scrutiny
+is to be applied to all accounts from evidence of defence and Crown witnesses.
+Credibility
+[
+13
+]
+Credibility relates to the honesty of a witness. There is no specific
+formula to be applied when evaluating credibility. Instead, Courts are to take
+a commonsense approach to the evidence. Some examples of the factors considered
+can include the plausibility of a witness’ account, or whether the evidence is
+internally consistent or externally consistent with other reliable accounts.
+[
+14
+]
+Some inconsistencies can be significant while others may relate
+to peripheral details. Often, witnesses provide explanations for
+inconsistencies which are evaluated in determining the credibility of their
+account. Factors such as bias or an interest in the outcome of a matter may
+also be important.
+[
+15
+]
+Given that this case requires me to make
+determinations on the credibility on the evidence of the accused, I must also consider
+the analysis set out by the Supreme Court of Canada in
+R v WD
+, 1991 1
+SCR No 742. The WD framework is used by triers of fact in assessing the impact
+of defence evidence on the ultimate question as to whether the Crown has proven
+the case against the accused beyond a reasonable doubt.  The test is
+generally articulated as follows:
+(1)
+If I believe the exculpatory evidence of the accused, he must be
+acquitted;
+(2)
+If I do not accept the evidence of the accused but am left with a
+reasonable doubt by it, he must be acquitted; and,
+(3)
+Even if I reject the accused’s evidence and am not left with a
+reasonable doubt by it, I must still go on to determine whether the Crown has
+proven the accused’s guilt beyond a reasonable doubt based on the evidence that
+I do accept.
+[
+16
+]
+I note that when evaluating the two
+accounts of the events, I am not doing so in a contest of credibility where I
+must choose one version over the other as truth (
+Graham
+2023 ONSC 4300
+).
+If I am unable to decide which account to believe, the accused must be
+acquitted (
+JHS
+2008 SCC 30 (CanLII)
+, 2008 2 SCR 152).
+Reliability
+[
+17
+]
+Reliability refers to the accuracy of a witness’
+account, including their ability to observe, recall and recount events. A
+witness’ reliability is distinct from credibility. Even a credible witness can
+give unreliable evidence. Of course, a witness who is not credible cannot
+provide reliable evidence on the same point.
+[
+18
+]
+In evaluating the reliability of a witness’ ability
+to observe, some important factors for a Court to consider may include the
+strength of a witness’ faculties, including hearing or vision. Another example
+is witness’ condition at the time of observation, including whether they are relaxed
+or excited, sober or intoxicated. The general conditions surrounding the event,
+including timing or lighting or weather may also be important.
+[
+19
+]
+Other factors are important to a witness’
+ability to recall and to recount events at the time of their testimony. Examples
+include whether the event in question was routine or exceptional, such that it
+may stand out more in the person’s memory, or, whether the witness has issues
+with their memory.
+Assault
+[
+20
+]
+The
+nature of the assault in this case involves an application of force,
+corresponding to
+section 265(1)
+(a) of the
+Criminal Code
+.
+That section defines
+an assault in the following way:
+265
+(1
+)
+A person commits an assault when
+(a)
+without
+the consent of another person, he applies force intentionally to that other
+person, directly or indirectly;
+[
+21
+]
+I
+will go into some detail as to the legal interpretation of this definition later
+in the judgment.
+[
+22
+]
+The
+law also recognizes that, to prove an assault, the accused must be aware or
+reckless to the fact that the complainant does not consent to it. Consent is
+defined in section 265(3).
+Issue #1: Credibility, Reliability &
+Findings of Fact
+[
+23
+]
+I
+accept most of the evidence provided by the complainant and accused. The
+narrative of events which they described in their testimony was generally
+consistent with one another, except for some details of events which occurred before
+and during the confrontation at issue.
+Complainant - Credibility and
+Reliability
+[
+24
+]
+I
+have considered the evidence of Ms. Lappan in this case. While I agree with
+some of the concerns raised by defence, overall, I find Ms. Lappan to be a
+credible and reliable witness.
+[
+25
+]
+Defence
+claim that Ms. Lappan’s allegations may have been motivated by some ongoing financial
+disputes at the time that she reported the offences, many months after they
+occurred. I accept Ms. Lappan’s evidence on this point. She explained that she
+needed some time before she was ready to pursue the matter. I am also mindful in
+drawing that conclusion that there is an emotionally charged audio recording of
+the discussion that occurred between the parties moments after the alleged
+assault. The conversation captured on the recording reflects essentially the
+same positions taken by the parties at trial.  This recording, combined with
+the photographs of Ms. Lappan’s injury, satisfy me that, while there may have
+been financial disputes ongoing at the time of her delayed reporting, the
+events were not fabricated or exaggerated.
+[
+26
+]
+I
+did have some concern with respect to the inconsistency that emerged in
+cross-examination as to what the complainant grabbed when she entered the
+bedroom. Initially, in chief, she testified that she retrieved the remote for
+the television. In cross-examination, she acknowledged that she may have
+grabbed the accused’s cell phone. During the near-contemporaneous audio
+recording, the complainant describes the accused’s assertion that she grabbed
+his phone as “baloney”. However, during her interview with police, she
+described the item as a cell phone, which she dropped after grabbing. The
+complainant explained during her evidence that this information was essentially
+drawn from her conversation with the accused on the recording. Regardless of
+which item she grabbed, Ms. Lappan maintained that she entered the bedroom to
+retrieve the remote and not a phone. I accept her explanation on that point.
+[
+27
+]
+I
+have reviewed and considered the photograph filed by defence which shows that
+the remote and phone have different dimensions and are distinct in shape.
+Essentially, the remotes are longer and narrower compared to the phone. On this
+issue, I accept the complainant’s evidence that, in the heat of the moment, she
+may have been honestly mistaken and grabbed the wrong item.
+[
+28
+]
+I
+also accept that she wished to retrieve the remote and do not accept the
+suggestion in the accused’s evidence that the complainant may have wanted to
+take his phone and inspect it as he had taken several calls. At the time, the
+complainant wished to terminate their relationship and have the accused leave
+her home. I simply do not find it plausible that she would barge into his
+bedroom to forcefully seize and inspect his phone.
+[
+29
+]
+Finally,
+I accept that Ms. Lappan suffered a bruise to her left breast during the
+confrontation, as depicted in the sealed exhibit. Given that Ms. Lappan was
+taking medication at the time that caused her blood to thin, this may have also
+caused her to bruise more easily. Therefore, while I recognize that the bruise appears
+quite large and dark in the initial photograph, I do not place great weight on
+the severity of the bruise when assessing the degree of force applied. I do
+accept however that the complainant was caused significant pain and some
+bruising.
+Accused – Credibility and Reliability
+[
+30
+]
+Save
+for some specific points outlined below, I generally accept the evidence of the
+accused. Mr. Sabourin’s evidence was straightforward. There were few glaring
+internal or external inconsistencies. Generally, it also coincided with the
+complainant’s account and other evidence at trial such as the photos or audio
+recording.
+[
+31
+]
+In
+particular, I accept that the accused had mixed feelings about the end of his
+relationship with the complainant and that he was making efforts at obtaining
+temporary accommodation as he described.
+[
+32
+]
+I
+am skeptical, however, that Mr. Sabourin was not angry whatsoever over the
+situation. I am equally skeptical of his claim that he was not angry despite
+his view that the complainant owed him tens of thousands of dollars.
+[
+33
+]
+Based
+on what is heard on the recording, I also have significant concerns that the
+accused was dishonest in his evidence about his consumption of alcohol on the
+night in question. However, I refrain from using this fact against him in
+determining his credibility, given the submissions of both counsel.
+[
+34
+]
+Most
+importantly, I do not accept the accused’s evidence that he was asleep when the
+complainant entered the room, and that he could recall no conversation or argument
+that occurred between them prior to the confrontation. The accused’s own
+evidence was that there was tension in the home due to delays in his departure.
+Moreover, he was, according to his evidence, awake and taking calls in the
+evening when the complainant returned home from work near or after 7pm. His
+evidence was quite detailed on these points. This, coupled with the
+complainant’s account of the argument preceding the confrontation, renders his
+evidence on those points implausible in my view. Lastly, as I pointed out
+earlier, the idea that Ms. Lappan would arrive home, hear the accused’s phone
+and, in the absence of any confrontation or argument, barge in to confiscate it
+seems far-fetched and unrealistic.
+[
+35
+]
+Despite
+these issues, the accused’s account of the confrontation left me in doubt with
+respect to whether he intentionally applied force to the complainant while attempting
+to grab the item he thought to be his phone, including the grabbing or pushing
+as described. I draw this conclusion based on his evidence alone and in
+consideration of the overall body of evidence in accordance with stages 1 and 2
+of
+WD.
+However, as I will go on to explain, this does not end the matter.
+Findings of Fact
+[
+36
+]
+Before
+considering whether the Crown as discharged its onus on the basis of the
+evidence which I do accept, I find the following events as fact:
+•
+Ms. Lappan returned home from work on the night in question at or
+shortly after 7pm. An argument occurred between her and the accused at some
+point after her return home.
+•
+As the argument was ongoing, Ms. Lappan entered the accused’s
+room intending to pick up and use the remote to turn down the volume on the
+television. Ms. Lappan reached over the accused and, in her haste, picked up
+his phone by mistake.
+•
+The accused immediately lunged at the complainant, reaching towards
+her chest where she held the item. His hand became entangled in her shirt. In
+the seconds that followed, the accused caused the bruise to the complainant’s
+chest while trying to grab the item she had picked up.  The force which he
+applied caused her significant pain and resulted in the bruise shown in the
+photographs.
+•
+The complainant dropped the item and left the room. It was
+moments after her exit from the room that the recording began.
+Issue #2: Recklessness
+[
+37
+]
+While
+I have determined that the accused applied force and caused injury to the
+complainant, as I concluded earlier, I am left in doubt as to whether he did so
+intentionally. I will go on to determine whether he was reckless in his
+application of force, such that he is guilty of the assault.
+Recklessness &
+Section 265(1)
+(a)
+[
+38
+]
+For
+the following reasons, my interpretation of the law is that recklessness can
+establish the intention required to constitute an “intentional” application of
+force.
+[
+39
+]
+Assault
+as defined in
+section 265(1)
+has three distinct modes of commission. This case
+concerns the first mode, described in paragraph (a): A person commits an
+assault when (a) without the consent of another person, he applies force
+intentionally to that other person, directly or indirectly.
+[
+40
+]
+Assault
+is a general intent offence. The ‘intentional’ element of applying force described
+in section 265(1)(a) has been defined by the Supreme Court as “not done by
+accident or through honest mistake” (
+R v George,
+1960 CanLII 45
+at 890
+(SCC),
+Dawydiuk,
+2010 BCCA 162
+at para
+29
+,
+DJW,
+2011 BCCA 522 at
+para 70).
+[
+41
+]
+The
+legal concept of recklessness is defined as being found “in the attitude of one
+who, aware that there is danger that his conduct could bring about the result
+prohibited by the criminal law, nevertheless persists, despite the risk.” (
+Sansregret
+,
+1985 CanLII 79
+at para
+16
+). Recklessness is not the same as negligence. It is
+not concerned with whether the accused ought to have seen the risk in
+question, but whether he subjectively saw the risk and continued to act with
+disregard of the risk.  The extent of the risk, as well as the nature of
+harm, the social value in the risk, and the ease with which the risk could be
+avoided, are all relevant considerations. Although the trial judge will assess
+whether a risk is unjustified based on the above considerations, because
+recklessness is a subjective standard, the focus must be on whether the accused
+was aware of the substantial risk he took and any of the factors that
+contribute to the risk being unjustified. (
+Zora
+,
+2020 SCC 14
+at paras
+117-8
+).
+[
+42
+]
+There
+is no dispute that recklessness can apply to the issue of consent as an element
+of the offence of assault. However, I acknowledge that there appears to be some
+uncertainty in recent caselaw as to whether or not recklessness can establish an
+‘intentional’ application of force within the meaning of
+section 265(1)
+(a).
+[
+43
+]
+In
+Tyrell,
+2021 ONCA 15
+, convictions for attempt murder and assaulting a
+peace officer with intent to resist arrest were overturned. At trial, the
+accused was found to have shot a man outside of a nightclub and charged at an
+officer while attempting to escape.  On appeal, the conviction for attempt
+murder was overturned as the trial judge was held to have erroneously inferred
+a specific intent to kill (
+Tyrell
+,
+at paras
+22-25
+). With respect to the
+charge of assaulting a peace officer with the intent to resist arrest, it
+appears that both parties to the appeal accepted that the law required nothing
+short of a specific intent to apply force for the assaultive element of the
+charge to be made out (
+Tyrell
+,
+at paras
+34-7
+). As a result, these legal
+parameters were applied and the conviction based on recklessness overturned:
+…the trial judge accepted the
+appellant’s testimony that he tried to avoid contact with the officer. He
+convicted the appellant on the basis of his “reckless disregard” as
+to whether he would make contact with the officer. The trial judge’s
+express finding that the appellant did not have the specific intent to assault
+is a finding of fact. Given this finding of fact, the conviction on this charge
+cannot stand and must be set aside. As the trial judge’s finding is
+determinative of this charge on its merits, an acquittal must be entered.
+(
+Tyrell
+,
+para
+38
+)
+[
+44
+]
+Several
+decisions have subsequently relied on
+Tyrell
+for the general proposition
+that recklessness cannot suffice to establish the intentional application of
+force required for the offences of assault or assaulting a peace officer (
+Morell,
+2022 ONCJ 371
+at para
+51
+,
+McKinley,
+2022 ONCJ 323
+at para
+112
+,
+Guillaume,
+2022 ONCJ at para 8).
+[
+45
+]
+However,
+there exists a wealth of caselaw from Canadian appellate courts – including in
+Ontario - which explicitly and implicitly supports the notion that recklessness
+can suffice to establish intention with respect to an application of force. See
+for example:
+R v Park
+2024 MBCA 93
+at paras
+45 & 76
+,
+Nagle v R
+,
+2023 NBCA 35
+at para
+21
+,
+R v Purcell,
+2007 ONCA 101
+at para
+7
+,
+R v A.E
+.,
+2000 CanLII 16823
+(ONCA) at paras
+22-23
+,
+R v W(DJ)
+2011 BCCA 522
+at para
+70
+(affirmed
+2012 SCC 63
+),
+R v Zaworski,
+2022 BCCA 144
+,
+R
+c
+S.H
+,
+[1987]
+JQ no 412 (QCCA)
+and
+Williams,
+2003 SCC 41
+at para
+22
+. Trial courts have
+followed suit, including for example
+R v Cunneen,
+2024 ONSC 4541
+at para
+41
+,
+R c Korchal
+,
+2025 QCCQ 298
+at para
+82
+or
+R v Lucchetto
+,
+2017 ONCJ 30
+at para
+75
+.
+[
+46
+]
+With
+great respect, I do not read
+Tyrell
+to modify what I consider to be a long-established
+principle that recklessness can suffice to establish an ‘intentional’
+application of force. Rather, it appears that the Court of Appeal in that case simply
+determined an issue based on the legal parameters as agreed upon by the parties
+and very specific factual findings. If the Court intended to modify, clarify or
+otherwise resolve the law on this point, it would have explicitly done so with
+a full consideration of the authorities.
+[
+47
+]
+Moreover,
+the concept of recklessness serves to fill a necessary gap in the legal
+landscape with respect to assaultive behaviour. It captures criminal conduct
+that does not result from intentional actions, but from dangerous and risky
+behaviour that rises above the level of mere negligence, where these actions
+are not excused by defences such as accident or mistake. This is consistent
+with the instructions from the Supreme Court in
+George
+some 65 years ago,
+when it clarified that the word “intentional” in
+section 265(1)
+(a) simply means
+not by accident or mistake.
+[
+48
+]
+I
+also see it as consistent with the threshold in section 265(1)(a) as it has
+developed. The law is now clear that an application of force does not
+necessarily connote some minimum level of violence. It simply requires
+interference with a person’s bodily integrity (
+ZA,
+2000 CanLII 16976
+(ONCA) at paras
+6-8
+,
+R v RA,
+2024 BCCA 283
+at para
+14
+(affirmed at
+2025
+SCC 7
+)).
+[
+49
+]
+Finally,
+I recognize that assault is a general intent offence. In the absence of any
+explicit language stating otherwise, recklessness can generally establish the
+mens
+rea
+for this category of offence (
+Purcell
+,
+at paras
+13-20
+). Given
+the prevailing caselaw and the Supreme Court’s interpretation of section
+265(1)(a) in
+George
+,
+I am of the view that the word ‘intentional’ in
+that section is not explicit language that precludes the application of the
+doctrine of recklessness.
+Application
+[
+50
+]
+In
+this case, I find that Mr. Sabourin’s actions show that he was clearly aware of
+and proceeded in the face of a risk within the meaning of recklessness.
+[
+51
+]
+When
+the complainant mistakenly picked up his phone, Mr. Sabourin immediately
+engaged in physical confrontation. There was no discussion or rational attempt
+to resolve the issue. It is obvious that by engaging in the way he did, lunging
+at the complainant during an argument and reaching, with force, at her chest, there
+was a clear risk that he would apply significant force to her person. There was
+no social value to the risk, it was easily avoidable and it involved the
+potential for harm to the complainant. I conclude that Mr. Sabourin disregarded
+that risk and assaulted the complainant through his reckless behaviour while
+trying to achieve his purpose of wrestling the phone from Ms. Lappan.
+[
+52
+]
+In
+this context, I also emphasize my earlier finding that while I accept that Ms.
+Lappan may bruise more easily than the average person given her medication, I
+accept that the force applied caused her pain and that the force was not
+insignificant.
+[
+53
+]
+Finally,
+to be sure, this is not a case where the accused has a valid claim of defence
+of property. While it was pointed out in submissions that the phone was Mr.
+Sabourin’s property, no serious argument was made in support of a claim of
+defence of property – and rightfully so. The accused’s behaviour on that date,
+to immediately engage in a physical confrontation to retrieve the phone with
+significant force, fell far short of being “reasonable in the circumstances”.
+This is a statutory requirement in
+section 35(1)
+of the
+Criminal Code
+.
+As
+a result, it is clear that there is no air of reality to any claim of defence
+of property.
+Conclusion
+[
+54
+]
+I
+find that the Crown has proven that Mr. Sabourin applied forced to Ms. Lappan
+within the meaning of
+section 265(1)
+(a) and that she did not consent to that
+force. Once again, I cannot conclude beyond a reasonable doubt that the accused
+was intentional in the application of that force in the literal sense of that
+word. However, I conclude that his conduct was reckless, such that the
+“intentional” requirement of the offence is made out. Finally, Mr. Sabourin’s
+actions were not justified by defence of property.
+[
+55
+]
+As
+a result, Mr. Sabourin will be found guilty of assault.
+Released:  October 20 2025
+Signed:
+Justice J.R. Lalande

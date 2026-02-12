@@ -1,0 +1,1260 @@
+source url: https://www.canlii.org/en/on/oncj/doc/2025/2025oncj519/2025oncj519.html
+
+ontario court of justice
+citation:
+r. v. munro, 2025 oncj 519
+date: 
+2025 10 06
+court
+file no.: newmarket 24-91109702
+between:
+his
+majesty the king
+— and
+—
+keegan william munro
+before
+justice michael perlin
+heard
+on june 26, 27 and september 2, 2025
+reasons
+for judgment released on october 6, 2025
+lilah vassilenko................................................................................. counsel
+for the crown
+irwin isenstein and laheeb
+akbarzad................................. counsel for the
+defendant
+perlin j.:
+
+on october 7, 2024, police, acting on information regarding an
+alleged intoxicated driver, stopped mr. munro operating his car in a wendy’s
+drive-through lane. following an investigation, mr. munro was charged with 80+
+operation – i.e., having a blood-alcohol concentration (bac) exceeding the
+legal limit within two hours of operating a conveyance contrary to
+criminal
+code, r.s.c. 1985, c. c-46,
+s. 320.14(b)).
+
+the case turns on mr. munro’s application under s. 24(2) of the
+charter
+to exclude his breath samples from evidence. if this evidence is admitted, the
+defence concedes the charge is made out. the trial proceeded as a blended
+voir
+dire. the crown called the investigating officers. the defence called mr.
+munro and his father on the
+voir dire
+only.
+
+mr. munro alleges the police breached his
+charter
+rights by
+(1)
+arresting him and demanding that he provide breath samples into an
+approved instrument (ai) without grounds to do so, contrary to ss. 8 and 9,
+(2)
+delaying informing him of his right to counsel for 12 minutes, contrary
+to the s. 10(b) requirement that this be done immediately,
+(3)
+failing to discharge their s. 10(b) implementational obligations to
+facilitate (a) a call to counsel at the roadside, (b) access to counsel of
+choice, and (c) a second call to a lawyer after his call to duty counsel, and
+(4)
+video-recording the cells while he urinated, contrary to s. 8.
+
+i will address each argument in turn. if i find any
+charter
+infringements,
+i will consider whether they justify exclusion of the evidence of mr. munro’s breath
+samples.
+i.
+the narrative necessary to contextualize the
+charter
+arguments
+
+york regional police constable graham was on duty when he was
+approached by a staff member from a nearby bar. she told him a man had been
+asked to leave the bar after consuming alcohol and vomiting into a wine glass.
+the man had gotten into his vehicle, vomited again, and driven to the
+drive-through of a nearby wendy’s restaurant.
+
+pc graham attended the wendy’s parking lot and found a car
+matching the one the staff member had described. the restaurant was closed. the
+car was stopped in the drive-through lane, with its horn blaring constantly. pc
+graham conducted a stop, and demanded that the driver, mr.
+munro, provide a breath sample into what pc graham believed was an approved
+screening device (asd).
+
+mr. munro provided a sample, and the device
+registered a “fail”. based on the “fail”, at 12:49 a.m., pc graham placed mr. munro
+under arrest and demanded that he provide a breath sample into an approved
+instrument (ai) at the station.
+
+at 1:01 a.m., pc graham read mr. munro his right
+to counsel.
+
+throughout the process leading to the arrest and
+subsequent transport to the police station, mr. munro repeatedly asserted that
+he wanted to speak to a lawyer, or “my lawyer”, or his family. during transport,
+pc graham asked mr. munro for the name of his lawyer. mr. munro said it was
+“nick” but refused to provide a last name. he testified nick was his friend, who
+was not a lawyer.
+
+at the station, sgt. price asked mr. munro
+whether he wanted to speak to a lawyer. mr. munro said “yes”. sgt. price asked mr.
+munro if he had “a specific lawyer you’d like us to try to phone, or just duty
+counsel for free”. mr. munro responded, “i guess duty counsel for free”. he
+spoke with duty counsel.
+
+in the breath room, mr. munro asked the
+qualified breath technician, pc su, several questions about the investigation
+and the consequences of not providing breath samples. mr. munro provided two breath
+samples into an ai, which produced readings of 250 and 239 mg of alcohol per
+100 ml of blood.
+
+mr. munro was lodged in a cell that was videotaped.
+at around 2:23 a.m., he stood, facing the toilet with his back to the camera and
+appeared to urinate.
+ii.
+analysis
+a.
+alleged
+charter
+breaches
+1
+charter, ss. 8 and 9: grounds
+for the arrest and ai demand
+
+mr. munro argues the police lacked reasonable grounds
+to arrest him and demand that he provide a breath sample into an ai. the
+lawfulness of both the arrest and demand turn on whether police had reasonable
+grounds to believe mr. munro committed the offence of 80+ operation.
+
+that offence rests on proof
+that the suspect has, “within two hours after ceasing to operate a conveyance,
+a blood alcohol concentration that is equal to or exceeds 80 mg of alcohol in
+100 ml of blood”. if pc graham did not have reasonable grounds to believe these
+elements were satisfied, the ai demand and arrest were unlawful, and infringed
+mr. munro’s rights under ss. 8 and 9 of the
+charter.
+
+an officer has reasonable grounds where “compelling and credible
+information” establishes “a reasonable probability of crime”. the officer must
+have subjective and objective grounds. subjective grounds exist where “the
+arresting officer honestly believed that the suspect committed the offence”.
+the officer’s subjective belief “must be justifiable from an objective
+viewpoint”. “the objective assessment is based on the totality of the
+circumstances known to the officer at the time of the arrest, including the
+dynamics of the situation, as seen from the perspective of a reasonable person
+with comparable knowledge, training, and experience as the arresting officer”.
+see
+r. v. beaver,
+2022 scc 54, at paras.
+72
+(1), (2), (3), (6) (emphasis
+in original).
+
+mr. munro was clearly operating a conveyance. the
+question is whether pc graham had reasonable grounds to believe mr. munro’s had
+an illegally high bac.
+
+pc graham’s grounds rested on mr. munro having
+failed a roadside screening test on what pc graham believed was an asd. “normally,
+where a properly conducted roadside screening test yields a ‘fail’ result, this
+alone will be sufficient to furnish a police officer with […] grounds”:
+r. v. bernshaw,
+1995 canlii 150 (scc), 1 s.c.r. 254, at paras.
+48-49, 80.. the defence submits pc graham was not entitled
+to rely on the “fail” reading to form grounds. pc graham’s testified he had
+used an “alcotel” screening device to analyze the accused’s breath sample at
+the roadside. if such a device exists, it is not an asd: see
+criminal code,
+s. 320.11 and
+approved screening devices order, sor/2024-66. the defence
+submits that the fact that pc graham used something other than a true asd meant
+that he lacked objectively reasonable subjective grounds.
+
+in
+r. v. gundy,
+2008 onca 284, the court
+of appeal set out a framework for analyzing allegations that an ai demand was unlawful
+due to issues with respect to the use of a screening device. the following
+points are relevant:
+(1)
+in a
+charter
+challenge where grounds for
+an ai demand “depend upon a ‘fail’ from an [asd], the crown must prove that the
+officer reasonably believed that he or she was using an approved device”: para.
+50.5;
+(2)
+an officer who knows that a device is not
+approved or is unreliable cannot rely on its results to form grounds to make an
+ai demand: para. 41 (citing
+r. v. bernshaw,
+1995 canlii 150 (scc), 1 s.c.r. 254, at
+paras.
+48, 80);
+(3)
+the test is whether the officer had subjective
+and objectively reasonable grounds. if the device used was not in fact an asd,
+“the objective component may or may not be made out; it depends upon whether
+the officer could reasonably believe that the device he or she was using was an
+approved device”: para. 43;
+(4)
+"in the absence of credible evidence to the
+contrary, the officer’s testimony that he or she made a demand with an approved
+screening device is sufficient evidence that the officer had the requisite
+reasonable belief. the officer is not required to give the particular model
+number or otherwise identify the device. obvious errors such as incomplete
+reference to the model number do not undermine the officer’s testimony that the
+device was an approved screening device”: para. 51.6;
+(5)
+“[i]f the officer in his or her testimony refers
+to the device as an ‘approved screening device’, the trial judge is entitled to
+infer that the device was indeed an approved device”. this evidence “is direct
+evidence upon which the trial judge can rely”: paras. 44, 45;
+(6)
+a trial judge may infer that something other
+than an asd was used where there is “some credible evidence to the contrary”,
+that undermines the officer’s stated belief that he or she used an asd: para.
+47.
+
+for pc graham to rely on the “fail” reading at
+the roadside, he needed to believe he was using an asd, and his belief needed
+to be objectively reasonable.
+
+i am satisfied that pc graham believed he was
+using an asd. pc graham testified he was using an asd. although he thought that
+the device was called an “alcotel”, he was clear that he believed it was “an
+approved screening device”, calibrated to report a “fail” only if the subject’s
+blood alcohol exceeded the legal limit.
+
+the remaining question is whether pc graham’s
+identification of the device as an “alcotel” provides “credible evidence to the
+contrary” that causes me to conclude that something other than an asd was used,
+such that pc graham’s stated belief is objectively unreasonable.
+
+in
+gundy, at paras.
+47 and 50.6, the
+court of appeal held that “obvious errors” in identifying a device by name do
+not qualify as “credible evidence to the contrary”.
+
+i am satisfied that pc graham made an “obvious
+error” as to the name of the device he used, and that the device was in fact an
+asd. when asked by defence counsel about the device he had used, pc graham
+testified, “[i]t’s the alcotel […] i don’t remember the exact name of it. but
+it’s the alcotel [….] [i]t’s called an asd, which stands for alcotel, i think,
+screening device […] the alcotel 7000, i think”.
+
+pc boyd was also on scene at the time of the
+arrest. he testified that the device pc graham had used was an “alcotest 7000”
+— which is an asd for the purposes of
+s. 320.11
+of the
+criminal code:
+see
+approved screening devices order, sor/2024-66.
+
+the defence submits that i cannot prefer the
+evidence of one officer over the other regarding the identity of the device
+used. i disagree. pc graham had in his possession a police-issued device that
+he believed to be a “approved screening device” to test at the roadside for
+excessive blood alcohol. an “alcotest 7000” is an approved screening device; an
+“alcotel 7000” is not. pc graham was unsure of the device’s name. pc boyd was unequivocal
+and certain that pc graham was mistaken about the name of the device. pc boyd
+was in a position to identify the device. he handled it and held it up to the
+in-car camera to show the “fail” indication on its display screen. i am
+satisfied that pc boyd’s identification of the device should be preferred. pc
+graham’s misidentification of the device as an “alcotel 7000” rather than an
+“alcotest 7000” is a minor and obvious error.
+
+pc graham believed he was using an asd. he was
+using an asd. he was entitled to rely on the “fail” to form the belief that mr.
+munro had excessive blood-alcohol. i am satisfied that the ai demand and arrest
+were based on sufficient grounds so did not infringe mr. munro’s ss. 8 and 9
+charter
+rights.
+2
+charter, s. 10(b)
+
+mr. munro alleges that his s. 10(b) right to retain
+and instruct counsel without delay, and to be informed of that right, was
+infringed in four ways. he submits police
+(1)
+delayed reading him his right to counsel, thus
+infringing the right to be informed immediately of the s. 10(b) right,
+(2)
+failed to facilitate access to counsel at the
+roadside, thus infringing the right to consult with counsel immediately,
+(3)
+steered mr. munro to duty counsel, thus
+infringing his right to consult with counsel of choice, and
+(4)
+should have inquired into the sufficiency of
+advice received from duty counsel and facilitated a second call to counsel.
+a)
+delayed reading of rights
+
+section 10(b) of the
+charter
+provides that a person, “on
+arrest or detention”, has the right “to retain and instruct counsel without
+delay and to be informed of that right”. in
+r. v. suberu,
+2009 scc 33,
+at paras.
+41-42, the supreme court explained that the phrase “‘without delay’
+must be interpreted as ‘immediately’”. in an impaired driving investigation,
+the obligation to inform a detainee of the right to counsel is suspended until
+that person is arrested. at that point, the arrestee must be informed
+“immediately” of the right to counsel, “[s]ubject to concerns for officer or
+public safety, and such limitations as prescribed by law and justified under s.
+1 of the
+charter
+”:
+suberu, at paras.
+41, 42. if there is a delay
+in informing the detainee of their right to counsel, the crown bears the burden
+of showing that the delay “was reasonable in the circumstances”:
+r. v.
+taylor,
+2014 scc 50, at para.
+24.
+
+pc graham arrested mr. munro just before 12:49
+a.m., and read him his right to counsel at 1:01 a.m.
+
+from the arrest until 12:52:30 a.m., the
+officers were engaged in dividing up tasks, securing the accused in the back of
+the cruiser and securing his property. i do not understand the defence to take
+issue with the necessity of taking those steps. in any event, i accept the
+delay they occasioned was necessary and reasonable in the circumstances.
+
+i am satisfied that the right to counsel could have
+been read as early as 12:52:30 a.m., when pc graham and mr. munro were first
+alone together in the cruiser. it was not read until 1:01:17 a.m. the defence
+takes issue with the remaining delay, a period of approximately nine minutes from
+12:52 a.m. until 1:01 a.m.
+
+part of that time—perhaps three or four minutes—was
+consumed by discussion between pc graham and mr. munro regarding the right to
+counsel:
+(1)
+there was little or no discussion from
+approximately 12:52:30 until 12:53:24;
+(2)
+from 12:53:24 until 12:54:08, pc graham
+indicated he was “gonna read some stuff” to mr. munro and mr. munro asked about
+speaking to his family. there was also a brief discussion about some seized property;
+(3)
+from 12:54:08 until 12:55:13 a.m., there was
+little discussion, other than mr. munro asking once if he could call his family;
+(4)
+from 12:55:13 a.m. until 12:56:02, a discussion
+occurred during which mr. munro asked about calling his lawyer, and pc graham
+told him “i’m gonna get the number for your lawyer and all that stuff”. pc
+graham told mr. munro that the car was being audio and videotaped, and “i don’t
+want you to say anything to incriminate yourself, or anything to that effect”;
+(5)
+there was little or no discussion from 12:56:02
+a.m. until 12:58:25 a.m.; and
+(6)
+at 12:58:25 a.m., mr. munro asked again to “call
+my lawyer”. pc graham indicated he could afford mr. munro privacy in the
+cruiser and told mr. munro that after transporting him to the station, “we’re
+gonna allow you to speak with your lawyer”. discussion about this continued
+steadily, with mr. munro repeatedly asserting that he wanted to speak to a
+lawyer, until just after 1:01 a.m., when pc graham began to read mr. munro his
+right to counsel.
+
+pc graham explained that the time when he and
+mr. munro were not speaking was spent inputting data into his computer – a
+series of steps that he testified were necessary to move forward with the investigation.
+he testified that, at the time of the arrest, york regional police had recently
+moved to a new computer system. he understood it required officers to input
+certain information “before you get to the page where the rights to counsel and
+all that stuff is.” his work on the computer involved running mr. munro’s
+driver’s licence on the system to confirm his identity, and inputting
+information, like name, arrest time and location. he understood that all these
+steps needed to occur before he could begin transporting mr. munro back to the
+police station, where he would be given access to counsel.
+
+while i accept pc graham’s evidence that these
+steps were necessary in the sense that they needed to occur at some point, i
+cannot accept that they could be prioritized over the constitutional obligation
+to inform mr. munro of his right to counsel under s. 10(b) “without delay”. many
+different activities can justify delay in informing an arrestee of their right
+to retain and instruct counsel. these include safety concerns for the police,
+pubic or detainee; medical concerns; and concerns relating to the preservation
+of evidence or integrity of the investigation:
+r. v. shang en wu,
+2017
+onsc 1003, at para.
+78;
+r. v. rover,
+2018 onca 745, at paras.
+26-27.
+i
+am aware of no authority that authorizes delay to permit an officer to perform
+administrative tasks.
+
+the crown has not demonstrated that the delay in reading mr.
+munro his right to counsel was reasonable in the circumstances. i find that the
+delay infringed mr. munro’s right to be informed of his s. 10(b) right to
+counsel without delay.
+b)
+access to counsel at roadside
+
+mr. munro submits that the police infringed the implementational
+component of his s. 10(b) right to counsel by failing to provide him access to
+counsel at the roadside.
+
+section 10(b) guarantees access to counsel “at the
+first
+reasonable opportunity” (emphasis in original) or “the earliest practical
+opportunity”. if access to counsel is delayed, the crown must demonstrate that
+the circumstances could not afford a realistic opportunity to consult with
+counsel. a realistic opportunity to consult with counsel is not necessarily the
+same thing as an opportunity to make a phone call. a reasonable or realistic
+opportunity to consult with counsel requires the ability and opportunity to
+contact, seek advice from, and receive advice from counsel. “[p]ractical
+obstacles to access” and “privacy and safety issues” may justify delay. see
+r.
+v. taylor,
+2014 scc 50, at paras.
+27-29, 32, 34;
+r. v. torsney,
+2007
+onca 67, at para.
+13.
+
+mr. munro’s argument rests on the fact that pc graham, in explaining
+why he did not facilitate access to counsel at the roadside, focussed on the
+fact that he needed to keep the in-car-camera system (iccs) running so would
+have been unable to afford mr. munro the privacy he would need to consult with
+counsel confidentially. in cross-examination, pc graham was confronted with a york
+regional police policy permitting officers to turn off the iccs to allow
+consultation with counsel. faced with this, pc graham ultimately accepted that
+if had recalled yrp policy, he would have permitted mr. munro to speak to
+counsel at the roadside.
+
+although pc graham testified he would have been willing to turn off
+the iccs had he been aware of the policy, in re-examination, he gave evidence
+that cast real doubt on whether he would have concluded it was appropriate to do
+so had he turned his mind to it. he cited the risk that an accused might harm
+himself or become ill while the camera was off as good reasons to keep it
+running. there are many things that may occur in a police cruiser for which an
+accurate video and audio record would be highly desirable. the need to record a detainee’s time in custody strikes me as a
+sound reason to keep the iccs active, depending on the circumstances. when
+recording is reasonably necessary, privacy cannot be afforded, and access to
+counsel at the time may be neither practical nor realistic.
+
+notwithstanding the above, in cross-examination, pc graham was clear
+that he would have been willing to turn off the iccs had he been aware of the
+yrp policy. i accept this evidence.
+
+i do not accept that this demonstrates there was a realistic,
+practical opportunity to consult with counsel in the circumstances. even if the iccs had been turned off, there were practical barriers
+to providing access to counsel at the roadside. first, pc graham cited mr.
+munro’s handcuffs—and the fact pc graham was not prepared to remove the
+cuffs—as a barrier to mr. munro using a phone.
+
+second, pc graham testified he was unwilling to give mr. munro
+unsupervised access to a cellphone at the roadside. courts have accepted that relevant
+safety concerns mean police have no legal duty to allow detainees unsupervised
+access to a personal cellphone or an officer’s cellphone at the roadside:
+r.
+v. bernard,
+2018 onsc 5134, at para.
+31, citing
+r. v. taylor,
+2014
+scc 50, at para.
+27.
+
+so, although pc graham conceded he would have facilitated a call to
+counsel, the evidence suggests this could not have been accomplished. i am not
+entitled to speculate a theory on how a call might have been accomplished in a
+way that permitted private consultation while ensuring safety and security on
+scene:
+r. v. bernard,
+2018 onsc 5134, at para.
+30.
+
+the evidence leads me to conclude on a balance of probabilities that
+a call could not have been facilitated at the roadside. as such, failing to
+provide access at that time did not infringe mr. munro’s right to counsel under
+s. 10(b).
+c)
+access to counsel of choice at station
+
+mr. munro submits his right to counsel was
+further infringed by police failing to take adequate steps to give him access
+to his counsel of choice at the station. mr. munro ultimately spoke to duty
+counsel after the following exchange with the booking sergeant:
+sgt. price: you
+wanna speak to a lawyer?
+mr. munro: yes
+sgt. price: do you have a specific lawyer you'd like us to try
+to phone, or just duty counsel for free?
+mr. munro: i
+guess duty counsel for free.
+
+mr. munro submits that this exchange, when assessed in context
+with his time with pc graham at the roadside and during transport, demonstrates
+that police failed to discharge their duty to ensure that he understood he had
+options available to contact counsel of choice. while alone with pc graham, mr.
+munro said numerous times that he wanted to speak to “my lawyer”. he had indicated
+that he wished to call his family “at the right time” to get the lawyer’s number.
+he had said his lawyer was named “nick”, while declining to provide a last name.
+pc graham had said that police would, at the station, get the number for mr.
+munro’s lawyer and put the two in touch.
+
+mr. munro testified that he thought this background had been conveyed
+to the booking sergeant. when sgt. price gave him a choice between a specific
+lawyer and duty counsel, he was left with the impression that if he did not already
+have the specific lawyer’s number, his only choice was duty counsel. mr. munro
+submits that after he asked for duty counsel, pc graham should have interjected
+to ensure mr. munro would not prefer to call family to get the number for a specific
+lawyer.
+
+when a detainee is advised of their right to counsel and indicates
+a desire to exercise that right, the police must facilitate access. a detainee
+has the right to chose duty counsel or counsel of choice, without facing undue
+pressure from police to select one option or the other. where the detainee
+expresses a desire to speak to counsel of choice, police must exercise reasonable
+diligence in facilitating access.
+r. v. taylor,
+2014 scc 50, at para.
+24;
+r. v. rover,
+2018 onca 745, at para.
+25;
+r. v. edwards,
+2024
+onca 135, at paras.
+36-42;
+r. v. willier,
+2010 scc 37, at para.
+43;
+r.
+v. jhite,
+2021 onsc 3036, at paras.
+42-45.
+
+for the following reasons, i reject mr. munro’s evidence that he
+believed he had no choice but to call duty counsel. i find that mr. munro
+understood police would help him access counsel of choice if he so desired. he
+chose to consult duty counsel instead.
+
+mr. munro was not a credible or reliable witness. he testified
+that when he was in the wendy’s drive through, he honked his horn multiple
+times and was stationary because another vehicle was blocking his way. this was
+inconsistent with pc graham’s evidence, which i accept, that the horn was
+blaring constantly and no car was blocking mr. munro’s vehicle. pc graham’s
+evidence is corroborated by the icc, which shows that for approximately 24 seconds
+leading up to the initiation of the traffic stop, mr. munro’s vehicle was
+stationary in the wendy’s drive through with no other car in front of it.
+
+mr. munro gave internally inconsistent evidence on his reasons
+for asking for counsel immediately at the roadside. he testified he did not
+know his rights, having never been in the situation of having to comply with a
+roadside demand before. he also testified that he had been stopped in a ride
+program when he was younger and had done a roadside test.
+
+mr. munro’s evidence regarding his state of mind in the booking
+hall was inconsistent with what transpired. the language used by police could
+not be understood as pushing him toward duty counsel. sgt. price gave mr. munro
+a true choice between duty counsel and “a specific lawyer you’d like us to try
+to phone”. the language pc graham used in reading mr. munro his rights also
+underscored the same message: “you have the right to telephone any lawyer you
+wish. you also have the right to free advice from a legal aid lawyer.”
+
+sgt. price’s language in the booking hall was open ended. it did
+not suggest mr. munro should pick one option or the other. he did not imply that
+“a specific lawyer” could be contacted only if mr. munro already had the
+number. rather, the words “a specific lawyer you’d like us to try to phone”,
+implied that police were willing “to try to” help him find that lawyer.
+
+this was consistent with what mr. munro had heard before. pc graham
+had told mr. munro police could take steps to facilitate access to counsel of choice,
+and mr. munro appeared to understand:
+pc graham: is your lawyer’s
+number in your phone?
+mr. munro: my
+lawyer’s number is present with my family, and i will call them at the right
+time.
+…
+mr. munro: […]
+am i able to call my family?
+pc graham: i
+explained to you that when we get you to the station, and we can afford you the
+privacy, we will give your lawyer a call. i asked you for the number. you
+haven’t given a name or a number for your lawyer, okay.
+mr. munro okay.
+pc graham: so,
+when we get to the district, we’ll sort all that out.
+
+i reject mr. munro’s evidence that the circumstances made him feel
+like he could not speak up to assert his rights. this testimony is inconsistent
+with his conduct that evening. throughout the night, mr. munro was not shy. he asked
+pc graham more than a dozen times to speak to his lawyer. he was similarly forthcoming
+with requests while speaking with sgt. price and other officers. i cannot accept
+while that he advocated for himself persistently throughout the night, at the
+moment when he was asked an open-ended question, he felt he had no choice but
+to select only one of the options presented to him.
+
+i reject mr. munro’s evidence that when he asked for duty
+counsel, he believed he could only have one phone call, so could not contact
+his lawyer if he did not yet have the number. just after asking to speak to duty
+counsel, he asked to call his wife. the request was refused. but the fact it
+was made demonstrates that up to that point—including moments earlier when he
+selected duty counsel—he thought he might be able to make more than one call. he
+testified he believed he only had one phone call, and it had to be to a lawyer,
+because that is what he had been told. but he was only told this in response to
+his question about speaking to his wife, which occurred after he had indicated
+he wished to speak to duty counsel. he had also indicated in the cruiser, in
+response to a question whether his lawyer’s number was in his phone, that “my
+lawyer’s number is present with my family, and i will call them at the right
+time, okay?” before beginning the booking process, in response to the question
+“when can i use my phone call?”, pc graham told mr. munro, “[w]e’re gonna book
+you in, and then we’re gonna get the number for your lawyer, and we’ll put you
+in contact with him.”
+
+i am satisfied that mr. munro knew he had the option of relying
+on police assistance to reach counsel of choice. in these circumstances, his stated
+preference for duty counsel must be understood as reflecting just that: his preference.
+he wanted to speak to duty counsel. i suspect mr. munro decided this was a good
+option, since he did not have a specific lawyer in mind to contact. on his own
+evidence, he had only offered the name “nick” in the cruiser in an effort to have
+pc graham help put him in contact his friend nicholas, who was not a lawyer.
+
+i reject the defence submission that pc graham should have interjected
+after mr. munro stated his preference for duty counsel to inquire whether he
+instead wanted to contact some other lawyer. “[w]hat the police are required to
+say and do in a particular case to fulfill their duties under s. 10(b) will
+depend on what the accused says and does and what the police could reasonably
+surmise in the circumstances”:
+r. v. badgerow,
+2008 onca 605, at para.
+45, leave ref’d, s.c.c.a. no. 483;
+r. v. ruscica,
+2019 onsc 2442,
+at paras.
+38, 43. mr. munro had earlier expressed the desire to speak to “my
+lawyer” and had indicated he would call his family to get the number “at the
+right time”. however, when mr. munro was asked how he would like to proceed
+once at the station, he indicated his preference for duty counsel. pc graham testified
+he understood mr. munro preferred duty counsel. this was a reasonable
+conclusion. as i noted before, mr. munro was vocal throughout his interactions
+with police. if he had wanted counsel of choice he would have said so. the
+police had no obligation to double check on mr. munro’s fully informed choice:
+see e.g.,
+r. v. willier,
+2010 scc 37, at para.
+43;
+r. v. jhite,
+2021 onsc 3036, at paras.
+42-45.
+
+i find on a balance of probabilities that the police did not
+breach mr. munro’s s. 10(b) right by failing to facilitate access to counsel of
+choice. police discharged their implementational obligations by putting him in
+touch with duty counsel, as he requested.
+d)
+failing to provide a second call to counsel
+
+briefly during closing submissions, defence counsel raised an
+argument that events in the breath room should have caused police to ask mr.
+munro about the sufficiency of the advice he had received from duty counsel,
+with a view toward providing a second call to a lawyer.
+
+the supreme court majority held in
+r. v. willier,
+2010 scc
+37, at para.
+41, that s. 10(b) does not require police “to monitor the quality
+of advice once contact is made”. unless “a detainee indicates diligently and
+reasonably, that the advice he or she received is inadequate, the police may
+assume the detainee is satisfied with the exercised right to counsel and are
+entitled to" proceed:
+willier, at para.
+42. an obligation to provide
+another opportunity to consult with counsel may be triggered by (i) a change in
+jeopardy, (ii) a new procedure involving the detainee, or (iii) an objectively
+observable indication that the detainee had not understood the advice received:
+r. v. sinclair,
+2010 scc 35, at paras.
+2, 55;
+r. v. kistuk,
+2025
+onca 195, at para.
+33. in
+r. v. lafrance,
+2022 scc 32, the supreme court
+found the third category was triggered where the accused came out of his
+initial conversation believing that he needed to “get a lawyer before i
+continue talking”. the accused “was obviously ignorant as to his rights”. the
+majority distinguished this situation from “general confusion”, which is not a
+ground requiring further consultation:
+lafrance, at paras.
+84-86, citing
+sinclair, at para.
+55.
+
+mr. munro asked several questions of the qualified breath
+technician, pc su, about his circumstances and the consequences of different
+courses of action, including the consequences of complying or not complying
+with the breath demand. i do not find that these questions demonstrated that he
+had not understood the advice he had received from duty counsel. the series of
+questions began with mr. munro confirming that he understood the breath demand
+and asking whether it was in his best interests to have a lawyer present. pc su
+explained that the lawyer was not coming and noted that mr. munro had just
+spoken with duty counsel. mr. munro agreed (“i did, yeah”). mr. munro then
+volunteered that he was “just asking questions, you know. never been in a situation
+like this”. pc su indicated this is not uncommon. he volunteered to answer any
+questions mr. munro had and to walk him through the process.
+
+it appeared to me that mr. munro simply wished to walk through
+what was happening, step by step, as pc su had offered to do. a desire to do so,
+to my mind, is not a clear indication that he misunderstood the advice he had
+received from his lawyer on whether to cooperate with police.
+
+there could have been many different motivations for wanting to
+talk things through with the officer before providing a sample. the defence argument
+rests largely on mr. munro’s evidence that he did not feel like he had received
+everything he needed from duty counsel, and did not raise this concern because
+he was not asked. i reject mr. munro’s evidence on this point, in part based on
+the general concerns regarding his credibility that i raised earlier, and in
+part because his professed reluctance to speak up on his own behalf is
+inconsistent with his conduct throughout the evening.
+
+in his testimony, mr. munro did not elaborate on what he did not
+understand coming out of his call with duty counsel. i am satisfied, however,
+that if mr. munro had been dissatisfied with the advice he had received, he
+would have said so. while speaking with pc su, mr. munro twice mentioned having
+spoken with duty counsel. he did not express uncertainty regarding the advice
+he had received.
+
+i conclude that pc su was not obliged by s. 10(b) to inquire
+further whether mr. munro was satisfied with the advice he had received. i find
+no s. 10(b) breach occurred at this stage of the investigation.
+3
+charter, s. 8: video
+recording cell toilet
+
+a booking video entered as an exhibit at trial
+depicts the cell area. after mr. munro was lodged in a cell, he was videotaped
+standing, facing the toilet with his back to the camera. he appeared to
+urinate. mr. munro testified on the
+charter
+voir dire
+that this
+was embarrassing to him, as parts of his underwear were exposed.
+
+defence counsel argues that the video recording
+of his client in these circumstances infringed his s. 8
+charter
+right to
+be free from unreasonable search and seizure. the argument rests on
+r. v.
+mok,
+2012 oncj 291, rev’d,
+2014 onsc 64, leave to appeal ref’d,
+2015 onca
+608. in that case, the trial judge and summary-conviction-appeal judge (whose
+decision is binding on me) found a s. 8 breach when a detainee was videotaped
+using the cell toilet.
+
+determining whether the videotaping in this case
+infringed mr. munro’s rights depends on whether it interfered with a reasonable
+expectation of privacy that he enjoyed in the circumstances. a search occurs
+within the meaning of s. 8 where state conduct interferes with a reasonable
+expectation of privacy. video surveillance interfering with such an expectation
+will qualify as a search, which must conform with the requirements of s. 8. to
+determine if there is a reasonable expectation of privacy, courts consider the
+“totality of the circumstances”, including the claimant’s subjective
+expectation of privacy and the objective reasonableness of that expectation. see
+r. v. mok,
+2014 onsc 64, at paras.
+54-55, citing
+r. v. wong,
+1990 canlii 56 (scc), s.c.j. no. 118, at para.
+47,
+r. v. edwards,
+1996 canlii 255 (scc), 1 s.c.r. 128,
+at para.
+45, and
+r. v. tessling,
+2004 scc 67, at para.
+19.
+
+i am prepared to assume that mr. munro had a
+subjective expectation of privacy. he testified that he was told the cell was
+being videotaped, and that if he used the washroom, the camera would block out
+his genital area. he testified that he believed nothing would be seen if he
+used the toilet. he testified he was embarrassed that the rear of his underwear
+had been depicted on the video. notwithstanding my earlier comments about mr.
+munro’s lack of credibility, i am prepared to assume that he believed a larger
+area surrounding the toilet was obstructed and would not be captured on video,
+such that if he lowered his pants and stood facing the toilet his underwear
+would not be recorded.
+
+i note, however, that having reviewed the video,
+mr. munro’s underwear is not visible when he stands to urinate. further, i am satisfied
+that any subjective expectation of privacy was not objectively reasonable.
+
+the videotaping at issue occurred while mr.
+munro was a detainee in police custody. this diminishes the objective reasonableness
+of any expectation of privacy. police record the cells for a variety of reasons
+relating to health, safety and security: see e.g.,
+r. v. mok,
+2014 onsc
+64, at para.
+76-78. in this context, many of the factors identified in
+r. v.
+edwards
+as informing the totality of the circumstances point away from
+finding an expectation of privacy. police possess and control the place
+searched and have sole authority to regulate access to the cells.
+
+the superior court in
+mok
+held that
+police have a legitimate interest in recording the cells, but that this must be
+balanced against a detainee’s legitimate expectation that they will not be
+recorded using the toilet. placed in the terms of the
+edwards
+factors, mr.
+munro’s presence at the time of the recording points towards an expectation of
+privacy. his inability to leave, combined with the biological fact that he may
+need to use the toilet while in custody, creates a very real prospect that he
+may have to engage in a private activity while in that space.
+
+the court in
+mok, faced with these
+circumstances, was satisfied that the “use of a modesty screen that protects
+the lower part of a person’s body while using the toilet” would appropriately
+balance state and individual interests:
+r. v. mok,
+2014 onsc 64, at
+para.
+77. in response to that judgment, york regional police and other police
+services implemented measures to ensure that detainees have privacy while using
+the toilet: see
+r. v. mok,
+2015 onca 608, at para.
+5. as a result, the
+portion of the cell video of mr. munro that would otherwise depict the toilet
+is blacked out. the police have taken steps to ensure that the area in which a
+detainee would most likely be naked is not captured on the video.
+
+police took steps to ensure that mr. munro was
+aware of the video monitoring and recording and that the toilet area was
+obscured. mr. munro was advised that the cells were video-recorded, and that
+the area of the toilet was obscured, so as not to be captured on video. sgt. price
+is seen on the video gesturing in the air to explain the privacy box. mr. munro
+acknowledged in his testimony being aware of these facts.
+
+mr. munro had options open to him if he did not
+want to be captured on video as he testified he was. he could have sat on the
+toilet to urinate. sgt. price testified that nothing would have been visible on
+screen if mr. munro had been seated. it appears that a detainee could also urinate
+without lowering the rear of their pants below their buttocks, simply by opening,
+or lowering, only the front of his pants. this is what mr. munro did.
+
+what was captured on video in this case is
+starkly different than what was captured in
+mok. in that case, the
+camera “captured a full frontal view of [the detainee]” as she lowered her
+pants and “had an unobstructed view of [her] sitting on the toilet”. the
+placement of the toilet paper in cell led her “to stand up, with her pants at
+her ankles and take 2 steps in order to retrieve the paper and then return to
+sitting on the toilet”. the camera had an unobstructed view of her using the
+toilet paper. it captured her “fully exposed to the video camera” as she pulled
+up her undergarment and pants. it depicted her genitalia and use of the toilet:
+r. v. mok,
+2014 onsc 64, at paras.
+32, 48.
+
+in contrast, what happened to mr. munro was
+benign. mr. munro is seen adjusting his pants and facing a toilet. there is no
+nudity. you can infer he is urinating. but no stream of urine is depicted. all
+that is seen is what one would expect to see in a large public men’s room with
+multiple urinals: a fully-clothed man standing, facing a wall.
+
+i find that the videotaping of mr. munro’s cell
+did not interference with a reasonable expectation of privacy: there was no
+search, and no infringement of the s. 8 right against unreasonable search and
+seizure. people in police custody are entitled to expect accommodations will be
+made to ensure that they are not recorded naked when they must expose
+themselves to use the washroom. yrp have made accommodations that appropriately
+balance the need to afford some privacy while monitoring the cells to ensure
+health, safety and security. a reasonable person in the circumstances would
+understand that the toilet area was blocked from monitoring and recording, but
+areas beyond it may be visible. people in these circumstances, armed with this
+knowledge, have options to ensure that they are not recorded while naked (e.g.,
+sitting on the toilet).
+b.
+should the evidence be excluded under s. 24(2)?
+
+the defence submits that the infringement of mr.
+munro’s s. 10(b) right to counsel should lead to the exclusion of his breath
+samples from evidence under s. 24(2). section 24(2) directs courts to exclude
+evidence “obtained in a manner that infringed or denied any of the rights or
+freedoms guaranteed by the
+charter
+” if satisfied that “the admission of
+it in the proceedings would bring the administration of justice into disrepute”.
+
+evidence will meet the threshold of having been
+“obtained in a manner” that breached the accused’s rights where a connection
+exists between the evidence and the breach. the connection may be causal,
+temporal or contextual, or a combination of all three. but it must not be too
+tenuous or remote. the fact that the discovery of evidence and a breach occur
+in “the same transaction or course of conduct” is indicative of the evidence
+being tainted, and potentially excludable under s. 24(2). see
+r. v. tim,
+2022 scc 12, at para.
+78;
+r. v. pino,
+2016 onca 389, at para.
+72.
+
+i am satisfied the samples were obtained in a
+manner that infringed mr. munro’s
+charter
+rights. mr. munro’s breath
+samples were seized and analyzed in the same transaction in which his right to
+counsel was infringed. there is no causal connection between the evidence and
+the breach: the breach did not cause the police to seize mr. munro’s breath
+samples. but the evidence and breach are temporally and contextually connected.
+the connection is not tenuous or remote.
+
+i must next consider the factors set out in
+r.
+v. grant,
+2009 scc 32, to determine whether admission or exclusion of the
+evidence would better serve the “overall repute of the justice system, viewed
+in the long term”. the analysis starts from the conclusion that a breach has
+occurred, “and seeks to ensure that evidence obtained through that breach does
+not do further damage to the repute of the justice system”:
+grant, at
+paras.
+68-70. the analysis considers three factors: (1) the seriousness of the
+charter
+-infringing
+state conduct; (2) the impact of the breach on the accused’s
+charter
+-protected
+interests; and (3) society’s interests in an adjudication of the case on its
+merits:
+grant, at para.
+71.
+1
+seriousness of the
+charter
+-infringing state
+conduct
+
+the delay was approximately nine-minutes long. this
+period is significant from a constitutional perspective, as the right to
+counsel must be explained immediately. but the period was relatively brief.
+
+assessed in context with the remainder of pc
+graham’s conduct, the delay appears to be an aberration. i am satisfied that pc
+graham was aware of the obligation to read the right to counsel without delay, and
+was doing his best to comply with that obligation in a context where he
+believed he needed to delay:
+(1)
+pc graham was not ignorant of mr. munro’s
+charter
+rights. he testified he had been taught that the right to counsel had to be
+read immediately. he indicated almost right away after they entered the police
+cruiser that he needed to read mr. munro something. pc graham did not try to
+elicit any incriminating information from mr. munro, which would have
+aggravated the seriousness of the breach:
+r. v. davis,
+2023 onca
+227, at para.
+67;
+(2)
+the delay was subjectively motivated by a desire
+to take steps that pc graham believed were necessary before he could read mr.
+munro his rights, not out of ignorance for or disregard of mr. munro’s
+charter
+rights or out of bad faith. i find he was working diligently to reach the point
+where the computer system would allow him to read mr. munro his rights;
+(3)
+pc boyd cautioned mr. munro right at the outset
+of the arrest regarding his right to silence. pc graham told him, informally,
+within about four minutes of entering the cruiser that he would have an
+opportunity to speak to counsel and that police would help facilitate access to
+counsel of choice. this is not a substitute for a full reading of the right to
+counsel, which would have additionally provided information about the
+availability of free duty counsel. but it demonstrates that at least part of
+the message included in a full recitation of the right to counsel was provided
+relatively early in the post-arrest interactions;
+(4)
+approximately four minutes of the nine minutes
+were consumed responding to mr. munro’s questions. this does not change the
+facts that the right to counsel could have been read immediately. but it does
+explain some of the delay; and
+(5)
+throughout the time in the car, pc graham
+expressed what i find to be genuine concern about ensuring that mr. munro would
+not incriminate himself, would have access to counsel in private, and would
+have access to counsel of choice, if he so desired.
+
+these factors suggest that the seriousness of
+the
+charter
+-infringing state conduct should offer little support for
+exclusion.
+
+however, what happened in this case does not
+appear to be an isolated incident. the seriousness of the breach is increased
+significantly by the fact that what happened in this case has happened before
+in this jurisdiction. crown counsel shared with me
+r. v. khan
+(6 march
+2025), newmarket (ont. c.j.). in that case, robinson j. found a s. 10(b) breach
+where the reading of the right to counsel was delayed by just under five
+minutes. the delay was attributed to the operational requirements of the in-car
+computer system:
+according to p.c.
+kadva’s testimony, he did not begin reading ms. khan her right to counsel until
+3:25, as he had to first input her information into the onboard computer before
+it would allow him to proceed to the right to counsel screen.
+he testified
+that he could have attempted to do it from memory but chose to do it from the
+computer screen to make sure that he was reading it
+verbatim. he did not
+know if he was able to skip forward to the rights to counsel screen without
+first completing the screens requiring the accused’s information.
+…
+… i accept
+p.c. kadva’s evidence that he did not know how to fast forward to the right to
+counsel screen without first inputting information on the previous screens. i
+also accept his evidence that he did not want to “wing it” because he wanted to
+make sure that he provided right to counsel
+verbatim. p.c. kadva was not
+asked if he had the right to counsel script printed at the rear of his physical
+notebook.
+the solution,
+moving forward, must involve officers being trained how to access the right to
+counsel screen before completing the previous screens; if this feature is not
+available, police officers ought to carry a printed copy of the right to
+counsel with them from which they can read before inputting all information on
+their onboard computer
+khan
+(2025), at paras. 43-44, 68-69.
+
+in both this case and
+khan, police felt like they had to delay
+reading the right to counsel until they reached the appropriate prompt from
+their in-car computer systems. in both cases, the clocked ticked away while the
+arresting officers typed data into the computer as a prelude to arriving at the
+right-to-counsel screen. pc graham testified that this was a new system that
+had been rolled out by yrp.
+
+given the similarity between the two
+cases, i have considered whether i should treat the breach as systemic. in
+r.
+v. rover,
+2018 onca 745, at para.
+40, our court of appeal explained that systemic
+charter
+breaches—ones “that are the direct result of systemic or
+institutional police practices”—must be treated as more serious under the first
+grant
+factor. the court explained why: “a police
+practice that is inconsistent with the demands of the
+charter
+produces
+repeated and ongoing constitutional violations that must, in the long run,
+negatively impact the due administration of justice.”
+
+is this breach the result of
+a systemic or
+institutional police practice
+? i am aware of two examples in this
+jurisdiction. the two cases were separated by about ten months: mr. munro was
+arrested in october 2024; ms. khan was arrested in december 2023. the evidence
+does not allow me to conclude that this issue is systemic in the sense that all
+or most officers are doing it, or that officers were directed to do it. the
+evidence does allow me to conclude that there is a larger problem than just one
+officer’s misunderstanding of how to balance the operational requirements of a
+computer system with the constitutional requirement that the right to counsel
+be read immediately.
+
+this fact aggravates the seriousness of the breach and the need for
+the court to dissociate itself from the police misconduct. i note that while the events at issue in
+this case occurred in october 2024, ten months after the events at issue in
+khan,
+in december 2023, they occurred about five months before robinson j. released
+his reasons in
+khan. when mr. munro was arrested, robinson j. had not
+yet alerted yrp to the problem, or its clear solutions. if what happened in
+this case had occurred after robinson j. put yrp on notice that this issue
+needed to be fixed, the seriousness of the breach would have been far worse.
+
+it should be clear from these comments that if the problem evident
+in this case and
+khan
+has not been eliminated already from yrp
+practices, this must be done now.
+2
+impact on the accused’s
+charter
+-protected
+interests
+
+this line of inquiry does not favour exclusion.
+the informational component of s. 10(b) is a means to enjoying the
+implementational component of the right. it also serves to assure
+detainees that “‘they are not entirely at the mercy of the police while
+detained’ and are entitled to a ‘lifeline to the outside world’ through which”
+they can learn of their legal rights and obligations:
+r. v. davis,
+2023
+onca 227, at para.
+41.
+
+the delay here unreasonably deprived mr. munro of information to
+which he was entitled regarding his right to consult counsel. however, i am satisfied
+that the breach had little impact for mr. munro. in the time leading up to pc
+graham reading mr. munro his right to counsel, mr. munro asserted his desire to
+speak with a lawyer at least ten times, and had asserted his right to silence: e.g.,
+“without my lawyer present, i’m not answering”. although pc graham did not
+formally read mr. munro his right to counsel until 1:01 a.m., early in their
+interactions in the cruiser, shortly after 12:55 a.m., pc graham confirmed mr.
+munro’s understanding that he would be able to speak to a lawyer, but not until
+they were at the station.
+
+the fact that mr. munro plainly understood there is a right to
+counsel does not undermine the seriousness of the breach. a detainee’s prior
+knowledge of their rights is no substitute for police complying with their
+informational obligations. however, mr. munro’s knowledge that he was entitled
+to legal advice, as confirmed relatively quickly by pc graham, shows that in
+this case the delay and breach had little discernible impact
+on mr. munro’s
+charter
+-protected interests. mr. munro firmly
+believed he would be able to implement his right to counsel, so would have a
+“lifeline to the outside world” while in police custody.
+3
+society’s interest in an adjudication on the merits
+
+this factor strongly favours admission of the
+evidence. the breath-sample analysis is essential to the crown’s case. it is
+highly reliable evidence demonstrating that mr. munro’s bac was nearly three
+times the legal limit. society has a compelling interest in prosecuting allegations
+of drinking and driving given their prevalence and the
+grave risk this conduct poses to public safety. excluding reliable evidence
+critical to the crown’s case would “undermine the truth-seeking function of the
+justice system and render the trial unfair from the public’s perspective, thus
+bringing the administration of justice into disrepute”: see
+r. v. beaver,
+2022 scc 54, at para.
+131.
+4
+balancing
+
+the final stage of the
+grant
+analysis involves assessing
+and balancing each of the three factors, “focussing on the long-term integrity
+of, and public confidence in, the administration of justice”:
+r. v. tim,
+2022 scc 12, at para.
+98. the question is whether admitting the evidence would
+bring the administration of justice into disrepute:
+beaver, at para.
+133. in this analysis, the first two
+grant
+factors will generally pull
+only in favour of exclusion. the extent of that pull varies in each case. where
+both of the first two factors strongly favour exclusion, the third factor “will
+seldom, if ever” lead to inclusion; if only one of the first two factors
+strongly favours exclusion, the third factor becomes important. it always
+pushes, to varying degrees, in favour of inclusion. it does so strongly “where
+the evidence is reliable and critical to the crown’s case”:
+r. v. mcguffie,
+2016 onca 365, at paras.
+62-63.
+
+the breach, viewed in isolation, was not serious. but assessed in
+light of the highly similar breach found in
+khan, the breach must be
+seen as serious and weighing firmly in favour of exclusion: yrp is using a
+computer system that has caused at least two officers to conclude that
+administrative tasks needed to be prioritized over the
+charter
+-mandated obligation
+to read a detainee the right to counsel immediately.
+
+while the breach is serious, the impact on mr. munro’s
+charter
+-protected
+interests was small. for around nine minutes, pc graham delayed reading mr.
+munro his right to contact counsel; all the while, mr. munro persistently
+asserted his desire to contact counsel and, relatively early in the
+interaction, pc graham assured him that he would indeed have access to counsel.
+
+the
+evidence is highly reliable and critical to the crown’s case. its exclusion
+would result in an acquittal. its inclusion would result in a finding of guilt.
+
+i
+find that the third factor tips the balance. i am satisfied that exclusion of
+this evidence would do more harm to the long-term repute of the justice system
+than would its admission. the public would be alarmed by the exclusion of such
+critical evidence of a serious offence based on a breach that, while serious, lasted
+only nine minutes and had limited effect on the accused’s
+charter
+-protected
+interests.
+iii.
+disposition
+
+the
+application to exclude evidence under s. 24(2) of the
+charter
+is
+dismissed. i admit the breath-test results into evidence. the readings of 250
+and 239 mg of alcohol per 100 ml of blood are conclusive proof that mr. munro’s
+bac at the time of the samples was the lower of the two numbers, so 239 mg/100
+ml:
+criminal code,
+s. 320.31(1).
+
+the
+samples were taken at 1:56 and 2:18 a.m., which is within two hours after mr.
+munro ceased to operate a conveyance when he was pulled over just before 12:45
+a.m. as such, the crown has proved beyond a reasonable doubt that mr. munro had
+a bac exceeding the legal limit within two hours of operating a conveyance. i
+find him guilty of 80+ operation contrary to
+s. 320.14(1)
+(b) of the
+criminal
+code.
+released: october 6, 2025
+signed:
+justice perlin
+
+reasonable grounds to believe a suspect has committed this specific offence
+authorize the ai demand:
+criminal code,
+s. 320.28(1)(a)(i).
+reasonable grounds to believe a suspect has committed any indictable offence
+authorize an arrest without warrant:
+criminal code,
+s. 495(1)(a).
+an unlawful arrest offends the s. 9 charter right against arbitrary detention.
+breath samples seized pursuant to an unlawful demand are seized in
+contravention of the s. 8
+charter
+right against unreasonable search and
+seizure.

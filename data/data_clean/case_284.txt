@@ -1,0 +1,557 @@
+source url: https://www.canlii.org/en/on/oncj/doc/2025/2025oncj299/2025oncj299.html
+
+ontario court of justice
+citation:
+r. v. wanner, 2025 oncj 299
+date: 
+2025 06 02
+court
+file no.: hamilton 998 24 47106227
+between:
+his
+majesty the king
+— and
+—
+erin
+wanner
+reasons
+for judgment
+before
+justice davin m.k. garg
+heard
+on may 26, 2025
+reasons
+released on june 2, 2025
+simon mcnaughton........................................................................... counsel
+for the crown
+peter craniotis................................................................................. counsel
+for the accused
+garg j.:
+overview
+
+ms. wanner is charged with having a blood
+alcohol concentration over the legal limit within two hours of operating a
+motor vehicle. the crown alleges that she crashed into a light pole while three
+children were passengers in the vehicle. the parties ran a focused trial that raises
+the following questions:
+
+(1)
+when did the police detain ms. wanner? did they
+detain her prior to demanding that she provide a breath sample into an approved
+screening device?
+(2)
+has the crown established lawful breath demands?
+did the arresting officer make the screening demand and then take the sample
+immediately upon forming grounds to suspect that ms. wanner had operated a
+motor vehicle with alcohol in her body?
+(3)
+if i find a
+charter
+breach, should i
+admit into evidence the results of ms. wanner’s breath samples into the
+approved instrument?
+(4)
+has the crown proven beyond a reasonable doubt that
+ms. wanner was the driver of the motor vehicle?
+
+i answer each question as follows:
+(1)
+the police did not detain ms. wanner until they
+demanded that she provide a sample into the asd.
+(2)
+the crown has not established lawful breath demands.
+i am not satisfied that the officer made the demand and obtained a sample
+immediately upon forming reasonable suspicion. the unlawful demands caused breaches
+under ss. 8 and 9 of the
+charter.
+(3)
+i admit the results of ms. wanner’s breath
+samples into the approved instrument. admission does not bring the
+administration of justice into disrepute.
+(4)
+i am satisfied beyond a reasonable doubt that
+ms. wanner was the driver of the motor vehicle.
+
+since ms. wanner’s identity as the driver was the
+only issue on the trial proper, the admission of the breath samples proves her guilt
+beyond a reasonable doubt.
+facts
+
+i will only summarize the facts that are
+relevant to the issues.
+
+ms. norris was at home unloading groceries from
+her car around 2 or 2:30pm. she heard a collision. she ran over to see that a
+motor vehicle had crashed into a light pole. steam was emanating from the motor
+and wires were hanging from the pole. ms. norris rushed to help the occupants exit
+the vehicle. she saw an adult female—“the mom”—in the driver’s seat. three
+children were passengers. ms. norris called 911 once everyone had left the
+vehicle. emergency responders arrived fairly quickly. paramedics tended to “the
+mom”, whom ms. norris described as “very frazzled, very distracted, not very
+responsive to me”.
+
+cst. medeiros was dispatched to the accident
+scene at 2:47pm and arrived at 3:10pm. he saw an adult female, admitted to be
+ms. wanner, outside of the motor vehicle on the sidewalk with three children
+around her. no one was inside the vehicle. he briefly interacted with ms. wanner
+but backed off upon realizing that she was engaged with paramedics. he
+overheard her say that the sun had been in her eyes, which did not compute
+since the vehicle had been travelling northbound. around 3:13pm, he directed
+his partner, cst. pedicone, to obtain an approved screening device from the
+nearby police station. cst. pedicone returned with the asd at 3:23pm.
+
+cst. medeiros next interacted with ms. wanner
+after the paramedics had finished assessing her. at 3:29pm, with the asd now in
+hand, cst. medeiros approached and demanded that ms. wanner provide a screening
+sample. ms. wanner failed the test at 3:32pm, which told cst. medeiros that she
+was at least “over 80”. he arrested her at 3:33pm and read her rights to
+counsel at 3:35pm. she declined to speak with a lawyer at that moment. once
+arriving at the police station, cst. medeiros re-asked about her desire to
+consult with a lawyer, at which point she opted for duty counsel.
+
+there was one significant inconsistency in cst.
+medeiros’s evidence. during examination in-chief, he testified to believing that
+he had detected an odour of alcohol on ms. wanner at some point
+before
+asking cst. pedicone to obtain an asd. this version is consistent with the
+testimony of cst. pedicone, who testified that cst. medeiros informed him about
+smelling alcohol when requesting the asd. but in cross-examination, cst.
+medeiros testified that he smelled alcohol
+after
+requesting the asd once
+the paramedics had finished with ms. wanner. as he testified: “i then was
+asking her for her information, her driver’s license, and that’s when i smelled
+the odour on her, and just thereafter pc pedicone arrived [with the asd]”.
+
+cst. medeiros disagreed that he had already formed
+his grounds for the screening demand when he asked cst. pedicone to retrieve
+the asd. he did agree that he formed grounds before the asd arrived on scene
+but described the gap as minimal: “i’d say yes—just prior, i would say yes. it
+was a very short time”.
+when did the police detain ms. wanner?
+
+the crown argues that cst. medeiros detained ms.
+wanner at 3:29pm when he demanded that she provide a sample into the asd. the
+defence argues that the detention occurred earlier in the interaction, at some
+point closer to 3:10pm when cst. medeiros arrived at the accident scene. if ms.
+wanner had been detained at the earlier time, then the defence argues that the
+police failed to discharge their obligations under ss. 10(a) and 10(b) of the
+charter.
+
+detention refers to circumstances in which a
+person’s liberty interests are significantly restrained by state authority. psychological
+detention is established when a reasonable person in ms. wanner’s position would
+have concluded that they were under the control and direction of the state by
+reason of the state conduct:
+r. v. grant,
+2009 scc 32
+at para.
+44
+(1);
+r.
+v. corner,
+2023 onca 509
+at para.
+80. ms. wanner bears the onus of
+demonstrating on a balance of probabilities that she was psychologically
+detained by establishing an evidentiary record to support the claim:
+r. v.
+reid,
+2019 onca 32
+at para.
+23.
+
+the evidence does not establish that ms. wanner
+was detained before the screening demand. any preceding interactions between
+cst. medeiros and ms. wanner occurred while cst. medeiros was orienting himself
+to the accident scene and sorting things out. as he testified, “it was a bit of
+a commotion”. he was engaged in general inquiry:
+r. v. guenter,
+2016
+onca 572
+at para.
+44. cst. medeiros did not do anything to single out ms.
+wanner for focused investigation:
+grant
+at para.
+31
+(a). i accept that
+his initial interactions with ms. wanner were minimal. there is no evidence
+that he asked ms. wanner about the accident or whether she had been drinking. he
+did not elicit her comment about the sun being in her eyes through focused
+interrogation. he only asked to see her driver’s license. the evidence
+discloses that cst. medeiros was equally concerned about the wellbeing of the
+three children.
+
+the police conduct does not support a detention.
+cst. medeiros did not assert control over the situation. he allowed the
+paramedics to discharge their duties. he kept his distance from ms. wanner—roughly
+six to ten feet—while she was being assessed by the paramedics. for most of the
+encounter, cst. medeiros was the only police officer on scene (whereas the
+presence of multiple officers could favour a detention; see
+grant
+at
+para.
+49
+). furthermore, the encounter occurred in public (as opposed to a
+police station), any interaction between ms. wanner and cst. medeiros was short,
+and the defence did not suggest that anything in ms. wanner’s personal
+characteristics would support a detention.
+
+the defence emphasized that cst. medeiros had
+grounds to detain ms. wanner upon smelling alcohol on her. in other words, cst.
+medeiros could have detained ms. wanner if he wanted to. that is true. but it
+does not establish a detention. the detention analysis examines the police
+conduct. an officer’s thoughts are not relevant unless they manifest in
+objective conduct:
+r. v. desilva,
+2022 onca 879
+at para.
+60;
+r. v. macmillan,
+2013 onca 109
+at para.
+37;
+reid
+at para.
+44. grounds are necessary to effect
+a lawful detention; their existence do not trigger a detention.
+
+to conclude, the evidence does not support that
+ms. wanner was detained before the screening demand. in view of this conclusion,
+the defence does not pursue any breaches of ss. 10(a) or 10(b). the defence
+acknowledges that the police informed ms. wanner of her rights to counsel and
+implemented those rights within the appropriate timeframes following the screening
+demand. the defence does not suggest that the police were required to afford
+ms. wanner her rights to counsel before receiving the screening sample: see
+r.
+v. sillars,
+2022 onca 510
+at paras.
+52-67;
+r. v. droog,
+2022
+onsc 5033
+at paras.
+36-39;
+r. v. robbins,
+2023 mbpc 57
+at
+paras.
+29-30, aff’d
+2025 mbkb 31
+at para.
+91.
+were the demands
+for breath samples lawful?
+
+the police obtained breath samples from ms.
+wanner without a warrant. since the defence brought a s. 8
+charter
+application, the crown must prove that the samples were obtained pursuant to a
+lawful demand. i do not accept that the crown is only required to prove that
+the officer had sufficient grounds to make the demand. the crown did not
+provide case law to support this position. the crown must prove that the
+preconditions were met for a warrantless seizure. the immediacy requirements of
+the screening demand under
+s. 320.27(1)
+of the
+criminal code
+are part
+and parcel of a lawful demand for the seizure: see
+r. v. woods,
+2005 scc
+42
+at paras.
+14-15.
+
+i do not know exactly when cst. medeiros formed
+grounds to make a screening demand. on the one hand, i find cst. medeiros to be
+a credible witness. there was no meaningful impeachment of his evidence. the
+defence argued that cst. medeiros’s credibility was undermined by resisting a
+suggestion that he had discretion to handcuff a detainee to the front. but cst.
+medeiros functionally agreed that he had such discretion and credibly explained
+why he nonetheless handcuffed ms. wanner to the rear. he simply misunderstood the
+meaning of “discretion”. the defence also argued that it belied belief that cst.
+medeiros requested an asd without having already decided to make a screening demand.
+i disagree. it was reasonable for cst. medeiros to take proactive steps, even
+if he did not know if an asd would ultimately be required. while the scene was
+unsettled, firefighters and paramedics were assisting—the loss of one officer
+for ten minutes was not going to pose a problem. i do not accept that the
+decision to request an asd invariably means that cst. medeiros had already
+formed grounds for the screening demand. i accept that he wanted the asd
+because it was “an option” that he could use.
+
+on the other hand, the evidence shows that cst.
+medeiros smelled alcohol on ms. wanner well before making the screening demand.
+cst. medeiros initially testified that he smelled alcohol before asking cst
+pedicone to secure an asd. according to cst. pedicone, when cst. medeiros sent him
+for the asd around 3:13pm, cst. medeiros advised him that he had smelled
+alcohol on the accused’s breath. the parties agree that the odour of alcohol, together
+with other information known to cst. medeiros, would have afforded him with ample
+grounds to make a screening demand.
+
+based on the evidentiary record, i am left uncertain
+on when cst. medeiros formed his grounds to make a screening demand. the
+inconsistency in his evidence does not render him incredible—i do not reject
+his testimony that he did not form grounds until later. but i also do not
+accept this part of his testimony. i cannot say whether cst. medeiros formed
+grounds upon initially smelling alcohol or needed time to assess the situation.
+
+in sum, the crown has not shown that cst.
+medeiros made the screening demand immediately upon forming his grounds. the
+failure to immediately make the demand renders it unlawful. the demand and the
+detention it created breached ms. wanner’s rights under s. 9. the taking of the
+screening sample without lawful authority breached s. 8. the subsequent evidentiary
+demand to provide samples into an approved instrument rested on ms. wanner
+having failed the asd. consequently, that demand and the associated arrest breached
+s. 9. the evidentiary samples that ms. wanner ultimately provided into the
+approved instrument breached s. 8.
+
+it is arguable whether the delay in making the
+screening demand constituted a breach in this case given that ms. wanner was
+not detained and was being assessed by paramedics: see
+macmillan
+at
+para.
+39. however, cst. medeiros did not assert that he delayed the demand to
+avoid interfering with the paramedics. i will leave my assessment of these circumstances
+to the s. 24(2) analysis.
+should the
+results of the breath samples be admitted into evidence?
+
+section 24(2) requires that evidence obtained in
+a manner that infringes the
+charter
+be excluded if the defence persuades
+me that “having regard to all the circumstances, the admission of it in the
+proceedings would bring the administration of justice into disrepute”:
+r. v.
+mccolman,
+2023 scc 8
+at para.
+53;
+grant
+at para.
+68. the s. 24(2)
+analysis engages three lines of inquiry. i will address each in turn.
+the seriousness
+of the
+charter
+-infringing conduct
+
+the first line of inquiry focuses on the extent
+to which the
+charter
+-infringing conduct deviates from the rule of law. i
+must situate the police misconduct on a scale of culpability.
+
+i do not find the misconduct in this case to be
+grave. it was relatively benign.
+
+any delay in making the screening demand was
+attributable to the dynamics of the accident scene.
+
+cst. medeiros was concerned
+about everyone’s wellbeing. he was trying to understand the cause of the
+collision. he needed to pursue his investigation without trenching on the work of
+the paramedics. the delay in this case did not exceed 16 minutes
+at most.
+
+there was no deliberate, intentional, or
+flagrant police misconduct. i reject that cst. medeiros tried to mislead the
+court and avoid a
+charter
+breach by saying that he formed his grounds at
+a later point. similarly, i see no basis to find that cst. medeiros manipulated
+the situation or his testimony because he knew of the problems that could arise
+from not having an asd on scene: see
+r. v. breault,
+2023 scc 9.
+
+despite finding that the police committed multiple
+charter
+breaches, it is not axiomatic that the police misconduct was
+serious. while the two unlawful demands resulted in four
+charter
+breaches, they all trace back to a singular wrong: cst. medeiros’s delay in
+making the initial screening demand. in the absence of additional misconduct,
+my focal point for evaluating seriousness remains on the initial breach:
+r.
+v. zacharias,
+2023 scc 30
+at para.
+52. i do not fault cst. medeiros for
+proceeding with the evidentiary demand in the circumstances.
+
+the fact that the police did not initially
+possess an asd on scene does not factor into my analysis. i must focus on what
+transpired as opposed to what could have transpired if events had unfolded
+differently. there is no inherent wrong in the police not possessing an asd.
+the wrong only arises if the police make a screening demand and are not able to
+receive the sample. on the facts before me, cst. medeiros was ready to receive
+the sample upon making the demand.
+
+i conclude that the first line of inquiry only
+pulls slightly in favour of exclusion.
+the impact of the breaches on ms. wanner’s
+charter
+-protected
+interests
+
+the second line of inquiry asks me to consider the extent to which the breaches undermined
+ms. wanner’s
+charter
+-protected interests. infringements can range from fleeting
+or technical to profoundly intrusive.
+
+the impact on ms. wanner was moderate in this
+case.
+
+the impact on ms. wanner was negligible from cst.
+medeiros’s brief delay in making the screening demand. ms. wanner was not going
+anywhere. she was receiving medical attention. even brief delays can be
+significant when an individual is detained and held without access to counsel.
+but ms. wanner was not yet detained. she did not enjoy a right to consult with
+counsel.
+
+the impact on ms. wanner from the unlawful
+arrest was more significant. the unlawful screening demand directly led to an
+unlawful arrest, after which ms. wanner was handcuffed, transported to a police
+station, and detained for some period of time: see
+zacharias
+at
+para.
+72. while the process of obtaining breath samples is minimally
+intrusive (
+grant
+at para.
+111
+), i must consider the totality of the
+intrusions on ms. wanner’s privacy and liberty interests, which were marked but
+not egregious: see
+mccolman
+at para.
+68.
+
+i conclude that the second line of inquiry
+moderately favours exclusion.
+society’s interest in adjudication on the
+merits
+
+the third line of inquiry asks whether the
+truth-seeking function of the criminal trial process would be better served by
+the admission or exclusion of the evidence. i must consider the reliability of
+the evidence, the importance of the evidence to the crown’s case, and the
+seriousness of the alleged offences.
+
+the trial’s truth-seeking function demands the
+admission of the evidence. the breath sample evidence is reliable. it is
+central to the crown’s case. and the alleged offence is very serious. the supreme
+court in
+mccolman
+found the drinking and driving offence in that case to
+be serious: para. 73. the present case is even more serious. ms. wanner is
+alleged to have collided into a light pole with three children in her vehicle.
+
+i conclude that the third line of inquiry pulls
+strongly in favour of admission.
+balancing the three lines of inquiry
+
+the third line of inquiry pulls strongly in
+favour of admission and outweighs the cumulative weight of the first two lines
+of inquiry. if cst. medeiros had made the screening demand any sooner, it
+likely would not have made any functional difference. i accept that cst.
+medeiros made the demand and received the sample soon after ms. wanner finished
+with the paramedics. he would not have been expected to take the sample or
+implement rights to counsel while ms. wanner was still being assessed by the
+paramedics. given that the
+charter
+breaches likely had little to no
+practical ramifications, excluding the breath samples would bring the
+administration of justice into disrepute.
+was ms. wanner the driver?
+
+having admitted into evidence ms. wanner’s blood
+alcohol concentration, i must continue to the issues on the trial proper. the
+only live issue is whether the crown has proven beyond a reasonable doubt that
+ms. wanner was the driver of the motor vehicle that collided with the light
+pole.
+
+ms. wanner is presumed innocent. she carries no
+onus to disprove anything, including an element of the offence. the onus remains
+firmly on the crown. it is not enough for me to find that ms. wanner was
+probably or likely the driver. in that situation, i would need to acquit. while
+the crown is not required to prove its case to an absolute certainty, proof
+beyond a reasonable doubt falls much closer to an absolute certainty than the balance
+of probabilities. reasonable doubt can arise from the evidence or the absence
+of evidence.
+
+the crown presents a mostly circumstantial case
+to prove that ms. wanner was the driver. i must conduct an analysis pursuant to
+the principles articulated in
+r. v. villaroman,
+2016 scc 33. i must
+consider other reasonable possibilities or plausible theories that are
+inconsistent with guilt to decide whether an inference of guilt is the only
+reasonable inference. reasonable possibilities must be based on logic and
+experience applied to the evidence or the absence of evidence. “[i]t is for the
+trier of fact to determine whether any proposed alternative way of looking at
+the case as a whole is reasonable enough to raise a doubt about the guilt of
+the accused”:
+r. v. lights,
+2020 onca 128
+at para.
+39.
+
+the suggested possibility that i must consider is
+whether the driver fled the scene after interacting with the paramedics—leaving
+behind three children—followed by ms. wanner arriving on-scene and then being
+assessed by the paramedics for some unknown reason.
+
+this alternative is not reasonably possible. it
+is ruled out by logic and common sense. it is implausible that the driver in a serious
+collision would engage with paramedics and then leave the scene (while the
+children remained), followed by the paramedics assessing a different person who
+had not been in the vehicle. there is no evidence or suggestion that the
+vehicle struck or injured anyone outside it.
+
+rather, i am satisfied beyond a reasonable doubt
+that ms. wanner’s identity as the driver is the only reasonable inference. it
+only makes sense that she was the adult female seen in the driver’s seat and
+interacting with paramedics,
+
+given that she was the adult female that cst. medeiros soon saw engaging with
+paramedics. there was only one adult female in the vehicle. and the timeline
+fits. ms. norris estimated the collision to have occurred around 2 or 2:30pm,
+cst. medeiros was dispatched to the scene at 2:47pm, and he arrived at 3:10pm.
+ms. wanner was also the registered owner of the motor vehicle in the collision.
+finally, while i put little weight on the identification evidence provided by
+ms. norris, it offered no exculpatory value. ms. norris identified ms. wanner
+as the driver in court. and her general description of the driver (gender, skin
+colour, and hair colour) aligned with ms. wanner’s appearance on the day of the
+offence as visible on the footage from the police cruiser.
+conclusion
+
+the crown has proven ms. wanner’s guilt beyond a
+reasonable doubt. the results of the breath samples are listed in the
+certificate of a qualified technician that was filed as exhibit 1. it is of no
+moment that ms. wanner ceased operating the motor vehicle more than two hours
+before she provided her first breath sample into the approved instrument. pursuant
+to s. 320.31(4), the crown has proven that her blood alcohol concentration
+was above the legal limit within the two-hour window.
+
+i find ms. wanner guilty of the sole count on
+the information.
+released: june
+2, 2025
+signed: justice davin m.k. garg
+
+the defence abandoned multiple claims pleaded in the written
+materials.
+
+the crown did not prove when cst. medeiros formed his grounds.
+for the sake of the s. 24(2) analysis, i will consider a scenario where he
+formed his grounds at the earliest occasion.
+
+see the evidence of ms. norris.

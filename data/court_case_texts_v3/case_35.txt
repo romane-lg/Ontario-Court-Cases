@@ -1,0 +1,1555 @@
+Source URL: https://www.canlii.org/en/on/oncj/doc/2025/2025oncj644/2025oncj644.html
+
+ONTARIO COURT OF JUSTICE
+CITATION:
+R. v. Andriano
+, 2025 ONCJ 644
+DATE: 
+December 8, 2025
+City of
+Toronto
+Court
+File Numbers:
+4860 999 23 23100321-00
+BETWEEN:
+HIS
+MAJESTY THE KING
+—
+AND —
+JACQUES ANDRIANO
+Before
+Justice of the Peace R. Shawyer
+Heard
+on November 14, 2025, and in writing.
+Reasons
+for Judgment released on December 8, 2025
+Bendick, C ……………………………………………………. counsel
+for the Prosecution
+Rosso, D....................................................................................... 
+counsel for the Defendant
+JUSTICE OF THE PEACE SHAWYER:
+Introduction
+[
+1
+]
+As this Court wrote in
+R
+v. Andriano
+,
+2025 ONCJ
+431
+the
+Ontario
+Provincial Offences Act
+,
+R.S.O. 1990, c. P.33
+(hereinafter “
+POA
+”) was
+designed to provide a fair, efficient, and convenient
+method of dealing offences that come before Provincial Offences Courts in
+Ontario
+[i]
+. Therefore,
+it should follow that disclosure,
+the evidence the
+prosecution relies on to prosecute defendants under the
+POA
+, should be
+simple and brief
+[ii]
+However that is not always necessarily the case.
+[
+2
+]
+The Supreme Court of Canada’s (hereinafter the SCC”) decision in
+R. v. Stinchcombe
+,
+1991 CanLII 45 (SCC)
+, [1991] 3 S.C.R. 326 (hereinafter “
+Stinchcombe
+”) governs the disclosure
+regime in criminal law cases in Canada. Since
+POA
+offences are
+quasi-criminal
+[iii]
+in nature Stinchcombe also governs disclosure in
+POA
+Courts.
+Since
+POA
+offences are
+quasi-criminal in nature the question becomes how strictly to apply Stinchcombe
+in
+POA
+matters. In other words, does the
+nature and
+intensity of disclosure obligations differ between criminal cases and
+POA
+cases. This was a question that was before the Ontario Court of Appeal in
+York (Regional Municipality) v. McGuigan
+,
+2018 ONCA 1062
+(hereinafter “
+McGuigan
+”), which the ONCA declined to address
+[iv]
+. Therefore, since the ONCA
+declined to answer of whether the
+nature and
+intensity of disclosure obligations differ between criminal cases and
+POA
+cases it is left to lower Courts, such as this one, to answer the question.
+Background
+[
+3
+]
+On August 20, 2025, in its reasons for decision, the Court outlined the facts
+in the case at bar, as best as the Court understood them. For the purposes of context,
+the Court will again outline the facts of the case at bar.
+[
+4
+]
+In an affidavit that was filed with the Court in support of their 11(b)
+Charter
+Application, the defendant stated that they purchased the subject property, 346
+Dundas Street East in the City of Toronto (hereinafter “346 Dundas”), on
+December 1, 2004.
+[
+5
+]
+On or about July 7, 2014, a building inspection was carried out by the
+City of Toronto (hereinafter the “City”) at 346 Dundas. After that inspection
+the defendant was found to be in contravention of Section 8, Subsection (1) of
+the
+Building Code Act
+,
+S.O. 1992, c.23
+, as amended (hereinafter “
+Building
+Code Act
+”). Therefore, on July 9, 2014, the defendant was charged with
+being in contravention of Section 8(1) of the
+Building Code Act
+.
+[
+6
+]
+On July 13, 2015, the City sent the defendant a letter entitled “Notice
+of Court Action” in relation to the July 9, 2014, charges. The City gave the
+defendant until February 3, 2015, to discuss this matter with a Manager of
+Inspections to see if legal action could be avoided.
+[
+7
+]
+On September 6, 2019, the City sent the defendant another letter
+entitled “Notice of Court Action” in relation to the July 9, 2014, charges. The
+City again gave the defendant an opportunity to discuss this matter with a
+Manager of Inspections to see if legal action could be avoided. This time the
+City gave the defendant until September 20, 2019.
+[
+8
+]
+On November 23, 2021, the City laid an information before the Court. That
+information charged the defendant with failing to comply with an order dated July
+9, 2014, made by an inspector pursuant to Section 12, subsection 2 of the
+Building
+Code Act
+. However, that the information was withdrawn in Court on May 16,
+2022.
+[
+9
+]
+On March 21, 2022, and April 4, 2022, the City ordered the defendant to again
+comply with the
+Building Code Act
+. The City ordered the defendant to do
+so because it alleged that the defendant had violated the
+Building Code Act
+by converting a garage located at 346 Dundas into a habitable space without a
+permit, amongst other alleged violations.
+[
+10
+]
+On July 18, 2022, a Senior Building Inspector for the City of Toronto issued
+an Order to Comply (hereinafter the “Order”) to the defendant. The Order directed
+the defendant before the Court to obtain a building permit for or remove three unauthorized
+constructions at 346 Dundas. The three unauthorized constructions identified by
+the Senior Building Inspector on July 18, 2022, were as follows:
+1.
+Wooden balcony structures.
+2.
+Two 3
+rd
+floor additions.
+3.
+The replacement
+of a garage door with a wall.
+[
+11
+]
+On March 24, 2023, the City laid a new information before the Court. This
+information charged the defendant with:
+1.
+Count 1: On
+February 9, 2023, at 346 Dundas Street East in the City of Toronto committing
+the offence of constructing or causing the construction of a building without a
+permit being issued by the Chief Building Officer, contrary to section 36(1) of
+the
+Building Code Act
+; and
+2.
+Count 2: On
+February 9, 2023, at 346 Dundas Street East in the City of Toronto committing
+the offence of failing to comply with an order dated July 18, 2022, made by a
+City of Toronto Building Inspector pursuant to section 12, subsection 2 of the
+Building
+Code Act
+contrary to section 36(1)(b) of the
+Building Code Act
+.
+[
+12
+]
+On October 21, 2024, count one on the March 24, 2023, information, was
+withdrawn. That left the remaining count, count 2, on the March 24, 2023,
+information before the Court as November 14, 2025.
+Procedural Background –
+Disclosure Motion
+[
+13
+]
+The argument of the defendant’s disclosure proceeded thusly:
+1.
+The defendant’s
+matter, after oral argument of the defendant’s 11(b) of the
+Charter Rights
+and Freedoms
+(hereinafter the “Charter”)
+[v]
+Application on July 30, 2025, was adjourned to September 26, 2025, in case the
+defendant’s 11b Application was denied.
+2.
+On August 20, 2025,
+the Court issued reasons for decision denying the defendant’s request for a
+stay of proceedings pursuant to
+section 11(b)
+of the
+Canadian Charter
+on the
+basis that the matter, on a net basis, had taken more than 18 months to reach a
+conclusion.
+3.
+On September 18,
+2025, the parties agreed to adjourn the defendant’s matter from September 26, 2025,
+to November 14, 2025, because of the unavailability of the Court on September
+26, 2025.
+4.
+Between
+September 18, 2025, and October 7, 2025, the Court was advised that the
+defendant’s position was that they intended to use the scheduled Court date on
+November 14, 2025, to argue a motion for disclosure.
+5.
+On October 7, 2025,
+the Court sent out an email to counsel advising that the defendant’s motion for
+disclosure should be heard in writing, which counsel for the City agreed to.
+However, counsel for the defendant did not agree, based on instructions from
+the defendant the Court learned on November 14, 2025, to have their disclosure
+motion proceed in writing. Therefore, the defendant’s matter returned to Court
+on November 14, 2025, with both counsel present but not the defendant due to
+ongoing medical issues, for oral argument of the defendant’s disclosure motion.
+6.
+On November 14,
+2025, counsel for the defendant proceeded to begin arguing their client’s
+motion for disclosure. However, counsel for the defendant was unable to
+complete oral argument of the defendant’s motion on November 14, 2025 because
+the Court did not have (1) a chart setting out the disclosure the defendant was
+seeking, whether the disclosure the defendant was seeking was first or third
+party disclosure, and the relevance of the disclosure the defendant was seeking,
+and (2) a factum/statement of law from the defendant explaining to the Court
+the law governing disclosure in
+Provincial Offence Act
+(hereinafter “
+POA
+”)
+matters in Ontario.
+[
+14
+]
+Before Court adjourned for the day on November 14, 2025, the parties
+agreed to two things
+1.
+provide the
+chart and factum/statement of law that the Court had originally requested on
+October 7, 2025, via email, and again requested from counsel on November 14,
+2025; and
+2.
+a timeline for
+serving and filing the materials that the Court requested.
+The Law and Analysis
+[
+15
+]
+In the headnote to the SCC decision in
+Stinchcombe
+the disclosure
+scheme as outlined in
+Stinchcombe
+was explained as follows:
+[t]he
+Crown has a legal duty to disclose all relevant information to the
+defence.  The fruits of the investigation which are in its possession are
+not the property of the Crown for use in securing a conviction but the property
+of the public to be used to ensure that justice is done.  The obligation
+to disclose is subject to a discretion with respect to the withholding of
+information and to the timing and manner of disclosure.  Crown counsel has
+a duty to respect the rules of privilege and to protect the identity of
+informers.  A discretion must also be exercised with respect to the
+relevance of information.  The Crown's discretion is reviewable by the
+trial judge, who should be guided by the general principle that information
+should not be withheld if there is a reasonable possibility that this will
+impair the right of the accused to make full answer and defence.  The
+absolute withholding of information which is relevant to the defence can only
+be justified on the basis of the existence of a legal privilege which excludes
+the information from disclosure.  This privilege is reviewable, however,
+on the ground that it is not a reasonable limit on the right to make full
+answer and defence in a particular case.
+[vi]
+[
+16
+]
+In
+Stinchcombe,
+the ramifications of a lack of proper in criminal
+cases was explained as follows:
+...there is the overriding
+concern that failure to disclose impedes the ability of the accused to make
+full answer and defence. This common law right has acquired new vigor by virtue
+of its inclusion in
+s. 7
+of the
+Canadian Charter of Rights and Freedoms
+as
+one of the principles of fundamental justice. ... The right to make full answer
+and defence is one of the pillars of criminal justice on which we heavily
+depend to ensure that the innocent are not convicted.
+[vii]
+[
+17
+]
+Recognizing that the possible deprivation of an accused’s
+s. 7
+Charter
+rights due to a lack of proper disclosure is highest when an accused is charged
+with an indictable offence the SCC went on, in
+Stinchcombe
+, to address the
+consequences of a lack of proper disclosure on an accused
+s. 7
+rights when an
+accused is charged with a summary conviction offence
+[viii]
+.
+The general principles
+referred to herein arise in the context of indictable offences. While it may be
+argued that the duty of disclosure extends to all offences, many of the factors
+which I have canvassed may not apply at all or may apply with less impact in
+summary conviction offences. Moreover, the content of the right to make full
+answer and defence entrenched in
+s. 7
+of the
+Charter
+may
+be of a more limited nature. A decision as to the extent to which the general
+principles of disclosure extend to summary conviction offences should be left
+to a case in which the issue arises in such proceedings. In view of the number
+and variety of statutes which create such offences, consideration would have to
+be given as to where to draw the line. Pending a decision on that issue, the
+voluntary disclosure which has been taking place through the co-operation of
+Crown counsel will no doubt continue. Continuation and extension of this
+practice may eliminate the necessity for a decision on the issue by this Court.
+[ix]
+[
+18
+]
+Following the release of
+Stinchcombe
+the Attorney General of
+Ontario convened an advisory panel on Charge Screening, Disclosure, and
+Resolution Discussions chaired by G. Arthur Martin. At the conclusion of the panel’s
+work the panel released a report that has become colloquially known as the
+“Martin Report”
+[x]
+.
+At page 186 of the Martin Report the panel wrote:
+“[i]n
+summary conviction and
+Provincial Offences Act
+prosecutions, proper disclosure as suggested by Sopinka J. in
+Stinchcombe
+,
+[
+(1991),
+1991 CanLII 45 (SCC)
+,
+68 C.C.C. (3d) 1
+(S.C.C.)
+] no doubt will
+vary with the nature of the statute defining the offence, and the circumstances
+of the prosecution. Accordingly, the detailed recommendations with respect to
+disclosure that follow may have varying degrees of application and/or
+importance. In most summary conviction prosecutions and prosecutions under the
+Provincial
+Offences Act
+, the disclosure will be simple and brief. On the other hand,
+certain matters, for example, some prosecutions under...” [and then it gives
+examples in Environmental Protection legislation,] “...may be highly complex,
+and may involve serious allegations with grave consequences. In such cases,
+full disclosure may be more lengthy and complex, and its significance may be
+heightened.”
+[
+19
+]
+Since the release of the Martin Report two decisions have been issued in
+Ontario that deal with the disclosure scheme when a defendant is charged
+pursuant to the
+POA
+. The first decision was
+Durham (Regional
+Municipality) v. Driscoll-Rogers
+,
+2008 ONCJ 581
+(hereinafter “
+Durham
+”)
+and the second decision was
+York (Regional
+Municipality) v. McGuigan
+,
+2018 ONCA 1062
+(hereinafter “
+McGuigan
+”).
+[
+20
+]
+It is axiomatic, since
+POA
+matters are quasi-criminal in nature that a
+defendant in a POA matter has the right to make full answer and defence. If it
+is not axiomatic then Part IV (Trial and Sentencing) of the
+POA
+makes it
+explicitly clear that the defendant has this right:
+Trial on plea of not guilty
+46
+(1) If the defendant pleads not guilty, the court shall hold the
+trial.
+2009, c. 33
+, Sched. 4, s. 1 (39).
+Right to defend
+(2) The
+defendant is entitled to make full answer and
+defence.
+R.S.O. 1990, c. P.33, s. 46 (2)
+.
+Right to examine witnesses
+(3) The
+prosecutor or defendant, as the case may be, may examine and cross-examine
+witnesses.
+R.S.O. 1990, c. P.33, s. 46 (3)
+.
+[
+21
+]
+In
+Durham
+the Court found in its ruling on a dispute between the
+defendant and the prosecution over disclosure in a case about a charge of speeding
+under Part I of the
+POA
+that when:
+1.
+applying the
+principles found in the Martin Report at page 186,
+2.
+considering
+s. 2
+of the
+POA
+[xi]
+,
+and
+3.
+reviewing the “
+plethora of case law that finds the intention of the
+Provincial Offences Act
+is to establish a speedy, efficient and convenient method of dealing
+with offences under Acts of the legislature and under Regulations or By-laws
+made under the authority of an Act of the legislature”
+[xii]
+disclosure in
+POA
+matters
+can be simple and brief. The Court in
+Durham
+grounded its reasoning that
+keeping disclosure in
+POA
+matters simple and brief where possible preserves
+a defendant’s right to defend themselves against POA charges while avoiding
+POA
+Courts becoming bogged down in the complexities
+that can arise in criminal proceedings.
+[
+22
+]
+In 2018, in what is now the leading authority, the
+ONCA provided guidance to litigants on the issue of disclosure in
+POA
+matters. In
+McGuigan
+the ONCA said that “[t]
+he
+first principle governing the manner of disclosure is that it be meaningful, in
+the sense that it be adequate to make full answer and defence.”
+[xiii]
+[
+23
+]
+Addressing the Court’s reliance on the Martin
+Report in
+Durham
+to ground its finding that disclosure in
+POA
+matters can be less comprehensive, the ONCA stated that it did not:
+read
+the Martin Report the same way it was read in
+Durham
+.
+Durham
+interpreted the Martin Report’s reference to “simple and brief” disclosure as
+saying that disclosure can be less comprehensive in
+POA
+matters, than in
+criminal cases. In fact, the Martin Report’s recommendation 36 is that “the
+nature and extent of disclosure should not vary based on whether the charge was
+prosecuted by way of indictment, summary conviction procedure, or prosecuted
+under the
+Provincial Offences Act
+”. When the Martin Report
+referred to disclosure in POA matters being “simple and brief”, the Committee
+was doing no more than predicting what full disclosure is apt to look like in
+simple prosecutions.
+[xiv]
+[
+24
+]
+If the “the nature and extent of
+disclosure should not vary based on whether the charge was prosecuted by way of
+indictment, summary conviction procedure, or prosecuted under the
+Provincial Offences Act
+”
+[xv]
+then
+how do the principals outlined in Stinchcombe apply in the POA context?
+In addressing this question, the ONCA
+in
+McGuigan
+explained the right to disclosure
+in POA matters as follows:
+A.
+THE GOVERNING PRINCIPLES
+70      To be
+eligible for disclosure, information and material must be relevant. There are
+different modes of achieving disclosure, and the relevance inquiry operates in
+modestly different ways between them. What is common to each disclosure
+mechanism is that if the information or material lacks logical relevance, no
+right of disclosure will exist.
+71
+     There are two general categories of disclosure.
+72
+    “First party disclosure” refers to information or material the
+Crown is obliged, on request, to deliver to the defendant without the need for
+an application to the court. Material will be subject to first party disclosure
+only if it is “in the possession or control of the prosecuting Crown”:
+R. v.
+Gubbins
+,
+2018 SCC 44
+(S.C.C.)
+, at para.
+33
+.
+73
+     If the accused wishes to compel the production of
+information that does not qualify for first party disclosure, it must bring a
+successful “third party disclosure” application, resulting in an order to have
+the third party produce the information. Mechanistically, this is achieved by
+serving notice on the third-party record holder along with a subpoena requiring
+the target information to be brought to court so that it will be within the
+control of the court if production is ordered after a third-party records hearing.
+74
+In
+Gubbins
+,
+(2018),
+2018 SCC 44
+,
+2018 CSC 44
+,
+2018 CarswellAlta 2404
+,
+2018 CarswellAlta 2405
+,
+[2018] 11 W.W.R. 583
+,
+76 Alta. L.R. (6th) 213
+,
+32 M.V.R. (7th) 1
+,
+49 C.R. (7th)
+209
+(S.C.C.)
+Rowe J. discussed two ways that information can become
+subject to first party disclosure, thereby avoiding the need, delay, expense
+and formality of a third party record application, namely (1) as the “fruits of
+the investigation”, or (2) as “obviously relevant” information: at para. 33.
+They are the disclosure mechanisms most directly at issue here.
+(1)
+The Fruits of the Investigation
+75      The
+most familiar first party disclosure mechanism, developed
+in
+R. v.
+Stinchcombe
+,
+1995 CanLII 130 (SCC)
+,
+[1995] 1 S.C.R. 754
+(S.C.C.)
+, relates to the
+“fruits of the investigation”. Pursuant to
+Stinchcombe
+,
+the prosecuting Crown is obliged, on request, to disclose all relevant
+information in its possession or control relating to the investigation against
+a defendant.
+76
+     As explained in
+Jackson
+,
+2015
+ONCA 832
+at paras.
+93
+, 95, the “fruits of the investigation” “posits a
+relationship between the subject-matter sought and the investigation that leads
+to the charges against an accused”. “This information is generated or acquired
+during or as a result of the specific investigation into the charges against
+the accused”:
+Gubbins
+, at para.
+22
+.
+77
+     It does not matter whether the Crown intends to
+rely on the fruits of the investigation at trial. The disclosure obligation
+includes “not only information related to those matters the Crown intends to
+adduce in evidence against the accused, but also any information in respect of
+which there is a reasonable possibility that it may assist the accused in the
+exercise of the right to make full answer and defence”:
+R. v. McNeil
+,
+2009 SCC 3
+,
+[2009] 1 S.C.R. 66
+(S.C.C.)
+, at para.
+17
+.
+78
+     Still, the disclosure obligation does not
+encompass all things that fall into the fruits of the investigation basket. It
+does not extend to information in the Crown’s possession that is clearly
+irrelevant, privileged,
+or
+the disclosure of which is otherwise governed
+by law:
+McNeil
+, at para.
+18
+.
+79
+     Even though this first party disclosure
+obligation is confined to information possessed by the prosecutor, it cannot be
+defeated by leaving the fruits of the investigation in the hands of the
+investigating police force. As Charron J. explained
+in
+McNeil
+, at para.
+14
+:
+The
+necessary corollary to the Crown’s disclosure duty under
+Stinchcombe
+is
+the obligation of police (or other investigating state authority) to disclose
+to the Crown all material pertaining to its investigation of the accused. For
+the purposes of fulfilling this corollary obligation, the investigating police
+force, although distinct and independent from the Crown at law, is not a third
+party. Rather, it acts on the same first party footing as the Crown.
+80      She
+further explained, at para. 18, that the Crown has limited, reviewable
+discretion relating to the disclosure it makes: “The Crown retains discretion
+as to the manner and timing of disclosure where the circumstances are such that
+disclosure in the usual course may result in harm to anyone or prejudice to the
+public interest.”
+83
+     Although
+McNeil
+dealt with police disciplinary records, this disclosure obligation applies to
+all obviously relevant information or material possessed by the investigating
+police force, not just obviously relevant police discipline information. This
+follows not only as a matter of principle. It finds support in direction
+provided by Karakatsanis J., for the court,
+in
+R. v. Quesnelle
+,
+2014 SCC 46
+,
+[2014] 2 S.C.R. 390
+(S.C.C.)
+, at para.
+12
+:
+In
+R.
+v. McNeil
+... [t]his Court ... recognized that police have a duty to
+disclose, without prompting, “all material pertaining to the investigation of
+the accused” as well as other information “obviously relevant to the accused’s
+case”. [Citations omitted.]
+84
+     The phrase “obviously relevant” “represents a
+comment on the obvious nature of the relevance of the record
+in the case”:
+Jackson
+, at
+para.
+125
+;
+see also
+Gubbins
+, at para.
+23
+. It does not describe a
+higher degree of relevance, since there is no such thing. Relevance exists if
+evidence has some logical tendency to make a material proposition more or less
+likely:
+R. c. J. (J.)
+,
+2000 SCC 51
+,
+[2000] 2 S.C.R. 600
+(S.C.C.)
+, at para.
+47
+. The term “probative value” is used to describe how
+compelling the relevant inference is.
+McNeil
+called for “obviously relevant” information, not obviously probative
+information.
+4
+As
+Rowe J. explained
+in
+Gubbins
+, at para.
+23
+, “this phrase simply
+describes information that is not within the investigative file, but that would
+nonetheless be required to be disclosed under
+Stinchcombe
+because it relates to the accused’s ability to meet the Crown’s case, raise a
+defence, or otherwise consider the conduct of the defence.”
+85      In
+context, the “without prompting” reference means that there should be no need
+for the accused to bring a third-party record application to secure obviously
+relevant information in the hands of the investigating police force. Once the
+investigating police force supplies the information to the Crown, it “should be
+turned over to the defence in compliance with the Crown’s
+Stinchcombe
+obligation of disclosure”:
+McNeil
+, at para.
+58
+.
+86
+     This is so notwithstanding that the information
+“may not fall fairly within the ordinary sweep of ‘fruits of the
+investigation’”:
+Jackson
+, at para.
+116
+. Information that is
+“’obviously relevant’ to the defence case may need to be rustled up by the
+police, provided to the Crown and disclosed to the defence”:
+Jackson
+, at
+para.
+116
+. Provided, of course, that the obviously relevant information is not
+privileged or subject to statutory disclosure regimes.
+(3)
+Other Relevant Information in Possession of the Prosecuting Crown
+87      There
+is a third way in which information can become subject to first party
+disclosure obligations, namely, where it is relevant and comes into the
+possession of the prosecuting Crown.
+88
+In
+McNeil
+,
+Charron J. recognized as much. She was addressing cases where the Crown is put
+on notice of the existence of other relevant information in the hands of other
+Crown agencies or departments, including the investigating police force. She
+said that in such cases the prosecuting Crown has a duty to inquire about that
+relevant information and to obtain it if reasonably feasible to do so:
+McNeil
+, at
+para.
+49
+.
+89
+     This obligation was
+described by Karakatsanis J.
+in
+Quesnelle
+, at para.
+12
+, this way:
+In
+R.
+v. McNeil
+... this Court recognized that the Crown cannot merely be a
+passive recipient of disclosure material. Instead, the Crown has a duty to make
+reasonable inquiries when put on notice of material in the hands of police or
+other Crown entities that is potentially relevant to the prosecution or the
+defence.
+90
+     As this passage makes plain, this obligation
+exists because the Crown is not an ordinary litigant, but a minister of
+justice, “duty-bound to seek justice, not convictions, and to avoid wrongful
+convictions, in the prosecutions of all offences”:
+Quesnelle
+, at
+para.
+18
+. It owes this duty as an officer of the court unless the notice it
+receives appears unfounded:
+McNeil
+, at para.
+49
+.
+91
+     The prosecuting Crown’s duty to request relevant
+information from other Crown agents does not undermine the separation of the
+Crown and other Crown agents. The other Crown agents are not under an
+enforceable, reciprocal legal duty to hand over information that the Crown inquiries
+about and asks for that is not the fruits of the investigation or obviously
+relevant. Quoting
+R. v. Arsenault
+(1994),
+1994 CanLII 5244 (NB CA)
+,
+153 N.B.R. (2d) 81
+(N.B. C.A.)
+, at para.
+15
+, Charron J. made plain
+in
+McNeil
+, at para.
+49
+,
+that if the Crown is denied access after making a good faith effort to secure
+such information it is to advise the defence that the request was denied. The
+accused’s remedy is not against the Crown. Instead, it should pursue a third-party
+record application.
+92
+     It follows from the
+McNeil
+decision
+that if the Crown receives the information it requested, it is to act
+as gate-keeper. If the information is relevant and not privileged or covered by
+a statutory disclosure regime, the Crown must make first party disclosure of
+that information to the defence.
+(4)
+The Manner of Disclosure
+94
+     The Crown therefore has discretion as to the
+manner in which disclosure is made. That discretion is not unbridled. The first
+principle is that disclosure must be meaningful, in the sense that it is
+adequate to enable the accused to make full answer and defence:
+R. v. Pan
+,
+2014 ONSC 4645
+(Ont.
+S.C.J.),
+2014 CanLII 74050
+, at paras.
+72-75
+. This requires that disclosure must
+be accessible. The disclosed information must be capable of identification and
+the disclosure must enable proper trial preparation:
+R. v. Dunn
+(2009),
+2009 CanLII 75397 (ON SC)
+,
+251 C.C.C. (3d) 384
+(Ont. S.C.J.)
+. To enable full answer
+and defence, the accused must also have the means to access the disclosed
+information in court, as needed.
+(5)
+First Party Disclosure under the
+Provincial Offences
+Act
+95      ….It is
+non-contentious that full-blown
+Stinchcombe
+obligations apply in the
+summary prosecution of criminal offences. Similarly, although this court has
+not ruled directly on the question
+[xvi]
+, the obligation to make first
+party disclosure in
+POA
+prosecutions appears to be non-controversial:
+Bruce
+(County) v. Kramer
+2007 31 M.P.L.R. (4th) 79(Ont. S.C.J.)
+;
+and
+Ontario (Ministry of the Environment) v. Sault Ste. Marie (City)
+2007 34 C.E.L.R. (3d) 123(Ont. S.C.J.)
+. It does not matter whether
+the defendant’s life, liberty or security of the person is at risk. The
+obligation on the Crown to make first party disclosure is supported by
+ss. 7
+and
+11(d)
+of the
+Charter
+but does not depend on the
+Charter
+.
+Stinchcombe
+rested largely on the common law right to make full answer and defence, which
+is provided for in
+POA
+, s. 46(2)
+.
+[
+25
+]
+In addition to the ONCA’s holding in
+McGuigan
+the POA
+also governs the issue of disclosure.
+Section 35
+of the
+POA
+states:
+Particulars
+35
+The court may, before or during trial, if it is
+satisfied that it is necessary for a fair trial, order that a particular,
+further describing any matter relevant to the proceeding, be furnished to the
+defendant.
+R.S.O. 1990, c. P.33, s. 35
+.
+[
+26
+]
+Based on the foregoing the scheme that governs
+disclosure in
+POA
+matters, in short, is as follows:
+1.
+Is the disclosure relevant to the charges the defendant is facing?
+a.
+Relevant disclosure is evidence that has some logical
+tendency to make a material proposition more or less likely or put another way
+is information that is required to be disclosed under
+Stinchcombe
+because it relates to the accused’s ability to meet the Crown’s case, raise a
+defence, or otherwise consider the conduct of the defence
+2.
+Is the disclosure “first” or “third” party disclosure?
+a.
+First party disclosure is disclosure that is considered either:
+(i) “fruits of the
+investigation” that led to the defendant being charged, and the prosecution is going
+to rely on at trial or
+may assist the
+accused in the exercise of the right to make full answer and defence
+,
+(ii) evidence in the
+possession of the prosecution, either directly or indirectly by way of the investigating
+police force, officer, or agency, that is highly relevant and that is not either
+privileged
+,
+otherwise not able to be
+disclosed through the operation of law, or
+(iii) is
+otherwise relevant information/evidence that may not fall fairly with the
+ordinary sweep of “fruits of the investigation” that the
+prosecuting Crown has a duty to inquire about that
+relevant information and to obtain it if reasonably feasible to do so.
+b.
+Third-party disclosure is disclosure is evidence/information that is
+otherwise relevant that may not fall fairly
+with the ordinary sweep of “fruits of the investigation” that the
+prosecutor has an obligation to try and obtain and if it
+cannot then have an obligation to advise the defence as to existence of so that
+the defence can bring a third-party records application
+.
+3.
+If the disclosure is first party, then the prosecution is required
+to furnish the defendant with the disclosure.
+4.
+If the disclosure is “third-party” disclosure the accused is
+required to bring a third-party records application.
+[
+27
+]
+Circling back to the question posed in the introduction to these
+reasons, how strictly must the Stinchcombe disclosure scheme be adhered to in
+POA
+matters, the answer as it usually is, it depends. It depends because if the
+case before a
+POA
+Court is a straightforward speeding charge then
+disclosure will be simple and brief and neither the prosecution nor the defence
+will be required to engage in a Stinchcombe analysis to determine whether the
+prosecution has satisfied its disclosure obligation. However, if the case
+before a POA Court is more complex or the penalties are significant, as was the
+case at bar before this Court, or in an environmental prosecution for instance
+then the disclosure will not be simple and brief and both the prosecution and the
+defence will be required to engage in a Stinchcombe analysis to determine
+whether the prosecution has satisfied its disclosure obligation.
+[
+28
+]
+As stated in the Martin Report “
+proper disclosure as suggested
+by Sopinka J. in
+Stinchcombe
+,…will vary with the nature of the statute
+defining the offence, and the circumstances of the prosecution
+[xvii]
+. Therefore, the Stinchcombe
+disclosure scheme must always be followed in all cases that come before a POA
+Courts in Ontario, as it is in criminal law cases, but the nature of the
+engagement in a Stinchcombe analysis will depend on the nature of the charge
+before a POA Court.
+Defendant’s
+Request for Addition Disclosure
+[
+29
+]
+The defendant seeks the following further disclosure
+from the City on the basis that it is first-party disclosure:
+1.
+Property permits from 1979 and earlier if applicable; file
+memorandum, emails from inspectors, and site plans related to the property,
+including all documents relating to City of Toronto Permit File No. 19-182202.
+2.
+Any bylaw amendment documents in the City’s possession related to
+the property in or around 1979 and prior to and subsequent to 1979.
+3.
+An unredacted copy of the disclosure provided to the defendant on
+May 27, 2025.
+4.
+All field notes, memorandum, photos, statements taken, will say
+statements, emails as between City inspectors, and the contact information for all
+City inspectors who were involved with inspecting 346 Dundas.
+[
+30
+]
+The basis for the defendant’s request for
+disclosure is that the disclosure they seek forms the basis for a potential
+defence. That defence according to the defendant is that the wooden balconies in
+question were structures that were built prior to the date they purchased 346 Dundas.
+However, this is not a defence that defendant can raise at trial because of the
+finding of the Court in Kritz v. Guelph (City),
+2016 ONSC 6877
+:
+9
+     Mr. Kritz submits that he is not subject to the
+Order to Comply because, although he is a co-owner of 108 Dublin, he did not
+carry out the unlawful construction. The City’s position is that the current
+owner is responsible for ensuring that 108 Dublin is in compliance with the
+BCA
+and the
+Ontario Building Code
+,
+O.
+Reg. 332/12
+(the “
+OBC
+”). To hold otherwise would be contrary to
+public policy and would allow owners to avoid responsibility by simply
+transferring their buildings.
+10
+     Section 12 (2) of the
+Act
+stipulates:
+(2) An inspector who finds a
+contravention of this
+Act
+or the
+Building Code
+may make an order
+directing compliance with this
+Act
+or the
+Building Code
+and may
+require the order to be carried out immediately or within such time as is
+specified in the order.
+11
+     In
+R. v. 1267017 Ontario Ltd.
+(2001),
+51 W.C.B. (2d) 171
+(Ont. C.J.)
+[
+2001
+CarswellOnt 2953
+(Ont. C.J.)
+], at para.
+21, Lampkin J. said:
+Notwithstanding the evidence
+that the construction appeared to be recent, which I would construe to be
+within the past year of inspection without actually seeking to define the term
+“recent”, if the building was purchased in its present condition, once the
+Order to Comply had been served, the Respondent had to make the necessary
+arrangements to obtain the Building Permit. If it sought to dispute the
+authority of the Building Inspector to issue the Order, then the provision for
+settling disputes in the
+Act
+must be employed. Failing that, he is
+deemed to have constructed the building without a building permit.
+12      As
+well, Master Muir in
+Toronto (City) v. Tseng
+,
+2011 ONSC 4594
+,
+87 M.P.L.R. (4th) 220
+(Ont. S.C.J.)
+, at para
+22
+,
+said:
+22
+The respondent also suggests that this proceeding is an abuse of process
+because the respondent was not the owner of the property at the time the
+subject addition was constructed. The respondent argues that the applicants’
+only remedy is to pursue the Former Owners, presumably with charges under
+section
+36 of the
+BCA
+. In my view, this argument is also without merit. Such an
+interpretation would leave a municipality without the ability to enforce
+compliance with the
+BCA
+, or its zoning and other by-laws, by the simple act of the
+transfer of a property that has been constructed or renovated in contravention
+of such laws and regulations. Moreover, the respondent, through her role as
+agent for the Former Owners, was fully aware of the applicants’ position with
+respect to the Property when she took title from her parents and siblings on
+January 6, 2011. The relief being sought on this application should come as no
+surprise to her.
+13
+     I find both of those cases persuasive. To find
+otherwise would mean that one could avoid the requirements of the
+Act
+by
+simply transferring ownership. More importantly, it would mean that the City
+would be required to attempt to enforce the provisions of the
+Act
+on one
+who had no further interest in the land. That former owner would have to
+somehow get the new owner to comply. That interpretation would make no sense.
+14
+     Here, if the inspector found a contravention of
+the
+Act
+, the order must have to be against the owner. In my view, that
+is exactly why Mr. Kritz made the enquiries he did before he took possession of
+the property when he purchased it. Mr. Kritz is bound by the order.
+[
+31
+]
+Even if the defence that the defendant claims
+were open to them, which it is not, the defendant has not established a basis which
+could enable the Court to conclude that the records do in fact exist and that
+they are potentially relevant
+[xviii]
+.
+The defendant has not because the email dated March 19, 2024 from a City
+inspector on which the defendant relies does not discuss building permit plans.
+Rather, it is an email from a City inspector for direction from a supervisor
+because a 2
+nd
+floor deck is attached to the defendant’s building
+without a permit
+[xix]
+:
+[
+32
+]
+If the reference to email from a City
+inspector for direction, as referenced in the defendant’s materials, is not the
+basis for the defendant’s request for further disclosure the only other
+possible basis for the defendant’s request for further disclosure that was
+brought to the Court’s attention
+[xx]
+was an email dated November 30, 2021. This email is an email by a City Building
+Inspector to a City employee in the City Building Records department asking if
+there were other permit plans
+[xxi]
+available for 346 Dundas:
+[
+33
+]
+As the prosecutor in the Respondent’s factum
+argued there is nothing in this email that either explicitly or implicitly rebuts
+the City’s position that there was no building permits issued for 346 Dundas as
+it pertains to the construction done to 346 Dundas that forms the basis of the
+July 18, 2022, Order to Comply, which is at the heart of the litigation before
+this Court. As such, if the defendant is relying on the November 30, 2021,
+email and not the March 19, 2024, email, the defendant still has not
+established a basis for which the Court can order the further disclosure the
+defendant is seeking.
+[
+34
+]
+The defendant further argues that they are
+entitled to further disclosure in the possession of the City because the
+balconies in question “may have probably been built under a previous by-law
+that allowed such structures with the City’s approval before Amalgamation
+[xxii]
+.” Without a firmer
+foundation than speculation, which is what the statement “may have probably”
+amounts to is a fishing expedition. Fishing expeditions can not form the basis
+for a request for disclosure by a defendant because as stated by the Supreme
+Court in
+R v. Chaplin
+[xxiii]
+reference to the possible existence of evidence is purely speculative and mere
+conjecture; and mere speculation and conjecture can not be the basis of a
+request for disclosure because then all materials produced in the course of an
+investigation, whether relevant or not, would have to be disclosed by the
+Crown, which is contrary to principles governing disclosure as outlined by the
+ONCA in
+McGuigan
+.
+[
+35
+]
+Finally, the defendant argues that the “City’s
+building permit records probably contain evidence that plans and or site plans
+were submitted, and permits were issued before 2004, which could provide a
+complete response and defence to the only remaining charge
+[xxiv]
+. Again, this argument is
+based on speculation. Further, even if the defendant’s argument were not based
+on speculation, the City, as the defendant has acknowledged
+[xxv]
+does not have any building
+permits for the wood structures constructed at 346 Dundas that are at issue in
+this litigation in its possession; and that building permits that the City has
+in its possession for the timeframe the defendant is seeking, 1979 and 2020,
+have already been disclosed.
+[xxvi]
+Conclusion
+[
+36
+]
+In the party’s respective factum’s much was made
+about possible defences,
+Charter
+violations, limitations periods, and
+collateral attacks. However, these issues were not before the Court. The issue
+before the Court, as raised in the defendant’s motion, was whether the City
+should be required to provide further first party disclosure within its
+possession.
+[
+37
+]
+It is this Court’s view that as the defendant
+did not establish that the City has relevant disclosure within its possession
+that it has not already disclosed that would allow the defendant to make full
+answer and defence the City is not required to provide further first party
+disclosure to the defendant. Therefore, the Court is not granting the order
+requested by the defendant.
+[
+38
+]
+Now that the issue of whether there is outstanding
+disclosure that needs to be provided before a trial can commence has been
+settled the defendant’s matter can proceed to trial. If the defendant, as
+indicated in there notice of motion, wants to raise the issue of a violation of
+their
+Charter
+rights, they will be permitted to do so at the conclusion of the
+prosecutions case before the opening their case.
+[
+39
+]
+The defendant’s trial will commence on the next
+juridical day that the defendant’s matter is scheduled to be before this Court.
+Released:  December
+8, 2025.
+Signed:
+Justice of the Peace R. Shawyer
+[i]
+R v. Nguyen
+,
+2020
+ONCA 609
+at para
+26
+, “…
+the
+POA
+is intended to
+provide a speedy and efficient process for dealing with regulatory offences…”
+[ii]
+Ontario.
+Report of
+the Attorney General’s Advisory Committee on Charge Screening, Disclosure, and
+Resolution Discussions
+. Toronto, 1993, at page 186 (hereinafter the
+“Martin’s Report”)
+[iii]
+Ontario v. 974649 Ontario
+Inc.,
+2001 SCC 81
+at para.
+78
+citing
+Douglas
+Drinkwalter & Douglas Ewart, Ontario Provincial Offences Procedure
+(Toronto: The Carswell Company Limited, 1980) at pp 4-7.
+[iv]
+See
+York (Regional Municipality) v. McGuigan
+,
+2018 ONCA 1062
+at
+para
+79
+.
+[v]
+Canadian Charter of Rights and
+Freedoms
+, s 11(b),
+Part 1 of the
+Constitution Act
+, 1982, being Schedule B to the
+Canada
+Act 1982
+(UK), 1982, c 11.
+[vi]
+See
+R. v. Stinchcombe
+,
+1991 CanLII 45 (SCC)
+,
+[1991] 3 S.C.R. 326
+headnote
+[vii]
+Ibid
+., at paragraph 17.
+[viii]
+This Court reads
+R. v. Stinchcombe
+,
+1991 CanLII 45 (SCC)
+,
+[1991] 3 S.C.R. 326
+as only referring to disclosure in strictly criminal law
+cases. Whereas the Court
+in
+Durham (Regional
+Municipality) v. Driscoll-Rogers
+,
+2008
+ONCJ 581
+reads
+Stinchcombe
+as referring to disclosure in both
+criminal and provincial offences matters.
+[ix]
+Supra.,
+note vii at paragraph 26.
+[x]
+Ontario Ministry of the
+Attorney General,
+Report of the Attorney General's Advisory Committee
+on Charge Screening, Disclosure, and Resolution Discussions
+, 1993
+[xi]
+s. 2 of the Ontario
+Provincial Offences Act
+, as
+amended, states the purpose of that Act as “to replace the summary conviction procedure
+for the prosecution of provincial offences, including the provisions adopted by
+reference to the
+Criminal Code
+(Canada)
+, with a procedure that reflects the distinction between
+provincial offences and criminal offences”:
+See
+Durham (Regional
+Municipality) v. Driscoll-Rogers
+,
+2008 ONCJ 581
+at paragraph
+30
+.
+[xii]
+Durham (Regional
+Municipality) v. Driscoll-Rogers
+,
+2008 ONCJ 581
+at paragraph
+31
+[xiii]
+Ibid
+., note ix at paragraph 130.
+[xiv]
+See
+York (Regional Municipality) v. McGuigan
+,
+2018 ONCA 1062
+at
+footnote 6 in paragraph 97.
+[xv]
+Supra
+., note X at pg. 186.
+[xvi]
+See
+York (Regional Municipality) v. McGuigan
+,
+2018 ONCA 1062
+,
+footnote 5 at
+para 95 where the ONCA noted “
+In
+1353837 Ontario Inc.
+,
+(2005),
+2005 CanLII 4189 (ON CA)
+,
+2005 CarswellOnt 652
+,
+6 M.P.L.R. (4th) 51
+,
+193
+C.C.C. (3d) 468
+,
+195 O.A.C. 213
+,
+74 O.R. (3d) 401
+,
+249 D.L.R. (4th) 720
+(Ont. C.A.)
+, a justice of the peace denied cross-examination sought in aid of a
+Stinchcombe
+disclosure application. A
+certiorari
+application was
+brought and granted on the basis that this was a jurisdictional error. This
+court allowed the appeal, setting aside the
+certiorari
+order. The appeal
+proceeded on consensus that
+Stinchcombe
+disclosure obligations applied.
+In
+Ontario v. 974649 Ontario Inc.
+(1998),
+1998 CanLII 6098 (ON CA)
+,
+42 O.R. (3d) 354
+(Ont. C.A.)
+, and
+R. v. Ul-Rashid
+,
+2014 ONCA 896
+,
+70 M.V.R. (6th) 181
+(Ont. C.A.)
+, the Crown conceded before this court that it had failed to make
+proper
+Stinchcombe
+disclosure.
+[xvii]
+Supra
+., note X at page 186.
+[xviii]
+See
+R v.
+Chaplin
+,
+1994 CarswellAlta 1069
+at paragraph
+30
+.
+[xix]
+Affidavit of G. Di Marco
+dated April 6, 2025, at page 70. In the email cited by the defendant the
+property is referred to as 166 Seaton St, which the Court has been led to
+believe is the other municipal address by which 346 Dundas is known.
+[xx]
+Respondent’s factum at
+paragraph 15 citing the affidavit of Guiseppe DiMarco sworn October 16, 2025,
+at Tab 2, pg. 52.
+[xxi]
+Permit plans if the Court
+understands the Respondent’s factum dated December 3, 2025, at paragraph 15 correctly
+the plans that a person or entity seeking a building permit must submit to the
+City as part of there application for a building permit and as such are not
+building permits but rather building plans.
+[xxii]
+Defendant’s Factum dated November
+26, 2025, at paragraph 28.
+The
+Amalgamation that the defendant is referring to in their factum is the
+amalgamation of the former municipalities of Metro Toronto, Etobicoke,
+Scarborough, North York, East York, York, and the City of Toronto, on January
+1, 1998.
+[xxiii]
+Supra
+., note xviii at paragraph 30
+.
+[xxiv]
+Defendant’s Factum dated
+November 26, 2025, at paragraph 26
+.
+[xxv]
+A
+ffidavit of Guiseppe DiMarco
+sworn October 16, 2025, at para. 21
+[xxvi]
+Affidavit of Hyeji Lee sworn
+December 3, 2025, Exhibits D and E
+.

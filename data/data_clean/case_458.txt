@@ -1,0 +1,1064 @@
+source url: https://www.canlii.org/en/on/oncj/doc/2025/2025oncj81/2025oncj81.html
+
+warning
+an order restricting publication in
+this proceeding under
+ss. 486.4(1),
+(2),
+(2.1),
+(2.2),
+(3)
+or
+(4)
+or
+486.6(1)
+or
+(2)
+of the
+criminal code
+shall continue. these
+sections of the
+criminal code
+provide:
+486.4(1) 
+subject to subsection (2), the presiding judge or justice may make an order
+directing that any information that could identify the victim or a witness
+shall not be published in any document or broadcast or transmitted in any way,
+in proceedings in respect of
+(a) 
+any of the following offences;
+(i) 
+an offence under section 151, 152, 153, 153.1, 155, 160, 162, 162.1, 163.1,
+170, 171, 171.1, 172, 172.1, 172.2, 173, 213, 271, 272, 273, 279.01, 279.011,
+279.02, 279.03, 280, 281, 286.1, 286.2, 286.3, 346 or 347, or
+(ii) 
+any offence under this act, as it read at any time before the day on which this
+subparagraph comes into force, if the conduct alleged involves a violation of
+the complainant’s sexual integrity and that conduct would be an offence
+referred to in subparagraph (i) if it occurred on or after that day; or
+(iii) 
+repealed: s.c. 2014, c. 25, s. 22(2), effective december 6, 2014 (act, s. 49).
+(b) 
+two or more offences being dealt with in the same proceeding, at least one of
+which is an offence referred to in paragraph (a).
+(2) 
+in proceedings in respect of the offences referred to in paragraph (1)(a) or
+(b), the presiding judge or justice shall
+(a) 
+at the first reasonable opportunity, inform any witness under the age of
+eighteen years and the victim of the right to make an application for the
+order; and
+(b) 
+on application made by the victim, the prosecutor or any such witness, make the
+order.
+(2.1) subject to subsection (2.2),
+in proceedings in respect of an offence other than an offence referred to in
+subsection (1), if the victim is under the age of 18 years, the presiding judge
+or justice may make an order directing that any information that could identify
+the victim shall not be published in any document or broadcast or transmitted
+in any way.
+(2.2) in proceedings in respect of
+an offence other than an offence referred to in subsection (1), if the victim
+is under the age of 18 years, the presiding judge or justice shall
+(a) as soon
+as feasible, inform the victim of their right to make an application for the
+order; and
+(b) on
+application of the victim or the prosecutor, make the order.
+(3) 
+in proceedings in respect of an offence under section 163.1, a judge or justice
+shall make an order directing that any information that could identify a
+witness who is under the age of eighteen years, or any person who is the
+subject of a representation, written material or a recording that constitutes
+child pornography within the meaning of that section, shall not be published in
+any document or broadcast or transmitted in any way.
+(4) 
+an order made under this section does not apply in respect of the disclosure of
+information in the course of the administration of justice when it is not the
+purpose of the disclosure to make the information known in the community.
+2005,
+c. 32, s. 15; 2005, c. 43, s. 8(3)(b);
+2010, c. 3, s. 5;
+2012, c. 1, s. 29;
+2014, c. 25, ss. 22, 48;
+2015, c. 13, s. 18.
+486.6(1) 
+every person who fails to comply with an order made under
+subsection 486.4(1),
+(2)
+or
+(3)
+or 486.5(1) or (2) is guilty of an offence punishable on summary
+conviction.
+(2) 
+for greater certainty, an order referred to in subsection (1) applies to
+prohibit, in relation to proceedings taken against any person who fails to
+comply with the order, the publication in any document or the broadcasting or
+transmission in any way of information that could identify a victim, witness or
+justice system participant whose identity is protected by the order.
+2005, c.
+32, s. 15.
+ontario court of justice
+citation:
+r. v. i.d., 2025 oncj 81
+date: 2025·01·30
+between:
+his
+majesty the king
+— and
+—
+i.d.
+judgment at trial
+t.
+surmanski....................................................................................... counsel
+for the crown
+c.
+laperriere.................................................................................... counsel
+for the defendant
+felix
+j.:
+table of contents:
+r. v. i.d.
+i.
+introduction
+5
+a.
+introduction
+5
+ii.
+assault
+– may 5
+th, 2023
+5
+a.
+the evidence – allegations from may 5
+th, 2023
+5
+iii.
+assault
+– july 22, 2023
+7
+a.
+living room assault allegation
+7
+b.
+bedroom assault allegation
+8
+iv.
+the
+burden of proof and general criminal law framework
+9
+1.
+the presumption of innocence
+9
+2.
+reasonable doubt
+9
+3.
+credibility and reliability
+assessments
+9
+4.
+the guidance of w.(d.)
+10
+5.
+w.(d.)
+applies to all of the evidence
+10
+6.
+other relevant legal guidance
+on credibility
+10
+v.
+analysis
+11
+a.
+the counts and “similar fact”
+11
+b.
+prior consistent statements
+12
+c.
+credibility and reliability overall – complainant
+12
+d.
+credibility and reliability overall -- defendant
+12
+e.
+photographs of injury
+13
+f.
+animus, bias, and motive to fabricate
+13
+g.
+july 23
+rd
+14
+1.
+“failure”
+to leave
+14
+2.
+the
+text messages
+14
+h.
+may 5
+th
+15
+1.
+the
+defendant’s alcohol consumption
+15
+2.
+facebook
+messages
+15
+3.
+the
+complainant’s reluctance and delayed disclosure
+15
+4.
+prejudicial
+information
+17
+5.
+photographs
+of injury
+17
+i.
+conclusion
+17
+i.
+introduction
+a.
+introduction
+
+the defendant is charged with two counts of assault on his
+intimate partner on july 23rd, 2023, and two counts of assault by choking on
+his intimate partner on may 5
+th, 2023.
+
+as is the case with many intimate partner trials the central
+issue is the credibility of the complainant and defendant as analyzed through
+the framework of the criminal burden of proof. the crown submits that the
+complainant was credible. the defence position is that the complainant
+fabricated the allegations before the court and there is reasonable doubt.
+
+i found the complainant to be a credible and reliable witness
+at trial.
+
+i found the defendant to be a somewhat credible and reliable
+witness at trial.
+
+in a criminal trial, any reasonable doubt must be resolved in
+favour of the defendant. i am unable to conclusively arrive at factual
+findings as it concerns the allegations. this state of mind necessarily means
+that the prosecution has not proven these counts beyond a reasonable doubt.
+
+the defendant is found not guilty of all counts. the purpose
+of this written judgment is to explain the reasoning behind these findings.
+ii.
+assault – may 5
+th, 2023
+a.
+the evidence – allegations from may 5
+th, 2023
+
+the information alleges in two separate counts that on may 5
+th
+the defendant assaulted the complainant by choking, suffocating, or strangling
+the complainant.
+
+the complainant testified that she and the
+defendant were in their basement apartment. there was a discussion about
+the defendant’s drinking problem. this was often a topic of discussion as the
+complainant held the view that the defendant had a “problem”. the defendant
+did not share that perception.
+
+the discussion escalated into to a heated argument. the
+defendant began to call her names and use profanity. she began to cry. she
+explained that at one point she went to put something down and her back was to
+the defendant. the defendant came up behind her, placed both hands around her
+neck, and applied pressure. the pressure was “pretty hard”. she explained
+that this action affected her vision a “little bit” and she could not breath. 
+the duration of this assault was estimated to be approximately 30 seconds long.
+
+the
+complainant testified that she struggled against the defendant and was trying
+to call for help. in so doing, she was able to turn her body around and face
+the defendant. during this short period of time, she described the defendant
+as angry that she was physically fighting back and trying to extricate herself
+from his grasp. there was screaming and name-calling (e.g., calling her a
+loser). the complainant believes she said: “what are you doing!”.
+
+the
+complainant testified that after this brief respite, the defendant once again
+grabbed her by the throat. this time, he did so while facing her from the
+front. the pressure applied during this second assault was described as “quite
+hard – maybe even a little bit harder than the first time”. the complainant
+testified that the duration of this assault was shorter than the first
+assault. she estimated that the application of force was perhaps 20 to 40
+seconds long. as a result of this second application of force, the complainant
+could not breath very well, her vision was blurred, and the room was spinning.
+
+in
+the aftermath the complainant collapsed in the corner of the kitchen trying to
+catch her breath. she felt dizzy. she was crying. she then described the
+defendant being aggressive as she cowered in the corner.
+
+the
+incident ended with the defendant taking his jacket to go outside. while he
+was leaving, the defendant broke the drywall near the entrance of the door as
+he left either by use of his hand or something in the pocket of the jacket.
+
+the
+complainant testified that other than the intervening period between the two
+assaults where she fought to extricate herself from the defendant’s grasp, she
+did not physically engage the defendant in any way. it was implicit in her
+testimony that she did not consent to any assaultive physical contact with the
+defendant.
+
+the
+complainant took photographs of injuries received as a result of this assault. 
+she also took a photograph of the damage to the drywall.
+
+the
+defendant testified that he did not have any particular recollection of the
+events of may 5
+th
+or 6
+th. he explained that given their
+relationship, the lack of any particular recollection probably meant they had a
+good day. nothing stood out from that day.
+
+the
+defendant adduced facebook messages from may 5
+th
+and 6
+th
+
+documenting some
+electronic contact that day. he testified that when the relationship was good,
+they would often communicate loving messages such as those displayed in the
+facebook messages.
+
+during
+cross-examination the defendant conceded that it was probable that he was
+physically present with the complainant in the basement apartment on the day in
+question. but he was clear that no assault occurred. he did not place his
+hands on the complainant’s neck, shove her, or engage in any inappropriate
+physical contact that day. nor had he ever engaged in such activity.
+iii.
+assault – july 22, 2023
+a.
+living room assault allegation
+
+i
+adopt the criminal law framework for analysis set out above in this judgment as
+it concerns the allegations of july 22,2023.
+
+as
+it concerns the july allegations the complainant testified to a disagreement
+with the defendant commencing in the morning. the defendant went to work.
+while he was at work, she sent him several electronic communications by text
+message. she perceived he was ignoring her messages. this disagreement
+ultimately ended up with the defendant telling the complainant to leave his
+property.
+
+the
+defendant came home from work in the afternoon. he then went to a local bar. 
+the complainant understood that the defendant had asked her to leave. she
+engaged in a dispute with the defendant over who would pay for the uber. she
+began packing her things. in the end, the complainant did not leave. in the
+early hours of the morning, she contacted a friend but received no answer. she
+had nowhere to go. given the number of items in the residence, her items
+upstairs, and a pet cat, the complainant resolved to leave in the morning and
+ceased efforts to leave in the early hours of the morning.
+
+when
+the defendant returned from the bar, the complainant’s described him as
+intoxicated. they continued the argument from earlier in the day.
+
+the
+complainant testified that the argument became physical. the defendant was
+trailing after her within the apartment calling her names and saying anything
+he could to demean her. at one point near the sofa, he “puffed” himself over
+top of her in a threatening manner while yelling and screaming. the
+complainant testified that she was crying and telling him to stop.
+
+as
+she continued to move her things the defendant shoved her using both of his
+hands against her shoulders. she fell backwards into a table and sofa. she
+struck her legs on the coffee table
+b.
+bedroom assault allegation
+
+approximately five to ten minutes after the assault in the living
+room the complainant described an assault that occurred after the defendant
+entered the bedroom. again, he was looming over her in a threatening manner. 
+the complainant continued packing and the argument continued. the complainant
+testified that following her screams and profanities the defendant pushed her
+with both hands. she fell backward. there was no injury. the complainant
+described this assault as similar in nature to the living room assault.
+
+the defendant at some point went outside to smoke a cigarette. the
+complainant called a friend seeking assistance to leave but with no success. 
+the defendant called the police to have her removed from the premises.
+
+the defendant testified that he and the complainant had an argument
+that morning after it was revealed that he had been smoking while driving to
+work. as a result of that argument the complainant sent him text messages at
+work. the text messages were persistent. he heard the “dinging” all day and
+could not deal with it at work.
+
+he left work approximately 3 pm. when he got home, he did what he
+normally did when they had a “tiff” – went to a bar. he went there to do the
+scheduling for work and have a drink. the defendant testified that he told the
+complainant to leave. he also recalled calling the complainant from the bar,
+and had a discussion with her. he remained at the bar because he did not want
+to be in the apartment while the complainant was packing to leave. since she
+was still in the house he remained at the bar until 1030 pm or later. he
+consumed approximately three beers during this time. having regard to his
+consumption of alcohol that afternoon and evening he was not intoxicated.
+
+the defendant testified that upon leaving the bar around 11:15 pm
+and arriving home, he found the complainant was still in the premises. he
+again told her in person that she was required to leave. he called an uber and
+went to another bar and waited her out until last call. he had another three
+beers at this location. he ubered home by 1 am feeling “tipsy but not
+hammered”.
+
+the defendant testified that he arrived home around 1:45 am and told
+the complainant that if she did not leave, he would call the police. the
+complainant refused to leave. he called the police. while on the phone with
+the 911 dispatcher he was asked to pass the phone to the complainant. when he
+did, the complainant told the operator “he hit me”. the defendant then went
+back on the phone and told the operator that he would be waiting outside for
+the police to arrive. the defendant denied that any physical contact occurred
+during his interaction with the complainant.
+iv.
+the burden of proof and general criminal law
+framework
+
+criminal trials are informed by a number of well-known legal
+principles. i will briefly set out the framework for the proper approach to the
+analysis of the evidence.
+1.
+the
+presumption of innocence
+
+the central tenet in our criminal justice system is the
+constitutional entrenchment of the presumption of innocence. a criminal
+defendant begins a trial with the presumption of innocence. the defendant is
+not required to testify. the defendant is not required to present any
+evidence. the presumption does not shift during the trial. the presumption of
+innocence is only dislodged if the prosecution presents evidence establishing
+the defendant’s guilt beyond a reasonable doubt:
+r. v.
+lifchus,
+1997 canlii 319 (scc), 3 s.c.r. 320, at para.
+27;
+r. v. starr,
+2000 scc 40, at para.
+242.
+2.
+reasonable
+doubt
+
+the reasonable doubt standard applies to the final determination of
+guilt or innocence. it is not applied piecemeal to individual pieces of
+evidence or categories of evidence:
+r. v. menard,
+1998 canlii 790 (scc), 2 s.c.r. 109;
+r.
+v. morin,
+1988 canlii 8 (scc), 2 s.c.r. 345.
+
+reasonable doubt is based on “reason and common sense”, is not
+“imaginary or frivolous”, does not “involve proof to an absolute certainty”,
+and must be “logically connected to the evidence or absence of evidence”.:
+r.
+v. villaroman,
+2016 scc 33, at paras.
+28,36 [
+villaroman
+].
+
+it is important to note that the defence bears no burden to prove
+foundational facts in support of an inference of innocence:
+villaroman,
+at para.
+35;
+r. v. khela,
+2009 scc 4. nor is the defendant required to
+adduce evidence providing foundational support for a “finding” of reasonable
+doubt:
+villaroman, at para.
+28. a defendant is free to point to
+anything in support of reasonable doubt including the presence or absence of
+evidence.
+3.
+credibility
+and reliability assessment
+s
+
+in many criminal trials the credibility and reliability of the
+central witnesses at trial must be resolved. i rely on the description of
+“credibility” and “reliability” explained by watt j.a. in
+r. v. c.(h.),
+2009 onca 56, at paragraph
+41, and the guidance of the supreme court of canada
+in
+r. v. g.f.,
+2021 scc 20, at paragraph
+82
+[
+g.f.
+] and
+r. v.
+kruk,
+2024 scc 7, at paragraphs
+146-149
+[
+kruk
+].
+4.
+the
+guidance of w.(d.)
+
+in assessing the criminal standard of proof beyond a reasonable
+doubt, trial judges have a responsibility to consider the entire record at
+trial and to resolve material issues relevant to the credibility analysis. the
+w.(d.)
+decision sets out the three-step process for analyzing credibility in the face
+of conflicting evidence. the guidance is as follows:
+1.
+if you believe the evidence of the accused, obviously you must
+acquit;
+2.
+even if you do not believe the testimony of the accused, but you are
+left in a reasonable doubt by it, you must acquit; and,
+3.
+even if you are not left in doubt by the evidence of the accused,
+you must ask whether, on the basis of the accepted evidence, has the
+prosecution established guilt beyond a reasonable doubt.
+
+i am in favour of an additional instruction. i acknowledge that a
+criminal trial is not simply a competition between the version of events
+provided by the complainant, and the version of events provided by the
+defendant. but, if after considering the totality of the evidence, i am unable
+to decide whom to believe, this state of mind translates into a reasonable
+doubt and an acquittal must be the result:
+r. v. s. (j.h.),
+2008 scc 30,
+at para.
+12
+[
+s.(j.h.)
+];
+r. v. austin,
+2006 canlii 39077 (on ca), o.j. no. 4660
+(c.a.), at para.
+20.
+5.
+w.(d.)
+applies to all of the evidence
+
+the
+w.(d).
+test applies to more than
+the defendant’s evidence. the test requires consideration of any defence
+evidence and any admissible exculpatory evidence no matter the source:
+r v.
+savage,
+2023 onca 240, at para.
+37;
+r v. n.p.,
+2022 onca 597, at
+para.
+29;
+r. v. smith,
+2020 onca 782, at para.
+12;
+r. v. m.p.,
+2018 onca 608, at para.
+60.).
+6.
+other relevant legal guidance
+on credibility
+
+where the guilt or innocence of the defendant is driven by an
+evaluation of credibility as between prosecution witnesses and defence
+witnesses, it is important to remember that “credibility contests” are not
+permitted in criminal law. a trial judge is not permitted to determine guilt
+or innocence by simply picking a preferred version of events from amongst
+competing versions. this approach offends the criminal burden proof:
+r. v.
+vuradin,
+2013 scc 38, at para.
+26;
+s.(j.h.),
+at para. 9;
+w.(d.),
+at p. 409. a trial judge cannot permit the analysis of credibility to
+degenerate into a mere choice between competing prosecution and defence
+witnesses (or competing evidence for that matter):
+r. v. hull,
+2006 canlii 26572 (on ca), 
+o.j. no 3177 (c.a.) at para.
+5.
+
+in a criminal trial, witnesses testify as to their subjective
+observations and experiences. a trier of fact is entitled to accept some, all,
+or none of a witness’ testimony:
+kruk, at paras.
+82,145-146;
+r. v.
+c.p.,
+2021 scc 19, at paras.
+35, 274;
+r.
+v. le,
+2019 scc 34,
+at para.
+266;
+s.(j.h.), at para. 10;
+r. v. w.h.,
+2013 scc 22, at
+para.
+32
+[
+w.h.
+];
+r. v. francois,
+1994 canlii 52 (scc), 2 s.c.r. 827, at para.
+14.
+
+the trier of fact is entitled to determine the weight assigned to
+different parts of the evidence of a witness that the trier of fact accepts:
+w.h.,
+at para.
+32;
+r. v. j.h.,
+2005 canlii 253 (on ca), o.j. no. 39 (c.a.), at para.
+44.
+
+the trier of fact is entitled to decide how much weight to assign to
+a testimonial inconsistency and any explanation provided by the witness for the
+inconsistency:
+w.h., at para.
+32;
+
+a trial judge must endeavour to fairly and evenly evaluate the
+defendant’s evidence and the complainant’s evidence:
+r. v. bartholomew,
+2019 onca 377, at paras.
+30-33
+[
+bartholomew
+];
+r. v. radcliffe,
+2017 onca 176;
+r. v. gravesande,
+2015 onca 774. it is also an error to
+move directly from disbelief of the accused's evidence to a positive finding of
+guilt:
+r. v. dore
+(2004),
+2004 canlii 32078 (on ca), 189 c.c.c. (3d) 526 (ont. c.a.), at p. 527
+(leave to appeal refused, s.c.c.a. no. 517);
+r. v. h.(s.),
+
+o.j. no. 118 (c.a.), at paras. 4-6.
+
+finally, it is critical to note that acceptance of evidence
+presented by prosecution witnesses does not mandate automatic conviction. a
+trial judge could conceivably accept prosecution witness testimony, but still
+harbour a reasonable doubt.
+v.
+analysis
+a.
+the counts and “similar fact”
+
+the crown has proceeded with four counts covering four sets of
+allegations on two separate days. the crown did not bring a “similar fact
+application across the counts”. as such, the guilt or innocence of the
+defendant must be assessed only based on the admissible evidence on each count
+independently. the prosecution may not rely upon evidence across the counts to
+prove the case.
+
+credibility assessments are not bound by this restriction. as concerns
+the credibility and reliability of the witnesses, i may consider the totality
+of the evidence given by a witness across all counts:
+r. v. p.e.c.,
+2005 scc 19;
+r. v. d.m.
+2022 onca 429, at para.
+97;
+r. v. d.r.,
+2021 onca 460, at para.
+25;
+r. v. m.r.s.,
+2020 onca 667, at para.
+64.
+b.
+prior consistent statements
+
+the defence position is that the complainant fabricated the
+allegations. the prosecution has not sought the substantive admission of any
+prior consistent statement made by the complainant (e.g., “he hit me” to the
+911 dispatcher). as such, this evidence is admissible as narrative. i may not
+use the evidence to rebut the allegation of fabrication or for any other
+substantive purpose.
+c.
+credibility and reliability overall – complainant
+
+the
+complainant’s testimony was clear, specific, and illustrative of the contours
+of the relationship with the defendant. as i will elaborate below, i tended to
+believe her evidence. some of her evidence as to the defendant’s smoking and
+drinking habit was corroborated by external sources (e.g., text messages). 
+there was no significant credibility issue other than a caution for the
+potential for bias or animus. i certainly preferred the evidence of the
+complainant – especially as it concerned the may 5
+th
+allegations. were
+this a civil trial i would find in her favour. but this is a criminal trial
+where the burden of proof is beyond a reasonable doubt.
+d.
+credibility and reliability overall -- defendant
+
+while
+i found the complainant credible and reliable, the defendant was also somewhat
+credible and reliable.
+
+he
+testified in a clear and straightforward manner. he acknowledged his boorish
+behaviour and poor performance as an adult partner of the complainant. he did
+not engage the support she provided with the aim of improving himself and their
+relationship.
+
+the
+defendant also acknowledged stress at the time, heavy consumption of alcohol,
+and challenges in the personal relationship with the complainant. he
+acknowledged the support provided by the complainant as it concerned his child
+and the household. the defendant was also clear that he was not a supportive partner
+during the timeframe of these allegations.
+
+he
+was less reliable in that he provided a less detailed recount of the events on
+july 23
+rd. but overall, i credited his testimony with some weight.
+e.
+photographs of injury
+
+i tend to accept the photographs of injury and the complainant’s
+testimony as to the cause. but i also acknowledge a mild concern about the
+fact that the complainant took the photographs -- not the police. it is also
+notable that the prosecution did not adduce objective electronic evidence
+documenting the date and time of the creation of the photos. in today’s modern
+age any cellphone camera documents such data, and it is easily accessible. this
+impacted the weight i assigned to the notion that they were taken by the
+complainant proximate in time to an assault.
+f.
+animus, bias, and motive to fabricate
+
+defence counsel submits that the complainant has fabricated the
+allegations. the crown attorney submits that the complainant is a credible and
+reliable witness. as such, the prosecution position implies that there is no
+evidence of a motive to fabricate, bias, or animus on the part of the
+complainant.
+
+implicit in the defence position that the complainant has fabricated
+the allegations is the suggestion that the complainant is biased, and possesses
+a motive to fabricate the allegations.
+
+the defendant has no onus to demonstrate that the complainant has a
+motive to fabricate:
+r. v.
+batte,
+2000 canlii 5751 (on ca), o.j. no 2184, (c.a.) at
+para.
+120-121
+[
+batte
+]. trial judges may consider the presence or the
+absence of a motive to fabricate:
+r. v. gerrard,
+2022 scc 13, at para.
+4
+[
+gerrard
+];
+r. v. ignacio,
+2021 onca 69, at paras.
+38-44. but
+it is an error to equate the absence of evidence demonstrating a motive to
+fabricate with a proven lack of a motive to fabricate:
+gerrard, at para.
+4;
+bartholomew,
+at paras.
+21-23;
+batte, at paras.
+121,125.
+
+i do not believe that the complainant fabricated the allegations. 
+but the prosecution has not disproved a motive to fabricate. i subscribe to
+mild caution in this case for several reasons.
+
+first, there was clear animus between the parties.
+
+second, the complainant and the defendant engaged in some sort of
+disposition of property dispute as evidenced by the complainant’s attendance at
+a police station to follow up. while i do not have the details of this
+dispute, i do not need them. the dispute existed.
+
+third, the complainant clearly perceived that the defendant treated
+her improperly, separate and apart from the allegations of assault.
+
+fourth, at times during questioning the complainant would drift from
+a directly responsive answer, to provide prejudicial information (e.g., the
+cross-examination about the defendant going to a hotel provoked an answer about
+the defendant potentially engaging prostitutes).
+
+finally, the involvement of the police in july 2023 was precipitated
+by the defendant kicking the complainant out of his residence.
+g.
+july 23
+rd
+1.
+“failure” to leave
+
+the issue of the complainant “failing to leave” when directed by the
+defendant has less to do with landlord tenant issues, property rights, or a
+justification for assault. it is more about it being a central feature of the
+conflict and the defendant’s testimony.
+
+i find that the defendant told the complainant to leave his property
+several times. the complainant acknowledged this but explained that at 2:00 am
+she had contacted a friend but could not reach anyone to help her. the
+complainant testified that she was not going to leave with all of her stuff in
+the middle of the night with nowhere to go. she resolved to leave first thing
+in the morning. she “barricaded” herself in the bedroom until morning. i
+accept her testimony and do not view the “failure to leave” as a credibility
+issue against her.
+2.
+the text messages
+
+the defendant adduced eighteen pages of text messages with the
+complainant. the text messages corroborate the defendant’s position that on
+july 23
+rd
+he had repeatedly asked the complainant to leave his
+residence. the text messages also support the defendant’s position that he
+remained at a local bar and stayed away from the residence because he
+anticipated problems with the complainant.
+
+but the text messages also corroborate the complainant’s testimony
+as it concerns the friction between them around smoking, drinking, cleaning,
+therapy, child care, promises, and following through on actions. these text
+messages powerfully corroborate the complainant’s historical record on the
+problems in the relationship. they also document her perception that she left
+him, returned, and was met with unfulfilled promises to change.
+h.
+may 5
+th
+1.
+the defendant’s alcohol consumption
+
+a feature of the may dispute concerned the subject matter of the
+defendant’s consumption of alcohol. she explained that on may 5
+th
+the argument began because the defendant had drunk “quite a lot”. she
+testified that it was not unusual for the defendant to drink ten or even
+fifteen beers. the complainant consumed alcohol rarely. from the perspective
+of the complainant this was a common source of argument.
+
+the defendant was forthright during this testimony that he was not
+sober in either may or july 2023 and that he would frequently consume volumes
+of alcohol.
+2.
+facebook messages
+
+the
+facebook messages are relevant to the credibility assessment of the complainant
+and also as foundation for reasonable doubt. the defence position is that the
+facebook messages demonstrate that there was no discord on may 5
+th
+and may 6
+th
+and that the relationship was positive as evidenced by
+the content of the messages.
+
+the
+complainant testified that these messages did not evidence that the
+relationship was positive. she explained that the relationship was cyclical. 
+there would be conflict, then they would make-up. she explained that after
+every argument it was up to her to fix things and smooth things over. if she
+pressed the source of the dispute or suggested that they needed to seek help
+“all hell would break loose”. she had to be the sweetest most caring version
+of herself to avoid continued volatility.
+
+i
+found the complainant’s evidence to be quite powerful on this issue. it
+engaged a concept well understood by criminal court participants as it concerns
+intimate partner violence cases. i do not require expert opinion evidence to
+understand a phenomenon demonstrated in many cases over many years. in
+umpteenth trials i have heard a variety of witnesses describe a continuous
+cycle of intimate partner conflict, a “make-up” period, a calm period, and
+then a return to conflict.
+3.
+the complainant’s reluctance and delayed disclosure
+
+the
+complainant was cross-examined on the following issues:
+1.
+why she refused to provide a “formal” statement to the police;
+2.
+why she delayed reporting the assaults; and
+3.
+why she stayed in the relationship and the defendant’s residence after
+the may 5
+th
+incident.
+
+the
+contention that the complainant did not provide a “formal” statement is not a
+credibility issue. the complainant acknowledged that she was reluctant to
+address the police involvement because of the potential impact on the
+defendant. she did not want the defendant to get in trouble. she was aware of
+the circumstances of his custody and access to his son and did not want to do
+something to jeopardize access to his son. in any event, it is clear that the
+complainant perceived her discussion with the police captured on
+body-worn-camera footage as being a “statement”. she did not recognize or
+understand the difference between that statement and a “formal” statement until
+it was made clear to her during cross-examination.
+
+it
+is also clear that the complainant was focused on trying to get the defendant
+to access help and resources for alcohol addiction. the complainant testified
+during direct examination that when she spoke to the 911 operator on july 23rd,
+she told the operator that she just wanted the defendant to get help for his
+alcoholism. she testified at trial that she understood that alcoholism was an
+illness, and she simply wanted the defendant to address the issue. she
+testified that the operator told her that the police would attend and would
+have greater access to resources. no one played the 911 call during the trial. 
+the complainant was not challenged on this issue during cross-examination. the
+text messages from july corroborate her viva voce testimonial perception that
+the defendant needed help. during those messages she addressed counselling and
+sent him links to mental health addiction and treatment resources.
+
+the
+complainant was cross-examined about her delayed disclosure of the may 5
+th
+incident. in
+r. v. d.d.,
+2000 scc 43, the supreme court of canada
+stipulated that as it concerned the issue of child abuse and the timing of
+disclosure, no presumptive adverse inference is available based on the timing
+of the disclosure, standing alone. the timing of the disclosure is simply one
+factor in the context of the case as a whole:
+d.d., at paras.
+59-65.
+
+there
+is some basis in law to take the same approach as it concerns intimate partner
+violence cases: (
+r. v. j.p.s.,
+ o.j. no. 1890 (c.a.) at para. 11,
+aff’d
+2014 scc 47;
+r. v. safdar,
+2018 onsc 7067
+). in any event, i am
+aware that i should refrain from engaging in stereotypical reasoning as it
+concerns the actions of alleged complainants. some complainants report an
+offence immediately. some complainants delay reporting. some complainants
+never report an offence to the police.
+
+the
+complainant in this case explained that there was a cyclical nature to the
+relationship as outlined above. she had left before, and the defendant would
+implore her to return and undertake to improve his behaviour. the defendant
+would promise to change his ways and that he needed her in his life. the
+complainant testified that she loved the defendant.
+
+finally,
+i would observe that there is no “rule book” governing how complainants are to
+act in the aftermath of intimate partner violence. some partners immediately
+report incidents to the police. others never report. the delay in reporting,
+standing alone, is not a credibility issue in this case. the complainant
+provided a logical and rational explanation for remaining with the defendant
+and not immediately reporting the assaults to the police.
+4.
+prejudicial information
+
+it
+is often difficult to conduct a trial without some inadmissible or prejudicial
+information seeping into the record. this occurs despite the best intention of
+the parties. trial judges must address such issues on a daily basis. trial
+judges are expected to disabuse their minds of such evidence.
+
+the
+complainant provided some potentially prejudicial information about the
+defendant. intimate partners often have intimate information about each other’s
+habits and practices. i have disabused my mind of any uncharged conduct given
+the prosecution did not intentionally adduce this evidence and there was no
+application to adduce discreditable conduct.
+5.
+photographs of injury
+
+the complainant testified that she took pictures of her injuries
+around her neck from may 5 and injuries to her legs from july 23, 2023.
+
+the
+crown attorney asked the defendant if he had any explanation for the injuries
+present in the photographs. the purpose of this line of questioning during
+cross-examination was to address the possibility of innocence cause (e.g., a
+circumstance where the defendant was aware that an injury had otherwise been
+caused or caused innocently through consensual activity.) notwithstanding the
+crown attorney’s stated objective in this regard, i am aware that it would be
+an error to require the defendant to provide an explanation for why the
+complainant had injuries. the defendant has no burden to provide an innocent
+explanation for prosecution evidence. i have not reversed the burden of proof.
+i.
+conclusion
+
+i tend to accept and believe the evidence of the complainant
+overall. i found her to be a credible and reliable witness with a detailed
+recall of the circumstances surrounding the assault allegations.
+
+the defendant provided a detailed account of his interaction with
+the complainant as it concerns the july 2023 assault allegations. he was forthright
+in testifying that he had no specific recall of any significant events on may 5
+th. 
+in sum, the defendant denies assaulting the complainant at any time.
+
+at stage one of
+w.(d.)
+i would not credit the defendant’s
+testimony overall. but at stage two of
+w.(d.)
+i must endorse some
+reasonable doubt.
+
+based on my assessment of the totality of the record at trial, am
+unable to
+conclusively
+determine what happened during each
+assault. the notion that i found the complainant credible, and the defendant
+is most probably guilty, is not permitted in criminal law. probable guilt is
+insufficient. where i am simply unsure or unable to conclusively determine
+what happened, this state of mind mandates an acquittal:
+s.(j.h.).
+
+the defendant is found not guilty of all counts.
+released: january
+30
+th, 2025
+signed: “justice
+m.s.v. felix”
+
+exhibit 6

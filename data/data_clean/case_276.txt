@@ -1,0 +1,1689 @@
+source url: https://www.canlii.org/en/on/oncj/doc/2025/2025oncj326/2025oncj326.html
+
+ontario
+court of justice
+toronto region
+citation:
+r. v. done, 2025 oncj 326
+date:
+2025
+06
+05
+court
+file no.:
+4815 998
+21
+55001658
+10
+armoury st., toronto
+b
+e
+t
+w
+e
+e
+n:
+his majesty
+the
+king
+— and —
+sean
+done
+before justice joseph
+callaghan
+reasons
+for
+decision
+on s. 8
+charter
+application (
+bykovets
+issue)
+released
+on
+june
+5,
+2025
+b. donohue......................................................................................... counsel
+for the crown
+b. bytensky.............................................................................................. counsel
+for s. done
+j. callaghan j.:
+overview
+
+between january 5
+and january 17, 2021, a kik
+
+account that was ultimately linked to mr. done uploaded 17 video files
+containing images of child sexual abuse material (csam).
+
+on february 17,
+2021, the national centre for missing and exploited children (ncmec),
+based in the united states, received a cybertipline
+
+report from kik, including the relevant internet protocol (ip) address,
+indicating that one of their users uploaded suspected child sexual abuse
+material to their account. pursuant to american federal legislation,
+when an electronic service provider (esp)
+
+such as kik obtains knowledge of any facts or circumstances relating to certain
+enumerated csam offences, they must provide a report to the cybertipline, and
+that report may include the relevant ip address.
+
+kik provided the
+necessary report to ncmec and chose to include the suspect ip address in its
+report.
+
+based on the location
+of the upload, which resolved to canada, ncmec sent the package of information
+to the national child exploitation crime centre (ncecc), a unit of the royal
+canadian mounted police (rcmp).
+
+prior to
+receiving this report from ncmec, police in canada took no steps to seek out or
+obtain mr. done’s ip address. indeed, they had no knowledge of any offence
+having been committed until they received the report. and after receiving the report
+of an alleged crime having been committed, police took no steps to use the ip
+address to obtain personal or core biographical information without obtaining prior
+judicial authorization.
+
+in addition, upon
+receipt of the ip address, nothing in the conduct of the rcmp or tps
+investigators resulted in mr. done being deprived of the use of his ip address
+or access to the internet.
+
+once the ip
+address was received, an open-source
+check was conducted by the rcmp, and
+it was determined that the ip address resolved to internet service provider
+(isp) bell canada and in the municipal location of toronto. after the rcmp
+confirmed with bell that the relevant subscriber was indeed in toronto and that
+the records had been preserved, the information that ncmec had provided was
+forwarded to the toronto police service (tps) for investigation.
+
+upon receipt of
+that ip address, officer vijay shetty, the officer-in-charge of the toronto investigation,
+conducted his own open-source check, again using a publicly available search
+engine,
+to confirm for himself that the ip address originated in toronto.
+
+officer shetty also
+took the step of confirming that the suspect videos involved were indeed child
+sexual abuse material. with this information, he sought and obtained the necessary
+production order from bell, to obtain the subscriber information of the user
+attached to the suspect ip address. consequently, officer shetty learned that
+mr. done was the registered subscriber.
+
+the police then obtained a search
+warrant for mr. done’s home and devices, and on may 27, 2021, the police
+executed the search warrant. during that search, several devices belonging to
+mr. done were seized and subsequently analyzed.
+
+an examination of mr. done’s
+cellphone located a quantity of images and videos containing child sexual abuse
+material, as well as chats and other relevant information.
+
+as a judge in a busy jurisdiction,
+having conducted numerous related judicial pre-trials and trials, it is clear to
+me that the investigative steps followed in this case mirror the steps police
+take in many investigations leading to charges of accessing, distributing or
+possessing child pornography. the reported cases reflect this experience.
+
+
+following the release of the supreme
+court’s
+decision in
+r. v. bykovets,
+i allowed mr. done to re-open the trial after i had found him guilty
+
+and he brought an application challenging the police conduct outlined above, which
+he asserted breached his section 8
+charter
+rights.
+the
+bykovets
+issue
+
+in
+bykovets, the police
+undertook an investigation into fraudulent online purchases from a liquor
+store. as part of their investigation, the police contacted the third-party transaction
+processing company
+
+that managed the store’s online sales and requested two ip addresses used for
+the purchases, without obtaining any prior judicial authorization. police then
+obtained a production order in relation
+to those ip addresses compelling the isp to disclose the subscriber information
+of the customer.
+
+unlike when an ip address is used to
+access child sexual abuse material, there was no legislative framework that governed
+reporting requirements of an isp in these circumstances.
+
+a majority of
+the supreme
+court in
+bykovets
+held that a reasonable expectation of privacy existed
+in an ip address and that
+in the facts and circumstances of that case,
+s.8 of the
+charter
+was violated due to the police failing to seek judicial authorization prior
+to
+requesting
+and obtaining the ip addresses.
+the majority
+in
+bykovets
+made
+it clear that the context in which they assessed the alleged s. 8 breach was a
+r
+equest
+made by police for ip addresses.
+
+
+flowing from this decision, the main
+issue for me to decide is whether, in all the circumstances, the police conduct
+in receiving the complaint and confirming the relevant isp and municipal
+location of the ip address, breached mr. done’s section 8 rights.
+
+for the reasons that follow, i conclude:
+1.
+mr. done’s section
+8 rights were not violated. the passive receipt by the rcmp of a report of an
+alleged crime from ncmec was neither a search nor a seizure.
+2.
+the communication
+of ncmec to the rcmp, within the legislative framework in the united states and
+canada that governs isps and their customers’ use of the internet to access csam,
+is not the equivalent to the informal arrangement criticized by justice doherty
+in
+r. v. orlandis-habsburgo.
+3.
+given the provisions
+of the
+mandatory reporting act,
+i find that the police actions in receiving the ip address from ncmec and using
+it in the limited way that they did, was authorized by law.
+4.
+similarly, given
+the legislative context of the
+mandatory reporting act
+and related
+regulations,
+mr. done’s subjective reasonable expectation of privacy was not objectively
+reasonable.
+5.
+finally, even if
+i am wrong, and the actions of the rcmp and tps in this case violated mr.
+done’s s. 8
+charter
+rights, the evidence of the video, images and
+related chats found on mr. done’s cellphone should not be excluded.
+analysis
+legislative framework (context or
+totality of the circumstances)
+
+when assessing any claim of
+reasonable expectation of privacy, it has always been necessary to understand the
+context or the totality of circumstances in which a privacy claim is made to
+determine whether section 8 has been violated.
+
+
+in the case at bar, unlike
+in
+bykovets,
+the reasonable expectation of privacy claim occurred in the context of mr. done
+accessing images of child sexual abuse via the internet, through services
+provided by an isp (bell).
+
+since 2011, isps have been subject to
+strict reporting obligations under
+an
+act respecting the mandatory reporting
+of internet child pornography by persons who provide an internet service
+
+(referred to as the
+mandatory reporting act
+in these reasons) and
+related
+internet child pornography reporting regulations
+
+(referred to as the
+regulations
+in these reasons).
+
+the duties created by the
+mandatory
+reporting act
+include the following:
+duty to report internet
+address
+2
+if a
+person is advised, in the course of providing an internet service to the
+public, of an internet protocol address or a uniform resource locator where
+child pornography may be available to the public, the person must report that
+address or uniform resource locator to the organization designated by the regulations,
+as soon as feasible and in accordance with the regulations.
+duty
+to notify police officer
+3
+if a
+person who provides an internet service to the public has reasonable grounds to
+believe that their internet service is being or has been used to commit a child
+pornography offence, the person must notify an officer, constable or other
+person employed for the preservation and maintenance of the public peace of
+that fact, as soon as feasible and in accordance with the regulations.
+preservation
+of computer data
+4
+(1)
+a person who makes a notification under section 3 must
+preserve all computer data related to the notification that is in their
+possession or control for 21 days after the day on which the notification is
+made.
+destruction
+of preserved computer data
+(2)
+the
+person must destroy the computer data that would not be retained in the
+ordinary course of business and any document that is prepared for the purpose
+of preserving computer data under subsection (1) as soon as feasible after the
+expiry of the 21-day period, unless the person is required to preserve the
+computer data by a judicial order made under any other act of parliament or the
+legislature of a province.
+no
+disclosure
+5
+a person
+must not disclose that they have made a report under section 2 or a
+notification under section 3, or disclose the contents of a report or
+notification, if the disclosure could prejudice a criminal investigation,
+whether or not a criminal investigation has begun.
+
+the
+mandatory reporting act
+provides civil protection to isps who make their reports in good faith.
+in addition, reports made under the laws of a foreign jurisdiction are deemed
+to have complied with section 2 of this act.
+
+the similar american act
+
+that governed at the relevant time required isps who obtain actual knowledge of
+any facts or circumstances relating to certain enumerated csam offences to provide
+a report to the cybertipline. the content of that report had specific
+legislated requirements but gave the isp discretion to include the suspect ip
+address.
+in this case, kik, a private, third-party company, voluntarily provided the
+relevant ip address to the designated american recipient organization (ncmec),
+who then, per statute, forwarded that information to the designated organization
+in canada (ncecc, an arm of the rcmp).
+
+when understanding the legal
+framework in which to assess the claim of reasonable expectation of privacy, it
+is also important to consider the
+regulations
+flowing from the
+mandatory
+reporting act:
+online
+internet address reporting system
+3
+the
+designated organization must, for the purpose of receiving reports of internet
+addresses under section 2 of the act, maintain a secure online system that
+(a)
+assigns
+each service provider a unique identifier for the purpose of making reports;
+(b)
+allows a
+service provider to report only internet addresses; and
+(c)
+issues to
+a service provider, for each report they make, a receipt that indicates the
+incident number assigned to the report, the service provider’s name and unique
+identifier and the date and time of the report.
+analysis
+and communication of findings
+4
+as soon
+as feasible after receiving a report under section 2 of the act, the designated
+organization must determine whether any material found at the reported internet
+address appears to constitute child pornography and, if so,
+(a)
+determine,
+if possible, the geographic location of the server that the reported internet
+address points to and the geographic location of the server hosting the
+material that appears to constitute child pornography; and
+(b)
+make
+available to every appropriate canadian law enforcement agency by secure means
+(i)
+the
+reported internet address,
+(ii)
+a
+description of any geographic location that the designated organization was
+able to determine under paragraph (a), and
+(iii)
+any other
+information in the designated organization’s possession that might assist the
+agency’s investigation.
+retention
+of records
+5
+for each
+report received in accordance with section 2 of the act, the designated
+organization must retain the reported internet address and a copy of the
+receipt issued under paragraph 3(c) for two years after the day on which
+the report is received.
+security
+measures
+6
+the
+designated organization must take measures to
+(a)
+ensure
+its continued ability to discharge its role, functions and activities under the
+act, including measures relating to the protection of its physical facilities
+and technical infrastructure, risk prevention and mitigation, emergency
+management and service resumption;
+(b)
+protect
+from unauthorized access any information obtained or generated by the
+designated organization in the course of discharging its role, functions or
+activities under the act; and
+(c)
+ensure
+that its personnel are capable of fulfilling their duties in the discharge of
+the designated organization’s role, functions and activities under the act,
+including measures relating to their selection and training.
+notification of ministers
+7
+the
+designated organization must notify the minister of justice and the minister of
+public safety and emergency preparedness within 24 hours of becoming aware
+of any incident that jeopardizes the designated organization’s ability to discharge
+its role, functions or activities under the act.
+…
+method of reporting
+10
+for the
+purpose of section 2 of the act, an internet address must be reported by a
+service provider using the online system referred to in section 3.
+form
+and content of notification
+11
+for the
+purpose of section 3 of the act, a notification from a service provider
+must be in writing and must include the following information:
+(a)
+the child
+pornography offence that the service provider has reasonable grounds to believe
+is being or has been committed using their internet service;
+(b)
+a
+description of the material that appears to constitute child pornography,
+including its format;
+(c)
+the
+circumstances under which the service provider discovered the alleged offence,
+including the date and time of discovery;
+(d)
+a
+description of any other evidence relating to the alleged offence in the
+possession or control of the service provider; and
+(e)
+contact
+information of the service provider’s representative for the purpose of
+investigating the matter.
+
+there are additional provisions in
+the
+regulations
+that require isps to submit an annual report to the federal
+government on the discharge of its duties under the
+mandatory reporting act,
+a data preservation provision, as well a requirement to notify the federal
+government within 24 hours of becoming aware of any incident that jeopardizes an
+isp’s ability to discharge its obligations under the
+act.
+
+
+these provisions, contained in the
+act
+and related
+regulations, make clear parliament’s intention to
+regulate the use of the internet, including ip addresses used to distribute or
+access child sexual abuse material.
+
+applicable legal principles: section
+8 of the
+charter
+
+the supreme court in
+r. v.
+campbell,
+has recently summarized the applicable legal principles a court must consider
+when assessing a claim of a section 8
+charter
+breach:
+section 8 of the
+charter
+guarantees that "[e]veryone has the right
+to be secure against unreasonable search or seizure." the main purpose
+of
+s. 8
+is
+to protect the right to privacy from unjustified state intrusion (
+hunter v. southam inc.,
+1984 canlii 33 (scc),
+ 2 s.c.r. 145, at p. 160;
+r. v. plant,
+1993 canlii 70 (scc),
+ 3 s.c.r. 281, at p. 291;
+bykovets, at para.
+29
+).
+the right to privacy is foundational
+to a free and democratic society. it is essential to "individual dignity,
+autonomy, and personal growth" (
+bykovets, at para.
+29;
+see also
+plant, at p. 292;
+r. v. jones,
+2017 scc 60,
+ 2 s.c.r. 696, at para.
+38
+), and to "the relationship between
+the state and the citizen" (
+r. v. tessling,
+2004 scc 67,
+ 3 s.c.r. 432, at para.
+12
+). in an oft-quoted passage
+in
+r. v. dyment,
+1988 canlii 10 (scc),
+ 2 s.c.r. 417, at pp. 427-28, la forest j. wrote that "[t]he restraints
+imposed on government to pry into the lives of the citizen go to the essence of
+a democratic state." a similar sentiment was echoed by binnie j.
+in
+tessling, who observed that "[f]ew things are as
+important to our way of life as the amount of power allowed the police to
+invade the homes, privacy and even the bodily integrity of members of canadian
+society without judicial authorization" (para. 13).
+a
+central preoccupation of this court's
+s. 8
+jurisprudence has been to balance the often
+competing aims of personal privacy and the public interest. this quest for balance
+reflects the constitutional imperative in
+s. 8
+itself, which, expressed negatively, protects
+against an unreasonable search and seizure or, expressed positively,
+safeguards only a reasonable expectation of privacy (
+hunter,
+at p. 159).
+in
+hunter, dickson j., as he then was, explained
+that
+s. 8
+requires "an assessment... as to whether
+in a particular situation the public's interest in being left alone by
+government must give way to the government's interest in intruding on the
+individual's privacy in order to advance its goals, notably those of law
+enforcement" (pp. 159-60).
+in
+tessling, binnie j. added that "[t]he community wants
+privacy but it also insists on protection. safety, security and the suppression
+of crime are legitimate countervailing concerns" (para. 17;
+see also
+plant, at pp. 291-92
+).
+section 8 of
+the
+charter
+is
+engaged where a person has a "reasonable privacy interest in the object or
+subject matter of the state action and the information to which it gives
+access" (
+marakah, at para. 10, quoting
+cole, at para.
+34
+). a claimant seeking standing to argue
+that their rights under
+s. 8
+were infringed must show that they subjectively
+expected the subject matter of the search would remain private, and that their
+expectation was objectively reasonable having regard to "the totality of
+the circumstances" (
+marakah, at para. 10, quoting
+r. v. edwards,
+1996 canlii 255 (scc),
+ 1
+s.c.r. 128, at paras.
+31 and 45;
+see
+also
+r. v. spencer,
+2014 scc 43,
+ 2 s.c.r. 212, at paras.
+17-18;
+jones, at para.
+13
+). in making this evaluation, courts are
+guided by four lines of inquiry: (1) the subject matter of the alleged search;
+(2) whether the claimant had a direct interest in the subject matter; (3)
+whether the claimant had a subjective expectation of privacy in the subject
+matter; and (4) whether the claimant's subjective expectation of privacy was
+objectively reasonable (
+marakah, at para. 11;
+cole, at para.
+40;
+spencer, at para.
+18;
+bykovets, at para.
+31
+).
+did the police conduct amount to a
+search or seizure?
+
+the first issue i must decide is
+whether the police conduct, prior to seeking judicial authorization, amounted
+to a search or seizure.
+position of the applicant
+
+on behalf of mr. done, mr. bytensky
+argued that the receipt of the ip address by the police in this case
+constituted a search, despite the police obtaining that information without a
+request. in his view, pursuant to
+bykovets, the police breached mr.
+done’s section 8 rights by not obtaining judicial authorization prior to using
+the ip address in any way, including their efforts to determine which service
+provider was the record holder and the relevant municipal location of the ip
+address.
+
+mr. bytensky further argued that
+where an ip address is provided pursuant to a formal or even an informal
+arrangement for cooperation between police and a third party, there is a
+requirement for prior judicial authorization for the police to be able to use
+the ip address in their investigation. mr. bytensky argued that the unrequested
+receipt an ip address from the ncmec cannot be treated as the passive receipt
+of information. rather, he submitted that this court should find the
+relationship between ncmec and the rcmp to be akin to that which existed
+between the public electrical utility and the police
+in
+orlandis-habsburgo.
+
+finally, mr. bytensky argued that even
+if no search took place, the police decision to receive and review the suspect ip
+address, without prior judicial authorization, amounted to a seizure.
+position of
+the respondent
+
+ms. donohue, on behalf of
+the crown, argued that there was no search involved in this case. in
+particular,
+she argued
+that in receiving the relevant ip address, no search took place. the police
+never made a request; rather they passively received the ip address indirectly
+from a private third-party organization located in the united states, where the
+charter
+has no application.
+
+the police received a
+report, akin to a complaint filed with the police alleging the commission of a
+crime. ms. donohue argued that police were entitled to use the information
+provided in the report, including the ip address, in the next step of their investigation
+(confirming the relevant isp and municipal location), without prior judicial
+authorization.
+
+the crown also submitted
+that any comparison to the situation
+in
+orlandis-habsburgo
+ignores the
+fact that the rcmp took no steps to direct the ncmec or make any requests.
+indeed, there is no evidence in this case that the ncmec would cooperate even if
+the rcmp made a request. it also ignores the fact that there is a clear
+legislative scheme in the united states and canada governing the reporting
+obligations of isps.
+
+ms. donohue disputed the
+characterization of the police receipt and use of the suspect ip address as a seizure
+for purposes of section 8.
+
+even if the court finds that the
+police passive receipt and subsequent use of the ip address provided by ncmec
+constituted a search, ms. donohue argued that there can be no reasonable
+expectation of privacy in an ip address used to access child sexual abuse
+material where the law explicitly requires isps to make a report to the police
+when they become aware that an ip address is connected to an offence involving such
+material.
+the receipt of the ip
+address from ncmec did not amount to a
+search
+
+in this case, there were no positive
+investigative steps taken by the police to obtain mr. done’s ip address. on the
+contrary, the police merely passively received an ip address from a private
+third-party organization in the united states (ncmec), that had received the ip
+address from a private company (kik). this is an important distinction.
+
+t
+he comments made by the majority
+in
+bykovets
+must be interpreted in
+light of the
+facts
+that w
+ere
+before the supreme court and the
+specific
+finding
+the majority made,
+that "the request by the state
+for an ip address is a search under s. 8 of the charter”.
+
+it was the request by police
+that made obtaining the two ip addresses in that case constitutionally
+objectionable.
+
+since
+bykovets,
+a number of cases have considered whether or not the passive receipt of an ip
+address from ncmec or a similar foreign organization
+
+amounts to a search.
+in
+r. v.
+cofell,
+justice vermette, in providing a helpful summary of these cases, noted:
+…in
+most of the cases, the reasoning of the majority
+in
+bykovets
+was found
+not to apply to situations where the police did not make a request to obtain an
+ip address and was voluntarily provided with an ip address by a third party.”
+
+three additional cases not considered
+by justice vermette, involving almost identical scenarios to the case at bar,
+are consistent with her conclusion.
+the decisions in
+r. v. brazeau,
+r. v. hillier,
+and
+r. v. miller
+
+all distinguished the
+bykovets
+decision
+and concluded that the passive
+receipt by police of an ip address forwarded by the ncmec to the rcmp does not
+constitute a search.
+
+
+similar to justice griffin in
+miller,
+i am in complete agreement with justice darroch’s conclusion
+in
+brazeau:
+the
+passive receipt of this information is not a search and therefore not subject
+to the constitutional protection against unreasonable state intrusions to those
+individuals who have a reasonable expectation of privacy over the subject
+matter of a search.
+
+to be clear, in mr. done’s case, the
+receiving of the cybertipline report by canadian police did not constitute a
+search or seizure for the purpose of section 8 of the charter. further, as
+justice griffin noted in
+miller:
+[n]o
+canadian police agency was involved in creating the cybertipline report as it
+was provided by the ncmec by an american non-profit corporation incorporated
+under laws of the district of columbia whose mission it is to reduce child
+exploitation and prevent child victimization and as such, they are not even
+subject to the
+canadian charter of rights and freedoms.
+application of
+r. v.
+orlandis-habsburgo
+
+in arguing that the practice of
+information sharing from ncmec to the rcmp cannot be treated as the passive
+receipt of information, counsel for mr. done analogized this information
+sharing to the arrangement that had been in place between a public electrical
+utility and the police
+in
+orlandis-habsburgo.
+
+in that case, the court of appeal was
+critical of the informal arrangement the police had established with the local
+power authority, in which the power authority would review customers’
+electricity usage records and forward a “high consumption list” of users to the
+police, without prior judicial authorization.
+
+significantly, however, justice doherty
+took great care to limit the application of the court’s
+decision in
+orlandis-habsburgo:
+i
+have considerable difficulty with the submission that
+s. 8
+is engaged if the police look at information in
+which an accused has a legitimate privacy interest, even if that
+information is brought to the police by an independent third party acting on
+its own initiative. on that
+approach,
+s. 8
+would be engaged if a "whistleblower"
+took confidential documents belonging to her employer to the police to
+demonstrate the employer's criminal activity. must the police refuse to look at
+the documents to avoid violating the employer's
+s. 8
+rights? as
+duarte
+teaches, it is one thing to say that canadian
+values dictate that the state's power to decide when and how it will intrude
+upon personal privacy must be carefully circumscribed, and quite another to say
+that an individual's private information is cloaked in the protection of
+s. 8
+no matter how that information comes to the
+police.
+i
+need not decide whether the appellants'
+s. 8
+rights would be implicated if horizon, acting on
+its own initiative, volunteered the energy consumption data to the police. the
+evidence establishes that the police and horizon were acting together. they had a mutual interest in finding marihuana
+grow operations. those operations were not only criminal, but also posed a
+significant fire hazard and a threat to horizon's legitimate interests.
+personnel at horizon and the police developed an informal arrangement whereby
+horizon would share energy consumption records with the police on an ongoing
+basis. horizon or the police might initiate the request to share the
+information if either had reason to believe that a customer of horizon was
+operating a marihuana grow-op at a particular location. often when horizon
+provided the initial information, the police would request additional
+data. horizon always complied.
+given
+the arrangement between horizon and the police, the
+s. 8
+analysis in this case should not depend on
+whether it was horizon or the police who initiated the contact that led to the
+police obtaining the appellants' energy consumption data from horizon. i think
+it is a fair reflection of the relationship between horizon and the police to
+treat the police investigation in this case as beginning when mr. franco
+observed the suspicious pattern of energy consumption at the appellants'
+residence and forwarded the data to the police.
+
+in my view, the police/third party
+relationship
+in
+orlandis-habsburgo
+is not analogous to the circumstances
+in the case at bar, nor to the reported cases where canadian police receive
+information, including an ip address, from ncmec or their british counterpart.
+
+ncmec, the private american organization
+that collects and forwards tips related to child sexual abuse material on the internet
+and other offences, does not seek out information at the request of canadian
+authorities. on the contrary, the relationship exclusively involves ncmec
+forwarding information gathered about potential criminal activity collected by
+operation of american law.
+
+there is no evidence that canadian authorities made any requests of ncmec or
+directed them in any way. in addition, there is no evidence that the american,
+not-for-profit organization would even comply with such requests or direction.
+
+unlike
+in
+orlandis-habsburgo,
+there
+is simply no evidence that the police in this case, whether that be the rcmp or
+the tps, had any special arrangement with or influence on ncmec. rather, it is
+clear to me that the canadian authorities simply received a tip from an
+american organization acting independently.
+
+finally, the information gathering
+and sharing by ncmec is authorized by american law and recognized by canadian
+law.
+as noted earlier, similar canadian legislation not only authorizes isps to
+share information with the police, it
+requires
+isps to file a report
+and, in certain circumstances,
+provide a suspect ip address to the police. no such legislation or legal
+authorization allowed the information sharing engaged in by the police and the
+private power utility
+in
+orlandis-habsburgo.
+
+the circumstances in the
+case at bar are a far cry from the nudge-nudge, wink-wink, extra-judicial
+arrangement justice doherty rightly criticized
+in
+orlandis-habsburgo.
+steps taken by
+police to use the ip address to confirm the existence of records with the
+relevant isp did not breach s. 8
+
+in this case, after receiving the suspect
+ip address from ncmec, both the rcmp and the tps used an open-source website to
+geo-locate where in the country the ip address was located. this website also
+provided the name of the relevant isp.
+once it was determined that bell was the isp, the police confirmed with bell that
+they had the relevant records.
+
+counsel for mr. done argued that by
+taking these steps, police breached mr. done’s s. 8 rights. with respect, i do
+not read paragraphs 41 and 42 of
+bykovets
+
+to require police to obtain prior judicial authorization to merely determine in
+which city the ip address was located and with which service provider the ip
+address was connected.
+
+obtaining this type of information did
+not provide the police with any of the details that concerned
+the supreme court
+in
+bykovets, for example, core biographical information about mr. done
+or any details of mr. done’s specific and personal online activity. however, knowing
+the isp and location of the ip address, and confirming the existence of the isp’s
+records, was a necessary step for the police to take the next step and obtain a
+production order.
+
+section 487.014(2)
+(b) of the
+criminal
+code
+requires a justice issuing a production order to have grounds to
+believe that the document is in the possession or control of the person that
+will receive the production order. to obtain a production order for subscriber
+information relating to ip addresses, officers first must confirm whether the
+isp has such records and would preserve those records for a sufficient period
+that they could be requested via production order.
+
+analogous to this situation are the
+circumstances in
+r. v.
+dersch,
+where the supreme court indicated that hospitals could release neutral medical
+information, such as confirmation of the presence of a patient in the hospital,
+to the police without warrant.
+
+this was expanded upon
+in
+r. v.
+lillico,
+where the court held that disclosure of general information by confirming
+only that a particular cheque was deposited into the customer’s account was not
+an infringement of the privacy of the individual so as to attract the
+protection of
+s.8
+of the
+charter.
+
+this principle was recently
+affirmed
+in
+r. v. bhogal
+
+in the context of bank records, where the court held:
+consumers reasonably expect
+that banks will not disclose a customer's transactions to others, without
+proper authorization. in some cases, police might call a bank to confirm that
+they have records pertaining to a particular person or corporation. this is
+sometimes necessary in order to obtain a production order. the police must be
+able to establish that the institution possesses the records of interest. in
+that instance, the bank is merely confirming that a particular individual or
+agency banks at the institution. this is akin to asking whether a person is a
+patient at a hospital.
+in
+r. v. dersch,
+1993 canlii 32 (scc),
+ 3 s.c.r. 768
+it was held
+that such inquiry, without more, did not engage
+s. 8
+of the
+charter.
+
+accordingly, i find that the actions
+of the police, once they had received the ip address from ncmec, did not breach
+mr. done’s s. 8 rights. indeed, the police took no steps that could breach mr.
+done’s privacy without seeking prior judicial authorization. in seeking and obtaining
+a production order for bell subscriber records, the police fairly disclosed to
+the authorizing justice the process through which they had obtained the ip
+address.
+the receipt and use of the ip address did not amount
+to a
+seizure
+for purposes of section 8
+
+while i accept that police can
+convert
+something
+that is given to them by a third party into a seizure,
+that
+something
+is generally an object such as a computer or a telephone,
+not simply information contained in a tip or a report of an alleged crime.
+
+in
+r. v. lambert,
+the accused’s wife turned over her husband’s computers to the police after finding
+images of child sexual abuse. once these computers were turned over, police
+took active steps to assert control over them, by lodging and securing them in
+police custody, thereby preventing mr. lambert from having access.
+
+in overturning the trial judge’s finding
+that the police conduct did not amount to a seizure for s. 8 purposes, paciocco
+j.a. concluded:
+i
+am persuaded that state action occurred and resulted in a seizure when the
+police accepted the computers and took control over them
+to the exclusion of
+mr. lambert, thereby impeding
+his reasonable expectation of privacy.
+…in
+my view, consistent with the definition of “seizure” embraced by the supreme
+court of canada, the term “seizure must embrace any investigative conduct by
+the police
+in which they take control of a thing, to the exclusion of a
+person holding a reasonable expectation of privacy in a thing.
+
+paciocco j.a., however, went on to
+confirm that information, unlike a thing such as a computer, should not be
+treated the same way:
+…[i]ndividuals
+do not have a reasonable expectation of privacy in the knowledge that others
+have:
+see
+r. v. molyneaux
+2020 peca
+2, at para.
+51.
+individuals with
+relevant information about criminal conduct are free to communicate this
+information to the police, without
+s. 8
+being engaged.
+it
+also appears to be settled that a
+charter
+claimant cannot reasonably
+expect that a person they share an expectation of privacy with will not
+disclose information they discover to the police, including after discovering
+it on an electronic device:
+r. v. gomboc
+2010 scc
+55,
+ 3 s.c.r. 211, at para.
+41;
+cole, at para.
+73. in this case,
+had ms. lecompte
+only described what she had seen on the computers instead of handing the
+computers over,
+s. 8
+would not have been engaged regardless of how
+extensive the information she provided was.
+
+accordingly, it is clear to me that
+no seizure took place in the case at bar. the police receiving a report from
+ncmec, which is merely an electronic complaint or tip containing information, is
+not analogous to the police holding a computer or telephone, to the exclusion
+of an accused.
+
+in the present case, the police
+actions in receiving and reviewing the report from ncmec, and in taking their preliminary
+steps to identify the isp and location of the ip address, had no impact on mr.
+done. there was no interference with mr. done’s right to privacy. he was not prevented
+from using the internet and accessing his personal files while the police continued
+their investigation.
+if police conduct amounted to a
+search or seizure, it was authorized by law
+
+if i am wrong and the police conduct
+in this case resulted in a search or a seizure, i find that the police receipt
+of the report provided by ncmec was authorized by law.
+
+state intrusion into an accused’s
+privacy interest will only be reasonable when it was authorized by law, the
+authorizing law was itself reasonable and the execution of the search was
+itself reasonable.
+
+
+in this case, there was no challenge
+to the constitutionality of the
+mandatory reporting act, so i will focus
+on the other two elements.
+
+section 9 of the
+mandatory
+reporting act
+reads as follows:
+provincial
+or foreign jurisdiction
+a person who has reported information in compliance with an
+obligation to report child pornography under the laws of a province or a
+foreign jurisdiction is deemed to have complied with section 2 of this act in
+relation to that information.
+
+in my view, this section clearly contemplates
+the police receiving reports from foreign jurisdictions. indeed, this is a
+common scenario in csam investigations. section 9 treats reports made pursuant
+to foreign laws, such as the american federal law
+
+that created reporting duties for isps, the same as reports made pursuant to
+the
+mandatory reporting act.
+
+the rcmp, and then the tps, were therefore
+authorized by the
+mandatory reporting act
+to both receive and act upon
+the report they received from ncmec.
+
+and consistent with the supreme
+court’s
+decision in
+spencer, the police in this case took no steps to
+intrude into mr. done’s privacy without prior judicial authorization. after
+confirming the service provider and municipal location of the suspect ip
+address, they obtained a production order to obtain subscriber information for
+the person attached to the ip address. once received, the police used that
+subscriber information as part of the materials used to obtain a search warrant
+for mr. done’s home and devices.
+
+there was nothing in the manner of
+how the police received and then used the ip address that was unreasonable.
+no reasonable expectation of privacy
+in an ip address in the circumstances of this case
+
+if i am wrong and the police conduct
+in this case resulted in a search or a seizure, and was not authorized by law, i
+find that mr. done’s reasonable expectation of privacy in the ip address used
+to access images of child sexual abuse was so reduced, section 8 would not be
+engaged.
+
+in most contexts, and for the reasons
+articulated by the supreme court of canada in
+bykovets, an internet user
+has a reasonable expectation of privacy in an ip address. however, given the
+legislative context created by the
+mandatory reporting act
+and related
+regulations,
+i find that mr. done’s subjective reasonable expectation of privacy was not objectively
+reasonable.
+
+
+as is evident from the mandatory
+reporting obligations and related responsibilities created by the
+mandatory
+reporting act
+and its
+regulations, parliament has chosen to
+specifically regulate isps and therefore ip addresses through which the internet
+is accessed, when an ip address is used to make child sexual abuse material
+available or commit a related csam offence.
+
+given this unique legal framework, it
+is reasonable to conclude that a person using their ip address to distribute or
+access images of child sexual abuse has a much-reduced expectation of privacy
+than an internet user in any other context.
+
+in addition, the societal interest in
+protecting vulnerable children from exploitation carried out using the internet
+further reduced any expectation of privacy.
+
+
+to be clear, it is not
+the subject
+matter itself
+(csam or related offences) that leads to a conclusion that mr.
+done’s subjective expectation of privacy was not objectively reasonable.
+rather, i find that the legislative context that requires isps to notify the
+designated authorities when child sexual abuse material is made available on
+the internet or when an ip address has been used to commit a csam-related
+offence, which makes mr. done’s subjective expectation of privacy objectively unreasonable.
+how could mr. done have reasonably expected his ip address, with which he
+accessed and shared child sexual abuse material, to remain private when the law
+required isps to disclose such activity if discovered?
+
+
+given the legislative context in both
+canada and the united states, i find that someone who engages in such access or
+distribution, when viewed objectively, would appreciate the risks of detection.
+indeed, the communications that were recovered from mr. done’s phone
+demonstrate a real understanding by mr. done of the risks he faced of being
+identified when accessing child sexual abuse material on the internet.
+
+not bound by horizontal
+stare
+decisis
+
+there currently is an absence of binding
+appellate authority that deals with the issues in this application. there is
+also a series of conflicting trial level decisions, with most decisions favouring
+the position i have taken that the unrequested receipt by the rcmp of a
+complaint or report from ncmec is not a search.
+
+the decision of justice schreck in
+r.
+v. asantarajah
+
+lacks an analysis of the legislative context when the issue of reasonable
+expectation of privacy was considered. additionally, the reasons do not address
+whether the police actions were authorized by law within the governing
+legislative framework. i therefore conclude that i am not bound by this trial
+level decision, per
+r. v. sullivan.
+section 24(2)
+charter
+analysis
+in the alternative
+
+in all the circumstances, i find that
+mr. done’s
+section 8
+charter
+rights were not infringed; however, if i am
+incorrect, i would not exclude the evidence pursuant to
+s. 24(2)
+of the
+charter.
+seriousness of
+charter
+-infringing
+conduct
+
+in my view, this breach would not tip
+the scale in my previous
+charter
+analysis
+
+to the point where the evidence should be excluded.
+
+clearly, the police did not have the
+benefit of the guidance from
+the supreme court in
+bykovets
+when they
+conducted the investigation in this case. it is not contested that the police
+in this matter would have taken the necessary steps to obtain a production
+order to allow them to use the ip address, had that been the law at the time. therefore,
+this breach is at the very low end of the spectrum and counsel for mr. done has
+fairly conceded that it should have no impact on my previous analysis under the
+first branch of
+grant.
+impact of the breach on mr. done’s
+charter
+-protected
+rights
+
+the impact on mr. done’s
+charter-protected privacy interests is attenuated by the fact that mr. done, a
+person who accessed and shared child sexual abuse material on the internet, would
+have a substantially diminished expectation of privacy, given the legislative
+context i have previously outlined.
+
+in addition, if the police breached
+mr. done’ s. 8 rights by viewing the ip address and using it to determine the
+relevant ip address and municipal location without prior judicial
+authorization, this was remedied by the police when they obtained a production
+order for subscriber information. in their information to obtain the production
+order, they disclosed to the authorizing justice how they obtained the ip
+address. this further limits the impact of such a breach on mr. done’s s. 8
+rights.
+
+although this factor continues to favour
+exclusion per my previous analysis, this additional breach does not tip the
+scale towards ultimate exclusion, when balanced against society’s interests in
+the completion of this trial, including sentencing.
+society’s interest in the adjudication of the case on its merits
+
+the offence against mr. done is very
+serious. the court of appeal has repeatedly stressed the gravity of child
+pornography offences, most recently
+in
+r. v pike.
+
+the supreme
+court in
+r. v. friesen
+
+made it clear
+that
+sexual offences against children are violent
+crimes that wrongfully exploit children's vulnerability and cause profound harm
+to children, families, and communities.
+
+online distribution of
+films or images depicting sexual violence against a child repeats the original
+sexual violence since the child must live with the knowledge that others may be
+accessing the films or images, which may resurface in the child's life at any
+time.
+
+balancing
+
+when balancing the
+grant
+factors,
+i find that t
+he admission of the evidence
+of
+the video and images of child sexual abuse and related chats found on mr.
+done’s cellphone
+would better serve the
+truth-seeking function of the criminal trial process and society’s interest in
+the adjudication of the case on its merits. society’s interests include having an
+accused person who has been found guilty appropriately sentenced.
+application
+dismissed
+
+accordingly, mr. done’s
+charter
+application is dismissed.
+procedural
+history
+
+
+before concluding my reasons, i wish
+to outline the procedural history in this matter:
+(1)
+on february 8,
+2023, i dismissed mr. done’s previous application alleging breaches of
+sections
+7,
+8
+and
+10(b)
+of the
+charter.
+(2)
+on may 29, 2023,
+i found mr. done guilty of accessing child pornography contrary to
+s.
+163.1(4.1)
+of the
+criminal code.
+(3)
+following his
+conviction, i heard an application to stay mr. done’s charges pursuant to
+s.
+11(b)
+of the
+charter. that application was dismissed on october 4, 2023.
+(4)
+on may 30, 2024,
+and june 3, 2024, i heard sentencing submissions. following the release of the
+ontario court of appeal’s
+decision in
+pike, i heard additional
+sentencing submissions on august 20, 2024.
+(5)
+also on august
+20, 2024, counsel for mr. done indicated that he was likely to bring an
+application to re-open the trial to argue a
+section 8
+charter
+application
+based on the supreme court’s
+decision in
+bykovets. on september 17,
+2024, counsel for mr. done confirmed that he would bring this application.
+(6)
+on november 25,
+2024, i allowed the application to re-open
+
+and then heard submissions on the
+section 8
+charter
+application. at that
+time, the evidentiary record was incomplete, and the matter was adjourned to
+continue arguments on january 9, 2025.
+(7)
+on january 9,
+2025, arguments on the
+section 8
+charter
+application were adjourned at
+the request of counsel to await the release of two anticipated superior court
+decisions on the
+bykovets
+issue.
+(8)
+on january 24,
+2025, the evidentiary record was completed, and further arguments were heard.
+(9)
+following the
+release of
+asantarajah, on march 3, 2025, i heard further submissions on
+april 10, 2025. the matter was then adjourned to june 5, 2025, for a decision
+on the
+section 8
+charter
+application as well as judgment on sentencing, should
+i dismiss the
+charter
+application.
+
+finally, i wish to commend mr. bytensky
+and ms. donohue for their excellent advocacy in this matter. i am grateful for
+their professionalism and dedication.
+released:
+june 5,
+2025
+justice
+joseph
+callaghan
+
+kik
+interactive inc. is a private company that operated a freeware instant
+messaging mobile application.
+
+when
+possible, i have used the preferred terminology “child sexual abuse material”
+or “csam” in these reasons, that more accurately reflects the nature of “child pornography”.
+
+the ncmec is a private american non-profit
+organization whose mission is to help find missing children, reduce child
+sexual exploitation, and prevent child victimization. ncmec is not a law
+enforcement agency. it serves as the u.s. clearinghouse for families, victims,
+private industry, law enforcement, and other professionals on information and
+programs related to missing and exploited children’s issues.
+
+the
+cybertipline was created by ncmec to allow persons to report online (and via
+toll-free telephone) the enticement of children for sexual acts, child sexual
+molestation, child pornography, child sex tourism, child sex trafficking,
+unsolicited obscene materials sent to a child, misleading domain names,
+misleading words or digital images on the internet. the majority of
+cybertipline reports ncmec receives relate to apparent child pornography and
+are from electronic service providers (“esps”).
+
+internet protocol (ip) address
+is
+also known as an "ip number". when a subscriber of an internet
+provider logs onto the internet using a computer, their internet service
+provider assigns them an ip address. this number is specific to that computer.
+
+title 18, usc § 2258a
+
+usually
+referred to as an internet service provider (isp) in canada
+
+see
+for example
+r. v. leger,
+2024 nbkb 72;
+r.
+v. brazeau,
+2024 oncj 611;
+r. v. prys,
+2024 abcj 166;
+r. v.
+pengelly,
+2024 skkb 192;
+r. v. miller
+(unreported, january 22, 2025
+– ocj - g. griffin j);
+r. v. a.k.,
+2022 aj no. 9141;
+r. v. daniels,
+2024 onsc 344; and
+r. v. asantarajah,
+2025 onsc 1377;
+r. v. hillier,
+2024 nj no. 263
+
+2024 scc 6
+
+see the
+procedural history section at the conclusion of these reasons.
+
+moneris
+
+see
+bykovets,
+at paras.
+14, 30 & 92
+
+2017
+onca 649
+
+an
+act respecting the mandatory reporting of
+internet child pornography by persons who provide an internet service
+[s.c.
+2011, c.4]
+
+internet child pornography reporting regulations
+[sor/2011-292]
+
+see
+r. v. spencer,
+2014 scc 43, at paras.
+17-18,
+54;
+r. v. gomboc,
+2010 scc 55, at paras.
+27-34;
+r. v. cofell,
+2024 onsc 7151, at para.
+159; and
+r. v. z.e.,
+2025 onsc 675, at para.
+39
+
+s.c. 2011, c.4; amended 2024, c. 23: “child
+pornography” now reads “child sexual abuse and exploitation material”
+
+sor/2011-292
+
+section 7 of the
+mandatory reporting act
+
+section 9 of the
+mandatory reporting act
+
+title 18,
+usc § 2258a
+
+see the affidavit of heather girton
+
+sections 7, 12 & 9 of the
+regulations
+
+in
+spencer,
+the supreme court undertook a
+lengthy analysis of pipeda, and the privacy policy contained in the relevant
+isp contract in that case; however, it appears that the relevance of the
+mandatory
+reporting
+act
+(and related
+regulations
+) was neither argued
+nor considered.
+
+2024 scc 42, at paras.
+36-39
+
+see the
+majority
+reasons in
+bykovets
+at para.
+92, and the minority reasons
+at para. 135;
+see also
+r. v. cofell,
+2024 onsc 7151
+(vermette j.), at
+para.
+107
+
+united
+kingdom national crime agency ("uk nca") –
+see
+r. v. leger,
+2024 nbbr 72
+
+2024
+onsc 7151, at paras.
+108-117
+
+2024 oncj 611
+(darroch, j.)
+
+2024 nj no. 263 (brown, j.)
+
+unreported, ocj - january 22, 2025 (g. j. griffin, j.)
+
+in
+r.
+v. daniels,
+2024, onsc 344, justice dineen declined to decide the issue.
+
+see
+para. 19
+
+at page 17
+
+see paras. 34-36 [emphasis added]
+
+see
+r. v. daniels,
+2024 onsc 344
+(dineen j.),
+at para. 19
+
+see section 9 of the
+mandatory reporting act
+
+see s. 2 of the
+mandatory reporting act
+
+when one types in the ip address into the open-source
+application, the municipal location and the name of the isp are obtained.
+
+see
+daniels,
+at para. 20. i note that in
+daniels, the police took the additional step
+of seeking information through an mlat prior to seeking judicial authorization.
+no such step was taken in the case at bar.
+
+1993 canlii 32 (scc),
+ 3 s.c.r. 768
+at para.
+23
+
+ o.j. no. 95 (onca), affirming
+1994 canlii 7548 (on sc),
+ o.j. no. 4521
+at para.
+13
+
+2020
+onsc 7327, at para.
+53-54
+
+2023 onca 689
+
+see
+lambert,
+at paras.
+66-74
+[emphasis added]
+
+see
+lambert, at paras.
+58-59
+[emphasis added]
+
+see
+r. v. cole,
+2012 scc 53, at paras.
+34-37;
+spencer,
+at para.
+68;
+el-azrak,
+2023 onca 440, at para.
+29
+
+title 18, usc § 2258a
+
+justice griffin’s decision in
+miller
+(at paras.
+18-19), in which he made a similar finding, is the only decision of which i am
+aware that considered the legislative context when assessing whether a
+subjective reasonable expectation of privacy was objectively reasonable.
+
+see
+r. v. knelsen,
+2024 onca 501, at para.
+45;
+r.
+v. p.m.,
+2025 onca 208, at paras.
+35-39
+
+see
+r. v. campbell,
+2024 scc 42
+at paras.
+50-52
+
+i
+recognize the distinction between sections 2 and 3 of the
+mandatory reporting
+act; however, i find that both sections, when the totality of circumstances
+are considered, make mr. done’s subjective expectation of privacy objectively
+unreasonable.
+
+see the chats in trial exhibits #9 to 17
+
+2025 onsc 1377
+
+2022 scc 19
+
+see my
+reasons for decision on
+charter
+application dated february 8, 2023
+
+2024 onca 608, at paras.
+144-165
+
+2020
+scc
+9,
+at
+paras.
+1-
+5
+
+friesen,
+at para.
+48
+
+i do
+not intend for this to be a complete record of the procedural history; rather,
+a summary of key, relevant dates.
+
+the crown consented to the re-opening.

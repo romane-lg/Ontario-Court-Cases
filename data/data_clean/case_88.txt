@@ -1,0 +1,718 @@
+source url: https://www.canlii.org/en/on/oncj/doc/2025/2025oncj564/2025oncj564.html
+
+ontario court of justice
+citation:
+r. v. narang, 2025 oncj 564
+date: 
+2025 10 29
+court
+file no.: central west (peel) region 998-2331109708
+between:
+his
+majesty the king
+— and
+—
+karan narang
+before
+justice r. tomovski
+ruling
+on s. 11(b)
+charter
+application
+heard
+on october 23, 2025
+reasons
+for judgment released on october 29, 2025
+sakithyan bala.................................................................................... counsel
+for the crown
+ruaridh mccartney …………………………….. counsel
+for the accused karan narang
+tomovski j.:
+i. introduction
+
+the applicant’s original trial date was scheduled
+to proceed just over 18 months after the date of the charge. there was apparently
+no objection from the applicant, as no s. 11(b)
+charter
+application was brought. 
+the trial did not proceed as scheduled, largely due to defence-related delays. 
+despite a direction given by the judge to the applicant and the crown to ensure
+the trial coordinator was advised to prioritize rescheduling the trial, that
+direction was not acted upon. the trial was rescheduled for a year later, with
+no intervening dates being offered, putting the total delay well over the
+presumptive ceiling. the applicant subsequently raised a concern with the delay,
+which has culminated with his having brought the current application pursuant
+to s. 11(b) of the
+charter
+alleging a violation of his right to be tried
+within a reasonable time and seeking a stay of proceedings as a remedy. the
+key issue is whether, and how, the delay between the original and current trial
+dates should be apportioned.
+
+the applicant argues that irrespective of the
+reasons for the adjournment of the original trial date, the crown and court
+failed to prioritize the rescheduling of the trial and are, therefore, equally responsible
+for the ensuing delay. conversely, the crown argues that the applicant’s underestimation
+of the time needed for trial necessitated an adjournment and the applicant should
+be responsible for the entire ensuing delay.
+
+for my reasons that follow, i allow the
+application. i find that once defence delay is deducted from the total delay,
+the net delay is above the presumptive ceiling established in
+r. v.
+jordan,
+2016 scc 27
+and there are no exceptional circumstances to justify the presumptively
+unreasonable delay. although the applicant’s actions resulted in an underestimation
+of the time needed to complete the trial and necessitated an adjournment, once
+notice was given by the applicant that delay was an issue the crown and court
+did not take any steps to prioritize the applicant’s case including seeking an
+intervening
+jordan
+-compliant date.
+ii. background
+
+the applicant is charged with operating a
+conveyance both while impaired by alcohol and while his blood alcohol
+concentration was over the legal limit. the incident date is august 26, 2023.
+
+the information was sworn five days later, on august
+31. the anticipated end of trial is february 25, 2026, the third day of a three-day
+trial. as a result, the total delay is 909 days or 29 months and 25 days,
+which is well over the
+jordan
+presumptive ceiling for unreasonable delay
+of 18 months for a trial in the ontario court of justice, when the crown has
+elected to proceed summarily, which it has in this case.
+
+for analytical clarity, the history of the
+proceedings can be divided into three phases, as will become apparent in these
+reasons: the disclosure and crown pretrial phase, the original trial-setting
+phase and the trial-rescheduling phase.
+
+starting with the disclosure and crown pretrial
+phase, the applicable period is from the date the information was sworn (august
+31, 2023) and the date the applicant finally received core disclosure
+consisting of video footage of the arrest and the breath room (january 30,
+2024), a period of 152 days. this phase can be broken down as follows.
+
+the first court date was september 6, 2023. initial
+disclosure was not available. the applicant followed up with a request for it
+on september 7. initial disclosure was provided on september 18. however, it omitted
+key items, including notes from the arresting officer and breath technician, as
+well as video footage of the arrest and the breath room. the applicant wrote
+to the crown on september 19, october 6, november 9, and december 15 requesting
+the outstanding items. the applicant reiterated his request for outstanding
+disclosure during the october 11 and december 20 court appearances.
+
+at the december 20 court appearance, the
+applicant indicated he would conduct a crown pretrial once core disclosure was
+received. the matter was put over to january 31, 2024. the following day,
+december 21, 2023, the applicant had a meeting with an “r1” crown, who are
+available every day in this jurisdiction to discuss pretrial issues, to discuss
+outstanding disclosure.
+
+core disclosure was finally provided on january
+30, 2024. the following day, at the january 31, court appearance, the
+applicant put the matter over to march 13 to review disclosure and to have a
+further crown pretrial. however, it was not until march 6 that the applicant
+had a meeting with an “r3” crown, who are not available every day in this
+jurisdiction. the meeting was scheduled on january 24 for the earliest date of
+march 6, despite an r1 crown being available every day from when core
+disclosure was received.
+
+as referenced above, core disclosure was not
+provided until january 30, 2024, five months after the applicant was arrested
+and charged. as i noted in
+r. v. van meeteren,
+2025 oncj 546, at para.
+10,
+concerns in this jurisdiction regarding disclosure delays persist:
+i wish to address
+what i find is far too common an approach by the crown that contributes to a culture
+of complacency that must change to ensure the re-occurrence of this type of delay
+is prevented. the supreme court in
+jordan
+at paras.
+4, 29 and 40
+referenced a culture of complacency and a tolerance for excessive delay and
+identified insufficient practices as one contributing factor to that culture.
+that recognition was nearly 10 years ago. neither in its written materials on
+this application nor during its oral submissions did the crown provide an
+explanation, or satisfactorily attempt to provide one, for why it took nearly
+seven months for the applicant [five months in mr. narang’s case] to be
+provided a copy of the alleged victim’s statement to police [video footage of
+the arrest and breath room in mr. narang’s case], despite numerous requests by
+the applicant for it. the statement was recorded on video and obtained prior
+to the applicant’s arrest [obtained at the time of arrest in mr. narang’s case].
+many justice system participants – including the accused…and the public – deserve
+and should expect the crown to seek out an answer to avoid re-occurrence of
+this kind in future cases. this approach would align with the framework’s
+prospective approach in taking proactive measures to remedy delay:
+jordan
+at para.
+108. while i may not be the first to raise these concerns, as a
+justice system participant, i share in the responsibility of helping to resolve
+an apparent crown and police indifference to remedying the repeated failure to
+provide timely core disclosure: see
+r. v. scott-wolf,
+2024 oncj 502
+at
+paras.
+57-59;
+r. v. stefan, v.
+2024 oncj 565
+at para.
+52;
+r. v. smith,
+2023 oncj 222
+at para.
+49; and
+r. v. hotaki,
+2023 oncj 261
+at paras.
+29-33.
+
+turning now to the original trial-setting phase,
+at the march 6 crown pretrial, the applicant received the crown’s resolution
+position and a trial estimate form, which noted the time required for trial as
+2 days based on the applicant’s input, which indicated no
+charter
+application
+would be brought, and 0 to 1 defence witness would be called.
+
+despite having the resolution position and the
+trial estimate form since march 6, the applicant appeared at the following
+three court appearances – march 13, april 10 and may 8 – without having
+obtained a trial date. further, it was not until may 6 that the applicant booked
+a trial scheduling meeting with the trial coordinator for may 13.
+
+at the trial scheduling meeting, the court
+offered dates more than nine months away of february 5-6, 20-21 and 25-26, 2025,
+all of which were available to the crown but not the applicant. a 2-day trial
+of march 4 and 5, 2025 was secured, which is more than 18 months from the date
+the information was sworn.
+
+at the may 30 court appearance, the applicant confirmed
+the trial dates. he did not seek to set an intervening s. 11(b)
+charter
+hearing or reference any concerns with delay at that stage.
+
+turning finally to the trial-rescheduling phase,
+i will start by outlining the circumstances which caused the original trial
+date to not proceed, followed by discussing the circumstances which led to the
+current trial date being set.
+
+as referenced earlier, the trial was set for two
+days, to commence on march 4, 2025. several issues arose that made proceeding
+as scheduled nearly impossible. first, the applicant filed a late
+charter
+application (on february 7, five days short of the thirty-day notice under rule
+3.1(1) of the criminal rules of the ontario court of justice). second, as
+acknowledged by the applicant, he failed to file the application on the crown
+through the latter’s centralized “virtual” crown email address. instead, the
+applicant only served the assigned crown, who was no longer assigned by the time
+of the trial, which resulted in the trial crown not receiving the application
+until the morning of trial. third, and perhaps most critical, the applicant
+did not indicate during the crown pretrial that a
+charter
+application would
+be brought (alleging breaches of ss. 7, 8, 9 and 12), which, understandably,
+did not factor into the trial estimate. further, the applicant now intended to
+call a second defence witness which also did not factor into the trial
+estimate.
+
+the applicant and crown revised the trial
+estimate based on the above-noted issues, agreeing that the trial would now
+take three days to complete. the judge, who was in the process of being transferred
+to another jurisdiction, agreed with the applicant and the crown that it would
+be faster to complete the trial by securing three new days than to commence the
+trial and find a continuation date before the same judge, especially since a
+half day of court time had been expended discussing the implications of the
+above-noted issues. to ensure faster dates were obtained, the judge directed the
+parties contact the trial coordinator and the case be given priority.
+
+the parties met the trial coordinator the
+following day, march 5 to secure a 3-day trial. despite the judge’s direction
+that priority be given to the matter and the total delay already being over 18
+months, the first date offered by the trial coordinator was february 23-25,
+2026, a further year away, which was available to both parties. neither party offered
+any evidence in this application to suggest that any priority was given in
+rescheduling the matter including that the trial coordinator was even informed
+of the trial judge’s comments.
+
+the new trial dates were confirmed at the may
+28, 2025, court appearance. notably, when asked if delay was an issue due to
+the total delay, the applicant stated, “i don’t have instructions but that means
+that it’s likely not an issue given that i don’t have any instructions”. in
+response, the crown stated, “if 11(b) issues change, please let our office know
+as soon as it becomes an issue”. it was not until june 11, 2025, that the
+applicant advised that delay was an issue. once they were put on notice, the
+crown and court did not take any steps to try to secure an earlier trial date.
+
+the application proceeded before me on october
+23, 2025. i reserved my reasons to october 29, 2025.
+iii. analysis
+a.
+the
+jordan
+framework
+
+below is a summary of the
+jordan
+framework, as outlined in
+van meeteren, supra, at paras.
+24-35.
+
+the supreme court in
+jordan
+outlined the
+framework by which delay is to be assessed under s. 11(b) of the
+charter. 
+the framework as it applies to the ontario court of justice is summarized as
+follows.
+
+there is a presumptive ceiling of 18 months:
+jordan
+at paras.
+5, 46, 49, and 105. delay above that mark is presumptively
+unreasonable, whereas delay below it is presumptively reasonable:
+jordan
+at paras.
+47-48, 68, 82 and 105.
+
+delay is considered and calculated in different
+ways at different stages of the framework. at the outset, the total delay must
+be calculated. this period is calculated from the date of the charge to the
+end of the trial:
+jordan
+at para.
+60. the former equates with the date
+the information is sworn: see
+r. v. allison,
+2022 onca 329
+at paras.
+35-43;
+r. v. kalanj,
+1989 canlii 63 (scc).
+
+defence delay is subtracted from the total
+delay:
+jordan
+at paras.
+49, 60, and 66.
+
+defence delay can result from an explicit or
+implicit waiver or delay caused solely or directly by the defence’s conduct:
+jordan
+at paras.
+61, 63 and 66. an example of the latter is when the crown and court
+are ready to proceed but the defence is not:
+jordan
+at para.
+64. 
+however, legitimate defence conduct is not defence delay:
+jordan
+at
+para.
+65.
+
+when the delay is above the presumptive ceiling,
+the onus is on the crown to establish the presence of exceptional circumstances
+that justify the delay:
+jordan
+at paras.
+47, 68, 81 and 105. 
+exceptional circumstances are circumstances that are reasonably unforeseen or
+reasonably unavoidable and the ensuing delay emanating from those circumstances
+cannot reasonably be remedied by the crown:
+jordan
+at para.
+69. the crown
+must show that it took reasonable steps to avoid the delay before the
+presumptive ceiling was surpassed:
+jordan
+at para.
+70. those steps need
+not be successful in preventing the delay:
+jordan
+at para.
+70.
+
+generally, exceptional circumstances fall into
+two groups: discrete events or particularly complex cases:
+jordan
+at
+para.
+71. the former includes medical emergencies or unexpected illnesses,
+whereas the latter includes cases with novel or complicated legal issues, voluminous
+disclosure or many witnesses requiring a lengthy trial:
+jordan
+at paras.
+77-78.
+
+like defence delay, delay caused by exceptional
+circumstances is subtracted from the total delay:
+jordan
+at para.
+75.
+
+when the delay is below the presumptive ceiling,
+the onus is on the applicant to show that the delay is otherwise unreasonable
+by establishing that it “took meaningful steps that demonstrate a sustained
+effort to expedite the proceedings” and the case took “markedly longer than it
+reasonably should have”:
+jordan
+at paras.
+48, 82 and 105.
+
+meaningful and sustained steps include seeking
+and setting the earliest available trial dates and giving notice when delay is
+becoming a problem:
+jordan
+at para.
+85.
+
+whether a case took markedly longer considers
+multiple factors including the case’s complexity, local considerations, and
+whether the crown took reasonable steps to expedite the proceedings:
+jordan
+at para.
+87.
+
+stays beneath the presumptive ceiling will be
+granted only in clear cases:
+jordan
+at para.
+83.
+b.
+the
+hanan
+principle
+
+i have substantially reproduced below from
+van
+meeteren, supra at paras.
+36-39, in which i summarized the principle in
+r. v.
+hanan,
+2023 scc 12
+and subsequent cases that have interpreted
+the principle.
+
+in
+hanan
+at para.
+9, the supreme court rejected
+a bright-line rule of attributing the entirety of ensuing delay to the defence after
+the rejection of an initial date because of unavailability. instead, a
+contextual analysis was emphasized in which all relevant circumstances are to
+be considered to determine if and how the ensuing delay should be apportioned.
+
+in
+r. v. jones,
+2025 onca 103
+at para.
+32,
+the court of appeal noted that
+hanan
+did not “adopt an inverse
+bright-line rule apportioning the defence with none of the delay”. the court at
+para. 33 reiterated that all relevant circumstances must be assessed to decide
+how to apportion the delay among the parties: see also
+r. v. jacques-taylor,
+2024 onca 458
+at paras.
+5-7;
+r. v. shaporov,
+2025 onca 281
+at para.
+33;
+and
+r. v. m.e.,
+2025 onca 729
+at paras.
+17-18 and 26.
+
+in
+r. v. k.d.,
+2025 onca 639, the court
+of appeal further clarified the principle in
+hanan. the court at para.
+46 noted, “it is not that the apportionment of delay is warranted in every
+case, but rather that the circumstances of every case must be considered to
+determine whether apportionment is warranted”.
+
+in
+r. v. bowen-wright,
+2024 onsc 293
+at
+paras.
+38-48, the summary conviction appeal court identified several factors that
+would inform any contextual analysis in the apportionment of ensuing delay
+after the rejection of an initial date. those factors include the reason for
+the need to reschedule and whether it was caused by the defence; the extent to
+which the defence was available; and the reasons for the defence unavailability.
+
+since my decision in
+van meeteren, the
+court of appeal released
+m.e., supra, in which it applied the principle
+in
+hanan
+differently to two separate periods of delay. first, in setting
+an initial trial date, although the defence was unavailable for several earlier
+dates the court offered and the crown was available, subsequent dates offered
+by the court that the defence was available, but the crown was not, was held to
+be a relevant factor. the court of appeal at para. 16 stated, “all relevant
+circumstances, including the fact that on some proposed dates the defence was
+not available and on others, the crown was not available, should be
+considered”. the court of appeal apportioned the delay, with the initial
+period as defence delay and the subsequent period as crown delay.
+
+second, in the setting of a trial continuation, although
+the defence was unavailable for earlier dates offered, there were no further
+dates offered from the defence’s unavailability to the date chosen. the court of
+appeal at para. 24, referenced its decision in
+k.d., supra, at para.
+45,
+which noted “the defence cannot fairly and reasonably be held wholly
+responsible for a span of time largely comprising a period where the court was
+unavailable”. the court of appeal added “this is so even if the period of
+delay began because the defence was not available on the first date offered”. 
+the court of appeal at para. 25 further added that both the defence and the
+crown failed to take steps to seek intervening dates from the court, which led
+to this period of delay being apportioned equally between the defence and the
+crown.
+c.
+jordan
+and
+hanan
+applied
+
+the total delay in the applicant’s case is from august
+31, 2023 (the date the information was sworn) to february 25, 2026 (the anticipated
+end of trial). the total delay is 909 days or 29 months and 25 days.
+
+in find that there are four periods of delay
+that are exclusively defence delay that are to be deducted from the total
+delay.
+
+first, after the applicant obtained core
+disclosure, aside from an acceptable amount of time to review disclosure and take
+necessary next steps (e.g., get updated instructions), which i find to be 14
+days, the applicant then unreasonably delayed scheduling and conducting a crown
+pretrial. the applicant obtained core disclosure on january 30, 2024, yet waited
+until march 6 to conduct a crown pretrial with an r3 crown, instead of opting
+for an earlier pretrial with an r1 crown. this 37-day period, minus 14 days
+for review, leaves 23 days. i find this entire remaining period is defence
+delay.
+
+subtracting this 23-day period from the total delay
+of 909 days leaves a net delay of 886 days.
+
+second, after the applicant conducted a crown
+pretrial on march 6 and obtained a trial estimate form, the applicant
+unreasonably delayed waiting to set a trial scheduling meeting until may 6. 
+the meeting was held on may 13. this is a period of 68 days is defence delay.
+
+subtracting this 68-day period from the net
+delay of 886 days leaves a remaining net delay of 818 days.
+
+third, when the original 2-day trial was being
+set, the applicant was unavailable between the period of february 4 to march 3,
+2025, when the crown and court were ready to proceed. this is a period of 27
+days and is defence delay.
+
+subtracting this 27-day period from the net
+delay of 818 days leaves a remaining net delay of 791 days.
+
+fourth, this period starts with when the original
+trial date was vacated on march 4 and ends with when the applicant gave the
+crown and court notice on june 11, 2025, that delay was now in issue. several relevant
+circumstances occurred during this period as i explain below.
+
+i find the applicant’s actions solely caused the
+need for an adjournment of the original trial date because of his failure to
+allow for a proper trial estimate to be arrived at. further, there is no
+evidence to suggest the applicant made the crown or trial coordinator aware the
+following day at the trial scheduling meeting that delay was an issue, which
+precluded the latter from taking steps at that time to minimize any ensuing
+delay. even further, when the current trial dates were confirmed at the may 28
+court appearance, i find the applicant’s comments in response to being directly
+asked if delay was an issue (“i don’t have instructions but that means that
+it’s likely not an issue given that i don’t have any instructions”) and the crown’s
+response (“if 11(b) issues change, please let our office know as soon as it
+becomes an issue”), effectively amounted to an express waiver of delay, overriding
+the judge’s expressed concerns. i find the crown was entitled to rely on this
+waiver despite the judge’s prior direction that the case be given priority in
+rescheduling the trial. however, i find the waiver ended once the applicant
+gave notice on june 11 that delay was an issue. this period of 99 days is
+defence delay.
+
+subtracting this 99-day period from the net
+delay of 791 days leaves a remaining net delay of 692 days.
+
+the crown argues that the applicant’s failure to
+conduct an initial crown pretrial after receiving initial disclosure is
+properly defence delay. specifically, the crown says the relevant period is
+from september 18, when initial disclosure was received, to december 21, 2023,
+when an initial crown pretrial was held to discuss outstanding disclosure.
+
+the crown referred me to justice monahan’s
+decision of
+r. v. mansour, an unreported decision of the ontario court
+of justice dated august 29, 2024. however, in that decision it was held that the
+failure to conduct a timely pretrial was only after “substantial” disclosure
+had been obtained: see p. 4. unlike
+mansour, the applicant made multiple
+requests for substantial disclosure including in writing on four separate
+occasions, during two court appearances and even conducting an initial crown pretrial,
+all before receiving substantial disclosure. i find the applicant’s actions were
+entirely appropriate in insisting on core disclosure before conducting a
+further crown pretrial or setting a judicial pretrial, especially when the
+items (i.e., notes of the arresting officer; video footage of the arrest and
+the breath room) are perhaps the most important items of disclosure in a
+drinking and driving prosecution that would allow for a meaningful pretrial. 
+requiring the applicant to schedule a pretrial simply to remind the crown, yet
+again, this time in a different forum, of its constitutional obligation to
+provide meaningful disclosure is a practice not worth endorsing.
+
+the remaining period of delay is from the
+original trial date, march 4, 2025, to the anticipated end of the current trial
+date, february 25, 2026, minus the period of 99 days subtracted for defence
+delay from march 4 to june 11, 2025 (supra at paras. 50-51). this period of
+delay (358 minus 99 days) is 259 days.
+
+in applying the principle in
+hanan
+to
+this period, i am to consider all relevant circumstances in deciding whether,
+and how, to apportion the delay. relevant factors include the reason for the
+need to reschedule and whether it was caused by the defence and court
+availability in rescheduling the trial.
+
+the crown argues that the entire period of delay
+(starting from march 4) ought to be attributed as defence delay. it points to the
+applicant’s failure to allow for a proper trial estimate to be arrived at (by
+not advising of its intention to bring a
+charter
+application and call an
+additional defence witness), which solely caused the original trial date to not
+proceed and resulted in a new trial date having to be set. in support of its
+position, the crown relies on justice singh’s decision of
+r. v. heron,
+an unreported decision of the ontario court of justice dated september 3, 2025. 
+justice singh at paras. 22-28 attributes as defence delay the defence’s failure
+to meaningfully engage the crown in pretrial discussions, including not
+advising that a
+charter
+application would be brought, to arrive at an accurate
+trial estimate which resulted in the trial not completing and requiring
+continuation dates, which were 4.5 months away. although reference is not made
+to
+hanan, justice singh appears to have apportioned all the ensuing
+delay as defence delay.
+
+in applying the principle in
+hanan, i
+find other relevant circumstances present in the applicant’s case that were not
+present in
+heron. further, i find the crown’s submission in asking for
+the entire delay to be attributed to the defence indicative of the bright-line
+approach that was rejected in
+hanan. i find the crown’s position fails
+to account for the crown’s ongoing role in ensuring any delay is mitigated,
+especially when put on notice.
+
+at first glance, several relevant circumstances point
+to the entire period being attributed to the applicant. the applicant solely
+caused the need for an adjournment of the original trial date because of his
+failure to allow for a proper trial estimate to be arrived at. further, as
+referenced earlier, there is no evidence to suggest the applicant made the crown
+or trial coordinator aware that delay was an issue at the time the new trial
+date was obtained, which precluded the latter from taking steps at that time to
+minimize any ensuing delay.
+
+there are, however, relevant circumstances that point
+to the delay being apportioned between the applicant and the crown. it appears
+the crown did not take heed of the trial judge’s direction that priority should
+be given to the applicant’s matter when new dates were obtained. further, there
+is no evidence to suggest the crown made the trial coordinator aware that delay
+was an issue at the time the new trial date was obtained, which precluded the
+latter from taking steps at that time to minimize any ensuing delay. the
+difference between the applicant and the crown in this circumstance (i.e.,
+notifying the trial coordinator of the judge’s direction) is that the latter
+has an ongoing responsibility to minimize delay especially when it is above the
+presumptive ceiling. the crown effectively accepted a single trial date offered
+nearly 12 months away (compared to only 4.5 months away in
+heron
+), even though
+the delay at that point was already over the presumptive ceiling (compared to
+heron
+where the delay was below the presumptive ceiling). even further, although i
+have found the crown was initially entitled to rely on the applicant’s waiver
+despite the judge’s direction that the case be given priority, once that waiver
+ended on june 11, eight months prior to the current trial date, the crown did
+not take any steps to prioritize the applicant’s case including seeking an
+intervening
+jordan
+-compliant date.
+
+the court shares in the responsibility to
+minimize delay. the applicant’s case at the original trial date was already
+above the presumptive ceiling. once it was determined the trial would not
+proceed, in rescheduling the trial, the court’s offer of a single date a year
+away, putting the total delay at 29 months and 25 days, was simply contrary to efforts
+to minimize delay. like the crown, the court took no steps to minimize the
+ongoing delay. the defence was not offered any earlier, reasonable dates.
+
+as referenced, there are relevant circumstances
+for and against apportioning the entire period of delay to the applicant. i
+have decided not to apportion the entire period to the applicant. i rely on the
+court of appeal’s recent comments in
+m.e.
+at para.
+24:
+[t]he defence
+cannot fairly and reasonably be held wholly responsible for a span of time
+largely comprising a period where the court was unavailable. this is so even
+if the period of delay began because the defence was not available on the first
+date offered
+
+in
+m.e., the delay was apportioned
+equally between the crown and the defence. i see no rational basis to depart
+from similarly apportioning the delay in this case equally between the applicant
+and the crown. as such, 129.5 days of the 259 days should be attributed as
+defence delay.
+
+subtracting this 129.5-day period from the net
+delay of 692 days leaves a remaining net delay of 562.5 days or 18.5 months. as
+such, the onus falls on the crown to rebut the presumption of
+unreasonableness. i find that it has failed to do so.
+
+having already attributed all the delay in the
+case, there are otherwise no exceptional circumstances. the applicant’s case
+is not a complex one. it is a “routine” drinking and driving prosecution. the
+applicant’s
+charter
+application is not suggestive of novelty or
+complexity even with a s. 7 excessive force argument. it simply suffered from
+late service, albeit five days short of the required notice of 30 days. the
+assigned crown failed to ensure the trial crown was made aware that a
+charter
+application had been served, an unexplained breakdown in the notion that the
+crown is a single indivisible entity. as referenced earlier, the crown (and
+court) did not take any steps to minimize the delay once the presumptive
+ceiling was breached and when it was breached even more.
+
+it is unfortunate that these charges cannot be
+adjudicated on their merits due to unreasonable delay.
+v. conclusion
+
+the application is granted, and the charges are
+stayed.
+released: october 29, 2025
+signed:
+justice tomovski

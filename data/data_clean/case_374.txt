@@ -1,0 +1,836 @@
+source url: https://www.canlii.org/en/on/oncj/doc/2025/2025oncj170/2025oncj170.html
+
+ontario court of justice
+citation:
+r. v. dimillo, 2025 oncj 170
+date: 
+2025 03 28
+court
+file no.: hamilton 998 23 47102956
+between:
+his
+majesty the king
+— and
+—
+frank dimillo
+reasons
+for judgment
+before
+justice davin m.k. garg
+heard
+on february 18-21, 26, and march 18-19, 26-27, 2025
+reasons
+released on march 28, 2025
+sean doherty....................................................................................... counsel
+for the crown
+ian mccuaig............................................................ counsel
+for the accused frank dimillo
+garg j.:
+overview
+
+blake dimillo told the police that he heard his
+father confess to shooting a man in the face. he then testified in court that
+he misspoke. the purported confession is the only direct evidence against the
+accused. the alleged victim of the shooting did not incriminate the accused.
+
+i find that blake dimillo told the truth to the
+police and gave a reliable account of what he heard. his recounting of the
+accused’s confession combines with the circumstantial evidence to prove the
+accused’s responsibility for the shooting beyond a reasonable doubt. these
+reasons explain my conclusions.
+general
+principles
+
+the crown bears the onus of proving each and
+every element of the offences charged beyond a reasonable doubt. the accused
+carries no onus to prove or disprove anything. he is presumed innocent of all
+charges. the burden of proof never shifts to the accused. it is not enough for
+me to believe that the accused is probably or likely guilty of an offence. in
+that situation, i would need to acquit. while the crown is not required to
+prove its case to an absolute certainty, proof beyond a reasonable doubt falls
+much closer to an absolute certainty than the balance of probabilities.
+reasonable doubt can arise from the evidence or from the absence of evidence.
+
+the crown presents a largely circumstantial case
+to prove that the accused intentionally shot the alleged victim, morgan
+richardson. i must conduct an analysis pursuant to the principles articulated
+in
+r. v. villaroman,
+2016 scc 33. i must consider other reasonable
+possibilities or plausible theories that are inconsistent with guilt to decide
+whether an inference of guilt is the only reasonable inference. reasonable
+possibilities must be based on logic and experience applied to the evidence or
+the absence of evidence. “[i]t is for the trier of fact to determine whether
+any proposed alternative way of looking at the case as a whole is reasonable
+enough to raise a doubt about the guilt of the accused”:
+r. v. lights,
+2020 onca 128
+at para.
+39.
+blake dimillo’s statement to the police
+
+after considering the entire trial record, i
+find as fact that blake dimillo heard the accused’s purported confession to the
+shooting. the accused was speaking to visitors on the porch of his home. i find
+that blake properly recounted what he heard to the police.
+
+i reject blake’s testimony
+that he misspoke.
+factual overview
+
+blake gave a statement to the police on the day following
+the alleged shooting. i granted the crown’s application to admit the following excerpt
+of blake’s statement into evidence for the truth of its contents:
+
+blake: … i went downstairs to ask [the
+accused] like, just basically what the fuck is wrong with him? why is he
+involving us? like, this isn’t, like, it’s not safe, obviously. but he was out.
+so, i talked …
+officer: what time did that
+[indiscernible] at roughly?
+blake: that was around 6:30. and that’s when
+i talked to chantel. that’s when i found out from her. because she was
+sleeping. but i woke her up. and i said like, i wanted to hear her point of
+view. because i had angie’s. so i wanted to hear what was going on from her.
+and then he came upstairs around, i wanna say eight o’clock, nine o’clock. and
+he, um, he asked me if i knew what happened and i was like, yeah. i was like,
+what do you want me to say? like, you’re a fucking idiot. like, if they
+question me, like i’m gonna tell them the truth, type thing. and um, he, uh, he
+had a couple friends come over. um, i don’t know them, but it was just, it was
+just people. um, i’m assuming he was trying to cover it up, trying to get
+things situated. but i didn’t have any involvement in that. i didn’t leave my
+room, didn’t really hear anything. i heard he told, he told someone about what
+happened. i didn’t see the person, cause it’s hard to explain, cause you didn’t
+go inside, but it's like when you come outta my room, you look in the kitchen
+at the back door, there’s like a pillar. like the doorway. so i couldn’t see
+him, but i could see my dad explaining it and i could hear …
+officer: what was he saying?
+blake: just saying that he shot him, like
+he shot him in the face.
+officer: he was telling the person that he
+shot him in the face.
+blake: yeah. i don’t know who the person
+was, but he was telling someone. it was one of his friends.
+officer: was he like detailing what it,
+what it, what had happened?
+blake: he said that he shot him in the cheek,
+went through and up through his ear. i don’t, he seemed kind of proud about it,
+but that’s why i’m being completely truthful. i, it doesn’t [indiscernible] …
+officer: i can’t tell you how, how much we
+appreciate, uh, you telling the truth. um, because it just makes it easier for
+everybody. easier on you, easier on us. even ultimately easier on your dad in
+the sense that you, you know, you’re not getting into these lies, trying to
+spin stories or anything like that. i mean, it’s, it’s, it’s one of those
+things where the truth is always gonna be the best, the best route, right?
+blake: he’s my dad. like, i get the whole
+protecting, but there’s nothing to protect. like, this was just a very stupid
+decision he made. and i knew that eventually he was gonna end up in jail or
+dead. so i just, i’d rather him be in jail right, can at least still see him.
+but, it is what it is.
+
+at trial, blake recanted his recounting of the
+confession. when asked what the accused had said, blake testified:
+i heard his tone of voice. i could hear
+mumbling and like i could hear his voice, but i couldn’t make out exactly what
+he was saying. i picked up some words through the glass window in our kitchen.
+when asked what words he heard, blake
+testified:
+nothing specific, like, “the” and “at”.
+blake later added:
+… i heard his voice, but i didn’t pick up
+any words. i was going based off what i had heard from other people that day,
+and based on his hand gestures, not his hand gestures, his motions. i didn’t
+hear specific words. i misspoke in this statement.
+
+blake testified that he was highly emotional when
+speaking with the police. he was also angry at the accused for leading a
+drug-filled lifestyle that caused chaos and disruption to the household. he
+agreed with defence counsel’s initial suggestion that he recounted the
+information that he had received from third parties, and not what he had heard
+from the accused.
+
+the crown put to blake that his recounting to
+the police of the accused’s confession was unequivocal—he did not say that he
+assumed or inferred that the accused was confessing.
+
+blake responded:
+the statement i made there [to the police]
+and the statement i gave you [in court] was a clarified version of what i
+meant, and i understand that i didn’t say “i think” or “i assume”, but that is
+what i meant by “i misspoke” in that statement. that day was a very rough day
+and if i forgot to say, “i think”, i apologize. but that’s what i meant by
+today when i told you i misspoke, and that’s what i actually meant.
+…
+i could hear [the accused’s] voice, but not
+his words, which is what i said earlier, which is what i should have told the
+detective, but it was a pretty busy day.
+analysis
+
+i rely on blake’s statement wherein he detailed the
+accused’s purported confession. i will explain why i prefer the content of this
+statement over the in-court recantation. this conclusion requires me to accept
+parts of blake’s evidence and reject others, which i am entitled to do:
+r.
+v. s.h.,
+2011 onca 215
+at para.
+8.
+substitutes for the oath or affirmation
+
+blake testified under solemn affirmation whereas
+his statement to police was unsworn. i nevertheless decline to view his statement
+as inherently less trustworthy. there was no real challenge to blake’s
+testimony that he was truthful with the police when giving his statement, he
+understood the consequences of lying, he knew that his statement would have
+consequences for the accused, he knew that his statement was being recorded,
+and he knew that his statement would be used as evidence in the police investigation.
+concerns with blake’s credibility at trial
+
+i have concerns with blake’s testimonial credibility.
+i find that he did not give frank evidence and dealt in half-truths.
+
+blake’s efforts to distance himself from his
+statement undermined his credibility. blake initially testified that he only heard
+the accused say “the” and “at” when talking to the visitors. when refreshed on
+his statement, blake went further and testified that he did not hear
+any
+specific words. often, little will turn on a witness changing their evidence
+after refreshing their memory. but the change in this case undermines blake’s
+credibility. since the relevant portion of the statement was admitted for its
+truth, i know what blake reviewed to refresh his memory. it does not make sense
+that blake testified to hearing two specific words, reviewed a statement where
+he recounted a confession, and then changed his evidence to be that he did not
+hear any specific words at all. i find that blake was trying to distance
+himself from his statement.
+
+another instance of blake trying to distance
+himself from the statement involves his opportunity to hear the accused. blake
+initially testified that he heard the accused speaking through a glass window. i
+understood this to mean that there was no other opening between blake and the
+accused. but under cross-examination, blake was shown images from inside the
+home. the images reveal that there is a doorway right next to the window.
+
+i find it strange that blake
+volunteered hearing the accused through the window but did not mention the
+doorway until shown the images.
+
+the doorway must have provided an opportunity for blake to hear the accused
+since he also testified that the door was partially open. i find that blake’s initial
+focus on hearing the accused through a closed window was an attempt to limit
+his opportunity to hear the confession.
+
+defence counsel argued that blake’s testimony about
+the position of the door enhanced his credibility. if blake wanted to fully
+distance himself from the confession, then he could have testified that the
+door was completely shut. this argument only goes so far. it is not as though
+blake testified unequivocally that the door was open. he gave shifting evidence
+on the issue. when it was initially suggested to him that the door was closed,
+blake testified that he did not recall and did not think that the door was
+closed. when later asked whether the door was open or closed, he responded
+“closed i believe? maybe closed a third of the way”. he then testified that the
+door was “not fully closed but shut”. in re-examination, blake resisted the
+suggestion that items in front of the door were propping it wide open, despite this
+being the setup the day after the confession.
+
+there are other examples of blake modifying his
+testimony in a manner that undermines his testimonial credibility. he initially
+testified that the police, when executing the search warrant, invited everyone
+to leave the house. but he later agreed that the police “dragged” him out, and
+that both he and his grandmother were “pulled” out. in re-examination, blake acknowledged
+that neither he nor his grandmother were dragged or pulled out of the house.
+his explanation for agreeing with defence counsel’s suggestions did not
+rehabilitate his credibility. for example, when asked why he went along with the
+word “pulled”, blake shrugged his shoulders.
+
+finally, i find that blake was motivated to tell
+the truth to the police and motivated to recant that truth at trial. blake
+admitted at trial that he loved the accused and did not want him to go to jail
+for a long period of time. these are perfectly normal feelings for a son to
+have for his father. but it nonetheless gave blake a motive to recant the
+confession. by contrast, i find that blake’s emotional state at the time of the
+statement, including his anger, motivated him to tell the truth. he told the
+truth in view of what he considered to be his father’s best interests at the
+time. as blake told the police, “… this was just a very stupid decision he
+made. and i knew that eventually he was gonna end up in jail or dead. so i
+just, i’d rather him be in jail right, can at least still see him”. it makes
+sense that, come trial two years later, blake no longer thought that jail was
+the best place for his father: see
+r. v. laboucan,
+2010 scc 12
+at para.
+11.
+precise language
+and limited tainting concern
+
+another reason that i give full weight to
+blake’s statement rests on the precision of his language in the statement.
+relatedly, i am not concerned that his account was simply a regurgitation of
+what he had heard from third parties or otherwise tainted by earlier
+conversations. it is convenient to address these points together.
+
+first, blake was unequivocal in his statement
+that he heard the accused confess to the shooting. even if the police
+did not instruct blake to confine himself to things that he personally saw and
+heard, the statement shows that blake chose his words carefully. he told the
+police when he was sharing an assumption (“
+i’m assuming
+he was
+trying to cover it up”). he shared that he received the perspectives of angie
+and chantel. he indicated unknowns (like who the accused was speaking to). and
+when it came to recounting the confession, he squarely put the words in the
+accused’s mouth: “
+i could see my dad explaining it
+and i could hear
+… just saying that he shot him, like he shot him in the face. …
+he said
+that he shot him
+in the cheek, went through and up through his ear”.
+when sharing this last portion with the police, blake used his hand to
+demonstrate the path of the bullet.
+
+
+second, blake testified that he “misspoke” in his statement because
+he did not actually hear the accused utter specific words. if blake falsely put
+a complete confession in the accused’s mouth, then he did not misspeak. he
+outright fabricated his account. blake’s effort to thread the
+needle—maintaining he was truthful with the police and only misspoke—did not
+succeed. i note that blake only proffered chantel as the source of the details
+in his statement when pressed on the stark contrast between that statement and
+his testimony. examined holistically, i reject blake’s explanation that he
+misspoke.
+
+he did not fabricate his account to the police.
+
+third, the evidence at trial limited the
+tainting concern. in his statement, blake gave details about what he heard the
+accused say, including the path of the bullet. at trial, blake confirmed that
+he did not receive detailed accounts of the shooting from angie or chantel. on
+the final day of his testimony, blake explained that angie did not really
+describe the alleged incident but was angrily complaining about the accused’s
+behaviour. as for chantel, blake explained that she gave an angry rant and shared
+her grievances in a stream of consciousness. she did not give a step-by-step
+account of what had supposedly occurred.
+
+information that the accused had “acted badly” is different from receiving a
+specific account that blake then parroted to the police. while i cannot discount
+the tainting possibility altogether, examined in context, it does not prevent
+me from relying on blake’s statement.
+ability to hear
+the accused
+
+i am satisfied that blake could hear the
+accused. the photographs show that blake was not far away when he heard the
+accused speaking. an open doorway allowed sound to pass through. i accept blake’s
+testimony that the door was not
+closed enough to block sound from the
+outside.
+opportunity to
+hear the accused
+
+defence counsel cautioned me from putting weight
+on blake’s statement because it only captured a snippet of the accused’s
+conversation. clearly some context is missing. blake was not a party to the
+conversation. his statement does not outline what questions, if any, led the
+accused to recount the shooting.
+
+i nonetheless have sufficient context to rely on
+blake’s recounting of the conversation. blake could both see and hear the
+accused speaking. he was not far away. he knew that the accused was speaking to
+someone else. implicit in blake’s recounting is that the accused spoke loud
+enough to be heard. and the core portion was not presented as a partial
+thought: see
+r. v. buttazzoni,
+2019 onca 645
+at para.
+56. when the officer
+asked if the accused had
+detailed
+the event, blake attributed specific
+details to the accused: “he said that he shot him in the cheek, went through
+and up through his ear. … he seemed kind of proud about it”.
+
+corroborative evidence makes it more likely that
+the accused was talking about the shooting of mr. richardson. it also gives me comfort
+that blake both accurately heard the accused and accurately recounted what he
+heard to the police. blake recounted the accused giving details about the path of
+the bullet—in through the cheek and out through the ear. the photographs of mr. richardson
+show him with an obvious wound to his cheek and another behind his ear. i find
+that this second wound is close enough to the ear to match the accused’s utterance.
+
+to understand the force of this corroboration,
+it helps to consider a contrary scenario. if blake had attributed to the
+accused details that were fundamentally different from mr. richardson’s
+shooting, it would suggest at least two possibilities: either the accused was
+talking about a different shooting altogether, or blake misheard the accused.
+but since the utterance matches the injuries, it makes it more likely that
+blake accurately heard the accused talking about mr. richardson’s shooting—even
+if his recounting of the conversation was not presented as a direct quote.
+
+finally, i reject as implausible blake’s
+testimony that he was only in position to hear the accused for a total of three
+seconds. i find that blake saw and heard the accused discussing the shooting. his
+testimony that he only listened for three seconds was another attempt to
+distance himself from his statement.
+blake’s demeanor
+when giving the statement
+
+i must be cautious when relying on blake’s
+demeanour during the statement. i do not know how blake ordinarily presents
+when he is calm versus when he is rattled. but i am entitled to put some weight
+on his demeanour. it is one reason that a
+k.g.b.
+statement must ordinarily
+be videotaped. from the admissible portion of the statement, i see a mature
+young man who presented his account authentically and dispassionately.
+conclusion
+
+i find as fact that the accused told the visitor
+that he shot someone in the face. the conversation occurred during the evening
+after the alleged shooting. the accused said that he shot the person in the
+cheek and that the bullet went through and up through his ear. the accused
+seemed proud of the shooting.
+proof beyond a reasonable doubt?
+
+the next question is whether the crown has
+proven its case beyond a reasonable doubt. specifically, has the crown proven
+that the accused possessed a firearm and intentionally shot mr. richardson? inferences
+inconsistent with guilt do not need to arise from proven facts, as this would
+put an obligation on an accused to prove facts. the specific possibilities inconsistent
+with guilt that i must consider are that mr. richardson shot himself; someone
+other than the accused shot mr. richardson; or the accused shot mr. richardson by
+accident. counsel also advanced the possibility that mr. richardson was not even
+shot.
+
+i find that none of the alternative
+possibilities are reasonably possible. i am satisfied beyond a reasonable doubt
+that, on may 12, 2023, the accused intentionally shot mr. richardson in the
+face inside the trailer parked on his property. this inference is the only
+reasonable one after considering the evidence as a whole. while defence counsel
+posited alternatives to individual pieces of evidence, i find that these
+alternatives do not survive consideration of the entire record: see
+r. v.
+j.m.h.,
+2011 scc 45
+at para.
+31.
+
+mr. richardson technically gave exculpatory
+testimony. despite disavowing any knowledge of the accused, he also claimed that
+the accused was innocent. i put no weight on mr. richardson’s testimony. i
+reject his testimony in its entirety. it lacked any credibility. the
+exculpatory aspects of his testimony do not raise a doubt. defence counsel did
+not argue otherwise.
+mr. richardson was shot inside the trailer
+
+i
+am satisfied that mr. richardson was shot on may 12 inside the trailer. i find
+that he was shot using the gun that the police found in the accused’s basement
+the next day.
+
+there
+is evidence of mr. richardson’s injuries on may 13 and 14. mr. richardson’s
+medical records from his hospital visit on may 13 were admitted on consent for
+the truth of their contents. mr. richardson suffered a penetrating injury
+through his left cheek and posterior neck. the penetrating injury tract was near
+branches of his left external jugular vein and internal jugular vein. photographs
+from may 14 depict two obvious wounds to the left side of mr. richardson’s
+face. the first is a hole on his cheek; the second is a hole on his neck behind
+the ear.
+
+mr.
+richardson was present on the accused’s property on the afternoon of may 12. a
+cab driver picked up mr. richardson from the property. he observed that mr. richardson
+was covering the left side of his face with what appeared to be a white cloth.
+meanwhile, blake testified that he arrived home in the afternoon. he saw the
+accused, mr. richardson, chantel, and his grandmother sue ann. he described
+them as “panicked” and “frantic”. blake also saw mr. richardson holding his
+cheek with a white scarf wrapped around his head.
+
+the
+police executed a search warrant inside the trailer on may 13. the police saw a
+bullet hole in the wall. they cut holes in the wall without piercing the
+trailer’s external shell. they located a “full metal jacket” projectile.
+
+from
+my own review of the photographs, the bullet hole was around the height of the
+wounds to mr. richardson’s face. my assessment is inexact and worth little
+weight. the best i can say is that the bullet hole is consistent with mr.
+richardson being shot in the face, as compared to if the hole was near the
+ceiling or the floor.
+
+the
+police also searched inside the accused’s home. when searching the basement,
+they located a bag hidden on ductwork near the ceiling. they found a.357
+magnum revolver inside the bag. the projectile behind the trailer wall could
+have fired from the gun (i.e., the projectile was compatible with the gun). the
+police also found a spent casing loose in the bag with the gun. this casing
+could have housed the projectile behind the trailer wall (it was also compatible).
+
+the
+cfs swabbed flaked staining on the left side of the gun. the swab detected
+blood and dna from at least two people, including at least one male. the blood
+stain provided one dna profile suitable for comparison, labelled as “str
+profile 1”. mr. richardson could not be excluded as the source of this profile.
+the str dna results are estimated to be greater than one trillion times more
+likely if str profile 1 originated from mr. richardson than if it originated
+from an unknown person unrelated to mr. richardson.
+
+the
+cfs also found blood on a paper manual that was somewhere in the trailer. the
+swab of the staining contained dna from two people, including at least one
+male. the str dna results are estimated to be greater than one trillion times
+more likely if mr. richardson contributed to the mixture, and 660,000 times
+more likely if the accused was the other contributor. the expert testified that
+it was more likely that the blood originated from mr. richardson because he
+contributed more dna to the mixture.
+
+i draw the inference that the gun was used in the shooting. it was
+compatible with the projectile found in the trailer and found in a bag with a
+casing that was also compatible with the projectile. furthermore, mr.
+richardson’s blood was on the gun. it is implausible that mr. richardson
+suffered a penetrating wound at an unknown location, continued bleeding when he
+attended a trailer in which a shooting had previously occurred, the gun was
+produced for some unknown reason, and mr. richardson then bled on the gun.
+rather, mr. richardson’s blood is on the gun because he was shot by the
+gun.
+
+i
+respectfully reject defence counsel’s argument of there being insufficient blood
+in the trailer to conclude that mr. richardson was shot there. i do not know
+how much blood should be expected from a through-and-through wound that did not
+hit the jugular. furthermore, sue ann testified that mr. richardson already had
+a cloth with him when he arrived that day, which the cab driver later saw
+wrapped around mr. richardson’s face. the driver did not testify to copious
+bleeding inside his vehicle. from the evidence before me, it would seem as
+though mr. richardson was able to contain much of the bleeding. in any event, the
+absence of abundant blood is a minor issue when considering that mr. richardson’s
+blood was indeed found in the trailer along with a projectile that had gone
+through the wall.
+the accused intentionally shot mr. richardson
+in the face
+
+i am also satisfied beyond a reasonable doubt
+that the accused was the shooter.
+
+the accused had the opportunity to commit the
+shooting. the evidence puts him on the property around the time when mr.
+richardson was shot. the evidence also discloses a limited number of people on
+the property that morning or afternoon.
+
+the accused’s bedroom was in the same basement
+where the police found the gun used in the shooting.
+
+the accused’s dna was on the gun. two dna
+profiles suitable for comparison were located on the gun. a swab of the
+textured areas (i.e., the grip, hammer, and button) detected the dna from one
+male, labelled as “str profile 2”. the accused could not be excluded as the
+source of this profile. the str dna results are estimated to be greater than
+one trillion times more likely if str profile 2 originated from the accused
+than if it originated from an unknown person unrelated to the accused. the cfs
+expert used plain language in his testimony: “it’s essentially inconceivable to
+me that this dna profile, str profile 2, would originate from anyone other than
+[the accused], including family members … this is an unambiguous dna profile
+with information at all of the available testing locations”.
+
+the crown adds that the cfs only found the dna
+of the accused and mr. richardson on the gun. if someone else had shot mr.
+richardson, then they did so without leaving their dna. i accept defence
+counsel’s warning to be cautious with this submission. the crown did not ask
+the expert about the likelihood of someone firing the gun without leaving their
+dna. at its highest, there is simply an absence of anyone else’s dna on the
+gun.
+
+finally, the accused said that he fired a gun
+and shot someone in the face. i find that the accused must have been referring
+to shooting mr. richardson. i draw this inference given that he made the statement
+on the same day that a shooting occurred inside his trailer. furthermore, his
+description of the shooting—in the face, in the cheek—matches the injuries
+suffered by mr. richardson. the accused knew these details because he was present.
+based on my assessment of the entire evidentiary record, i find that the
+accused was confessing to the shooting.
+
+the defence argued that the accused might have confessed
+to the shooting without being responsible for it. mr. richardson was unpopular,
+and for whatever reason, the accused might have wanted to take credit for his
+injury. this argument calls for speculation. i do not give effect to it.
+
+finally, i am satisfied beyond a reasonable
+doubt that the shooting was intentional. blake described how the accused
+“seemed kind of proud” about the shooting. blake’s opinion that the accused was
+proud is a “compendious statement of facts that are too subtle and too
+complicated to be narrated separately and distinctly”:
+r. v. walker,
+2025 onca 19
+at para.
+18, citing
+r. v. graat,
+1982 canlii 33 (scc), 2 s.c.r. 819 at
+841.
+
+i find that the accused was
+proud of what happened because he knew what he was doing and accomplished his
+intended result of shooting mr. richardson. the manner of the confession, including
+the accused’s emotional state, leaves the only reasonable inference that the
+shooting was intentional.
+
+on the evidence before me, a theory that the accused
+shot mr. richardson by accident is speculative. the crown is not required to
+negative fanciful conjecture:
+villaroman
+at para.
+37; see also
+r. v.
+epp,
+2022 onca 613
+at para.
+3.
+absence of evidence
+
+defence counsel emphasized the absence of
+evidence in this case. the accused bore no burden to establish any facts, much
+less prove his innocence. the absence of evidence included the limited forensic
+analysis, such as the absence of a gunshot residue analysis. furthermore, the cfs
+analyst could not opine on when the dna was deposited.
+
+the absence of evidence does not give me any
+doubt about the accused’s guilt. the question is not whether the crown failed
+to call evidence that it might have called in a different case. the question is
+whether guilt is the only reasonable conclusion after considering the full
+trial record and the absence of evidence. in this case, any questions that
+might have remained after considering the circumstantial evidence were answered
+by adding the accused’s confession to the equation.
+findings of guilt
+
+having concluded beyond a reasonable doubt that
+the accused intentionally shot mr. richardson in the face, the question becomes
+what verdict to render on each count. the answer seemed straightforward. at
+first blush, i agreed with the concession made during submissions that findings
+of guilt would flow on all charges. but upon closer review, i questioned
+whether guilty verdicts were appropriate on some counts. i reconvened the
+parties to make submissions with respect to counts 1 and 4.
+counts 2-3, 5-9
+
+i enter guilty verdicts on the following counts:
+•
+count 2: point firearm. there is no issue that
+the gun was a “firearm”. the accused necessarily pointed the firearm at mr.
+richardson as part of an intentional shooting.
+•
+count 3: discharge firearm with intent to
+endanger life. this count does not require proof that mr. richardson’s life was
+actually
+in danger. having found that the accused intentionally shot mr.
+richardson
+in the face, i draw the common sense inference that the
+accused
+intended
+to endanger his life: see
+r. v. walle,
+2012 scc
+41
+at para.
+67. the intent to endanger someone’s life is not the same as trying
+to kill them:
+r. v. owens,
+1969 canlii 964 (bc ca), 2 c.c.c. 38 at 47;
+regina v.
+boomhower
+(1974),
+1974 canlii 2650 (on ca), 27 c.r. (ns) 188 at 191. endangering life means to
+put a person’s life in danger or peril:
+r. v. mackinnon,
+2021 onsc 4763
+at para.
+770. it is hard to conceive of how a person could intentionally shoot
+someone in the face without intending to put their life in peril. more
+importantly, no other explanation is available or reasonably possible in this
+case. the charge is proven beyond a reasonable doubt.
+•
+count 5: possession of a firearm while
+prohibited. the defence admitted that the accused was prohibited from
+possessing firearms. it necessarily follows from the shooting that the accused
+possessed the firearm.
+•
+count 6: careless use of a firearm. the
+intentional shooting establishes the accused’s careless use of a firearm.
+•
+count 7: possession of a loaded prohibited or
+restricted firearm. the firearm was a “restricted” firearm and obviously
+loaded.
+•
+count 8: possession of a firearm without
+registration. the accused was not registered to possess a firearm.
+•
+count 9: possession of a firearm knowing its
+possession is unauthorized. given that the accused was prohibited from
+possessing firearms, he knew that the possession was unauthorized.
+count 1: aggravated assault
+
+i enter a not guilty verdict on the count of
+aggravated assault. the charge is particularized to read that the accused “did
+endanger the life” of mr. richardson. there is a difference between whether the
+accused intended to endanger mr. richardson’s life (count 3) and whether his
+life was, in fact, in danger:
+r. v. de freitas,
+1999 canlii 14071
+(man.
+c.a.) at paras.
+15-16;
+r. v. guppy,
+2020 oncj 413
+at para.
+25; see also
+r. v.
+tebbs,
+2022 onsc 4325
+at para.
+20. i am not satisfied beyond a reasonable
+doubt that mr. richardson could have died. this conclusion might seem shocking
+given that mr. richardson was shot through his face and the injury tract came
+close to his jugular veins.
+
+but i must consider the complete record. witnesses saw mr. richardson walking
+around after the shooting and getting picked up by a cab. the cab did not take
+mr. richardson to a hospital or medical clinic. mr. richardson did not seek
+medical attention until the day after the shooting—and after some convincing by
+the police. there is no expert opinion evidence on whether his life was in
+danger.
+
+on the contrary, mr. richardson attended the hospital with stable vitals and no
+active bleeding. he was seen eating and drinking as normal. personnel explained
+to mr. richardson the risks of leaving the hospital. those risks did not
+include the risk of death. alternative routes to proving an aggravated assault
+were available, but the crown did not seek to amend the charge.
+
+the next issue was whether i should find the
+accused guilty of a lesser included offence to aggravated assault. i initially thought
+the accused would be guilty of assault causing bodily harm. but i then raised the
+decision of
+r. v. tenthorey,
+2021 onca 324. as paciocco j.a. held at
+para. 56: “since the fourth mode of committing aggravated assault (endangering
+the life of another) can be committed without also committing an assault
+causing bodily harm, assault causing bodily harm is not ‘necessarily committed
+in the commission of the principal [or charged] offence’”. i cannot find the
+accused guilty of assault causing bodily harm.
+
+after hearing from counsel, however, i am satisfied
+that it is proper to find the accused guilty of attempting to commit an aggravated
+assault: s. 660; see also
+r. v. g.r.,
+2005 scc 45
+at paras.
+29-31. since
+i found the accused guilty of discharging a firearm with the
+intent
+to
+endanger mr. richardson’s life, it necessarily follows that the accused
+attempted
+to endanger mr. richardson’s life by committing an aggravated assault.
+
+count 4: use
+firearm while committing an aggravated assault
+
+the count of using a firearm while committing an
+aggravated assault does not particularize the route to committing the
+aggravated assault (i.e., by wounding, maiming, disfiguring, or endangering
+life). while the evidence fell short of proving that mr. richardson’s life was in
+fact endangered, he was clearly wounded: see
+r. v. pootlass,
+2019 bcca
+96
+at para.
+3;
+mackinnon
+at para.
+770. and there is no doubt that the
+accused intentionally used the firearm to wound mr. richardson. i am satisfied
+that the accused committed an unparticularized aggravated assault.
+
+however, i asked counsel about the application
+of the supreme court’s decision in
+r. v. pringle,
+1989 canlii 65 (scc), 1 s.c.r. 1645
+at 1652-1656. that decision makes clear that it is
+not
+sufficient for me
+to find
+as fact
+that the accused used a firearm to commit an unparticularized
+aggravated assault. rather, to enter a guilty verdict on this charge, it is
+mandatory that the accused be found guilty of the underlying indictable offence.
+
+after hearing from counsel, i accept their
+position that it is nonetheless proper to find the accused guilty of this
+charge. while the accused was found not guilty of aggravated assault, he was found
+guilty of attempted aggravated assault. attempted aggravated assault is
+necessarily included in the particularized indictable offence of aggravated
+assault. the accused had fair notice that a guilty verdict could follow on
+count 4 if he were found guilty of aggravated assault
+or
+one of its
+included offences. the count reads that the accused committed an offence
+contrary to s. 85(1). that section explicitly states, in subsection (b), that a
+person commits an offence who uses a firearm while attempting to commit an
+indictable offence.
+
+finally, i reject the crown’s argument that i
+should find the accused guilty of an unparticularized aggravated assault by
+virtue of that offence being specified in count 4. to give one reason, it was
+not made clear to the accused that count 4 put him in jeopardy of being found
+guilty of two offences:
+pringle
+at 1654-1655.
+conclusion
+
+the accused is found not guilty on count 1 as
+charged but found guilty of attempted aggravated assault. the accused is found
+guilty as charged on counts 2 through 9.
+released: march
+28, 2025
+signed: justice davin m.k. garg
+
+i use blake dimillo’s first name to distinguish him from others in his family.
+
+r. v. dimillo,
+2025 oncj 142. counsel confirmed that this excerpt
+correctly sets out the admissible portion of the statement.
+
+i permitted cross-examination under s. 9(2) of the
+canada evidence act.
+
+see exhibit 10-3.
+
+blake volunteered the information about the window and said nothing about the
+open door. the crown asked: “what did you hear your father say to [the
+visitors]?” blake responded: “... i picked up some words through the glass
+window in our kitchen.”
+
+see around 00:16:25 on the scroll bar of the video statement.
+
+i reject this explanation from blake: “no, yes, it is misspeaking. what i said
+there [in the statement] is not fully completely what i meant, and i didn’t
+elaborate because i just, i’ll be honest, i didn’t really care to, and he didn’t
+ask him more questions about it”.
+
+this evidence conflicted with blake’s testimony on a prior day, where he agreed
+that talking to angie and chantel afforded him a fairly detailed picture of the
+alleged events. regardless, for the reasons provided above at paragraph 19, i
+find that blake would have told the police if he was only repeating the
+accounts of angie or chantel as opposed to recounting what he had heard
+directly from the accused.
+
+defence counsel took no issue with the admissibility of
+blake’s opinion when i broached the issue during
+submissions.
+
+see exhibit 9, pp. 35-36.
+
+i do not know how to decipher many of the ct findings on page 35 of the medical
+records (e.g., “likely injury to a distal branch of the left transverse facial
+artery, which is irregular, but without active extraversion”; “there is a large
+intramuscular hematoma of the left masseter and sternocleidomastoid muscle”;
+“…however note convincing intraluminal thrombus is identified”).
+
+there is no need to address the crown’s alternative submission
+that the accused could be found guilty of simple assault.

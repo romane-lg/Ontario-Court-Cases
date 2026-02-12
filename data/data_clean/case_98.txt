@@ -1,0 +1,1477 @@
+source url: https://www.canlii.org/en/on/oncj/doc/2025/2025oncj553/2025oncj553.html
+
+ontario court of justice
+citation:
+r. v. ngong, 2025 oncj 553
+date: 
+2025 10 23
+court
+file no.: hamilton 998-23-47101391; 998-23-47103324
+between:
+his
+majesty the king
+(respondent)
+— and
+—
+lual ngong
+(applicant)
+charter
+ruling on garofoli review
+before
+justice davin m.k. garg
+heard
+may 1 and july 3, 17 and 24, 2025
+reasons
+released october 23, 2025
+tessa moran......... agent for the
+respondent, public prosecution service of canada
+kendra stanyon.................................................... counsel
+for the applicant, lual ngong
+garg j.:
+overview
+
+the applicant is charged with drug and firearm
+offences following police searches of a residence and motor vehicle. the
+searches yielded fentanyl, cocaine, a handgun, ammunition, and cash. the
+applicant challenges whether the warrants could have issued and seeks to
+exclude the resulting evidence.
+
+a search warrant represents a careful balancing
+act. the warrant only issues when the state’s interest in investigating crime
+outweighs the individual’s privacy interests. the affiant presents the police case
+through an “information to obtain” (ito), which must disclose credible
+information establishing reasonable grounds to believe that the searches will
+afford evidence with respect to the commission of an offence at the places to
+be searched.
+
+i am satisfied that the ito met this threshold.
+it was not flawless. notably, the inclusion of the applicant’s occurrence
+reports—internal police records of prior interactions—without clarifying
+whether charges were laid or how they resolved, risked painting an incomplete
+picture. other issues, such as the affiant’s decision to include certain
+details and omit others, required correction on review. but viewed holistically,
+the corrected ito gave a basis to search the residence and motor vehicle at the
+time when the warrants were sought. i find no intent to mislead the issuing
+justice and no negligence in the ito’s preparation.
+
+the ito was sufficiently reliable. the warrants
+could have issued. the applicant’s
+charter
+rights were not breached. the
+evidence from the searches is admissible at trial.
+facts
+
+i will start by summarizing the relevant context.
+investigative and
+procedural history
+
+the police began investigating the applicant and
+a person believed to be his girlfriend, ms. lauren thompson. the police
+received information from a confidential informant who claimed that the
+applicant was a drug trafficker. the police then conducted surveillance of the applicant
+and ms. thompson. on various days in december 2022, the police saw the
+applicant or ms. thompson using a white mercedes and attending at or near a
+residence located at 72-6 chestnut drive in grimsby, ontario (“the residence”).
+
+the police sought and obtained tracking warrants
+for the mercedes as well as a black jeep. the devices were installed in january
+and february 2023, respectively. the applicant no longer challenges the authorizations
+for the tracking devices.
+
+the police conducted further surveillance on two
+days in february 2023. they then sought search warrants for the residence as
+well as the two motor vehicles. the warrants were granted on march 1, 2023, and
+executed on march 3, 2023. the police located evidence in the residence and the
+mercedes that resulted in the charges before the court. no evidence was found
+in the jeep.
+
+the warrants for the residence and the mercedes were
+issued off the same ito. the applicant contends that once the ito is corrected
+through the
+garofoli
+review process, the warrants could no longer have
+issued.
+the ito
+
+the relevant ito was filed as exhibit 7. i have
+only considered the redacted ito. i have not relied on the unredacted version or
+the summary of the redactions.
+
+detective constable ryan tweedle of the hamilton
+police service was the affiant of the ito. he deposed that he had reasonable
+grounds to believe that the applicant and ms. thompson possessed fentanyl and cocaine
+for the purpose of trafficking. he concluded that the items to be searched for—fentanyl,
+cocaine, scales, currency, debt lists, drug packaging, cell phones, and tenancy
+or identification documents—would afford evidence of the offences and were
+present in the residence and vehicles.
+
+the affiant principally relied on the following bodies
+of information in forming his grounds:
+(1)
+information from a confidential informant who
+advised that the applicant possessed fentanyl and “deals a lot of drugs”. the
+informant also referred to the applicant’s girlfriend driving a white mercedes
+and holding a “large amount of drugs” for the applicant and trafficking them.
+(2)
+information linking the applicant to his “girlfriend”,
+ms. thompson.
+(3)
+information linking the applicant and ms.
+thompson to the residence and motor vehicles to be searched.
+(4)
+the applicant’s criminal history.
+(5)
+surveillance observations of the applicant and
+ms. thompson engaging in driving patterns interpreted by the police as
+counter-surveillance efforts.
+(6)
+surveillance observations of the applicant and
+ms. thompson engaging in what the police interpreted as multiple drug
+transactions.
+legal principles
+
+the affiant’s legal obligation when seeking an
+ex
+parte
+authorization is the full, fair, and frank disclosure of material information:
+r. v. araujo,
+2000 scc 65
+at para.
+46. in the context of a search
+warrant, the affiant must include all material information that could
+undermine: (a) the probability that the offence occurred; (b) the probability
+that evidence will be found at the place of the search; and (c) the reliability
+and credibility of the information establishing grounds for the warrant:
+r.
+v. booth,
+2019 onca 970
+at para.
+56. only information that bears on the
+merits or substance of the authorization is “material”:
+r. v. nguyen,
+2011 onca 465
+at para.
+51. omissions are material if the issuing justice would
+have been concerned about granting the warrant had they known about the missing
+information:
+r. v. alizadeh,
+2014 onsc 1624
+at para.
+13.
+
+misleading or inaccurate information can be
+excised outright from the ito:
+r. v. shivrattan,
+2017 onca 23
+at para.
+26. information that should not have been included in the warrant application will
+always be excised in this way:
+booth
+at para.
+58.
+
+alternatively, material omissions or inaccuracies
+can be corrected by adding information to present an accurate picture or by
+replacing incorrect details with accurate ones:
+r. v. morelli,
+2010 scc
+8
+at paras.
+57, 60, 96. however, information cannot be added that would
+strengthen the warrant application:
+booth
+at para.
+59. i will describe
+this process as “addition” instead of “amplification” to distinguish between
+the expansive defence tool of adding information and the narrow crown tool of
+amplifying the ito: hasan, nader, et al.
+search and seizure.
+toronto: emond montgomery, 2021 at 608-609, 621-623.
+
+whether information has been excised or added, extensive
+or significant edits may demonstrate that the affiant failed in their duty to
+be full, fair, and frank. the corrected record might demonstrate that the
+affiant deliberately, or at least recklessly, misled the issuing justice,
+rendering the entire ito unreliable as a basis upon which to issue a warrant:
+shivrattan
+at para.
+27;
+r. v. debartolo,
+2018 onsc 916
+at para.
+38. however, as
+blair j.a. cautioned in
+nguyen
+at para.
+57:
+[t]he review is not an exercise in
+examining the conduct of the police with a fine-toothed comb, fastening on
+their minor errors or acts or omissions, and embellishing those flaws to the point
+where it is the police conduct that is on trial rather than the sufficiency of
+the evidence in support of the application.
+
+the scope of warrant review is narrow. i must
+decide whether the corrected record supplies information, reasonably capable of
+belief, based on which the warrants could have issued. the onus is on
+the applicant to show that the warrants could not have issued:
+r. v.
+paryniuk,
+2017 onca 87
+at para.
+43;
+r. v. sadikov,
+2014 onca 72
+at
+paras.
+83-88.
+correcting the ito
+
+the applicant proposes numerous corrections to
+the ito. i accept the respondent’s argument that i must apply a holistic lens
+to the analysis. while the affiant’s manner of framing certain information in
+the ito might appear slanted or exaggerated in isolation, disregarding the
+context of what the affiant had observed or learned during the investigation
+would distort the analysis. i acknowledge the potential for confirmation bias; namely,
+that the police might interpret information in a way that confirms their pre-existing
+suspicions of criminal activity (see e.g.,
+r. v. woo,
+2017 onsc
+7655
+at para.
+56
+). the police cannot engage in circular reasoning. believing
+someone is a drug trafficker does not make everything they do evidence of
+trafficking. however, the assessment of reasonable grounds
+also considers an officer’s experience:
+r. v. mackenzie,
+2013 scc 50
+at
+paras.
+62-63;
+r. v. wu, 2015 onca at para. 50. it would be artificial to
+disregard the affiant’s experience
+during the investigation
+when
+evaluating how the information was presented in the ito.
+
+i turn now to each proposed correction:
+
+
+paragraph 33
+–
+the affiant listed the applicant as a person of interest in a human trafficking
+probe in which ms. thompson was his surety. the associated occurrence report
+says there were no grounds to start a human trafficking investigation and does
+not disclose a connection between the applicant and ms. thompson. the paragraph
+is erroneous and ought not to have been included in the ito. it is excised.
+
+paragraph 34
+– the
+affiant fairly summarized the occurrence report outlining an incident between
+ms. thompson and the applicant’s family. the paragraph does not suggest the
+applicant being involved in the incident. it was appropriate for the affiant to
+include information that strengthened the connection between ms. thompson and
+the applicant (even if indirectly via the applicant’s family). the paragraph is
+not misleading and does not require correction.
+
+paragraph 37
+– it
+was appropriate in this paragraph for the affiant to introduce the applicant’s
+occurrence reports on police databases. the applicant does not suggest that the
+paragraph is erroneous. the paragraph does not require correction. however, i
+accept the applicant’s argument that it was misleading for the affiant to then
+include details of occurrences without indicating whether charges were laid,
+and, if so, their disposition in court. it is not sufficient to paste the cpic into
+the ito and expect the reviewing justice to conduct a manual cross-check. such
+an exercise is unwieldy. it is unclear how the reviewing justice would know
+which occurrence related to which entry—or lack thereof—on the cpic.
+
+the needed corrections will be
+addressed in the subsequent paragraphs.
+
+paragraph 38(a)
+–
+the affiant summarized a 2014 occurrence in which the applicant and others were
+apparently found in an apartment containing cocaine and a rifle. the paragraph starts
+with the heading, “trafficking cocaine”. i see no basis to quibble with how the
+affiant summarized the occurrence report. my concern is that he included the
+report without disclosing the outcome of the charges. the only reasonable
+inference from the cpic is that the applicant was not convicted of anything. the
+affiant ought to have included that information. even if the affiant was
+uncertain about the disposition, he could have said as much in the ito. as it
+stands, i find that the paragraph is misleading and must be excised. as the
+court of appeal recognized in
+r. v. adler,
+2020 onca 246
+at para.
+31, the
+legitimacy of including certain information in an ito might depend on whether
+it is placed in sufficient context.
+
+paragraph 38(b)­
+–
+the affiant summarized a 2016 occurrence in which the police found drugs and
+drug paraphernalia in a vehicle occupied by the applicant and two others. the
+paragraph again starts with the heading, “trafficking cocaine”. the applicant argues
+that the affiant omitted important details, such as the fact that the vehicle
+did not belong to the applicant and that he was seated in a passenger seat. in
+my view, the significant omission is that the affiant failed to disclose that
+the applicant was only convicted of simple possession. without that detail, the
+affiant failed to cite facts that he knew or ought to have known and thereby invited
+the issuing justice to draw unwarranted inferences: see
+r. v. morelli,
+2010 scc 8
+at para.
+58. i have already explained why pasting the cpic into the
+ito was insufficient. nevertheless, the whole paragraph does not need to be
+excised. it is sufficient to add the disposition.
+
+addition is appropriate
+because the conviction to the lesser included offence was already shown in the
+cpic and does not advance the warrant application. also, the “trafficking
+cocaine” heading is excised.
+
+paragraph 39 –
+the
+occurrence outlined in this paragraph is excised in its entirety on the consent
+of the parties because the associated charges had been stayed following the
+finding of a
+charter
+breach.
+
+paragraph 40(a)
+–
+the affiant noted the applicant’s outstanding charges for driving-related
+offences. while not particularly probative, there is no need for excision.
+
+paragraph 40(e)
+–
+this paragraph leads into the applicant’s cpic. the affiant wrote, “he has many
+convictions shown below”. the word “many” is fair and does not require
+excision. the inclusion of the cpic allowed the issuing justice to agree or
+disagree with that characterization.
+
+paragraph 50 –
+the
+time noted for when the police observed the applicant during their surveillance
+is amplified on consent. it should read 2:26 pm instead of 2:46 pm.
+
+paragraph 51(a)
+–
+the affiant noted that the counter-surveillance tactics lasted for 25 minutes.
+the duration is excised on consent. the ito erroneously presents the duration
+as a direct observation instead of an inference.
+
+paragraph 60­
+–
+the applicant was observed over two days in a black nissan sedan. the affiant
+indicated that the vehicle was a rental. the affiant added his opinion that car
+rentals are frequently used by drug dealers to try and conceal their identity. i
+find that the paragraph is not misleading. the applicant’s primary argument is
+that the affiant did not spell out other factors that could sap the probative
+value of the applicant using a rental car. however, the ito states when the
+rental car was used and what the police observed on those days. the affiant did
+not overstate the applicant’s use of a rental car. when an ito indicates what
+the police observed, there is no need to add what was not observed. furthermore,
+the stated relevance of the rental car—that potential drug traffickers use them
+to switch up their vehicles and avoid police detection—is consistent with the
+police having observed the applicant engaged in counter-surveillance tactics
+and using different vehicles. the affiant was entitled to rely on his experience
+regarding the link between drug trafficking and rental cars: see
+r. v.
+cartmer,
+2024 onca 674
+at para.
+15. no corrections are required.
+
+paragraph 65
+– the
+affiant outlined observations of ms. thompson delivering items to a house. the
+applicant argues that the affiant ought to have included additional details to
+allow the issuing justice to assess whether ms. thompson was engaged in drug
+trafficking as opposed to decluttering her car. the following information is
+added: “when exiting the residence, ms. thompson was seen moving items in the
+trunk of the mercedes and went into the residence a few times to place small
+bags or items from the back door into the trunk and was moving stuff around”.
+despite adding this information, i see no need to correct the affiant note opining
+that ms. thompson subsequently engaged in drug trafficking.
+
+paragraph 70
+– the
+affiant summarized the police observations of a driver’s route. the driver was
+believed to be the applicant. the affiant described him as “looping [an] industrial
+area”. but the route described was not a loop. the phrase is excised as
+erroneous.
+
+paragraph 73
+
+– the affiant
+continued to describe the driver’s route. there is no suggestion that his
+description was erroneous. there is no basis for excision.
+
+paragraph 81(a)
+–
+the affiant opined that the illogical route, the stops and starts, the u-turns,
+and the last-minute lane changes showed counter-surveillance driving. i decline
+to excise this opinion. the affiant fairly outlined the underlying
+observations, which allowed the issuing justice to form their own opinion. the
+inference of counter-surveillance driving is reasonable and is not at all undermined
+by the applicant driving a rental car. the police also did not need to see the
+applicant’s ultimate destination to conclude that his route along the way was
+illogical. for example, the route outlined in paragraph 73 is plainly
+illogical. the applicant was observed entering the highway only to exit at the
+next interchange and double back in the direction from which he had come.
+
+paragraph 86(a)
+–
+the affiant outlined observations of ms. thompson. the applicant challenges the
+affiant note that the observations were typical of a drug transaction and the
+accompanying belief that one had taken place. the applicant is correct that the
+police did not observe details that would strengthen the inference of drug
+trafficking, such as the other person attending at ms. thompson’s window or reaching
+into the vehicle. but the affiant fairly summarized what the police did
+observe. his note is explicit that the police did not observe a hand-to-hand
+transaction. there is no basis for excision.
+
+paragraph 100
+– the
+affiant outlined observations in a parking lot and included a detail that a
+person walked up to the mercedes and briefly interacted with the applicant on
+the passenger side of the vehicle. the applicant challenges this detail as
+erroneous because it does not appear in the central scribe notes. however, the
+affiant gave a potential explanation for the discrepancy under
+cross-examination. he explained that the central notes were not his sole source
+for surveillance details. my assessment of the affiant’s testimonial
+credibility and reliability appears later in these reasons.
+
+at this point, i simply say
+that there is no basis to excise the detail.
+
+
+paragraph 100(a)
+– the affiant opined that the meeting in the parking lot was pre-arranged. i
+see no basis to excise the opinion. it is not unreasonable. the possibility
+that a random person approached the vehicle and interacted with the occupants
+for some benign reason does not negate the reasonable inference that the
+meeting was pre-arranged. the fact that ms. thompson parked at the wendy’s and went
+inside does not mean that the parties did not also attend for a pre-arranged
+meeting. the police are not required to negative every alternative inference on
+the ultimate issue, much less with respect to opinions they form along the way:
+see
+r. v. lao,
+2013 onca 285
+at para.
+59. however, since all material
+facts that could undermine grounds should be put before the issuing justice,
+the details with respect to ms. thompson’s conduct are added to the ito.
+
+paragraph 114
+– the
+affiant summarized tracker data on the mercedes. the affiant wrote that the
+vehicle was parked overnight at the residence “for the most part” during the
+period in question. i accept the applicant’s argument that the description is potentially
+misleading and must be excised. it is replaced with the vehicle being there for
+29 out of 49 nights. “for the most part” could suggest a higher frequency than
+what the underlying data supports.
+
+paragraph 115
+– the
+affiant stated that the mercedes did not exhibit any pattern of frequenting
+specific locations, apart from time parked at the residence and at a car
+dealership in niagara. he then asserted that this indicated there was no other
+location where drugs were being kept. that assertion is conclusory. as phrased,
+it presumes as fact the existence of drugs. it is likely that the affiant merely
+intended to convey that the absence of other locations increased the likelihood
+that drugs, if present, would be found at the residence or in the vehicles.
+while this flaw appears to stem from imprecise drafting, i nonetheless excise
+the assertion.
+
+paragraph 117
+– the
+affiant stated that the tracker data on the mercedes indicated that the driver did
+not maintain conventional employment or adhere to normal business hours.
+regardless of whether this information adds much to the affiant’s grounds,
+there is no basis for excision. the wording of the paragraph does not discount the
+possibility of remote employment.
+
+paragraph 118
+– the
+affiant outlined that the mercedes made several long-distance trips to the
+kingston area for stays of very short duration. i accept the applicant’s
+ultimate submission that the following information should be added: “there were
+also overnight and multi-day trips made to the area in the same time period”.
+
+while the paragraph is not
+misleading, i agree that more context is appropriate.
+
+paragraphs 119(a) and 120(a)
+– these affiant notes are similar. each follows details about two
+specific trips in which the vehicle traveled a considerable distance—from
+grimsby to belleville or kingston—and remained for only 23 and 67 minutes,
+respectively, before returning to grimsby. the affiant opined that the trips were
+indicative of a higher-level drug transaction. the applicant argues that the
+opinions should be excised because they are unsupported, particularly given the
+vehicle’s overnight and multi-day trips. i disagree. the existence of longer
+trips does not diminish the relevance of two trips involving six to eight hours
+of travel for a very brief stay. the affiant was entitled to include his
+opinion that such trips were indicative of drug trafficking, and he
+acknowledged the limitations of that opinion. while the trips could have been
+benign, as i noted earlier, the reasonableness of the opinion is assessed
+against all conduct associated with the mercedes that was known to the affiant when
+submitting the ito. i decline to excise the opinions.
+
+paragraphs 124 and 126
+– these paragraphs concern the jeep. they are otherwise the same as
+paragraphs 115 and 117 respectively. i therefore reach the same conclusions.
+the second sentence of paragraph 124 is excised. i make no corrections to
+paragraph 126.
+
+paragraph 127­ –
+the
+affiant described 17 short-duration stops by the jeep at a cemetery where it
+parked at the most secluded location in the back. the affiant opined that these
+frequent, brief visits were indicative of trafficking. the applicant argues
+that this paragraph should be excised as irrelevant. i disagree. the
+information is relevant because it aligns with a broader pattern of vehicles
+associated with the applicant or ms. thompson making short stops at various
+locations. whether this evidence significantly advances the affiant’s grounds
+is a separate question. however, excision is not warranted based on relevance.
+nor was it misleading for the affiant to include his opinion, given that he
+disclosed both the basis for the opinion and its frailties.
+
+paragraphs 131 and 132
+– the affiant outlined observations of ms. thompson driving to a sandman
+hotel and moxies restaurant complex. the applicant was the front passenger.
+upon arrival, the applicant ran into the restaurant and returned three minutes
+later without any food or take-away bags. as ms. thompson pulled away, the
+applicant fully reclined his seat. ms. thompson then drove to a nearby wendy’s
+drive thru and lcbo before returning to the residence. i agree with adding to
+the ito that the parties made purchases at the wendy’s and lcbo. the additions give
+context to the applicant exiting the moxies without any food.
+
+paragraph 132(a)
+–
+the affiant opined that the visit to moxies was indicative of a drug
+transaction because of its short duration followed by the applicant exiting
+without any food and reclining his seat in the vehicle. unlike other affiant
+notes that i declined to excise, this opinion is not reasonably supported by
+the underlying facts. i accept that the affiant made unwarranted logical leaps
+in forming his opinion. the opinion is therefore misleading and must be
+excised. the underlying observations remain.
+
+paragraph 134
+– the
+affiant indicated that tracker assisted surveillance allowed the police to
+locate the jeep in the chatham kent area. no corrections are needed because the
+addition suggested by the applicant is not material.
+
+paragraphs 137 to 139­
+– these paragraphs concern observations of the applicant attending a
+residence in the chatham-kent area with an unknown male. the affiant detailed
+what he learned from local police: an individual named derek holdaway was
+subject to conditions requiring him to reside at that address. the affiant
+summarized mr. holdaway’s outstanding charges and prior convictions and noted
+that he had been the target of search warrants and was associated with drug
+trafficking and firearms possession. one might question the affiant’s choice to
+describe mr. holdaway as a “well-known criminal”. but the risk of misleading
+the issuing justice was attenuated because the description was immediately
+followed by mr. holdaway’s outstanding charges and convictions. i see no basis
+for excision. the applicant does not allege that the affiant inaccurately
+conveyed this information. counsel argued that the police never observed the
+applicant directly associating with mr. holdaway. however, the ito does not
+assert any such association or that mr. holdaway was present during the
+applicant’s visit. it simply records that the applicant entered a residence
+where mr. holdaway was required to live.
+
+paragraph 139(a)(i)
+– the affiant note is excised in its entirety on the consent of the
+parties.
+
+paragraphs 140 and 140(a)
+– in these paragraphs, the affiant summarized police observations
+of the applicant interacting with the driver of a dodge pickup truck. the
+applicant seeks excision of the affiant’s description of a “brief interaction”
+in paragraph 140 and the statement in paragraph 140(a) that the applicant
+“paused briefly at the driver’s side window.” these details matter because they
+bear on the strength of the inference that the applicant engaged in a drug
+transaction. the applicant argues that the details are erroneous because they
+do not appear in the central scribe notes. i decline to excise the details. the
+affiant testified that he was drafting the ito in real time while monitoring
+surveillance chatter. i accept that he heard that the applicant had paused at
+the truck. the details are therefore not erroneous. my assessment of the
+affiant’s testimonial credibility and reliability appears later in these
+reasons.
+
+to be clear, amplification by the crown is not permitted to add facts from the
+affiant’s testimony into the ito; i refer to the testimony only to address the
+applicant’s argument for excision.
+
+paragraph 141
+– the
+affiant outlined how the applicant drove in an illogical loop for no apparent
+purpose and returned to “the exact spot”, parking behind a waiting suv. the
+phrase “the exact spot” is excised because the affiant acknowledged in his
+testimony that it was overstated. the affiant also indicated that the suv’s
+engine was running and its trunk was open. i see no basis to excise the detail
+about the engine running. finally, the affiant stated that the suv’s occupants
+exited after the applicant stopped behind it. the applicant argues this detail
+is erroneous and should be excised. i once again accept the affiant’s testimony
+on this issue. i do not excise the detail.
+
+paragraph 141(a)
+–
+i do not excise the affiant’s summary of the above observations and his opinion
+that the police observed a clear drug transaction. the earlier excision of the
+applicant returning “to the exact spot” does not undermine the observation of
+him doing an illogical loop. the affiant’s opinion of the loop being a counter-surveillance
+tactic was reasonable.
+
+paragraph 143
+–
+the paragraph is part of the summary of the affiant’s belief that an offence had
+been committed. the excision of the affiant note at paragraph 139(a)(i) applies
+here to remove the reference to specific drugs in mr. holdaway’s outstanding
+charges. no further excisions are required given that i did not excise the
+balance of paragraphs 137 to 139.
+
+paragraph 144
+– excision
+of the summary of the applicant’s conduct is unwarranted. the affiant’s
+description of the suv as “waiting” was appropriate. officers saw the applicant
+park behind the suv and then interact with its occupants.
+
+paragraph 147
+– the
+affiant noted that the applicant has a “history” of trafficking illegal drugs “spanning
+many years”. the “spanning many years” portion is excised on the consent of the
+parties. the rest of the paragraph remains. the one entry on the applicant’s cpic
+for drug trafficking, though not recent, supports the affiant’s use of the word
+“history”.
+
+paragraph 148
+– the
+paragraph appears in the affiant’s summary of his grounds to believe an offence
+had been committed. the applicant’s cpic, which is reproduced in the ito,
+already specifies his exact number of convictions for drug and firearm
+offences. repeating those details would undermine the purpose of a summary. no
+corrections are required other than changing the word “firearms” to the
+singular on the consent of the parties.
+
+paragraph 150
+– no
+corrections are required to how the affiant summarized the tracker data
+regarding the mercedes’ long-distance trips of short duration. however, the reference
+to ms. thompson continuing to exhibit characteristics of someone attempting to
+conceal her activities is misleading. based on the information in the ito,
+there is no basis to say that ms. thompson “continues” to engage in such
+conduct. the phrase “continues to exhibit” is excised and replaced with “has
+exhibited”.
+
+paragraph 151
+– the
+affiant concluded that police surveillance showed the applicant and ms.
+thompson working together from the residence. i decline to excise this
+paragraph. at this stage, the affiant was summarizing his grounds based on the
+totality of the investigation. it was reasonable for him to opine that the
+applicant and ms. thompson were acting together given the surveillance of them
+in the same vehicle. whether the residence is accurately described as their
+“primary” residence is immaterial; what matters is that the ito sufficiently
+establishes their significant connection to that location.
+
+
+paragraph 164
+– in
+summary form, the affiant stated that the tracker data showed many trips, some
+believed to involve drug transactions, beginning and ending at the residence. i
+disagree that the paragraph is misleading because it omitted the absence of
+recent surveillance that linked the residence to drug trafficking. the
+paragraph is confined to the tracker data, and the affiant had already
+acknowledged its limitations. even if the trips tied to drug trafficking are
+limited to the two described in paragraphs 119 and 120,
+
+the affiant did not claim that
+there were “many” such trips. from my reading of the ito, the word “many” describes
+the trips to and from the residence generally. i take no issue with that word
+given that the mercedes was there for 29 of 49 nights.
+
+paragraph 175
+– the
+affiant concluded that the police surveillance observed 11 suspected drug
+transactions. the applicant acknowledges that little turns on whether this
+conclusion is corrected on review. the issue is whether the ito provided a
+basis for the issuing justice to form their own conclusions in line with those
+reached by the affiant. while i have quibbled with the affiant’s opinion that
+some observed interactions were drug transactions, this paragraph does not
+present those opinions as fact; the affiant appropriately used the qualifier
+“suspected.”
+
+the following table summarizes my conclusions
+with respect to the proposed corrections:
+paragraph
+type
+details
+33
+excision
+entire paragraph
+34
+no corrections
+37
+no corrections
+38(a)
+excision
+entire paragraph
+38(b)
+addition; excision
+add: “the applicant was only convicted of
+ the lesser included offence of simple possession of cocaine”
+excise heading “trafficking cocaine”
+39
+excision
+entire paragraph
+40(a)
+no corrections
+40(e)
+no corrections
+50
+amplification
+change time from 2:46 pm to 2:26 pm
+51(a)
+excision
+phrase “for 25 minutes”
+60
+no corrections
+65
+addition
+“when exiting the residence, ms. thompson
+ was seen moving items in the trunk of the mercedes and went into the
+ residence a few times to place small bags or items from the back door into
+ the trunk and was moving stuff around”
+70
+excision
+phrase “looping industrial area”
+73
+no corrections
+81(a)
+no corrections
+86(a)
+no corrections
+100
+no corrections
+100(a)
+addition
+“ms. thompson parked at the wendy’s,
+ exited the vehicle, and went inside”
+114
+correction
+replace “for the most part” with “29 out
+ of 49 nights”
+115
+excision
+second sentence: “this indicates that
+ there is no other location where drugs are being kept other than the vehicles
+ and residence sought”
+117
+no corrections
+118
+addition
+“there were also overnight and multi-day
+ trips made to the area in the same time period”
+119(a)
+no corrections
+120(a)
+no corrections
+124
+excision
+second sentence: “this indicates that
+ there is no other location where drugs are being kept other than the vehicles
+ and residence sought”
+126
+no corrections
+127
+no corrections
+131
+no corrections
+132
+addition
+“the parties made purchases at the
+ wendy’s and lcbo”
+132(a)
+excision
+entire paragraph
+134
+no corrections
+137
+no corrections
+138
+no corrections
+139
+no corrections
+139(a)(i)
+excision
+entire paragraph
+140
+no corrections
+140(a)
+no corrections
+141
+excision
+phrase “the exact spot”
+141(a)
+no corrections
+143
+excision
+specific drugs of the outstanding charges
+144
+no corrections
+147
+excision
+phrase “spanning many years”
+148
+correction
+replace “firearms” with “firearm”
+150
+correction
+replace “continues to exhibit” with “has
+ exhibited”
+151
+no corrections
+164
+no corrections
+175
+no corrections
+could the
+warrants have issued?
+
+the applicant argues that the warrants could not
+have issued on the corrected ito. there are two facets to the applicant’s
+argument: whether the warrants could have issued on the face of the corrected
+record, and whether the affiant’s approach rendered the ito insufficiently
+reliable to support issuance of the warrants. i will address each claim in
+turn.
+whether the
+warrants could have issued on the face of the corrected record
+
+i must assess whether the corrected ito presents
+reliable evidence that might reasonably be believed that could have led the
+issuing justice to issue the warrants:
+r. v. vu,
+2013 scc 60
+at para.
+16. i remind myself that the issuing justice could have drawn inferences from
+the facts stated in the ito, so long as those inferences were reasonable:
+r.
+v. el-azrak,
+2023 onca 440
+at paras.
+96, 101. the issuing justice would
+have read the ito as a whole and with regard to its author:
+r. v. green,
+2015 onca 579
+at para.
+18.
+
+the investigation started when the police received
+a tip from a confidential informant. based on the information available in the
+redacted ito, the informant told the police in december 2022 that the applicant
+possessed fentanyl, dealt a lot of drugs, and was always in supply. the
+informant provided the applicant’s home address and motor vehicle (the white
+mercedes). the informant also provided information about the applicant’s
+girlfriend. the informant shared that the girlfriend drove the white mercedes
+and would hold drugs for the applicant and traffic them.
+
+i must assess whether the tip was credible, compelling,
+and substantially corroborated by independent police investigation. there is no
+evidence that allows me to assess the informant’s credibility at the time that they
+shared the tip: see
+r. v. curry,
+2020 onsc 86
+at para.
+27. the ito only
+says that the informant was a first-time source. there is no information about
+their motivations or criminal antecedents, if any. the informant did not have a
+history of providing reliable information.
+
+the tip was more compelling. the informant
+provided current information. they provided some details, including the
+specific drug that the applicant was said to possess. the nuance that the
+mercedes belonged to the applicant but was driven by his girlfriend reflected a
+degree of insider familiarity exceeding what would reasonably be known to the
+general public. however, the ito does not state whether the informant learned
+their information through first-hand observations or second-hand hearsay or
+rumours; see
+r. v. greaves-bissesarsingh,
+2014 onsc 4900
+at paras.
+35-40.
+
+subsequent police investigation, at outlined in
+the ito, significantly corroborated the informant’s tip, both in its “innocent”
+and “criminal” aspects: see
+r. v. campbell,
+2003 mbca 76
+at paras.
+26-27. for example, the police confirmed that the informant correctly provided
+the applicant’s address. the informant also correctly gave information about the
+girlfriend driving the white mercedes that belonged to the applicant.
+
+as i explained, this was not
+a minor biographical fact. it gains particular significance because the vehicle
+was being used in what the police believed was a drug trafficking operation. the corroboration therefore does more than
+validate a peripheral detail; it strengthens the plausibility of the
+informant’s allegation that the girlfriend was actively involved in trafficking
+for the applicant, using the very vehicle implicated in the suspected
+operation.
+
+of significance, the subsequent investigation, particularly
+the police surveillance, corroborated that the applicant and his girlfriend (ms.
+thompson) were engaged in drug trafficking.
+
+the police did extensive surveillance, during which they made observations that
+reasonably supported a belief that the conduct of the applicant and ms.
+thompson was consistent with drug trafficking: see
+r. v. cartmer,
+2024
+onca 674
+at para.
+15. the surveillance must be examined holistically. the
+police were not required to establish that each individual interaction was a
+drug transaction. the surveillance showed the applicant and ms. thompson frequently
+driving and meeting with people for short durations in different locations. any
+one of these meetings could be benign, but in conjunction they formed a
+pattern. the surveillance enabled the police to make the following observations:
+
+•
+december 14, 2022 – ms. thompson was driving the
+mercedes, and the applicant was the front passenger. ms. thompson drove in an
+illogical manner that suggested counter-surveillance tactics. both the
+applicant and ms. thompson were looking around and staring at other cars. later
+in the day, the applicant was seen walking away from the area of the residence wearing
+a backpack that looked full. he was attentive and looking around.
+•
+december 20, 2022 – ms. thompson was driving the
+mercedes and entered the residence. two people in succession drove to the
+residence for a quick interaction before departing. ms. thompson then drove
+away from the residence to a house with something in her hand. she quickly
+returned to her car and drove back to the residence. the details that i added
+to paragraph 65 do not undermine these police observations.
+•
+december 20, 2022 – the applicant was driving a
+rental car. he did counter-surveillance driving.
+
+•
+december 21, 2022 – the rental car and the
+mercedes were both parked near the residence. the applicant exited the
+residence. he was attentive. he got into the rental car and sped away. ms.
+thompson then exited the residence and got into the mercedes. she drove to a
+residence where someone attended the passenger side of the vehicle for a brief
+interaction before ms. thompson quickly drove away.
+•
+december 28, 2022 – ms. thompson was driving the
+mercedes and was attentive to the police surveillance. she conducted loops
+through a residential area. she eventually parked at the residence. she got out
+and looked inside cars parked on the street. she got back into the mercedes and
+continued her abnormal driving (e.g., looping the area at a very slow
+speed). she eventually parked in a parking lot. another vehicle immediately parked
+in the lot. ms. thompson did two loops of the parking lot before parking right
+next to the other vehicle. the driver of the other vehicle got out and had a
+brief interaction with ms. thompson. later that evening, the applicant and ms.
+thompson got into the mercedes. they were holding arms and scanning the parking
+lot. after some more illogical driving (e.g. driving in and out of a residential
+complex and a gas station for no apparent purpose), a person was seen walking
+away from the passenger side of the mercedes. ms. thompson then pulled into a
+gas station and looped the lot before settling in the parking lot. an unknown
+person without anything in hand walked up to the mercedes and had a brief
+interaction with the applicant on the passenger side. ms. thompson also went
+inside the nearby wendy’s.
+
+ms. thompson then drove towards the 403-highway eastbound but made a last-minute
+lane change to go westbound.
+•
+december 29, 2022 – ms. thompson was driving the
+mercedes. she drove in an illogical manner. she eventually reached the
+residence. she then pulled out of the residential complex and looped the
+residential area until the police could not continue the surveillance.
+•
+february 23, 2023 – ms. thompson was driving the
+jeep. the applicant was the front passenger. ms. thompson drove from the
+residence to a moxies restaurant. the applicant briefly entered and exited
+without any takeaway bags. he reclined his seat in the vehicle.
+
+the parties then made
+purchases at the wendy’s and lcbo before returning to the residence.
+
+•
+february 28, 2023 – the applicant was driving
+the mercedes with an unknown male passenger. the applicant and the unknown male
+went inside a home and exited 50 minutes later. the applicant was wearing a
+medical mask and showing heightened signs of awareness. mr. holdaway, who has a
+conviction for a firearm offence and faced outstanding drug charges, was on
+conditions to reside at that home. the applicant later walked to a variety
+store and paused briefly at the driver’s side window of a pickup truck. whoever
+was driving the pickup truck immediately drove away after the interaction. the
+applicant and the unknown male returned to the mercedes. the applicant drove in
+an illogical loop before parking behind a suv that had its engine running and
+trunk open. the occupants of the suv got out and walked to the driver’s side of
+the mercedes. the interaction through the driver’s side window only lasted about
+10 seconds. the occupants returned to the suv, and the applicant drove away.
+
+this surveillance sufficiently corroborated the informant’s
+tip in material respects and supplied reasonable grounds to believe that the
+applicant and ms. thompson were trafficking drugs. the surveillance had its
+limits: it captured no hand-to-hand exchange and, at times, no physical
+interaction. but the standard for a warrant is not proof beyond a reasonable
+doubt, nor proof on a balance of probabilities. it requires only reasonable
+grounds to believe, and i am satisfied that the ito met that threshold.
+
+this conclusion does not end the analysis. reasonable
+grounds must be current and tied to a specific location. the applicant principally
+argues that the ito failed to provide a reasonable basis to believe that drugs
+would be found in the residence in march 2023 (the warrants were issued on
+march 1, 2023). whatever grounds might have existed in december, the applicant
+argues that the issuing justice could not have issued a warrant for the residence
+at the beginning of march. as counsel argued, “an obvious takeaway is perhaps
+there was something at [the residence] in december. maybe [the applicant] was a
+drug trafficker in december. it doesn’t mean he’s still one actively in march”.
+in making this submission, counsel contrasted the relative strength of the
+december observations with the weaknesses of the february ones, adding: “even
+if you find those [december observations] probative, that’s december 20th.
+we’re now talking march when the warrants are being drafted. [the police] don’t
+have any current information about [the residence] and the tracker data and
+surveillance hasn’t helped them. and in fact, it’s taken away from the argument
+[that the warrants should issue]”.
+
+
+i acknowledge the factual underpinnings of the applicant’s
+argument. the police conducted more surveillance in december than in february,
+and the inference of drug trafficking is more easily drawn from the december
+observations. nevertheless, i disagree that the warrant to search the residence
+could not have issued in early march. when the surveillance is considered collectively
+along with the tracker data, the issuing justice could reasonably infer that
+the residence remained connected to drug trafficking.
+
+
+as a starting point, i find that the december observations
+were not so distant that they had become irrelevant a little over two months
+later. there is no fixed rule as to how recent information must be to remain
+relevant:
+r. v. james,
+2019 onca 288
+per nordheimer j.a. at para. 55.
+
+the passage of time is only
+one factor to consider:
+r. v. fuller,
+2021 onca 411
+at paras.
+9-10.
+the activities that the police observed did not suggest that the drug operation
+was transitory.
+
+furthermore, tracker data bridged the gap from
+december to march by maintaining the connection between the mercedes, the
+residence, and the inference of drug trafficking. first, the data showed that
+the mercedes was overnight at the residence for 29 of the 49 days between
+january 10 and march 1, 2023. second, the data linked the mercedes—and
+therefore the residence—to trafficking activity. on february 16 and 25, 2023,
+the mercedes made long-distance trips from grimsby to belleville and kingston,
+remaining for only 23 and 67 minutes respectively before returning to the area
+of the residence. as i explained earlier, it was reasonable for the affiant to include
+his opinion that these trips were indicative of higher-level trafficking. while
+the tracker data alone might not say very much, in context it reinforced the
+pattern observed in december: the use of the mercedes for quick visits to various
+locations before returning to the area of the residence.
+
+the february surveillance then afforded observations
+that continued the pattern. even if no inference of drug trafficking can be
+drawn from the surveillance on february 23, what matters is that the observations
+put the applicant and ms. thompson at the residence. then, five days later, the
+surveillance on february 28 provided a strong inference that the applicant was
+engaged in drug trafficking. the police once again observed the applicant
+engaged in counter-surveillance driving and meeting briefly with unknown people
+who were waiting for him in parking lots.
+
+the applicant argues that the absence of
+counter-surveillance driving or other efforts to conceal the residence on
+february 23 suggests that drugs were no longer present in that location. that
+is one possible inference. it may mean that the presence of drugs at the
+residence in early march was not the only reasonable inference: see
+r. v.
+nero,
+2016 onca 160
+at para.
+71. however, when the ito is considered as a
+whole, i am satisfied that the issuing justice could have reasonably authorized
+the warrants for the residence and the motor vehicles: see
+r. v. reeves,
+2017 onca 365
+at para.
+82.
+
+whether the entire
+ito was too unreliable to support issuance
+
+up to this point, my analysis has accepted the
+corrected ito at face value. i have proceeded on the basis that the police
+fairly recorded and conveyed their surveillance observations, which the affiant
+then summarized in the ito. the applicant raises a further argument. he submits
+that i should not place trust in the police in this case; that the affiant’s
+misrepresentations and omissions, whether deliberate or reckless, infected the entire
+ito and rendered it too unreliable to support issuance. this submission relies
+on the following principle from
+r. v. debartolo,
+2018 onsc 916
+at para.
+38:
+where there are deliberate
+misrepresentations and omissions in the ito these defects may impact on the
+assessment of the reliability of the balance of the ito even if deliberate
+misrepresentation and material omission has not been proven with respect to the
+details contained in the balance of the ito after excision.
+
+i do not give effect to the applicant’s
+submission. my analysis proceeds in three parts.
+flaws in the ito
+and their effect
+
+i acknowledge flaws in the ito. the inclusion of
+the applicant’s prior occurrence reports without stating whether charges were
+laid and, if so, their disposition, had the potential to mislead the issuing justice.
+that practice is not acceptable. cross-referencing should be a straightforward
+step. if an officer cannot determine a disposition, that information gap should
+be disclosed in the ito. furthermore, some of the affiant’s drafting was
+imprecise. for example, he used “exact same spot” when he meant the “same exact
+area of the city”. and certain affiant notes were overstated. at times they
+presented individual observations—standing alone—as indicative of drug
+trafficking. for example, i struggle to understand how running into a
+restaurant, returning a few minutes later without any take
+‑
+out bags, and reclining in the passenger seat of a vehicle is
+“indicative of a drug transaction on several levels”.
+
+the same concern applies to
+the note about the tracker data showing the jeep making 17 short
+‑
+duration stops at the back of a cemetery.
+
+
+despite these flaws, i do not find that the
+affiant intentionally sought to mislead the issuing justice, nor do i find
+negligence or recklessness in his approach. the record suggests that the
+affiant sometimes struggled to distinguish between what could be inferred from
+isolated observations and what he inferred from the totality. that difficulty
+does not mean his notes had the real potential to mislead. the issuing justice
+was required to consider the ito in its entirety and to draw independent
+conclusions. “a narrow focus on a portion of the ito is inconsistent with the
+legal requirement that the issuing justice act judicially, which would include
+diligently and independently reviewing the entire ito and considering its
+contents”:
+r. v. victoria,
+2018 onca 69
+at para.
+97. the inclusion of
+the occurrence reports was not altogether inappropriate, as certain ones tied
+the applicant to the drug subculture and thus provided some corroboration of
+the informant’s account. the applicant’s reliance on
+r. v. adler,
+2020
+onca 246
+at paras.
+30-31
+does not change my assessment.
+adler
+featured
+markedly more troubling conduct, including the failure to mention in the ito a
+prior warrantless entry into the accused’s home or share with the crown the
+real reasons to adjourn a bail hearing. it is telling that the corrected ito in
+this case is not materially different from the version submitted to the issuing
+justice. some points are clearer and additional context has been added, but the
+strength of the inferences sought to be drawn remains about the same.
+
+i generally accept the affiant’s explanations
+for why he drafted the ito the way that he did. for example, the affiant was
+cross-examined on how he summarized the surveillance from december 20, 2022.
+paragraph 65 did not include details of ms. thompson moving items in the
+mercedes trunk and transferring small bags and other items from the residence
+into the trunk. i accept that this omission was not an effort to suppress
+exculpatory context. the affiant fairly summarized salient points for the
+warrant application rather than reciting every observed movement. more broadly,
+the ito contains several instances where the affiant expressly demonstrated his
+understanding of the need to be full, fair, and frank—by identifying unknowns,
+flagging the limitations of the tracker data, and avoiding categorical
+assertions.
+
+
+the affiant’s use of generalizing language was not
+materially distorting. the tracker showed the mercedes at the residence for 29
+of 49 nights (approximately 59%). the affiant is not a meticulous solicitor who
+might consider “for the most part” a touch overstated: see
+r. v. green,
+2015 onca 579
+at para.
+18. the affiant did not say that the mercedes was
+“always” at the residence. the numerical pattern still supported the
+residential association relevant to the inference being drawn. likewise, where
+the affiant used qualifying language—“appears”; “had the characteristics
+of”—those qualifiers signalled that he was drawing inferences rather than
+asserting certainties.
+
+affiant credibility on core surveillance
+details
+
+the applicant suggested that the affiant
+fabricated key surveillance facts and inserted them into the ito to bolster the
+drug trafficking inference. if made out, that allegation would establish bad
+faith and undermine the reliability of the entire ito.
+
+i reject that the affiant fabricated anything. i
+found the affiant credible and his testimony reliable. he was cross-examined
+about surveillance details from february 28 that appeared in the ito but not in
+the central scribe notes. he explained that he was keenly listening to the live
+surveillance chatter
+while drafting the ito. he was not part of
+the surveillance unit, and his focused drafting role left him free of other
+surveillance duties. in those circumstances, i am not surprised that he
+captured details from the live feed that do not appear in the scribe notes. i
+accept that he drafted the ito contemporaneously, even if he did not record
+that methodology in his notes. the fact that other officers did
+not note his monitoring carries little weight, as he was not part of the
+surveillance team. there is no evidence before me on whether the other officers
+were even aware of his monitoring. i found the affiant’s testimony on this point
+to be logical, coherent, and compelling:
+q. what you’re indicating you heard over
+the radio, is that an independent memory that you have now, today?
+a. i don’t remember that independently now,
+no.
+q. so, fair to say you are assuming that
+you heard these [surveillance] details over the radio?
+a. i am saying that i had more than just
+what is [in the central scribe] notes, and if you take [those] notes at face
+value and compare it to what’s in the ito, that’s not all i had access to. i
+also had the live feed over the radio of what was said, and i also had a
+conversation with the team when they got back, and we ensured that what i put
+in the ito was correct.
+prior credibility assessments in other cases
+
+prior credibility assessments from other cases
+do not negatively affect my assessment of the affiant’s credibility or
+reliability. the applicant relies on two decisions. in
+r. v. sodhi,
+2019
+oncj 463, both the affiant and sergeant hall (a surveillance officer in the
+case at bar) testified at trial; fiorucci j. made negative credibility findings
+regarding sgt. hall (see paras. 32-33, 40) but none against this affiant—at
+most, certain aspects of his testimony were not accepted. in
+r. v. russell,
+2024 onsc 529, on a
+charter
+application concerning a no-knock entry
+executed by a team that included the affiant and cst. lentz (another
+surveillance officer in the case at bar), goodman j. found the officers failed
+to justify the no-knock (para. 14), noted parts of their testimony were
+contradicted by cctv, held the entry breached s. 8, and excluded the evidence
+under s. 24(2). goodman j. made no express adverse credibility findings
+against this affiant. he principally found that the police evidence was
+insufficient to justify the no-knock entry (see paras. 59, 64-66).
+
+the prior decisions neither import a propensity
+to lie nor undermine reliability here. it is not uncommon for a trial judge to
+accord less weight to testimony that conflicts with other proof without finding
+mendacity. the opinions of other judges regarding the officers’
+credibility do not, without more, render those officers discreditable:
+r. v. ghorvei,
+1999 canlii 19941
+(ont. c.a.) at
+para.
+31. there was no application in these proceedings to
+cross-examine sgt. hall or cst. lentz as sub-affiants, and i am not prepared to
+discount surveillance observations recorded by sgt. hall merely because one
+judge in 2019 was troubled by his testimony in a different context.
+
+even after taking
+sodhi
+and
+russell
+into consideration, i find the affiant credible and reliable
+on the record before me.
+conclusion
+
+in sum, i do not find that the affiant sought to deliberately
+mislead the issuing justice. he did not intentionally add erroneous details or
+omit necessary ones. portions of the ito were sloppily drafted; others were
+overstated when viewed in isolation. but i would not say that the affiant was
+reckless in his approach. considered as a whole, as the issuing justice was
+required to do, the corrected ito remained a reliable basis to authorize the
+warrants; see
+r. v. victoria,
+2018 onca 69
+at paras.
+97-98. the
+identified defects do not infect the entire ito.
+residual discretion
+
+even though the warrants could have issued, the
+court retains a common law authority to set them aside. this residual
+discretion is not contingent on finding a
+charter
+breach. rather, the
+residual discretion can be used when the police conduct was so subversive of
+the authorization process that the warrant must be set aside to protect the
+court’s process:
+r. v. paryniuk,
+2017 onca 87
+at paras.
+69, 74;
+r. v.
+araujo,
+2000 scc 65
+at para.
+54;
+r. v. nyadu,
+2024 onsc 4092
+at
+para.
+273. the standard to use this discretion is high:
+r. v. phan,
+2020
+onca 298
+at para.
+56. it has been described as conduct that amounts to an abuse
+of process:
+r. v. vivar,
+2009 onca 433
+at para.
+2.
+
+given my findings above, i see no basis to
+invoke this residual discretion. the police conduct did not subvert the
+authorization process. any failings in the obligation to make full and frank
+disclosure were not the product of bad faith: see
+r. v. booth,
+2019 onca
+970
+at para.
+121. the affiant did not undermine, corrupt, or weaken the
+integrity of pre-authorization process.
+exclusion of
+evidence
+
+i find that the warrants could have issued and
+do not set them aside. the applicant does not advance other
+charter
+claims. i find no
+charter
+breaches and do not consider the exclusion of
+evidence under s. 24(2).
+conclusion
+
+the application is dismissed. the warrants are
+upheld. the evidence is admissible.
+released: october
+23, 2025
+signed: justice davin m.k. garg
+
+the excisions on consent are already reflected in exhibit 7.
+
+respondent’s counsel was unable to conduct the cross-check. “in looking through
+this and trying to match up the outcomes, it is clear in looking at the record
+that there is a youth conviction for 5(2)
+cdsa
+i believe from 2013, and
+there is not a conviction for 5(2)
+cdsa
+after that point. there is a
+conviction for a 4(1). as a federal crown, i didn’t have the information to
+assign which one exactly went to which one”: submissions on july 24, 2025, at
+p. 29.
+
+i took respondent’s counsel to not dispute that this occurrence resolved in the
+manner described by applicant’s counsel.
+
+the reference to paragraph 72 in the applicant’s table is a typographical
+error.
+
+see paragraphs 79-85 of these reasons.
+
+unlike the observations from february 28, 2023 (see paragraphs 140-141 of the
+ito), where counsel squarely challenged the affiant on the accuracy of the
+“pause” detail and elicited testimony about his reliance on live surveillance
+chatter, no similar questions were put to the affiant regarding this detail from
+paragraph 100. the applicant did not confront the affiant with the suggestion
+that this detail was erroneous or seek an explanation for its inclusion. i
+decline to excise the detail for that additional reason: it was not tested in
+cross-examination, and the record does not support the applicant’s assertion
+that it is inaccurate.
+
+see submissions on july 3, 2025, at p. 102.
+
+see paragraphs 79-85 of these reasons.
+
+the description as the “primary” residence is also reasonable based on the facts
+disclosed in the ito.
+
+i took applicant’s counsel to not dispute that those trips had started or ended
+at the residence. “i don’t see how tracker data that shows that a car goes to
+kingston, even just for half an hour, and the fact that it started that day and
+ended that day at 6 chestnut, but we don’t who was driving or what happened,
+how does that help show that drugs are going to be at 6 chestnut?” see
+submissions on july 3, 2025, at p. 118.
+
+see for example paragraphs 47 and 48 of the ito.
+
+whether ms. thompson was actually the applicant’s girlfriend is immaterial. the
+description is apt given that they were frequently seen together and were at
+one point holding arms.
+
+i have identified the individuals as the applicant and ms. thompson. there are
+times in the ito where the individuals are not immediately identified as such,
+but the police ultimately formed a reasonable belief as to their identity based
+on subsequent surveillance.
+
+there are two entries for december 20, 2022, because the surveillance was being
+conducted at two different locations.
+
+i added this fact to the ito.
+
+i excised the affiant opinion that the observed behaviour was
+indicative of a drug transaction.
+
+i added this fact to the ito.
+
+submissions on july 3, 2025, at pp. 62, 119.
+
+i use “connecting to drug trafficking” as shorthand for saying that there were
+reasonable grounds to believe that evidence of drug trafficking would be found
+in the residence.
+
+nordheimer j.a. was writing in dissent at the court of appeal, but his decision
+was adopted by the majority at the supreme court:
+2019 scc 52.
+
+see also the chart provided by respondent’s counsel comparing the ito in this
+case with the itos in
+r. v. caissey,
+2008 scc 65;
+r. v.
+macdonald,
+2012 onca 24; and
+r. v. jacobson,
+2006 canlii 12292
+(ont.
+c.a.). the courts upheld the warrants in each case.
+
+see paragraph 132(a) of the ito.
+
+see paragraph 127(a) of the ito.
+
+see for example paragraphs 65(a) (“although it is unknown what was being
+delivered”) and 140(a) (“no physical transaction was observed due to [the] view
+being obstructed”) of the ito.
+
+see for example paragraph 65(a) of the ito.
+
+the present case is not like
+r. v. mitchell,
+2019 onsc 2613
+at paras.
+54-55, where the officer was cross-examined on the facts of a prior decision
+and given an opportunity to respond.

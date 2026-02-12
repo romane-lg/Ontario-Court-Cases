@@ -1,0 +1,975 @@
+source url: https://www.canlii.org/en/on/oncj/doc/2025/2025oncj142/2025oncj142.html
+
+ontario court of justice
+citation:
+r. v. dimillo, 2025 oncj 142
+date: 
+2025 03 14
+court
+file no.: hamilton 998 23 47102956
+between:
+his
+majesty the king
+(applicant)
+— and
+—
+frank dimillo
+(respondent)
+ruling
+on hearsay applications
+before
+justice davin m.k. garg
+heard
+on february 18-21, 26, 2025
+reasons
+released on march 14, 2025
+sean doherty....................................................................................... counsel
+for the crown
+ian mccuaig............................................................ counsel
+for the accused frank dimillo
+garg j.:
+i
+overview
+
+the accused allegedly shot the complainant in
+the face. the complainant survived. the bullet is said to have passed through
+his left cheek and out his neck. the alleged shooting occurred inside a trailer
+parked at the accused’s residence.
+
+the complainant testified. but he did not
+incriminate the accused. he disavowed any knowledge of the shooting. he
+disavowed any knowledge of the accused altogether. the complainant’s testimony
+was in direct contrast to his police statement, in which he described the accused
+shooting him.
+
+the accused’s son, blake dimillo, also testified.
+he acknowledged telling the police that he overheard the accused confess to the
+shooting. but he testified that he misspoke and did not adopt that part of his
+statement.
+
+the crown applies to admit the hearsay statements
+of the complainant and blake.
+
+for the reasons that follow, i deny the application to admit the complainant’s
+statement, and i grant the application to admit blake’s statement.
+ii
+general
+principles
+
+hearsay is an out-of-court statement tendered
+for the truth of its contents. it is presumptively inadmissible. unlike trial
+testimony, hearsay statements lack cross-examination that is contemporaneous to
+the making of the statement. allowing the trier of fact to consider hearsay can
+compromise trial fairness and the trial’s truth-seeking function:
+r. v.
+bradshaw,
+2017 scc 35
+at para.
+20. there is a fear that untested hearsay
+evidence might be afforded more weight than it deserves:
+r. v. khelawon,
+2006 scc 57
+at para.
+35. despite these concerns, hearsay can be admitted
+into evidence when the applicant establishes on a balance of probabilities the
+necessity of adducing the statement and the statement’s threshold reliability:
+bradshaw
+at para.
+23.
+
+threshold reliability is the primary issue on
+this application. to gain admission, the statement must be sufficiently reliable
+to overcome the hearsay dangers. threshold reliability can be shown by
+establishing procedural reliability or substantive reliability. considering one
+form of reliability does not preclude considering the other:
+khelawon
+at
+para.
+49;
+r. v. couture,
+2007 scc 28
+at para.
+80. “[the] two approaches
+to establishing threshold reliability may work in tandem”:
+bradshaw
+at
+para.
+32.
+
+procedural reliability requires adequate
+substitutes for testing the truth and accuracy of the statement. traditional
+safeguards include a video recording of the statement, the statement being made
+under oath or solemn affirmation, and the declarant being warned about the
+consequences of lying:
+r. v. b.(k.g.),
+1993 canlii 116 (scc), 1 s.c.r. 740 at 795-796.
+some form of cross-examining the declarant is usually required:
+bradshaw
+at paras.
+27-28.
+
+substantive reliability requires sufficient
+circumstantial or evidentiary guarantees that the statement is inherently
+trustworthy. relevant factors include the circumstances in which the statement
+was made and evidence that corroborates the statement:
+bradshaw
+at
+paras.
+27, 30-31. on this basis of reliability, “the contents of the hearsay
+statement [is] so reliable that contemporaneous cross-examination of the
+declarant would add little if anything to the process”:
+khelawon
+at
+para.
+49.
+iii
+potential
+corroborative evidence
+
+corroborative evidence is relevant to
+establishing substantive reliability. corroborative evidence must be
+trustworthy. to be relied on, the evidence must corroborate material portions
+of the hearsay statement. “[t]o overcome the hearsay dangers and establish
+substantive reliability, corroborative evidence must show that the material
+aspects of the statement are unlikely to change under cross-examination”:
+bradshaw
+at para.
+47.
+
+below i outline the potential corroborative
+evidence on this application. whether the evidence is indeed corroborative is
+addressed later in these reasons.
+a.
+evidence of there being an incident on the
+accused’s property
+
+people saw the accused and the complainant together
+on the accused’s property on may 12, 2023, which is the date and location of
+the alleged shooting. a cab driver picked up the complainant from the property.
+he received the fare call around 2:38pm. he observed that the complainant was
+covering the left side of his face with what appeared to be a white cloth.
+meanwhile, blake testified that he arrived home around 3:00pm. he saw the accused,
+the complainant, the accused’s girlfriend chantel, and his grandmother sue ann.
+he described them as “panicked” and “frantic”. blake also saw the complainant
+holding his cheek with a white scarf wrapped around his head.
+
+the police attended the property on the day of
+the alleged shooting. they made limited observations that day. they saw that
+the trailer doors were closed. they also saw a hose that was spewing water onto
+a garden bed, apparently directed at some fresh dirt. blake turned off the hose
+when he came home.
+b.
+evidence of there being a shooting inside the
+trailer
+
+the next day, the police executed a search
+warrant inside the trailer where the alleged shooting occurred. the police saw what
+appeared to be a bullet hole in the wall. they cut holes in the two sheets of
+plywood and three pieces of styrofoam that made up the wall, without piercing
+the trailer’s external shell. on the ground behind these materials, they
+located a “full metal jacket” projectile.
+
+the police also searched inside the home. when
+searching the basement, they located a bag hidden on ductwork near the ceiling.
+they found a.357 magnum revolver inside the bag. the projectile located behind
+the trailer wall could have fired from the gun (i.e., the projectile was compatible
+with the gun).
+
+the police found a spent casing loose in the bag
+with the gun. this casing could have housed the projectile that was found
+behind the trailer wall.
+c.
+evidence of the accused being the shooter
+
+the police sent the gun for testing at the
+centre of forensic sciences (cfs). two dna profiles suitable for comparison were
+located on the gun. a swab of the textured areas (i.e., the grip, hammer, and
+button) detected the dna from one male, labelled as “str profile 2”. the accused
+cannot be excluded as the source of this profile. the str dna results are
+estimated to be greater than one trillion times more likely if str profile 2
+originates from the accused than if it originates from an unknown person
+unrelated to the accused. the cfs expert used plain language in his testimony:
+“it’s essentially inconceivable to me that this dna profile, str profile 2,
+would originate from anyone other than [the accused], including family members
+… this is an unambiguous dna profile with information at all of the available
+testing locations”.
+
+the gun was found in the basement. the accused’s
+bedroom was also in the basement.
+
+the presence of the accused’s dna does not speak
+to when the dna was deposited. the expert recognized that dna could
+theoretically persist for years on the textured areas of the gun.
+d.
+evidence of the complainant being shot
+
+the complainant approached officer libby on the
+street the morning after the alleged shooting. he tried to get her attention
+while she was busy diffusing an unrelated matter. once officer libby turned her
+attention to the complainant, she noticed an injury on his left cheek that was
+scabbed over and bleeding. as the complainant turned away, officer libby saw a
+second injury below the angle of his left jaw. this wound was completely open,
+and officer libby could see flesh. after some convincing, the complainant agreed
+to attend the hospital, where he gave his statement.
+
+the police photographed the complainant’s
+injuries two days after the alleged shooting (see exhibit 2). the photos depict
+two obvious wounds to the left side of the complainant’s face. the first is a
+hole on his cheek; the second is a hole on his neck behind the ear. both wounds
+are slightly inflamed. some swelling is visible.
+
+the cfs swabbed flaked staining on the left side
+of the gun. the swab detected blood and dna from at least two people, including
+at least one male. the blood stain provided one dna profile suitable for
+comparison, labelled as “str profile 1”. the complainant cannot be excluded as
+the source of this profile. the str dna results are estimated to be greater
+than one trillion times more likely if str profile 1 originates from the complainant
+than if it originates from an unknown person unrelated to the complainant.
+
+the cfs also found blood on a paper manual that
+was somewhere in the trailer. the swab of the staining contained dna from two
+people, including at least one male. the str dna results are estimated to be
+greater than one trillion times more likely if the complainant contributed to
+the mixture, and 660,000 times more likely if the accused was the other
+contributor. the expert testified that it was more likely that the blood originated
+from the complainant because he contributed more dna to the mixture.
+
+the manual’s precise location within the trailer
+at the time of the alleged shooting cannot be determined because items in the
+trailer shifted considerably during towing. police did not take photographs of
+the trailer’s contents until after the towing.
+iv
+admissibility
+of the complainant’s statement
+
+i conclude that the complainant’s hearsay statement
+is inadmissible based on the following analysis.
+a.
+necessity
+
+the complainant’s statement is necessary. while
+the complainant attended court and took the oath, functionally he did not
+testify. many of his answers were non-responsive. he denied making the
+statement and therefore did not adopt its contents.
+b.
+procedural reliability
+
+the crown points to the following circumstances
+to establish procedural reliability: the statement was recorded, the complainant
+knew he was being recorded, the police reminded the complainant to tell the
+truth, and the complainant knew that his statement would be disclosed to the
+accused. the complainant knew that his statement would give rise to criminal
+charges and require him to testify. as he said in the statement, “i fully
+intend to testify. i fully intend to put this guy on the cross”.
+
+the evidence falls well short of establishing
+procedural reliability. the factors in favour of procedural reliability do not
+overcome the factors against. crucially, i find that the complainant is not
+available for meaningful cross-examination: see
+bradshaw
+at
+para.
+28. the truth and accuracy of the complainant’s statement cannot be
+tested when he denies making the statement. the complainant also refused to answer
+many questions or provided unintelligible responses. the complainant is only available
+for cross-examination in the sense that he will sit in the witness stand and listen
+to questions. but the opportunity for cross-examination in this case is
+“illusory” and insufficient to overcome the hearsay dangers:
+r. v.
+youvarajah,
+2013 scc 41
+at para.
+41.
+
+i also accept defence counsel’s argument that i should
+consider the complainant’s contemptuous attitude to the court process. ordinarily,
+a declarant’s knowledge that their statement might be used in court adds
+solemnity to the occasion and thus some reliability to the statement. but in
+this case, even if the police had put the complainant under oath and warned him
+about the consequences of lying, i am doubtful that these safeguards would have
+bound the complainant’s conscience.
+c.
+substantive reliability
+
+the crown focused its submissions on substantive
+reliability and the force of the corroborative evidence. the supreme court’s
+decision in
+bradshaw
+sets the structure of my analysis.
+material aspects
+of the hearsay statement
+
+the complainant described how the accused shot
+him in the face. he gave a detailed account. the complainant declared how the
+accused shot him with a.357 magnum. he proffered a motive for the shooting. he
+described how the accused had reproached him for stealing his drugs, money, and
+gun. when the accused’s girlfriend said that she found the money in the
+complainant’s bag, the accused snapped. he dragged the complainant into the
+trailer,
+
+put the gun to the complainant’s face, and pulled the trigger. the accused told
+the complainant that the bullet hit the back of the trailer. after the shooting,
+the accused tried to clean up the blood with water. the accused gave the
+complainant a towel, which the complainant ripped in half. the complainant
+eventually left and went to his mother’s place, taking the towel with him.
+specific hearsay dangers
+
+the complainant’s sincerity when giving his
+statement is clearly at issue. there is a danger that the complainant was not
+being truthful.
+
+defence counsel argued that memory, narration, and
+perception are live dangers as well. i agree, albeit to a lesser degree than
+sincerity. counsel posited that the complainant told a fantastical story while
+high on pain killers or opioids. there is evidentiary support for this
+position. one would not expect a shooting victim to resist medical treatment
+while munching on doughnuts and slurping an a&w soda, yet that is what the
+police observed. while the complainant might have accurately recounted being shot,
+i agree there is some question on whether he reliably recounted the details.
+alternative explanations
+for the statement
+
+in assessing substantive reliability, i must
+identify alternative and even speculative explanations for the hearsay
+statement:
+bradshaw
+at para.
+48. with the assistance of counsel, i have
+identified the following alternatives:
+(1)
+the complainant was shot or otherwise injured
+before attending the trailer.
+(2)
+the complainant shot himself in the trailer.
+(3)
+someone other than the accused shot the
+complainant in the trailer.
+(4)
+the accused shot the complainant in the trailer
+by accident.
+defence counsel recognized that the
+complainant being shot from attempting suicide was not a viable alternative.
+whether
+corroborative evidence rules out the alternative explanations
+
+i can only rely on corroborative evidence to
+establish threshold reliability if it shows, when considered as a whole and in
+the circumstances of the case, that the only likely explanation for the
+statement is the complainant’s truthfulness and accuracy with respect to the
+material aspects of the statement:
+bradshaw
+at paras.
+40, 44, 47. i must
+be able to “rule out any plausible alternative explanations on a balance of
+probabilities”: para. 49.
+
+to be considered, corroborative evidence must
+itself be trustworthy. all the potential corroborative evidence that i outlined
+above is trustworthy. much of this evidence was uncontroversial or only lightly
+challenged by the defence. instead, the defence added qualifiers to the
+evidence or highlighted the limits of its corroborative force.
+
+there is force to the crown’s argument that the
+corroborative evidence establishes substantive reliability. that evidence comes
+close to ruling out the alternative explanations. but ultimately, i am not
+satisfied that the complainant’s statement is “so reliable that contemporaneous
+cross-examination of [him] would add little if anything to the process”:
+khelawon
+at para.
+49. i cannot say that the only likely explanation is that the
+statement is true:
+bradshaw
+at para.
+31.
+
+i will start with the strengths of the
+corroborative evidence. i find that it eliminates the plausibility of the complainant
+being shot or injured elsewhere and then attending the trailer. i appreciate
+that the complainant did not act as one might expect. he did not call 911 or rush
+to the emergency room. still, it is implausible that the complainant was
+injured by an apparent gunshot wound at an unknown location, somehow attended
+the trailer while still bleeding from that wound, the gun was produced for some
+unknown reason, the complainant bled on the gun, people on the property were
+unsettled, and then the police found a bullet compatible with the gun implanted
+in the wall shortly thereafter. in this context, i do not find it conflicting
+that blake’s grandmother saw the complainant already in possession of the white
+cloth before the alleged shooting. examined holistically, the corroborative
+evidence entirely supports the complainant’s declaration that he was shot inside
+the trailer on may 12, 2023.
+
+the real issue is whether the evidence sufficiently
+corroborates the truthfulness of the complainant’s statement that the accused
+was the shooter. there is evidence that corroborates this material aspect of
+the statement. only two dna profiles were found on the gun: one from the
+complainant and one from the accused.
+
+the accused’s dna is located where a person would ordinarily touch a gun when using
+it as intended. the police then found the gun hidden in the same basement that
+housed the accused’s bedroom. this corroborative evidence must be considered
+alongside the evidence confirming that the shooting occurred in the trailer on may
+12 because it creates a limited pool of people who could have fired the gun—the
+accused amongst them.
+
+the alternative that the accused shot himself with
+the gun is not very compelling. the corroborative evidence establishes that the
+complainant approached the police of his own volition to report the shooting. i
+do not see why the complainant would have done that if he shot himself. defence
+counsel argued that the complainant might have felt that he had no choice—that he
+needed to explain his injury before the police investigated him. i do not
+accept this argument. officer libby was unequivocal in her testimony that the
+complainant tried to get her attention. he needed to be patient and wait until she
+had wrapped up another matter. from my sense of the evidence, officer libby
+would have had zero interest in the complainant but for his persistence. counsel
+countered that the complainant might have wrongly perceived that the police
+were interested in him.
+
+the flaw in this argument is that it relies on the complainant perceiving his
+circumstances irrationally but then making the rational decision of getting
+ahead of the investigation by deflecting blame for the shooting. i cannot
+accept this explanation for the complainant reporting the shooting.
+
+nonetheless, the corroborative evidence does not
+show that the only likely explanation for the complainant’s statement was his truthfulness
+that the accused had shot him. the alternatives might not be compelling. but
+they do not need to be. the corroborative evidence needs to rule out the
+alternative explanations such that the only remaining likely explanation for
+the statement is the complainant’s truthfulness and accuracy:
+bradshaw
+at paras.
+57, 85. i conclude that substantive reliability is not established for
+the following four reasons.
+
+first, the complainant is an unsavoury witness
+as defined by
+vetrovec v. the queen,
+1982 canlii 20 (scc), 1 s.c.r. 811. he cannot
+be trusted to tell the truth. he has a long record for crimes of dishonesty and
+offences against the administration of justice. there are some obvious
+falsehoods in the statement (e.g., the complainant said that he had 53
+bitcoins). i also implicitly found that the complainant lied to the court while
+under oath.
+
+establishing the inherent trustworthiness of hearsay evidence from an unsavoury
+witness will be “extremely challenging”:
+bradshaw
+at para.
+69.
+
+second, while it might be definitive that the
+accused’s dna is on the gun, the corroborative evidence is not definitive on
+when or how he deposited the dna. the expert agreed in cross-examination that
+the accused’s dna could “theoretically” have persisted on the gun “for years”. the
+expert also acknowledged that ordinary handling of the gun was not the only way
+to deposit the dna.
+
+third, i must consider evidence that conflicts
+with the complainant’s statement:
+bradshaw
+at para.
+30. for example, the
+complainant in his statement described how “there’s blood everywhere” after the
+shooting and that the accused was using water to clean it up. the police, on
+the day of the alleged shooting and the next day when executing the warrant, did
+not see evidence of cleaning or copious amounts of blood. it is a stretch to
+connect the running hose in the garden with the accused’s alleged efforts to
+clean the scene. furthermore, the complainant told the police that the accused
+robbed him. but the evidence does not disclose the police recovering any of his
+effects from the property.
+
+fourth, substantive reliability remains
+concerned with the circumstances in which the statement was taken:
+bradshaw
+at para.
+30. the complainant had two gaping gunshot wounds. yet he did not
+exhibit signs of pain or distress. defence counsel raises the valid inference
+that the complainant was under the influence of drugs or strong medication when
+giving his statement, which undermines its reliability.
+
+taking these four reasons collectively, the
+corroborative evidence does not exclude the alternative that the complainant
+was shot by someone other than the accused. the complainant’s truthfulness and
+accuracy provide a likely explanation for him implicating the accused. but i
+cannot rule out the plausible alternative explanations on a balance of
+probabilities:
+bradshaw
+at para.
+49.
+v
+admissibility of blake
+dimillo’s statement
+
+i conclude that the hearsay statement of the
+accused’s son, blake, is admissible based on the following analysis.
+a.
+circumstances and content of the statement
+
+i start with a detailed review of the evidence going
+to the circumstances and content of blake’s statement. this context is relevant
+to the procedural reliability of the statement, and defence counsel’s argument
+that the probative value of the statement is surpassed by its prejudicial
+effect.
+blake discussed the alleged shooting
+
+blake arrived home after the alleged shooting
+and saw that people were unsettled. he talked about the incident with his aunt angie
+on the telephone. at home, blake discussed the events with the accused’s
+girlfriend chantel. she told blake an extensive account of what she thought had
+happened. blake did not know how angie or chantel obtained their information.
+blake testified that, after speaking with angie and chantel, he had developed a
+fairly detailed picture of the day’s events.
+circumstances leading to the statement
+
+blake was home when the police came to execute
+the search warrant the day after the alleged shooting. the police were reasonably polite and invited everyone to leave the
+house. blake was only wearing gym shorts when he walked outside that spring
+morning. he waited outside for about 15 to 20 minutes until he was put in a
+detective’s car and brought to the station. it was blake’s first time in a
+police car or at a police station. upon arriving at the station, the police
+gave him coveralls to wear. he then waited in a room for up to two and a half
+hours. he did not have access to speak with someone during this time. he
+testified that no one told him that he was free to leave. he did apparently
+drink water and use the washroom while he was waiting.
+
+there is no evidence that he
+required police permission or remained under police supervision during this waiting
+period.
+
+the officer started blake’s interview by
+apologizing for keeping him waiting. the officer informed blake that the
+statement would be recorded by video and audio. the officer told blake that he
+was a witness, not in any trouble, not under arrest, not detained, and not
+being investigated for any crime. the officer indicated that he anticipated a
+quick chat and hoped to get him home quickly.
+blake’s knowledge when giving the statement
+
+blake testified that he was truthful with the
+police. he understood that he “could get in trouble” if he lied to the police.
+he also understood that lying could result in “something bad” happening to
+someone else.
+
+blake knew that the police were recording his statement. he knew that the
+police were collecting witness accounts to be used as evidence, and he knew
+that the police would use the statement in their investigation against the
+accused. he knew that the police had come for the accused from the moment that they
+arrived at his home.
+material content
+of the statement
+
+i have reproduced the material content of the
+statement based on what i can hear from listening to it:
+blake: … i went downstairs to ask [the
+accused] like, just basically what the fuck is wrong with him? why is he
+involving us? like, this isn’t, like, it’s not safe, obviously. but he was out.
+so, i talked …
+officer: what time did that
+[indiscernible] at roughly?
+blake: that was around 6:30. and that’s
+when i talked to chantel. that’s when i found out from her. because she was
+sleeping. but i woke her up. and i said like, i wanted to hear her point of
+view. because i had angie’s. so i wanted to hear what was going on from her.
+and then he came upstairs around, i wanna say eight o’clock, nine o’clock. and
+he, um, he asked me if i knew what happened and i was like, yeah. i was like, what
+do you want me to say? like, you’re a fucking idiot. like, if they question me,
+like i’m gonna tell them the truth, type thing. and um, he, uh, he had a couple
+friends come over. um, i don't know them, but it was just, it was just people.
+um, i’m assuming he was trying to cover it up, trying to get things situated.
+but i didn’t have any involvement in that. i didn’t leave my room, didn’t
+really hear anything. i heard he told, he told someone about what happened. i
+didn’t see the person, cause it’s hard to explain, cause you didn’t go inside,
+but it's like when you come outta my room, you look in the kitchen at the back
+door, there’s like a pillar. like the doorway. so i couldn’t see him,
+but i could see my dad explaining it and i could hear …
+officer: what was he saying?
+blake: just saying that he shot him, like
+he shot him in the face.
+officer: he was telling the person that he
+shot him in the face.
+blake: yeah. i don’t know who the person
+was, but he was telling someone. it was one of his friends.
+officer: was he like detailing what it,
+what it, what had happened?
+blake: he said that he shot him in cheek,
+went through and up through his ear. i don’t, he seemed kind of proud about it,
+but that’s why i’m being completely truthful. i, it doesn’t [indiscernible] …
+officer: i can’t tell you how, how much we
+appreciate, uh, you telling the truth. um, because it just makes it easier for
+everybody. easier on you, easier on us. even ultimately easier on your dad in
+the sense that you, you know, you’re not getting into these lies, trying to
+spin stories or anything like that. i mean, it’s, it’s, it’s one of those
+things where the truth is always gonna be the best, the best route, right?
+blake: he’s my dad. like, i get the whole
+protecting, but there’s nothing to protect. like, this was just a very stupid
+decision he made. and i knew that eventually he was gonna end up in jail or
+dead. so i just, i’d rather him be in jail right, can at least still see him.
+but, it is what it is.
+
+blake appeared calm and coherent when speaking
+to the police. he exhibited no signs of distress or discomfort. he freely
+shared his account without pointed examination by the police.
+the recantation
+
+blake testified about the visitors that attended
+his home during the evening after the alleged shooting. the visitors went to
+the back porch with the accused. blake was in his bedroom at the time. he could
+hear and see the accused speaking with the visitors through a closed kitchen window.
+his bedroom was about ten feet from the kitchen, and the kitchen itself was
+about eight or ten feet wide.
+
+the accused was standing about a metre from the window.
+
+when asked what the accused said, blake testified:
+i heard his tone of voice. i could hear
+mumbling and like i could hear his voice, but i couldn’t make out exactly what
+he was saying. i picked up some words through the glass window in our kitchen.
+when asked what words he heard, blake testified:
+nothing specific, like, “the” and, “at”.
+after refreshing his memory, blake backtracked
+further:
+i heard his voice, but i didn’t pick up any
+words. i was going based off what i had heard from other people that day, and
+based on his hand gestures, not his hand gestures, his motions. i didn’t hear
+specific words.
+
+i permitted the crown to cross-examine blake on
+the recantation under s. 9(2) of the
+canada evidence act. the crown put
+to him that his initial recounting of the accused’s confession was
+unequivocal—he did not tell the police that he assumed or inferred that the
+accused was confessing. blake responded:
+the statement i made there [to the police]
+and the statement i gave you [in court] was a clarified version of what i
+meant, and i understand that i didn’t say “i think” or “i assume”, but that is
+what i meant by “i misspoke” in that statement. that day was a very rough day
+and if i forgot to say, “i think”, i apologize. but that’s what i meant by
+today when i told you i misspoke, and that’s what i actually meant.
+…
+i could hear [the accused’s] voice, but not
+his words, which is what i said earlier, which is what i should have told the
+detective, but it was a pretty busy day.
+
+blake agreed with defence counsel’s suggestion
+that he recounted to the police the information he received from angie and
+chantel, and not what he heard from the accused. when asked by the crown why he
+had attributed such specific comments to the accused, blake explained:
+the information i got from that about [the
+bullet] going through the cheek and the ear is what i heard from chantel.
+that’s what she told me. that’s why it seems so exact or seems a little
+specific.
+b.
+necessity
+
+blake recanted hearing the accused’s confession.
+his police statement is inconsistent with his trial evidence. defence counsel
+rightly conceded that necessity is established. as the majority held in
+b.(k.g.)
+at 799:
+… the recanting witness holds the prior
+statement, and thus the relevant evidence, “hostage”. the different “value” of
+the evidence is found in the fact that something has radically changed between
+the time when the statement was made and the trial and, assuming that there is
+a sufficient degree of reliability established under the first criterion, the
+trier of fact should be allowed to weigh both statements in light of the
+witness’s explanation of the change.
+c.
+procedural reliability
+
+when assessing procedural reliability, the court
+must assess whether the trier of fact can meaningfully choose between
+explanations for the hearsay statement through adequate substitutes for
+contemporaneous cross-examination. “[p]rocedural reliability is concerned with
+whether there is a satisfactory basis to rationally evaluate the statement”:
+bradshaw
+at para.
+40. if there is, the trier of fact at the end of trial will decide whether
+to ultimately rely on the hearsay statement:
+khelawon
+at para.
+50.
+
+the traditional safeguards—a video recording, an
+oath, and a warning about lying—are not essential preconditions to admission of
+a prior inconsistent statement. each case requires a contextual analysis. for
+example, there can be sufficient substitutes for the oath:
+b.(k.g.)
+at 796,
+805.
+
+an essential precondition is the full
+opportunity to cross-examine the declarant. “the most important factor
+supporting the admissibility of a prior inconsistent statement of a non-accused
+witness for the truth of its contents is the availability of the non-accused
+witness for cross-examination”:
+youvarajah
+at para.
+35. the supreme
+court has held that availability for cross-examination “goes a long way to
+satisfying the requirement for adequate substitutes” and that “the opportunity
+to cross-examine is the most powerful factor favouring admissibility”:
+couture
+at paras.
+92, 95; see also
+b.(k.g.)
+at 794-795.
+video recording
+
+the entire statement is recorded by video and
+audio. blake is well-positioned in the frame. the quality of the recording is
+sufficient. blake’s demeanour and reactions are easily observed.
+cross-examination
+
+blake is available for complete and meaningful
+cross-examination. this point is readily established by the cross-examination
+thus far. counsel already elicited blake’s explanation for the hearsay
+statement. counsel also elicited evidence through blake that could undermine
+whether he was positioned to hear the accused’s alleged confession. it is evident
+that blake is willing and able to give thoughtful answers to questions.
+
+blake’s availability for cross-examination is a
+powerful factor that favours admitting the statement. his evidence, considered in
+conjunction with the full trial record, will give the trier of fact a
+satisfactory basis to rationally evaluate his hearsay statement.
+oath and warning
+
+blake was not put under oath or solemn
+affirmation before giving his statement. he was not warned about the consequences
+of lying.
+
+the substance of these safeguards was nevertheless
+in place. it is preferable that the police put a witness under oath and provide
+certain warnings. but more important is that blake understood the solemnity of
+the occasion. i am entitled to consider blake’s testimony on this issue:
+r. v.
+devine,
+2008 scc 36
+at para.
+28;
+r. v. trieu,
+2005 canlii 7884
+(ont. c.a.) at paras.
+84-87. there was
+no challenge to blake’s testimony that he was truthful with the police, he
+understood the consequences of lying, he knew that his statement would have
+consequences for the accused, he knew that his statement was being recorded, and
+he knew that his statement would be used as evidence in the police
+investigation.
+circumstances of obtaining the statement
+
+i must also consider the circumstances of the
+statement to ensure that it was made voluntarily and that its admission would
+not bring the administration of justice into disrepute:
+b.(k.g.)
+at 803.
+
+
+defence counsel argued that blake was unlawfully
+detained when he gave his statement. in my view, it is essential to not turn a
+hearsay application into a full-scale detention analysis under s. 9 of the
+charter.
+the lens under s. 9 is different and broader. the purpose of s. 9 is to protect
+individual liberty interests from unjustified state inference:
+r. v. grant,
+2009 scc 32
+at para.
+17. the section protects those interests separate and
+apart from whether the person gives a statement. by contrast, in a hearsay
+application there is no rationale to consider a declarant’s liberty interests unless
+they bear on the reliability of their statement.
+
+multiple aspects of a detention analysis are not
+material to the hearsay application. for example, the focus on police conduct that
+is central to a detention analysis (
+grant
+at para.
+31
+) is misplaced in a
+hearsay analysis. similarly, the broad examination of the entire interaction
+between the individual and the state (
+r. v. lafrance,
+2022 scc 32
+at
+paras.
+31, 33) is less germane than the circumstances at the time of the statement.
+extending the hearsay analysis to include detention issues would vastly expand the
+evidentiary scope of a hearsay application. the
+voir dire
+could overtake
+the trial: see
+bradshaw
+at para.
+42.
+
+in this case, blake chose to share his account
+with the police. the video of the statement reveals a free-flowing
+conversation. the police told him that he was not detained, not under arrest,
+and not in any trouble. he drank water and used the washroom before starting
+the interview. he disclosed the accused’s alleged confession without the police
+asking probing questions. he knew that the police were investigating the
+accused. the statement is by all accounts voluntary. these circumstances are
+sufficient to warrant admission under the
+b.(k.g.)
+framework.
+
+even if the hearsay application does include an
+embedded detention analysis, there is no basis to find that blake was detained.
+a person is only detained “when the deprivation of liberty may have legal
+consequences”:
+grant
+at para.
+29. from the limited evidence on this
+issue, i find that the police only treated blake as a witness. he was never
+singled out for investigation. he was not interrogated. he was “invited” to
+leave his home. the police did not occupy an adversarial role as against him:
+grant
+at para.
+36. “[i]nformation gathering in a non-adversarial context lacks the
+essential character of a section 9 detention”:
+r. v. folker,
+2016 nlca 1
+at para.
+16. blake was only “detained” in the sense that he was “kept
+waiting”:
+r. v. mann,
+2004 scc 52
+at para.
+19.
+
+i acknowledge that the process of being transported
+to the station and waiting to give his statement might have been unsettling for
+blake. even if the video seems to show a calm and collected young man, it does
+not foreclose that blake felt worried and anxious. still, there is nothing in
+the circumstances of this statement that compromises the probative value of the
+evidence or that would cause its admission to bring the administration of
+justice into disrepute.
+conclusion on procedural reliability
+
+i am satisfied that the crown has established
+the procedural reliability of blake’s statement on a balance of probabilities.
+the trier of fact has sufficient tools to assess the truth and accuracy of the
+statement and consider how it compares to blake’s in-court testimony. procedural
+reliability is sufficient, on its own, to establish the threshold reliability
+of the statement. there is no need to examine whether the substantive
+reliability factors would tip the balance in favour of admission:
+r. v. t.r.,
+2007 onca 374
+at paras.
+22-23.
+d.
+probative value and prejudicial effect
+
+having found that the crown established the
+threshold reliability of blake’s statement, the defence opposes admission on
+the basis that its prejudicial effect outweighs its probative value: see
+bradshaw
+at para.
+24;
+khelawon
+at para.
+49. this analysis requires me to
+consider
+whether the evidence is
+worthy of being heard by the trier of fact but does not involve wading into the
+ultimate question of whether the evidence should be accepted and acted upon:
+r.
+v. hart,
+2014 scc 52
+at para.
+98.
+
+defence counsel primarily advances two related
+arguments. first, blake initially discussed the alleged incident with angie and
+chantel, which tainted his purported account of hearing the accused confess to the shooting. second, blake was not in a physical position
+to hear the accused allegedly confess. these are valid points to consider when
+analyzing the probative value versus prejudicial effect of a hearsay statement:
+gourlay, matthew, et al.
+modern criminal evidence. toronto: emond
+montgomery, 2022 at 197-198; see also
+r. v. humaid,
+2006 canlii 12287
+(ont. c.a.) at para.
+57.
+
+i am satisfied that the probative value of the statement outweighs its prejudicial effect. the
+statement sufficiently assists in proving the accused’s identity as the shooter
+when balanced against any distortion to the trial process caused by the
+statement’s admission. i decline to invoke my discretion to exclude the
+statement.
+
+tainting does not raise a significant concern at
+the admissibility stage in this case. blake’s statement does not suggest that his
+recounting of the accused’s confession was influenced by earlier conversations.
+even if the police did not instruct blake to confine himself to things that he
+personally saw and heard, the statement shows that blake chose his words
+carefully. he told the police when he was sharing an assumption (“
+i’m
+assuming
+he was trying to cover it up”). he shared that he received the
+perspectives of angie and chantel. he indicated uncertainties (“he
+seemed
+kind of proud of it”). and when it came to recounting the confession, he squarely
+put the words in the accused’s mouth: “
+i could see my dad explaining it
+and i could hear … just saying that he shot him, like he shot him in the face.
+…
+he said that he shot him
+in cheek, went through and up through his ear”).
+
+i appreciate that a person can be subconsciously
+influenced by things they heard from others. the prejudicial effect here is moderated
+by blake’s testimony that he mistakenly attributed the confession to the
+accused. the tainting argument would be harder to advance if blake refused to
+acknowledge the possible influence of earlier conversations. in that situation,
+blake’s statement might have distorted the fact-finding process. but the trier
+of fact will benefit from the complete trial record to decide whether blake
+heard the confession from the accused, and if so, what weight to afford it.
+
+as for whether blake could have heard the confession
+given the distance and closed window between him and the accused, that is a
+trial issue. it is not so implausible that blake could have heard the
+confession such that the probative value of the evidence is outweighed by its
+prejudicial effect. even when he recanted hearing the confession, blake
+initially maintained that he could hear the accused utter some specific words.
+vi
+conclusion
+
+the complainant’s statement is not admissible.
+blake’s statement is admissible.
+released: march
+14, 2025
+signed:
+justice davin m.k. garg
+
+i use blake dimillo’s first name to distinguish him from others in his family.
+
+while the complainant initially referred to the location as a
+“shed”, the statement as a whole establishes that he was referring to the
+trailer.
+
+the reports from the cfs say that the dna results are
+estimated to be greater than one trillion times more likely if the respective
+profiles originated from the complainant and the accused than if they originated
+from unknown people unrelated to them. but the expert had no issue converting
+the “one trillion times more likely” estimation to a certainty. defence counsel
+did not argue in submissions that the dna might have been deposited by someone
+else.
+
+defence counsel points to passages in the complainant’s
+statement to support this argument.
+
+i previously ruled that the complainant did in fact make the
+police statement at issue. implicit in this finding is that the complainant was
+dishonest when he testified that someone else made the statement. it is not
+plausible that the complainant genuinely forgot about making the statement.
+
+i draw this fact from blake’s statement. defence counsel confirmed during
+submissions that i could consider the entire statement when assessing the
+application.
+
+i took the “someone else” to refer to accused and the “something bad” to refer
+to unwarranted charges and a deprivation of liberty.
+
+blake’s grandmother confirmed the layout of the house in her
+testimony.
+
+these issues can be examined when considering the probative
+value and prejudicial effect of the statement. i do not see any material
+difference in this case from examining these issues here.

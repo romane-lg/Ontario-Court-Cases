@@ -1,0 +1,617 @@
+source url: https://www.canlii.org/en/on/oncj/doc/2025/2025oncj537/2025oncj537.html
+
+warning
+the court hearing this matter directs that the following notice be
+attached to the file:
+a
+non-publication and non-broadcast order in this proceeding has been issued
+under
+subsection 486.4(2.1)
+of the
+criminal code.
+this subsection and
+subsection 486.6(1)
+of the
+criminal code,
+which is concerned with the
+consequence of failure to comply with an order made under
+subsection 486.4(2.1),
+read as follows:
+486.4 victim
+under 18  —  other offences
+(2.1) subject to subsection (2.2), in proceedings in respect of an
+offence other than an offence referred to in subsection (1), if the victim is
+under the age of 18 years, the presiding judge or justice may make an order
+directing that any information that could identify the victim shall not be
+published in any document or broadcast or transmitted in any way....
+486.6 offence
+(1) every person
+who fails to comply with an order made under any of subsections 486.4(1) to (3)
+or subsection 486.5(1) or (2) is guilty of an offence punishable on summary
+conviction.
+ontario court of justice
+citation:
+r. v. burgess, 2025 oncj 537
+date: 
+2025 10 16
+court
+file no.: hamilton 998 24 47103185
+between:
+his
+majesty the king
+— and
+—
+derek
+burgess
+reasons
+for judgment
+before
+justice davin m.k. garg
+heard
+on august 21, 25, and october 16, 2025
+reasons
+released on october 16, 2025
+raymond woloshyn-chick.............................................................. counsel
+for the crown
+lucas triemstra................................................. counsel
+for the accused derek burgess
+garg j.:
+overview
+
+the accused, derek burgess, is on trial for
+allegedly assaulting his girlfriend’s young son.
+
+he faces four charges: one count of assault by choking and three counts of
+common assault. it is alleged that the accused picked the complainant up by his
+neck, threw him onto a bed, and forced his head into a pillow. the other counts
+arise from allegations that the accused slapped the complainant on the back,
+face, and legs on separate occasions, and kicked his leg one time. the only
+issue for me to decide is whether the crown has proven beyond a reasonable
+doubt that the accused intentionally committed the acts described by the
+complainant.
+
+these reasons explain why the crown has met its
+burden on all counts.
+legal principles
+
+the crown bears the onus of proving each and
+every element of the offences charged beyond a reasonable doubt. the accused
+carries no onus to prove or disprove anything. he is presumed innocent of all
+charges. the burden of proof never shifts to the accused. it is not enough for
+me to believe that the accused is probably or likely guilty of an offence. in
+that situation, i would need to acquit. while the crown is not required to
+prove its case to an absolute certainty, proof beyond a reasonable doubt falls
+much closer to an absolute certainty than the balance of probabilities. it is
+an exacting standard unique to the criminal process. reasonable doubt can arise
+from the evidence or from the absence of evidence. furthermore, the crown must
+prove each charge independently. the facts only relevant to one charge do not
+assist in proving the other.
+
+the accused did not testify in this case. i draw
+no adverse inference from this decision. there is nevertheless exculpatory
+evidence before me, and therefore the
+w.(d.)
+principles apply. the
+defence called the complainant’s mother. she testified that the accused never
+assaulted her son. on the complainant’s account, she would have been present
+for at least some of the alleged assaults. she also would have been around to potentially
+see any resulting injuries. i must acquit if i accept the mother’s evidence that
+the assaults did not occur or if her evidence leaves me in doubt. the overriding consideration is whether the full evidentiary record leaves
+me with any reasonable doubt about the accused’s guilt: see
+r. v. thomas,
+2012 onsc 6653
+at para.
+24. any evidence favourable to the accused must be
+considered with the conflicting evidence as a whole. the
+w.(d).
+analysis
+ensures that my verdict is not based on a choice between the crown evidence and
+the defence evidence: see
+r. v. a.j.k.,
+2022 onca 487
+at para.
+22.
+
+the complainant is a child. his statement to the
+police was admitted into evidence on consent pursuant to
+s. 715.1
+of the
+criminal
+code. he was 10 years old when he gave his statement and 11 years old when
+he testified in court. i must assess his evidence with reference to criteria
+appropriate to his mental development, understanding, and ability to
+communicate. the complainant’s youth was evident during the statement. at one
+point, the police officer taking his statement stepped out of the room; upon
+returning, she found the complainant hiding underneath the couch. i must take a
+“common sense approach” when assessing the testimony of children and not impose
+“the same exacting standard” on a child as i might on an adult:
+r. v. b.(g.),
+1990 canlii 7308 (scc), 2 s.c.r. 30 at 54-55;
+r. v. w.(r.),
+1992 canlii 56 (scc), 2 s.c.r. 122 at
+133-134. “while children may not be able to recount precise details and
+communicate the when and where of an event with exactitude, this does not mean
+that they have misconceived what happened to them and who did it”:
+b.(g.)
+at 54-55; see also
+r. v. d.f.,
+2023 onca 584
+at paras.
+63-69.
+
+to be certain, the standard of
+proof is not lower in cases that rely on a child witness. guarding against the
+injustice of a wrongful conviction demands a robust evidentiary foundation
+before returning a guilty verdict.
+analysis of the defence evidence
+
+the complainant’s mother testified that the
+accused was her former partner and that he lived with her approximately 70–80%
+of the time during the relevant months when her son was in her care. she
+described herself as a protective mother and denied ever witnessing the accused
+assault the complainant. she stated that she would never permit anyone to harm
+her child and insisted that the accused treated the complainant well, often
+playing with him and assisting with discipline. she testified that she never
+observed bruising or redness on the complainant during her parenting time. she asserted
+that the allegations of abuse were fabricated with pressure from the
+complainant’s father amid a contentious custody dispute.
+
+i do not accept the testimony of the
+complainant’s mother. i find that she was not a credible or reliable witness on
+the material issue of whether the accused abused the complainant.
+
+there was a significant inconsistency in the
+mother’s evidence concerning her relationship with her son. during her
+examination in-chief, she portrayed them as a close team who did everything
+together and described him as “just a good all-around kid”. she described their
+relationship much less optimistically when speaking to the police. she
+acknowledged that her son slapped her, raised his fists at her, and even
+treated her “like garbage”. the inconsistency is stark. i find that she tried
+to suppress this negative characterization of their relationship during her
+examination in-chief.
+
+this inconsistency matters because it informs
+how she might have perceived the accused’s conduct toward her son. the evidence
+revealed that she greatly valued the accused’s presence in the home because he
+supported her in managing her son’s behaviour. she acknowledged that her son’s
+conduct improved after the accused entered the home and that she was relieved
+to finally have someone on her side. while this does not necessarily mean that
+she deliberately ignored abuse, it undermines the reliability of her assertion
+that no abuse occurred. she could have seen what she wanted to see by focusing
+on the help the accused was providing to regulate her son. she may have
+minimized or rationalized physical aggression as legitimate discipline. for
+example, she emphasized verbal interventions such as “go to your room and
+listen to your mother” yet conceded that the accused physically carried the
+complainant to his bedroom when he refused to comply. this selective framing
+suggests a willingness to downplay conduct that crossed the line from
+discipline to violence. that finding is not inconsistent with the evidence that
+she loved her son. affection and vigilance are not synonymous; a parent can
+care deeply yet still minimize or rationalize conduct that crosses the line.
+
+i also found it concerning that the mother was
+testifying because she needed to clear her name. she explained that she was
+testifying “to stand up for myself, to defend myself and, and to let everyone
+know that i would never, i would never allow anyone to touch my son”. yet the
+mother was not the one on trial. her comment suggested a personal motivation
+that may have influenced the reliability of her testimony and calls into
+question whether she was committed to sharing her genuine recollection of
+events.
+
+even if i accepted the mother’s testimony, it
+would not preclude a guilty verdict on some counts. on the record before me, it
+remains plausible that the accused could have committed some of the alleged assaults
+without the mother noticing. but i need not resolve that hypothetical. given
+the flaws i have identified, her testimony does not leave me in doubt about
+whether the offences occurred or could have occurred.
+analysis of the crown’s case
+
+the defence argues that the complainant’s
+evidence lacked reliability and credibility on account of inconsistencies. the
+defence argues further that the complainant intentionally coloured his evidence,
+was impeached on fundamental elements of the allegations, and made bald
+assertions without sufficient detail.
+
+i disagree. i accept the complainant’s evidence.
+i find that he was credible witness who gave reliable evidence about being
+assaulted by the accused.
+inconsistencies
+in describing the assaults
+
+the defence focused during cross-examination and
+in its written submissions on purported inconsistencies in how the complainant
+recounted the choking incident. in his police statement, the complainant stated
+that he was having trouble sitting down during dinner. the accused responded by
+grabbing him by the neck with both hands, lifting him off the ground, and
+carrying him from the kitchen to his bedroom. the accused then threw him onto
+the bed, pressed his head into a pillow, and continued choking him for about
+ten seconds, making it difficult to breathe. the complainant recalled crying
+during the incident and said his mother was present but did nothing.
+
+the defence suggested that the complainant’s
+account—even within his police statement—was internally inconsistent and
+inherently implausible.
+
+i see no such flaw. even if the complainant were an adult, it would be
+unrealistic to expect flawless narration from the person involved in a dynamic
+and apparently traumatic event. human memory does not operate like a video
+recording.
+
+the defence emphasized that the complainant
+walked back the choking allegations during his testimony.
+
+i reproduce the passage in
+question:
+q. so i’m going to
+suggest that you’re actually telling a story that’s not really, it’s not really
+matching up with, with one another, okay? that you had described being thrown
+and placed on the bed in multiple ways, okay? i’m going to suggest to you that
+the way you’re describing this, they, they can’t all be true, okay? and really
+what i’m suggesting [to you], is that [the accused] never threw you on the bed.
+at, at no point in time did [the accused] actually throw you onto the bed?
+isn’t that right?
+a. kind of.
+
+contrary to counsel’s argument, the
+complainant’s answer was not devastating to his credibility or reliability. his
+“kind of” response must be examined in context. it followed a lengthy question
+with multiple parts. the subsequent testimony established that the complainant
+was not resiling from his description of the choking incident:
+q. i, i am
+suggesting to you that, in fact, [the accused] never threw you on the bed? that he’s never thrown you on the bed
+and i believe that you answered my question by saying “maybe”? is that right?
+a. no.
+…
+q. i’m going to suggest that you used your
+own two feet to walk to your room and eat that night?
+a. no.
+…
+q. i’m suggesting even further that he
+never grabbed your neck like you’ve described and pushed it into the pillow,
+okay? i’m, i’m going to suggest to you, would you agree that he didn’t do that?
+a. no.
+…
+q. i’m going to suggest you, you actually
+don’t recall and you don’t have the memory of [the accused] throwing you on the
+bed, or of [the accused] picking you up and choking you? would you agree with
+that?
+a. no.
+
+the complainant’s greater difficulty in recounting
+events at trial as compared to his police statement does not undermine my
+assessment of his credibility or reliability. his answers were not so limited such
+that cross-examination was illusory, and he provided additional detail on the
+second day of trial when testifying by cctv. it is unsurprising that his police
+statement was more comprehensive. one rationale for admitting such statements
+under
+s. 715.1
+is that they are given closer in time to the events and in
+circumstances more conducive to disclosing difficult details.
+
+a notable example of added detail at trial
+concerned the accused pushing the complainant’s head into a pillow.
+
+in his police statement, the
+complainant imprecisely demonstrated the accused’s motions and did not say
+exactly where the accused placed his hands. at trial, defence counsel suggested
+that the accused’s hands were on the back of the complainant’s head. the
+complainant firmly but fairly disagreed, explaining: “i don’t think, i don’t
+think it was the back of my head … he lifted my head up and then put me on my
+pillow, like, like with the side of my head”.
+
+the precise location of the accused’s hands is not material, but the
+complainant’s approach—reflecting on what he remembered and candidly qualifying
+his answer—showed maturity and a genuine effort to be accurate. i found the
+complainant’s testimony on this issue to be compelling. it enhanced his overall
+credibility and reliability.
+
+finally, the defence points to crown counsel’s
+question in re-examination—“do you remember talking about the incident where
+you were slapped in the face about five times?”—and the complainant’s equivocal
+answer, “kind of”. the difficulty is that the complainant never alleged five
+face slaps in a single incident. that detail only appears in his police statement
+in relation to slaps on his legs while playing video games. however, the
+misstatement originated in the phrasing of the crown’s question, not in the
+complainant’s evidence. his response was ambiguous and does not amount to an
+adoption of that statement. if anything, his response reflects an attempt to
+reconcile the accurate and inaccurate components of the question. the
+complainant’s core account remained consistent: two face-slapping incidents and
+one leg-slapping incident.
+ability to hide in the closet
+
+the complainant gave conflicting accounts about
+whether he could fit in the closet at his mother’s apartment. in his police
+statement, he said that he did not hide in the closet because it was too small.
+during cross-examination, he admitted that he could fit in the closet if he
+wanted to.
+
+i must carefully consider whether this inconsistency
+demonstrates a flagrant or careless disregard for the truth that undermines the
+complainant’s overall credibility. i find that it does not. the inconsistency
+relates to a peripheral matter. the complainant never linked the closet’s small
+size to an inability to hide from the accused and thereby avoid the alleged
+assaults. he testified that some of the assaults caught him by surprise. and
+for those where the complainant did hear the accused yelling in advance, it is
+unclear how hiding in the closet would have helped him. the defence submits
+that the complainant fabricated the idea of trying to hide during his police
+statement to fill a gap in his account. i do not accept that submission. the
+complainant’s reference to hiding was brief, undeveloped, and did not appear to
+be an effort to repair a deficiency. in short, the closet was not presented as relevant
+to the narrative of abuse. i do not know why the complainant told the police
+one thing and the court another, but i am satisfied that the complainant was not
+attempting to deceive the officer. this issue does not affect my overall assessment
+of the complainant’s credibility on the material points.
+relationship with the
+accused
+
+i find the complainant’s relationship with the
+accused—beyond the alleged assaults—to be immaterial. the defence elicited
+evidence of when the complainant appeared to enjoy the accused’s company and
+confided in him. the implicit logic is that such trust and apparent happiness
+are incompatible with the alleged assaults. i do not agree with that reasoning.
+i do not know whether the complainant’s happiness was genuine during those
+moments. even if it were, it is not inconsistent to maintain closeness with
+someone who is also causing harm. a video clip of the complainant smiling and
+laughing is not a reliable barometer of what happened in the home.
+presence and absence of injuries
+
+the evidence establishes that the complainant
+sustained a bruise to his leg during the relevant period. i accept the evidence
+of the complainant and his father on this issue. in his police statement, the
+complainant said that the accused kicked him on the right leg while he was
+sitting on the side of his bed. he described the kick as leaving a red mark
+immediately, which turned purple a few days later. he rated the force as “maybe
+like a six or a five” out of ten compared to a soccer kick. at trial, he confirmed
+that the kick was to his thigh while his feet were on the ground and his legs
+bent at a 90-degree angle, though he could not describe precisely how the foot
+made contact. the complainant’s father testified that in mid to late february
+2024, the complainant showed him a “fairly good-sized” bruise on his leg—he
+believed the left leg but was uncertain.
+
+
+the bruise lends some support of the
+complainant’s account, though i do not put too much weight on it. the
+complainant was an active young boy who played soccer regularly, making it
+possible that the bruise resulted from a cause unrelated to the accused.
+despite this caution, the size, colour, and timing of the bruise are broadly
+consistent with his description of being kicked by the accused. i find that the
+bruise gives me a measure of added confidence in the credibility and
+reliability of the complainant’s evidence: see
+r. v. h.p.,
+2022 onca 419
+at para.
+71.
+
+the absence of other significant injuries does
+not diminish the credibility or reliability of the complainant’s account. he
+testified that he noticed some redness on his face after being slapped but
+observed no marks or bruising elsewhere, including after the choking incident. i
+do not accept the submission that common sense dictates he would have suffered
+visible injuries.
+
+the assaults he described are not of a kind that would necessarily leave lasting
+or obvious marks, even if the slaps to the face were delivered sharply and with
+enough force to make an audible sound. nor can i say that the choking described
+ought to have resulted in bruising. the fact that other people, such as his
+father, school staff, or members of the public, did not notice or react to any
+redness is immaterial. these were relatively minor effects, and i would not
+expect them to draw attention. accordingly, the lack of observable injuries
+does not introduce doubt about whether the assaults occurred.
+
+finally, the fact that the complainant’s mother did
+not see any injuries does not impact my assessment. i have already explained why
+i do not accept her testimony and that it does not leave me in doubt.
+motive to fabricate
+
+the defence submits that the allegations were
+fabricated for strategic reasons connected to family dynamics. counsel argues
+that the complainant’s father had a strong incentive to secure full custody and
+viewed allegations of abuse as a “sure-fire way” to achieve that goal.
+
+the father allegedly coached the
+complainant or influenced him by portraying the accused as dangerous and
+unsuitable for his mother. the defence also contends that the complainant
+himself had motives: he disliked the accused’s paternal role in enforcing
+rules, did not want his mother to continue her relationship with the accused,
+and preferred living full-time with his father. the complainant acknowledged
+that reporting abuse could lead to his mother and the accused separating. the
+defence submits that these factors, taken together, provided a plausible motive
+for fabrication.
+
+i accept that the father bore animus toward the
+mother and wanted to change the parenting regime in his favour. he gratuitously
+called the mother a “narcissist”—this characterization was untethered to any
+factual foundation in the evidence. he acknowledged exploring a shift to full
+custody months before the allegations surfaced, and he was the one who brought the
+complainant to the police.
+
+in my view, however, the record does not show that
+the father’s animus translated into coaching or contamination of the
+complainant’s core allegations. the father testified that he learned details
+only after the complainant had already disclosed incidents to a cas worker.
+that sequence—disclosure to child protection first, then to the
+parent—undercuts a theory that the account originated from or was scripted by
+the father. the police interview occurred away from the father and was
+conducted by an officer using open
+‑
+ended prompts to draw out
+the complainant’s allegations. the discrepancy between the complainant and his
+father as to which leg bore the bruise also weakens the coaching theory. the
+father’s evidence on this point did not carry the hallmarks of collusion; it
+was hesitant and almost casual, not the kind of account one would expect from a
+story crafted for his son to repeat:
+so he showed me his leg. i think it was his
+left leg, i’m not 100 percent sure on it. i mean, the details are a little bit
+fuzzy and if i had known something was going on at that point, i’m sure i would
+have made more of a mental note …
+
+the complainant’s evidence reflects the
+characteristics of an uncoached, child
+‑
+centred account. his
+statement included mundane detail (e.g., his gaming habits) and candid
+admissions of not remembering peripheral matters. he did not immediately
+volunteer allegations against the accused; rather, the officer had to elicit
+them gradually. when allegations emerged, he qualified suggestions and
+offered measured responses.
+
+these features, coupled with the absence of sweeping accusations, are
+inconsistent with a rehearsed narrative and instead reflect the uneven recall
+typical of a child witness. when he testified months later, he adopted his
+statement but remained cautious on points he could not recall, reinforcing my
+impression of his sincerity.
+
+while the lack of embellishment is not a
+makeweight in favour of credibility, it is a relevant factor when assessing a
+claimed motive to fabricate:
+r. v. gerrard,
+2022 scc 13
+at para.
+5.
+
+the complainant did not overstate
+his injuries. he agreed there were no bruises on his face and no marks on his
+neck from the choking incident; he spoke only of transient redness. he
+described a single kick to the leg that left a bruise and rated the force as
+moderate, not maximal. this restraint, particularly from a young complainant, militates
+against an account fabricated to serve ulterior objectives.
+
+the complainant may have wished for his mother
+and the accused to separate. that possibility is neither surprising nor
+sinister in the context of a blended family. what matters is why he held that view. on re
+‑
+examination,
+when asked why he did not want his mother dating the accused, the complainant’s
+answer was unqualified: “because what he did to me.” that response was anchored
+in the alleged conduct, not in a desire for more time with his father or a general
+dislike of the accused. i accept that evidence. it was credible.
+
+in conclusion, i do not find that the
+complainant acted on any motive to fabricate. i am not,
+however, making a positive finding that he had no motive to fabricate. motives
+can remain hidden or there may be no motive at all:
+r. v. bartholomew,
+2019
+onca 377
+at para.
+22. there is no burden on the accused to prove a
+motive to fabricate or to disprove that the complainant had no motive to
+fabricate:
+r. v. s.s.s.,
+2021 onca 552
+at para.
+38. i
+do not use the absence of motive to fabricate as a makeweight in favour of the
+complainant’s credibility; see also
+r. v. r.k.,
+2023 onca
+653
+at para.
+46.
+credibility
+findings
+
+in summary, i find the complainant to be a
+credible witness who gave reliable evidence about the assaults. while his
+account was not always rich in detail, the level of specificity he provided was
+proportionate to his age and developmental stage. the complainant is a young
+boy of few words, but i do not require a tapestry of detail to be satisfied
+that these events occurred. the complainant’s candour, which included his
+willingness to acknowledge what he could not remember, enhanced his credibility:
+see
+r. v. cordeiro,
+2024 onca 868
+at para.
+14. his inability to
+recall certain details does not prevent me from accepting the core of his
+testimony: see
+r. v. a.a.,
+2023 onca 174
+at para.
+17. on the essential
+points, the complainant adhered to the account he gave in his police statement
+and was not materially dislodged in cross
+‑
+examination.
+having considered both the individual and cumulative effect of the defence
+challenges, i am satisfied that they do not undermine his credibility or
+reliability.
+conclusions
+
+i accept the complainant’s evidence. having
+considered the entire evidentiary record, including the exculpatory evidence
+from the complainant’s mother and the absence of other injuries, i am not left
+with reasonable doubt. rather, i am satisfied beyond a reasonable doubt that
+the accused committed the assaults in the manner described by the complainant.
+
+the defence acknowledges that this conclusion
+ends the analysis. having accepted the complainant’s evidence, there is no
+dispute that the crown has proven the physical and mental elements of each
+offence beyond a reasonable doubt. there is no suggestion that the accused
+acted unintentionally or with consent. these were not instances of playfighting
+or legitimate discipline. they were assaults, committed in anger or under the
+guise of misguided discipline, typically because the complainant was not
+listening or complying.
+
+on count 1, assault by choking, suffocation, or
+strangulation, i find that the accused choked the complainant when he grabbed
+him by the neck with both hands during dinner and continued to suffocate him when
+he pressed his head into the pillow. the complainant had difficulty breathing
+for about 10 seconds.
+
+the three counts of common assault are unparticularized.
+i attribute the conduct as follows on the consent of the parties:
+
+•
+on count 2, i find that the accused kicked the
+complainant on the leg with sufficient force to leave a bruise.
+•
+on count 3, i find that the accused slapped the
+complainant on his face and legs over three incidents. there were two incidents
+where the accused slapped the complainant in the face with an open hand. in the
+context of one incident, the face slapping followed the accused saying, “why
+are you not listening to me, do what i told you?”
+•
+on count 4, i find that the accused entered the
+complainant’s room, took off his headphones, struck or slapped him on the back,
+and told him it was time to leave. while this assault was relatively minor, it
+nevertheless involved the application of force without consent.
+disposition
+
+i find the accused guilty on all counts.
+released: october
+16, 2025
+signed: justice davin m.k. garg
+
+the use of the accused’s name could not identify the complainant.
+
+the decision of hourigan j.a. was affirmed on appeal to the supreme court of
+canada.
+
+transcript, august 21, 2025, at p. 74 (“i’m going to suggest to you that the
+way you’re describing this, they, they can’t all be true, okay?”).
+
+defence submissions at para. 49.
+
+see also defence submissions at paras. 54-57.
+
+transcript, august 25, 2025, at p. 15.
+
+the discrepancy between the complainant and his father as to whether the bruise
+was to the right or left leg is a minor point, particularly given the father’s
+uncertainty on this detail.
+
+defence submissions at paras. 14-15.
+
+defence submissions at para. 19.
+
+for example, at p. 22 of the statement: “how many times did [the accused] slap
+you? once”.
+
+“[l]ack of embellishment is not an indicator that a witness is more likely
+telling the truth because both truthful and dishonest accounts can be free of
+exaggeration or embellishment. lack of embellishment cannot be used to bolster
+the complainant’s credibility—it simply does not weigh against it. it may,
+however, be considered as a factor in assessing whether or not the witness had
+a motive to lie”.
+
+see the oral submissions on october 16, 2025.

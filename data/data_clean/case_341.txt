@@ -1,0 +1,619 @@
+source url: https://www.canlii.org/en/on/oncj/doc/2025/2025oncj214/2025oncj214.html
+
+warning
+the court hearing this matter directs that the
+following notice be attached to the file:
+a non-publication and non-broadcast order in this proceeding
+has been issued under
+subsection 486.4(1)
+of the
+criminal code.
+this
+subsection and
+subsection 486.6(1)
+of the
+criminal code,
+which is
+concerned with the consequence of failure to comply with an order made under
+subsection 486.4(1), read as follows:
+486.4 order restricting publication
+— sexual offences.
+— (1) subject to subsection (2), the presiding judge or
+justice may make an order directing that any information that could identify
+the victim or a witness shall not be published in any document or broadcast or
+transmitted in any way, in proceedings in respect of
+(
+a
+) any
+of the following offences:
+(i) an
+offence under section 151, 152, 153, 153.1, 155, 160, 162, 162.1, 163.1, 170,
+171, 171.1,172, 172.1, 172.2, 173, 213, 271, 272, 273, 279.01, 279.011, 279.02,
+279.03, 280, 281, 286.1, 286.2, 286.3, 346 or 347, or
+(ii) any
+offence under this act, as it read from time to time before the day on which
+this subparagraph comes into force, if the conduct alleged would be an offence referred
+to in subparagraph (i) if it occurred on or after that day; or
+(
+b
+) two
+or more offences being dealt with in the same proceeding, at least one of which
+is an offence referred to in paragraph
+(a).
+(2)
+mandatory order on application
+— in proceedings in respect of the
+offences referred to in paragraph (1)(
+a
+) or (
+b
+), the presiding
+judge or justice shall
+(
+a
+) at
+the first reasonable opportunity, inform any witness under the age of eighteen
+years and the victim of the right to make an application for the order; and
+(
+b
+) on
+application made by the victim, the prosecutor or any such witness, make the
+order....
+486.6 offence
+— (1) every person who fails to comply with an order made under any of
+subsections 486.4(1)
+to (3) or subsection 486.5(1) or (2) is guilty of an
+offence punishable on summary conviction.
+ontario
+court of justice
+citation:
+r. v. singh, 2025
+oncj 214
+date: 2025 04 17
+court file no.: brampton 24 31101758
+between:
+his majesty the king
+— and —
+gagan ajit singh
+before justice
+christopher k. assié
+heard on april 15, 2025
+reasons for judgment released on april 17, 2025
+mr. moses otim................................................................................... counsel
+for the crown
+ms. victoria struguresco........................... counsel for the accused gagan ajit singh
+c.k. assié, j.:
+introduction
+
+the crown has brought an application
+pursuant to
+s.
+714.1
+of the
+criminal code
+to
+permit the complainant in a sexual assault case to testify remotely by video from
+another province. the defence objects to the application. the defence also raises
+a jurisdictional issue.
+counsel takes the position
+that
+only
+the trial judge (or a case management judge appointed under s.
+551.1
+c.c.
+) has the authority to decide the issue. given that i am not
+the trial judge, the defence submits that i cannot adjudicate the application.
+
+the two questions i must decide are:
+(1)
+is a trial judge or case management
+judge appointed under s. 551.1
+c.c.
+the
+only
+jurist who can
+decide a s. 714.1
+c.c.
+application?
+(2)
+if i conclude i have jurisdiction to
+hear the application, should the crown’s application be granted in this case?
+background
+
+mr. singh is scheduled to be tried in
+the ontario court of justice in brampton on april 23
+rd
+through 25
+th,
+2025. the application was brought before me on april 15
+th
+in ‘plea
+court’ – a catch all court that deals with resolutions and with motions that
+cannot be heard before a justice of the peace.
+
+i am currently not assigned to hear mr.
+singh’s matter. i say ‘currently’ because in this jurisdiction it is common
+for several matters to be assigned to a trial court. as matters are completed
+and a court opens up, trials from other courts are moved before whichever
+jurist is free to hear the case. it may very well be that on april 23
+rd
+i end up being the trial judge. however, as it stands now, the trial
+coordinator has the matter scheduled to begin before a
+per diem
+jurist
+who is not available to hear the application prior to the first day of trial.
+
+the problem with leaving the decision
+to the first day of trial is that either the crown forces the witness to come
+in person, thus obviating the need for the application, or the crown waits
+until the day of trial, and if the application is unsuccessful, seek an adjournment. 
+leaving the decision to a later date would be unhelpful to the parties and to the
+administration of justice.
+do i have jurisdiction to
+decide a s. 714.1
+c.c.
+application if i am not the trial judge?
+
+i asked both counsel to provide me with
+jurisprudence on this point. neither were able to present any caselaw on the
+jurisdictional issue. my own caselaw research was fruitless.
+
+the defence position rests on two
+arguments:
+(1)
+only a trial judge has jurisdiction to
+hear evidentiary applications and s. 714.1
+c.c.
+is effectively an
+evidentiary application.
+(2)
+section 551.3(1)
+c.c.
+provides an
+exhaustive list of issues a case management judge may adjudicate as though they
+were acting as the trial judge. any issue listed in the section is thus within
+the absolute jurisdiction of the case management judge or trial judge. consequently,
+any issue listed in the section may
+only
+be decided by trial judge or
+case management judge.
+
+as to the argument that a s. 714.1
+c.c.
+application is an evidentiary application, i respectfully disagree. a s. 714.1
+c.c.
+application determines the manner in which evidence is presented –
+not its admissibility.
+
+i also have difficulty accepting the
+argument that any issue listed in s. 551.3(1)
+c.c.
+is
+solely
+within the jurisdiction of the trial judge or case management judge. the
+section reads as follows:
+551.3
+(1) in performing their duties before the stage of the presentation of the
+evidence on the merits, the case management judge, as a trial judge, exercises
+the powers that a trial judge has before that stage in order to assist in
+promoting a fair and efficient trial, including by
+(a)
+assisting the parties to identify the witnesses to be heard, taking into
+account the witnesses’ needs and circumstances;
+(b)
+encouraging the parties to make admissions and reach agreements;
+(c)
+encouraging the parties to consider any other matters that would promote a fair
+and efficient trial;
+(d)
+establishing schedules and imposing deadlines on the parties;
+(e)
+hearing guilty pleas and imposing sentences;
+(f)
+assisting the parties to identify the issues that are to be dealt with at the
+stage at which the evidence on the merits is presented;
+(g)
+subject to section 551.7, adjudicating any issues that can be decided before
+that stage, including those related to
+(i)
+the disclosure of evidence,
+(ii)
+the admissibility of evidence,
+(iii)
+the
+canadian charter of rights and freedoms,
+(iv)
+expert witnesses,
+(v)
+the severance of counts, and
+(vi)
+the separation of trials on one or more counts when there is more than one
+accused; and
+(h)
+ordering, in each case set out in subsection 599(1), that the trial be held in
+a territorial division in the same province other than that in which the
+offence would otherwise be tried.
+
+section 551.1
+c.c.
+provides the authority
+for the chief justice, or designate, to appoint a case management judge. the
+case management judge is given the authority to make procedural,
+jurisdictional, and evidentiary rulings that are typically within the exclusive
+jurisdiction of the trial judge. the trial judge is bound by the rulings made
+by the case management judge unless the trial judge is satisfied that it would
+not be in the interests of justice if, for example, fresh evidence is adduced.
+
+the defence points to subsection (a) of
+section 551.3(1)
+c.c.
+the section lists one of the areas a case
+management judge has the authority to address, which is with “assisting the
+parties to identify the witnesses to be heard, taking into account the
+witnesses’ needs and circumstances.” the argument is that since a s. 714.1
+c.c.
+application considers the “witness’ needs and circumstances,” then only a trial
+judge or case management judge can hear the application.
+
+the problem with that argument is it requires
+omitting the first part of the sentence – “assisting the parties to identify
+witnesses to be heard.” i’m not being asked to assist the parties to identify
+witnesses to be heard. i’m being asked to decide
+how
+a witness, who has
+already been identified by one of the parties, may be heard. even if i am
+wrong on that point, the second problem with the argument is the belief that any
+issue that touches a “witness’ needs and circumstances” is the exclusive
+purview of the trial judge or case management judge. section 486.2
+c.c.
+relates to the manner in which a witness in a sexual assault trial may testify
+– behind a screen or by video. it explicitly grants the authority for
+any
+jurist having
+jurisdiction in the judicial district where the proceedings will take place
+to make the decision. simply because an issue is listed
+in s. 551.3(1)
+c.c.
+does not make it the exclusive jurisdiction of a
+trial judge or case management judge.
+
+the opening paragraph of section 714.1
+c.c.,
+states as follows:
+714.1
+a court may
+order that a witness in
+canada give evidence by audioconference or videoconference,
+if the court
+is of the opinion that it would be appropriate having regard to all the
+circumstances, including…
+
+i emphasized the wording of the section
+– “the court.” it does not say “the trial judge.”
+
+the language used in s. 714.1
+c.c.
+is similar to s. 715.235(1)
+c.c., which states:
+715.235(1)
+the court may, with the consent of the prosecutor and the offender,
+allow an offender to appear by audioconference or videoconference for
+sentencing purposes.
+
+section 715.235(1)
+c.c.
+grants
+jurisdiction to the court to permit an offender to be sentenced by video
+conferencing. under section “4(ii) guilty pleas” of
+the practice direction
+of the ontario court of justice
+dated march 31, 2025, titled, “mode of
+appearance for ontario court of justice criminal proceedings,” permission to
+appear by video may be granted by
+any judicial officer
+presiding at a
+prior court appearance or through a written application submitted to the court
+to grant the permission. the authority to permit the offender to appear by
+video is not limited solely to the jurist who hears the plea.
+
+given that the language in s. 714.1
+c.c.
+is identical to s. 715.235(1)
+c.c.
+as it relates to which jurist has
+jurisdiction to decide the issue, i find that i have the jurisdiction to decide
+the remote testimony application even though i am not currently assigned as the
+trial judge.
+
+the defence position on jurisdiction
+becomes even more untenable when section 714.1
+c.c.
+is compared to s.
+486.2
+c.c.
+– a clause that deals with permitting a witness to testify
+from outside the courtroom, including
+via
+video link. section
+486.2(2.1)
+c.c.
+states:
+486.2(2.1)
+an application referred to in subsection (1) or (2) may be made, during the
+proceedings, to the presiding judge or justice or, before the proceedings
+begin, to the judge or justice who will preside at the proceedings or, if that
+judge or justice has not been determined,
+to any judge or justice having
+jurisdiction in the judicial district where the proceedings will take place.
+
+in the case at bar – a case in which the
+witness is a complainant in a sexual assault trial – the crown could have
+brought an application under s. 486.2
+c.c.
+to have the witness testify
+by video link and i
+would
+have the jurisdiction to decide the matter. 
+however, the defence position is because the crown brought the application
+under s. 714.1
+c.c.
+to have the complainant in a sexual assault trial
+testify by video link, i
+do not
+have the jurisdiction to decide the
+matter. i have difficulty accepting that position.
+
+furthermore, there are great practical
+reasons to permit any jurist to hear this type of application. if the trial judge
+has exclusive jurisdiction to decide the application, then either the
+application will wait until the morning of trial or the trial coordinator will
+have to assign a trial judge to hear the application ahead of time. waiting
+until the morning of trial is unworkable. the parties need to know whether
+their witnesses may testify by video or whether they need to travel prior to
+the morning of trial.
+
+having the trial coordinator assign
+jurists ahead of time also causes difficulty to the efficient use of judicial
+resources. trial courts have several trials scheduled for the same day. as a matter
+ends in a courtroom, a trial from another courtroom is moved into that
+courtroom. if all trials with a s. 714.1
+c.c.
+application had to be
+heard by the jurist who decided the application, then that would make it
+impossible to move cases on the morning of trial. currently, the only matters
+that cannot be moved are those with ss. 276/278
+c.c.
+applications
+because s. 278
+c.c.
+explicitly states that those applications
+must
+be heard by the trial judge. given the post-pandemic experience, s. 714.1
+c.c.
+applications have become more routine and requiring jurists seized of routine
+applications would further make the justice system less efficient.
+
+the fact that a s. 714.1
+c.c.
+application can be heard by a jurist other than the trial judge does not limit
+the authority of the trial judge to make revisions to the order. the trial
+judge maintains the ability, as the facts change, to control the trial process
+in their court.
+
+in conclusion, i find that any judge
+having jurisdiction in the judicial district where the
+proceedings will take place to have the jurisdiction to hear an application
+under s. 714.1
+c.c.
+should the witness be permitted
+to testify from another province in this case?
+
+now that i have concluded that i have
+jurisdiction to hear the application, i must decide the merits of the
+application.
+background
+
+mr. singh is charged with sexual assault,
+uttering threats, an extortion. the parties have advised that the case against
+mr. singh rests entirely on the testimony of the complainant. the crown has
+filed an affidavit from the officer in charge of the case as part of the s.
+714.1
+c.c.
+application. no
+viva voce
+evidence was called. the officer
+in charge’s affidavit contains information provided from the complainant to an
+employee of the victim witness assistance program and to another officer who
+has been acting as a liaison with the complainant.
+
+to summarize the information contained
+in the affidavit, the complainant has moved to another province and does not
+plan to return to this jurisdiction anytime soon. if the complainant was
+required to attend court, she would
+not
+have to take time off work or
+school and would
+not
+incur any financial loss. though she currently assists
+her mother because of her difficulty walking following a foot injury, the
+complainant has a brother who is also available to assist their mother. the
+affidavit details that the complainant is able to use zoom and will be able to
+testify from a suitable location in her home without distractions or
+interruptions.
+
+without asking the details of where the
+complainant resided, i confirmed with the crown that she lived in a
+metropolitan area that had direct flights to our jurisdiction.
+position of the parties
+
+the crown’s position is the witness
+should be permitted to testify by video because she lives in another province
+and is assisting with her mother’s recovery. furthermore, the crown notes that
+there is no requirement for “exceptional circumstances” to be present for the
+application to be granted.
+
+the defence position is that the
+witness should testify in person because an assessment of the complainant’s
+credibility will be crucial in this case, that there needs to be “exceptional
+circumstances” to justify departing from the presumption that witnesses testify
+in person, and that the crown has not satisfied its burden to depart from the
+presumption.
+analysis
+
+section
+714.1
+c.c.
+reads as follows:
+714.1
+a court
+may order that a witness in canada give evidence by audioconference or
+videoconference, if the court is of the opinion that it would be appropriate
+having regard to all the circumstances, including
+(a)
+the
+location and personal circumstances of the witness;
+(b)
+the costs
+that would be incurred if the witness were to appear in person;
+(c)
+the nature
+of the witness’ anticipated evidence;
+(d)
+the
+suitability of the location from where the witness will give evidence;
+(e)
+the
+accused’s right to a fair and public hearing;
+(f)
+the nature
+and seriousness of the offence; and
+(g)
+any
+potential prejudice to the parties caused by the fact that the witness would
+not be seen by them, if the court were to order the evidence to be given by
+audioconference.
+
+the starting position is that all
+witnesses are expected to testify in person. as justice o’marra recently
+stated in
+r. v. e.r., et al. (7 april 2025), brampton 23-y3110456-03 (ocj),
+
+section 714.1 is a remedial provision that permits the court to facilitate the
+evidence of a witness who seeks to give testimony other than the usual manner.
+(
+see:
+r. v. denham,
+2010 abpc 82 (canlii),
+ a.j. no. 1435 (alta. prov. court)
+and
+r.
+v. k.s.,
+2020 oncj 328
+at para.
+15
+).
+
+a witness seeking the accommodation of s. 714.1 must have a reason to invoke the
+section. it is not the law of canada that witnesses have the option to give
+virtual evidence simply because they would prefer to do so. implicit in this
+principle is the recognition that the best evidence – in-person testimony –
+remains the default standard for taking evidence in a criminal proceeding. (see:
+r. v. heyman, 2000 yttc 502 (yukon territorial court) and
+r. v. k.s.
+at para.
+16
+).
+
+remote witness testimony is increasingly essential in maintaining trial
+fairness while allowing the criminal justice system to evolve alongside technological
+advances and societal needs. the use of remote testimony has been increasingly
+important in recent years since the advent of the covid-19 pandemic. (
+see:
+r.
+v. levogiannis,
+1993 canlii 47 (scc),
+ 4 s.c.r. 475, at para.
+22
+).
+
+much has been written about what is
+gained and lost with remote testimony. a significant disadvantage that i would
+add to the list of losses when remote testimony is employed is the loss of
+solemnity. requiring a witness to attend the courthouse emphasizes the
+seriousness of the occasion and the importance of the process on the witness. 
+there is a reason why judges and clerks wear robes, why counsel are required to
+wear business attire, and why counsel are required to address the court standing
+from a lectern. the formality of the process is meant to impress upon the
+participants the importance of the trial. the hope is that this will lead to the
+presentation of the best quality evidence. we must recognize that adopting procedures
+that reduce the solemnity of the occasion will negatively impact the quality of
+evidence presented. in some instances, the court may find this is an
+acceptable bargain; the court may find it is better to have lower quality
+evidence than not to have it at all. however, we must not be blind to the
+trade off and we should attempt to minimize it when possible.
+
+the first factor
+in the analysis under s. 714.1
+c.c.
+is an inquiry into the location and
+personal circumstances of the witness. in this case the
+witness lives in a metropolitan area in another province that has direct
+flights to our jurisdiction. she would not have to take time off from work or
+school. she does not have small children for whom she is the primary
+caregiver. though she assists her mother, the affidavit fairly acknowledges
+that her brother is able to fulfill her role.
+
+the second factor is the cost that
+would be incurred if the witness were to appear in person. i was not advised
+of the details regarding the expenses. however, i can infer it would include
+the cost of a return domestic plane ticket, food, taxis, and hotel
+accommodations, all of which would be covered by the government.
+
+the third factor is the nature of the
+witness’ anticipated evidence. in this case, the witness’ evidence is the
+entirety of the crown’s case. there are no other witnesses. the defence will
+hotly contest her credibility.
+
+the fourth factor is the suitability of
+the location from where the witness will give evidence. the affidavit advises
+that the witness has the ability to use zoom and the ability to testify from a
+room in her home in which she will not be disturbed or interrupted. the crown
+advised that the witness had ‘zoomed’ into court earlier in the morning of the
+application and had logged off, though i did not notice her. the crown further
+advised, as an officer of the court, that he spoke to her over zoom and there
+were no technological issues.
+
+the fifth factor is the accused’s right
+to a fair and public hearing. on the one hand, the accused’s right to a fair
+and public hearing would be minimally impacted. the video link is public and
+accessible to anyone who attends court physically – and virtually by anyone who
+connects by zoom. the scope of cross-examination would not be impacted. 
+however, the loss of solemnity in having a witness testify from her home may
+negatively impact the accused’s right to a fair trial. furthermore, courts are
+generally less willing to allow remote testimony the more important the witness
+is to the ultimate issue in the trial and the more their credibility will
+factor in the case (see:
+r. v. s.d.l., nsca 58 at para. 32).
+
+the sixth factor is the nature and
+seriousness of the offence. though there are no categories of offences for
+which remote testimony cannot be used, the more serious the offence, the higher
+the burden is on the party attempting to displace the presumption of in person
+testimony. the offence in this case is sexual assault, extortion, and uttering
+threats. the offences are serious and demand a significant reason to depart
+from the presumption of in person testimony.
+
+in conclusion,
+mr. singh faces very serious criminal allegations. the consequence of being
+convicted is likely a lengthy custodial sentence. the complainant in this
+matter has no employment, education, family obligations, or mobility
+difficulties that would prevent her from attending in person. furthermore, she
+lives in a metropolitan area in which she can access direct flights to this
+jurisdiction. this is a case where the request for remote testimony is out of
+convenience and not necessity. the witness’ inconvenience in this case fails
+to displace the presumption that her testimony should be provided in person.
+
+the crown’s
+application is dismissed.
+released: april 17, 2025
+signed: justice christopher k. assié

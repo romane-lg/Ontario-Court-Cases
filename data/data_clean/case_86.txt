@@ -1,0 +1,911 @@
+source url: https://www.canlii.org/en/on/oncj/doc/2025/2025oncj572/2025oncj572.html
+
+ontario court of justice
+citation:
+r. v. jacque-frame, 2025 oncj 572
+date: 
+2025 11 03
+court
+file no.: toronto #
+24 4810 9845
+between:
+his
+majesty the king
+— and
+—
+jamar jacque-frame
+sentencing
+judgment
+before
+justice brock jones
+heard
+on may 20 and october 31, 2025
+reasons
+for judgment released on november 3, 2025
+d. newton............................................................................................. counsel
+for the crown
+u. kancharla…...................................................................... counsel
+for mr. jacque-frame
+jones j.:
+i.
+introduction
+
+on may 20, 2025, mr. jacque-frame pleaded guilty to one
+count of armed robbery (
+criminal code
+section 343(d)); two counts of
+robbery (
+criminal code
+section 344(1)(b)); and two counts of
+administering a noxious substance with intent to aggrieve or annoy another
+person (
+criminal code
+section 245(1)(b)). the crown proceeded by
+indictment on all charges.
+
+the crown also read into the record facts from other robberies in which
+it was not seeking a guilty plea. mr. jacque-frame acknowledged his role in
+these other robberies.
+
+i ordered a pre-sentence report (“psr”). sentencing was delayed for
+various reasons until october 31, 2025. on that date, the parties made their
+submissions. they jointly submitted a sentence of two years less credit for
+pre-sentence custody (“psc”), but disagreed on how much credit he should be
+granted for the difficult conditions at the toronto south detention centre (“tsdc”).
+on ms. kancharla’s submission, her client was in a time-served position. on mr.
+newton’s submission, he would need to serve another 90 days or so.
+
+i informed them that i did not believe the proposed sentencing range was
+consistent with the existing authorities for carjacking cases, and i was
+considering imposing a harsher sentence than even the crown had
+proposed. i invited them to make further submissions: see
+r. v. nahanee,
+2022 scc 37, at paras.
+43-50;
+r. v. england,
+2024 onca 360, at para.
+82.
+
+after being given time to consider the matter, ms.
+kancharla requested that i strike the plea. she stated that if she had known
+about my concerns earlier, she might have considered joining the crown on a
+two-year joint position. i informed her that i was willing to consider this
+from both perspectives – the open position originally presented, and,
+alternatively, a reconsidered joint position of two years. she agreed with this
+approach.
+
+to be clear, the plea was not originally a joint
+position, as the parties did not agree on the credit that should be afforded
+for psc based on the conditions at the tsdc (what is typically referred to as
+duncan
+credit). in
+r. v. nahanee,
+2022 scc 37, the supreme court of canada
+described at para. 27 what constitutes a joint position (my emphasis added):
+to be clear, a
+joint submission covers off
+every aspect
+of the sentence proposed. to the extent that the parties may agree
+to most, but not all, aspects of the sentence — be it the length or type of the
+sentence, or conditions, terms, or ancillary orders attached to it — the
+submission will not constitute a joint submission. the public interest test
+does not apply to bits and pieces of a sentence upon which the parties are in
+agreement;
+it applies across the board, or not at
+all.
+
+however, even applying the strict test for rejecting a
+joint submission, as i will explain, i find the proposed sentence would bring
+the administration of justice into disrepute. i recognize that certainty in
+plea negotiations is vital to the proper functioning of the courts, and that
+joint positions should only be rejected in rare cases: see
+r. v. harasuik,
+2023 onca 594, at para.
+22. nevertheless, i find that an informed and
+reasonable person would view the newly proposed joint submission as
+demonstrating a breakdown in the proper functioning of the justice system: see
+r.
+v. anthony-cook,
+2016 scc 43, at para.
+42.
+
+these are my reasons for imposing an alternative
+sentence.
+ii.
+facts in support of the guilty pleas
+robbery #1
+
+on saturday, november 11, 2023, at approximately 7:03 pm, malkiat sekon
+was parked at the yorkdale shopping centre located at 3401 dufferin st,
+toronto, in his green 2022 lamborghini urus. at that time, the victim's infant
+son was asleep in the back seat.
+
+the
+accused and an unknown male suddenly opened the driver and passenger doors of
+the lamborghini. mr. jacque-frame pressed a sharp object wrapped in a cloth
+against the victim’s ribs. he told the victim, "get out of the car right
+now.” the unknown male accomplice attacked the victim’s face with a substance
+believed to be pepper spray. the victim complied, exited the lamborghini with his
+child, and fled the area. he then contacted the police.
+
+when
+returning to the scene of the robbery, the victim saw that his lamborghini had
+been involved in a collision in the parking lot and was abandoned. both
+suspects fled the area before the police arrived.
+
+the robbery was captured on security cameras at yorkdale shopping
+centre. mr. jacque-frame had a distinct appearance, standing approximately 6'5”
+tall and wearing red and purple high-top shoes. a forensic examination of the
+lamborghini was completed, resulting in the collection of a dna sample, which
+was submitted for analysis. on february 28, 2024, mr. jacque-frame was
+identified through a match in the national dna database.
+robbery #2
+
+on
+monday, november 13, 2023, around 6:29 pm, irina sukhova was parked at yorkdale
+shopping centre, located at 3401 dufferin st, toronto, in her red 2022 audi q3.
+mr. jacque-frame and an unknown male suddenly opened both the driver's and
+passenger's doors of the audi. they demanded the victim exit her vehicle. one
+of the suspects sprayed a substance, believed to be pepper spray, into the
+victim's face.
+
+the
+victim was able to start her vehicle, close her driver's side door and
+flee the area. the victim immediately contacted the police.
+
+the
+incident was captured on security cameras at yorkdale shopping centre.
+
+the
+parties agreed mr. jacque-frame intended to steal the victim’s vehicle, which
+establishes a robbery pursuant to
+criminal code
+section 343(c).
+robbery #3
+
+on tuesday, november 14, 2023, at approximately 4:55 pm, qamar mirza was
+parked on the street in toronto in his black 2012 mercedes-benz ml350.
+
+mr. jacque-frame and an unidentified male approached the driver's side
+door of the mercedes-benz and knocked on the window. the victim ignored them.
+one of the males used an unknown object to smash the driver’s side window and
+open the door. they demanded the victim exit the vehicle and surrender the car
+keys. the victim stated he did not have the car keys.
+
+a
+witness, ashlee haynes, was walking nearby and heard shouting. the witness
+managed to take a photo of the suspects at the driver's side of the
+mercedes-benz. the suspects fled the area and were seen entering a vehicle; the
+witness photographed it as it left.
+
+the
+parties agreed mr. jacque-frame intended to steal the victim’s vehicle, which
+establishes a robbery pursuant to
+criminal code
+section 343(c).
+additional facts presented by the crown
+no arraignment - robbery #4
+
+on
+friday, november 10, 2023, at around 2:00 pm, edward bloomer was standing on
+his driveway in etobicoke. his wife's white 2020 bmw x5 was parked in the
+driveway.
+
+mr.
+jacque-frame and an unidentified male approached the victim. mr. jacque-frame
+told him, "give me the keys to the bmw." he then tried to remove the
+car keys from the victim's pocket. the victim managed to pull away and run
+towards his home. mr. jacque-frame and his accomplice chased after him. mr.
+jacque-frame sprayed an unknown substance at the victim, hitting him in the
+back and around the doorway of the home. the suspects fled the scene.
+
+the incident was recorded on security cameras in the area. mr.
+jacque-frame and his accomplice were shown on the footage walking up the
+driveway and attempting to rob the victim.
+no arraignment - robbery #5
+
+on
+tuesday, november 14, 2023, around 5:15 pm, lesley reuben was parked on the
+street in toronto in her black 2020 mercedes-benz suv.
+
+mr.
+jacque-frame approached the driver's side door and tried to open it. the door
+was locked. he then used an unknown object to smash the driver's-side window
+and open the door. he forced the victim out of the vehicle and demanded she
+hand over the car keys. he stole her iphone from her hand.
+
+an
+unidentified male entered the mercedes-benz and tried to start it, but he was
+unsuccessful. the victim started screaming for help, and community members
+began coming outside onto the street. the suspects were seen entering a grey or
+silver suv and leaving the scene.
+
+the
+incident was captured on security cameras in the area.
+no arraignment – robbery #6
+
+on november 14, 2023, at approximately 2:40 p.m., bai kui was in his
+parked 2022 bmw x5 in toronto. mr. jacque-frame and an unidentified man
+approached the bmw and opened the driver’s side door. they demanded the car
+keys. mr. kui told them he did not have the keys. one of the suspects punched
+him three times in the face and stole his watch. they then fled the area.
+iii.
+victim impact statements
+
+mr. sekon provided a victim impact statement, which i reproduce in
+this judgment.
+the
+offender sprayed something toxic on me that suffocated me and caused my eyes to
+burn. following this he poked something sharp in my side and sprayed again.
+during all this, my 2-year old was sleeping in the back-seat who woke up from
+the commotion. he was not covered well for the cold outside but the offender
+kept on threatening me to get out quick. so i took him out of the car and
+rushed towards the mall. seeing masked men and then being hastily taken out
+uncovered in bitter cold in a fit of fear by his father impacted the child's
+mind deeply. he did not sit in that car again for one year. now he seems to
+have forgotten the incident.
+but
+i personally still do not feel safe driving in this car. for this reason, it is
+languishing in the garage and i am waiting for the lease term to expire when i
+can return it back to the dealer and feel safe again.
+
+mr. edward bloomer also chose to provide a victim impact statement.
+i reproduce that statement as well.
+for decades i have lived in this
+quiet and tranquil neighbourhood where my children have also grown up. i used
+to come out to do gardening, clean the yard, etc without ever thinking twice
+about it.
+that is, until one afternoon when a
+man and his accomplice approached me from behind and demanded that i give him
+the keys to my car. during this attempted car theft, i was shoved, physically
+attacked and pepper sprayed. it all happened so fast and my family, who was
+home at the time of the incident, heard the commotion and feared for my safety.
+as a result, they too have been victimized and have been mentally and
+emotionally scarred by this crime.
+since this assault, we are
+constantly looking over our shoulder and checking the surrounding area every
+time we walk out of the house or are returning home. we get anxious and
+apprehensive now when we see strangers on our street. i have since purchased
+and installed video surveillance because we no longer feel safe.
+this was an unprovoked and
+senseless attack. this brazen assault occurred in broad daylight and has left myself
+and my family mentally and emotionally traumatized.
+
+mr. newton informed me during the sentencing hearing that another
+victim, ms. reuben, was too afraid from her experience to even provide a victim
+impact statement.
+iv.
+prior youth court record
+
+mr.
+jacque-frame has a prior youth record that will lose the
+ycja
+protections associated with it due to the convictions he receives today: see
+ycja
+section 119(9). the record includes the following youth findings of guilt.
+
+on
+september 20, 2021, he was found guilty of two counts of robbery, seven counts
+of failing to comply with a release order, and one count of possession of a
+weapon for a dangerous purpose. he was sentenced to 15 months' probation, and a
+ycja
+section 51(1)
+weapons prohibition order was imposed.
+
+on
+october 5, 2022, he was found guilty of sexual assault with a firearm, criminal
+harassment, possession of a weapon for a dangerous purpose, failing to comply
+with a
+ycja
+s. 51(1)
+order, and three counts of non-compliance with a
+youth probation order. he was sentenced to a one-year custody and supervision
+order, with credit given for six months spent in pre-sentence detention. he was
+also ordered to serve a 12-month youth probation order after completing his
+custody and supervision order. an additional
+ycja
+s. 51(1) order was
+also imposed.
+v.
+pre-sentence
+report
+
+mr.
+jacque-frame is 20 years old. he was 18 at the time of the offences.
+
+he
+was born in montreal. he has two older brothers. his parents separated and he
+has not had any contact with his father since that occurred. he described a
+normal childhood with a positive, caring upbringing by his mother. he denied
+experiencing any problems in his formative years. he describes his mother now
+as his “best friend”, and that he comes from a close-knit family.
+
+regarding
+his education, mr. jacque-frame dropped out of high school in grade 10. he later
+obtained a certificate later in culinary studies through a program he took
+while in youth custody. he aspires to become a chef. however, he has been
+unemployed since november 2023.
+
+he reported working in various roles between 2022 and 2023, such as a
+clothing warehouse facility and a car wash. he acknowledged that he was terminated from these positions due to non-attendance.
+
+he has never been diagnosed with a mental health
+concern.
+
+mr.
+jacque-frame accepts responsibility for his actions. he admits he was motivated
+by financial gain.
+
+during
+his time in custody, he has completed anger management and life skills programs.
+the details of these programs were not provided to the court.
+vi.
+positions
+of the parties
+
+on
+behalf of the crown, mr. newton argues that a two-year sentence is suitable,
+followed by three years of probation. he claims that mr. jacque-frame is
+“lucky” that he was not a more successful thief, as in five of the cases, he
+failed to take the car from his victims. this somewhat reduces the severity of
+the offences.
+
+that
+being said, mr. newton argues that the impact on the victims cannot be
+overstated. the victim impact statements are powerful and highlight the
+profound effect these crimes had on them.
+
+the
+court should prioritize deterrence as a sentencing principle, since mr.
+jacque-frame was motivated by a desire for “easy money.” mr. newton presented statistics
+on auto-thefts in ontario, which demonstrate a staggering number of cars were
+stolen in 2024. that too places these offences in an important context.
+
+the
+crown’s position, according to mr. newton, already takes into account the
+guilty pleas, the offender's expression of remorse, and the difficult
+conditions he has experienced at the tsdc.
+
+ms.
+kancharla submits that a two-year sentence, less a day, is appropriate. she
+agrees with the proposed length and terms of the probation order proposed by
+the crown. her client is a young black man, and i should remember the
+importance of rehabilitation and restraint. she provided me with
+r. v.
+ngabirano,
+2023 onsc 1706, a decision of justice gomery where she sentenced
+a youthful first-time offender to 90 days' jail, followed by 21 months of a
+conditional sentence order, and 18 months probation, for offences arguably of a
+similar nature.
+
+ms.
+kancharla submits that her client has much promise and a supportive family. the
+pre-sentence report was positive. he has endured great difficulty in
+pre-sentence custody and asked for enhanced credit accordingly. she pointed me
+to my own decision in
+r. v. nanibush,
+2024 oncj 181
+and justice molloy’s decision in
+r. v. shaikh and
+tanoli,
+2024 onsc 774, both of which
+comment on the nature of these conditions. she asked me to release her client
+on october 31, as he had effectively “done his time” if i were to award him
+extra credit accordingly.
+
+finally, she submits that her
+client has a heart condition, as detailed in the medical records she filed as
+an exhibit. he should be released from custody as soon as possible so that he
+can follow up with a cardiologist for his condition.
+vii.
+general sentencing
+principles
+
+section
+718
+of the
+criminal
+code states that the “fundamental purpose of
+sentencing is to protect society and to contribute, along with crime prevention
+initiatives, to respect for the law and the maintenance of a just, peaceful and
+safe society by imposing just sanctions.”
+
+a
+sentence must reflect the seriousness of the offence and the moral
+blameworthiness of the offender:
+criminal code
+section 718.1. a key
+factor in a court’s analysis of moral blameworthiness is the consideration of
+the offender's personal characteristics: see
+r. v. parranto,
+2021 scc
+46, at para.
+12.
+
+the
+principles of general deterrence and denunciation should be emphasized when
+sentencing an offender for multiple counts of robbery, especially for acts of
+carjacking, as i will discuss. at the same time, mr. jacque-frame is a young
+man, and i must also consider the importance of rehabilitation:
+r. v.
+bertrand marchand,
+2023 scc 26, at para.
+123. since he has resolved three
+counts of robbery and admitted to the facts regarding additional incidents, the
+totality principle, as outlined in
+s. 718.2
+(c) of the
+criminal code,
+applies. this principle requires the sentencing court to ensure that when an
+offender receives consecutive sentences for multiple offences, the total
+sentence does not exceed their overall moral culpability. the sentence must not
+be excessive or “crushing,” nor should it destroy nearly all hope for the
+offender’s rehabilitation.
+
+where
+the parties agree to include additional facts for sentencing purposes regarding
+charges the crown has chosen not to pursue, those facts may be regarded as
+aggravating factors: see
+r. v. di paola,
+2025 scc 31;
+criminal code
+section 725(1)(c). as clarified by the supreme court in
+di paola, the
+“existence of this provision enables sentencing judges to have a fuller picture
+of the circumstances of the offence so that they can more accurately assess the
+gravity of the offence to be punished and the offender’s degree of moral
+blameworthiness”: see para. 47.
+armed robberies, aggravating factors and moral culpability
+
+robbery
+is a serious offence that involves the use of, or threat of, violence or force
+to steal property. its seriousness only increases when a weapon is used to
+facilitate the offender’s goals: see
+r. v. hilbach,
+2023 scc 3, at para.
+53.
+
+carjacking
+is a particularly egregious form of robbery that remains a pressing concern for
+residents of this city. over the years, multiple courts have emphasized the
+seriousness of this crime and the importance of imposing substantial sentences
+on those who commit it.
+
+in
+r. v. noor,
+2007 canlii 44822
+(s.c.j.), justice clarke sentenced a
+19-year-old offender for robbery. the victim was driving alone at night when,
+while waiting at an intersection for the light to turn green, two men
+approached his car on foot. mr. noor entered through the passenger side door.
+his co-accused stood at the driver’s door and demanded that mr. saeed
+relinquish his car. the co-accused threatened to shoot the victim if he did not
+comply. the driver obeyed, left the car, and mr. noor and his accomplice sped
+away. the accused was found guilty after a trial.
+
+justice
+clarke commented on the severity of carjacking at para. 22:
+at the risk of stating the obvious,
+robbery is a very serious offence, as demonstrated by the fact that it is punishable
+by life imprisonment. carjacking is a serious type of robbery. the average
+person enjoys a degree of privacy and, more importantly, feels a sense of
+security while travelling in his or her motor car, as opposed to walking or
+using public transport. although not so sacrosanct as the expectation to be
+secure in one’s own home, as the excerpts from the cases that follow make
+plain, the expectation to be able to travel about the community in safety in
+one’s own vehicle is recognized as a fundamental value of canadian society. 
+this value is something to be assiduously fostered and protected.
+
+despite
+his lack of a prior record at the time of the offence and his lesser role in
+the robbery, justice clarke imposed a sentence of 3.5 years less credit for
+pre-sentence custody.
+
+in
+r. v. marzouk,
+2021 onca 855, the appellant appealed a three-year
+sentence for robbery. the appellant met the victim at an agreed-upon location.
+the purpose of the meeting was to exchange funds. when he arrived at the
+meeting spot, the appellant entered the victim’s vehicle, forced him to exit at
+gunpoint, and then drove away with the victim’s car. the court of appeal
+reduced the sentence to two years less a day in custody, solely due to the
+appellant’s demonstrated “excellent rehabilitative prospects”: see para. 23. i
+note that this appeal involved one count of robbery, not six.
+
+in
+r. v. cassanova-alman,
+2023 onsc 1470, the offender was convicted of
+robbery. while attempting to evade the police for another offence, he located a
+four-door pickup truck with a family inside. he ran and leapt into the rear
+passenger seat of the truck. when the driver refused to help him, he climbed
+over the front seat and struggled with the driver, pushing him out of the
+truck. at the same time, uniformed officers approached the truck after hearing
+screaming from the driver’s children. the offender tried to escape by driving
+the pickup at a high speed. unbeknownst to him, the driver’s eight-year-old
+daughter was still in the truck. as the police were pursuing him, he briefly
+stopped the truck and let the young girl out.
+
+he
+was 19 years old at the time of the offence. he had a youth record for two
+robberies. he had reasonably good prospects for rehabilitation. the court
+imposed a three-year sentence for the carjacking robbery. at para. 50, the
+court noted that “carjacking is a particularly serious form of robbery given
+that people expect to be able to travel in safety and privacy in their own
+motor vehicles” and that “typically sentences for carjacking are from about
+three and a half to five years.”
+
+in
+r. v. francois,
+2025 onca 177,
+hourigan j.a., in his reasons
+deciding a motion for bail pending appeal, endorsed the comments of justice
+dawson in
+cassanova-alman: see para.
+14.
+
+very
+recently, in
+r. v. sheikh,
+2025 oncj 551, justice porter imposed a
+sentence of two years less a day in jail for an offender found guilty of one
+count of robbery related to a carjacking incident. the accused was a young,
+first-time offender who was on bail at the time for serious charges. he
+approached a green mazda while the driver was waiting at an intersection to
+make a left turn. mr. sheikh walked up to the vehicle, opened the driver’s side
+door, and told the victim to “get out of the car, or i’ll shoot you.” he then
+forced his way into the vehicle while the victim was still in the driver’s
+seat. he fled the scene, travelling west until he collided with a white bmw,
+causing minor damage.
+
+in this case, the aggravating factors related to these robberies are
+clear and numerous. mr. jacque-frame or his accomplice used a weapon against
+the victims. he committed six acts of robbery (or attempted robbery), even
+though he pleaded guilty to three. he put all his victims' safety at risk.
+while the crown acknowledged it could not prove he knew a young child was in
+the back seat of the vehicle stolen on november 11, 2023, at the yorkdale
+shopping centre, anyone who commits carjacking knows there is always a chance
+that someone else is in the car apart from the driver. it is entirely predictable
+that children could be in the back seat or the passenger seat and not be easily
+visible from the outside. furthermore, when he did become aware that mr. sekon
+had a child in the car, he continued with the robbery regardless, rather than
+aborting his plan. that was yet another choice, and one that significantly
+increases his moral culpability for that incident.
+
+likewise,
+it was entirely foreseeable that mr. bloomer’s family members would have seen
+him being threatened and nearly robbed, which would have caused them distress
+as well. the harm caused to victims of these offences goes beyond any physical
+injuries they may suffer. as described in both victim impact statements, mr.
+jacque-frame caused his victims and others severe emotional distress. mr.
+sekon’s child was scared and refused to enter the car again. mr. bloomer’s
+family no longer feel safe in their own neighbourhood. i have no doubt that the
+victims of the other robberies would also have been terrified by their
+experiences. mr. jacque-frame inflicted significant psychological harm on all his
+victims, in addition to physically harming some of them. this is another
+aggravating factor: see
+criminal code
+section 718.2(a)(iii.1).
+
+i
+emphasize that an offender does not need to foresee with certainty every possible
+negative consequence of their crimes to bear responsibility for them. the
+predictable results of a crime can be considered when evaluating an offender’s
+moral culpability:
+r. v. o'leary,
+2017 onca 71, at para.
+33.
+
+mr.
+jacque-frame also caused property damage by smashing the windows of the cars
+for the victims who did not initially comply with his demands. more concerning,
+he or his accomplice drove the stolen lamborghini at the highly populated
+yorkdale shopping centre during their escape and crashed it. this not only
+caused additional property damage but could also have seriously harmed anyone
+nearby. it was reckless and extremely dangerous.
+
+the
+robberies were planned. each time, he targeted a luxury vehicle. he committed
+these crimes for personal profit, with callous disregard for the safety of his
+victims.
+
+he
+was also subject to a youth probation order at the time of these robberies.
+that probation order was part of a lengthy youth sentence, which was imposed as
+a result of his committing another crime of serious personal violence involving
+the use of a weapon.
+
+mr.
+jacque-frame’s moral culpability for each of these robberies is therefore extremely
+high. he carefully selected his victims when they were defenceless and
+vulnerable. although he does not have an adult prior record, he has recent
+related findings of guilt as a young person for crimes of violence and the use
+of a weapon. while youth records do not carry the same weight as adult ones
+(see, for example,
+r. v. nguyen,
+2025 onsc 2255, at paras.
+13-14
+), he
+had been warned by these youth courts in the past that crimes of violence can
+lead to custodial sentences. indeed, he committed these robberies as an adult shortly
+after the community supervision component of his last youth sentence came to a
+conclusion.
+mitigating factors, rehabilitation and restraint
+
+mr.
+jacque-frame pleaded guilty, which spared the victims and witnesses from having
+to testify. he has taken responsibility for his offences and expressed a desire
+to live a crime-free life in the future. he has a supportive family, although the
+author of the psr was unable to contact them. these are important mitigating
+factors.
+
+importantly,
+he is a very young man. in
+r. v. habib,
+2024 onca 830, c.j. tulloch wrote
+about the importance of sentencing courts appreciating the reduced maturity of
+youthful adult offenders at paras. 30-33:
+the courts respect the need to
+hold young adults accountable for serious crimes that, … involve significant
+personal violence. the courts must denounce the actions of young adults who
+commit these offences and impose sentences that, to the extent possible,
+adequately deter them from reoffending. general deterrence also gains
+importance. due to these offences’ gravity and public safety risks, significant
+prison terms may be necessary.
+sentencing judges must also
+respect several other settled principles when sentencing youthful offenders for
+their first criminal offence. first, they must practice restraint. this
+requires them to avoid imprisoning young adults when possible. when
+imprisonment is necessary, it also requires them to make the sentence as short
+as possible to achieve the principles and objectives of sentencing. see priest,
+at pp. 544-546. second, they must prioritize rehabilitation as the paramount
+sentencing objective. where necessary, they must also prioritize specific
+deterrence. see brown, at paras. 5 and 10. third, they cannot focus exclusively
+on denunciation and general deterrence or elevate those objectives above
+rehabilitation and specific deterrence. see borde, at para. 36; brown, at para.
+7. fourth, they must consider young adults’ reduced moral culpability and the
+harsher impact that incarceration causes them due to their stage of life.
+…
+the courts have long followed
+these principles because they protect society, which parliament has made the
+fundamental purpose of sentencing. because young adults are still maturing,
+they have “high rehabilitative prospects.” see bertrand marchand, at para.
+152.
+often, the shock of arrest and conviction is a turning point that leads them to
+reflect on their actions, avoid crime, and choose a pro-social path.
+prioritizing rehabilitation thus helps protect society by preventing
+reoffending
+
+during
+submissions, ms. kancharla asked me to consider the application of
+r. v.
+morris,
+2021 onca 680.
+morris
+requires sentencing courts to consider
+evidence that may attenuate the moral blameworthiness of the offender based on
+his life experiences. here, no such evidence was presented. the psr did not speak
+to mr. jacque-frame’s experience with systemic racism. i am willing to take
+judicial notice that as a young black man in canada, he would have almost
+inevitably have had some negative experiences of this nature, and that social
+context evidence plays an important role in fashioning an appropriate sentence
+for a young man: see
+r. v. i.m.,
+2025 scc 23, at paras.
+162-8. but i
+cannot speculate. i must approach this submission with caution, although i
+recognize that as an 18-year-old at the time of these robberies, his moral
+culpability must be carefully assessed regardless, as “[f]ull maturity and all
+the attributes of adulthood are not magically conferred on young [adults] on
+their 18th birthdays”: see
+habib
+at para.
+35.
+
+ms.
+kancharla further argued that her client’s physical health concerns must be
+factored into my decision. she submitted a four-page document, consisting of
+medical records from a hospital in quebec, about her client’s heart problems. no
+witness was called to explain the contents of these records, and no medical
+professional testified to provide an opinion about mr. jacque-frame’s condition
+at this time. moreover, no evidence was presented in any form that mr.
+jacque-frame’s health care needs cannot be adequately met while he remains in
+custody.
+
+assuming
+that mr. jacque-frame has ongoing concerns regarding his physical health that
+require regular medical care and attention (and the evidence in that regard is
+spartan at best), i note that such a fact alone does not justify a departure
+from an otherwise applicable sentencing range. in
+r. v. lacombe,
+2023
+onsc 1975, justice dawson held at para. 36:
+
+as a matter of general
+principle, when an accused has a health problem which is not life threatening,
+it may be considered as a mitigating factor but will not justify a departure
+from the usual range of sentence in the absence of evidence that it cannot be
+treated within a custodial institution.
+
+mr.
+jacque-frame has accumulated 426 days of pre-sentence custody, which, with
+summers
+'
+credit, is the equivalent of 639 days. ms. kancharla filed lockdown records that
+demonstrate mr. jacque-frame has been subject to both partial and full
+lockdowns while he has been in custody at the tsdc. i am also willing to take
+judicial notice that the ongoing practice of triple-bunking at that institution,
+which was implemented earlier this year, remains in effect. i will also take
+judicial notice of the very difficult conditions there more generally, as has
+been detailed in many reported decisions of this court and the superior court
+of justice. this is a mitigating factor that must also be considered when
+making my decision.
+
+but it cannot be allowed to overwhelm my analysis nor produce an unjust result.
+viii.conclusion
+
+even
+considering mr. jacque-frame’s status as a youthful adult offender, the position
+of two years is unacceptably low. while i appreciate the crown’s attempt to be
+merciful and considerate of mr. jacque-frame’s personal circumstances and potential
+for rehabilitation, the proposed sentence is divorced from the objective
+gravity of mr. jacque-frame’s crimes, his extreme moral culpability and the
+enormous harm these offences have had not only on their victims, but the
+community at large. mr. jacque-frame committed six robberies or attempted
+robberies of entirely innocent people.
+
+he or his accomplice used weapons in several of them. during one robbery, a
+young child was exposed to unnecessary violence, which had a lasting
+psychological impact on them. mr. jacque-frame had a lengthy youth record and
+was subject to a youth probation order at the time. he is a tall, strong young
+man whose physical presence would have been very intimidating to anyone whom he
+accosted. and he committed all his crimes out of pure greed.
+
+his
+robberies demonstrate an escalation of dangerous activity. he appears to have learned
+nothing from the youth sentences he received for his prior crimes of violence. he
+has demonstrated little commitment to his rehabilitation thus far, having
+breached court orders as a youth and young adult. the completion of some
+programming in custody since his arrest is a good start. but it is only a
+start.
+
+carjacking
+is an extremely dangerous offence, one that requires emphatic condemnation from
+the courts. it is an offence that grips the public consciousness and is far too
+prevalent in toronto. this underscores the need for general deterrence in this
+case. offenders who commit this offence must know they will face serious
+punishment. in addition, i find that mr. jacque-frame must also be specifically
+deterred from engaging in further criminal activity. his unabated record of
+violent crimes, including those committed with weapons, over the last few years
+is startling for someone so young.
+
+despite
+his stated intention to obey court orders in the future, his track record to
+date suggests that he will not do so once released from custody. i find he is
+at a high risk of re-offending, absent significant intervention. a court’s assessment
+of future dangerousness is relevant to how different sentencing principles are
+weighed and the ultimate determination of a fit and just sentence: see
+r. v.
+holder,
+2023 onca 688, at para.
+28.
+
+the
+restraint principle is of increased importance when sentencing a first-time youthful
+offender:
+quebec (attorney general) v. senneville,
+2025 scc 33, at para.
+96. sentencing judges “should seek the least intrusive sentence and the least
+quantum which will achieve the overall purpose of being an appropriate and just
+sanction”: see, for example,
+r. v. francis,
+2022 onca 729, at para.
+80;
+and
+r. v. wright,
+2024 onca 516, at para.
+19. but the restraint
+principle is not a barrier to the imposition of a lengthy sentence where both
+specific and general deterrence call out for one; rather, it operates to
+restrain the length of the sentence to the minimum necessary, but nothing more:
+see
+r. v. shah,
+2020 onsc 6487, at para.
+13. when sentencing young
+adults, it must be remembered that as important as this principle is,
+parliament has not established a separate sentencing regime for them akin to
+the very different sentencing regime found in the
+youth criminal justice act,
+s.c. 2002, c.1 for young persons.
+
+standing
+alone, the proposed two-year sentence would have been very low for any one of
+these robberies. however, the facts of these six robberies make it markedly
+clear how woefully inadequate the proposed sentence is and how it fails to
+address the fundamental principle of proportionality. it simply would not
+respond to the offender’s high degree of moral blameworthiness that he
+repeatedly displayed, and it would cause any reasonable member of the public to
+lose confidence in the administration of justice. indeed, each
+robbery is arguably deserving of a three-year sentence, which would produce a
+global sentence of nine years even if i restricted my analysis to the incidents
+for which guilty pleas were entered.
+
+a
+global sentence of five years in prison is required in this case. but for the
+guilty pleas, and mr. jacque-frame’s youth, a sentence of six years or more
+would have been entirely justifiable. after crediting him for his pre-sentence
+custody of 639 days, and considering the difficult conditions he experienced at
+the tsdc, i impose a three-year sentence today on the robbery count against mr.
+sekon. i impose concurrent sentences of two years on each of the other robbery
+counts. a six-month sentence for the two charges of administering a noxious
+substance will be imposed on each of those counts, concurrent with each other
+and the robbery counts. i have apportioned the sentences in this manner to
+respect the totality principle.
+
+while
+a significant sentence for a young man, it is justified and not excessive. i
+recognize that the supreme court of canada has reminded sentencing courts that
+“the experience of prison is likely to be particularly harmful to a young
+adult”: see
+senneville,
+at para.
+106. as mr. jacque-frame is black, i am
+also mindful of the unfortunate disadvantages black men may experience in the
+federal correctional system, including achieving parole eligibility: see
+r.
+v. hills,
+2023 scc 2, at para.
+105. my conclusion remains that to meet the
+fundamental principle of proportionality and to protect the public, the
+sentence is necessary. mr. jacque-frame will ultimately be better served in a
+federal penitentiary than a provincial jail. the correctional service of canada
+will be able to develop programming and a reintegration plan for him, which is
+necessary to reduce his risk of further offending.
+
+on
+the discretionary portion of a section 109 weapons prohibition order, i impose
+the order for 10 years.
+
+a
+dna order is mandatory as robbery is a primary designated offence.
+
+i
+waive the victim fine surcharge on all counts.
+
+i
+issue an order under
+criminal code
+section 743.21 that the offender has
+no contact while in custody with the following persons:
+(1)
+malkiat sekon
+(2)
+edward bloomer
+(3)
+irina sukhova
+(4)
+bai kui
+(5)
+qamar mirza
+(6)
+lesley reuben
+released: november 3, 2025
+signed:
+justice brock jones
+
+see also
+r. v. h.s.,
+2014 onca 323, at paras.
+37-38.
+
+at the same time, i did not receive any specific evidence of
+how the conditions at the tsdc have affected mr. jacque-frame (for example,
+through an affidavit of the offender), which limits the weight i can place on
+this mitigating factor.
+
+for the incidents where pleas were not entered, i am further
+mindful that where the facts disclose events more akin to an attempted robbery,
+criminal code
+section 463(a) establishes that the maximum sentence is
+lessened from life to 14 years if there had been a finding of guilt. that, in
+turn, distinguishes the objective gravity parliament associates with attempted
+robberies.

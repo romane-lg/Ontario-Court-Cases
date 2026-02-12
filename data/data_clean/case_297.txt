@@ -1,0 +1,557 @@
+source url: https://www.canlii.org/en/on/oncj/doc/2025/2025oncj290/2025oncj290.html
+
+ontario court of justice
+citation:
+r. v. kanagaratnam, 2025 oncj 290
+date: 
+2025 05 20
+court
+file no.: toronto 4810 998 24 48106357
+between:
+his
+majesty the king
+— and
+—
+pragash kanagaratnam
+before
+justice seth weinstein
+heard
+on april 7 and 8, 2025
+reasons
+for judgment released on may 20, 2025
+keith garrett........................................................................................ counsel
+for the crown
+ruaridh mccartney................................................ 
+counsel for
+pragash kanagaratnam
+weinstein j.:
+
+mr. kanagaratnam is
+charged with failing or refusing to comply with a breath demand contrary to
+section 320.15(1)
+of the
+criminal code
+and careless driving contrary to
+section 130 of the
+highway traffic act.
+
+at the outset of the trial, mr. kanagaratnam filed
+a
+charter
+application that put the crown to its onus of establishing the
+arresting officer’s grounds for the approved screening device demand. in the absence
+of sufficient grounds, the warrantless searches would be presumptively
+unreasonable and violate the accused’s s. 8 right against unreasonable search
+and seizure as well as a violation of his s. 9 right against arbitrary
+detention. counsel did not pursue either of these applications in oral submissions
+at the end of the trial.
+
+mr. kanagaratnam’s
+charter
+application
+also alleged a violation of his s. 10(b) right to counsel. initially, the issue
+raised was there had been a delay in the implementation of mr. kanagaratnam’s
+right to counsel. however, the 10(b)-issue crystallized further during the
+trial when it was revealed that when implementing rights to counsel, the
+arresting officer inadvertently recorded the entirety of mr. kanagaratnam’s
+call with duty counsel. it is because of this breach, mr. kanagaratnam seeks
+exclusion of his refusal to provide a breath sample as the remedy under s.
+24(2).
+
+mr. kanagaratnam also put the crown to its onus
+of proving the offences beyond a reasonable doubt. on
+consent of the parties, the matter proceeded as a blended
+voir dire
+with
+the evidence of the
+charter
+application applying to the trial.
+
+the crown conceded that there had been a 10(b)
+violation when the officer recorded mr. kanagaratnam’s call with counsel.
+however, the crown submitted that a s.24(2) analysis demands the inclusion of
+the evidence. moreover, the crown submits that it has proven the requisite elements
+of the offences and, as such, mr. kanagaratnam ought to be found guilty.
+
+in light of the crown’s concession that there
+was a 10(b) violation, the issue i must determine is whether the evidence of
+the refusal is nonetheless admissible under section 24(2). if it is not, the parties
+agree that the
+charter
+application is dispositive of the
+criminal
+code
+charge. however, if i find the evidence admissible, i must then go on
+to consider whether the crown has proven mr. kanagaratnam’s guilt beyond a
+reasonable doubt.
+overview of the relevant facts
+
+at approximately 3:00 a.m. on january 16, 2024,
+mr. kanagaratnam was driving his black tesla eastbound on highway 401 when he
+struck the rear of truck driven by thushanthan shanmugarajah.
+
+after hitting the truck, mr. kanagaratnam’s
+vehicle crossed the lanes of traffic and struck the concrete median before it
+came to a rest on the left shoulder of the highway.
+
+pc tanguay from the toronto opp detachment
+responded to a call to attend the accident scene. he spoke with mr.
+kanagaratnam who identified himself as being the driver of the tesla. pc
+tanguay testified that when he spoke to mr. kanagaratnam, he noted an odour of
+alcohol on his breath and formed the suspicion that he might be impaired by
+alcohol. he then made a demand that mr. kanagaratnam provide a sample of his
+breath into an approved screening device.
+
+mr. kanagaratnam complied with the demand and
+registered a “fail”. he was then arrested for over 80. pc tanguay placed mr.
+kanagaratnam in the back of his cruiser where he read him his rights to
+counsel, the caution and made a breath demand. when placed in the cruiser, pc
+tanguay told mr. kanagaratnam that the car was equipped with audio and video
+recording equipment and that everything was being recorded.
+
+mr. kanagaratnam said that he wanted to speak to
+counsel. pc tanguay left a message for duty counsel and waited for a call back
+before transporting mr. kanagaratnam to the detachment for the breath test. pc
+tanguay testified that it is his practice to implement rights to counsel at the
+scene because he knows the importance of immediately providing a detainee with
+their rights to counsel.
+
+when duty counsel called back, pc tanguay placed
+his cell phone on speaker and left the cruiser so that mr. kanagaratnam could
+speak in private. before doing so, pc tanguay said that he would be turning off
+the recording equipment.
+
+it turned out, however, that although pc tanguay
+turned off one recording device, he left a second one running. consequently, the
+entirety of mr. kanagaratnam’s eight-minute call with duty counsel was recorded.
+pc tanguay stated that until seeing the video at trial, he had no idea that the
+conversation had been recorded. he never listened to the conversation and, to
+his knowledge, neither did any other officer. however, he did acknowledge that
+this was not the first time he had left the in-car cameras recording while a
+detainee was speaking with counsel. he stated that there were “a few” other
+occasions where he made the same mistake.
+
+mr. kanagaratnam was eventually taken to the opp
+detachment to provide the breath sample. sergeant al-obaigi, the qualified
+breath technician, testified that when he spoke with mr. kanagaratnam, he
+detected a slight odour of alcohol on his breath. he also said that he was
+unsteady on his feet and that his eyes appeared red and glossy. sergeant al-obaigi
+testified that he gave mr. kanagaratnam four opportunities to provide a proper
+sample. however, mr. kanagaratnam never gave a suitable sample and was
+ultimately charged with failing to comply with a breath demand.
+was there a breach of mr. kanagaratnam’s 10(b)
+rights?
+
+the right to retain and instruct counsel without
+delay includes the right to consult a lawyer in private: see
+r. v.
+playford,
+1987 canlii 125
+(ont. c.a.). indeed, the protection of communication with
+counsel from non-consensual disclosure, is inherent in the right to consult
+counsel. as noted by the ontario court of appeal in
+r. v. pileggi,
+ o.j. no. 32 at para 77: “consultation in private is a vital component of
+the 10(b) right.” if there is an invasion or prevention of privacy, then a
+breach of section 10(b) is made out.
+
+although there was no evidence that mr.
+kanagaratnam was aware his communications were being recorded, the fact of the
+matter is that the in-car video captured the entirety of mr. kanagaratnam’s privileged
+communications. that breached his right to privacy in his communications with
+counsel and violated his s. 10(b) rights.
+should the evidence be excluded
+under section 24(2)?
+
+there are two components to determining whether
+evidence must be excluded under s. 24(2) of the
+charter. the threshold
+requirement asks whether the evidence was “obtained in a manner” that infringed
+or denied a
+charter
+right. if this threshold requirement is met, the
+second component, the evaluative component, asks whether, having regard to all
+the circumstances, admitting the evidence would bring the administration of
+justice into disrepute:
+r. v. beaver
+2022 scc 54
+at para
+94.
+
+the crown concedes, and i agree, that the
+evidence of mr. kanagaratnam’s refusal meets the “obtained in a manner”
+prerequisite. there was a temporal and contextual link between the 10(b) informational
+breach and the refusal to provide the breath sample. both events occurred as
+part of the investigation during the same transaction.
+
+the crux of the analysis is thus whether the
+admission of the evidence would bring the administration of justice into
+disrepute. in
+r. v.
+grant,
+2009 scc 32 (canlii),
+ 2 s.c.r. 353,
+the supreme court of canada set out the test for whether the evidence obtained
+in a manner which infringes
+charter
+rights should be admitted or
+excluded under s. 24(2) of the
+charter. a trial judge’s role is to
+“assess and balance the effect of admitting the evidence on society’s
+confidence in the justice system” having regard to: (1) the seriousness of
+the
+charter
+-infringing state conduct; (2) the impact on the
+charter
+-protected
+rights of the applicant; and (3) society’s interest in the adjudication of the
+case on its merits. i must balance these factors to determine whether the
+evidence should be admitted.
+
+section
+24(2) is
+not an
+automatic exclusionary rule that requires the exclusion of evidence when police
+act in an unconstitutional manner. the question is whether the admission of the
+evidence would bring the administration of justice into disrepute:
+r. v.
+beaver, supra
+at para
+117
+and
+r. v.
+whittaker,
+2024 onca 182.
+
+the objective is “not to assign blame, punish the police, or
+deter future
+charter
+breaches, but to preserve public
+confidence in the rule of law and its processes”. the s. 24(2) analysis must
+focus on the “broad impact [the] admission of the evidence [would have] on the
+long-term repute of the justice system:
+r. v. whittaker, supra
+at paras
+28 and 29.
+seriousness
+of the
+charter
+infringing conduct
+
+police misconduct exists on a spectrum from technical or
+inadvertent errors committed in good faith to deliberate breaches. i must
+situate the police conduct here on that spectrum. the more willful, reckless,
+or deliberate the misconduct, the more the court will need to dissociate itself
+from that conduct:
+r. v. beaver, supra
+at para
+121.
+
+good faith efforts by the police to comply with
+the
+charter
+will reduce the need to dissociate from the conduct.
+however, as the court noted in
+grant,
+ignorance
+of
+charter
+standards will not be rewarded or encouraged, and
+good faith will not be found where police conduct is negligent or willfully
+blind: see
+r. v. grant,
+supra
+at para
+75.
+
+although
+pc tanguay did not set out to intentionally breach mr. kanagaratnam’s
+charter
+rights, he was grossly negligent when he failed to turn off the recording. the
+fact that he left a recording running to enable the police to record private
+communications and which resulted in the entirety of mr. kanagaratnam’s
+solicitor client conversation to be recorded reflects a shocking lack
+indifference to the sanctity of solicitor-client confidentiality.
+
+what
+makes the breach even more serious, and what distinguishes this case from the
+cases relied upon by the crown, is that this was not the first time pc tanguay
+has left the recording running while a detainee was speaking with counsel.
+indeed, pc tanguay acknowledged that there have been multiple occasions where
+this has occurred. this was not an isolated event or innocent mistake. this
+reflects a pattern of conduct in which pc tanguay continually violates one of
+the most sacrosanct protections in our law – solicitor-client privilege.
+
+pc
+tanguay should be commended for recognizing the importance of rights to counsel
+and to making efforts to immediately implement those rights. however, if he is
+going to undertake a general practice of implementing rights to counsel at the
+roadside, it is imperative that he ensure it is a secure conversation. it is incumbent
+on pc tanguay to understand the importance of the private nature of these
+calls. his lackadaisical approach on this and other occasions to turning off
+the equipment reflects a persistent pattern of failing to appreciate that privacy is inherent in the right to consult counsel in private.
+his repeated failures to do so, in many ways, make his words about recognizing their
+importance of rights to counsel ring hollow.
+
+the
+fact that the police did not listen to the recording does not minimize the
+seriousness of the breach. solicitor-client communications are
+only to be disclosed in exceptional circumstances. given the near absolute
+protection of solicitor-client privilege caution must always be exercised
+to ensure that it is always protected and not at risk, like it was here, of
+being undermined.
+
+having
+regard to the sacrosanct nature of solicitor-client privilege in our law, the
+serious nature of the violation pulls very strongly in favour of exclusion of
+the evidence.
+the impact of the breaches on mr. kanagaratnam’s
+charter
+-protected interests
+
+the
+second line of inquiry deals with the seriousness of the impact of the violation
+on the
+charter
+-protected interests of the accused. this
+line of inquiry considers the
+impact of the breach on the accused's
+charter
+-protected interests
+and asks whether the breach undermined the interests protected by the right
+infringed:
+r. v. tim,
+2022 scc 12
+at para
+90.
+
+i must identify the interests protected by the
+relevant
+charter
+rights and evaluate how seriously the
+breaches affected those interests. as with the first line of inquiry, i must
+then “situate the impact on the accused's
+charter
+-protected
+interests on a spectrum, ranging from impacts that are fleeting, technical,
+transient, or trivial, to those that are profoundly intrusive or that seriously
+compromise the interests underlying the rights infringed.” the greater the
+impact on the
+charter
+protected interests, the greater the risk that the
+admission of the evidence would bring the administration of justice into
+disrepute:
+see
+r. v. tim,
+supra.
+
+there is no evidence that
+mr. kanagaratnam was aware that his conversation with counsel was recorded, and
+so his ability to consult with counsel was not impaired by the police conduct. i
+also accept that the police did not use the impugned information in any way. at
+first blush, those facts might militate the seriousness of the breach. however,
+the fact that mr. kanagaratnam’s communications were recorded still offends the
+administration of justice and supports, on balance, the exclusion of the
+evidence.
+
+it is well settled that the
+implementation of an accused’s right to counsel includes the requirement that
+the call be in private. this recognises the inviolable position of the
+solicitor client relationship in the context of our legal system.
+in
+r. v.
+mcclure,
+2001 scc 14, the supreme court of canada held that
+solicitor-client privilege is part of, and fundamental to, the canadian legal
+system which has evolved into a fundamental and substantive rule of law. solicitor-client
+privilege “must be as close to absolute as possible to ensure public confidence
+and retain relevance.” see also
+goodis v. ontario
+(ministry of
+correctional services),
+2006 scc 31
+at paras.
+20
+‑
+21,
+
+mr. kanagaratnam had an
+expectation of privacy when he was speaking to duty counsel. ancillary to that
+expectation is the belief that the police would not intrude on his private
+communication. mr. kanagaratnam spoke openly with duty counsel for approximately
+eight minutes believing his conversation was in private. the police should not
+have had access to any part of that communication. whether the audio recording
+was inadvertently left on or whether the police listened to the recording is of
+no consequence. mr. kanagaratnam’s consultation with counsel was recorded by a
+system that was established, maintained, operated and controlled by the police.
+
+solicitor-client privilege is regarded as having
+quasi-constitutional importance to the administration of justice. pc tanguay,
+through his negligence, interfered with this substantive rule of law and a
+sacrosanct fundamental principle of justice. such an intrusion seriously
+affects the interests it is designed to protect and pulls very strongly
+in favour of exclusion of the evidence.
+society’s interest in adjudication on the merits
+
+the
+third
+grant
+factor,
+society’s interest in
+adjudication on the merits, will typically pull towards inclusion of the
+evidence.
+
+the
+third line of inquiry is concerned with society’s interest in an adjudication
+on the merits. it asks whether the truth-seeking function of the criminal
+process would be better served by the admission or exclusion of the evidence.
+the reliability of the evidence and its importance to the prosecution’s case
+are key factors. admitting unreliable evidence will not serve the accused’s
+fair trial interests nor the public’s desire to uncover the truth. on the other
+hand, excluding reliable evidence may undermine the truth-seeking function of
+the justice system and render the trial unfair from the public’s perspective.
+
+the
+importance of the evidence to the crown’s case is corollary to the inquiry into
+reliability. admitting evidence of questionable reliability is more likely to
+bring the administration of justice into disrepute where it forms the whole of
+the prosecution’s case, but excluding highly reliable evidence may more
+negatively affect the truth-seeking function of the criminal law process where
+the effect is to “gut” the prosecution’s case.
+
+clearly,
+the evidence sought to be excluded is highly reliable. there is no doubt
+that drinking and driving offences are serious. society has a strong interest
+in seeing this case tried on its merits. further, exclusion of the evidence
+will result in the crown being unable to prove its case. exclusion of the evidence,
+therefore, will more negatively affect the truth-seeking function of the trial
+process than inclusion. this factor favours admission of the evidence.
+conclusion on s. 24(2) of the
+charter
+
+it
+is the cumulative effect of the first two lines of inquiry that the court must
+consider and balance against the third line of inquiry. the third line of
+inquiry will seldom tip the scale in favour of admissibility where the first
+two lines of inquiry favour exclusion:
+r. v. lafranc
+e,
+2022 scc 32
+at para.
+90.
+
+in
+this case, the first and second lines of inquiry favour exclusion. bearing in
+mind all the circumstances, i am of the view that the reputation of the
+administration of justice would be jeopardized if the court did not
+significantly denounce pc tanguay’s gross negligence, the unacceptable lack of
+attention to mr. kanagaratnam’s
+charter
+rights and the
+breaches which flowed from that conduct. the evidence of mr. kanagaratnam’s
+refusal must be excluded pursuant to s. 24(2) of the
+charter.
+
+with the evidence of the refusal excluded, the
+crown is unable to prove the requisite elements of the offence and,
+accordingly, mr. kanagaratnam is found not guilty of the
+criminal code
+charge of failing to comply with a breath demand.
+careless driving
+
+mr. kanagaratnam was never arraigned on the
+careless driving information. however, i am satisfied that despite the
+procedural irregularity, i have jurisdiction to consider the careless driving
+count.
+
+the jurisdiction to consider a count for which
+there was no arraignment was endorsed by the ontario court of appeal in
+r.
+v. mitchell
+1997 canlii 6321 (on ca), 36 o.r. (3d) 643 (c.a.). justice
+doherty stated at p. 18:
+arraignment
+is intended to ensure that an accused is aware of the exact charges when he or
+she elects and pleads. arraignment also ensures that all parties to the
+proceeding have a common understanding of the charges which are to be the
+subject-matter of the proceedings which follow. the appellant was told in
+summary form of the charges against him on his first appearance. more
+importantly, he made numerous appearances between his first appearance and his
+purported election on february 28, 1995; and several more before his trial
+started in august 1995. he was represented by the same counsel throughout.
+disclosure had been made by the crown and in some of the appearances before
+august 1995 there was reference to the substance of the charges. i have no
+doubt that the appellant and his counsel were well aware of the exact charges
+in february when counsel was asked to elect a mode of trial and in august when
+the trial actually commenced. there is no reason to think that the proceedings
+would have gone any differently had the charges been read to the appellant in
+february or august. the failure to read the charges to the appellant as
+required by s. 536(2) did not cause the appellant any prejudice and should not
+vitiate the convictions.
+
+in my view, the failure to arraign mr.
+kanagaratnam on the careless driving count was an oversight that did not cause
+any prejudice. mr. kanagaratnam was aware of the charge before the court.
+moreover, it is clear from the way the trial proceeded that the crown and
+defence believed that the trial included the careless driving information. indeed,
+both counsel made submissions about whether mr. kanagaratnam’s conduct amounted
+to careless driving. it was only when i questioned whether mr. kanagaratnam had
+been arraigned did this issue arise. there is no reason to think that this
+trial would have been conducted any differently had mr. kanagaratnam been
+arraigned.
+has the crown proven that mr.
+kanagaratnam’s driving was careless?
+
+careless
+driving is a strict liability offence:
+r. v. shergill
+2016 oncj 163. there
+is no obligation on the crown to establish a mens rea element on a careless
+driving prosecution. rather, proof of the prohibited act is sufficient to
+ground a conviction unless the accused demonstrates that they took reasonable
+steps to avoid the event:
+r. v. sault st. marie
+1978 canlii 11 (scc), 2 s.c.r. 1299.
+
+a
+plain reading of section 130 of the
+highway traffic act
+makes clear
+that there are two ways that a driver can drive carelessly. first, by failing
+to drive with due care and attention. second, by failing to give reasonable
+consideration for others using the highway.
+
+the
+fact of an accident is not sufficient on its own to establish the actus reus.
+however, a finding of guilt will result where the prosecution has proven beyond
+a reasonable doubt that the voluntary acts of the accused were such that but
+for carelessness the collision would not likely have occurred:
+r. v.
+beauchamp,
+1952 canlii 60 (on ca), o.r. 422 (c.a.);
+r. v. mciver,
+1965 canlii 26 (on ca), 4 c.c.c. 182 (ont. c.a.), aff’d
+1966 canlii 6
+(scc), s.c.r. 254 (s.c.c.).
+
+mr.
+kanagaratnam collided with the rear of a pick-up truck. there is no evidence to
+suggest that there was anything in mr. shanmugarajah’s driving conduct that
+contributed to the accident and no evidence that mr. kanagaratnam took any
+steps to avoid the collision. further, the mto video from the portion of
+highway 401 where the accident occurred revealed mr. kanagaratnam swerving and
+driving aggressively in the moments prior to the accident. finally, mr.
+kanagaratnam had alcohol in his system at the time of driving. he had obvious
+indicia of impairment at the roadside. he failed the approved screening device
+which means that he had anywhere from 50 to 100 ml of alcohol per 100 ml of
+blood at the time of the accident. driving with this much alcohol in ones
+system and driving with these indicia of impairment demonstrate that mr.
+kanagaratnam was driving without due care and attention.
+
+the only rational conclusion to be reached on the totality of the
+evidence is that the collision was caused by mr. kanagaratnam driving without due
+care and attention. accordingly, there will be a finding of guilt on the
+careless driving count.
+released: may 20, 2025
+signed:
+justice seth weinstein

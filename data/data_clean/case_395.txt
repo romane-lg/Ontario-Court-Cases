@@ -1,0 +1,170 @@
+source url: https://www.canlii.org/en/on/oncj/doc/2025/2025oncj148/2025oncj148.html
+
+ontario court of
+ justice
+citation:
+r. v. mostovoy, 2025
+oncj 148
+date: 2025·03·14
+newmarket
+between:
+his
+ majesty the king
+—
+ and —
+vadim
+mostovoy
+judgment
+evidence and
+submissions heard: march 13,14, 2025.
+delivered: march 14,
+2025
+ms. agatha mapelli................................................................................. 
+counsel for the crown
+mr. frank bernhardt........................................................................ counsel
+for the defendant
+kenkel j.:
+introduction
+
+mr. mostovoy is charged with impaired
+operation of a conveyance and having a blood alcohol level in excess of the
+legal limit within two hours of ceasing to operate a conveyance.
+
+the issues for decision:
+•
+80+ - whether the defence has proved a s 10(b)
+implementation breach regarding access to counsel of choice and if so, whether
+the breath test results should be excluded.
+•
+impaired operation – whether the crown has
+proved the charge beyond a reasonable doubt.
+section 10(b) – counsel of
+choice
+
+mr. mostovoy was told on arrest that he
+could speak to any lawyer he wished. he didn’t respond to the offer at the
+roadside. later at booking he did ask to speak to a lawyer. he was asked if he
+had his own lawyer and he answered yes. the officer asked if he’d like to have
+them call his lawyer and he said yes.
+
+unfortunately, just after that conversation
+the booking audio is lost. some technical issue cut out the audio for a few
+minutes before it resumed. during that time there was discussion on this point
+– how the officers would implement the request to speak to counsel of choice.
+
+the arresting officer did not recall the
+discussion during this period. the staff sergeant is not tasked to supervise
+right to counsel and the video shows he was engaged more with data entry at
+that time.
+
+the video shows mr. mostovoy was given his
+cellphone and he looked through his phone briefly. during that time he was also
+speaking with the officers so there was not much time spent looking at the
+phone. as he explained, in his business he has contacts for many lawyers so he
+wasn’t able to find his family’s lawyer quickly.
+
+he did have a lawyer (counsel at trial) who
+had helped in a matter for his ex-wife. when the audio resumed mr. mostovoy
+stopped looking on his phone and asked to speak to his wife. that was directly
+in the context of looking for contact information for his lawyer. the staff
+sergeant explained that he couldn’t use his phone because he was under arrest.
+they would phone his wife and explain to her where he was. the staff sergeant
+also said that they could call his wife to get the number for the lawyer. mr.
+mostovoy didn’t respond to that, but for reasons that aren’t clear the
+conversation moved directly to arranging a call for duty counsel.
+
+maybe the officers had reason to offer duty
+counsel given the conversation during the muted period, but there’s no evidence
+of that from either officer. the only evidence on this point is from the
+accused – that he wanted to speak with his own lawyer and took steps including
+looking on his phone to obtain the name and number. he suggested a call to his
+wife in that context as she would have the number. the video record including
+the portions that are audible are consistent with his evidence on this point.
+
+i agree with the defence that the evidence
+proves a breach of mr. mostovoy’s s 10(b) right to speak with his counsel of
+choice.
+section 24(2) – exclusion of
+evidence
+
+the crown conceded that if the breach
+alleged were proved it would be a serious breach. i agree.
+
+the impact of the breach is attenuated to
+some extent by the fact that mr. mostovoy obtained legal advice from duty
+counsel. he testified that he wasn’t satisfied with that advice, but he didn’t
+complain to pc brennan or the qt. he did however repeat one word, “lawyer” in
+answer to questions on the alcohol influence report. he explained that this was
+his continued assertion that he would not answer questions until he spoke to
+his own lawyer. that explanation makes sense in context. he continued to have
+concerns about the process, and he didn’t understand that the conversation with
+duty counsel replaced the call to his lawyer that he requested. this factor
+also favours exclusion.
+
+the breath sample evidence is reliable and
+necessary to the crown’s case. society’s interest in adjudication on the merits
+favours inclusion of the evidence.
+
+i agree with the crown that all three
+officers were patient, polite and generally helpful to mr. mostovoy throughout
+his time with them. as the crown submitted, given their diligence on every
+other point, the officers may have had reason not to pursue the call to counsel
+of choice. maybe, but the absence of evidence on this important point suggests
+otherwise. their diligence overall strongly indicates that this point was
+missed, considered abandoned somehow without instruction from the accused.
+
+i find the breath test results must be
+excluded.
+impaired operation
+
+constable buchanan saw mr. mostovoy’s car
+swerve while driving and then stop well past the line at an intersection. he
+spoke with the driver and noted signs of alcohol consumption. the accused was
+unsteady when he stepped out of his vehicle. the officer thought the accused
+was struggling to form a sentence when speaking. he was slow to retrieve his
+license which suggested that his physical dexterity was affected by alcohol. he
+arrested mr. mostovoy for impaired operation on reasonable grounds.
+
+the in-car-camera (icc) video shows that mr.
+mostovoy was able to speak and be understood at the roadside. he searched for
+his license in a wallet where both the officer and the accused noted mr.
+mostovoy had many cards close together. mr. mostovoy’s car has a hydraulic
+system that lowers the car automatically when the driver exits. that may or may
+not have had something to do with what the officer observed when he exited the
+vehicle.
+
+at booking mr. mostovoy’s speech was fine.
+he stood up and down several times as directed by the officers. he was able to
+remove a necklace and other jewelry without issue. constable buchanan noted a slight
+sway during booking. the sway at that particular moment in the video was
+certainly slight, the type of movement that would only be apparent to a person
+close-by. the station videos don’t show indicia of impairment consistent with
+what was seen at the roadside.
+
+the qualified technician completed an
+alcohol influence report which includes a complete review of possible indicia
+of alcohol impairment. he noted that mr. mostovoy’s balance and walking were
+“fair”. he did not note any slurring of speech or other indicia of impairment.
+he did note an odour of alcohol coming from mr. mostovoy which is evidence of
+consumption.
+
+i don’t accept mr. mostovoy’s evidence that
+the swerves in his driving and his stopping well past the marked line was
+caused solely by his use of his cellphone while driving. however, given the
+very brief duration of the observations at the roadside and the remaining
+evidence over the hours that he was in custody, i find a reasonable doubt
+remains.
+
+considering all of the evidence, i find the
+crown has failed to prove the impaired count beyond a reasonable doubt.
+conclusion
+
+the accused/applicant has proved the s 10(b)
+breach alleged. the results of the breath tests are excluded under s 24(2). the
+remaining evidence does not prove the 80+ count so that charge is dismissed.
+
+the evidence as a whole did not prove the
+impaired operation count beyond a reasonable doubt. that count is also
+dismissed.
+delivered: march 14, 2025.
+justice joseph f. kenkel

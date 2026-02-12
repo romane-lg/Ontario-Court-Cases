@@ -1,0 +1,1296 @@
+source url: https://www.canlii.org/en/on/oncj/doc/2025/2025oncj221/2025oncj221.html
+
+ontario court of
+justice
+citation:
+r. v. cassells-watson, 2025 oncj 221
+date: 
+april 22, 2025
+court
+file no.: toronto 23 48117806
+between:
+his
+majesty the king
+— and
+—
+connor-jay cassells-watson
+before
+justice p.f. band
+reasons
+for judgment released on april 22, 2025
+ms. c. josic......................................................................................... counsel
+for the crown
+mr. n. fitzmaurice.................................. counsel
+for the accused mr. cassells-watson
+band j.:
+i.
+introduction
+the investigation and arrests
+
+mr. cassells-watson was arrested along with his
+co-accused shagghary scott on september 20, 2023. each of them was in
+possession a firearm and both were charged accordingly.
+
+prior to the arrests, mr. scott had been the
+target of a
+guns and gangs task force
+(ggtf) investigation. members of
+that task force had obtained warrants to search a car and two addresses that
+were associated with him. one of those addresses was
+110 mornelle court
+in scarborough. on september 20, the officers planned to locate,
+surveille and arrest mr. scott so that they could then execute the searches.
+
+they set up at 110 mornelle court to try to
+locate mr. scott. while there, they saw him interacting with mr.
+cassells-watson in the parking lot. this included a transaction in which he appeared
+to hand something to mr. cassells-watson, who then put the item in his hoody
+pocket. after that, the two walked to a nearby gas station and entered the
+kiosk. at that point, the officers were directed to arrest mr. scott and place mr.
+cassells-watson under investigative detention. they entered the kiosk and
+quickly took physical control of both men and grounded them. while searching
+mr. scott incident to arrest, they found a handgun in his satchel. once mr.
+cassells-watson was on the ground, an officer patted him down and found a
+handgun tucked in the waistband of his pants. as a result, he too was arrested.
+his arrival at the police station was delayed by the late arrival of uniformed
+transport officers and a further wait for entry into the station at the sally
+port. this delayed his ability to speak to counsel privately.
+the charter
+applications
+
+the ito in support of the warrants relied
+heavily on information provided by a confidential source (“cs”). accordingly,
+it was substantially redacted. mr. scott brought a pre-trial “
+garofoli
+” application
+pursuant to s. 8 of the
+charter. he sought the exclusion of the firearm
+and drugs that were found on his person, as well as other evidence found at one
+of the addresses. i dismissed his application with written reasons dated
+january 6, 2025:
+r. v. scott,
+2025 oncj 220. my publicly available
+reasons contained redacted passages. an unredacted version exists under seal in
+the court record.
+
+in those reasons, i found that the cs’s
+information was credible and compelling and that the warrants disclosed reasonable
+and probable grounds to believe that mr. scott was in current possession of a
+firearm, either on his person or at one of the locations listed in the
+warrants. this was despite the fact that the police had not been able to
+corroborate much of what the cs had told them, other than information about mr.
+scott’s satchel.
+
+after receiving my judgment dismissing his
+garofoli
+application, mr. scott decided to change his plea to guilty and has since been
+sentenced.
+
+at trial, mr. cassells-watson brought an
+application to have the firearm excluded because of alleged violations of his
+s. 8, 9 and 10(b)
+charter
+rights. the trial proceeded in blended
+fashion. mr. cassells-watson did not testify on the application or the trial
+proper.
+
+mr. cassells-watson’s application is dismissed
+for the following reasons, which should be read in conjunction with my reasons
+dismissing mr. scott’s
+garofoli
+application.
+
+ii.
+the issues
+
+on behalf of mr. cassells-watson, mr.
+fitzmaurice takes issue with the credibility of some of the officers’ testimony
+but argues that even if i take them at their word, mr. cassells-watson’s s. 8
+and 9 rights were violated, and the evidence ought to be excluded. he argues
+that the police violated mr. cassells-watson’s right to be free from arbitrary
+detention and unreasonable search by
+1.
+detaining him without reasonable grounds to
+suspect that he was involved in criminality;
+2.
+using an excessive amount of force amounting to
+a
+de facto
+arrest in the context of an investigative detention or, put
+another way, effectively arresting mr. cassells-watson for an offence without
+reasonable and probable grounds; and
+3.
+conducting a pat-down or safety search of his
+person without reasonable grounds to believe that that there was an imminent
+risk to their safety or the public’s.
+
+with respect to s. 10(b), mr. fitzmaurice argues that the officers
+did not implement mr. cassells-watson’s right to counsel in a timely fashion
+and that the crown has failed to justify the delays.
+
+on behalf of the crown, ms. josic argues that the detention of mr.
+cassells-watson was based on reasonable suspicion and carried out with
+reasonable force. the pat-down search was permitted in the circumstances. while
+the implementation of mr. cassells-watson’s right to counsel was delayed, the
+delay was reasonable and accounted for. what is more, he indicated no desire to
+speak to counsel during the delay.
+iii.
+applicable legal principles
+section 8 – reasonable and probable grounds to believe
+
+as the supreme court of canada explained in
+r. v. storrey,
+1990 canlii 125 (scc), 1 scr 241 at pp. 250-1,
+the
+criminal code
+requires
+that an arresting officer must subjectively have reasonable and probable
+grounds on which to base the arrest. those grounds must, in addition, be
+justifiable from an objective point of view. that is to say, a reasonable
+person placed in the position of the officer must be able to conclude that
+there were indeed reasonable and probable grounds for the arrest. on the other
+hand, the police need not demonstrate anything more than reasonable and
+probable grounds. specifically, they are not required to establish a
+prima
+facie
+case for conviction before making the arrest.
+
+the
+law does not demand the same of a police officer in an arrest situation as that
+which is expected of a justice considering a search warrant. the police officer
+must make his or her decision in a volatile environment with incomplete
+information: see
+r. v. bush
+2010 onca 554,
+at para.
+43.
+section 9 –
+investigative detention
+
+section 9 protects against arbitrary arrest or detention. in
+r.
+v. mann
+2004 scc 22, at para.
+34, the supreme court of canada explained
+that investigative detentions must be premised on reasonable grounds to
+suspect. unlike the reasonable and probable grounds standard, which is about
+probability,
+reasonable suspicion is about
+possibility: see
+r. v. chehil
+2013
+scc 49, at para.
+27. however, like reasonable and probable grounds, this
+standard has subjective and objective components. the court explained as
+follows:
+the detention must be viewed as
+reasonably necessary on an objective view of the circumstances, informing the
+officer’s suspicion that there is a clear nexus between the individual to be
+detained and a recent or on-going criminal offence. reasonable grounds figures
+at the front-end of such an assessment, underlying the officer’s reasonable
+suspicion that the particular individual is
+implicated
+in the criminal activity under investigation. the overall reasonableness
+of the decision to detain, however, must further be assessed against al of the
+circumstance, most notably the extent to which the interference with individual
+liberty is necessary to perform the officer’s duty, the liberty interfered
+with, and the nature and extent of the interference….
+
+at para. 52, the court added that an officer may place an individual
+under investigative detention “if there are reasonable grounds to suspect in
+all the circumstances that the individual is connected to a particular crime
+and that such detention is necessary.” such detentions are expected to be
+brief: at para. 45.
+section 9 –
+search incident to investigative detention
+
+in
+mann,
+supra, at para.
+40, the court wrote that
+during an investigative detention a search power does not exist as a matter of
+course. rather, “the officer must believe on reasonable grounds that his or her
+safety, or the safety of others, is at risk.” this question is to be viewed “in
+light of the totality of circumstances. it cannot be justified on the basis of
+a vague or non-existent concern for safety, nor can the search be premised upon
+hunches or intuition.”
+
+importantly, unlike searches incident to arrest, investigative
+detentions do not authorize police officers to search a person or their
+property for evidence.
+while the police have common law duty to investigate
+crime, they are not empowered to undertake any and all action in the exercise
+of that duty. individual liberty interests are fundamental to the canadian
+constitutional order. consequently, any intrusion upon them must not be taken lightly
+and, as a result, police officers do not have carte blanche to detain. the
+power to detain cannot be exercised on the basis of a hunch, nor can it become
+a
+de facto
+arrest:
+ibid, at para. 35.
+
+at
+para. 43, the court wrote that a frisk search is a “relatively non-intrusive
+procedure,” that lasts “only a few seconds.” as such, “[w]here an officer has
+reasonable grounds to believe that his or her safety is at risk, the officer
+may engage in a protective pat-down search of the detained individual.” however,
+the search “must be grounded in objectively discernible facts to prevent
+‘fishing expeditions’ on the basis of irrelevant or discriminatory factors.”
+
+mann
+led to some confusion about the scope of police search powers and the court
+sought to address it in
+r. v. macdonald
+2014 scc 3. at
+para. 40 the majority held that
+the duty of police officers to
+protect life and safety may justify the power to conduct a safety search in
+certain circumstances. at the very least, where a search is reasonably
+necessary to eliminate an imminent threat to the safety of the public or the
+police, the police should have the power to conduct the search.
+
+however, the court cautioned that
+the power to carry one out is not
+unbridled …. the principles laid down in
+mann
+and reaffirmed in
+clayton
+require the existence of circumstances establishing the necessity of safety
+searches, reasonably and objectively considered, to address an imminent threat
+to the safety of the public or the police. given the high privacy interests at
+stake in such searches, the search will be authorized by law only if the police
+officer believes on reasonable grounds that his or her safety is at stake and
+that, as a result, it is necessary to conduct a search…. the legality of the
+search therefore turns on its reasonable, objectively verifiable necessity in
+the circumstances of the matter…. as the court stated in
+mann, a search
+cannot be justified on the basis of a vague concern for safety. rather, for a
+safety search to be lawful, the officer must act on "reasonable and
+specific inferences drawn from the known facts of the situation….”:
+ibid,
+at para. 41 (internal citations omitted).
+
+to conduct this analysis,
+…the actions of the police in
+conducting the search must be scrutinized to determine whether the search was
+carried out reasonably…. if the extent of the infringement is greater than what
+is required to search for weapons, the search will not be authorized by law. at
+this point, however, the overall reasonableness of the search must be assessed
+in light of the totality of the circumstances…. it is necessary to consider not
+only the extent of the interference, but how it was carried out. this inquiry
+turns on whether the search was minimally intrusive on the privacy interest at
+stake. in other words, the manner in which the search was carried out must have
+been reasonably necessary to eliminate any threat:
+ibid, at para. 42
+(internal citations omitted).
+
+while concurring in the result, justices moldaver and wagner (as he
+then was) registered a strongly worded disagreement with the majority’s
+approach to safety searches associated with investigative detention. at para.
+91, they summarized the effect of the majority’s decision:
+as of today, officers are empowered
+to detain individuals they suspect are armed and dangerous for investigatory
+purposes, but they have no power to conduct pat-down searches to ensure their
+safety or the safety of the public as they conduct these investigations.
+they described this result as anomalous, redundant and defying
+common sense: at paras. 79-81. in their view, “a police officer in the field,
+faced with a realistic risk of imminent harm, should be able to act immediately
+and take reasonable steps, in the form of a minimally intrusive safety search,
+to alleviate the risk”: at para. 91.
+
+as it turns out, the
+macdonald
+decision has led to confusion
+regarding the basis on which safety searches are permitted in the context of
+investigative detention, and their scope. in
+r. v. buakaska
+2023 onca
+383
+at paras.
+31-45, the ontario court of appeal recently discussed the
+existence of an “ongoing debate.” did the concurring justices in
+macdonald
+interpret the majority’s ruling correctly? did
+macdonald
+recalibrate the
+mann
+standard? is there more than one standard? how pivotal is the
+imminence
+of the risk to safety? see also:
+r. v. aim
+2023 onsc 5305 at paras.
+86-94.
+
+in
+r. v. mcguffie,
+2016 onca 365
+at para.
+52, justice doherty
+noted the possibility for confusion stemming from
+macdonald, and found
+that a “reasonable belief of an imminent threat could … be based on the
+reasonable suspicion that the appellant had a handgun.” citing
+mann, the
+court made a similar ruling in
+r. v. buffong
+2024 onca 660
+at paras.
+7-9.
+section 10(b) – implementational delays
+
+section 10(b) of the
+charter
+guarantees
+that upon arrest or detention every person shall have the right to retain and
+instruct counsel without delay. the rationale for the right was
+discussed by
+the supreme court of canada in
+r. v. suberu,
+2009 scc 33, at para
+42:
+[t]he purpose of s. 10(b) is to
+ensure that individuals know of their right to counsel and have access to it,
+in situations where
+they suffer a significant
+deprivation of liberty due to state coercion which leaves them vulnerable to
+the exercise of state power and in a position of legal jeopardy. specifically,
+the right to counsel is meant to assist detainees regain their liberty, and
+guard against the risk of involuntary self-incrimination.
+
+as doherty j.a. observed in
+r. v. rover
+2018 onca 745, at
+para.
+45
+the right to counsel is a lifeline
+for detained persons. through that lifeline, detained persons obtain, not only
+legal advice and guidance about the procedures to which they will be subjected,
+but also the sense that they are not entirely at the mercy of the police while
+detained. the psychological value of access to counsel without delay should not
+be underestimated.
+
+as the court of appeal recently explained in
+r. v. samuels,
+2024
+onca 786, at para.
+24, when access to counsel is delayed, the burden is on the
+crown to show that a given delay was reasonable in the circumstances. in
+r.
+v. keshavarz,
+2022 onca 312, at para.
+71, fairburn a.c.j.o. explained:
+[i]n specific circumstances the
+implementational component of the right to counsel may be suspended. those
+specific circumstances often involve concerns over police or public safety or
+the preservation of evidence. [internal citations omitted.]
+
+iv.
+the facts
+
+a summary of the facts will put my analysis into context. for the
+most part, they are not controversial. where they are, i make findings
+accordingly.
+the officers
+
+at trial, the crown called six officers whose combined experience
+exceeds 100 years of policing. det. stolf has been a police officer for 29
+years. he has been a member of the ggtf since 2012. he supervised the team of
+officers who investigated mr. scott and mr. cassells-watson in this case and
+called for the arrest of mr. scott and detention of mr. cassells-watson. sgt.
+blake has been a police officer for 21 years. he has been with the ggtf for
+three. he has conducted hundreds of firearm investigations, some of which
+involved surveillance, and has received training relating to such cases. he
+also grew up in 110 mornelle court. in this case, he was in a position to make direct
+observations of mr. cassells-watson’s interactions with mr. scott in the
+parking lot, which he relayed to the rest of the team on the radio. dc danson
+has been a police officer for 16 years. he has been a member of the ggtf for
+five years. in this case, he entered the kiosk first, and quickly arrested mr.
+scott. dc da silva has been a police officer for over 17 years. prior to that,
+he was an officer in scarborough for six years. he has made hundreds of firearm
+and drug arrests. he entered the kiosk moments after dc danson and took
+physical control of mr. cassells-watson. dc prodeus has been a police officer
+for 15 years. he has been with the ggtf since 2022. he was at the gas station
+when mr. scott and mr. cassells-watson arrived. he entered the kiosk and helped
+dc da silva in detaining mr. cassells-watson. he conducted the pat-down search
+that led to the discovery of the handgun in his waistband. he also informed mr.
+cassells-watson of his right to counsel upon detention, arrest and a third time
+before mr. cassells-watson was transported to the division. pc tanya cross has
+been a police officer for 10 years. she attended the gas station with her
+partner to transport mr. cassells-watson to the nearest police division.
+the investigation
+
+based on the ito, the officers had reasonable and probable grounds
+to believe that mr. scott was in current possession of a firearm on his person
+or at one of the locations to be searched. they also knew that he was on a
+release for offences involving a firearm and drugs. that said, there was no
+indication that he was a gun trafficker.
+
+on september 20 at their briefing, they set the goals of locating
+and arresting mr. scott when safe to do so, and then to execute the search
+warrants. no one was assigned the task of performing the arrest, nor were they
+directed as to how to do so. they are an experienced team and they make these
+decisions as they arise.
+
+shortly before 1pm, the team went to 110 mornelle court to look for mr.
+scott. by all accounts, it is a high crime area that is plagued with drug
+traffic, gun violence and, a in recent years, a number of homicides. they set
+themselves up in various locations and communicated by radio. i heard a lot of
+evidence about how those communications are expected to proceed. all of them
+agreed that the purpose is to give the supervisor (det. stolf in this case) the
+information required to make operational decisions, such as calling for an
+arrest. they do this by giving concise and timely information about what they
+are observing. it should be detailed but to the point. it should be brief, so
+as to not tie up the line. it also involves police jargon. questions are not
+common as they can lead to observations being missed. a “central note taker” is
+assigned to keep notes of the communications so that the others can focus on
+making and relaying their observations. later, at a debrief, they discuss and
+ensure that the central notes are accurate and then, each can continue to make
+his or her own notes.
+
+for a period, mr. scott was seen interacting with a woman and child
+in the parking lot of 110 mornelle court, near a gray honda. he was wearing a
+t-shirt at the time. he then went to the building. at 1:43pm, mr.
+cassells-watson arrived at the parking lot on foot and went directly to the
+gray honda where mr. scott had been earlier. he was standing behind it, looking
+down at his phone. mr. cassells-watson, who was a young man standing
+approximately six feet tall, was unknown to the officers at this time. less
+than a minute later, mr. scott exited the building and went directly to mr.
+cassells-watson. this time, he was wearing a black sweater and satchel. the two
+shook hands and had a conversation. at 1:46pm, mr. scott returned to the
+building. at 1:48pm, sgt. blake saw mr. cassells-watson with his “head on a
+swivel and watching every single motor vehicle that comes in and out.” having
+one’s head on a swivel is a piece of police jargon that the team uses
+regularly. to sgt. blake, it means someone who is constantly scanning the area.
+it did not require definition over the radio. based on his experience, people
+who are on the look out for police or opposing gang members can behave this way.
+det. stolf had the same understanding of the term, and the same concerns about
+the behaviour it describes. he has seen it done when one individual is waiting
+for another to retrieve something for an illicit exchange.
+
+at 1:50pm, mr. scott exited the building and returned directly to mr.
+cassells-watson. they had more conversation, and mr. scott showed mr.
+cassells-watson something on his phone for a couple minutes. at 1:52pm, mr.
+scott handed something to mr. cassells-watson, which he took with his right
+hand and immediately placed in his right hoody pocket. sgt. blake did not see
+the item and could only say that it was small enough to fit in the palm of
+one’s hand. to him, in the circumstances, the behaviour was like a drug
+transaction. while he could not rule out a firearm, he believed that what had
+been exchanged was drugs. he communicated over the radio that “something” had been
+transferred and that it was small. he did not communicate his belief as to what
+it was because he had not seen it. like sgt. blake, det. stolf believed that it
+could be drugs, but he could not rule out a firearm. at 1:52pm, the two men
+then walked over to the gas station and sgt. blake lost sight of them by 1:54pm.
+
+at 1:56pm, det. prodeus saw them arriving. based on his experience
+and knowledge, he came to believe that a firearm could have been transferred. he
+did not notice a bulge or sway in mr. cassells-watson’s hoodie, and agreed that
+whatever it was, mr. cassells-watson had placed it in his hoodie pocket at
+1:52pm. however, he noted that there had been ample time for mr.
+cassells-watson to move the object between 1:54pm and 1:56pm, when sgt. blake
+had ceased reporting any observations of the men. also, he has discovered firearms
+in the absence of a bulge or other tell-tale sign in the past.
+
+based on his experience and what he heard and observed, dc da silva
+also believed that the item could have been drugs, a firearm or something
+benign.
+det. stolf’s
+stated grounds to detain mr. cassells-watson
+
+det. stolf summarized his grounds to detain mr. cassells-watson as
+follows:
+-
+they had reasonable grounds to believe mr. scott was in possession
+of a firearm, either on his person or at one of the locations to be searched;
+-
+he was aware of the grounds to support the warrants related to mr.
+scott;
+-
+mr. cassells-watson interacted with mr. scott very close to 110
+mornelle, where they had reasonable grounds to believe that there would be a
+firearm or other evidence;
+-
+after mr. cassells-watson and mr. scott first interacted, mr. scott
+went into the building and returned to where he was, and handed him something –
+this looked like a hand-to-hand drug transaction;
+-
+before mr. scott returned, mr. cassells-watson had his head on a
+swivel and was looking at every car that came in or out; and
+-
+this was not a transitory encounter and they also left together.
+
+on this basis, det. stolf believed that mr. cassells-watson was in
+possession of contraband – probably drugs, but a firearm could not be ruled
+out. he and other officers testified that drug dealers often possess weapons or
+firearms. so do drug purchasers, some of whom are sub-dealers. in addition to
+his grounds to suspect that mr. cassells-watson was engaged in criminality,
+det. stolf listed a number of safety concerns that added to his decision to
+detain mr. cassells-watson. first, if mr. cassells-watson had a weapon, he
+could pose a danger during the arrest of mr. scott. second, there was a
+potential risk to public safety, given the location and time of day. third, mr.
+cassells-watson could interfere with the execution of the warrants by alerting
+someone of police presence.
+
+det. stolf felt that the kiosk was a safe and contained place and
+gave his team the order to arrest mr. scott and detain mr. cassells-watson at
+1:57pm.
+the detention and
+pat-down of
+mr. cassells-watson
+
+given the time of day, the gas station was busy. customers were
+entering the kiosk to shop or pay. during the arrest and detention of the two
+men, customers continued to enter and approach the counter to pay.
+
+dc danson entered the kiosk first. mr. scott and mr. cassells-watson
+were at the counter with their backs to him – mr. scott to the left and mr.
+cassells-watson to the right. he quickly took physical control of mr. scott while
+announcing that he was a police officer. he did so by bearhugging him around
+his body and arms and pulling him to the ground. the goal was to eliminate the
+possibility that he might have access to a firearm.
+
+dc da silva entered a very short time after dc danson and decided
+that he would detain mr. cassells-watson. he explained that his plan was to
+bearhug him and pin him against the counter. the purpose of the bearhug was to
+prevent him from accessing a firearm if he had one. however, because he had
+entered a second or so after dc danson, he had lost the element of surprise. mr.
+cassells-watson had looked over toward mr. scott, and then as dc da silva approached
+him with his arms spread out, it appeared to him that mr. cassells-watson was
+attempting to flee because he had taken a step back and was ducking or making
+himself smaller. the attempted bearhug was unsuccessful. had mr.
+cassells-watson remained upright, at six feet tall, it would have been easy for
+dc da silva to hug him around his torso. instead, his right arm ended up around
+the back of mr. cassells-watson’s neck and his left arm around his right
+shoulder. he ended up grabbing hold of mr. cassells-watson’s hoodie and pulling
+him to the ground with dc prodeus’s help, in order to maintain control of him.
+as he was trying to get his handcuffs, mr. cassells-watson was showing his
+hands and saying, “ok ok ok.” he had gone from being non-compliant to being
+compliant.
+
+then, dc da silva heard dc danson telling mr. scott to show him his
+hands. he looked over and saw that mr. scott was trying to raise his upper
+body. so, he jumped over to help dc danson place him in handcuffs. then, he
+found a handgun in his satchel.
+
+meanwhile, dc prodeus did a pat-down search of mr. cassells-watson’s
+waist and noticed that he had a firearm. when asked why he conducted the
+pat-down search, he testified that he believed that mr. scott had a firearm and
+wholeheartedly believed that mr. cassells-watson was connected to that crime. his
+understanding is that a detainee’s connection to a crime, which authorizes an
+investigative detention, also vests him with the authority to conduct a
+pat-down search for weapons or means of escape (but not for evidence, which is
+limited to arrests). none of the officers involved in this case testified that
+they require reasonable and probable grounds to conduct a pat-down search of a
+suspect who is being detained for investigative purposes. those who testified
+about this, including det. stolf, appeared to understand that they were simply entitled
+to search such a detainee for weapons.
+
+less than 10 seconds elapsed between the moment dc da silva entered
+the kiosk and the moment that mr. cassells-watson showed him his hands and said,
+“ok ok ok.” the process of taking physical control of mr. cassells-watson and
+bringing him to the ground took dc da silva three-to-four seconds. the firearm
+was located and removed from his waistband within one minute.
+
+in cross-examination, mr. fitzmaurice took dc da silva through the
+take down process frame-by-frame, in what is believed to have been tenths of a
+second,
+
+using the security video from the gas station and a booklet of stills he had
+prepared. his purpose was to try to establish that mr. cassells-watson had not
+tried to flee and that it had been dc da silva’s plan to ground him from the
+get-go. he relied on det. stolf’s testimony that the take down happened as he
+had expected that it would and dc prodeus’s testimony that he would have taken mr.
+cassells-watson to the ground, given the nature of the investigation, his size
+and age, and the concerns he had about a firearm. dc da silva stood firm. he
+indicated that the whole event took place very quickly and that he had had to adapt
+and make snap decisions. he added that the video confirmed his testimony. i
+agree. it looks to me like mr. cassells-watson did in fact move and hunch over.
+dc prodeus gave a similar description of mr. cassells-watson’s position when he
+arrived. i bear in mind that the camera angle is from behind and above the
+counter, facing downward, which is not ideal. but based on my careful review of
+the footage, i find that dc da silva’s interpretation – which had to be made in
+a split-second – was reasonable. what happened after looked like someone
+slipping a tackle as dc da silva’s right arm deflected off his shoulder or back,
+and upward toward the back of his neck. i accept dc da silva’s testimony that
+his initial intention was to bearhug mr. cassells-watson and pin him against
+the counter. if he had been compliant, that would have sufficed. he explained
+that when he has approached suspects from behind and bearhugged them as
+intended, they experience a “moment of defeat” and give up. also, it is worth
+noting that det. stolf and dc da silva testified that every situation is
+different.
+
+mr. fitzmaurice also cross-examined dcs da silva and prodeus about
+their stated belief that mr. cassells-watson might be armed. he put to them,
+and later argued, that at no time did they believe mr. cassells-watson might be
+armed; rather, they made this up after the fact to justify an excessive use of
+force and an illegal search. for this, he relied a great deal on the fact that
+they had left mr. cassells-watson’s hands free for a spell and that dc da silva
+went to help dc danson before mr. cassells-watson was handcuffed. dc da silva
+explained that once mr. cassells-watson was on the ground, he became compliant
+by showing his hands and saying, “ok ok ok.” what is more, he and dc prodeus
+had control of him and could have responded if mr. cassells-watson had made any
+moves with his hands. he also pointed out that the whole thing had taken place
+very quickly and then he had to go help dc danson.
+
+dc prodeus agreed that mr. cassells-watson’s hands were free for a
+couple of seconds as they were taking control of him, however, he disagreed
+with the suggestion that he did not believe that mr. cassells-watson was armed.
+rather, he explained that with his palms up, mr. cassells-watson was indicating
+that he was not a threat. once dc da silva went to help dc danson, dc prodeus
+took control of mr. cassells-watson’s hands. his explanation was reasonable and
+consistent with the security footage.
+
+mr. fitzmaurice also put to dc prodeus that it did not make sense
+that he went straight to mr. cassells-watson’s waist and patted it down, when,
+given what sgt. blake had put over the radio, the most obvious place to search
+for a firearm was his hoody pocket. dc prodeus repeated his testimony
+concerning the two-minute gap between sgt. blake’s last observations and when
+he saw the two men arrive at the gas station. his testimony was reasonable.
+
+i accept both officers’ explanations for why they did not grab mr.
+cassells-watson’s hands once he was on the ground. as the security footage
+confirms, he was showing them his hands and indicating that he was compliant. mr.
+scott’s factum refers to this gesture as conveying submission at para. 45. in
+addition, for the seconds that followed, together, they had control of him. i
+also accept that both officers believed that mr. cassells-watson might have a
+gun. i further accept dc prodeus’s explanation for why he patted down mr.
+cassells-watson at the waist.
+the delay in
+transporting mr. cassells-watson to the division to speak to counsel
+
+dc prodeus informed mr. cassells-watson of his right to counsel
+immediately upon detention and again upon arrest. he did so in summary fashion,
+without reading it formally from the back of a police notebook. his
+understanding is that police have a duty to implement the right to counsel
+as
+soon as practicable; to him, that
+means as soon as
+privacy can be afforded, absent any safety risks. while he was satisfied
+that mr. cassells-watson understood what he was told, mr. cassells-watson did
+not respond verbally. they took mr. cassells-watson out of the kiosk at
+approximately 2:05pm. dc prodeus asked him to identify himself and also asked
+him if he had a lawyer. he asked him this more than once. mr. cassells-watson
+did not respond to either question. after five to 10 minutes, mr.
+cassells-watson identified himself and gave the name of a lawyer. the parties
+have agreed that in doing so, mr. cassells-watson asserted his right to
+counsel. at some point, mr. scott was allowed to call counsel using his own
+mobile phone, which an officer held for him. after the call, while handcuffed
+to the rear, he tried to snatch the phone from the officer and almost
+succeeded. as a result, an officer removed the sim card from his phone and mr.
+cassells-watson’s.
+
+the officers all indicated that a call for transport had been made
+quickly and that it was on its way; however, none of them knew who had placed
+the call or when. dc prodeus expected transport to arrive quickly, within 10-35
+minutes, since the division was nearby. at 2:27pm, he told mr. cassells-watson
+that transport was on its way and that he would be able to contact counsel at
+the station, where his privacy could be ensured. at 2:43pm, transport arrived
+to take mr. scott to the division. at 2:56pm officers stolf, oliver, da silva
+and blake left to go execute the warrants, leaving dcs prodeus and danson at
+the gas station. pc cross and her partner arrived at 3:28pm. at 3:31pm, mr.
+cassells-watson was placed in their vehicle and dc prodeus read him his right
+to counsel from a police notebook on camera. at that time, mr. cassells-watson’s
+girlfriend had arrived. dc prodeus allowed mr. cassells-watson to let her know
+that he was ok. a few minutes later, dc prodeus returned to 110 mornelle court
+to help with the search.
+
+from approximately 2:10pm, when mr. cassells-watson invoked his
+right to counsel, to 3:28pm, when the transport officers arrived, none of the
+officers contacted the station to inquire about the delay in transport or to
+see if anything could be done to expedite it. they had not received an
+explanation as to the delay. dc prodeus felt that the delay was longer than
+expected, but “not incredibly unusual”; he has waited hours before. det. stolf
+explained that typically, they are told if there is going to be a delay. these
+days, it is difficult to get a uniform car even for the ggtf. as he put it,
+“cars have to come from somewhere.”
+
+pc cross began her shift at 3:00pm. it is at that time that her
+sergeant told her partner and her to go pick up mr. cassells-watson at 110
+mornelle court. they arrived at 3:28pm. the drive took less than 10 minutes.
+the rest of the time was spent checking the car, preparing the in-car camera
+and dealing with their firearms. the direction to go to 110 mornelle court was
+an error. when they arrived, they were immediately told by one of the officers
+(det. stolf) to go to the gas station. the gas station is visible from the
+parking lot and the deviation added less than a minute.
+
+she had not yet been told when mr. cassells-watson had been
+arrested. usually, she asks when she arrives. in this case, she did not make a
+note of it. by 3:35pm, mr. cassells-watson had been transferred to her custody
+and given his rights comprehensively. they left the gas station at 3:43pm
+because she decided to type in the information that the booking sergeant would
+require before leaving. this is because it is difficult to type properly when
+the car is in motion.
+
+they arrived at the sally port at 3:50pm and called in, as usual.
+they were next in line. the door did not open until 4:30pm. pc cross did not
+make any inquiries about the delay. there must have been someone ahead of them
+that was taking time and there was nothing she could do about it. she would
+wait maybe 1.5 hours before calling in to inquire about such a delay.
+
+the booking was complete at 4:36pm and calls to mr. cassells-watson’s
+counsel were made at 4:46 and 4:48pm.
+
+counsel called back and spoke to mr. cassells-watson at 4:50pm.
+
+at no time, at the gas station or while waiting at the sally port,
+did mr. cassells-watson ask any officer to let him speak to counsel.
+v.
+analysis
+sections 8
+and 9 – grounds for detention and use of force
+
+in cross-examination, det. stolf and others agreed that in a high
+crime area like mornelle court, an innocent young man could very well have his
+head on a swivel out of concern for his safety, and that what was transferred
+in a one-way exchange like the one that took place between mr. cassells-watson
+and mr. scott could have been something benign, like a pack of cigarettes. all
+of this is true, but it ignores the totality of the circumstances known to det.
+stolf and the relatively low standard required for reasonable suspicion. i have
+no trouble finding that, based on the totality of the circumstances, det. stolf
+had a reasonable suspicion that mr. cassells-watson was implicated in or
+connected to a criminal activity that was under investigation. mr. fitzmaurice
+is understandably concerned that someone who is seen having a brief interaction
+with a legitimate police target will be suspected by association and deprived
+of their liberty. but that is not what happened in this case. mr. scott was on
+a release on firearm and drug charges and reasonably believed to be in
+possession of a firearm on his person. when he left mr. cassells-watson to
+return to the building, mr. cassells-watson engaged in excessively vigilant
+behaviour that was consistent with counter-surveillance. then, mr.
+cassells-watson returned and transferred something to him, which he immediately
+pocketed. those factors go well beyond suspicion by association. seen in
+context, the exchange looked like an illicit hand-to-hand transaction. what is
+more, it was pivotal. as det. stolf explained, without it, he may not have
+called for mr. cassells-watson’s detention at all. i accept that he saw things
+that way, and in my view, his decision was entirely reasonable.
+
+as i indicated above, i accepted dc da silva’s testimony that his
+initial intention had been to bearhug and pin mr. cassells-watson against the
+counter. mr. cassells-watson’s reaction, which dc da silva reasonably believed
+was the beginning of an attempt to evade him, led to an increase in the use of
+force to the point that mr. cassells-watson was taken to the ground. mr.
+fitzmaurice argued that even had dc da silva’s original intention been carried
+out, it amounted to an excessive use of force akin to an arrest and was, therefore,
+a violation of mr. cassells-watson’s s. 8 and 9 rights.
+
+it is not at all clear that the detention that dc da silva envisaged
+would have amounted to a
+de facto
+arrest. on the facts of this case, the
+detention lasted one minute. at that time, mr. cassells-watson was not yet in
+handcuffs.
+
+be that as it may, the real question here is whether the use of
+force that dc da silva intended to use was reasonable. the parties’ approached
+this question, and the issue of the pat-down, as though both were premised only
+on det. stolf’s stated grounds. mr. fitzmaurice focused on the fact that det.
+stolf testified that although he could not rule out a firearm, he felt that
+what had been transferred was “probably drugs.” moreover, no officer testified
+that a pat-down search required reasonable and probable grounds.
+
+articulating
+reasonable and probable grounds can be difficult and officers, who are not
+lawyers, are not required to pronounce
+magic words
+when they do so: see
+r.
+v. clarke,
+ o.j. no. 804 at para. 13 (s.c.j.). trial judges can infer
+that an officer had the requisite subjective grounds to arrest based on a fair
+reading of their evidence:
+ibid; see also
+r. v. hall
+(1995),
+1995 canlii 647 (on ca), 22
+o.r. (3d) 289, at para.
+36
+(c.a.). what is more, in relation to the requisite
+objective grounds, the reviewing court is not limited to what the officer
+articulated in court; what must be considered is the totality of the
+circumstances: see
+r. v. censoni,
+ o.j. no. 5189
+at paras. 55-56 (scj). this includes all facts and circumstances reasonably
+known to the officer at the time they formed their grounds: see
+r. v. yi,
+ o.j. no. 1315 at para. 20;
+r. v. singh,
+ o.j. no. 5133 at
+para. 43 (s.c.j.)
+and
+r. v. fyfe
+2023 onca 715
+at paras.
+54-63.
+
+in
+a dynamic investigation like this one, involving several officers, it is
+expected that each of them may be forming their own grounds as the
+circumstances evolve. as the court of appeal recently wrote in
+fyfe,
+supra,
+at para.
+53:
+… the evidence of subjective grounds for an arrest
+does not necessarily come from a single officer. an arrest may involve multiple
+officers, and occur in a dynamic situation as new information rapidly comes to
+light. the evidence of various officers may, as in this case, be contradictory
+in certain respects. as such, evidence about the subjective grounds for arrest
+may come from one or more officers and other sources, including the surrounding
+circumstances. [internal citations omitted.]
+in my
+view, the same must be true where the question is the existence of a reasonable
+suspicion.
+
+on
+a fair reading of the evidence, one could easily come to the conclusion that
+det. stolf and dcs da silva and prodeus subjectively suspected that mr.
+cassells-watson was in possession of a firearm, some of which can fit in the
+palm of one’s hand. the real question is whether, based on all the
+circumstances, such a suspicion was reasonably founded. on this record, a judge
+may very well find that it was.
+
+however,
+given how the parties approached the issue, i will limit my analysis to det.
+stolf’s stated basis for ordering mr. cassells-watson’s detention. this requires consideration of all the circumstances. those must
+include the intended arrest of mr. scott on the reasonable belief that he was
+in possession of a firearm when, minutes earlier, he had transferred something
+to mr. cassells-watson in what looked like an illicit hand-to-hand transaction
+after returning from a place in which the police had reasonable and probable
+grounds to believe there was a firearm. det. stolf suspected that that “something”
+was “probably drugs.” based on his experience, he knew that both sides of a
+drug transaction can be armed. the circumstances also must also include the
+fact that the arrest of mr. scott took place a few feet from mr.
+cassells-watson, in a gas station kiosk with customers milling about. lastly,
+the circumstances include 50 years of combined and extensive on-the-job
+experience of det. stolf and sgt. blake.
+
+viewed in context, mr. cassells-watson’s intended detention would
+have been executed with a reasonably necessary amount of force. the additional
+force that was in fact applied was reasonably necessary because of the concern
+that he was going to flee. as such, the detention did not violate his s. 9
+charter
+rights.
+dc prodeus’s
+pat-down search of mr. cassells-watson
+
+mr.
+fitzmaurice submitted that
+macdonald
+cleared up the law and embedded
+into the criminal law a requirement that a search incident to investigative
+detention can only be performed based on reasonable and probable grounds to
+believe in the existence of an imminent risk to officer or public safety. he added
+that this has been “indisputably the law for 10 years.” for her part, ms. josic
+simply submitted that a pat-down search incident to investigative detention is
+permitted.
+
+with
+respect, there is nothing indisputable about what the
+macdonald
+majority
+said in this regard.
+mcguffie,
+buakaska,
+aim
+and
+buffong,
+supra, are evidence of an ongoing debate about that very issue. at the
+same time, this much is clear: an investigative detention does not import a
+right to conduct a safety search in each and every case.
+
+if
+one steps back for a moment and looks at the big picture, the situation in that
+gas station kiosk was clearly fraught with danger at the time of mr. scott’s
+arrest. danger to the officers, to the customers and to messrs. scott and cassells-watson.
+based on the state of the law, it would be open to find that the pat-down
+search, which was conducted quickly and no more invasively than required, was
+warranted in the circumstances.
+
+basing
+my analysis of dc prodeus’s pat-down search on det. stolf’s stated grounds is
+proving to be more artificial as dc prodeus was clear that he suspected that mr.
+cassells-watson was in possession of a firearm and that the situation was rife
+with safety concerns. what is more, det. stolf could not have known that dc da
+silva felt that mr. cassells-watson had tried to evade him. this could only
+have reasonably added to dc da silva’s concerns.
+
+however,
+if i confine my analysis to det. stolf’s stated grounds, his testimony that a
+legitimate investigative detention
+entails
+permission to search for
+weapons, his suspicion that the object that had been transferred was “probably
+drugs,” and assume that his inability to “rule out” a firearm does not rise to
+the level of a reasonable suspicion, then i must come to the conclusion that
+the pat-down was not based on the appropriate subjective legal standard,
+whether it is the one attributed to the ruling in
+mann
+or to the
+majority’s in
+macdonald. it would therefore constitute a violation of mr.
+cassells-watson’s s. 8 rights to be free from unreasonable search and seizure.
+section 10(b) – delayed
+implementation
+
+mr. fitzmaurice does not argue that the officers should have let mr.
+cassells-watson speak to counsel from the scene or that they should have
+transported him in their unmarked van,
+
+and there is no plausible argument that they should have had a uniform car
+accompany them all day in the event of an arrest. his position is that, knowing
+that they could not transport mr. cassells-watson themselves and that this
+would inevitably lead to some delay, the officers were all under an obligation
+to ensure that it was done as quickly as possible. here, the delay was both
+lengthy and unaccounted for.
+
+ms. josic argues that the officers at the gas station acted
+reasonably by quickly calling for transport. their inaction during the delay
+was reasonable given that they expected that transport would arrive relatively
+quickly. as for the sally port, there was nothing that pc cross could have done
+but wait. as a result, the total delay was accounted for and reasonable.
+
+no one was able to say who called for transport or exactly when.
+what is known is that it must have been by 2:35pm, because transport arrived for
+mr. scott at 2:43pm. if the officers waited until 2:35pm, the 30 minutes or so
+that they waited is not accounted for and is unreasonable. on the other hand,
+if they called earlier (as i am inclined to believe), then the delay between
+that time and 3:00pm, when the station sergeant told pc cross to go pick up mr.
+cassells-watson, is not accounted for. if someone at the station had been
+dispatched closer to 2:10pm, then it is reasonable to expect that they would
+have arrived at the scene between 2:45 and 3:00pm. that delay would have been
+reasonable and accounted for. the additional period until 3:28pm has not been
+accounted for and cannot be said to have been reasonably necessary.
+
+while the arrival of mr. scott’s transport certainly indicated that
+the wheels were in motion, neither dc prodeus nor dc danson took it upon himself
+to inquire about the delay, which exceeded an hour. based on the evidence of
+the officers, it is a fair conclusion that they had become resigned to such
+delays. this resignation, in turn, led dcs danson and prodeus to adopt a
+lackadaisical attitude in which they would not act unless the delay became much
+lengthier.
+
+while the same could be said about pc cross’s attitude, i reach a
+different conclusion about the delay at the sally port. the gta is a very busy
+jurisdiction. i am satisfied that i can infer that the booking hall or the
+sally port were occupied and that, as a result, mr. cassells-watson had to wait
+his turn. what is more, there are good reasons for prisoners to be admitted and
+booked into police stations in this way; these include safety: see
+r. v. lee
+2023 onsc 1332, at para.
+19, citing
+r. v. desilva,
+2022 onca 879, at
+paras.
+77 and 79. this part of the delay was accounted for and was reasonable.
+
+i make little of the eight minutes that pc cross spent on the front
+end entering the information into the computer before leaving the gas station.
+it was required for the booking process one way or the other.
+
+as a result, i find that the crown has failed to account for 30-45 minutes
+of the time it took to implement mr. cassells-watson’s right to counsel. this
+constituted a breach of mr. cassells-watson’s s. 10(b) rights.
+section 24(2)
+– whether the evidence should be admitted
+
+it is clear that the firearm was discovered “in a manner” that
+breached mr. cassells-watson’s s. 8 rights. it is less clear that it was
+discovered in a manner that breached his s. 10(b) rights. this aspect of the
+case was not argued by the parties. however, for the sake of this analysis, i
+will assume that it was.
+
+section 24(2) of the
+charter
+allows a court to exclude
+evidence where admitting it would bring the administration of justice into
+disrepute. in
+r. v. grant
+2009 scc 32, at paras.
+68-70, the supreme
+court explained this concept.
+the phrase “bring the administration
+of justice into disrepute” must be understood in the long-term sense of
+maintaining the integrity of, and public confidence in, the justice system.
+exclusion of evidence resulting in an acquittal may provoke immediate
+criticism. but s. 24(2) does not focus on immediate reaction to the individual
+case. rather, it looks to whether the overall repute of the justice system,
+viewed in the long term, will be adversely affected by admission of the
+evidence. the inquiry is objective. it asks whether a reasonable person,
+informed of all relevant circumstances and the values underlying the
+charter,
+would conclude that the admission of the evidence would bring the
+administration of justice into disrepute.
+section 24(2)’s focus is not only
+long-term, but prospective. the fact of the
+charter
+breach means damage
+has already been done to the administration of justice. section 24(2) starts
+from that proposition and seeks to ensure that evidence obtained through that
+breach does not do further damage to the repute of the justice system.
+finally, s. 24(2)'s focus is
+societal. section 24(2) is not aimed at punishing the police or providing
+compensation to the accused, but rather at systemic concerns. the s. 24(2)
+focus is on the broad impact of admission of the evidence on the long-term
+repute of the justice system.
+
+i must consider three factors: (1) the seriousness of the
+violations; (2) the impact of the violations on the accused's
+charter
+-protected
+interests; and (3) society’s interest in the adjudication of the case on its
+merits:
+ibid, at para. 71. the focus must be on the long-term and
+prospective effect of a remedy or lack of remedy. the supreme court of canada’s
+decision in
+r. v. le
+2019 scc 34
+also provides important guidance. at
+para. 141, the majority provided the following explanation of the interplay
+between the
+grant
+factors:
+while the first two lines of inquiry
+typically work in tandem in the sense that both pull towards exclusion of the
+evidence, they need not pull with identical degrees of force in order to compel
+exclusion. more particularly, it is not necessary that both of these first two
+lines of inquiry support exclusion in order for a court to determine that
+admission would bring the administration of justice into disrepute. of course,
+the more serious the infringing conduct and the greater the impact on the
+charter
+-
+protected interests, the stronger the case for exclusion (
+r. v. mcguffie,
+2016 onca 36, at para.
+62
+). but it is also possible that serious
+charter
+-infringing
+conduct, even when coupled with a weak impact on the
+charter
+-protected
+interest, will on its own support a finding that admission of tainted evidence
+would bring the administration of justice into disrepute. it is the sum, and
+not the average, of those first two lines of inquiry that determines the pull
+towards exclusion.
+seriousness
+of the charter-infringing conduct
+
+this stage is focused on whether the court must dissociate itself
+from the police conduct in order to “preserve public confidence in the rule of
+law and its processes”:
+grant,
+supra, at para.
+73. to determine
+this, i must locate the police conduct on a spectrum of seriousness. in doing
+so, i must not compartmentalize the breaches. rather, i must consider them
+together to ensure that the view i take of their seriousness is not distorted:
+see
+r. v. james
+2015
+onca 213, at paras.
+36-40. in that case, the ontario
+court of appeal explained that, while the judges of the supreme court of canada
+in
+r. v. zacharias
+2023 scc 30
+were divided on the impact of
+consequential breaches on the first
+grant
+factor, the majority agreed
+that a pattern of
+charter
+breaches can increase the seriousness of the
+charter
+-infringing
+conduct.
+
+the officers were wrong in their apparent belief that investigative
+detentions entail safety searches. this is concerning, given their level of
+experience. however, i do not see this as rising to a systemic concern. also, in
+the context of this case, the pat-down was either objectively justified based
+on the totality of the circumstances or, if it was not, the circumstances came
+extremely close to justifying one. what is more, it cannot be said that the law
+is settled when one tries to apply it to the circumstances of this case. the
+pat-down was momentary and went no further than what would have been necessary
+to satisfy safety concerns. if the pat-down pulls in favour of exclusion, it
+does so with minimal force.
+
+i do not see a problem in dc prodeus’s testimony that the right to
+counsel must be implemented “as soon as practicable” instead of “immediately”;
+he explained that it means as soon as privacy can be afforded, absent any
+safety risks. his language and understanding are consistent with the
+authorities: see
+keshavarz,
+supra, and
+r. v. samuels
+2024
+onca 786, at para.
+37. however, dcs danson and prodeus’s lackadaisical approach
+to the delayed arrival of the uniform car is a real concern. their initial
+expectation that things would go quickly may have been reasonable for a period,
+particularly when transport arrived for mr. scott within a reasonable time. but
+at some point, officers are under an obligation to confront the reality of the
+situation and they failed to do so. when seen in combination with the 30-minute
+delay, this conduct is moderately serious and would pull towards exclusion with
+commensurate force.
+
+in considering the seriousness of the breaches in the aggregate, no
+pattern can plausibly be said to emerge. the cumulative effect of the
+charter
+-infringing
+conduct favours exclusion to a moderate degree at most.
+impact
+of the breach on
+mr. cassells-watson
+’s charter-protected
+interests
+
+in
+r. v. tim,
+2022 scc 12, at para.
+90, the supreme court of
+canada wrote that this line of inquiry considers the impact of the breach(es)
+on the accused's
+charter
+-protected interests and asks whether the breach
+“actually undermined the interests protected by the right infringed.” i must
+identify “the interests protected by the relevant
+charter
+rights” and
+evaluate “how seriously the breaches affected those interests.” as with the
+first line of inquiry, i must then “situate the impact on the accused’s
+charter
+-protected
+interests on a spectrum, ranging from impacts that are fleeting, technical,
+transient, or trivial, to those that are profoundly intrusive or that seriously
+compromise the interests underlying the rights infringed.” as the court
+explained,
+[t]he greater the impact on
+charter
+-protected
+interests, the greater the risk that admission of the evidence would bring the
+administration of justice into disrepute. this is because “admission of the
+evidence may signal to the public that
+charter
+rights, however high-sounding,
+are of little actual avail to the citizen, breeding public cynicism and
+bringing the administration of justice into disrepute.”
+
+the interests protected by s. 8 in this case were mr.
+cassells-watson’s privacy and to some degree, physical integrity. the interests
+protected by s. 10(b) were his interests in being able to consult counsel in
+private as soon as reasonably practicable, in ensuring that he had a lifeline
+to the outside world and in knowing that he was not entirely at the mercy of
+police while detained.
+
+pat-down searches are relatively non-invasive procedures. in this
+case, it was conducted very quickly and went no further than necessary. on its
+own, its impact on mr. cassells-watson’s
+charter
+-protected interests was
+on the low end of the spectrum. of course, it led to the discovery of a firearm
+and his subsequent arrest. this increases the seriousness of the impact on his
+charter
+-protected
+interests.
+
+the same cannot be said about the s. 10(b) breach. at no time did mr.
+cassells-watson so much as ask to speak to counsel during his detention. his
+rights were explained to him three times, and he was told that he would have
+access to counsel once he was brought to the station where he could speak privately.
+he knew that his girlfriend understood that he was in police custody. the
+officers did not try to obtain evidence from him during the delay, and he did
+not inadvertently self-incriminate. the impact on mr. cassells-watson’s s.
+10(b) rights occasioned by delayed implementation was minimal.
+
+in sum, i would describe the impact on mr. cassells-watson’s
+charter
+-protected
+interests as falling somewhere between moderate to serious. as such, this
+factor pulls toward exclusion of the evidence with a degree of force that is
+somewhere between moderate and strong.
+society’s
+interest in adjudication on the merits
+
+this line of inquiry is concerned with the reliability of the
+evidence and its importance to the crown’s case. the question is “whether the
+truth-seeking function of the criminal process would be better served by
+admission of the evidence, or by its exclusion”: see
+grant,
+supra,
+at para.
+79. reliable and critical evidence generally pulls toward inclusion.
+that said, this factor cuts both ways and ought not be permitted to overwhelm
+the analysis: see
+r. v. harrison,
+2009 scc 34 (canlii), 2 s.c.r. 494, at para.
+34;
+grant,
+supra, at para.
+84; and
+r. v. paterson, 1 mr. s.c.r. 202 at para.
+55. as the court stated in
+grant, “while the public has a heightened interest
+in seeing a determination on the merits where the offence charged is serious …
+it also has a vital interest in having a justice system that is above reproach,
+particularly where the penal stakes for the accused are high”:
+ibid.
+
+here, the firearm is reliable evidence. without it, the crown’s entire
+case against mr. cassells-watson would be gutted. firearms offences are among
+the most serious, and they are a plague in the gta. the public has an extremely
+strong interest in the prosecution of such cases on their merits. all the more
+so when they involve persons who are carrying concealed and loaded handguns in
+public. such persons “pose a real and immediate danger to the public”: see
+r.
+v. morris
+2021 onca 680, at para.
+68.
+
+this factor clearly and strongly favours admission of the evidence.
+balancing
+
+the balancing exercise does not lend itself to mathematical
+precision. the question is whether, having regard to all the circumstances, the
+admission of the evidence would bring the administration of justice into
+disrepute in the long term. i find that the admission of the evidence in this
+case would not have a significant or lasting impact on the repute of, and the
+public’s confidence in, the administration of justice.
+
+with respect to the
+charter
+-infringing conduct, the s. 8
+issue was a very close call. the s. 10(b) breach was more serious, but it was
+not deliberate, and no evidence was sought or obtained in relation to it.
+together, the breaches did not disclose a pattern or systemic concerns. i do
+not believe that the conduct, seen as a whole, calls upon the court to dissociate
+itself from it to maintain the public’s confidence in the rule of law.
+
+as i have explained, the second line of inquiry pulls more strongly
+in favour of exclusion. however, i find that, on balance, the sum of the first
+and second factors is outweighed by society's interest in the truth-seeking
+function of a trial on the merits.
+vi.
+conclusion
+
+for these reasons, the application is dismissed, and the evidence is
+admissible against mr. cassells-watson.
+released: april 22, 2025
+justice p.f. band
+
+particularly paras. 15-18 of the
+garofoli
+reasons.
+
+see also
+rover,
+supra, at paras.
+26-28.
+
+this was not entirely clear based on the software he had used and the way it
+was presented.
+
+the voicemail box of the first number was full and a second number was found on
+the internet.
+
+such vans are not equipped with cameras or dividers and are unsuitable for
+transporting detainees.

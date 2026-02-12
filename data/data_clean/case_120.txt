@@ -1,0 +1,3368 @@
+source url: https://www.canlii.org/en/on/oncj/doc/2025/2025oncj525/2025oncj525.html
+
+ontario court of justice
+citation:
+r. v. akila, 2025 oncj 525
+date: 
+october 7, 2025
+court
+file no.:
+23-23104208-01
+between:
+his majesty the king
+respondent
+— and —
+samer akila
+applicant
+before
+justice g. l. orsini
+ruling
+on constitutional question
+heard
+november 21, 22, 27, and 28, 2024; february 10, 11, 12, 24, 25, 26, 28, april 3
+and 4, 2025; august 27, september 12, 2025.
+judgment:
+october 7, 2025
+k. benzakein, a. pashuk & v. mazza …………………..……….
+co
+unsel for the ppsc
+p. lewin……………………………………………counsel for the
+applicant samer akila
+orsini j.:
+table of contents
+i.
+introduction
+ii.
+evidence
+agreed statement of fact
+civilian witnesses
+a.c.
+d.s.
+s.l.
+expert evidence
+the nature of psilocybin
+applicant’s experts
+(a)
+professor lucas swaine
+(b)
+professor davit nutt;
+(c)
+professor zachary walsh
+crown expert
+(a)
+dr. joshua rosenblat
+health canada
+witnesses
+(a)
+ian mackay
+(b)
+dr. jennifer pelley
+iii.
+findings of fact
+iv.
+applicable legislation
+the
+courts of justice act –
+s. 109
+the
+controlled drugs and substances act
+–
+s. 2, ss.4-6
+and s. 56
+canadian
+charter of rights and freedoms
+–
+s. 2(b)
+and
+s. 7
+v.
+standing
+vi.
+charter interpretation –
+s. 2(b)
+position of the parties
+principles of charter interpretation
+vii.
+analysis
+s. 2(b)
+of the
+charter
+s. 7
+of the
+charter
+viii.
+conclusion
+i.
+introduction
+
+samer akila is charged with possessing
+psilocybin (a schedule iii substance) for
+the purpose of trafficking
+contrary
+to
+s. 5(2)
+of the
+controlled drugs and
+substances act
+(cdsa).
+th
+e charge relates to his involvement in the
+operation of a
+psilocybin
+dispensary under the name
+fun guyz
+located at 256 richmond street,
+london on.
+
+by way of notice of constitutional
+question (
+ncq
+) filed pursuant to
+s. 109
+of the
+courts of justice act,
+r.s.o. 1990, c. c.43 (
+cja
+) he
+challenges
+the constitutionality of
+s. 5
+of the
+cdsa
+as it relates to psilocybin alleging it violates both the
+right to freedom of thought under
+s. 2
+(b) and the liberty and security of the
+person under s. 7 of the
+charter of rights and freedoms
+(the “
+charte
+r”).
+
+although the applicant claims no personal
+interest in possessing or consuming psilocybin, he submits that the prohibition
+on trafficking infringes the rights of others to access it for its thought-related
+benefits.
+
+he submits that these violations
+cannot be justified under
+section 1
+of the
+charter
+and asks
+that i find
+s. 5
+of the
+cdsa
+constitutionally invalid in this case.
+
+alternatively, he seeks a remedy under
+s. 24(1)
+of the
+charter.
+
+for the reasons below, i find that
+s. 5(2)
+of
+the
+cdsa
+does not infringe
+sections 2(b)
+or
+7
+of the
+charter.
+ii.
+evidence
+
+the evidence in this case included an agreed
+statement of fact and both affidavit and viva voce evidence from 9 witnesses
+together with a substantial amount of documentary evidence.
+
+the applicant called the following 6 witnesses:
+(i)
+3 civilian witnesses who filed affidavits and who
+testified about their experiences with psilocybin and its effects;
+(ii)
+professor lucas swaine, a qualified expert in the
+fields of thought and freedom of thought;
+(iii)
+professor david nutt, a qualified expert in the
+fields of psychiatry and neuropsychopharmacology; and
+(iv)
+professor zachary walsh, a qualified expert in
+the field of clinical psychology.
+
+the crown called the following 3 witnesses:
+(i)
+dr. joshua rosenblat, a qualified expert in the
+fields of psychiatry and psychopharmacology;
+(ii)
+jennifer pelley, the director of the office of
+regulatory affairs (health canada); and
+(iii)
+ian mackay, manager of the special access
+program (health canada).
+agreed
+statement of fact
+
+the facts giving rise to the offence before the
+court are set out in an agreed statement of fact (“
+asf
+”) filed by the
+parties.
+
+on may 11, 2023,
+samer akila was interviewed by ctv london about the imminent launch of
+fun guyz,
+an illegal psilocybin dispensary located at 256 richmond street, london on (“
+fun
+guyz
+”). the interview, a copy of which the parties attached as an appendix
+to the
+asf, took place inside the
+fun guyz
+store where mr. akila
+was speaking as a spokesperson for the company and wearing company
+paraphernalia. during the interview, he said the following:
+(i)
+“what we’re doing is completely illegal.”;
+(ii)
+“we’re aware of it. there’s not much they can
+do.”;
+(iii)
+“what we’re doing is a medical protest, it’s
+an act of disobedience in order to get magic mushrooms legalized.”;
+(iv)
+“as soon as they [police] leave the store
+we’ll be in there with product, opening…”;
+(v)
+“we’ve already been through six raids. st.
+catharines, niagara, barrie, bradford, danforth in toronto. it’s going to be
+very hard
+to stop us.”;
+(vi)
+“it's currently illegal in ontario, and we do
+not have a business licence."; and
+(vii)
+“we are trying to help people and give them
+access that the government can’t provide.”
+
+on may 12, 2023,
+fun
+guyz
+opened for business. at all relevant times,
+fun guyz
+maintained
+a website advertising and selling psilocybin products. as a result of all the
+foregoing, police opened an investigation into illegal psilocybin trafficking.
+
+on may 17, 2023, an
+undercover police officer entered the store and purchased 7 grams of psilocybin
+for $60.00 from store employee kadeem wilson.
+
+also on may 17, 2023,
+police were conducting physical surveillance of
+fun guyz
+and observed
+several customers entering and exiting the store.
+
+on june 5, 2023,
+police executed a
+cdsa
+search warrant and found the following contraband
+inside the store:
+(i)
+113 packages of psilocybin edibles
+(psilocybin chocolate and gummies);
+(ii)
+798 grams of psilocybin in dried mushroom form;
+(iii)
+1,920 psilocybin "micro-dosing" pills; and
+(iv)
+11 bags of psilocybin in drink powder form (psilocybin tea
+and hot chocolate).
+
+the estimated retail
+value of the seizure (based on pricing advertised on the
+fun guyz
+website) was approximately $17,000.00.
+
+mr. akila admits that on the date of the above noted interview, he
+was in possession of psilocybin for the purpose of trafficking. specifically, he
+admits that on that date he was in possession of psilocybin inventory of
+substantially the same nature, quantity, quality, and value as outlined above and
+that it was possessed for the purpose of trafficking.
+
+photographs taken
+during the execution of the june 5, 2023 search warrant and photographs of the
+seized exhibits were also attached as an appendix to the
+asf.
+civilian witnesses
+
+at the request of counsel for the applicant and
+without objection from the crown, i agreed to identify the civilian witnesses
+by their initials to preserve their privacy.
+a.c.
+
+a.c.
+is 36 years of age.
+
+he is a board member of mapping the mind, a registered but
+inactive organization that previously hosted psychedelic science conferences
+from 2017 to 2019. he clarified that his testimony was not connected to the
+organization and that he is not currently involved in any other related groups.
+he does not own or operate any psilocybin-related business.
+
+a.c.
+first experimented with psilocybin as a teenager
+growing up in rural spain. he described his childhood as anxious, insecure, and
+emotionally repressed. he struggled with mental health and identity,
+particularly during adolescence and early adulthood.
+
+his first experience led to profound emotional insights,
+including compassion for others and a reevaluation of his relationship with his
+father and himself.
+
+he continues to use psilocybin occasionally in canada with a
+small group of friends, typically two to three times per year for introspection
+and emotional connection.
+
+he has tried mdma (5–6 times) and lsd
+(twice) but prefers psilocybin for its introspective qualities and shorter
+duration. he finds psilocybin tends to result in “less visuals
+and more intense thought stimulation and an increased capacity to evaluate and
+examine myself.”
+
+
+he views psilocybin as a tool for emotional healing, helping him
+build empathy, self-compassion, and overcoming feelings of inadequacy. it has
+also enabled him to express emotions more freely and become more forgiving of
+himself and others.
+
+he also sees psilocybin as a path to spiritual growth, describing
+divine experiences that foster a sense of universal connection. these
+encounters deepened his appreciation for christian values like love and
+forgiveness, led him to attend catholic mass more sincerely, and enriched his
+familial and cultural connections.
+
+a.c.
+has not attempted to access psilocybin through legal
+channels. he referenced clinical trials and exemptions under
+s. 56
+of the
+cdsa
+but admitted having limited knowledge in this regard.
+d.s.
+
+d.s.
+is 52 years
+old. he resides with his wife and 4 children.
+
+he is a community organizer affiliated with multiple psychedelic
+advocacy groups, including etheogenic research guild of toronto (ergot), the
+kitchener-waterloo, cambridge and guelph (kwcg) psychedelic society and the
+toronto psychedelic society. he confirmed that his involvement in psychedelic
+advocacy is longstanding and significant, describing it as a personal and
+community-focused pursuit. he does not own, operate, or work for any business
+involved in the cultivation or sale of psilocybin.
+
+he consumes psilocybin in mushroom form, sometimes processed into
+chocolates for dosing consistency. he does not use psilocybin when responsible
+for his children, citing safety concerns and dose-dependent effects.
+
+his first transformative psychedelic experience was with lsd at
+age 23, which led him to prefer psilocybin due to its shorter duration. he also
+emphasized the difficulty of determining lsd dosage due to its potency and
+unreliable sourcing, contrasting it with psilocybin, which is easier to dose
+accurately and more readily available. he explained that tolerance to
+psilocybin builds quickly, requiring a break between doses to maintain
+efficacy. he distinguished between full doses and microdosing, noting the
+latter does not produce noticeable effects.
+
+d.s.
+stated he uses psilocybin primarily for spiritual
+purposes. raised in the catholic faith, he found traditional religious
+practices lacking in depth and turned to psilocybin for spiritual connection. he
+described early transformative experiences with lsd and psilocybin, noting
+spiritual and therapeutic impacts.
+
+he regards psilocybin as a sacrament and a divine gift, enabling
+reconnection with his soul and a sense of unity with nature and humanity.
+psilocybin facilitated ego dissolution, increased empathy, and enhanced
+mindfulness. it helped him move away from materialism and toward introspection,
+creativity, and emotional healing. he believes psilocybin allows individuals to
+re-evaluate personal values and biases authentically and credits psilocybin
+with making him a more compassionate and mindful parent.
+
+he discussed legal access to psilocybin, referencing the
+special
+access program
+(sap) administered through the ministry of health and
+exemptions under
+s. 56
+of the
+cdsa. he acknowledged not pursuing legal
+access due to lack of qualifying medical conditions and skepticism about
+spiritual exemptions.
+s.l.
+
+s.l.
+is 44 years
+of age. she resides in toronto and is a board member of the psychedelic
+association of canada (pac), an educational organization with an emphasis
+on destigmatizing psychedelics especially psilocybin and mdma.
+her motivation for joining pac was to share her story and support
+others, especially in light of mental health challenges in canada. she has had
+a long-standing career in public relations and communications where she has
+held several executive positions. she does not own or operate
+any psilocybin related business.
+
+s.l. told the court about her personal experience with psilocybin
+therapy and its impact on her mental health and well-being.
+
+in her affidavit, she disclosed a history of trauma due to
+emotional abuse by a parental figure. having undergone almost
+two decades of talk therapy, she felt she continued to struggle on a
+subconscious level with unresolved issues resulting in fear, doubt, and shame.
+she had previously taken antidepressants as a teenager and indicated that her
+mother and her mother’s three sisters had been on antidepressants for some time
+as well.
+
+in 2022 she sought out the assistance of
+the
+synthesis institute (synthesis),
+an organization operating in the
+netherlands which offers professionally guided retreats using psilocybin. she
+has since attended two retreats, one in october of 2022 and one in august of
+2023.
+
+she described a rigorous application process for the retreat,
+including detailed questions on physical and mental health, drug history, and
+therapeutic background. this was followed by three weeks of preparation via
+zoom prior to her departure for the netherlands.
+
+she said the retreats were highly structured, safe, and
+supervised, with facilitators including psychologists, psychiatrists,
+indigenous guides, and a paramedic.
+
+during her first retreat in october of 2022, she underwent two
+psilocybin ceremonies during a five-day stay (with doses of 5g and
+approximately 20g of truffles), and three weeks of integration post-retreat.
+while under the influence of psilocybin, she described meeting, interacting
+with, and consoling her younger self and having memories of events that she
+believed she unknowingly repressed as a way of protecting her consciousness
+self. she described how “in an instant” she returned to the present day where
+she saw her best friend, her mother, brother, and other close friends all
+standing before her. she described how she witnessed herself through the eyes
+of those that loved her most and how this transformed her own sense of
+self-worth and intrinsic value. she said her increased sense of self-worth has
+continued since that time.
+
+she said her second retreat in august of 2023 was drastically
+different. she said she wasn’t experiencing anything recognizable in terms of
+people, places or memories but was in a vast inanimate space where she
+experienced a sense of discomfort and underwent a complete “ego dissolution.”
+she says she lost any understanding of who, what or where she was. she said a
+shapeless energy appeared before her which she interpreted to be the parental
+figure from her traumatic past. she said she was able to forgive them for the
+pain they had caused her.
+
+s.l.
+says that
+her experiences with psilocybin have allowed her to be more authentic and less
+pressured to please those around her. she says that she now has a newfound
+sense of peace and self-assurance and that this empowered her to break free
+from a job that provided financial security but left her feeling empty. she
+says psychedelic therapy has allowed her to become more connected to people, nature,
+and the universe.
+
+she said she has never applied and exemption through the
+sap
+or clinical trials and remains unfamiliar with s. 56 exemptions.
+expert evidence
+the nature of psilocybin
+
+the evidence with respect to the nature of psilocybin is not in
+dispute.
+
+psilocybin is a psychoactive substance commonly found in magic mushrooms
+although it can also be created in synthetic form. when consumed, it is
+metabolized into psilocin which primarily activates the serotonin 2a receptor
+in the brain.
+
+when taken in sufficient quantity, psilocybin produces an altered
+state of consciousness commonly referred to as a “psychedelic trip.” the
+effects as reported in clinical trials include visual and auditory
+hallucinations, an altered perception of time and space, emotional
+breakthroughs and enhanced introspection and cognitive flexibility.
+
+a psychedelic dose is typically defined as 2 grams or more dried
+mushrooms or 15 mg or more pure psilocybin. effects begin within 15 to 45
+minutes and generally last between four and six hours and sometimes up to eight
+hours.
+
+disagreement among the experts centred on
+psilocybin’s safety and efficacy.
+applicant’s experts
+professor lucas swaine
+
+professor swaine has a background in philosophy and political
+science, having obtained a doctorate in philosophy from the university of
+sussex in 1995 and a phd in political science at brown university in 1999. he
+has been a professor in the department of government at dartmouth college since
+2001 where he is presently the department chair. he has taught numerous courses
+which touch on political theory and philosophy as they pertain to fundamental
+freedoms, including freedom of thought and related international conventions.
+he has also written extensively in the area of freedom of thought from a
+political and philosophical perspective and in 2001 was among a number of
+scholars consulted by the un special rapporteur on freedom of religion or
+belief.
+
+on
+consent, professor swaine was qualified to give expert evidence on thought, the
+history of thought, freedom of thought, the history of freedom of thought,
+liberties and freedoms as understood by philosophers and contained within
+international conventions.
+
+council were in agreement that professor swaine
+was not an expert on canadian law and should not be permitted to opine on how
+these rights and freedoms should be interpreted by the court given that this is
+within the exclusive jurisdiction of the court.
+
+professor swaine defines “thought” to include
+“mental activity” in order to accommodate a broad spectrum of mental processes
+which would include feelings as well as “reasoning, reflecting, imagining,
+cogitating, remembering, wishing, questioning, desiring, believing,
+deliberating, and other activities of the mind.”
+
+
+he distinguishes thought from speech and conduct
+given that a person can think or feel without expressing or acting upon one’s
+thoughts or emotions. this he says is consistent with what john stuart mill
+describes in “on liberty” as the “inward domain of consciousness.” in this
+sense, his definition of thought excludes forms of expression.
+
+he also indicated that in his opinion mental
+activity is thought even if it does not lead to a belief or an opinion.
+
+he discussed the role that thought has played in
+human history, describing it as being fundamental both in terms of its
+contribution to the formation and success of complex societies. he cited its
+impact, from a social and political perspective on, the reformation, the
+emergence of the modern era and the recognition of individual rights and
+freedoms. he described how this led to the rise of contemporary constitutional
+democracies which emphasize individual autonomy and the right to direct one’s
+own life.
+
+professor swaine defines “freedom of thought” as
+the ability to engage in mental activity without interference by others. interference
+in the sense includes the actions of another party that result in hindering,
+obstructing, impeding, reaching, or punishing mental activity. in terms of
+state action that could lead to a violation of freedom of thought,
+professor swaine
+identified the following four
+categories;
+(i)
+investigation or intrusion into one’s thoughts
+(ii)
+modification or manipulation of one’s thoughts
+(iii)
+punishment for one’s thoughts
+(iv)
+preventing thought
+
+with respect to this latter category, professor
+swaine acknowledged that some care must be given in determining when state action
+should properly be viewed as thought prevention, given the many ways in which those
+actions can indirectly impede one’s thoughts process. he said that factors to
+be considered would include the purpose of the prevention, and whether the
+purpose could be pursued by less invasive means.
+
+as indicated by professor swaine, freedom of
+thought was seen by philosophers as both distinct from other freedoms such as
+conscience, belief, opinion, expression, and religion and foundational to them.
+he traced the “primacy” of freedom of thought to philosophers including john
+stuart mill, wilhelm von humboldt, and john rawls.
+
+professor swaine points out that the primacy of
+freedom of thought is reflected in its placement in relation to other rights in
+the united nations
+universal declaration of human rights
+which states
+that:
+everyone has
+the right to freedom of thought,
+conscience
+and
+religion; this right includes freedom to change his religion or belief, and
+freedom, either alone or in community with others and in public or private, to
+manifest his religion or belief in teaching, practice,
+worship
+and observance.
+
+professor swaine was consulted as part of the united
+nations general assembly interim report on
+freedom of religion or belief
+published in october 2021. the report was the first attempt to correlate
+international consensus on freedom of thought.
+
+professor swaine said the report underscores the
+primacy of freedom of thought which it describes as one’s “f
+orum internum.”
+professor
+swaine says this is consistent with john stuart mill’s “
+inward domain of
+consciousness.”
+
+the report describes the attributes of freedom
+of thought to include the freedom not to reveal one’s thoughts, the freedom
+from punishment for one’s thoughts and protection from impermissible alteration
+of thought. in this latter category, the report discusses the ways in which
+brain structures can be modified by the forcible administration of psychoactive
+substances.
+
+he acknowledged that the concept of freedom of
+thought is underdeveloped in both law and philosophy and that there is no thorough
+consensus among academics or scientists on the full scope of thought. he
+acknowledged that the report did not endorse thought prevention as a potential
+violation of freedom of thought.
+professor david nutt
+
+professor nutt is an experienced psychiatrist
+and professor of neuropsycho­pharmacology at imperial college in london
+england. in his work as a psychopharmacologist, he has gained extensive
+clinical and research experience on the effects of drugs on the brain. this
+includes clinical research related specifically to psilocybin. he has published
+extensively on the effects of drugs on the brain. this includes several books,
+including most recently a book on the clinical use of psychedelics in
+psychiatry. he has more than 20 years experience as a member of the united kingdom
+government advisory council on the misuse of drugs (acmd), including eight
+years as the chair of its technical committee.
+
+on consent, he was qualified to give expert
+evidence on the effects of psilocybin, the safety of psilocybin and the safety
+of psilocybin relative to the safety of other recreational drugs.
+
+according to professor nutt, psilocybin is a
+non-addictive non-toxic substance with a low potential for harm. he said
+numerous peer-reviewed studies and clinical trials demonstrate psilocybin’s
+safety and efficacy – that it has shown promising therapeutic potential in the treating
+conditions such as depression, anxiety, ptsd, and addiction and that it
+promotes cognitive flexibility, emotional openness, spiritual insight, ego
+dissolution and enhanced connectedness to family and others.
+
+professor
+nutt
+cited
+five
+studies
+
+involving a total of 160 patients in support of
+his
+opinion
+that one can reasonably expect to experience the following effects during or
+after their psilocybin experience: cognitive flexibility (a study involving 20
+patients with treatment resistant depression), spirituality (a study of 36
+patients, life meaning (14 patients, 7 of whom had treatment resistant
+depression), connectivity with self, others and nature and ego dissolution. all
+the studies cited explicitly recognize the limits of extrapolating their
+findings.
+
+with respect to cognitive flexibility, he said
+psilocybin was associated with an improved ability to engage with and alter thinking
+processes, particularly in relation to determinate depressive ruminations. he
+cited brain imaging studies that reveal the brain is more flexible after
+psilocybin treatment.
+
+he said these effects persist for up to a month after
+psychedelic dosing.
+
+
+he described how psilocybin stimulates the 5-ht2a
+receptors which are most dense in that part of the brain where
+abstract and creative thinking, imaging and self reflection take place. he said
+this stimulation leads to less synchronized brain activity which in turn interrupts
+established ways of thinking and allows people to think in more creative and
+diverse ways. he cited this as an explanation for the
+different
+levels
+of consciousness, hallucinations, out of body experiences and
+personal insights that occur during the psychedelic state.
+
+with respect to risks, he testified that the
+risks associated with psilocybin use is greater for people who have had past
+mental health issues. he said this was particularly the case with those
+suffering from psychosis or those with a close (first-degree) family relative
+with psychosis. he said there was limited studies on the effects of psilocybin
+on pregnant women and that he would not recommend that they use psilocybin.
+
+professor nutt emphasized that the psychedelic
+state itself is unpredictable, and that “in theory” it can lead to self-harm or
+accidental harm as a result of misinterpreting risks associated with a
+particular behaviour or action. he said that anxiety, both before and during psychedelic
+dosing, is a major predictor of poor negative outcomes from psilocybin
+treatment. however, he said these risks are very low when the following best
+practices are applied:
+(i)
+conduct medical screening prior to the use of
+psilocybin by a doctor or dispensing pharmacist;
+(ii)
+provide good education and
+preparation;
+(iii)
+taking psilocybin in a controlled environment in the presence of a therapist
+or a responsible adult who is not under the influence of
+psilocybin;
+(iv)
+providing lower doses to those at higher risk of panic attacks or
+those with a history of other anxiety disorders; and
+(v)
+avoiding the use of alcohol or other stimulant drugs as this has also
+been reported to result in adverse effects.
+
+overall, he said psilocybin ranks extremely low
+in terms of harm when compared to other recreation drugs and far less harmful
+than alcohol.
+
+given his evidence on the relative safety of
+psilocybin, professor nutt criticized current drug laws as arbitrary and not evidence
+based. he advocated for the legal access to psilocybin under a regulated harm
+reduction framework with key safety measures which would exclude vulnerable
+populations (e.g., those with psychosis) and include supervised or guided use
+(especially for first-time users), together with education and close controls. he
+stated, “…given the remarkable safety of psilocybin … it seems to me
+inexcusable that it should be denied to people who might want it.”
+
+
+he proposed a licensed access model like that in
+the netherlands
+where individuals
+could obtain
+psilocybin with a medical certificate of approval, with screening to exclude
+people with psychosis or taking contraindicated medications and where a smart
+card system could limit the number of doses per year. he also endorsed oregon’s
+legal psilocybin model which provides guided psilocybin experiences in a
+controlled and therapeutic environment. he did not endorse unrestricted
+recreational legalization.
+professor zachary walsh
+
+professor walsh has worked as a clinical
+psychologist for the past 16 years and is a professor in the department of
+psychology at the university of british columbia. he has extensive research
+experience in the use and effects of psychedelic drugs and psilocybin in
+particular. at the time of giving his evidence, he was the principal
+investigator of the largest study to date on the microdosing of psychedelics – primarily
+psilocybin. he has previous clinical experience in psilocybin-assisted
+psychotherapy through health canada’s special access program and has published
+several scientific articles on the use of psilocybin and mental health.
+
+on consent, professor walsh was qualified
+to provide expert evidence on the use, effects, and access to psilocybin,
+including its prevalence in canada, the risks associated with psilocybin use
+and the motivations underlying its consumption.
+he was also qualified to give expert evidence on the health and
+safety risks associated with the consumption of psilocybin when consumed under
+circumstances similar to the protocols established for clinical trials or the
+special access program approved by health canada.
+
+professor walsh testified that psilocybin is the most widely used
+serotonergic psychedelic in north america, citing its accessibility, ease of
+cultivation, and relatively shorter duration of effect compared to other
+psychedelics such as lsd.
+
+he referenced multiple peer-reviewed studies, including griffiths
+et al. (2011, 2008), smigielski et al. (2019), and lake & lucas (2024),
+which collectively demonstrate that psilocybin reliably induces mystical-type
+experiences. he says
+these altered thought
+experiences
+are characterized by ego dissolution, a sense of unity or transcendence, and
+are frequently described by participants as among the most meaningful of their
+lives. professor walsh noted that such experiences are associated with
+increased well-being, personal growth, and spiritual insight.
+
+three of the four studies cited in support of
+his opinion involves a total of hundred and 117 participants. the authors of
+one study involving 60 healthy participants concluded the following: “results
+of our study suggest that psychedelics do not enhance creative thinking per se,
+but rather mediate changes in particulars constructs of creative thinking, in a
+time-dependent manner.” the fourth study was survey-based involving 740 adult
+users of psychedelics, 80% of whom used psilocybin.
+
+in terms of safety, professor walsh opined that psilocybin
+presents a low risk profile when consumed in controlled settings. he
+acknowledged that adverse effects may include temporary increases in blood
+pressure, gastrointestinal discomfort, headaches, and, in some cases, anxiety
+or disorientation. he emphasized that these risks are generally manageable and
+significantly reduced when psilocybin is administered in accordance with
+established protocols, such as those used in clinical trials or in oregon’s
+regulated psilocybin framework. he further testified that challenging
+psychological experiences, while possible, are often therapeutically beneficial
+when properly supported.
+
+professor walsh reviewed the oregon model for psilocybin access,
+which includes mandatory screening, preparation sessions, supervised
+administration by certified facilitators, and optional integration sessions. he
+endorsed these procedures as reflective of best practices and consistent with
+those employed in health canada’s special access program. he noted that
+individuals with active psychosis, a history of self-harm, or contraindicated
+medications (e.g., lithium) are excluded from participation under these models
+given the increased risk. he noted that these trials as well
+as the sap only involve patients with mental and physical health problems and
+that this speaks positively to the anticipated risk associated with consumption
+for non-medical, thought-related purposes.
+
+he explained that the primary objective of
+screening procedures is to mitigate risk by excluding individuals with severe
+mental illness, given that the psychedelic experience induced by psilocybin can
+be profoundly intense and disorienting. it was further noted that the use of a
+controlled setting serves to reduce the likelihood of accidents (e.g. falls)
+arising from such disorientation, and the presence of a licensed facilitator
+further diminishes the risk of adverse and potentially harmful acute reactions.
+finally, he emphasized the importance of post-treatment reintegration sessions
+with a trained specialist, aimed at addressing any subsequent concerns and the
+monitoring of any unexpected negative outcomes.
+
+with respect to prevalence, professor walsh cited recent national
+survey data indicating that approximately two million canadians reported
+psychedelic use in the past year, with psilocybin being the most commonly used
+substance. he accepted the reliability of this data and acknowledged that
+motivations for use include personal growth, general well-being, and
+recreation. he testified that psilocybin is not typically associated with
+compulsive use or substance use disorders, and that its pharmacological profile
+does not engage the dopaminergic reward system in the same manner as substances
+such as alcohol or stimulants.
+
+professor walsh concluded that while psilocybin is not without
+risk, those risks are relatively low and comparable to or lower than those
+associated with legal substances such as alcohol.
+crown expert
+dr. joshua rosenblat
+
+dr. rosenblat is a practising psychiatrist
+at toronto western hospital
+with specialized training in
+psychopharmacology.
+in
+addition to providing direct clinical care to patients
+who are suffering from psychiatric illnesses, he conducts research and has
+authored numerous scientific articles on the use of psychedelics, including
+psilocybin. he was involved in seven psilocybin clinical trials, having led
+canada’s first investigator-initiated
+psilocybin
+clinical trial. he has experience in
+writing clinical trial protocols for the administration of psilocybin and has
+established a training program for mental health providers and physicians to
+learn how to safely support individuals undergoing psilocybin treatment.
+
+on consent, dr. joshua rosenblat was qualified to
+give expert evidence
+on the
+nature, pharmacology, and toxicology of psilocybin, psilocin, and other
+psychedelic drugs, including the use, consumption, effects, and factors
+influencing the incidence and severity of effects of those drugs.
+
+he indicated that psilocybin
+is a “classic psychedelic” that induces a non-ordinary state of consciousness
+(nosc), typically commencing 15–45 minutes after ingestion and lasting 4–8
+hours. the effects vary significantly depending on the dose administered, the
+individual’s neurochemistry and psychological state and environmental context,
+including the physical setting and preparatory support.
+
+dr. rosenblat
+emphasized that psilocybin’s effects are inherently unpredictable. even with
+identical doses and settings, the same individual may experience different
+effects across sessions. he confirmed that mystical and spiritual experiences
+are common and may correlate with positive long-term outcomes, though not
+universally.
+he indicated that n
+o specific outcome, whether mystical
+experience or adverse reaction, are guaranteed to occur.
+
+dr. rosenblat
+categorized psilocybin’s effects into acute, subacute, and long-term.
+
+he described the acute effects which last up to
+eight hours post ingestion to include the following:
+(i)
+cognitive effects: cognitive flexibility/creativity,
+disorganization, disorientation,
+distractibility;
+(ii)
+perceptual effects: hallucinations, derealization, depersonalization,
+time/space
+distortion;
+(iii)
+emotional effects: anxiety, paranoia, modal ability,
+agitation;
+(iv)
+physical effects: increased blood pressure, nausea, headaches; and
+(v)
+rare but serious effects: seizures, attempts to leave the session,
+harm to self or others (including suicidality and homicidality).
+
+he described the subacute effects which last
+from days to weeks post ingestion to include the following:
+(i)
+an “afterglow” period marked by increased
+openness, wellbeing, and cognitive flexibility; and
+(ii)
+common side effects which
+include insomnia, appetite changes, headaches, and lingering nausea.
+
+he indicated that the long-term effects were
+less well understood due to limited follow-up data and selection bias but said
+the potential risks included hallucinogen use disorder (i.e. addiction) and hallucinogen
+persisting perception disorder (
+h.p.p.d.
+) involving distressing
+flashbacks. he said the long-term effects had not been observed in clinical
+trials to date but have been reported in recreational users.
+
+his description of the
+acute effects mentioned above included the following:
+(i)
+cognitive flexibility: increased ability to change
+one’s perceptions. he gave an example of how this would permit one to change
+one’s perception of oneself from “i’m a bad person” to “
+i’m 
+good
+person.” he described how this could lead to a change in behaviour and
+increased social interactions. he agreed that these effects have been seen in
+the one-month follow-up,” and that there are some long-term studies that
+suggest that cognitive flexibility may persist past that point. he said that
+psilocybin temporarily
+increases
+neuroplasticity,
+the
+ability
+of
+the
+brain
+to
+rewire
+itself.
+he indicated that
+“
+the
+theory
+is
+that
+if
+you
+have
+a
+therapist
+there
+to
+help
+you
+rewire
+it,
+in
+a
+positive
+adaptive
+way,
+probably
+really
+helpful
+versus
+if
+there’s
+someone
+there
+who
+pushes
+you
+in
+the
+direction
+of
+maybe
+new
+thought
+patterns but
+equally
+negative
+and
+unhelpful
+thought
+patterns.” he said this could lead to thinking in a different way i.e.,
+in a more meaningful, logical way.
+(ii)
+disorganization: “…in an ordinary state
+of
+consciousness
+we
+typically
+have
+linear
+thought
+patterns,
+we
+think
+after
+we
+finish
+court,
+we’ll
+go
+have
+some
+lunch
+and
+then
+we’ll
+come
+back
+to
+court,
+that’s
+sort
+of
+the
+linear
+progression,
+whereas
+disorganization
+would
+be
+scattered
+all
+over
+the
+place,
+thinking
+about
+last
+week,
+thinking
+about
+two
+weeks
+from
+now
+and really not having a clear linearity
+to your thought pattern…”
+(iii)
+disorientation: “disorientation
+is
+specific
+to
+knowing
+where
+you
+are. so,
+disorientation
+would
+be
+when
+we
+ask
+people,
+‘do
+you
+know
+where
+you
+are?’
+‘do
+you
+know
+what
+date
+it
+is?’
+and
+they
+can’t
+answer
+those
+questions,
+they’re
+disoriented,
+they
+don’t
+know
+where
+they
+are
+or
+what
+the
+date
+is.
+sometimes
+in
+extreme
+situations, they wouldn’t even know what their name is.”
+(iv)
+distractibility: “distractibility,
+that
+one
+i
+think
+is
+probably
+more
+easy
+to
+understand
+just
+in
+terms
+of
+being
+distracted, and
+if
+you’re
+trying
+to
+have
+a
+conversation,
+they
+might
+be
+distracted
+by
+something
+on
+the
+wall
+or
+something
+behind
+them,
+and
+they
+really can’t maintain their focus on one person or one topic.”
+(v)
+hallucinations: “…seeing
+or hearing things that aren’t there…”
+(vi)
+derealization: “derealization is a
+symptom of dissociation where
+things
+feel
+like
+they’re
+not
+real.
+it
+can
+also
+be
+quite
+distressing
+where
+you
+feel
+like
+the
+person
+in
+front
+of
+you
+is
+fake,
+is
+not
+a
+real
+person,
+the
+furniture
+in
+the
+room
+is
+not
+real,
+sometimes
+feeling that
+they’re
+personally
+not
+real,
+so just this general sense that things
+are not real.”
+(vii)
+depersonalization: “depersonalization
+would be in the same bucket of
+dissociation,
+but
+depersonalization
+is
+more
+so
+relating
+to
+being
+disconnected
+from
+oneself.
+so,
+that
+would
+be
+more
+like
+your
+out-of-body
+experience
+where
+you
+feel
+like
+you’ve
+been
+removed
+from
+your
+body
+and
+sometimes,
+you’re
+looking
+down
+at
+yourself, that’s depersonalization.”
+(viii)
+time distortions: “…with time distortion sometimes people
+feel like
+things
+are
+moving
+very
+slowly
+or
+they
+feel
+like
+things
+are
+moving
+very
+quickly.
+it
+would
+be
+very
+common
+that
+patients
+will
+say
+to
+me
+at
+the
+end
+of
+the
+day
+“
+i
+have
+no
+idea
+how
+long
+i’ve
+been
+in
+this
+room
+for”
+because
+they
+lose
+track
+of
+time;
+(ix)
+space distortions: “
+space
+distortion
+as
+well
+in
+terms
+of
+sometimes
+it
+looking
+like
+there’s
+more
+room.
+so,
+you
+know,
+sometimes
+people
+tripping
+and
+falling
+because
+they
+think
+that
+there’s
+more
+space
+between
+them
+and
+something
+in
+front
+of
+them,
+so
+just
+sort
+of
+a
+distortion
+of the space between them and other
+objects around them.”
+
+dr. rosenblat testified as to his direct experience in
+administering approximately 120 doses of psilocybin to 70 patients within
+regulated clinical trials. he described the rigorous
+safeguards employed in clinical trials which are subject to health canada
+approval, research ethics board review, and s. 56 exemptions under the
+controlled
+drugs and substances act
+which permit him to both
+possess and
+administer
+psilocybin.
+
+participants are
+screened to exclude those with
+psychiatric or medical
+risk factors. sessions occur in custom-designed rooms with two trained
+therapists present and real-time monitoring. rescue medications such as gravol
+and lorazepam are available for emergent symptoms. he said serious adverse
+events (saes) are rare but require immediate reporting and intervention. despite
+this, he noted that incidents requiring rescue interventions, either pharmacological
+or therapeutic, are common, even if saes are not.
+
+while acknowledging the
+growing body of research, dr. rosenblat emphasized the limitations of existing clinical
+research data. in his opinion, the long-term effects of psilocybin treatment are
+still poorly understood. he attributed this to the lack of patient follow up. he
+cited a lack of research funding required to conduct long term follow-up as
+well as the declining retention rate of patients following their session.
+
+he discussed the use of
+survey-based studies but said they are considered lower quality than randomized
+controlled trials.
+
+nonetheless,
+he said there was general consensus regarding the key risk factors associated
+with psilocybin which include
+patient
+factors (e.g., psychiatric history, age), drug factors (e.g., dose, purity,
+frequency) and environmental factors (e.g., setting, support).
+
+he indicated that psilocybin is not
+currently approved as a medicine in canada and that no phase iii clinical trials
+have been completed. he said that two positive phase iii randomized control
+trials demonstrating safety and efficacy are required for fda or health canada
+approval. he indicated that two such trials are ongoing but have not yet been
+completed. if successful, he estimated that psilocybin may be approved for
+medical use in approximately 5 years.
+
+dr.
+rosenblat also addressed the broader context of psychedelic use, referencing
+survey data (evans et al.) indicating that while some individuals report
+extended difficulties following psychedelic use, a majority ultimately view
+their experiences as beneficial. he cautioned, however, that continued use may
+reflect dependency rather than therapeutic gain
+and emphasized the need for continued research to
+determine whether the benefits outweigh the harms.
+health canada witnesses
+ian mackay
+
+mr. mackay manages the
+special access program
+(
+sap
+) for
+health canada which is responsible for granting exemptions for the use of
+controlled substances, including psilocybin, for medical purposes.
+
+mr.
+mackay testified that the
+sap
+is designed to facilitate access to
+unapproved drugs for patients with serious or life-threatening conditions, upon
+request by a licensed healthcare practitioner. the program operates under the
+food and drug regulations and is not intended to provide access for
+recreational, philosophical, or non-clinical purposes.
+
+as
+of october 2024,
+sap
+had authorized 245 requests for psilocybin, with
+approximately 50 additional authorizations granted between october and february
+2025. the lead indication for these requests was major depressive disorder. mr.
+mackay confirmed that
+sap
+does not currently recognize ptsd as a lead
+indication for psilocybin, although mdma is considered appropriate for that
+condition.
+
+he
+further testified that one open label individual patient (olip) trial involving
+psilocybin was also approved. no requests have been received for access to psilocybin
+based on freedom of thought, spiritual exploration, or personal development.
+mr. mackay emphasized that all sap decisions are grounded in clinical evidence
+and therapeutic need.
+
+importantly,
+mr. mackay’s testimony confirmed that the sap does not provide a pathway for
+individuals seeking psilocybin for non-clinical purposes, including those grounded in freedom of thought or spiritual inquiry.
+dr. jennifer pelley
+
+dr. pelley oversees the development and implementation of policies
+and regulations under the
+cdsa
+in her role as the director of the office
+of regulatory affairs within health canada’s
+controlled substances
+and overdose response directorate.
+
+dr.
+pelley explained that psilocybin is classified as a schedule iii controlled
+substance under the
+cdsa
+and as a restricted drug under part j of the
+food
+and drug regulations. she confirmed that canada is a party to the 1971 un
+convention
+on psychotropic substances, which governs international control of
+psilocybin.
+
+she
+outlined three legal pathways for access:
+(i)
+clinical trials under the
+food and drug act (fda
+);
+(ii)
+the special access program (sap): and
+(iii)
+section 56(1) exemptions under the
+cdsa
+for medical, scientific,
+or public interest purposes.
+
+dr.
+pelley emphasized that s. 56(1) cannot exempt individuals from prohibitions
+under the
+fda, including the sale of unapproved drugs.
+
+at
+paragraph 23 of her affidavit, dr. pelley stated that the purpose of the
+cdsa
+is “to protect public health and maintain public safety by balancing the need
+for access to the substances scheduled under the cdsa and its regulations for
+legitimate medical, scientific and industrial uses with the risks associated
+with their misuse and their diversion to illegal markets.” she cited
+canada v. phs community services
+society,
+
+in support of her position.
+
+upon
+cross-examination, dr. pelley clarified that her articulation of the
+cdsa
+’s
+purpose was based on internal health canada briefing materials and not directly
+derived from the supreme court’s decision in
+phs.
+she acknowledged that the core purpose is dual: public health and public
+safety.
+
+in her affidavit she indicated that when
+considering a s. 56 exemption, the availability of existing regulatory pathways
+to conduct the activity is one of the factors and that generally, established
+regulatory pathways should be explored before making a request for an
+individual s. 56(1) exemption under the
+cdsa.
+
+she
+further testified that health canada has yet to receive a request for an
+exemption to allow the use psilocybin for “freedom of thought” purposes and
+that
+they
+do not maintain public guidance on how to
+apply for such exemptions.
+
+she spoke of 82 instances between 2020 and october of 2024 where
+exemptions for psilocybin use were granted on compassionate grounds for end-of-life
+treatment involving psychotherapy. in another example, she cited 19 healthcare
+professionals who were granted access to psilocybin for their own personal use.
+the exemptions were granted on the basis that their own experience with
+psilocybin would place them in a better position to understand and support the patients
+they were treating with psilocybin assisted therapy.
+
+
+she said that health canada does not provide any information on
+what is required in order to obtain a personal exemption for psilocybin use. she
+explained that apart from exemptions for medical or therapeutic purposes,
+health canada is not in the business of promoting access to what is effectively
+an illegal drug.
+iii.
+findings of fact
+
+psilocybin is a
+naturally occurring psychedelic compound found in certain species of mushrooms,
+often called “magic mushrooms.” it is listed as a schedule iii substance under
+the
+controlled drugs and substances act, which prohibits its possession and
+distribution in the absence of an authorized exemption.
+
+when taken in
+sufficient quantity, psilocybin produces a psychedelic state or “trip” which
+lasts from 4-8 hours. the purported thought related benefits are achieved as a
+result of having experienced a psychedelic trip. the reported benefits include
+cognitive flexibility, ego dissolution, spiritual insights and enhanced
+connections with others and nature.
+
+i accept the
+evidence of the civilian witnesses. each of them described the therapeutic
+benefits they received from of the consumption of psilocybin. they described
+experiencing profound emotional and spiritual insights, emotional healing, a newfound
+sense of self-worth and a greater sense of connectedness to nature and those
+around them.
+
+none of them had
+previously applied pursuant to
+s. 56
+of the
+cdsa
+for an exemption that
+would allow them to possess and consume psilocybin on the basis that it
+enhanced their thought process.
+
+the
+sap
+administered
+by the ministry of health does not provide exemptions for nonclinical use of
+psilocybin. the program exists only for the purpose of providing access to
+patients with serious or life-threatening conditions.
+
+based on the
+evidence of dr. pelley which i accept, i am satisfied that individuals seeking
+access to psilocybin for any thought related benefits have no direct means of
+doing so through a s. 56 exemption and that any such request would be denied.
+
+more importantly,
+her evidence satisfies me that the regulatory framework that would be necessary
+for accessing psilocybin in a controlled environment, with appropriate
+safeguards, does not exist.
+
+on the evidence
+of the three medical experts, i am satisfied that psilocybin can be safely
+administered in a highly regulated and controlled environment. by “safely”, i
+mean that the risk to self and others can be adequately reduced and that
+protocols can be put in place to reduce access to individuals with known
+psychiatric or medical risk factors.
+this
+is what is now occurring in clinical trials related to the safety and efficacy
+of psilocybin for medical and therapeutic use.
+
+i
+find that the acute effects of a psychedelic dose of psilocybin, which can last
+between four and eight hours, are as described by dr. rosenblatt – that in
+addition to cognitive flexibility, the psychedelic state itself produces
+disorganized nonlinear thought patterns, hallucinations, distortions as to time
+and place, and depersonalization. i find that the effects a psychedelic dose of
+psilocybin are inherently unpredictable in that no particular outcome can be expected
+in any given case.
+
+i
+am also satisfied on the evidence of both professor nutt and dr. rosenblat that
+psilocybin increases neuroplasticity
+and that with the
+assistance of a therapist, would enable new thought patterns to develop.
+studies show these effects can be maintained for up to a month and there are
+some long-term studies that suggest this benefit could extend beyond that
+point.
+
+i
+also find that although the results of clinical trials conducted thus far are promising
+with respect to the efficacy of psilocybin in the treatment of certain mental
+health conditions, those results are preliminary. as indicated by dr. rosenblat,
+several clinical trials are ongoing which, if successful, could lead to the approval
+of psilocybin for medicinal purposes in approximately five years.
+
+i find that the long-term effects of psilocybin use are still not
+fully understood.
+iv.
+applicable legislation
+courts of justice act, r.s.o.1990, c. c.3
+notice
+of constitutional question
+109
+(1
+) notice
+of a constitutional question shall
+be served on the attorney general of canada and the attorney general of ontario
+in the following circumstances:
+1. the constitutional validity or constitutional
+applicability of an act of the parliament of canada or the legislature, of a
+regulation or by-law made under such an act or of a rule of common law is in
+question.
+2. a remedy is claimed under
+subsection 24 (1)
+of the
+canadian charter of rights and freedoms
+in relation to an act or
+omission of the government of canada or the government of ontario.
+failure to give notice
+109(2) if a party fails to give notice
+in accordance with this section, the act, regulation,
+by-law
+or rule of common law shall not be adjudged to be invalid or inapplicable, or
+the remedy shall not be granted, as the case may be.
+the
+controlled drugs and substances act s.c. 1996 c. 19
+interpretation
+definitions
+2
+(1)
+in this act,
+possession
+means possession within the
+meaning of
+subsection 4(3)
+of the
+criminal code; (
+possession
+)
+traffic
+means,
+in respect of a substance included in any of schedules i to v,
+(a)
+to sell,
+administer, give, transfer, transport, send or deliver the substance,
+(b)
+to sell
+an authorization to obtain the substance, or
+(c)
+to offer
+to do anything mentioned in paragraph (a) or (b),
+otherwise
+than under the authority of the regulations.
+possession of
+substance
+4
+(1)
+except as authorized under the regulations, no person shall
+possess a substance included in schedule i, ii or iii.
+punishment
+6)
+every
+person who contravenes subsection (1) where the subject-matter of the offence
+is a substance included in schedule iii
+(a)
+is guilty of an indictable offence and liable to imprisonment
+for a term not exceeding three years; or
+(b)
+is guilty of an offence punishable on summary conviction and
+liable
+(i)
+for a first offence, to a fine not exceeding one thousand
+dollars or to imprisonment for a term not exceeding six months, or to both, and
+(ii)
+for a subsequent offence, to a fine not exceeding
+two thousand dollars or to imprisonment for a term not exceeding one year, or
+to both.
+trafficking in
+substance
+5
+(1)
+no person shall traffic in a substance included in schedule i,
+ii, iii, iv or v or in any substance represented or held out by that person to
+be such a substance.
+possession for
+purpose of trafficking
+(2)
+no person shall, for the purpose of trafficking, possess a substance
+included in schedule i, ii, iii, iv or v.
+punishment
+(3)
+every person who contravenes subsection (1) or (2)
+(a)
+if the subject matter of the offence is a substance included in
+schedule i or ii, is guilty of an indictable offence and liable to imprisonment
+for
+life;
+(a.1)
+[repealed,
+2018, c. 16, s.
+196
+]
+(b)
+if the subject matter of the offence is a substance included in
+schedule iii or v,
+(i)
+is guilty of an indictable offence and liable to imprisonment
+for a term not exceeding ten years, or
+(ii)
+is guilty of an offence punishable on summary
+conviction and liable to imprisonment for a term not exceeding eighteen months;
+and
+(c)
+where the subject-matter of the offence is a substance included
+in schedule iv,
+(i)
+is guilty of an indictable offence and liable to imprisonment
+for a term not exceeding three years, or
+(ii)
+is guilty of an offence punishable on summary
+conviction and liable to imprisonment for a term not exceeding one year.
+exemption by minister
+56
+(1)
+the minister may, on any terms and conditions that the
+minister considers necessary, exempt from the application of all or any of the
+provisions of this act or the regulations any person or class of persons or any
+controlled substance or precursor or any class of either of them if, in the opinion
+of the minister, the exemption is necessary for a medical or scientific purpose
+or is otherwise in the public interest.
+exception
+(2)
+the
+minister is not authorized under subsection (1) to grant an exemption for a
+medical purpose that would allow activities in relation to a controlled
+substance or precursor that is obtained in a manner not authorized under this
+act to take place at a supervised consumption site.
+canadian charter
+of rights and freedoms
+section
+2(b)
+2.
+fundamental freedoms
+everyone
+has the following fundamental freedoms:
+(a)
+freedom of thought, belief, opinion, and
+expression, including freedom of the press and other media
+communication;
+section 7
+7. life,
+liberty
+and security of the
+person
+everyone has
+the right to life,
+liberty
+and security of the
+person in the right not to be deprived thereof except in accordance with the
+principles of fundamental justice.
+v.
+standing
+section 5(2)
+
+the applicant has standing to challenge
+s. 5
+of the
+cdsa
+even
+though he does not personally claim to use psilocybin for thought
+related purposes or otherwise. our law provides that an
+accused may challenge the constitutionality of a law
+under which he is charged by pointing to the unconstitutional effects it has on
+third parties.
+
+to this extent, anyone subject to a criminal prosecution has the right to
+challenge the constitutionality of an offence with which they are charged.
+section 4(1)
+
+as indicated
+above, the applicant submits that the prohibition on trafficking in psilocybin
+unreasonably interferes with the s. 2(b) and 7 rights of others who would seek
+to benefit from accessing it for thought related purposes. relying on a number
+of decisions including the ontario court of appeal decision in
+hitzig v
+canada,
+
+he submits that, “the right to access a substance must include a means of
+access.”
+
+in short, the applicant submits that there is a constitutional right to access
+psilocybin for thought related purposes and that this right is illusory unless
+the prohibition on trafficking is ruled unconstitutional.
+
+as part of his
+argument, the applicant proposes that psilocybin could safely be made available
+for those wishing to access it for thought related purposes in a supervised and
+regulated clinical setting similar to the ones now operating in the state of
+oregon.
+
+based on the
+implied assumption that access necessarily involves possession, the crown
+submits that this amounts to a collateral attack
+s. 4(1)
+of the
+cdsa.
+the crown points to the fact that the applicant has not included
+s. 4(1)
+in his
+ncq
+or in his plea for relief
+and therefore he has no standing to directly challenge it.
+
+the crown
+submits that an indirect attack on
+s. 4(1)
+cannot succeed on its merits given
+that the law does not recognize a right to possess a controlled substance other
+than for medical purposes or a right to trafficking generally.
+
+despite this,
+the applicant maintained in oral submissions that he was not seeking a ruling
+on the constitutionality of
+s. 4(1)
+of the
+cdsa
+but argued that if
+psilocybin is a freedom of thought tool protected by the
+charter,
+then
+laws which restrict
+access
+to it by third parties are also
+unconstitutional.
+
+i find that in
+the absence of formal notice and a ruling on standing to challenge
+s. 4(1)
+of
+the
+cdsa, the applicant cannot challenge the constitutionality of
+s.
+5(2),
+by pointing to its unconstitutional effect on the right of
+others
+to possess
+psilocybin for thought related purposes.
+
+in my view, the
+issue is not whether an indirect attack can succeed on the merits. it rests on
+the principle that one is not permitted to do indirectly (e.g., challenge the
+constitutionality of an uncharged offence) that which cannot be done directly
+(e.g., proceeding with that challenge without filing notice).
+such an approach has
+consistently been rejected by our courts.
+
+
+the wording of
+s.
+109
+of the
+cja
+is such that absent proper notice, i lack the authority
+to rule on the constitutionality of
+s. 4
+of the
+cdsa. as indicated by
+the ontario court of appeal in
+r v. briggs,
+“
+in the absence
+of the constitutionality of the legislation being raised in the appropriate
+manner, this court has no authority to do so. a party intending to challenge
+the constitutional validity of legislation is required to provide notice of a
+constitutional question to the attorneys general of the province and canada. in
+the absence of such notice, the court is barred from considering the issue.”
+
+as previously
+stated, accused persons always have the right to challenge the
+constitutionality of an offence under which they are charged.
+
+different
+considerations apply where the accused seeks to challenge the constitutionality
+of a provision other than the one with which they are charged. in such cases,
+in addition to filing notice under the
+courts of justice act, the
+accused must meet the requirements for either “private interest” and/or “public
+interest” standing with respect to the uncharged offence. the case of
+r v.
+mernagh
+
+is a prime example.
+
+private interest
+standing requires evidence that the accused has a direct personal interest in
+the provision in question
+beyond that of a member of the
+general public.
+the interest must
+be “real and not speculative.”
+
+
+“public
+interest” standing to challenge the constitutionality of a provision other than
+the one charged will be satisfied where an accused can establish:
+(i)
+that there is a serious issue raised as to the validity of the
+legislation;
+(ii)
+that he is directly affected by the impugned provision or has a genuine
+interest in its validity; and
+(iii)
+that there is no other reasonable and effective way this issue could be
+brought before the court.
+
+
+in my view, it
+is unlikely that the applicant would be granted standing to challenge
+s. 4
+of
+the
+cdsa
+on the
+basis of someone else’s right to
+possess
+psilocybin,
+even if
+was been
+included in the
+applicant’s
+notice.
+
+while this may explain why
+the applicant decided not to directly challenge
+s. 4(1), i am not satisfied
+that the present state of the law grants him another means by which to generate
+what would in effect be a ruling on that issue.
+
+in my view, in
+the absence of proper notice, the case law confirms the ability to challenge a
+charged offense based on its effect on third parties but does not support the
+ability to do so where the constitutionality of the charged offence rests on
+the constitutionality of an uncharged offence for which the third party would
+be liable to prosecution.
+
+
+if an indirect attack
+were permitted in these circumstances, it would effectively do away with the
+standing requirements with respect to uncharged offences – requirements that
+were designed to promote the efficient use of court resource by weeding
+frivolous or hypothetical disputes. anyone would be able to challenge the
+constitutionality of a charged offence based on its effect on third parties to
+commit other offences with which the accused is not charged.
+
+it would also potentially
+result
+in considerable confusion in the
+law. in the absence of a direct challenge to the prohibition on possession, a finding
+that
+s. 5(2)
+is unconstitutional because it deprives others of a
+constitutionally protected right to
+possess
+psilocybin for thought
+related purposes would invariably lead the public to believe that they have a
+right to possess psilocybin when
+s. 4(1)
+of the
+cdsa
+states otherwise.
+
+the question
+remains as to whether there is any other basis upon which the applicant can
+challenge the constitutionality of s. 5 without relying on the ability of
+others to possess psilocybin for thought related purposes. this, i find, is
+what this case is about and why the applicant has consistently referenced the
+ability of others to “access” as opposed to “possess” psilocybin when referring
+to the unconstitutional effect that
+s. 5
+of the
+cdsa
+has on others. although
+not specifically stated, the key lies in the difference between possessing a
+controlled substance and having it administering.
+
+i begin by
+noting that the
+cdsa
+defines “traffic” to include the following: “to
+sell,
+administer, give, transfer, transport, send or deliver a substance
+”.
+
+
+the
+cdsa
+incorporates the definition of “possession” contained in the
+criminal code.
+
+the
+criminal code
+defines possession to include both knowledge of, and
+control over, the item being possessed.
+
+with these
+definitions in mind, a controlled substance can be trafficked to someone by
+administering it to them in circumstances where the person to whom the
+substance is administered does not have legal possession i.e., control over the
+substance. this routinely occurs when one receives a vaccine. we “access” the
+vaccine by having it administered to us in circumstances where we do not
+possess it in any meaningful sense. likewise, when a patient receives and
+injection of a of morphine for pain relief, the patient does not have control
+of the morphine in any real sense. this happens in our hospitals on a daily basis
+without the need for the patient to obtain a s. 56 exemption.
+
+as indicated by
+dr. rosenblat, in clinical trials, he obtains a s. 56 exemption to both
+possess
+and
+administer
+the psilocybin. the fact that he gets an exemption for “administering”
+and not “giving” or “transferring” is indicative of the fact that the patient
+is not expected to be in actual possession of the psilocybin.
+
+this would
+potentially be the case in the clinic model advocated by the applicant where
+individuals could
+access
+psilocybin in a highly regulated and controlled
+environment by having it administered to them in pill form by a trained and licensed
+facilitator and without being in legal possession or control of it. this would
+mirror what occurs in clinical trials were psilocybin is administered in a
+controlled environment with significant safeguards.
+
+in this sense,
+the applicant is effectively proposing a form of access which would preserve
+the prohibition on general possession of psilocybin under
+s. 4(1)
+of the
+cdsa.
+this would be entirely consistent with the applicant’s position that he is not
+challenging the constitutionality of
+s. 4
+of the
+cdsa. it would also be consistent
+with the views expressed by the professor nutt and professor walsh, neither of
+whom endorsed the general possession and use of psilocybin outside of a
+regulated and controlled environment with appropriate safeguards.
+
+therefore, given
+that he has not filed notice to challenge
+s. 4(1), i find that while the
+applicant can challenge
+s. 5
+of the
+cdsa
+based on the right of others to
+access
+psilocybin, he cannot do so based on their right to
+possess
+it.
+
+it is on this
+basis that i will consider the following constitutional challenge in this case:
+1.
+does
+prohibiting the administration of psilocybin for personal use by others under
+s.5
+of the
+controlled drugs and substances act, by reason of the inclusion of this
+substance in schedule iii to the act, infringe
+ss. 2(b)
+and
+7
+of the
+canadian
+charter of rights and freedoms
+?
+2.
+if
+the answer to question one is in the affirmative, is the infringement justified
+under
+s.1
+of the
+charter.
+vi.
+charter interpretation – section 2(b)
+
+freedom of thought
+occupies
+a foundational place in the
+canadian charter of rights and freedoms,
+appearing first among the fundamental freedoms enumerated in
+s. 2(b). yet,
+despite its prominence, the concept remains largely unexplored by our courts.
+
+since the enactment of the
+charter,
+lower courts have delineated the types of activities that infringe
+upon thought without providing a detailed interpretation of its scope. the
+activities in question primarily related to expressible content:
+(i)
+prohibiting
+possession
+of
+marijuana
+does
+not
+limit
+freedom
+of
+thought
+because the effect that marijuana has on the individual’s thought processes
+“does not attract a free-standing constitutional right
+”;
+
+(ii)
+requiring a person who was found guilty of the crime, but who believes
+they are innocent, to admit their guilt limits their freedom of
+thought;
+
+(iii)
+mandatory antiterrorism deprogramming imposes belief systems upon the
+subject and thus limit freedom of thought and
+expression;
+
+(iv)
+prohibiting business on remembrance day does not limit freedom of
+thought because its purpose is not to compel remembrance or agreement with the
+associated
+ideals;
+
+(v)
+seatbelt laws do not limit freedom of thought, because freedom of
+thought does not entail a freedom to impact on one’s own
+thoughts;
+
+(vi)
+as a physician made conditional on certain research opinions and on
+participation in psychotherapy does not limit freedom of
+thought,
+or
+alternatively is a proportionate limit.
+
+
+in
+r
+v.
+sharpe,
+the supreme court of canada described freedom of thought as
+falling on a continuum of “intellectual and expressive freedom” but did not
+articulate a comprehensive framework for its scope, content, or limits:
+the right conferred by
+s. 2(b)
+of the
+charter
+embraces a continuum
+of intellectual and expressive freedom – “freedom of thought, belief, opinion
+and expression”.
+the right to
+possess
+expressive material is integrally related to the development of thought,
+belief,
+opinion
+and expression. the possession of
+such material allows us to understand the thought of others or
+consolidate
+our own thought. without the right to
+possess
+expressive material, freedom of thought,
+belief,
+opinion
+and expression would
+be compromised. thus the possession of expressive
+materials falls within the continuum of rights protected by s. 2(b) of the
+charter.
+the private nature of the proscribed material may heighten the
+seriousness of a limit on free expression. … it engages the fundamental right
+to freedom of thought.
+
+
+accordingly, this court must turn
+to the general principles of
+charter
+interpretation for assistance.
+position of the parties
+
+the applicant submits that freedom
+of thought in
+s. 2(b)
+of the
+charter
+should be interpreted to protect
+all mental activity
+including the process by which
+thought occurs. he submits that the court should define thought to include feelings
+as well as “reasoning, reflecting, imagining, cogitating, remembering, wishing,
+questioning, desiring, believing, deliberating, and other activities of the
+mind.” the applicant submits that this “large and liberal interpretation”
+
+is required to give full
+effect to its purpose.
+
+the applicant submits that psilocybin is a tool
+that enhances the thought process and that
+s. 5
+of the
+cdsa
+infringes
+upon freedom of thought to the extent that it prohibits access to this tool.
+
+the crown submits that
+s. 2(b)
+of the
+charter
+should
+not be taken to include all mental
+activity and must be interpreted in relation to the other freedoms enumerated
+in
+s. 2(b), which focus on expressible content. the crown further submits that
+freedom of thought is meant to protect against state intrusion into,
+manipulation of, or punishment for thoughts and that it does not create an entitlement
+to enhance or alter one’s thoughts with psychoactive drugs.
+
+the crown argues that if the
+applicant’s proposed approach were accepted, the logic underlying it would
+extend far beyond controlled substances – that any state action that limited
+access to anything that affected mental activity would constitute an
+infringement of freedom of thought. the crown says this cannot be the law.
+
+the crown proposes that freedom of thought be
+interpreted as protecting the kind of ideas, and the processes of developing
+and arranging those ideas, that can generate beliefs, opinions, and other
+expressible content.
+the crown submits that this
+would exclude pre-intellectual experiences like feelings. the crown submits
+that this is in keeping with the decision in
+r v. sharpe
+
+given that the purpose identified by the supreme court with respect
+to freedom of expression focused on the protection of a conveyance of
+meaning.
+
+the crown then points to the three-part
+test for identifying breaches of expression developed by
+the supreme
+court of canada
+canadian
+broadcasting corp. v. canada (attorney general
+)
+
+and
+proposes a similar test adapted to freedom of thought.
+the crown submits
+that the prohibition in
+s. 5(2)
+fails under this test.
+principles of charter interpretation
+
+discerning the meaning of the
+charter
+right requires the
+court to go beyond the ordinary rules of statutory interpretation. as indicated
+in
+hunter v. southham inc.:
+a statute defines present
+rights and obligations. it is easily enacted and as easily repealed. a
+constitution, by contrast, is drafted with an eye to the future. its function
+is to provide a continuing framework for the legitimate exercise of
+governmental power and, when joined by a
+bill
+or a
+charter of rights,
+for
+the unremitting protection of individual rights and liberties. once enacted,
+its provisions cannot easily be repealed or amended. it must, therefore, be
+capable of growth and development over time to meet new social,
+political
+and historical realities often unimagined by
+its framers. the judiciary is the guardian of the constitution and must, in
+interpreting its provisions, bear these considerations in mind. professor paul
+freund expressed this idea aptly when he admonished the american courts “not to
+read the provisions of the constitution like a last will and testament lest it
+become one.”
+
+
+in
+big
+m
+drug
+mart,
+the supreme court of canada provided the
+following guidance on understanding the purpose of the
+charter
+right:
+“…the
+purpose
+of
+the
+right
+or
+freedom
+in
+question
+is
+to
+be
+sought
+by
+reference
+to the character and the larger objects of the
+charter
+itself,
+to the language chosen to articulate
+the
+specific
+right
+or
+freedom,
+to
+the
+historical
+origins
+of
+the
+concepts enshrined,
+and
+where
+applicable,
+to
+the
+meaning
+and
+purpose
+of
+the
+other
+specific rights
+and freedoms with which it is associated within the text of the
+charter.”
+
+
+the
+starting
+point
+is
+the
+text
+of the
+charter
+right.
+
+the court must
+consider
+the
+language used, other
+charter
+rights with which
+the
+right
+is
+associated,
+and
+the
+need
+for
+charter
+rights
+to
+be
+capable
+of
+development
+over
+time.
+
+however, as indicated
+by the
+supreme
+court
+of
+canada in
+r v.
+poulin,
+caution
+is required to avoid conflating generosity and purposiveness:
+as
+was
+reiterated
+in
+grant,
+“[the]
+purpose
+of
+a
+right
+must
+always
+be
+the
+dominant
+concern
+in
+its
+interpretation;
+generosity
+of
+interpretation
+is
+subordinate
+to
+and
+constrained
+by
+that
+purpose”
+(para.
+17).
+this
+is
+because
+an
+overly
+generous
+reading of a right risks protecting
+“behaviour
+that is outside the purpose and unworthy of
+constitutional
+protection”
+(hogg,
+at
+p.
+36-30).
+indeed,
+“[in]
+the
+case
+of
+most
+rights...the
+widest
+possible
+reading
+of
+the
+right,
+which
+is
+the
+most
+generous interpretation, will ‘overshoot’
+the
+purpose
+of the right.”
+
+[emphasis added].
+
+textual analysis
+
+in the case of
+s. 2(b)
+of the
+charter,
+freedom of thought
+is listed with freedom of “
+belief, opinion and expression including freedom
+of the press and other media of communication.”
+it was not listed alongside
+“conscience and religion” as it was in both the
+united
+nations declaration of human rights (unhdr)
+
+and the
+international covenant on civil and
+political rights (iccpr).
+
+this gives rise to two principles.
+
+the presumption against tautology provides that “[every] word in
+a statute is presumed to make sense and to have a specific role to play in
+advancing the legislative purpose.”
+
+
+the meaning of words is also
+affected by the words to which it is linked in a sentence.
+
+
+therefore, it is reasonable to conclude that freedom of thought
+is related to but different from opinion, belief, and expression.
+
+from the order in which the words appear, it is also reasonable
+to conclude that thought is primary in the continuum of rights to the extent
+that thoughts can lead to beliefs which in turn can lead to opinions which can
+then lead to expression. while opinions and forms of expression can influence
+thought, thought is nevertheless primary to the extent that those opinions and
+forms of expression arise from it.
+
+this interrelationship between
+thought and expression was reflected in the interim report of the
+un special rapporteur on freedom of
+thought as follows:
+“[thought] and expression are conceptually and
+practically distinct, yet they engage in a perpetual feedback loop in which
+expression is a vehicle for exchanging and developing thoughts, and thoughts
+feed expression.”
+
+
+this approach accords with the
+textual analysis of freedom of thought set out above and is consistent with the
+continuum of intellectual freedoms describe
+in
+sharpe.
+
+freedom of expression is said to
+serve three purposes:
+(i)
+seeking and attending the truth is an inherently good activity;
+(ii)
+participation in social and political decision-making is to be fostered
+and encouraged; and
+(iii)
+the diversity in forms of individual self-fulfillment in human
+flourishing ought to be cultivated and then essentially tolerant, indeed
+welcoming, environment not only for the sake of those who convene a meeting,
+but also for the sake of those to whom it is conveyed.
+
+historical context
+
+freedom of thought does not appear
+in the canadian bill of rights or analogous provincial laws. it originated in
+international law where it was adopted into early drafts of the
+charter.
+because of this, international law and commentary may illuminate the purpose of
+the freedom.
+
+
+in accordance with the principle
+of conformity, the
+charter
+is presumed to provide protection at least as
+great as that afforded by similar provisions in international human rights
+documents which canada has ratified. the rule is subject to clear legislative
+intent to the contrary.
+
+non-binding sources such as commentary from international human rights bodies
+and experts, while relevant, carry less weight and are only a persuasive value
+in interpreting the
+charter.
+
+they play a supportive and confirming role in interpreting the
+charter
+and tend to be used to support or confirm the court’s interpretation of the
+charter
+arrived at by way of a purposive of analysis.
+
+
+as indicated above, the grouping of rights in
+s. 2(b)
+of the
+charter
+differs from article 18 the
+united nations declaration of human rights
+(unhdr)
+and article 18 of the
+international covenant on civil and
+political rights (iccpr)
+where religion is coupled with belief (
+unhdr
+)
+and conscience and religion (
+iccpr
+). both have their origin in the need
+to protect philosophical and religious belief from compulsion or restrain.
+
+
+in an early
+draft of the
+charter, freedom of thought was moved, apparently at the
+recommendation of the special joint committee on the constitution of canada in
+1972, from grouping with conscience and religion, to grouping with belief and
+opinion:
+we would have preferred not to have freedom of thought
+linked solely with freedom of conscience and religion, since it actually has
+(and presumably is intended to have) a wider application, and as located it
+might run afoul of the ejusdem generis (same genus) rule of interpretation. we
+believe it should rather be linked with freedom of opinion and expression.
+
+
+this history indicates
+that “thought” in
+s. 2
+(b) was understood to protect the same kind
+of
+intellectual
+content
+as in the above-noted articles but
+with
+a
+broader
+(i.e.
+not
+necessarily philosophical or religious) application.
+purposive analysis
+
+the common
+purpose of the fundamental freedoms, generally, was first described in detail
+in big m, with a focus on
+s. 2
+(a):
+“freedom can primarily be characterized by the absence
+of coercion or constraint. if a person is compelled by the state or the will of
+another to a course of action or inaction which he would not otherwise have
+chosen, he is not acting of his own volition and he cannot be said to be
+truly free. one of the major purposes of the
+charter
+is to protect, within reason, from compulsion or restraint. coercion includes
+not only such blatant forms of compulsion as direct commands to act or refrain
+from acting on pain of sanction, coercion includes indirect forms of control
+which determine or limit alternative courses of conduct available to others.”
+
+
+in
+r v. edwards books and art ltd.,
+the supreme
+court of canada found that
+s. 2
+charter
+freedoms protected against
+compulsion or restraint whether “direct or indirect, intentional, or
+unintentional, foreseeable, or unforeseeable, so long as the burden on freedom
+is more than “trivial or insubstantial.”
+
+
+there is significant debate among scholars about the meaning of
+freedom of thought in international human rights law. a recent report from the
+un special rapporteur on freedom of thought described this lack of consensus as
+follows:
+what constitutes
+“thought” not only lacks legal precision, but also scientific and philosophical
+consensus. neuroscientists generally agree that thoughts are created when
+billions of neurons (nerve cells) in the brain - connected by trillions of
+synapses - fired together. but the consensus ends there. some neuroscientists
+distinguish “thought” from other cognitive processes including emotions based
+on the primary part of the brain engaged. others emphasize the complex, highly
+interrelated nature of anatomical aspects of the brain that support cognitive
+functions, comparing efforts to “trace of thought from beginning to end” “to
+asking where the forest begins.”
+
+
+nevertheless, the special rapporteur’s report shows
+consensus in international law and commentary on at least three possible
+“attributes” of freedom of thought:
+(i)
+freedom not to reveal one’ s thought through state intrusion or
+surveillance of thinking;
+(ii)
+freedom from punishment from one’s thoughts, real or inferred; and
+(iii)
+protection from impermissible alteration of thoughts which includes
+freedom from coercion (not including “applying moral or intellectual
+persuasion”) and freedom from modification of thoughts (changing an
+individual’s thoughts through direct alteration of brain chemistry or brain).
+
+although the
+special rapporteur identifies a fourth
+potential
+concern similar to what
+professor swaine identified as “preventing thought” namely, that the state is
+obliged to foster an enabling environment for freedom of thought, he notes
+that “this is not a universal position and the parameters are limited.”
+
+vii.
+analysis
+section 2(b)
+of
+the
+charter
+
+freedom of
+thought falls within what
+sharpe
+described as a “continuum of
+intellectual and expressive freedom.”
+
+it is primary and hence broader than opinion, belief, or expression because it
+forms the basis for those other rights. put another way, one can think without
+forming an opinion or belief that is expressed or capable of being expressed,
+but opinions, beliefs and expressions are themselves the products of thought.
+this explains why freedom of thought is the first protected right in the
+continuum of expressive freedoms.
+
+the primacy of
+freedom of thought underscores the need for a broad and liberal interpretation
+of thought itself. support for this can also be found in the fact that thought
+was placed next to opinion, belief, and expression and not next to freedom of
+conscience and religion where it had originally appeared in an earlier draft of
+the
+charter. this suggests an intention to avoid limiting the purpose of
+freedom of thought to matters of conscience and religion.
+
+however, defining
+thought to include all mental activity would be overly broad. it would extend
+freedom of thought beyond its intended purpose. it would amount to defining
+freedom in isolation to the other related rights mention in
+s. 2
+(b).
+
+including
+feelings or emotions as a protected interest under
+s. 2(b)
+of the
+charter
+risks calling into question the constitutionality of virtually all government
+action. this could not have been the intended purpose for which the right was
+enshrined. such an approach would conflate generosity with purposiveness,
+something which the supreme court of canada in
+poulin
+
+cautioned against.
+
+the definition
+of thought as mental activity also lacks the specificity required to make any thought-related
+claims justiciable. it would risk extending protection to all external stimuli
+or experiences that impact upon the mind including all psychotropic drugs
+currently prohibited under the
+cdsa.
+
+i agree with the
+crown that thought is best understood in relation to expression. in
+sharpe,
+the court described the values underlying freedom of expression to include, “
+individual
+self-fulfillment, finding the truth through the open exchange of ideas, and the
+political discourse fundamental to democracy.”
+
+the court defined expression as “activity or communication that conveys or
+attempts to convey meaning.”
+
+in keeping with
+this focus on the conveyance of meaning as part of the continuum of
+intellectual and expressive freedoms, i find that thought is best understood as
+those ideas that are capable of conveying meaning. i find that purpose of freedom
+of thought is to protect against the coercion and constraint of ideas related
+to opinion, belief, and other expressible content.
+
+the parties
+agree that freedom of thought should be interpreted not only to protect
+thoughts themselves but should include protecting the process by which thoughts
+are formed. i agree.
+
+while a process
+is not itself a thought, the nature of thought is such that a breach of freedom
+of thought is most often manifested in restrictions of other freedoms, notably
+expression. such was the case in
+sharpe. this flows from the fact that
+thoughts cannot be seen or known until they manifest themselves in another form.
+to this extent, protecting only thoughts would not afford any greater
+protection than that afforded for other rights.
+
+accordingly, i find that the purpose of freedom of
+thought is the protection against the coercion and restraint of ideas,
+including
+the process by which those ideas are developed, that are
+capable of generating opinions, beliefs, and other expressible content.
+
+in
+canadian broadcasting corp. v. canada (attorney general),
+
+the supreme court of canada developed a three-part test to
+determine when expressive activity is protected:
+1.
+does
+the activity in question have expressive content, thereby bringing it within
+2(b) protection?;
+2.
+does
+the method or location of this expression remove that protection?; and
+3.
+if
+the expression is protected by 2(b), does the government action in question
+infringe that protection, either in purpose or effect?
+
+given its
+relationship to expression, i adopt the same test for determining when thought
+is protected:
+1.
+does
+the activity involve intellectual content comprised of ideas capable of
+generating beliefs, opinions, or expressive content, thereby bringing it within
+the scope of
+s. 2
+(b) protection?;
+2.
+does
+the method or location of the activity remove that protection?; and
+3.
+if
+the activity is protected by
+s. 2
+(b), does the government action in question
+infringe that protection, either in purpose or effect, through intrusion
+manipulation or punishment and, if so, is it justified under
+s. 1
+of the
+charter
+?
+
+applying this
+test, i find the evidence supports a finding that the administration of psilocybin
+in a psychedelic dose has the potential to change the thought process resulting
+in cognitive flexibility i.e., the ability to think in more creative and diverse
+ways. this can lead to changes in self-perception – how we think about
+ourselves and the outside world. while the precise method by which this occurs is
+not completely understood and cannot be guaranteed for everyone experiencing a
+psychedelic dose, it does not change the fact that studies show this effect. this
+was confirmed by both the crown and defence experts. they indicated that psilocybin’s
+impact on the thought process can last up to a month or more. it is precisely
+for this reason that it is being pursued as a form of treatment for those
+suffering from certain mental health disorders.
+
+however, the
+prohibition in this case does not target or restrict any specific thought with
+specific expressible content. given the random and unpredictable effects of
+psilocybin on a given individual, what the prohibition restricts is access to
+an experience that may or may not impact one’s general perception of themselves
+and the outside world.
+
+in my view, an
+experience in these circumstances is not what freedom of thought was meant to
+protect. if it did, it would open the door to innumerable other ways in which government
+action prohibits experiences and thereby impacts our ability to derive a potential
+thought-related benefit from that experience. leaving aside whether that could
+ever result in a successful “thought” related claim, i find that in this case,
+that claim is too remote to warrant the protection of
+s. 2(b)
+of the
+charter.
+
+even if i am
+wrong in this regard, like speech or other forms of expression, not every act
+that impacts upon thought or the thought process is worthy of protection.
+
+in the case of
+psilocybin, i find that the means of generating the thought related effects in
+this case are not worthy of
+s. 2
+(b) protection. in coming to this conclusion, 
+i have considered the following:
+(i)
+the thought related effects of psilocybin are random and cannot be
+predicted in advance. to this extent, i agree with the crown that psilocybin is
+not a precise tool for thought. it does not impact on thought in any way “akin
+to the obvious, known, direct and controllable use of a tool to achieve precise
+and foreseeable ends…”
+
+(ii)
+the
+science with respect to psilocybin and its effect is still nascent. from a
+scientific perspective, its long-term effects are still largely unknown. it is
+not presently approved for medical use in canada and is currently the subject
+of at least two ongoing phase iii clinical trials which are scheduled to
+conclude within the next few years. in these circumstances, the unpredictable
+effect of psilocybin must be measured against the fact that its safety and
+efficacy have yet to be established.
+
+finally, there
+is no basis for finding that
+s. 5(2), either in purpose or effect, intrudes
+upon, manipulates or punishes a thought or forces forcing anyone to think in a
+particular way. as indicated above, the purpose of the
+cdsa
+is public
+safety and protection.
+
+for these
+reasons, i find that
+s. 5
+of the
+cdsa
+does not infringe
+s. 2(b)
+of the
+charter.
+section 7
+of
+the
+charter
+
+the applicant’s challenge
+under s. 7 is largely dependent on a finding that psilocybin is a
+charter
+protected tool of thought.
+
+in addition to
+this, absent a valid medical purpose, our law does not recognize the right to
+consume controlled substances. the decisions of the supreme court in
+r v.
+malmo-levine
+
+and
+r v. clay
+
+are dispositive.
+
+in light of my ruling with respect to
+s.
+2
+(b), i find that the right to access or administer psilocybin for non-medical,
+thought-related purposes, is well outside the scope of the inherently private
+and fundamentally personal choices protected by
+s.
+7.
+
+i also find that
+the security of the person is not engaged in this case. given that the choice
+to access psilocybin does not attract
+charter
+protection under 2(b), the
+decision to access or administer psilocybin for non-medical purposes confines
+it to a matter of a personal lifestyle choice. there is no evidence that the
+prohibition imposed by
+s. 5(2)
+of the
+cdsa
+amount to state imposed
+psychological stress.
+
+although security
+of the person is triggered by the possibility of imprisonment, there is no
+minimum sentence applicable in this case and the prospect of jail is low. it
+cannot be said that the criminalization of the offence in this case is grossly
+disproportionate. the tariff for similarly situated offenders (illegal
+storefront employees with no criminal record) convicted of possessing a similar
+quantity psilocybin for the purpose of trafficking, is still developing but is
+presently in the range of a fine or a conditional discharge.
+
+the blanket prohibition
+under s. 5(2) with respect to psilocybin does not offend the principles of
+fundamental justice. it is neither arbitrary, overbroad, or grossly disproportionate.
+it bears connection to the purpose of the
+cdsa
+which is the protection
+of public health and safety. while the risks of psilocybin use may be low, the
+evidence satisfies me that it is not insignificant even when consumed in a
+controlled setting. it is not overbroad given that the interests the applicant
+seeks to protect, namely thought, would make psilocybin available to anyone who
+sought its use for this purpose. it cannot be said that the prohibition in this
+case is so extreme in relation to the interests it is mean to protect, namely
+health and safety, particularly given that psilocybin alters brain function and
+its effects are still being studied.
+
+for these
+reasons, i find that
+section 5(2)
+of the
+cdsa
+does not infringe
+section
+7
+of the
+charter.
+viii.
+conclusion
+
+for all of the
+above reasons, i find that
+s. 5(2)
+of the
+cdsa, does not infringe the
+right to freedom of thought as contained in
+s. 2(b)
+of the
+charter,
+or
+the liberty and security of the person in
+s. 7
+of the
+charter.
+released: october
+7, 2025
+“g. l. orsini”
+signed: justice g. orsini
+
+provincial
+courts have jurisdiction to decide the constitutional validity of a section of
+the
+cdsa
+but do not have the jurisdiction to make a declaration that the
+law itself is of no force and effect under
+s. 52(1)
+of the
+constitution act,
+1982.
+(r.
+v.
+big
+m
+drug
+mart
+ltd.
+(1985),
+1985 canlii 69 (scc),
+18
+c.c.c.
+(3d)
+385
+(s.c.c.)
+at
+p.
+402
+and
+r.
+v.
+lloyd
+(2016),
+2016 scc 13 (canlii),
+334
+c.c.c.
+(3d)
+20
+(s.c.c.)
+at paras.
+14-20
+).
+
+ex. 8 - affidavit of
+a.c.
+
+affidavit of professor swain, ex. 12
+
+nutt affidavit at para 27.
+
+these effects are related to psychedelic dosing levels and not micro-dosing.
+the applicant indicate that no reliance was being placed on micro dosing as the
+evidence suggest that it does not produce significant thought related effects.
+
+transcript of evidence of prof. nutt, february 25, 2025 at p. 381
+
+canada v. phs community
+services society,
+2011 scc 44
+
+see
+toth v. canada (minister of health and addictions and associate minister
+of health),
+2025 fca 119 (canlii), f.c.j. no. 1064 where the federal court found that a
+refusal of a requested s. 56 exemptions for other healthcare professionals (hcp’s)
+was inconsistent with the ministry’s earlier decision in 2020 with respect to the
+19 healthcare professionals referred to by dr. pelley who were granted “public
+interest” exemptions.
+the court considered
+section 7
+of the
+charter
+and found as follows: “the purpose of
+section 7
+is to protect against the "deprivation" by the government of a life,
+liberty
+or security interest. there is no deprivation
+here; rather, the hcps' asserted
+charter
+interests
+arise only because they have asked for the right to possess a controlled
+substance. they have voluntarily chosen to put themselves in jeopardy.”
+
+r.
+v.
+big
+m
+drug
+mart
+ltd.
+(1985),
+1985 canlii 69 (scc),
+18
+c.c.c.
+(3d)
+385
+(s.c.c.)
+at para.38;
+r. v. smith,
+2015 scc 34 (canlii),
+ 2 s.c.r. 602
+at paras.
+11-13; and
+r. v. parker,
+2000 canlii 5762 (on ca),
+ o.j. no. 2787 (ont. c.a.)
+at para
+78.
+
+hitzig v canada,
+2003 canlii 30796 (on ca), oj no. 3873 (ont. c.a.) at paras.
+109-118.
+
+applicant’s factum, para. 53.
+
+r v.
+darrach,
+2000 scc 46 (canlii), 2 s.c.r. 443 at para.
+26; r v o’connor,
+1995 canlii 51 (scc), 
+4 s.c.r. 411 at para.
+122; r v. osolin,
+1993 canlii 54 (scc), 4 s.c.r. 595 at para.
+48
+
+r v. briggs,
+2001 canlii 24113 (on ca), o.j. no. 3339 (ont. c.a.) at para.
+43; see also
+paluska jr. v. cava,
+2002 canlii 41746 (on ca), o.j. no. 1767 (ont. c.a.)
+
+r. v. mernagh,
+2011 onsc 2121
+(ont. s.c.j.)
+
+finlay v. canada (minister of finance),
+1986 canlii 6 (scc), 2 s.c.r. 607 at para.
+21-22;
+downtown eastside sex workers united against violence v. canada
+(attorney general),
+2010 bcca 439 (canlii), b.c.j. no. 1983 (b.c.c.a.) at para.
+29; and
+r
+v,
+bedford,
+2010 onsc 4264
+at paras.
+46-57.
+
+r v. mernagh, supra. at paras. 302 and 314-315; canadian council of
+churches v. canada (minister of employment and immigration),
+1992 canlii 116 (scc), 1 s.c.r.
+236 at para.
+37.
+
+there is no evidence that the applicant has a personal interest in possessing
+psilocybin for thought related purposes or otherwise and would have likely have
+difficulty establishing that there is no other effective way to bring the
+matter before the court.
+
+counsel referred the court to
+carter v. canada (attorney general
+),
+2015 scc 5 (canlii), 1 s.c.r. 331,
+hitzig v canada,
+2003 canlii 30796 (on ca), oj no. 3873 (ont. c.a.),
+r
+v. smith,
+2015 scc 34 (canlii), 2 s.c.r. 602 and
+r v. morgentaler,
+1988 canlii 90 (scc), 1 s.c.r.
+30.
+hitzig
+and
+carter
+were civil cases where notice had been
+filed and standing was argued. smith and morgentaler were criminal cases where
+the accused automatically had standing given that they were only challenging
+the sections with which they were charged.
+
+section 2(1)
+of the
+cdsa.
+
+ibid.
+
+r v normore,
+2005 abqb 75.
+
+r v. mcmillan,
+2019 oncj 249.
+
+canada (attorney general v. diver,
+2016 mbpc 3
+at para
+52.
+
+r v. myrridon inc.,
+1988 canlii 7102 (mb ca)
+at paras
+142-43, 149-50
+
+r v. locke,
+2004 abpc 152
+
+dwc v. college of physicians and surgeons of ontario,
+2017 canlii 55551
+(onhparb)
+
+ibid.
+
+r v. sharpe
+supra at paras
+25-26.
+
+r v. big m drug mart, supra at note 1.
+
+r v. sharpe,
+2001 scc 2
+
+canadian
+broadcasting corp. v. canada (attorney general),
+2011 scc
+2
+
+hunter v. southam inc.,
+1984 canlii 33 (scc), 2 s.c.r. 145 at p. 155
+
+big m
+supra note 1 at para. 117
+
+quebec (attorney general) v. 9147-0732
+québec inc.,
+2020 scc 32
+
+ibid at para 53.
+
+r v. poulin, 2019 scc at para 53.
+
+united nations declaration of human rights (unhdr) art. 18.
+
+international covenant on civil and political rights (iccpr) art. 18.
+
+placer dome canada ltd. v. ontario (minister of finance),
+2006 scc 20
+at
+para
+45;
+schreiber v. canada (attorney general),
+2002 scc 62
+at para.
+73.
+
+opitz v wrzesnewskyi,
+2012 scc 55
+at para
+40.
+
+special rapporteur interim report of the special rapporteur on freedom of
+religion and belief, ahmed shaheed.
+freedom of thought. united nations
+general assembly a/76/380 (5 oct 2021), para 18. he draws similar links between
+opinion and belief.
+
+r v. big m drug mart, supra at note 1 at para 95.
+
+r v. hape,
+2007 scc 26 (canlii), 2 scr 292 at para
+55
+cited in
+saskatchewan
+federation of labour v saskatchewan,
+2025 scc 4
+at para
+64.
+
+quebec v. 9147, supra note 28 at paras 31, 34, 39.
+
+ibid
+at para 38.
+
+r v. bissonnette,
+2022 scc 23
+at para
+98;
+quebec v. 9147
+supra
+note 28 at paras 22, 28.
+
+jan christoph bublitz, “‘
+the mind and conscience are the
+person's most sacred
+possessions’: the
+origins
+of
+freedom
+of
+thought
+in
+the
+universal
+declaration
+of
+human
+rights
+and
+the
+international
+covenant
+on
+civil
+and
+political
+rights
+”,
+https://ssrn.com/abstract=4906028
+at
+5,
+forthcoming
+in
+patrick
+o’callaghan
+& bethany
+shiner,
+eds.,
+the
+cambridge
+handbook
+of
+the
+right
+to
+freedom
+of
+thought
+(cambridge university press, 2024).
+
+special joint committee on the constitution of canada, first report (1972) at
+19.
+
+r v. big m drug mart
+supra at note 1, para 95.
+
+r v. edwards books and art ltd.,
+1986 canlii 12 (scc), 2 scr 713 at para
+97.
+
+special rapporteur interim report. supra at note 36 para 35.
+
+interim report supra at note 358 para 10.
+
+r v. sharpe, supra note 29 at para
+25.
+
+r v. poulin, supra note 32 at para 53.
+
+ibid at para 23.
+
+canadian
+broadcasting corp. v. canada (attorney general),
+2011 scc
+2.
+
+crown factum, para 111.
+
+r.
+v. malmo-levine; r. v. caine,
+2003 scc 74 (canlii),
+ 3 scr 571.
+
+r.
+v. clay,
+2003 scc 75

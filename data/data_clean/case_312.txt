@@ -1,0 +1,250 @@
+source url: https://www.canlii.org/en/on/oncj/doc/2025/2025oncj257/2025oncj257.html
+
+citation:
+r. v.
+vernaza-vinces, 2025 oncj 257
+date: 
+may 12, 2025
+ontario
+ court of justice
+toronto
+between:
+his
+ majesty the king
+— 
+ and —
+ryan
+ vernaza-vinces
+)
+)
+)
+)
+)
+)
+)
+)
+)
+)
+)
+)
+)
+)
+)
+)
+for
+ the crown
+p.
+ harris and b. haynes
+for
+ the defendant
+m. leitold
+heard: april 30, 2025
+judgment on
+directed verdict application
+russell
+silverstein, j.:
+a.
+introduction
+
+mr. vernaza-vinces is charged with flight
+from a police officer contrary to
+s. 320.17
+of the
+criminal code.
+
+mr. leitold, counsel for mr. vernaza-vinces
+has brought a motion for a directed verdict of acquittal at the end of the
+crown’s case.
+b.
+the
+evidence
+(a)
+introduction
+
+what follows is a summary of the salient
+aspects of the crown’s case. a transcript of the proceedings is available.
+
+on february 16, 2024, p.c. adam hough and
+his partner, steve mitakidis responded to a radio call regarding “unknown
+trouble” at an address on osler street in the city of toronto. the radio call
+suggested that someone had reported a woman screaming in distress while a man
+was trying to pull her back into a car.
+
+they arrived on scene with their emergency
+lights and siren engaged. they parked their cruiser just north of an empty
+black honda that was still running with its lights on.
+
+they both got out of their cruiser and
+approached the honda.
+
+a man, alleged to be mr. vernaza-vinces,
+approached the officers on foot. he matched the description of the man referred
+to in the radio call.
+
+the officers engaged him in conversation and
+soon noticed blood on his hand and told him he was under investigative
+detention. the man initially said he would comply but soon ran off. the
+officers pursued him on foot. they yelled at him to stop and told him he was
+under arrest. the man then got into the honda and sped away. the officers did
+not pursue him in their police cruiser but rather tried to locate the female
+victim of the dispute they were investigating.
+c.
+issues
+and analysis
+(a)
+introduction
+
+section 320.17 reads as follows:
+everyone commits an offence who
+operates a motor vehicle or vessel while being pursued by a peace officer and
+who fails, without reasonable excuse, to stop the motor vehicle or vessel as
+soon as is reasonable in the circumstances.
+
+this section came into force in 2018, having
+replaced its predecessor, section 249.1(1), which read as follows:
+everyone commits an
+offence who, operating a motor vehicle while being pursued by a peace officer
+operating a motor vehicle, fails, without reasonable excuse and in order to
+evade the peace officer, to stop the vehicle as soon as is reasonable in the
+circumstances.
+
+under the old section 249.1(1) it was
+expressly stated in the section that it was essential
+that
+the crown prove that the accused was being pursued by police who were
+themselves operating a motor vehicle. this is clear from a plain reading of
+the section.
+r. v. mclean,
+2016 onca 38
+at para.
+6, referring to
+r.
+v. kulchisky,
+2007 abca 110
+at para.
+4.
+
+in his directed verdict application mr.
+leitold
+argues that even though the new section, 320.17,
+no longer contains that requirement, it remains essential that the crown prove
+that the police were operating a motor vehicle while in pursuit.
+he principally
+relies on two trial decisions in the superior court of ontario in support of
+his argument:
+r. v. hadi,
+2022 onsc 2903
+at para.
+123, a decision of
+schreck j. and
+r. v. campbell,
+2023 onsc 5284, at para.
+31, a decision
+of boswell j. see too
+r. v. russell,
+2023 bcsc 1123
+at para.
+160.
+
+in
+hadi,
+schreck j., when setting out
+the essential elements of
+s. 320.17
+refers to
+kulchisky
+and notes that
+while the earlier flight provision, s. 249.1 required proof of an intention to
+evade police, such was no longer the case for
+s. 320.17. he seems to have
+failed to notice that the requirement that police be pursuing in a motor
+vehicle was also taken out of the provision. had he noticed, i am certain that
+he would have removed that required element from his list of essential elements.
+it is also important to note that this requirement was not in issue in
+hadi.
+schreck j.’s inclusion of this essential element is thus
+obiter.
+
+in
+campbell,
+boswell j. refers to
+kulchisky
+and lists the required elements of the old section without appreciating that
+the requirement that the police be in pursuit while operating a motor vehicle
+had been dropped from the provision. again, that element of proof was not in issue
+in
+campbell
+and boswell j’s list is thus
+obiter
+in that regard.
+
+the statements in
+hadi
+and
+campbell
+regarding this “essential element” are
+obiter dicta
+in trial decisions
+of the superior court of ontario. the modern rules of
+stare decisis
+dictate that they are not binding on me.
+r. v. kirkpatrick,
+2022 scc 33.
+
+i would normally find rulings on the law
+from justices schreck and boswell to be very persuasive, but as i have tried to
+demonstrate, i believe these statements of law concerning this particular
+“essential element” are incorrect.
+
+as the supreme court recently said in
+r.
+v. breault
+2023 scc 9
+at para.
+25:
+every statutory interpretation
+exercise involves reading the words of a provision “in their entire context and
+in their grammatical and ordinary sense harmoniously with the scheme of the
+act, the object of the act, and the intention of parliament” (
+rizzo &
+rizzo shoes ltd. (re),
+1998 canlii 837 (scc),
+ 1 s.c.r. 27, at para.
+21, quoting e. a.
+driedger,
+construction of statutes
+(2nd ed. 1983), at p. 87;
+bell
+expressvu limited partnership v. rex,
+2002 scc 42,
+ 2 s.c.r. 559, at
+para.
+26; see also
+r. v. j.d.,
+2022 scc 15, at para.
+21
+)
+
+parliament expressly removed the required
+element in issue in this case from the provision. there is no support for the
+notion that parliament intended to maintain an essential element of the offence
+that was expressly set out in the old section and removed in the new one.
+
+i conclude that s. 320.17 does not require
+the crown to prove that the police were operating a motor vehicle, or in a
+motor vehicle when pursuing the accused.
+
+it is thus unnecessary to consider the
+crown’s interesting argument that the police were indeed operating their police
+cruiser when they pursued mr. veneza-vinces on foot.
+
+there is ample evidence of all the required
+elements in this case.
+d.
+conclusion
+
+the application for a directed verdict is
+dismissed.
+released on may
+12, 2025
+justice russell silverstein

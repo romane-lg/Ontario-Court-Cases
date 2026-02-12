@@ -1,0 +1,899 @@
+source url: https://www.canlii.org/en/on/oncj/doc/2025/2025oncj556/2025oncj556.html
+
+ontario court of justice
+citation:
+r. v. liu, 2025 oncj 556
+date: 
+2025 10 22
+court
+file no.: newmarket 998-23-91107152
+between:
+his
+majesty the king
+— and
+—
+panpan liu
+before
+justice michael perlin
+heard
+on september 15 and 16, 2025
+reasons
+for judgment released on october 22, 2025
+brooke wakegijig............................................................................... counsel
+for the crown
+carson hurley............................................................................... counsel
+for the defendant
+perlin j.:
+i.
+overview and positions of the parties
+
+a traffic stop for unauthorized licence plates
+led police to charge the accused, mr. liu, with failing to provide a breath
+sample into an approved screening device (asd) contrary to
+s. 320.15
+of the
+criminal
+code, r.s.c. 1985, c. c-46. at trial, the crown relied on video evidence
+and the testimony of police constables lau and velema. the crown asks me to
+find mr. liu guilty: he was arrested lawfully for having unauthorized plates; an
+odour of alcohol furnished grounds for the police to demand that he provide a
+breath sample into an asd; and he failed to provide a sample.
+
+the defence called no evidence, and focussed on
+three alleged
+charter
+breaches:
+(1)
+a unreasonable search, contrary to s. 8, when
+officers opened mr. liu’s car door and visually inspecting the interior;
+(2)
+an arbitrary detention, contrary to s. 9, when
+officers arrested mr. liu for “unauthorized plates” without reasonable grounds
+to believe he had committed that provincial offence; and
+(3)
+a breach of the s. 10(b) right to access counsel
+without delay, when mr. liu was held for almost two hours at the roadside
+without access to counsel.
+
+mr. liu asks for two remedies. first, he submits
+that if the arrest was unlawful the odour of alcohol it disclosed must be
+excised from the officer’s grounds to make the asd demand. without that
+evidence, there were no grounds for the demand. without a lawful demand – an
+essential element of the charge – the charge must be dismissed.
+
+second, mr. liu submits that the
+charter
+breaches
+should lead to the exclusion of the evidence of his failure to comply with the asd
+demand. if this evidence is excluded, it would also result in the dismissal of
+the charge.
+
+the defence also argues that the asd demand was
+unlawful because it was not made “forthwith”, and that mr. liu had a reasonable
+excuse for failing to comply based on information police gave him regarding his
+right to counsel.
+
+before analyzing these issues, i will briefly
+summarize the evidence.
+ii.
+brief summary of the facts
+
+on august 17, 2023, pcs lau and velema were
+operating separate marked cruisers in markham. pc lau observed a white porsche
+suv. he queried the suv’s licence plate in his computer system and learned it
+was registered in relation to a brown porsche suv. pc lau decided to stop the suv
+for “unauthorized plates” – i.e., using “a number plate upon a vehicle other
+than a number plate authorized for use on that vehicle”: see
+highway traffic
+act, r.s.o. 1990, c. h.8, s. 12(1)(d). he testified that he thought the suv
+might be stolen, based on its location in markham.
+
+at 12:15 a.m., pcs lau and velema initiated a
+traffic stop. pc lau used his cruiser to block the front of the suv in a live
+lane of traffic. pc velema blocked it from the rear. the officers approached and
+found a male driver, mr. liu, and a female passenger. pc lau told mr. liu he
+had been stopped because his licence plate was for a different car.
+
+pc lau demanded mr. liu’s driver’s licence,
+insurance and motor-vehicle permit. he demanded mr. liu’s keys to prevent him
+from fleeing. pc lau testified that mr. liu complied with the demand for his
+keys. pc lau also testified that he decided to open the suv’s driver-side door
+to take mr. liu’s keys, and did so. inside the door, pc lau saw an open can of
+beer and advised mr. liu, “now you’re being investigated under the lla” (i.e.,
+the
+liquor licence and control act, 2019, s.o. 2019, c. 15, sched. 22
+(llca)).
+
+mr. liu told officers the suv was his and that
+the colour did not match because he had had the suv “wrapped” to change its
+colour to white. pc lau told mr. liu that he could be arrested for the
+non-matching plate, but that the officer was not arresting him.
+
+mr. liu gave the officers his whole wallet and a
+collection of papers. his driver’s licence was found in the wallet. pc lau
+glanced at the papers and they did not appear to contain the insurance or
+permit information. mr. liu said he would need to call someone to get the
+documents requested.
+
+at 12:17 a.m., pc lau arrested mr. liu for unauthorized
+plates, based on mr. liu not being able to provide documentation and insisting
+the suv was his, and the fact that the suv was supposed to be brown but was
+white. he handcuffed mr. liu and conducted a search incident to arrest.
+
+while both officers were near mr. liu during the
+search, they both smelled an odour of alcoholic beverage coming from him.
+during the search, officers also discovered a suspected controlled substance in
+his pocket and arrested him for possession. officers later searched the suv
+under the llca and found more suspected drugs.
+
+
+at 12:19 a.m., based on the odour of alcohol, pc
+velema demanded that mr. liu provide a breath sample into an asd. officers
+placed him in the back of pc lau’s cruiser.
+
+at 12:21 a.m., pc lau read mr. liu his right to
+counsel in relation to the unauthorized-plate and controlled-substance arrests.
+mr. liu requested a lawyer and a mandarin-language interpreter. pc lau
+requested that pc chang, a mandarin-speaking officer, attend the scene.
+
+pc chang attended. between 12:29 a.m. and 12:35
+a.m., he spoke with mr. liu and read him the asd demand again. he also read mr.
+liu his right to counsel, and mr. liu indicated he wished to call a lawyer. mr.
+liu was asked three times to provide a sample into the asd. on all three
+occasions, he indicated that he wanted water. when officers presented an asd
+and asked if he would provide a sample, he said “of course not”.
+
+at 12:31 a.m., pc lau checked the vin (vehicle
+identification number) of the white suv, which was visible on its dash, and
+learned that it matched the vin for the brown suv. pc lau determined that mr.
+liu had not committed the “unauthorized plate” offence.
+
+sometime between 12:38 a.m. and 12:40 a.m., pc
+chang advised mr. liu that pc lau and pc velema would be charging mr. liu with
+refusing to provide a sample.
+
+after pc chang had told mr. liu he would be
+charged, pc lau continued to encourage mr. liu to provide a sample. mr. liu
+never completed the asd test.
+
+pc lau testified that he told mr. liu that if he
+wanted to speak with a lawyer, he could do that back at the station. he also
+told mr. liu that he could release mr. liu at the roadside if he wanted to
+speak to a lawyer later. mr. liu did not indicate a preference.
+
+at 2:28 a.m., pc lau released mr. liu at the
+roadside. mr. liu’s suv had already been towed away at this time. pc lau
+testified that at no point between the initiation of the stop at 12:15 a.m. and
+mr. liu’s release at 2:28 a.m. had efforts been made to implement mr. liu’s
+right to counsel. after releasing mr. liu, pc lau drove to the station, which
+was approximately six minutes away.
+iii.
+analysis of alleged
+charter
+breaches
+
+mr.
+liu argues police breached his
+charter
+rights by
+(a) opening his car door, (b) arresting him without grounds and (c) failing to facilitate
+access to counsel.
+a.
+section 8: opening the suv door
+
+the crown concedes that pc lau, by opening the
+suv’s driver’s-side front door and visually inspecting its interior, conducted
+a search. section 8 of the
+charter
+provides a right against unreasonable
+search and seizure. a search, for the purposes of s. 8 of the
+charter,
+occurs when the state interferes with a reasonable expectation of privacy. mr.
+liu, as the driver of the suv, had a reasonable expectation of privacy in it:
+r.
+v. belnavis,
+1997 canlii 320 (scc), 3 s.c.r. 341, at para.
+19. pc lau interfered with mr.
+liu’s reasonable expectation of privacy by opening the door and inspecting the
+interior.
+
+a warrantless search is presumptively
+unreasonable and an infringement of s. 8, unless the crown establishes that the
+search was authorized by law, the authorizing law is reasonable, and the search
+was conducted in a reasonable manner:
+r. v. tim,
+2022 scc 12, at paras.
+45-46.
+
+no one suggests this search was authorized by
+statute. in some cases, police will have common-law authority to open a car
+door and inspect the interior: see e.g.,
+r. v. aguilar,
+2025 oncj 474. in
+this case, there was no such common-law authority. the
+waterfield
+test
+governs whether police action that interferes with individual liberty is
+authorized by common law. the test requires, in part, that the police action be
+reasonably necessary for the carrying out of a particular police duty in all
+the circumstances:
+fleming v. ontario,
+2019 scc 45, at paras.
+43-49;
+r.
+v. mcdonald,
+2014 scc 3, at paras.
+35-37.
+
+i am satisfied that opening the door was not
+reasonably necessary for pc lau to carry out his duties. pc lau testified that
+he opened the suv’s door to get the key to prevent mr. liu from attempting to
+drive away. he could have secured the key without opening the door. he was speaking
+to mr. liu at close proximity through an open window. in cross-examination, he
+agreed nothing would have prevented him from reaching through the open window rather
+than opening the door. further, the evidence does not allow me to conclude that
+the key was still inside the suv when pc lau opened its door. on the
+in-car-camera, pc lau asked for the keys within seconds of beginning to speak
+to mr. liu. pc lau also testified in chief and in cross-examination that mr.
+liu complied and handed over his key in response to pc lau’s demand.
+
+opening the door was not reasonably necessary.
+the search was not authorized at common law. by opening the car door and
+visually inspecting the interior, pc lau breached mr. liu’s s. 8
+charter
+right.
+b.
+section 9: grounds for the arrest
+
+the next major event at the roadside was pc
+lau’s decision to arrest mr. liu for unauthorized plates. the defence contends
+that the arrest was not founded on reasonable grounds to believe that the
+offence had been committed, so was unlawful and arbitrary contrary to s. 9 of
+the
+charter. the arrest was what led the officers to detect an odour of
+alcohol on mr. liu’s breath, which furnished the grounds for the asd demand.
+
+reasonable grounds for arrest exist where
+“compelling and credible information” establishes “a
+reasonable probability
+of crime”. the officer must have subjective and objective grounds. subjective
+grounds exist where “the arresting officer honestly believed that the suspect
+committed the offence”. the officer’s subjective belief “must be justifiable
+from an objective viewpoint”. the “objective assessment is based on the
+totality of the circumstances known to the officer at the time of the arrest,
+including the dynamics of the situation, as seen from the perspective of a
+reasonable person with comparable knowledge, training, and experience as the
+arresting officer”:
+r. v. beaver,
+2022 scc 54, at paras.
+72
+(1), (2),
+(3), (6) (emphasis in original).
+
+if an officer forms reasonable grounds, they
+have no obligation to undertake further investigation to seek exculpatory facts
+or rule out innocent explanations:
+beaver, at para.
+72
+(6). however, in
+determining whether they have grounds, officers cannot assess the information they
+have in a piecemeal fashion. they must consider all relevant information. they
+may “disregard only information which [they have] good reason to believe is
+unreliable”:
+r. v. chehil,
+2013 scc 49, at para.
+33;
+r. v. golub,
+1997 canlii 6316 (on ca).
+
+section 12(1)
+(d) of the
+highway traffic act,
+r.s.o. 1990, c. h.8, makes it an offence to use “a number plate upon a vehicle
+other than a number plate authorized for use on that vehicle”. i am satisfied
+that pc lau did not have reasonable and probable grounds to arrest mr. liu for this
+offence. he explained that he decided to arrest mr. liu based on two factors:
+first, the plates were supposed to be on a brown porsche suv but were on a
+white porsche suv; and second, mr. liu’s conduct in response to requests for
+his documentation was suspicious.
+
+on the first factor, i find that pc lau wrongly
+excluded information from his assessment. mr. liu told the officer that
+he had had the suv “wrapped” — i.e., he had changed its colour. he volunteered
+this information after pc lau had advised him that he had been stopped because
+he was driving a white porsche with incorrect plates, but before being told
+that the police database had reported that the suv was brown. the information
+volunteered by mr. liu was a completely plausible, innocent explanation for pc
+lau’s observations. it demonstrated independent awareness that the issue was
+not just that the plate was attached to a white suv, but that the colour could
+be the source of confusion. the fact that this information came from the
+suspect, mr. liu, does not make it inherently unreliable such that pc lau was
+entitled to disregard it entirely. mr. liu’s plausible
+explanation had to feature in the analysis. once it was considered in
+combination with the fact that the registered suv and the suv driven by mr. liu
+were the same make and style, in my view, pc lau had a reasonable suspicion,
+but not reasonable and probable grounds. there was a reasonable possibility of
+an offence, but not a reasonable probability of an offence.
+
+the second factor relied on by pc lau – mr. liu’s conduct – did not
+convert the reasonable suspicion into reasonable grounds. pc lau pointed
+to the fact that mr. liu “insisted that the vehicle was his”. i cannot see how
+this denial of guilt suggests he was in fact guilty, unless one improperly
+presumes that mr. liu was guilty and was lying to avoid accountability. if he
+owned the car, asserting this fact does not make it less true.
+
+pc
+lau also pointed to mr. liu’s inability to produce documents pc lau had
+requested. mr. liu provided some papers in response to the demand for his
+insurance and permit documents. pc lau testified he glanced briefly at the
+papers and concluded that “they did not appear” to contain the documents he had
+demanded. he did not see the colours of paper he would expect for insurance and
+permit documents. i accept that this factor could properly be seen as
+suspicious. but it is not sufficiently probative as to convert pc lau’s
+suspicion into reasonable grounds, particularly given that pc lau only glanced
+briefly at the papers and only concluded they did not “appear” to include the
+documents he had demanded. this factor would have carried more weight if pc lau
+had reviewed the papers carefully and had been sure the documents were not
+there.
+
+although police contemplating an arrest are not obliged to
+investigate further when presented with an exculpatory explanation, if they
+lack grounds, further investigation may be the only practical way forward. there
+was an obvious step for pc lau to take that would have either converted the
+suspicion into reasonable grounds or demonstrated it was unfounded. shortly
+after the arrest, pc lau checked the vin on mr. liu’s suv and compared it to
+the vin for the licensed suv, and learned that the white suv and the brown suv
+were one and the same.
+
+in the absence of grounds, the arrest was
+unlawful, and infringed mr. liu’s s. 9 right against arbitrary detention:
+r.
+v. grant,
+2009 scc 32, at paras.
+55-57.
+c.
+section 10(b): failure to facilitate access to
+counsel
+
+section 10(b) of the
+charter
+provides
+that a person, “on arrest or detention”, has the right “to retain and instruct
+counsel without delay and to be informed of that right”. when a detainee
+is advised of their right to counsel and indicates a desire to exercise that
+right, the police must facilitate access at the first reasonably available
+opportunity. if access to counsel is delayed, the crown bears
+the burden of demonstrating that the circumstances could not afford a realistic
+opportunity to consult with counsel – i.e., the ability and opportunity to
+contact, seek advice from, and receive advice from counsel. delay may be
+justified by, e.g., “practical obstacles to access” and “privacy and safety
+issues”:
+r. v. taylor,
+2014 scc 50, at paras.
+24,
+27-29, 32, 34;
+r. v. edwards,
+2024 onca 135, at paras.
+36-42;
+r. v. torsney,
+2007 onca 67, at para.
+13.
+
+an asd demand suspends the obligation to comply
+with the informational and implementational components of s. 10(b) in relation
+to both the impaired-driving investigation and any other offence being
+investigated. the suspension is a reasonable limit on the detainee’s
+charter
+rights. it exists to permit relatively brief roadside screening tests. it
+terminates when those tests are completed:
+r. v. breault,
+2023 scc 9, at
+para.
+35;
+r. v. commisso,
+2020 onsc 957, paras.
+26-49.
+
+at 12:21 a.m., after police arrested mr. liu for
+unauthorized plates and the controlled substances, they read him his right to
+counsel. he said he wished to speak to a lawyer. a few minutes later, sometime
+between 12:29 a.m. and 12:35 a.m., pc chang read him his right to counsel and
+asked him if he wished to call a lawyer. mr. liu said he did, and that he
+wished to call his friend to get his lawyer’s number. pc chang also read mr.
+liu the asd demand during this interaction. at this time, while the demand was
+outstanding, mr. liu’s s. 10(b) right was suspended. police did not need to
+read mr. liu his right to counsel in relation to any of the charges. but they
+did so, and learned that mr. liu wished to exercise his right.
+
+sometime between 12:38 a.m. and 12:40 a.m., pc
+chang advised mr. liu that pc lau and pc velema would be charging him with
+refusal and that they would be completing his release documents. i am satisfied
+that at that point, the suspension of the right to counsel concluded. it
+appears that no one re-read mr. liu his right to counsel after the decision had
+been made to charge him. for the next one hour and 50 minutes, until 2:28 a.m.
+when pc lau released mr. liu from the roadside, mr. liu was never given access
+to counsel. pc lau agreed that at no point did he attempt to facilitate access.
+
+officers decided to release mr. liu at the scene
+and to forego facilitating access to counsel. mr. liu cannot be seen as having
+implicitly agreed to this approach. at 12:40 a.m., pc chang told mr. liu, “if
+you insist on talking to your lawyer, we’re going to have to take you back to
+the station”. at 12:42 a.m., pc lau said, “i’m going to let you go […] as soon
+as possible, so i’m going to give you some paperwork, okay? so you can, you can
+call your lawyer after, okay? okay?” pc lau then tried to encourage mr. liu to
+provide a sample. mr. liu indicated he wanted a lawyer. pc lau then said, “you
+want your lawyer now?” and mr. liu began complaining about how he was being
+treated. a few minutes later, at 12:46 a.m., pc lau advised mr. liu, “[s]o
+right now, my plan is to release you right away. you can call your lawyer
+after. ok? i want to let you go right here.”
+
+mr. liu asked to speak to a lawyer. he was
+entitled to do so. the crown bears the burden of justifying the nearly-two-hour
+delay on the basis that access in that time was not realistically possible. the
+crown has not discharged this burden. on pc lau’s evidence, the station was
+only minutes away, and, if mr. liu had been booked at the station, he would
+have accessed counsel within 30-to-60 minutes. instead, he was held at the
+roadside without counsel for one hour and 50 minutes. the delay occurred
+because officers had decided to release mr. liu at the roadside rather than
+provide access to counsel. they wrongly saw this as a binary choice that was theirs
+to make. their preference to release mr. liu from the scene could not supersede
+their constitutional obligation to implement mr. liu’s right to consult
+counsel, and to do so without delay.
+iv.
+remedies
+a.
+excision of evidence obtained through the
+unlawful arrest
+
+a lawful asd demand is an essential element of
+the offence of failing to comply with an asd demand under s. 320.15(1). if the
+demand is unlawful, the subject has no obligation to comply and, in failing to
+do so, does not commit the offence: see
+r. v. grant,
+1991 canlii 38 (scc), 3 s.c.r.
+139, s.c.j. no. 78, at para.
+19;
+r. v. squires,
+2002 canlii 44982 (on ca), o.j. no.
+2314 (c.a.), at para.
+24;
+r. v. breault,
+2023 scc 9, at para.
+68.
+
+the asd demand was made under s. 320.27(1)(b),
+which requires that an officer have reasonable grounds to suspect that the subject
+has alcohol (any amount) in their body and has operated a conveyance within the
+preceding three hours.
+
+the
+reasonable suspicion standard is satisfied where “objectively discernible
+facts” furnish a reasonable basis to suspect (i.e.,
+when there is a
+“reasonable possibility, rather than probability”) that the requisite facts are
+true. to determine whether this standard is met, the court must consider the
+“constellation of objectively discernible facts” available:
+r. v. chehil,
+2013 scc 4, at paras.
+26-34.
+
+pc velema made the asd demand. she testified
+that her grounds rested on mr. liu being belligerent and the fact that she detected
+an odour of alcohol on his breath when she was close to him while pc lau was
+conducting a search incident to arrest.
+
+with that information in hand, pc velema’s
+grounds were objectively reasonable. an odour of alcohol on a driver’s breath
+is sufficient to furnish grounds for an asd demand:
+r. v. lindsay
+(1999), 134 c.c.c. (3d) 463;
+r. v. carson,
+2009 onca 157;
+r. v.
+schouten,
+2016 onca 872, at paras.
+17, 26-28.
+
+however, the observation of the odour must be
+excised. it was detected only because of the unlawful arrest. the supreme court
+of canada has held that “reasonable grounds […] cannot be supplied by actions
+that involved violations of the
+charter
+”. unconstitutionally obtained
+evidence must “be excised from the factual matrix” when analyzing the
+sufficiently of grounds:
+r. v. zacharias,
+2023 scc 30, at paras.
+30, 44
+(
+per
+rowe and o’bonsawin jj.) and 107 (
+per
+martin and kasirer
+jj.).
+
+once those observations are excised, what
+remains is the belligerence, which pc velema testified was, in her mind, not
+enough to satisfy the standard of reasonable suspicion. she did not
+subjectively believe the belligerence furnished reasonable grounds to suspect
+there was alcohol in mr. liu’s body. i agree that belligerence alone would have
+been insufficient. i also note that, on my review of the video evidence, during
+the initial interactions before mr. liu was arrested, i do not see his conduct
+as belligerent.
+
+with the odour of alcohol excised, pc velema did
+not have the reasonable suspicion necessary to make the demand. the demand was
+unlawful. mr. liu’s failure to comply with the demand is not an offence. for
+this reason, he must be found not guilty.
+
+b.
+section 24(2): exclusion of the evidence of mr.
+liu’s failure to comply
+
+mr. liu asks the court to apply s. 24(2) to
+exclude evidence of his failure to provide breath samples. although i have
+concluded that the arrest was unlawful and the charge must be dismissed on that
+basis, in the event i am wrong, i have considered whether the evidence should
+be excluded based on the other two breaches, under ss. 8 and 10(b).
+
+section 24(2) directs courts to exclude evidence
+(1) “obtained in a manner that infringed or denied any of the rights or
+freedoms guaranteed by the
+charter
+” if satisfied that (2) “the admission
+of it in the proceedings would bring the administration of justice into
+disrepute”.
+1
+“obtained in a manner” and the
+actus reus
+exception
+
+defence counsel provided cases dealing with
+whether evidence of a failure to comply with an asd demand can be excluded
+under s. 24(2) or is instead subject to the
+actus reus
+exception from
+r.
+v. hanneson,
+1989 canlii 7159 (on ca). if the exception applies, it would
+place the impugned evidence beyond s. 24(2)’s reach. courts in ontario have
+grappled with how
+hanneson
+applies where a breach precedes a failure to
+provide a breath sample: see e.g.,
+r. v. soomal,
+2014 oncj 220, at
+paras.
+62-83;
+r. v. kraus,
+2015 onsc 2769;
+r. v. o’shea,
+2019 onsc 1514;
+r. v. doobay,
+2019 onsc 7272, at paras.
+60-61;
+r. v.
+odemi,
+2022 onsc 2292;
+r. v. kerr et al,
+2023 onsc 3638, at paras.
+83-111;
+r. v. mcnair,
+2024 oncj 217,
+at paras.
+83-97. the crown did not argue
+that
+hanneson
+applies in this case. defence counsel did not make
+submissions on its application.
+
+hanneson
+cannot
+be read as barring the exclusion of all evidence constituting the
+actus reus
+of an offence. a few years after it was decided, in
+r. v. cobham,
+1994 canlii 69 (scc), 3 s.c.r. 360, the supreme court excluded evidence of a refusal to
+provide a breath sample. the rule is narrower. it arose in a particular factual
+context. accused persons, whose s. 10(b) rights had been violated, made false
+statements to investigators, leading to charges of obstructing justice, and an
+application to exclude the false statements. in this scenario (1) police breached
+a person’s rights while investigating them for an offence (offence #1); (2), after
+the breach, the person allegedly committed another offence (offence #2); and
+(3), at a trial for offence #2, the person sought to rely on the breach to
+exclude evidence constituting the
+actus reus
+of offence #2.
+
+the facts of the present case are distinguishable.
+first, while
+hanneson
+involved a breach that occurred before “offence
+#2”, in this case, the s. 10(b) breach occurred after “offence #2 (the failure
+to provide a breath sample). second, although the s. 8 breach here occurred
+before mr. liu’s failure to provide breath samples,
+hanneson
+does not suggest
+how its rule would apply, if at all, in a situation involving
+charter
+breaches that occurred both before and after the creation of the evidence
+sought to be excluded. i do not believe that the s. 8 breach can be
+disentangled from the s. 24(2) analysis.
+
+if
+hanneson
+were not distinguishable, to follow
+it, i would have to disregard binding contradictory authority from the supreme
+court of canada. in
+r. v. tim,
+2022 scc 12, at para.
+78, the supreme
+court held that to determine whether evidence is subject to being excluded
+under s. 24(2) in that it was “obtained in a manner” that breached an accused
+person’s
+charter
+rights, courts must take “a purposive and generous
+approach”, examining the “entire chain of events”. “evidence will be tainted if
+the breach and the discovery of the impugned evidence are part of the same
+transaction or course of conduct”. the court further held that the necessary
+connection may be satisfied by a connection that is “temporal, contextual,
+causal or a combination of the three”: “[a] causal connection is not required”.
+the court rejected the premise of bright-line rules in this context: “there is
+‘no hard and fast rule for determining when evidence obtained following the
+infringement of a
+charter
+right becomes too remote”.
+
+hanneson
+is
+inconsistent with
+tim
+in at least two ways. first, a categorical rule
+prohibiting the exclusion of certain types of evidence conflicts with the
+supreme court’s flexible articulation of the “obtained in a manner” threshold. second,
+the rule in
+hanneson
+arose from a concern regarding the absence of a
+causal connection between a breach and the evidence sought to be excluded: see
+r.
+v. ha,
+2010 onca 433, at paras.
+6-8;
+kerr et al, at paras.
+90-92,
+102-04. in
+tim, the supreme court held that a causal connection is not
+required.
+
+tim
+sets out the
+principles i must consider to determine whether the evidence of mr. liu’s failure
+to provide a breath sample is capable of being excluded under s. 24(2). there
+is a sufficient connection between each breach and the impugned evidence such
+that the evidence should be seen as having been obtained in a manner that
+infringed mr. liu’s
+charter
+rights. the ss. 8 and 10(b) breaches are
+contextually and temporally connected to the evidence mr. liu seeks to exclude.
+the breaches formed part of the same transaction and course of conduct as the
+discovery of the evidence.
+2
+grant
+analysis
+
+pursuant to
+r. v. grant,
+2009 scc 32, the
+remaining question is whether admission or exclusion of the evidence would
+better serve the “overall repute of the justice system, viewed in the long
+term”. the analysis starts from the conclusion that a breach has occurred, “and
+seeks to ensure that evidence obtained through that breach does not do further
+damage to the repute of the justice system”:
+grant, at paras. 68-70. the
+analysis considers three factors: (1) the seriousness of the
+charter
+-infringing
+state conduct; (2) the impact of the breach on the accused’s
+charter
+-protected
+interests; and (3) society’s interests in an adjudication of the case on its
+merits:
+grant, at para. 71.
+a)
+seriousness of the breach
+
+i find that the first factor strongly favours
+exclusion of the evidence.
+
+the search of the suv was not a serious s. 8 breach
+but was also neither trivial nor technical. pc lau could not identify any
+authority he had to search the suv when he opened the door. he testified, “i do
+not view it to be a search”. the existence of a driver’s reasonable expectation
+of privacy in a motor vehicle has long been settled law: see e.g.
+r. v.
+belnavis,
+1997 canlii 320 (scc), 3 s.c.r. 341, at para.
+19. pc lau’s ignorance of
+charter
+rights enhances the seriousness of the breach. i cannot find the breach was
+made in good faith. pc lau testified he suspected a far more serious offence
+had been committed (auto theft), and approached the investigation in a more
+aggressive manner than he would for an ordinary investigation into unauthorized
+plates. i am satisfied that the search flowed from this aggression. pc lau had
+a hunch and pursued it without regard to mr. liu’s rights.
+
+the s. 10(b) breach was serious. mr. liu asked
+to speak to counsel multiple times. the police took no steps to facilitate
+access to counsel. they chose to release him from the scene and held him without
+access to counsel for nearly one hour and 50 minutes while preparing paperwork.
+police unilaterally chose to prioritize their administrative preference over
+mr. liu’s
+charter
+rights. comments made to mr. liu to the effect that if
+he chose to exercise his rights, he would have to be brought to the station,
+tended to undermine mr. liu’s
+charter
+rights, discouraging him from
+exercising them.
+
+the breaches arise from independent forms of
+misconduct in the same course of conduct. their effects must be considered
+cumulatively: see
+r. v. zacharias,
+2023 scc 30, at para.
+49;
+r. v.
+truong,
+2025 onca 69, at paras.
+38-44;
+r. v. james,
+2025 onca 213,
+at para.
+37. while i do not find that police deliberately breached mr. liu’s
+rights, i am satisfied that both breaches demonstrate that police were unaware
+of, or disregarded, mr. liu’s rights. collectively, the misconduct must be seen
+as serious.
+b)
+impact on mr. liu’s interests
+
+the second factor also strongly favours
+exclusion of the evidence.
+
+the s. 8 breach had only a moderate impact on
+mr. liu’s
+charter
+-protected interests. by opening the door, police were
+able to make observations of the inside of the suv. those observations were a
+but-for cause of a
+llca
+search of mr. liu’s suv. the impact of the search is
+mitigated by the fact that driving is a heavily-regulated activity, and there
+were likely a variety of ways in which the suv’s door could have been opened
+lawfully. for example, officers could have made a mandatory asd demand under s.
+320.27(1) without reasonable grounds to suspect he had alcohol in his body.
+this likely would have led mr. liu to open the door to exit the suv.
+
+the impact of the s. 10(b) breach was
+significant. the court of appeal explained in
+r. v. rover,
+2018 onca
+745, at para.
+45, that
+lengthy delays can be inherently harmful:
+the right to counsel is a lifeline for
+detained persons. through that lifeline, detained persons obtain, not only
+legal advice and guidance about the procedures to which they will be subjected,
+but also the sense that they are not entirely at the mercy of the police while
+detained. the psychological value of access to counsel without delay should not
+be underestimated.
+
+mr. liu was left in a vulnerable state: under
+arrest for cdsa charges and apparently about to be charged for refusing to
+provide a breath sample. he wanted legal advice. police subtly discouraged him
+from asserting his right to counsel: he was told that if he insisted on speaking
+to a lawyer, he would have to submit to attending the police station. police
+held him for nearly two hours at the roadside. the investigation was
+effectively over, so there was little risk that further investigative action
+would call on mr. liu to decide whether to cooperate. however, throughout this
+time, the prospect of the additional charge was left hanging over him. although
+pc chang had advised mr. liu that the other officers were going to charge him
+with failing to provide the breath sample, pc lau gave mr. liu an additional
+opportunity to provide a sample. it appears that no one advised mr. liu that he
+was indeed being charged until he was released at around 2:28 a.m. he had been
+told he had the right to speak to a lawyer and had asked to exercise that right.
+nothing was done to satisfy his request. all these factors combined to create
+an atmosphere of confusion and uncertainty in which access to legal advice was crucial.
+i note that the impact of the s. 10(b) breach would have been more significant
+if mr. liu had given an incriminatory statement while in custody, or if the breach
+had led to the discovery of evidence sought to be excluded.
+
+the cumulative impact on mr. liu’s
+charter
+-protected
+interests was significant.
+c)
+society’s interests in an adjudication on
+the merits
+
+the third factor strongly favours admission of
+the evidence. drinking and driving offences are serious crimes that jeopardize
+public safety and that must be deterred and denounced through effective
+prosecution and punishment:
+r. v. ramage,
+2010 onca 488, at paras.
+74-75. the impugned evidence proves that mr. liu failed to provide a breath
+sample. in the clearest example of his failure to comply with the demand, when
+an asd was presented to him and he was asked if he would provide a sample, he
+responded, “of course not”. excluding the evidence would gut the crown’s case.
+d)
+balancing
+
+the
+final stage of the
+grant
+analysis involves assessing and balancing each
+of the three factors, “focussing on the long-term integrity of, and public
+confidence in, the administration of justice”:
+tim, at para.
+98. the
+question is whether admitting the evidence would bring the administration of
+justice into disrepute:
+beaver, at para.
+133. in this balancing, where
+the first two factors strongly favour exclusion, the third factor “will seldom,
+if ever” lead to inclusion; if only one of the first two factors strongly
+favours exclusion, the third factor becomes important. it always pushes, to
+varying degrees, in favour of inclusion. it does so strongly “where the
+evidence is reliable and critical to the crown’s case”:
+r. v. mcguffie,
+2016 onca 365, at paras.
+62-63.
+
+i
+conclude that the evidence of mr. liu’s failure to provide a breath sample must
+be excluded. the first two factors strongly favour exclusion. the police
+conduct in this case – unlawfully searching mr. liu’s suv and holding him for nearly
+two hours without taking any steps to facilitate access to a lawyer – is, when
+viewed cumulatively, serious misconduct that significantly impaired his
+charter
+-protected
+interests. although members of the public would be concerned about the
+exclusion of evidence critical to the crown’s case on a serious charge relating
+to drinking and driving, i find the public would be more concerned by the
+court’s failure to take steps to disassociate itself from the conduct at issue.
+admitting the evidence would do more harm than excluding it.
+v.
+disposition
+
+the
+charter
+motion is allowed. police
+infringed mr. liu’s rights under ss. 8, 9 and 10(b) of the
+charter. the
+odour of alcohol must be excised from the officers’ grounds to make the asd
+demand. in the absence of that evidence, the asd demand was unlawful. a lawful
+demand is an essential element of the charge.
+
+in the alternative, if the arrest was lawful, the
+ss. 8 and 10(b) breaches require that the evidence of mr. liu’s failure to
+comply with the breath demand be excluded under s. 24(2). without that
+evidence, the crown cannot prove that mr. liu failed or refused to comply with
+the breath demand – another essential element of the offence.
+
+both excision and exclusion lead to the same
+result: the charge must be dismissed. mr. liu will be found not guilty.
+released: october 22, 2025
+signed:
+justice michael perlin
+
+mr. liu was charged with two counts of possession under the
+controlled drugs
+and substances act, s.c. 1996, c. 19. mid-trial, at the crown’s invitation,
+i dismissed those charges.
+
+at the time, officers also had identified authority for a search of mr. liu
+under the
+llca, having found the open beer can in the suv. however, the
+beer-can observation was made only through the unlawful search. it must be
+excised from an analysis of, and was the only basis for, the grounds for the
+llca search.

@@ -1,0 +1,160 @@
+source url: https://www.canlii.org/en/on/oncj/doc/2025/2025oncj252/2025oncj252.html
+
+ontario court of
+ justice
+citation:
+r. v. cheng, 2025 oncj
+252
+date: 2025·05·07
+newmarket
+between:
+his
+ majesty the king
+—
+ and —
+kit
+wah cheng
+judgment
+evidence and submissions
+heard: may 7, 2025.
+delivered: may 7,
+2025
+ms. nicole cadman................................................................................. 
+counsel for the crown
+mr. kit wah cheng..................................................................................................... defendant
+kenkel j.:
+introduction
+
+mr. cheng was on a bail with several
+conditions including a term prohibiting him from attending within 100m of the
+residence of his daughter and his former partner. the crown alleges that while
+subject to that condition, mr. cheng attended their residence and dropped off a
+cardboard box and several bags. mr. cheng’s daughter called the police. the
+incident was captured on the home surveillance video system.
+
+mr. cheng is charged with failing to comply
+with a condition of his bail contrary to s 145(5)(a).
+the home surveillance video
+
+mr. cheng’s former partner testified that
+her home has a surveillance camera system that points towards the back entrance
+and back yard of their home. she identified the home surveillance video showing
+her backyard area on june 15, 2024 which was marked as exhibit #2. she
+confirmed the date and times displayed on her home video are generally accurate.
+she testified that the video exhibit represents what was on the sim card in her
+system. she agreed with the question put by mr. cheng suggesting that there is
+a gap in the video. she disagreed that she altered the video in any way before
+it was given to the police.
+
+the accused’s daughter testified that she
+was home at the time of the incident. she confirmed that it happened on june
+15, 2024, as recorded on the video. she was in her back yard when she noticed a
+familiar figure. she walked out to look, then quickly returned inside her
+residence. she saw mr. cheng come into her backyard carrying boxes. she called
+police as she was afraid for her safety.
+
+mr. cheng challenges the video evidence
+marked as exhibit #2 and the screenshot from a second video camera in the same
+system marked as exhibit #3. he submits that the gap shown in exhibit 2
+suggests the evidence might have been tampered with. he submits the clothing shown
+in the video and photograph are inconsistent, another indication that the evidence
+is fake. he submits that it would have been easy for the complainants to
+falsify the dates and represent video of prior attendances when he was not
+bound by the bail as having occurred when he was. given the family breakup and
+the existence of another matter before the courts, mr. cheng submits that both
+his former partner and his daughter have a motive to fabricate evidence.
+
+i find the credible evidence of mr. cheng’s
+former partner and his daughter proves the authenticity and integrity the video
+and the screen shot photograph. the record is relevant and probative of the
+central issue at trial. there is no rule that requires it be excluded. the
+video was admitted on that basis.
+
+i agree with mr. cheng that the video
+includes a gap prior to his appearance. i agree with mr. cheng that the
+emergence of “deepfake” evidence and the ability to manipulate electronic
+records means this court must carefully consider the weight to be given these
+exhibits.
+
+the gap was reasonably explained in the
+evidence of mr. cheng’s daughter. the home surveillance system activates in
+response to movement. the video captured the daughter looking to her right as
+she described in her evidence, then leaving the backyard to step towards the
+parking lot as she continued looking. the video showed her turn back towards
+her house. the gap starts there, in the period when she was out of her yard,
+away from the camera. within the same minute the video was again activated by
+movement when mr. cheng entered the back yard.
+
+the second circumstance of concern to mr.
+cheng was the alleged discrepancy between the clothing shown in the video
+captured by camera 1 of the system, and the screenshot taken from the camera 2
+video. comparing the video and the screenshot, it’s plain that mr. cheng’s
+clothing is exactly the same in both.
+
+finally, mr. cheng submits that these
+exhibits could have been taken from prior lawful visits with the date altered
+to put it within the period when he was prohibited from attending.
+
+there’s no evidence of prior lawful visits.
+mr. cheng’s former partner didn’t know how mr. cheng found out where they
+lived. if there were prior lawful visits, there’s no evidence that the sim card
+described by the witness would hold such videos long enough for the date to be
+altered as suggested by mr. cheng.
+
+mr. cheng’s daughter testified that she
+called police after she saw her father come into the back yard of her
+residence. she knew he was on a condition at the time not to attend within 100m
+of her home. police attended and at their direction she uploaded a copy of the
+video marked as exhibit 2 and a screenshot from the second camera video marked
+as exhibit 3. she gave her evidence in a credible and straightforward manner.
+her evidence was logical and internally consistent. i accept her testimony regarding
+the video records including the manner in which they were provided to the
+police without alteration.
+
+i find the crown has proved that both
+records were made on the day in question as described by mr. cheng’s daughter.
+there’s no evidence that could reasonably diminish the weight to be given to that
+evidence.
+the bail condition
+
+the crown tendered the original information
+23-91111083 and the release dated april 29, 2024 as evidence that the accused
+was subject to the bail condition specified on the date of the alleged breach.
+
+the documents show that mr. cheng was
+subject to a bail which included a condition that he not attend within 100m of
+the residence of his daughter and his former partner. he was subject to that
+recognizance on the date alleged.
+the breach
+
+his former partner testified that she and
+mr. cheng separated in 2017. as a result of another incident, mr. cheng was
+subject to a bail condition not to attend at the home she shares with her
+daughter.
+
+on june 15, 2024, mr. cheng’s daughter
+called the police alleging that mr. cheng attended the home. she directly
+witnessed the alleged breach. she saw her father approach her home and she
+returned inside as she feared for her safety. her father left a box and several
+bags in the backyard. mr. cheng’s former partner testified that the box and
+bags contained some of his daughter’s childhood toys.
+
+the daughter’s evidence was credible and
+logical. her testimony was consistent with her actions that day. her evidence was
+consistent with the external video record and screenshot from the second video.
+both show mr. cheng attended the backyard as she described. both cameras have
+direct views of mr. cheng and in the camera 2 screenshot he looked directly at
+the camera. the credible evidence as a whole proves beyond any doubt that mr.
+cheng attended the home of his daughter and former partner on june 15, 2024
+contrary to the boundary condition of his bail that was active at that time.
+lawful excuse
+
+there’s no evidence that could provide a
+lawful excuse.
+conclusion
+
+considering the evidence as a whole, i find
+that the crown has proved the charge alleged. i can find no evidence that
+reasonably could leave a doubt in that regard.
+delivered: may 7, 2025.
+justice joseph f. kenkel
